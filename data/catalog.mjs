@@ -1,0 +1,295 @@
+import {districtFunding} from './district-funding.mjs';
+// The two Guidedog editions and the map are generated from these editorial records.
+// A source proves the stated facts, not that applications are currently open.
+export const checked = '2026-11-04';
+export const districts = [
+  ['pudong','Pudong','浦东新区','Foundation models, chips, biomedicine and advanced manufacturing','大模型、芯片、生物医药与先进制造','pudong.gov.cn','358644.html','Pudong Science, Technology and Economy Commission','浦东新区科技和经济委员会','+86 21 68811090','2026 AI application call closed on 31 August 2026. The published route covers qualifying 2025 model and agent expenditure; duplicate public funding is excluded.','2026年人工智能应用项目申报已于2026年8月31日截止。该通知面向符合条件的2025年模型与智能体支出，已获其他财政资金资助的项目不得重复申报。'],
+  ['xuhui','Xuhui','徐汇区','Foundation models, embodied AI and research commercialization','大模型、具身智能与科研成果转化','xuhui.gov.cn','03def1a04486409a9e5454351bd166e9','Xuhui industry development authority','徐汇区产业主管部门','','The embodied AI policy identifies robot models, algorithms, data and operating systems. Its evaluated support ceilings are not automatic startup awards.','具身智能政策覆盖机器人大模型、算法、数据与操作系统。经综合评估的支持上限并非初创企业自动获得的补贴。'],
+  ['yangpu','Yangpu','杨浦区','University spinouts, brain-inspired AI and independent AI founders','高校衍生企业、类脑智能与人工智能创业','shyp.gov.cn','db116dceccb04e28b1a22c5b22612c63','Yangpu science and technology authority','杨浦区科技主管部门','','Brain-inspired AI policy names Changyang Campus and Bay Valley. A separate May 2026 OPC policy supports communities around Fuxing Island; an action plan does not itself constitute a cash award.','类脑智能方案明确长阳创谷与湾谷科技园布局。2026年5月另有支持复兴岛等超级个体社区的政策；行动方案本身不等同于现金补助。'],
+  ['minhang','Minhang','闵行区','University commercialization, robotics, BCI and engineering','高校成果转化、机器人、脑机接口与工程技术','shmh.gov.cn','38bbef698b904adabd605170e7720a4d','Minhang science and technology authority','闵行区科技主管部门','','The enterprise innovation policy runs from 1 September 2025 to 31 August 2030. New conversion enterprises may qualify for up to RMB 500,000 annually, capped at RMB 1.5 million over three years and 50% of eligible investment.','企业科技创新政策有效期为2025年9月1日至2030年8月31日。新设科技成果转化企业符合条件的，可按转化投入50%获得每年最高50万元、三年累计最高150万元资助。'],
+  ['jiading','Jiading','嘉定区','Automotive intelligence, sensors, MEMS and pilot production','汽车智能、传感器、微机电系统与中试','jiading.gov.cn','992800bb77b6492b97ba4a9c14c09944','Jiading science and technology authority','嘉定区科技主管部门','','The municipal science commission documents the joint role of SITRI and InnoSpring in connecting research, pilot production and incubation. The 2026 district service program provides policy interpretation and project coordination.','市科委记录了工研院与新微创源联动科研、中试与孵化的工作。2026年区级企业服务活动提供政策解读与项目协调。'],
+  ['baoshan','Baoshan','宝山区','Robotics, advanced equipment and industrial deployment','机器人、高端装备与工业应用','shbsq.gov.cn','34476b15d0614403b245e3f8c87e8a40','Baoshan industry and science authorities','宝山区产业与科技主管部门','','The district is developing a robotics and advanced equipment cluster. Separate industrial-park admission and district support reviews are needed; a factory demonstration is not a startup funding call.','全区正在发展机器人及高端装备产业集群。园区准入与政策资助需分别审核；工厂示范项目不等于面向初创企业的资金申报。'],
+  ['putuo','Putuo','普陀区','Industrial testing, intelligent software and international innovation','工业检测、智能软件与国际创新','shpt.gov.cn','969703.html','Putuo science and technology authority','普陀区科技主管部门','','Wuning Science Park connects industrial research, testing and technology transfer. The district incubator register also lists the China-Israel Innovation Hub; tenancy and investment require separate terms.','武宁科技园连接工业研发、检测与技术转移。区级孵化基地名录还列有中以创新园；入驻与投资须分别确认条款。'],
+  ['changning','Changning','长宁区','Digital business, AI applications and cross-border services','数字商业、人工智能应用与跨境服务','shcn.gov.cn','1316910.html','Changning science and technology authority','长宁区科技主管部门','','The August 2026 district account identifies Digital Silicon Alley, Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and MAKE021 as parts of its incubation landscape. Confirm the correct operator before submitting.','2026年8月区级报道列出数字硅巷、虹桥智域、东虹桥国际青年科创中心与马克沪MAKE021等孵化载体。申请前应确认具体运营主体。'],
+  ['jingan','Jing\'an','静安区','Enterprise AI, data services and digital commerce','企业人工智能、数据服务与数字商业','jingan.gov.cn','1b9b0944-356c-4561-b157-502a9e1af84d','Jing\'an science and economy authority','静安区科技和经济委员会','','The 2026-2028 AI application demonstration plan focuses on industry integration and talent. Its stated objectives must be distinguished from implementing rules and currently accepting applications.','2026至2028年人工智能创新应用示范区方案聚焦产业融合与人才。规划目标应与实施细则及正在受理的申报事项区分。'],
+  ['huangpu','Huangpu','黄浦区','Fintech, clinical services, design and consumer applications','金融科技、临床服务、设计与消费应用','shhuangpu.gov.cn','01633cced4e24e7b95ef1fa870b2aacd','Huangpu science and entrepreneurship services','黄浦区科技与创业服务部门','','The 2025-2026 Zhangjiang Huangpu Park plan emphasizes fintech and clinical research services. Huangpu ChuangKa is a separate youth entrepreneurship support route; check eligibility and current workstation availability.','2025至2026年张江黄浦园方案侧重金融科技与临床研究服务。黄浦创卡是另行实施的青年创业支持渠道，须核验资格与当前工位情况。'],
+  ['hongkou','Hongkou','虹口区','Shipping technology, green finance and intelligent inspection','航运科技、绿色金融与智能检测','shhk.gov.cn','b3f4914652a443c89bd1d1bd1320021d','Hongkou science and economy authority','虹口区科技和经济委员会','','The 2025-2026 Hongkou Park plan assigns a coordinated incubation and investment role to the district state-owned Beikechuang group. Ask for the operating carrier and current application notice, rather than relying on older subsidy summaries.','2025至2026年虹口园方案明确北科创集团在载体统筹、孵化与投融资方面的职责。应索取具体运营载体与现行申报通知，避免依赖旧版补贴概述。'],
+  ['songjiang','Songjiang','松江区','G60 innovation, industrial software and advanced manufacturing','G60科创、工业软件与先进制造','songjiang.gov.cn','3249.shtml','Songjiang G60 innovation services','松江区G60科创服务部门','','The G60 Sci-Tech Innovation Valley publishes innovation and resource-matching initiatives. We distinguish the nine-city corridor from Shanghai district eligibility: a partner elsewhere in the corridor does not establish Songjiang qualification.','G60科创走廊发布创新与资源对接举措。九城市合作范围与上海区级资格不同，走廊其他城市的合作伙伴不能据此取得松江申报资格。'],
+  ['qingpu','Qingpu','青浦区','Huawei-linked research, digital systems and regional collaboration','华为相关研发、数字系统与区域协作','shqp.gov.cn','1283025.html','Qingpu science and technology authority','青浦区科学技术委员会','','Xicen links the Lianqiu Lake research center with an emerging innovation district. The official 2025 reply discusses early investment and technology transfer, but proposed funds are not treated here as open startup applications.','西岑联动练秋湖研发中心与科创片区。2025年官方答复讨论早期投资及技术转移，本书不将研究设立的基金视为正在受理的创业项目。'],
+  ['jinshan','Jinshan','金山区','Drones, new materials and low-altitude systems','无人机、新材料与低空系统','jinshan.gov.cn','7eeec00799b34f9b9288a57ce0a4ef85','Jinshan science and technology authority','金山区科技主管部门','','The 2025-2026 park plan names Jinshan New Materials Incubator, East China UAV Base and Bay Area incubation carriers. It connects testing and industrialization, subject to park admission and the applicable aviation permissions.','2025至2026年园区方案列出金山新材料孵化器、华东无人机基地与湾区孵化载体，衔接检测及产业化；须分别办理园区准入与适用的航空许可。'],
+  ['fengxian','Fengxian','奉贤区','Robotics, beauty and health technology, advanced manufacturing','机器人、美丽健康科技与先进制造','fengxian.gov.cn','d5bd556bb359470a8b16b91430f4794a','Fengxian economic commission','奉贤区经济委员会','','The robot industry measures cover qualifying registered companies working on intelligent robots. Oriental Beauty Valley provides a separate beauty and health industry context. Match the project to the correct policy owner and application batch.','智能机器人产业措施面向符合条件的注册企业。东方美谷构成另一条美丽健康产业路径。项目须匹配相应主管部门与申报批次。'],
+  ['chongming','Chongming','崇明区','Ecological technology, smart agriculture and marine systems','生态科技、智慧农业与海洋系统','shcm.gov.cn','98a1bb8a73c54cb785296ad1835845e1','Chongming science and technology authority','崇明区科学技术委员会','+86 21 69695910','The 2025-2026 Chongming Park plan supplies current strategic context. The separate 2024 science innovation subsidy measures expired on 31 December 2025; we do not present those ceilings as current entitlements.','2025至2026年崇明园方案提供战略背景。另一项2024年科技创新资助办法已于2025年12月31日到期，本书不将其额度作为现行权益。'],
+].map(([id,name,zh,focus,focusZh,domain,source,owner,ownerZh,phone,note,noteZh])=>({id,name,zh,focus,focusZh,domain,source,owner,ownerZh,phone,note,noteZh}));
+
+const entries=[];
+function add(id,name,zh,district,category,sectors,summary,summaryZh,source,options={}) {
+  entries.push({id,name,zh,district,category,sectors,summary,summaryZh,source,...options});
+}
+
+// A located office is used only where its street address is supported by a source.
+// Other map points are labelled as approximate district locations in both editions.
+add('mosu','Shanghai Model Speed Space','上海模速空间','xuhui','Incubator',['Software AI'],
+  'A specialist large-model incubation and acceleration community on the West Bund. Its operator lists several zones; admission, workspace, compute support and investment are separate decisions.',
+  '西岸专业大模型孵化加速社区。运营方列有多个片区；入驻、办公空间、算力支持与投资属于不同事项。','opensmc.com',
+  {website:'https://www.opensmc.com/',address:'Zone A, 180 Longtai Road, Xuhui',addressZh:'徐汇区龙台路180号A区',coords:[121.469,31.166],support:'Services / possible incentives',workflow:'incubation',featured:true});
+add('model-community','Zhangjiang Model Community','张江模力社区','pudong','Incubator',['Software AI','Hardware AI'],
+  'A Zhangjiang AI community identified in the municipal AI implementation plan. It links model developers and industry users. Ask the operator for the specific model, data and compute package and its reimbursement rules.',
+  '市级人工智能实施方案明确的张江人工智能社区，连接模型研发方与行业用户。应向运营方确认模型、语料及算力支持包和报销规则。','77b163177e954e8c929f90ec43fc92b7',
+  {workflow:'incubation',featured:true});
+add('neobay','Grand neoBay / Zero Kilometer Incubator','大零号湾／零公里孵化器','minhang','Incubator',['Hardware AI','Software AI'],
+  'A university-linked commercialization route connecting early technology projects with incubation. SJTU documents the Zero Kilometer launch and its AI, integrated-circuit, manufacturing and low-carbon participants.',
+  '依托高校的科技成果转化路径，连接早期项目与孵化资源。交大公开记录零公里孵化器启动及人工智能、集成电路、制造和低碳领域的参与情况。','global.sjtu.edu.cn/hmt/news/view/1737',
+  {workflow:'incubation',featured:true});
+add('895','Zhangjiang Hi-Tech 895 Incubator','张江高科895孵化器','pudong','Incubator',['Hardware AI','Chips'],
+  'A deep-technology incubator with chip-testing and industrialization context in Zhangjiang. Incubation and the associated angel investment pathway must be reviewed as different agreements.',
+  '位于张江的硬科技孵化载体，具备芯片测试及产业化生态。孵化与相关天使投资须作为不同协议审核。','5ae78c565d2449cf96e42595a8e5422e',
+  {workflow:'incubation',featured:true});
+add('synlonx','Synlonx Brain-Computer Interface Incubator','司南脑机智能孵化器','minhang','Incubator',['Hardware AI','Health'],
+  'A brain-computer interface incubation platform launched in Huacao. Suitable conversations include electrodes, neural interfaces, sensing, rehabilitation and translational engineering; wet-lab and device requirements need explicit confirmation.',
+  '在华漕启动的脑机接口孵化平台。可对接电极、神经接口、传感、康复与转化工程；实验空间及器械要求需明确确认。','38d480e4573a49778830ea605991e599',
+  {workflow:'hardware'});
+add('innospring','InnoSpring / SITRI incubation ecosystem','新微创源／上海微技术工研院孵化生态','jiading','Incubator',['Hardware AI','Chips','Sensors'],
+  'The municipal science commission records joint work between InnoSpring and SITRI. This is a route for beyond-Moore technology, shared technical services and pilot production rather than a promise of free fabrication.',
+  '市科委记录了新微创源与工研院的联动工作，适合超越摩尔技术、公共技术服务与中试对接，不代表免费流片。','992800bb77b6492b97ba4a9c14c09944',
+  {workflow:'hardware'});
+add('atlatl','ATLATL Zhangjiang Center','ATLATL飞镖张江中心','pudong','Incubator',['Health','AI for Science'],
+  'A shared research and incubation environment in Zhangjiang Pharma Valley. Laboratory services and its innovation seed-fund relationships are relevant to AI-enabled biology; access and investment are negotiated separately.',
+  '张江药谷的共享研发与孵化环境。实验室服务及创新种子基金关系适合人工智能生物研究；使用服务与投资须分别协商。','atlatl.center/about/locations',
+  {website:'https://www.atlatl.center/about/locations/',workflow:'hardware'});
+add('nestbio','Nest.Bio Shanghai Innovation Platform','巢生上海创新孵化平台','pudong','Incubator',['Health','AI for Science'],
+  'Recognized in the December 2025 high-quality incubation expansion, with synthetic biology and cell and gene therapy interests. Confirm current Shanghai facilities, admission and laboratory pricing with the operator.',
+  '2025年12月高质量孵化器扩围名单中的平台，关注合成生物及细胞与基因治疗。应向运营方确认上海设施、入驻与实验室收费。','0346bd371e2442f9864f3d6df510b46d',
+  {workflow:'hardware'});
+add('innospace','InnoSpace','创智空间InnoSpace','yangpu','Accelerator',['Software AI','Industry'],
+  'An innovation service organization focused on corporate open innovation and startup incubation and acceleration. Bring a concrete industrial use case; program participation does not imply a corporate purchase order.',
+  '专注大企业开放创新及科技企业孵化加速的创新服务机构。对接时应提供明确产业场景；参与项目不代表企业采购承诺。','innospaceplus.com.cn',
+  {website:'https://www.innospaceplus.com.cn/',workflow:'corporate'});
+add('xnode','XNode','创极无限XNode','pudong','Accelerator',['Software AI','Industry'],
+  'A cross-border innovation operator supporting market entry, corporate partnerships and pilots. Its Shanghai office is a useful intake route for international teams. Scope, fees, deliverables and investment should be stated separately.',
+  '提供跨境市场进入、企业合作与试点服务的创新运营机构。上海办公室可作为国际团队对接入口；须分别明确服务范围、费用、交付及投资。','thexnode.com/cn/contact-us',
+  {website:'https://thexnode.com/english/',email:'contact@thexnode.com',phone:'+86 21 55698983',address:'4F, Building A, Kehai Building, 800 Naxian Road, Pudong',addressZh:'浦东新区纳贤路800号科海大楼A座4楼',coords:[121.608,31.176],workflow:'corporate',featured:true});
+add('plugplay','Plug and Play China, Shanghai','璞跃中国上海中心','pudong','Accelerator',['Software AI','Hardware AI','Mobility'],
+  'The operator lists its Yangtze River Delta innovation center at Zhangjiang Guochuang Center. Corporate innovation, office space and venture investment have different admission and commercial terms.',
+  '运营方公布长三角区域创新中心位于张江国创中心。企业创新、办公空间及风险投资的准入与商业条款不同。','pnpchina.com/about/office-space',
+  {website:'https://www.pnpchina.com/',address:'2F, Building 1, Phase II, Zhangjiang Guochuang Center, 899 Dangui Road',addressZh:'浦东新区丹桂路899号张江国创中心二期1幢2楼',coords:[121.617,31.211],workflow:'corporate'});
+add('pwc','PwC x Zhangjiang Healthcare Accelerator','普华永道张江数字医疗加速营','pudong','Accelerator',['Health','Software AI'],
+  'PwC describes a digital healthcare acceleration initiative supported by Pudong and Zhangjiang. The evidence establishes the initiative; a currently accepting cohort and its commercial terms require confirmation.',
+  '普华永道介绍了浦东及张江支持的数字医疗加速项目。来源证实项目存在，当前是否招募及商业条款仍需确认。','pwccn.com/en/services/entrepreneurial',
+  {website:'https://www.pwccn.com/en/services/entrepreneurial-and-private-business/startup-accelerator.html',workflow:'corporate'});
+add('wuning','Wuning Science Park','上海武宁科技园','putuo','Technology park',['Hardware AI','Industry'],
+  'An industrial research and testing environment operated by the Shanghai Electrical Apparatus Research Institute group. Robot and industrial-internet testing are useful entry points for hardware validation.',
+  '由上海电器科学研究所集团运营的工业研发与检测园区。机器人及工业互联网检测可作为硬件验证对接方向。','969703.html',
+  {address:'Wuning Road area, Putuo; confirm the service building',addressZh:'普陀区武宁路片区，服务楼宇需确认',workflow:'hardware'});
+add('china-israel','China-Israel Innovation Hub, Shanghai','中以（上海）创新园','putuo','Technology park',['Software AI','Hardware AI'],
+  'A district-listed carrier for international collaboration in intelligent manufacturing, AI, robotics and information technology. It supports market, capital and industrial connections; the listing does not guarantee cash support.',
+  '区级名录中的国际合作载体，涉及智能制造、人工智能、机器人及信息技术，可对接市场、资本与产业资源；名录不构成现金资助承诺。','170391.html',
+  {address:'Lane 111, Qilianshan Road, Putuo',addressZh:'普陀区祁连山路111弄',coords:[121.37,31.283],workflow:'incubation'});
+add('digital-silicon','Digital Silicon Alley / Hongqiao innovation carriers','数字硅巷／虹桥创新载体','changning','Incubator',['Software AI'],
+  'Changning identifies a layered group of digital incubation and OPC communities. We treat this record as a district routing entry, not a single interchangeable operator or a guaranteed free-workspace offer.',
+  '长宁公布分层数字孵化及超级个体社区。本条为区级对接入口，不将不同运营方混同，也不承诺免费工位。','1316910.html',
+  {workflow:'incubation'});
+add('changyang','Changyang Campus','长阳创谷','yangpu','Technology park',['Software AI','Hardware AI'],
+  'The Yangpu brain-inspired intelligence plan identifies Changyang Campus as a southern core, paired with Bay Valley in the north. Suitable for neuromorphic computing and commercial AI collaborations.',
+  '杨浦类脑智能方案将长阳创谷作为南部核心，与北部湾谷科技园联动，适合类脑计算及人工智能商业合作。','db116dceccb04e28b1a22c5b22612c63',
+  {workflow:'incubation'});
+add('fuxing','Fuxing Island maker / OPC communities','复兴岛创客与OPC社区','yangpu','Incubator',['Software AI'],
+  'A May 2026 district policy supports AI-enabled independent founders and maker communities. Ask for an approved community operator, the qualifying activity definition, housing conditions and any service or equity agreement.',
+  '2026年5月区级政策支持人工智能赋能的超级个体及创客社区。应确认合资格运营方、活动认定、住房条件及服务或股权协议。','00772935',
+  {workflow:'incubation'});
+add('maqi ao'.replace(' ',''),'Maqiao AI Innovation Zone','马桥人工智能创新试验区','minhang','Technology park',['Hardware AI','Robotics'],
+  'The Minhang 2025-2026 park plan links Grand neoBay R&D with Maqiao manufacturing. A useful pathway from a robot prototype to supply-chain and production conversations.',
+  '闵行2025至2026年园区方案连接大零号湾研发与马桥制造，可作为机器人样机走向供应链及生产对接的路径。','9f1fbc635cbf4749aa3f384e47d80aea',
+  {sourceFallback:'9f1fbc',workflow:'hardware'});
+add('robot-park','Shanghai Robot Industrial Park','上海机器人产业园','baoshan','Technology park',['Hardware AI','Robotics'],
+  'A robotics industrial park in Gucun, Baoshan. Suitable for industrial robotics supply chains and deployment; we distinguish it from ABB facilities in Pudong and from the broader Baoshan industrial park.',
+  '位于宝山顾村的机器人产业园，适合工业机器人供应链及应用对接；应与浦东ABB设施及宝山工业园区区分。','上海机器人产业园地名专项规划',
+  {workflow:'hardware'});
+add('baoshan-industrial','Baoshan Industrial Park','宝山工业园区','baoshan','Technology park',['Industry','Hardware AI'],
+  'The park committee publishes an official contact and provides industrial admission, project attraction, policy coordination and business services. This is a separate park from the Gucun robot industrial park.',
+  '园区管委会公布官方联系方式，负责产业准入、项目招商、政策协调及企业服务，与顾村机器人产业园为不同园区。','department.html?infoid=502d',
+  {phone:'+86 21 66879800',address:'1688 Jinshi Road, Baoshan',addressZh:'宝山区金石路1688号',workflow:'hardware'});
+add('g60-xinchuang','G60 Songjiang Xinchuang Industrial Park','G60松江信创产业园','songjiang','Technology park',['Software AI','Chips'],
+  'An officially profiled industrial park for domestic information-technology innovation. For an AI infrastructure team, establish compatibility requirements, lab access and real customer demand before choosing space.',
+  '官方介绍的信创产业园。人工智能基础设施团队宜先明确兼容适配要求、实验室使用与实际客户需求，再决定办公空间。','1367184b6c5547f0a5cd0572f3951b9b',
+  {workflow:'hardware'});
+add('xicen','Xicen Science and Innovation Center','西岑科创中心','qingpu','Technology park',['Hardware AI','Software AI'],
+  'A Qingpu innovation area centered on Huawei Lianqiu Lake and Xicen development. It offers an ecosystem connection, not automatic access to Huawei laboratories, procurement or investment.',
+  '以华为练秋湖及西岑园区为核心的青浦科创片区。提供生态对接机会，不自动获得华为实验室、采购或投资资格。','1283025.html',
+  {workflow:'corporate'});
+add('uav-base','East China UAV Base','华东无人机基地','jinshan','Technology park',['Hardware AI','Drones'],
+  'The Jinshan park plan includes test-flight services and a low-altitude incubation platform. Airspace, testing and airworthiness services require separate confirmation from physical workspace.',
+  '金山园区方案涵盖试飞服务及低空孵化平台。空域、测试与适航服务须与物理空间分别确认。','7eeec00799b34f9b9288a57ce0a4ef85',
+  {workflow:'hardware'});
+add('jinshan-materials','Jinshan New Materials Incubator','金山新材料孵化器','jinshan','Incubator',['Materials','Hardware AI'],
+  'A materials incubation route linked to Carbon Valley Green Bay. Relevant to sensors, electronic materials and manufacturing inputs; specify process equipment and environmental constraints in the inquiry.',
+  '与碳谷绿湾联动的新材料孵化路径，适合传感、电子材料及制造投入品；咨询时应说明工艺设备与环境要求。','7eeec00799b34f9b9288a57ce0a4ef85',
+  {workflow:'hardware'});
+add('oriental-beauty','Oriental Beauty Valley','东方美谷','fengxian','Technology park',['Health','Industry'],
+  'A Fengxian beauty and health industry ecosystem. Relevant AI applications include formulation research, inspection, consumer analysis and supply-chain tools; clinical or laboratory access is a separate arrangement.',
+  '奉贤美丽健康产业生态，相关人工智能场景包括配方研究、检测、消费者分析及供应链工具；临床或实验设施须另行安排。','4242e7830c464a5fb0fe98b951d9a2cc',
+  {workflow:'corporate'});
+add('chongming-park','Zhangjiang Chongming Park','张江高新区崇明园','chongming','Technology park',['Climate','Agriculture'],
+  'The 2025-2026 reform plan sets a framework for ecological innovation. We use the district authority for matching smart agriculture, ecological sensing and marine technology projects to a concrete carrier.',
+  '2025至2026年改革方案构建生态创新框架。智慧农业、生态传感及海洋科技项目可通过区级主管部门对接具体载体。','98a1bb8a73c54cb785296ad1835845e1',
+  {workflow:'incubation'});
+add('hongkou-park','Zhangjiang Hongkou Park / Beikechuang','张江虹口园／北科创','hongkou','Technology park',['Software AI','Industry'],
+  'The park plan gives Beikechuang a coordinating role in incubation, technology transfer and investment services. Request the relevant sub-park and named operating company for a project-specific response.',
+  '园区方案明确北科创在孵化、技术转移及投融资服务方面的统筹作用。应索取对应子园及具体运营公司，以获得针对项目的答复。','b3f4914652a443c89bd1d1bd1320021d',
+  {workflow:'incubation'});
+add('huangpu-chuang ka'.replace(' ',''),'Huangpu ChuangKa','黄浦创卡','huangpu','Incubator',['Software AI','Consumer'],
+  'A youth entrepreneurship service route described by Shanghai HRSS, including up to six months of free workstations in the reported offer. Current capacity, applicant eligibility and additional subsidies must be checked separately.',
+  '上海人社报道的青年创业服务路径，报道权益含六个月免费工位；当前容量、申请资格及其他补贴须分别核实。','t0035_1437331',
+  {workflow:'incubation'});
+add('lin-gang','Lin-gang Science and Innovation City','临港科创城','pudong','Technology park',['Hardware AI','Chips','Software AI'],
+  'The January 2026 plan identifies Dishui Lake AI and IC innovation ports and staged development targets. Lin-gang is a functional area, not Shanghai\'s seventeenth district. Establish the administering boundary before seeking incentives.',
+  '2026年1月方案明确滴水湖AI及IC创新港与分阶段发展目标。临港为功能区，并非上海第十七个区；申请支持前应确认实际管理范围。','a0d2d4e5531145fcb18cce45ebcfb216',
+  {workflow:'hardware',featured:true});
+add('ic-design','Shanghai IC Design Industrial Park','上海集成电路设计产业园','pudong','Technology park',['Chips','Hardware AI'],
+  'A Zhangjiang chip design ecosystem connecting design and industrial services. A strong starting point for AI chip teams, with specific EDA, IP, tape-out, packaging and testing access negotiated with providers.',
+  '张江芯片设计产业生态，连接设计及产业服务。适合人工智能芯片团队；EDA、IP、流片、封装及测试须与供应商逐项确认。','708f661c2b46458996844fab153a0a41',
+  {workflow:'hardware'});
+add('icc','Shanghai Integrated Circuit Technology and Industry Promotion Center','上海集成电路技术与产业促进中心','pudong','Research platform',['Chips','Hardware AI'],
+  'An IC technical-service entry point that also publishes innovation-voucher guidance. Eligible voucher-covered services are selected on the official platform; a voucher is not a general equipment purchase budget.',
+  '集成电路技术服务入口，同时公布创新券指引。可抵扣服务应在官方平台核验，创新券并非通用设备采购预算。','icc.sh.cn/list_32',
+  {website:'https://www.icc.sh.cn/list_32/',phone:'+86 21 61609878 ext. 217',email:'fhan@icc.sh.cn',workflow:'hardware'});
+add('shlab','Shanghai Artificial Intelligence Laboratory','上海人工智能实验室','xuhui','Research platform',['Software AI','AI for Science'],
+  'A research institution for foundational and applied AI. Its published general contact supports initial routing; open-source resources, collaboration and recruitment are separate pathways, not a generic startup grant.',
+  '开展人工智能基础及应用研究的科研机构。公开综合联系邮箱可用于初步对接；开源资源、科研合作与招聘为不同路径，并非通用创业补贴。','shlab.org.cn/aboutus',
+  {website:'https://www.shlab.org.cn/aboutus',email:'comm@pjlab.org.cn',address:'L1, International Media Port, 129 Longwen Road, Xuhui',addressZh:'徐汇区龙文路129号国际传媒港L1楼',coords:[121.468,31.162],workflow:'research',featured:true});
+add('tongji-autonomy','Tongji Autonomous Intelligent Unmanned Systems Center','同济大学上海自主智能无人系统科学中心','pudong','Research platform',['Hardware AI','Mobility'],
+  'A research collaboration route for autonomous systems. The published office contact is in Zhangjiang. A technical proposal should identify the platform, experiment, data and proposed industrial partner.',
+  '自主系统研究合作入口，公开办公地址位于张江。技术方案应说明平台、实验、数据及拟合作产业方。','srias.tongji.edu.cn/17839',
+  {website:'https://srias.tongji.edu.cn/',email:'srias@tongji.edu.cn',address:'3F, Building 2, Tongji Zhangjiang Base, 398 Lianchuang Road',addressZh:'浦东新区联创路398号同济张江基地2号楼3楼',workflow:'research'});
+add('tongji-pai','Tongji PAI Research Center','同济大学PAI研究中心','jiading','Research platform',['Hardware AI','Sensors'],
+  'The center publishes an industry collaboration entry for localization, sensing, communication and trusted coordination. We use its cooperation contact rather than assuming access through general university admissions.',
+  '中心公布定位、感知、通信及可信协同领域的产学研合作入口。本书使用合作联系渠道，不将普通招生入口视为产业合作入口。','ai.tongji.edu.cn/contact',
+  {website:'https://ai.tongji.edu.cn/contact.html',email:'lingtang@tongji.edu.cn',address:'Zhixin Building, Tongji Jiading Campus, 4800 Caoan Highway',addressZh:'嘉定区曹安公路4800号同济大学智信馆',workflow:'research'});
+
+add('roche','Roche Accelerator','罗氏加速器','pudong','Corporate program',['Health','AI for Science'],
+  'Roche describes its Shanghai innovation accelerator for the China ecosystem. Relevant to healthcare and AI-enabled discovery teams. Scientific fit, space, collaboration, funding and IP terms are distinct questions.',
+  '罗氏介绍其位于上海、服务中国创新生态的加速器，适合医疗健康及人工智能研发团队。科研匹配、空间、合作、资金与知识产权须分别确认。','roche.com/innovation/structure/cicor/roche-accelerator',
+  {website:'https://www.roche.com/innovation/structure/cicor/roche-accelerator',workflow:'corporate'});
+add('sapio','SAP.iO Foundry Shanghai','SAP.iO上海加速器','pudong','Corporate program',['Software AI','Industry'],
+  'The 2021 launch described an equity-free intelligent-manufacturing accelerator. It is included as a historical corporate route; the source does not establish a 2026 Shanghai intake.',
+  '2021年启动公告介绍了不索取股权的智能制造加速器。本条作为历史企业合作路径收录；来源不能证明2026年上海仍在招募。','news.sap.cn/2021/12/120301',
+  {website:'https://news.sap.cn/2021/12/120301/',status:'Historical / confirm continuation',workflow:'corporate',funding:'Equity-free services'});
+add('abb','ABB open innovation / Shanghai robotics','ABB开放创新／上海机器人生态','pudong','Corporate program',['Hardware AI','Robotics'],
+  'ABB publishes open-innovation and startup collaboration routes. Its May 2025 Shanghai AI event is evidence of ecosystem activity, not an always-open startup accelerator cohort. Propose a measurable robotics use case.',
+  'ABB公布开放创新及初创企业合作路径。2025年5月上海人工智能活动证明生态活动存在，不代表长期开放的加速营。可提交可量化的机器人应用方案。','abb.com/global/en/company/innovation/open-innovation',
+  {website:'https://www.abb.com/global/en/company/innovation/open-innovation',workflow:'corporate'});
+add('droidup','DroidUp Ecosystem Accelerator','卓益得生态加速器','pudong','Corporate program',['Hardware AI','Robotics'],
+  'The December 2025 Zhangjiang Robot Valley account reports the accelerator launch. We include it as a robotics industry route and require direct confirmation of intake, pilot access, investment and hardware resources.',
+  '2025年12月张江机器人谷报道记录其启动。本条作为机器人产业对接路径收录，招募、试点、投资与硬件资源均须直接确认。','a6c9850d756b4798abf615ba0beda92b',
+  {workflow:'corporate'});
+add('paddle','Shanghai AI Public Technology Service Platform','上海人工智能公共技术服务平台','pudong','Corporate program',['Software AI'],
+  'The PaddlePaddle-linked platform publishes AI training and ecosystem resources. Explore its technical services and developer events; confirm whether a specific training or compute offer carries fees.',
+  '飞桨相关平台公布人工智能培训及生态资源，可对接技术服务与开发者活动；具体培训或算力服务是否收费须确认。','shanghai.paddlepaddle.org.cn',
+  {website:'https://shanghai.paddlepaddle.org.cn/',workflow:'corporate'});
+add('huawei-ai','Yangtze River Delta AI+ Joint Innovation Center','长三角AI+联合创新中心','qingpu','Corporate program',['Software AI','Hardware AI'],
+  'An official July 2026 account records the center beginning operations in Qingpu. Confirm the operator, technical scope, Huawei ecosystem interface and actual startup admission before describing a benefit package.',
+  '2026年7月官方报道记录中心在青浦投入运营。应确认运营方、技术范围、华为生态接口及初创企业实际准入，不能自行推定支持包。','9bea754d5bbb45ddb5cf59194efffe9f',
+  {workflow:'corporate'});
+
+// Global programs are relevant routes, but never plotted as Shanghai offices.
+add('nvidia','NVIDIA Inception','英伟达初创加速计划','citywide','Global program',['Software AI','Hardware AI'],
+  'A free AI startup ecosystem program with no application fee, membership fee or equity requirement. It is not a cash grant. China eligibility, product access and partner benefits must be checked for the specific company.',
+  '无需申请费、会员费或股权的人工智能初创生态计划，并非现金补助。应针对企业确认中国地区资格、产品可用性及合作伙伴权益。','nvidia.com/en-us/startups',
+  {website:'https://www.nvidia.com/en-us/startups/',workflow:'credits',funding:'Equity-free services',status:'Program published; eligibility review'});
+add('ms-startups','Microsoft for Startups','微软初创企业计划','citywide','Global program',['Software AI'],
+  'The current program provides Azure-related startup resources through online application. We do not transfer historic Shanghai accelerator terms or global credit ceilings to China-region accounts. Validate the legal entity and region first.',
+  '现行计划通过在线申请提供Azure相关创业资源。本书不将历史上海加速器条款或全球积分上限套用于中国区账户，须先核实主体与地区。','learn.microsoft.com/en-us/startups/overview',
+  {website:'https://learn.microsoft.com/en-us/startups/overview',workflow:'credits',funding:'Cloud credits',status:'Regional eligibility to confirm'});
+add('aws-activate','AWS China Activate','亚马逊云科技中国区Activate','citywide','Global program',['Software AI'],
+  'A China-region startup offer with company, customer and participating investor or incubation relationship conditions. Credits offset eligible services; they are not cash and should not be confused with the separate global AWS offer.',
+  '中国区创业支持要求符合企业、客户及合作投资或孵化关系等条件。积分抵扣合资格服务，并非现金，也不同于全球AWS计划。','amazonaws.cn/en/activate',
+  {website:'https://www.amazonaws.cn/en/activate/',workflow:'credits',funding:'Cloud credits',status:'Regional eligibility to confirm'});
+
+add('stefg','STEFG Angel Fund','上海市大学生科技创业基金会天使基金','yangpu','Investor',['Software AI','Hardware AI','Industry'],
+  'The foundation offers distinct interest-free loan and temporary equity support routes for eligible Chinese university entrepreneurs. Nationality, age, ownership, full-time work and company age conditions apply.',
+  '基金会为符合条件的中国籍高校创业者提供免息贷款及临时股权两种资助。适用国籍、年龄、持股、全职创业与企业成立年限条件。','fund.stefg.org/Angel/Intro',
+  {website:'https://fund.stefg.org/Angel/Intro.aspx',phone:'+86 21 55231818',address:'Room 108, Building 10, 8 Jinian Road, Yangpu',addressZh:'杨浦区纪念路8号10号楼108室',workflow:'investment',funding:'Loan / temporary equity'});
+add('ssci','Shanghai Leading Industry Funds','上海三大先导产业母基金','citywide','Investor',['Software AI','Hardware AI','Chips','Health'],
+  'A state-backed fund platform for leading industries, with AI interests including general AI, computing systems, humanoids, vertical models and edge AI. A fund-of-funds commitment is not a startup award or a direct application entitlement.',
+  '面向先导产业的国资基金平台，人工智能方向包括通用智能、算力系统、人形机器人、垂类模型及端侧智能。母基金出资不等于创业补助或直接申报资格。','ssci-leadingfund.com',
+  {website:'https://www.ssci-leadingfund.com/',workflow:'investment',funding:'Equity investment'});
+add('pudong-seed','Pudong AI Seed Fund','浦东人工智能种子基金','pudong','Investor',['Software AI','Hardware AI'],
+  'Announced in July 2025 at a target size of RMB 2 billion and an initial RMB 500 million tranche. The figure is fund scale, not a per-startup cheque. Seek the manager through Pudong\'s official ecosystem route.',
+  '2025年7月公布总规模20亿元、首期5亿元。该数字为基金规模，并非每家企业投资额。可经浦东官方生态渠道确认管理人。','english.pudong.gov.cn/2025-07/30',
+  {workflow:'investment',funding:'Equity investment'});
+add('embodied-fund','Shanghai Embodied AI Fund','上海具身智能基金','pudong','Investor',['Hardware AI','Robotics','Sensors'],
+  'A state-backed embodied-intelligence investment route announced in April 2025, including core components and edge chips. Confirm the current manager and investment mandate; no uniform cheque size or ownership percentage is established here.',
+  '2025年4月公布的国资具身智能投资路径，涉及核心零部件与边缘芯片。须确认现任管理人及投资范围；本书不推定统一投资额或持股比例。','0df6032bc73b4dbe9d363086336ca821',
+  {workflow:'investment',funding:'Equity investment'});
+add('stvc','Shanghai STVC Group','上海科技创业投资集团','citywide','Investor',['Chips','Health','Software AI'],
+  'An established science and technology investment group within Shanghai\'s state-capital ecosystem. Use its official portfolio and manager information to identify the appropriate investment vehicle and stage.',
+  '上海国资生态中的科技投资机构。应通过官网投资组合及管理人信息匹配具体基金与阶段。','shstvc.com.cn/en',
+  {website:'https://www.shstvc.com.cn/en/',workflow:'investment',funding:'Equity investment'});
+add('qiming','Qiming Venture Partners','启明创投','pudong','Investor',['Software AI','Health','Hardware AI'],
+  'A venture-capital contact route with a published Shanghai office. Send a concise investment case and confirm sector and stage fit. The general contact inbox is not a guarantee of an investment review.',
+  '公布上海办公室的风险投资机构。可提交简明投资方案并确认行业与阶段匹配；综合邮箱不保证立项评审。','qimingvc.com/en/contact',
+  {website:'https://www.qimingvc.com/en/contact',email:'contactus@qimingvc.com',phone:'+86 21 61016522',address:'Room 3901, Jinmao Tower, 88 Century Boulevard, Pudong',addressZh:'浦东新区世纪大道88号金茂大厦3901室',coords:[121.506,31.236],workflow:'investment',funding:'Equity investment'});
+
+add('caohejing','Caohejing Development Zone','漕河泾开发区','xuhui','Technology park',['Software AI','Hardware AI','Industry'],
+ 'The park operator publishes enterprise and intellectual-property service routes. Confirm the specific sub-park and operating address; the Caohejing name covers multiple development locations.',
+ '园区运营方公布企业及知识产权服务入口。漕河泾涉及多个开发地点，应确认具体子园及经营地址。','chj.shlingang.com/chj/yqfw',
+ {website:'https://chj.shlingang.com/',phone:'+86 21 64850000',email:'chj@caohejing.com',address:'1015 Caobao Road, Shanghai',addressZh:'上海市漕宝路1015号',workflow:'incubation'});
+add('zizhu','Zizhu National Hi-Tech Park / ET Space','紫竹国家高新区／创业孵化器ET空间','minhang','Incubator',['Software AI','Hardware AI','Industry'],
+ 'The park-owned incubator connects startups with the software, avionics and manufacturing ecosystem. Its operator describes industry challenges and collaborative innovation; current admission, space and fees require an intake discussion.',
+ '高新区所属孵化器连接软件、航空电子及制造生态。运营方介绍产业挑战及协同创新，当前入驻、空间与费用须通过受理咨询确认。','zizhupark.com/innovation/view/68',
+ {website:'https://www.zizhupark.com/innovation/view/68',workflow:'incubation'});
+add('hongqiao-youth','Hongqiao International Youth Innovation Hub','虹桥国际青年创业港','minhang','Incubator',['Software AI','Industry'],
+ 'Opened in July 2026 as a youth innovation and business-service hub in Hongqiao. The reported workstation offer depends on qualification and available space, not simply arrival at the transport hub.',
+ '2026年7月启用的虹桥青年创业及企业服务枢纽。报道的工位权益取决于资格及可用空间，并非抵达交通枢纽即可享有。','8f316e7b4dcc43d48067f450e11fc80e',
+ {workflow:'incubation'});
+add('east-hongqiao','East Hongqiao International Youth Innovation Center','东虹桥国际青年科创中心','changning','Incubator',['Software AI'],
+ 'Changning\'s official May 2026 account describes a hub for AI-enabled independent founders, combining incubation, AI services, talent support and global business resources. Confirm the current operator\'s selection and service terms.',
+ '长宁2026年5月官方报道介绍人工智能超级个体创新枢纽，结合孵化、人工智能服务、人才及全球商业资源。须核验当前运营方遴选及服务条款。','2052ca9d55084c329ebec8eec82848b8',
+ {workflow:'incubation'});
+add('jlabs','JLABS Shanghai','强生创新JLABS上海','pudong','Corporate program',['Health','AI for Science'],
+ 'An operator-listed life-sciences incubation site in Zhangjiang with an application route. For AI-enabled healthcare, clarify scientific fit, laboratory requirements, residency pricing, IP and any separate challenge or investment terms.',
+ '运营方列明的张江生命科学孵化基地，提供申请入口。人工智能医疗项目应确认科研匹配、实验需求、入驻费用、知识产权及独立挑战赛或投资条款。','jnjinnovation.com/locations/jlabs/jlabs-shanghai',
+ {website:'https://jnjinnovation.com/locations/jlabs/jlabs-shanghai',workflow:'corporate'});
+add('bayer','Bayer Co.Lab Shanghai','拜耳Co.Lab上海','pudong','Corporate program',['Health','AI for Science'],
+ 'Bayer\'s September 2024 Shanghai site launch describes shared laboratories and office space for early biotech teams in SH-INNO Park. Confirm available residency and collaboration terms; the historic capacity is not a current vacancy count.',
+ '拜耳2024年9月上海基地启动资料介绍SH-INNO园区内早期生物科技团队的共享实验及办公空间。应确认当前入驻与合作条款，历史容量不是实时空位。','colab.bayer.com/en/page/co-lab-shanghai-en',
+ {website:'https://colab.bayer.com/en/page/co-lab-shanghai-en',workflow:'corporate'});
+add('siemens','Siemens startup / Xcelerator ecosystem','西门子初创企业与Xcelerator生态','citywide','Global program',['Software AI','Hardware AI','Industry'],
+ 'Siemens publishes a startup connection and marketplace route for industrial solutions, with a separate China Xcelerator platform. Marketplace onboarding and industrial partnerships are distinct from a funding award.',
+ '西门子公布工业解决方案的初创连接及市场平台路径，中国另有Xcelerator平台。市场入驻与产业合作不同于资金资助。','siemens.com/zh-cn/company/innovation/startups/connect',
+ {website:'https://www.siemens.com/zh-cn/company/innovation/startups/connect/',workflow:'corporate'});
+add('bmw','BMW Group Startup Garage','宝马集团Startup Garage','citywide','Global program',['Mobility','Hardware AI','Software AI'],
+ 'BMW describes a venture-client route for evaluating startup solutions for products, services and internal processes. Validate the responsible China business owner and pilot requirements; venture-client activity is not necessarily equity investment.',
+ '宝马介绍通过风险客户模式评估用于产品、服务及内部流程的初创解决方案。须确认中国业务负责人及试点要求；风险客户活动不一定涉及股权投资。','bmwgroup.com/en/innovation/innovation-network/startup-garage',
+ {website:'https://www.bmwgroup.com/en/innovation/innovation-network/startup-garage.html',workflow:'corporate'});
+
+export const entities=entries;
+
+export const funding=[
+  {id:'innovation-voucher',name:'Shanghai Science and Technology Innovation Vouchers',zh:'上海市科技创新券',type:'Reimbursement',equity:'No equity',district:'citywide',amount:'Up to 50% of eligible orders; annual cap RMB 300,000 per company or RMB 100,000 per team',amountZh:'合资格订单最高50%；企业每年最高30万元，团队每年最高10万元',eligibility:'Qualifying technology SMEs and innovation teams using approved platform services. Service-provider qualification is separate from applicant eligibility.',eligibilityZh:'使用平台认可服务的合资格科技型中小企业及创新团队。服务机构资格不等同于申请方资格。',status:'Policy in force; confirm service and order',source:'9e1982a4cd544e89b0ffddb1a108d5b6',apply:'https://kjcxq.stcsm.sh.gov.cn/',deadline:'Policy: 1 Sep 2025 to 31 Aug 2030',workflow:'voucher'},
+  {id:'sme-innovation',name:'Technology SME Innovation Fund',zh:'科技型中小企业技术创新资金',type:'Grant',equity:'No equity',district:'citywide',amount:'Award and matching support depend on the annual call',amountZh:'资助及配套额度以年度申报通知为准',eligibility:'Shanghai non-listed technology companies: prior-year revenue up to RMB 200 million; R&D at least RMB 500,000 and 5% of revenue; no more than 500 employees; R&D staff at least 10%. The current call may add conditions.',eligibilityZh:'上海非上市科技企业：上年营收不超过2亿元，研发不少于50万元且占营收5%，职工不超过500人，研发人员不少于10%；年度通知可能另有条件。',status:'Policy in force; call not confirmed open',source:'fc3d21624b984ba1af4ffbc873287068',apply:'https://stcsm.sh.gov.cn/',deadline:'Policy: 9 Dec 2025 to 8 Dec 2030',workflow:'grant'},
+  {id:'pudong-model',name:'Pudong AI model and agent application support, 2026',zh:'浦东2026年大模型等AI新技术应用项目',type:'Reimbursement',equity:'No equity',district:'pudong',amount:'Support rate and amount subject to applicable implementing rules',amountZh:'支持比例与额度以适用实施细则为准',eligibility:'Qualifying Pudong-benefiting projects with eligible 2025 model or agent expenses. Required filing or registration conditions apply; previously publicly funded projects cannot duplicate this support.',eligibilityZh:'主要效益在浦东且具有合资格2025年模型或智能体支出的项目；适用备案或登记条件，已获其他财政资金项目不得重复申报。',status:'Closed',source:'358644.html',apply:'https://pyd.pudong.gov.cn/',deadline:'Closed 31 Aug 2026, 16:00 China Standard Time',phone:'+86 21 68811090',workflow:'pudong'},
+  {id:'minhang-conversion',name:'Minhang research commercialization support',zh:'闵行科技成果转化支持',type:'Grant',equity:'No equity',district:'minhang',amount:'New conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; up to 50% of investment',amountZh:'新设转化企业每年最高50万元，三年累计150万元，最高按转化投入50%',eligibility:'Qualifying research-result conversion in Minhang. Registration, eligible expenditure, audit and annual notice conditions must be confirmed.',eligibilityZh:'符合条件的闵行科技成果转化项目；须核验注册、合资格投入、审计及年度通知要求。',status:'Policy in force; call not confirmed open',source:'38bbef698b904adabd605170e7720a4d',apply:'https://www.shmh.gov.cn/',deadline:'Policy: 1 Sep 2025 to 31 Aug 2030',workflow:'grant'},
+  {id:'minhang-rd',name:'Minhang core technology R&D projects',zh:'闵行关键核心技术攻关',type:'Grant',equity:'No equity',district:'minhang',amount:'General: up to RMB 3m at up to 30% of R&D; major: up to RMB 10m at up to 50%',amountZh:'一般项目按研发投入最高30%、最高300万元；重大项目按最高50%、最高1000万元',eligibility:'Project classification and investment thresholds apply. This is selective R&D support, not a general startup incorporation bonus.',eligibilityZh:'适用项目分类与投资门槛，为择优研发支持，不是普遍适用的企业开办奖励。',status:'Policy in force; call not confirmed open',source:'38bbef698b904adabd605170e7720a4d',apply:'https://www.shmh.gov.cn/',deadline:'Policy through 31 Aug 2030',workflow:'grant'},
+  {id:'xuhui-embodied',name:'Xuhui embodied AI development support',zh:'徐汇具身智能产业支持',type:'Grant',equity:'No equity',district:'xuhui',amount:'Evaluated entity support ceilings: RMB 10m one-off and RMB 20m annual development support',amountZh:'经评估主体最高一次性1000万元、年度发展支持最高2000万元',eligibility:'Qualifying entities in robot models, embodied algorithms, robot data and operating systems. These headline maxima are not an ordinary startup award and require comprehensive evaluation.',eligibilityZh:'符合区域导向的机器人大模型、具身算法、数据及操作系统等主体，须综合评估；上述上限非普通创业者自动补贴。',status:'Published policy; implementing intake to confirm',source:'03def1a04486409a9e5454351bd166e9',apply:'https://www.xuhui.gov.cn/',deadline:'Confirm applicable implementing notice',workflow:'grant'},
+  {id:'stefg-loan',name:'STEFG Young Eagle Plan',zh:'天使基金雏鹰计划',type:'Loan',equity:'No equity; repayable',district:'citywide',amount:'Up to RMB 500,000; interest-free; 3 years; equal principal over 36 months',amountZh:'最高50万元，免息，资助期3年，36个月等额本金偿还',eligibility:'Chinese nationals aged at most 40 who meet the student/graduate rules; founder is the largest natural-person shareholder and legal representative; full-time startup; Shanghai company registered at most 3 years.',eligibilityZh:'符合在读或毕业生条件、40周岁及以下的中国籍创业者；须为自然人大股东与法定代表人，全职创业，上海企业成立不超过3年。',status:'Program published; eligibility review',source:'fund.stefg.org/Angel/Intro',apply:'https://fund.stefg.org/Angel/Intro.aspx',phone:'+86 21 55231818',deadline:'Confirm branch intake and review schedule',workflow:'stefg'},
+  {id:'stefg-equity',name:'STEFG Eagle Plan',zh:'天使基金雄鹰计划',type:'Equity investment',equity:'Temporary equity; original-price exit',district:'citywide',amount:'Up to RMB 800,000 for 3 years; no dividend participation; exit at original price',amountZh:'最高80万元，资助期3年，不参与分红，期满原价退出',eligibility:'Eligible technology entrepreneurs meeting the foundation rules; founder cash funding must exceed the foundation contribution. Review nominee ownership, exit obligation and documents.',eligibilityZh:'符合基金会规则的科技创业者，自筹货币资金须高于基金会出资；须审核代持、退出义务与协议。',status:'Program published; eligibility review',source:'fund.stefg.org/Angel/Intro',apply:'https://fund.stefg.org/Angel/Intro.aspx',phone:'+86 21 55231818',deadline:'Confirm branch intake and review schedule',workflow:'stefg'},
+  {id:'startup-guarantee',name:'Shanghai guaranteed startup loans',zh:'上海创业担保贷款',type:'Loan',equity:'No equity; repayable',district:'citywide',amount:'Loan ceiling and interest support depend on applicant class and current rules',amountZh:'贷款上限与贴息依申请类别及现行规则确定',eligibility:'Individual, pre-startup and enterprise routes have different residence, education, registration and employment conditions. Bank underwriting still applies; an interest subsidy does not remove principal repayment.',eligibilityZh:'个人、创业前与企业路径的居住、学历、注册及就业条件不同，仍需银行审核；贴息不免除本金偿还。',status:'Published service; current terms to confirm',source:'ee56191498d84f059a4d8e43bc2aba3a',apply:'https://zzjb.rsj.sh.gov.cn/zzjbdl/jsp/login.html',deadline:'Confirm current HRSS service rules',workflow:'loan'},
+  {id:'tax-rd',name:'R&D super-deduction',zh:'研发费用加计扣除',type:'Tax relief',equity:'No equity',district:'citywide',amount:'Eligible expensed R&D: additional 100% deduction; eligible capitalized R&D: 200% amortization basis',amountZh:'符合条件的费用化研发再加计扣除100%；资本化按成本200%摊销',eligibility:'Qualifying enterprise R&D costs with the required accounting and evidence. A tax deduction reduces taxable income; it is not cash equal to the expense or deduction.',eligibilityZh:'合资格企业研发费用，须有相应核算及证据。扣除减少应纳税所得额，并非按支出或扣除额发放现金。',status:'Published tax guidance; applicability review',source:'t479502.html',apply:'https://shanghai.chinatax.gov.cn/',deadline:'Annual tax filing and applicable rules',workflow:'tax'},
+  {id:'tax-hnte',name:'High and New Technology Enterprise tax rate',zh:'高新技术企业所得税优惠',type:'Tax relief',equity:'No equity',district:'citywide',amount:'15% corporate income tax for qualifying recognized enterprises',amountZh:'符合认定条件的高新技术企业减按15%征收企业所得税',eligibility:'Recognition and continued compliance are required. Review IP, personnel, R&D, revenue mix and annual reporting; not all AI companies qualify.',eligibilityZh:'须通过认定并持续合规，审核知识产权、人员、研发、收入结构及年度报告，并非所有人工智能企业均符合。',status:'Published tax guidance; recognition required',source:'t479502.html',apply:'https://shanghai.chinatax.gov.cn/',deadline:'Recognition batches and annual filing',workflow:'tax'},
+  {id:'startup-competition',name:'Startup in Shanghai International Competition, 2026',zh:'2026创在上海国际创新创业大赛',type:'Competition',equity:'Award / investment terms vary',district:'citywide',amount:'Awards and connected investment depend on track; not guaranteed',amountZh:'奖励及对接投资依赛道确定，不保证获得',eligibility:'Domestic and overseas teams and companies under the official track rules. Competition admission, innovation funding and investor interest are separate outcomes.',eligibilityZh:'依官方赛道规则面向境内外团队与企业；参赛、创新资金及投资意向为不同结果。',status:'2026 call published; deadline check required',source:'fd6101e7ad1f4f4099e8dc69866c6935',apply:'https://www.startup-sh.cn/cyds',deadline:'Check the specific 2026 track; not labelled open',workflow:'competition'},
+  {id:'haiju',name:'Haiju Talent Global Innovation Competition',zh:'海聚英才全球创新创业大赛',type:'Competition',equity:'Award / investment terms vary',district:'citywide',amount:'Track-specific awards, introductions and services',amountZh:'各赛道奖励、资源对接与服务',eligibility:'Apply through the official competition portal and qualifying division. District selection and final competition do not establish automatic funding or immigration status.',eligibilityZh:'通过官方平台与合资格分赛区报名；区级选拔及决赛不自动产生资金或居留资格。',status:'2026 competition published; track intake to confirm',source:'hello-sh.com/haijuTalent/competition',apply:'https://www.hello-sh.com/haijuTalent/competition',deadline:'Confirm track and division dates',workflow:'competition'},
+  {id:'pujiang',name:'Magnolia Talent Plan, Pujiang Project 2026',zh:'2026白玉兰人才计划浦江项目',type:'Grant',equity:'No equity',district:'citywide',amount:'Category-specific support; consult the actual 2026 category',amountZh:'资助额按2026年具体类别确定',eligibility:'The July 2026 guide supports eligible overseas returnees through distinct categories. Scientific research and entrepreneurial routes must not be confused; host endorsement may be required.',eligibilityZh:'2026年7月指南分类支持符合条件的留学人员，科研与创业类别不同，可能需要依托单位推荐。',status:'2026 call published; not confirmed open',source:'d150177f83ef4fc7bd6d6276905939d3',apply:'https://stcsm.sh.gov.cn/',deadline:'Confirm category deadline and host review',workflow:'grant'},
+  {id:'nvidia-service',name:'NVIDIA Inception',zh:'英伟达初创加速计划',type:'In-kind services',equity:'No equity',district:'citywide',amount:'Free membership; conditional ecosystem benefits, not a cash grant',amountZh:'免费加入，生态权益附条件，并非现金资助',eligibility:'Qualifying AI startups; check incorporation, developer, age and regional conditions. Product availability and partner credits are separately governed.',eligibilityZh:'符合条件的人工智能初创企业；须核验注册、开发者、年限与地区条件，产品及合作积分另有规则。',status:'Program published; eligibility review',source:'nvidia.com/en-us/startups',apply:'https://www.nvidia.com/en-us/startups/',deadline:'Online application; regional eligibility review',workflow:'credits'},
+  {id:'aws-credit',name:'AWS China Activate credits',zh:'亚马逊云科技中国区Activate积分',type:'Cloud credits',equity:'No equity stated in offer; verify terms',district:'citywide',amount:'Package-specific promotional credits for eligible China services',amountZh:'依支持包抵扣合资格中国区云服务',eligibility:'China-established unlisted startup and qualifying new-customer / participating partner relationship. Do not substitute global AWS account rules or credit ceilings.',eligibilityZh:'在中国设立的非上市初创企业，符合新客户及合作伙伴关系要求；不能套用全球AWS账户规则或额度。',status:'Regional eligibility to confirm',source:'amazonaws.cn/en/activate',apply:'https://www.amazonaws.cn/en/activate/',deadline:'Confirm current package and expiration',workflow:'credits'},
+  {id:'azure-credit',name:'Microsoft startup cloud resources',zh:'微软创业云资源',type:'Cloud credits',equity:'Verify current agreement',district:'citywide',amount:'Offer-specific credits and technical resources',amountZh:'依当前方案提供积分与技术资源',eligibility:'Apply online and verify company, region and account eligibility. Global benefits are not represented as China-region entitlements.',eligibilityZh:'在线申请并核验企业、地区与账户资格，不将全球权益视为中国区当然权益。',status:'Regional eligibility to confirm',source:'learn.microsoft.com/en-us/startups/overview',apply:'https://learn.microsoft.com/en-us/startups/overview',deadline:'Confirm current application and credit validity',workflow:'credits'},
+  {id:'pudong-equity',name:'Pudong AI Seed Fund',zh:'浦东人工智能种子基金',type:'Equity investment',equity:'Negotiated equity',district:'pudong',amount:'Fund target RMB 2bn; first tranche RMB 500m; individual cheque not established',amountZh:'基金目标20亿元，首期5亿元；单笔投资额未确定',eligibility:'Seed-stage AI projects fitting the manager\'s mandate. The public launch does not establish a universal application form, valuation or shareholding percentage.',eligibilityZh:'符合管理人范围的种子期人工智能项目；公开发布不代表统一申请表、估值或持股比例。',status:'Fund announced; deal intake to confirm',source:'english.pudong.gov.cn/2025-07/30',apply:'https://www.pudong.gov.cn/',deadline:'Manager-led sourcing and due diligence',workflow:'investment'},
+  {id:'city-equity',name:'Leading-industry and specialist AI funds',zh:'先导产业与人工智能专项基金',type:'Equity investment',equity:'Negotiated equity',district:'citywide',amount:'Vehicle-specific investment; fund size is not startup funding',amountZh:'依具体基金投资，基金规模不等于企业获资额',eligibility:'AI, chip, healthcare and other mandate-compatible companies. Identify the direct-investment or subfund manager and review stage, domicile, return and ownership terms.',eligibilityZh:'符合人工智能、芯片、医疗等投资范围的企业；确认直投或子基金管理人及阶段、属地、收益与持股条款。',status:'Published investment platform; deal review',source:'ssci-leadingfund.com',apply:'https://www.ssci-leadingfund.com/',deadline:'Investment committee process; no guaranteed award',workflow:'investment'},
+];
+
+funding.push(
+ {id:'zhangjiang-ai-vouchers',name:'Zhangjiang AI Town compute, model and corpus support',zh:'张江AI创新小镇算力券、模型券、语料券',type:'Reimbursement',equity:'No equity',district:'pudong',amount:'Up to 100% of approved actual cost, capped at RMB 1m in each category; at most one year',amountZh:'核定实际支出最高100%，各类最高100万元，单个企业最多享受一年',eligibility:'AI companies registered and operating inside the specified town boundary, established or moved there no earlier than 1 Jan 2025. Expenses must be for qualifying model R&D or deployment; review the current quarterly guide.',eligibilityZh:'注册经营在明确小镇范围内，且成立或迁入不早于2025年1月1日的人工智能企业；支出须用于合资格模型研发应用，并审核当季指南。',status:'Quarterly scheme published; current intake to confirm',source:'355831.html',apply:'https://pyd.pudong.gov.cn/',phone:'+86 21 58811024 ext. 5091',deadline:'Quarterly claims; confirm the current batch',workflow:'voucher'},
+ {id:'municipal-ai-vouchers',name:'Shanghai AI compute, Token and corpus vouchers, 2026',zh:'2026模塑申城算力券、模型券、语料券',type:'Reimbursement',equity:'No equity',district:'citywide',amount:'Award depends on applicable category and assessment',amountZh:'支持额依适用类别及评审确定',eligibility:'Qualifying Shanghai AI model or agent developers and users purchasing eligible non-related-party services. Projects already receiving other municipal fiscal subsidy are excluded.',eligibilityZh:'在沪合资格大模型或智能体研发应用单位，采购非关联方合资格服务；已获其他市级财政补贴项目不得重复。',status:'First 2026 batch closed; later batches to verify',source:'cd1dcb1e5cb4449cbc36c69befafcc0a',apply:'https://zxzj.sheitc.sh.gov.cn/',phone:'+86 21 23119377',email:'zxzj@sheitc.sh.gov.cn',deadline:'First batch closed 27 May 2026, 16:00 China Standard Time; notice plans quarterly follow-ups',workflow:'voucher'},
+ {id:'ip-finance',name:'Shanghai IP-backed finance product directory',zh:'上海知识产权金融产品清单',type:'Loan / insurance',equity:'No equity; product obligations apply',district:'citywide',amount:'Bank and product-specific loan, insurance or trust terms',amountZh:'贷款、保险与信托条件依银行及产品确定',eligibility:'The 2026 IP bureau directory supplies borrower criteria, collateral, rates, repayment, application steps and contacts by product. IP ownership and bank assessment matter.',eligibilityZh:'2026年知识产权局清单逐项列出借款主体、担保、利率、还款、申请流程及联系方式，须核验知识产权及银行评估。',status:'2026 directory published; lender review',source:'sipa.sh.gov.cn/zscqjrfwpt',apply:'https://sipa.sh.gov.cn/zscqjrfwpt/index.html',deadline:'Product-specific',workflow:'loan'},
+ {id:'first-use',name:'First equipment, first tape-out, materials and software routes',zh:'首台套、首轮流片、首批次材料、首版次软件路径',type:'Grant / market access',equity:'No equity for qualifying public support',district:'citywide',amount:'Program-specific; no common award ceiling established',amountZh:'依具体项目确定，无统一资助上限',eligibility:'Shanghai policy identifies these routes for qualifying specialized SMEs and new products. Recognition, insurance compensation, procurement and R&D support are separate mechanisms; obtain the current call.',eligibilityZh:'上海政策列出专精特新企业及创新产品相关路径。认定、保险补偿、采购与研发支持为不同机制，应索取现行申报通知。',status:'Published route; current call to confirm',source:'7afb62949bac416386811c9c6cfaf655',apply:'https://www.sheitc.sh.gov.cn/',deadline:'Track-specific notices',workflow:'grant'}
+);
+funding.push(...districtFunding);

@@ -1,0 +1,134 @@
+// Bilingual editorial text. These pairs become Guidedog gettext translations.
+export const chapters = {
+ 'reading-the-city': {
+  title:['A city of connected possibilities','一座连接机遇的城市'],
+  intro:['Shanghai becomes easier to navigate when we follow a project from research to prototype, from prototype to a first customer, and from that customer to a repeatable business. The useful unit is a working relationship: a laboratory, a district service team, an incubation operator, a buyer or an investment manager.','把项目从科研、样机、首位客户追踪到可复制的业务，我们就能更清楚地理解上海。有效的连接来自实验室、区级服务团队、孵化运营方、采购方与投资管理人。'],
+  sections:[
+   ['A practical atlas, with a stated boundary','有边界的实用图谱',[
+    ['This edition covers all 16 administrative districts and the Ministry of Education\'s June 2026 Shanghai register of 69 ordinary higher-education institutions, including 40 undergraduate institutions and 29 diploma colleges. A separate appendix includes the 12 adult higher-education institutions. CEIBS and military institutions need separate treatment and are not silently added to the ordinary-university count.','本版覆盖16个行政区，以及教育部2026年6月上海69所普通高校名录，其中本科40所、专科29所。附录另列12所成人高校。中欧国际工商学院与军事院校需单独处理，不计入普通高校数量。'],
+    ['The program directory is a researched selection, not a claim that every organization or funding call in Shanghai has been found. District policies, university entry routes, technology parks, public platforms, private operators and corporate initiatives change independently. Unknown details remain visible.','项目目录为经研究筛选的集合，并不声称已找到上海全部机构或申报事项。区级政策、高校入口、园区、公共平台、民营运营方及企业计划各自变化，尚不明确的信息会直接标注。'],
+    ['Our research date is 4 November 2026. A policy still within its stated validity period is not necessarily accepting applications. A launch announcement proves that an initiative was announced; it does not prove that a new cohort is open.','研究核对日期为2026年11月4日。政策仍在有效期内不代表正在受理。启动公告只能证明计划曾经发布，不能证明新一期正在招募。']
+   ]],
+   ['Three geographies, many choices','三类空间，多种选择',[
+    ['The central city offers proximity to research, professional services and customers. Xuhui and Yangpu are useful starting points for model and university connections. Pudong combines Zhangjiang research, chip and biomedical activity with a distinct Lin-gang development area. These are starting hypotheses; the right operator and customer matter more than an address.','中心城区便于连接科研、专业服务与客户。徐汇和杨浦可作为模型及高校合作起点。浦东结合张江科研、芯片及生物医药生态，并包含定位不同的临港片区。这些是选址假设，合适的运营方与客户比地址更重要。'],
+    ['Minhang and Jiading help connect engineering research to industrial work. Baoshan, Songjiang, Jinshan and Fengxian offer different manufacturing contexts. Qingpu links regional collaboration and the Xicen research environment. Chongming is a distinct setting for ecological, agricultural and marine questions. The district chapters explain the evidence behind each route.','闵行与嘉定有助于连接工程研究与产业实践。宝山、松江、金山及奉贤提供不同制造环境。青浦连接区域协作与西岑研发环境。崇明适合生态、农业及海洋问题。各区章节给出相应证据。'],
+    ['Functional areas are not extra districts. Zhangjiang, Caohejing, Hongqiao, G60 and Lin-gang can cross administrative or operating boundaries. We confirm registered address, actual operations, project location and the receiving authority before assuming a policy applies.','功能区不是新增行政区。张江、漕河泾、虹桥、G60与临港具有不同管理及运营边界。适用政策前，我们先确认注册地址、实际经营、项目位置及受理部门。']
+   ]],
+   ['The magnolia and the pearl','白玉兰与明珠',[
+    ['Shanghai\'s official flower is the white magnolia, designated in 1986. Pearl white is the principal color of this atlas. Ink charcoal, mist jade and champagne gold form an editorial palette rather than an official municipal color standard. The cover is an original generated Chinese ink-style illustration, not a documentary photograph or a geographically exact skyline.','上海市花为白玉兰，1986年确定。本图谱以珍珠白为主色，辅以墨黑、雾玉与香槟金。这是编辑设计配色，并非官方城市色标准。封面为原创生成的中国水墨风格插画，不是纪实照片或精确地理景观。']
+   ]]
+  ]
+ },
+ 'software-ai': {
+  title:['Intelligence in software','软件中的智能'],
+  intro:['For a software AI team, the scarce resource is often a repeatable customer problem, a reliable evaluation set and a lawful route to useful data. A model community helps when it supplies a concrete resource or a credible introduction.','软件人工智能团队往往最需要可复制的客户问题、可靠评测集及合规数据路径。模型社区的价值在于提供具体资源或可信对接。'],
+  sections:[
+   ['Choose an entry point','选择入口',[
+    ['For model engineering and developer connections, begin with Model Speed Space, Zhangjiang Model Community, Shanghai AI Laboratory resources or a relevant university group. For enterprise deployment, compare an operator\'s actual buyer relationships with the industry requirements. For an independent founder, check the current Yangpu OPC community policy and Changning\'s published carriers.','模型工程及开发者连接可从模速空间、张江模力社区、上海人工智能实验室资源或相关高校团队入手。企业部署应核对运营方的真实采购关系与行业要求。独立创业者可核验杨浦OPC社区政策及长宁已公布载体。'],
+    ['We treat foundation models, domain models, agents, multimodal systems, industrial software, evaluation, AI security and scientific software as different businesses. An accelerator that can introduce a manufacturer may not supply a regulated financial dataset or an inference contract.','我们区分基础模型、垂类模型、智能体、多模态系统、工业软件、评测、人工智能安全与科学软件。能够介绍制造商的加速器未必能提供受监管金融数据或推理服务合同。']
+   ]],
+   ['Build the smallest credible pilot','构建最小可信试点',[
+    ['Prepare one task, a baseline, a held-out evaluation set and a target metric. State cost per completed task, latency, error handling and human review. Name the data owner, deployment environment and accountable buyer. A pilot needs an owner, a budget, acceptance criteria and a path to a production contract.','准备单一任务、基线、独立评测集与目标指标，说明每次任务成本、延迟、异常处理及人工复核，并明确数据权利人、部署环境与负责采购方。试点需要负责人、预算、验收标准及转生产合同路径。'],
+    ['Budget training, fine-tuning, inference, retrieval, storage, networking, annotation and evaluation separately. A compute reimbursement may exclude storage or networking. A model or corpus voucher may cover only an approved supplier and a specified historical cost period. Retain usage logs, invoices, contracts and payment records from the beginning.','训练、微调、推理、检索、存储、网络、标注及评测须分别预算。算力补贴可能不含存储或网络，模型及语料券可能限定供应商和支出期间。应从项目开始保存使用日志、发票、合同及付款记录。']
+   ]],
+   ['Before public deployment','公开部署之前',[
+    ['Define whether the service is an internal tool, a business-facing deployment or a public-facing generative service. Ask the relevant authority and a qualified adviser which model registration, algorithm filing, content labelling, data, sector and network requirements apply. Requirements attach to the actual service, not to an AI label on a pitch deck. This atlas supplies routing questions rather than an exhaustive legal procedure.','先定义服务属于内部工具、企业部署还是面向公众的生成式服务，再向主管部门与专业顾问核实模型登记、算法备案、内容标识、数据、行业及网络要求。要求取决于实际服务，而非路演材料中的人工智能标签。本图谱提供对接问题，不代替完整法律程序。']
+   ]]
+  ]
+ },
+ 'hardware-ai': {
+  title:['Intelligence in the physical world','物理世界中的智能'],
+  intro:['Hardware joins algorithms to materials, manufacturing tolerances, reliability and service. A beautiful prototype is the beginning of a supply chain. We follow chips, sensors, robots and autonomous systems through the facilities they need.','硬件把算法与材料、制造公差、可靠性及服务连接起来。漂亮的样机只是供应链的起点。我们按所需设施梳理芯片、传感器、机器人及自主系统。'],
+  sections:[
+   ['Chips and sensing','芯片与传感',[
+    ['For an AI chip project, prepare the architecture, workload, process choice, toolchain, IP dependencies and software support plan. Separate EDA access, licensed IP, multi-project wafer participation, full mask sets, packaging, testing and characterization. A shared lab or incubator does not automatically pay for a tape-out.','人工智能芯片项目应准备架构、工作负载、工艺选择、工具链、IP依赖及软件支持计划。分别核对EDA、授权IP、多项目晶圆、全掩模、封装、测试及表征。共享实验室或孵化器不自动承担流片费用。'],
+    ['Zhangjiang IC Design Industrial Park and the IC promotion center are initial service routes. In Jiading, the documented SITRI and InnoSpring relationship is relevant to beyond-Moore devices, sensors and pilot production. We ask for equipment, process capability, queue time, sample ownership and a written quotation.','张江集成电路设计产业园及集成电路促进中心可作为服务入口。嘉定工研院与新微创源的联动适合超越摩尔器件、传感器及中试。我们应索取设备、工艺能力、排期、样品权属及书面报价。']
+   ]],
+   ['Robots and embodied AI','机器人与具身智能',[
+    ['Separate the robot foundation model, perception, planning, control and safety architecture from motors, transmissions, tactile sensing, batteries and the mechanical platform. Test the complete system against a named use case. Demonstrations should state payload, cycle time, failure conditions, human intervention and maintenance cost.','将机器人大模型、感知、规划、控制及安全架构与电机、传动、触觉、电池及机械平台分别分析，并在具体场景验证整机。演示应说明载荷、节拍、失效条件、人工介入及维护成本。'],
+    ['Compare Minhang\'s research-to-manufacturing connection, Baoshan\'s robot industry, Wuning\'s testing services and Zhangjiang\'s robotics ecosystem. Corporate programs can provide a deployment conversation. They do not replace production qualification, applicable certification or a customer acceptance plan.','可比较闵行研发制造衔接、宝山机器人产业、武宁检测服务及张江机器人生态。企业计划可以打开应用对话，但不能替代生产资质、适用认证或客户验收方案。']
+   ]],
+   ['Other physical frontiers','其他物理前沿',[
+    ['For drones, begin with a real operating scenario and ask Jinshan\'s UAV route about test services and applicable operating permissions. For brain-computer interfaces and medical devices, separate exploratory research from regulated product development. For AI-enabled biology, confirm biosafety, instrument availability, sample handling and clinical access before renting a lab.','无人机应从真实运行场景出发，经金山无人机渠道确认测试及适用运行许可。脑机接口与医疗器械应区分探索研究与受监管产品开发。人工智能生物研发在租实验室前须确认生物安全、仪器、样本及临床资源。'],
+    ['Our hardware application pack adds a bill of materials, costed engineering milestones, manufacturing partner plan, test fixtures, reliability plan and a working demonstration. We identify what the incubator can actually supply and what the team must buy elsewhere.','硬件申请材料应增加物料清单、有成本的工程里程碑、制造合作计划、测试夹具、可靠性计划及可运行演示，明确孵化器实际提供内容与团队另行采购内容。']
+   ]]
+  ]
+ },
+ 'apply': {
+  title:['From introduction to application','从初次对接到正式申请'],
+  intro:['A useful application starts with a fit check and ends with an evidence trail. We keep one company data room, then adapt it to an incubation review, a public funding call, a corporate pilot or an investment process.','有效申请始于匹配核验，终于证据记录。我们维护统一企业资料库，再按孵化、公资申报、企业试点或投资流程调整。'],
+  sections:[
+   ['The first conversation','第一次沟通',[
+    ['We send a one-page introduction in English and Simplified Chinese: company and team, customer problem, product, evidence, current stage, Shanghai presence and the exact resource requested. We ask for the named receiving team and written current terms. A first message should be small enough to forward to the right person.','发送中英双语一页简介，包含企业团队、客户问题、产品、证据、阶段、上海情况及具体资源需求，并索取明确受理团队与现行书面条款。首封信息应简洁，便于转交合适人员。'],
+    ['Suggested subject: Shanghai ecosystem inquiry / project name / incubation, pilot or funding. Suggested request: We are developing [product] for [customer]. Our evidence is [metric or prototype]. We seek [specific resource] during [period]. Please confirm eligibility, intake dates, the application checklist, fees or equity terms, and the responsible contact.','建议主题：上海生态对接／项目名称／孵化、试点或融资。建议正文：我们正在为【客户】开发【产品】，目前证据为【指标或样机】，计划于【期间】申请【具体资源】。请确认资格、受理日期、材料清单、收费或股权条件及负责联系人。']
+   ]],
+   ['The shared data room','共用资料库',[
+    ['Company: business licence, unified social credit code, articles, cap table, beneficial ownership, bank details, registered and operating addresses, prior public awards and related-party list. Team: founder roles, full-time commitment, relevant education, eligibility evidence and lawful work status where required.','企业：营业执照、统一社会信用代码、章程、股权表、实际受益人、银行信息、注册及经营地址、已获财政支持与关联方名单。团队：创始人职责、全职投入、相关学历、资格证据及必要工作身份。'],
+    ['Technology: product note, demo, evaluation, IP ownership and licences, patent and software records, data rights, security controls and sector approvals where applicable. Commercial: pilot evidence, customer references, pricing, procurement path and unit economics. Finance: management accounts, annual audit where required, R&D ledger, contracts, invoices and payment evidence.','技术：产品说明、演示、评测、知识产权及授权、专利软件记录、数据权利、安全控制及适用行业许可。商业：试点证据、客户证明、定价、采购路径与单位经济性。财务：管理报表、必要年审、研发台账、合同、发票及付款凭证。']
+   ]],
+   ['Four different decisions','四种不同决策',[
+    ['Incubation: fit inquiry, application pack, technical or commercial review, written service and space terms, admission and onboarding. Confirm workspace rent, service fee, compute price, access restrictions, IP and any investment rights before signing.','孵化：匹配咨询、申请材料、技术或商业评审、书面服务及空间条款、录取及入驻。签约前确认租金、服务费、算力价、访问限制、知识产权及任何投资权利。'],
+    ['Public grant or reimbursement: current notice, eligibility check, platform account, legal-entity authorization, evidence submission, district or host review, expert review, award or contract, reporting, acceptance and payment. This sequence is a general guide; the linked notice governs the actual workflow.','财政资助或报销：现行通知、资格核验、平台账户、法人授权、证据提交、区级或单位审核、专家评审、立项或签约、报告、验收及拨付。这是一般流程，具体以所链通知为准。'],
+    ['Corporate pilot: business owner, problem definition, data and IP agreement, scoped pilot, procurement and legal review, acceptance, production decision. Investment: manager fit, deck, meeting, diligence, term sheet, investment committee, definitive agreements and closing. Neither begins with a guaranteed outcome.','企业试点：业务负责人、问题定义、数据及知识产权协议、限定试点、采购及法务审核、验收、转生产决策。投资：管理人匹配、材料、会议、尽调、条款书、投委会、正式协议及交割。两者均不保证结果。']
+   ]],
+   ['An accelerator\'s four-week field program','加速器四周实地计划',[
+    ['Week 1: shortlist two districts, one research partner and two operators using sector fit and written eligibility. Week 2: meet the operator and a plausible buyer; inspect facilities. Week 3: define one pilot and a costed evidence plan. Week 4: submit the relevant application or investment pack and record the next decision date. This is an editorial planning model, not an official service promise.','第一周：按行业匹配与书面资格筛选两个区、一家科研伙伴及两家运营方。第二周：会见运营方与潜在客户，实地查看设施。第三周：明确一个试点及有成本的证据计划。第四周：提交相应申请或投资材料并记录下一决策日。本安排为编辑规划模型，不是官方服务时限。'],
+    ['We maintain an application ledger with owner, authority, policy version, evidence period, deadline in China Standard Time, submission receipt, duplicate-funding exclusions, reporting duty and next action. A calendar alert is useful only after the correct deadline and timezone have been confirmed.','申请台账应记录负责人、主管部门、政策版本、证据期间、中国标准时间截止日、提交回执、重复资助限制、报告义务及下一行动。日历提醒应在确认日期与时区后设置。']
+   ]]
+  ]
+ },
+ 'funding-guide': {
+  title:['Capital, with its conditions attached','资金及其附带条件'],
+  intro:['We compare what a program pays for, when value arrives, what must be repaid and whether ownership changes. The label "equity-free" alone answers too little.','我们比较项目支付什么、何时兑现、是否偿还及是否改变股权。仅凭“不占股”标签不足以判断。'],
+  sections:[
+   ['Six mechanisms','六类机制',[
+    ['A grant is conditional public or philanthropic support. A reimbursement pays against approved expenditure, often after spending. A voucher or credit can offset only eligible services. A loan must be repaid. A tax benefit changes a tax calculation. Equity investment exchanges capital for ownership or related contractual rights.','补助为附条件公共或公益支持。报销依据认可支出，往往先支后补。券或积分仅抵扣合资格服务。贷款须偿还。税收优惠改变税额计算。股权投资以资金换取所有权或相关合同权利。'],
+    ['A competition may combine prizes, services and investment introductions, each with separate conditions. A subsidized desk is an in-kind benefit, not unrestricted cash. A government-backed fund is still an investment vehicle when it takes equity. An interest-free loan remains debt.','比赛可能结合奖金、服务及投资对接，各有条件。补贴工位属于实物服务，不是自由现金。政府背景基金占股时仍为投资工具。免息贷款仍属于债务。']
+   ]],
+   ['Build a layered funding plan','构建分层资金方案',[
+    ['Before registration, check whether team-level vouchers, university proof-of-concept support or competition routes accept the actual applicant. After incorporation, compare the company\'s district and activity with public calls. For a prototype, prioritize real lab, compute or customer needs. For expansion, match the amount and timing to investor or bank criteria.','注册前核验团队创新券、高校概念验证或比赛是否接受实际申请主体。注册后按属地及业务匹配公共申报。样机期优先满足真实实验、算力或客户需求。扩张期按资金量与时间匹配投资或银行标准。'],
+    ['We never add overlapping headline awards into a promised total. Programs can exclude duplicated spending, restrict related suppliers, require local operations, demand matching funds or pay only after acceptance. A company needs working capital for costs that arrive before reimbursement.','我们不把重叠政策的最高额相加成为承诺总额。项目可能排除重复支出、限制关联供应商、要求属地经营、自筹资金或验收后拨款。企业须为先支后补准备营运资金。']
+   ]],
+   ['Compare the real cost','比较真实成本',[
+    ['For public support, compare eligible expense period, matching ratio, audit cost, tax treatment, reporting and clawback. For equity, compare valuation, ownership, liquidation preference, board rights, follow-on rights and exit terms. For debt, compare principal, interest, fees, guarantee or collateral, repayment schedule and default obligations.','公共资助需比较支出期间、配套比例、审计成本、税务、报告及追回条款。股权需比较估值、持股、清算优先权、董事席位、后续投资权与退出。债务需比较本金、利息、费用、担保或抵押、还款计划及违约责任。'],
+    ['For cloud benefits, check account region, supported services, expiry, existing credits and overage billing. China-region and global offers may use different operators and accounts. Free membership in a technology ecosystem does not guarantee hardware supply, credits or investment.','云权益需确认账户地区、支持服务、到期、已有积分及超额计费。中国区与全球方案可能采用不同运营方和账户。技术生态免费会员不保证硬件供应、积分或投资。']
+   ]]
+  ]
+ },
+ 'methodology': {
+  title:['How to read the evidence','如何阅读证据'],
+  intro:['A useful directory makes uncertainty inspectable. We link the source near the claim and keep a shared record behind the English and Simplified Chinese editions.','实用目录应让不确定性可检查。我们在相关表述旁提供来源，并以共用记录支撑中英文版本。'],
+  sections:[
+   ['Research and translation','研究与翻译',[
+    ['We searched English and Simplified Chinese sources, prioritizing municipal and district authorities, official university pages and program operators. The Ministry of Education register supplies institutional scope. Sources are linked, not copied wholesale. Search discovery alone is weaker than a program\'s own current notice.','研究同时使用英文和简体中文，优先采用市区政府、高校及项目运营方来源。教育部名录界定高校范围。我们链接来源，不全文复制。搜索发现的证明力度弱于项目现行官方通知。'],
+    ['A source-access date records our research session, not a promise of continuous monitoring. Some official sites block automated access or retain old pages. Current validity, open intake, available capacity and a responsive contact are separate facts. We do not label an opportunity open without a dated supporting notice.','来源访问日期记录本次研究，并非持续监测承诺。部分官网限制自动访问或保留旧页。政策有效、申报开放、资源可用与联系人回复是不同事实。没有带日期通知支持的机会不会标为正在开放。'],
+    ['Chinese organization names are retained for searching and contact. Descriptive English names may be editorial translations. The Chinese edition translates the editorial text, interface and research records; third-party source pages retain their original language. A linked Chinese policy controls over our English summary.','保留中文机构名称便于检索与联系。部分英文描述为编辑翻译。中文版翻译编辑正文、界面及研究记录，第三方来源保留原语言。中文政策原文优先于英文摘要。']
+   ]],
+   ['Contacts, workflows and map locations','联系、流程与地图位置',[
+    ['Published phone numbers and email addresses are attributed to their source. A general university switchboard is identified as such. Where a direct contact is not established, the record gives the official website or authority route and explicitly requests a named receiving team. We did not contact organizations or submit applications.','公布的电话与邮箱对应具体来源，学校总机明确标注。无法核实直接联系人时，记录提供官网或主管部门路径，并建议索取明确受理团队。我们未联系机构，也未代为申请。'],
+    ['Application workflows are labelled as editorial checklists unless a record cites a notice-specific procedure. Campus and district anchors locate an ecosystem, not a verified entrance. Even street-based plotted points are approximate. The district boundaries are an illustrative DataV dataset, with no claim to survey, legal-boundary or navigation accuracy.','申请流程除注明通知专属程序外，均为编辑核对清单。校区及区级锚点表示生态位置，不是经核实的入口。即使有街道信息，标点仍为近似。区界采用示意DataV数据，不主张测绘、法定边界或导航精度。']
+   ]],
+   ['Known gaps and responsible upkeep','已知缺口与更新方法',[
+    ['Coverage is broad but not exhaustive. Many private incubators publish no current terms. Some district rules require a current annual notice that we could not establish as open. Several universities have no verified external startup program in this edition. Their institutional entry is included without inventing an accelerator or grant.','覆盖广泛但并非穷尽。许多民营孵化器没有公开现行条款，部分区级政策仍需年度通知，本版未能确认正在受理。若高校没有经核实的对外创业项目，仍保留机构入口，但不会虚构加速器或资助。'],
+    ['The registry includes 29 diploma colleges and 12 adult institutions without claiming program-level research for each. For university profiles, suggested thematic fit and office-routing questions are editorial guidance rather than a verified inventory of laboratories, contacts or available awards.','名录包括29所专科及12所成人高校，但不声称逐校完成项目级研究。高校档案中的主题匹配及部门对接建议属于编辑指导，不是已核实的实验室、联系人或可用资助清单。'],
+    ['Before a new edition, recheck source dates, operator identity, policy expiry, intake deadlines, contacts, funding mechanism, eligibility, district boundaries and duplicate-funding rules. Preserve superseded claims with their historical status instead of silently reusing them. The source repository contains the data, translations, artwork provenance and reproducible Guidedog build commands.','新版发布前应复核来源日期、运营主体、政策到期、申报截止、联系信息、资助机制、资格、属地边界及重复资助规则。失效内容应保留历史标记，不宜无声沿用。源仓库包含数据、翻译、插画来源及可复现的Guidedog构建命令。']
+   ]]
+  ]
+ }
+};
+
+export const workflows={
+ incubation:[['Send a project brief and request the current admission checklist.','发送项目简介，索取现行入驻清单。'],['Complete the operator\'s eligibility and technical or commercial review.','完成运营方资格及技术或商业评审。'],['Confirm rent, service fees, IP, compute pricing and any equity rights in writing.','书面确认租金、服务费、知识产权、算力价格及任何股权权利。'],['Sign the agreed admission documents and record milestones and support owners.','签署入驻文件，记录里程碑与服务负责人。']],
+ hardware:[['Describe the prototype, required equipment, process and testing needs.','说明样机、所需设备、工艺与测试需求。'],['Ask for a technical review, facility visit and itemized quotation.','申请技术审核、设施参观及逐项报价。'],['Agree access, safety, sample and IP ownership, test scope and acceptance.','约定准入、安全、样本与知识产权、测试范围及验收。'],['Separate the facility contract from investment or public-funding applications.','设施合同与投资或财政资助分别申请。']],
+ corporate:[['Identify the corporate business owner and one measurable use case.','确认企业业务负责人及可量化场景。'],['Submit the product brief, pilot evidence and relevant technical requirements.','提交产品简介、试点证据及相关技术要求。'],['Confirm cohort availability or agree a scoped pilot, data rights and IP terms.','确认招募情况或约定试点范围、数据权利与知识产权。'],['Review procurement, payment, acceptance and the production decision separately.','分别审核采购、付款、验收及转生产决策。']],
+ research:[['Find the relevant research group and state the scientific or industrial problem.','匹配科研团队，明确科学或产业问题。'],['Send a short proposal covering data, equipment, outputs, funding and timescale.','发送涵盖数据、设备、成果、经费及时程的简短方案。'],['Agree the collaboration route, publication, IP and institutional authorization.','约定合作路径、发表、知识产权及单位授权。'],['Obtain written access or project approval before beginning the work.','开始工作前取得书面准入或项目批准。']],
+ investment:[['Confirm the manager, sector, stage and legal-entity fit.','确认管理人、行业、阶段及主体匹配。'],['Submit a deck, cap table, technology evidence, traction and financing plan.','提交路演材料、股权表、技术证据、进展及融资计划。'],['Complete commercial, financial, technical and legal due diligence.','完成商业、财务、技术及法律尽职调查。'],['Review term sheet, investment committee conditions and definitive agreements.','审核条款书、投委会条件及正式协议。']],
+ credits:[['Check incorporation, company age, account region and existing benefits.','核验注册、企业年限、账户地区及已有权益。'],['Apply through the official program form or qualifying partner route.','通过官方表格或合资格合作方路径申请。'],['Confirm covered services, expiry, fees, usage limits and overage billing.','确认支持服务、到期、费用、用量限制及超额计费。'],['Keep usage records and do not describe credits as unrestricted cash.','保留使用记录，不把积分视为自由现金。']],
+ grant:[['Read the dated call and verify district, entity, activity and spending-period rules.','阅读带日期通知，核验属地、主体、业务及支出期间。'],['Prepare the prescribed pack and complete host or district endorsement if required.','准备规定材料，按要求完成单位或区级推荐。'],['Submit through the official platform before the stated deadline and keep the receipt.','在截止前通过官方平台提交并保存回执。'],['Follow review, award, reporting, acceptance and payment obligations in the notice.','遵循通知中的评审、立项、报告、验收及拨付义务。']],
+ voucher:[['Confirm the actual category, area boundary, supplier and eligible expenditure period.','确认实际类别、范围、供应商及合资格支出期间。'],['Keep service contracts, invoices, payment evidence and itemized usage logs.','保留服务合同、发票、付款凭证及明细用量记录。'],['Use the named platform and current batch; obtain the required district or operator review.','使用指定平台及当前批次，完成规定区级或运营方审核。'],['Check approved amount, duplicate-funding exclusions and payment conditions.','核验认可额度、重复资助限制及拨付条件。']],
+ pudong:[['Historical 2026 procedure: prepare the signed application, use report and commitments.','2026年历史流程：准备签章申请、应用报告及承诺。'],['Add application logs, special audit, expenditure schedule, contracts, invoices and payments.','补充应用日志、专项审计、支出明细、合同、发票与付款。'],['Submit on the Pudong policy platform; the 31 August 2026 deadline has passed.','通过浦东惠企平台提交；2026年8月31日截止已过。'],['The receiving area administration or town reviews and recommends; seek a new notice for future claims.','片区管理局或镇审核推荐，后续申报需等待新通知。']],
+ stefg:[['Read the foundation\'s current eligibility rules and choose loan or temporary equity.','阅读基金会现行资格，选择贷款或临时股权。'],['Identify a receiving branch and submit the prescribed founder and project documents.','确认受理分会，提交规定创业者及项目材料。'],['Complete review and examine repayment, founder funding and exit obligations.','完成评审，审核还款、自筹及退出义务。'],['Sign the correct agreement and track the full three-year obligations.','签署对应协议，跟踪完整三年义务。']],
+ loan:[['Select the current bank or public guarantee product and check borrower eligibility.','选择现行银行或公共担保产品，核验借款资格。'],['Prepare accounts, cash-flow forecast, ownership and requested security documents.','准备报表、现金流预测、股权及要求的担保材料。'],['Complete lender and guarantee assessment; compare all costs and repayment terms.','完成贷款及担保评估，比较全部成本与还款条件。'],['Sign and track debt service; claim interest support only if independently eligible.','签约并管理偿债，贴息须另行符合资格。']],
+ tax:[['Check the current tax rules and recognition or accounting requirements.','核验现行税规、认定或核算要求。'],['Maintain qualifying R&D and income records with a qualified tax adviser.','与合资格税务顾问维护研发及收入记录。'],['Complete recognition where required and claim in the correct tax filing.','按要求完成认定，在正确纳税申报中享受优惠。'],['Retain evidence for review and separate tax savings from cash grants.','留存备查证据，区分税收节省与现金补助。']],
+ competition:[['Choose the correct competition track, region and applicant category.','选择正确赛道、地区及申请类别。'],['Read the rules and submit the required project, team and IP evidence.','阅读规则，提交所需项目、团队及知识产权证据。'],['Complete selection or pitching; confirm prize and service conditions in writing.','完成选拔或路演，书面确认奖励及服务条件。'],['Treat investor introductions and district funding as separate follow-up decisions.','将投资对接及区级资助视为后续独立决策。']]
+};
