@@ -25,7 +25,7 @@ Contact and location
 
 `Official evidence and authority route <https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_
 
-A direct program phone or email is not verified here. Use the official route and request the responsible team; no contact has been invented.
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Map position uses a district or campus anchor; it is not a verified office location.
 

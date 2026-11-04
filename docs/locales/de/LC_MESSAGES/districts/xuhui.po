@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -52,9 +52,9 @@ msgstr "`Offizielle Website des Bezirks <https://www.xuhui.gov.cn/>`_"
 
 #: ../../districts/xuhui.rst:17
 msgid ""
-"A current direct program phone or email is not established in this "
-"record. Use the official website to request the named receiving team."
-msgstr "In diesem Datensatz ist keine direkte Telefondurchwahl oder E-Mail-Adresse hinterlegt. Bitte erfragen Sie das zuständige Fachteam über das offizielle Webportal."
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "Über die offizielle Website das zuständige Team und den aktuellen Antragsweg erfragen. E-Mail-Adressen werden in dieser Publikation nicht wiedergegeben."
 
 #: ../../districts/xuhui.rst:19
 msgid "Before applying"
@@ -223,3 +223,11 @@ msgstr ":doc:`Xuhui Qingmiao: Frühphaseninvestitionen in KI </funding/qingmiao-
 #: ../../districts/xuhui.rst:53
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`Auch stadtweite Förderprogramme vergleichen </funding>`"
+
+#~ msgid ""
+#~ "A current direct program phone or email is not established in this "
+#~ "record. Use the official website to request the named receiving team."
+#~ msgstr ""
+#~ "In diesem Datensatz ist keine direkte Telefondurchwahl oder "
+#~ "E-Mail-Adresse hinterlegt. Bitte erfragen Sie das zuständige Fachteam "
+#~ "über das offizielle Webportal."

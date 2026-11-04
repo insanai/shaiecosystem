@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -78,40 +78,36 @@ msgid "Published consultation: +86 21 23119377."
 msgstr "Veröffentlichte Beratungstelefonnummer: +86 21 23119377."
 
 #: ../../funding/municipal-ai-vouchers.rst:31
-msgid "`zxzj@sheitc.sh.gov.cn <mailto:zxzj@sheitc.sh.gov.cn>`_"
-msgstr "`zxzj@sheitc.sh.gov.cn <mailto:zxzj@sheitc.sh.gov.cn>`_"
-
-#: ../../funding/municipal-ai-vouchers.rst:33
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
 
-#: ../../funding/municipal-ai-vouchers.rst:35
+#: ../../funding/municipal-ai-vouchers.rst:33
 msgid ""
 "Confirm the actual category, area boundary, supplier and eligible "
 "expenditure period."
 msgstr "Gutscheinkategorie, räumliche Grenzen, anerkannte Dienstleister und förderfähigen Zeitraum prüfen."
 
-#: ../../funding/municipal-ai-vouchers.rst:37
+#: ../../funding/municipal-ai-vouchers.rst:35
 msgid ""
 "Keep service contracts, invoices, payment evidence and itemized usage "
 "logs."
 msgstr "Dienstleistungsverträge, Rechnungen, Zahlungsnachweise und detaillierte Nutzungsberichte aufbewahren."
 
-#: ../../funding/municipal-ai-vouchers.rst:39
+#: ../../funding/municipal-ai-vouchers.rst:37
 msgid ""
 "Use the named platform and current batch; obtain the required district or "
 "operator review."
 msgstr "Die festgelegte Plattform und Antragsrunde nutzen sowie die Prüfung durch Bezirk oder Betreiber durchlaufen."
 
-#: ../../funding/municipal-ai-vouchers.rst:41
+#: ../../funding/municipal-ai-vouchers.rst:39
 msgid ""
 "Check approved amount, duplicate-funding exclusions and payment "
 "conditions."
 msgstr "Bewilligungssumme, Ausschluss von Mehrfachförderung und Auszahlungsmodalitäten kontrollieren."
 
-#: ../../funding/municipal-ai-vouchers.rst:43
+#: ../../funding/municipal-ai-vouchers.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "

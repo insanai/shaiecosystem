@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -80,40 +80,36 @@ msgid "Published consultation: +86 21 65123028."
 msgstr "Teléfono de consulta publicado: +86 21 65123028."
 
 #: ../../funding/hongkou-talent-2026.rst:31
-msgid "`hkrc_zp@163.com <mailto:hkrc_zp@163.com>`_"
-msgstr "`hkrc_zp@163.com <mailto:hkrc_zp@163.com>`_"
-
-#: ../../funding/hongkou-talent-2026.rst:33
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
 
-#: ../../funding/hongkou-talent-2026.rst:35
+#: ../../funding/hongkou-talent-2026.rst:33
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
 msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
 
-#: ../../funding/hongkou-talent-2026.rst:37
+#: ../../funding/hongkou-talent-2026.rst:35
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
 msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
 
-#: ../../funding/hongkou-talent-2026.rst:39
+#: ../../funding/hongkou-talent-2026.rst:37
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
 msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
 
-#: ../../funding/hongkou-talent-2026.rst:41
+#: ../../funding/hongkou-talent-2026.rst:39
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
 msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
 
-#: ../../funding/hongkou-talent-2026.rst:43
+#: ../../funding/hongkou-talent-2026.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "

@@ -268,7 +268,6 @@ msgstr "由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ro
 msgid "Built with Guidedog."
 msgstr "使用 Guidedog 构建。"
 
-
 msgid "A city of possibility."
 msgstr "一座城市，无限可能。"
 

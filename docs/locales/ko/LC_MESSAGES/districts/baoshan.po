@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -52,9 +52,9 @@ msgstr "`구청 공식 웹사이트 <https://www.shbsq.gov.cn/>`_"
 
 #: ../../districts/baoshan.rst:17
 msgid ""
-"A current direct program phone or email is not established in this "
-"record. Use the official website to request the named receiving team."
-msgstr "본 자료에는 해당 프로그램의 직통 전화나 이메일이 기재되어 있지 않습니다. 공식 웹사이트를 통해 담당 접수팀을 문의하십시오."
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "공식 웹사이트에서 담당 팀과 현행 신청 경로를 확인해 주세요. 이 출판물에는 이메일 주소를 싣지 않습니다."
 
 #: ../../districts/baoshan.rst:19
 msgid "Before applying"
@@ -138,3 +138,9 @@ msgstr ":doc:`바오산구 '선투자 후지분' 프로젝트 공모 </funding/b
 #: ../../districts/baoshan.rst:45
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`상하이 시 전역 지원 경로와 함께 비교 </funding>`"
+
+#~ msgid ""
+#~ "A current direct program phone or email is not established in this "
+#~ "record. Use the official website to request the named receiving team."
+#~ msgstr ""
+#~ "본 자료에는 해당 프로그램의 직통 전화나 이메일이 기재되어 있지 않습니다. 공식 웹사이트를 통해 담당 접수팀을 문의하십시오."

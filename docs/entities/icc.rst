@@ -25,8 +25,6 @@ Contact and location
 
 Telephone: +86 21 61609878 ext. 217.
 
-`Email: fhan@icc.sh.cn <mailto:fhan@icc.sh.cn>`_
-
 Map position uses a district or campus anchor; it is not a verified office location.
 
 Application workflow

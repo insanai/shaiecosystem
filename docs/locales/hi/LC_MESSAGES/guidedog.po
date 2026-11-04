@@ -268,7 +268,6 @@ msgstr "Vikrant Rathore द्वारा लिखित, Lauren Zhao, Vicky N
 msgid "Built with Guidedog."
 msgstr "Guidedog से बनाया गया।"
 
-
 msgid "A city of possibility."
 msgstr "एक शहर, अनगिनत संभावनाएँ।"
 

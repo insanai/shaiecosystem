@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -73,9 +73,9 @@ msgstr "`Offizielle Website / Bewerbungszugang <https://www.siemens.com/zh-cn/co
 
 #: ../../entities/siemens.rst:26
 msgid ""
-"A direct program phone or email is not verified here. Use the official "
-"route and request the responsible team; no contact has been invented."
-msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "Über die offizielle Website das zuständige Team und den aktuellen Antragsweg erfragen. E-Mail-Adressen werden in dieser Publikation nicht wiedergegeben."
 
 #: ../../entities/siemens.rst:28
 msgid ""
@@ -118,3 +118,12 @@ msgstr "Einkaufsprozesse, Zahlungsmeilensteine, Abnahme und Serienentscheidung a
 #: ../../entities/siemens.rst:43
 msgid ":doc:`Citywide / global district route </funding>`"
 msgstr ":doc:`Bezirksroute Stadtweit / global </funding>`"
+
+#~ msgid ""
+#~ "A direct program phone or email is not verified here. Use the official "
+#~ "route and request the responsible team; no contact has been invented."
+#~ msgstr ""
+#~ "Für dieses Programm ist keine direkte Telefondurchwahl oder "
+#~ "E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und "
+#~ "fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in "
+#~ "diesem Atlas nicht frei erfunden."

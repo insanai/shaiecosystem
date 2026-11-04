@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -75,9 +75,9 @@ msgstr "Veröffentlichte Adresse: Bereich A, Longtai-Straße 180, Bezirk Xuhui."
 
 #: ../../entities/mosu.rst:30
 msgid ""
-"A direct program phone or email is not verified here. Use the official "
-"route and request the responsible team; no contact has been invented."
-msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "Über die offizielle Website das zuständige Team und den aktuellen Antragsweg erfragen. E-Mail-Adressen werden in dieser Publikation nicht wiedergegeben."
 
 #: ../../entities/mosu.rst:32
 msgid ""
@@ -119,3 +119,12 @@ msgstr "Die vereinbarten Aufnahmeverträge unterzeichnen sowie Meilensteine und 
 #: ../../entities/mosu.rst:47
 msgid ":doc:`Xuhui district route </districts/xuhui>`"
 msgstr ":doc:`Bezirksroute Bezirk Xuhui </districts/xuhui>`"
+
+#~ msgid ""
+#~ "A direct program phone or email is not verified here. Use the official "
+#~ "route and request the responsible team; no contact has been invented."
+#~ msgstr ""
+#~ "Für dieses Programm ist keine direkte Telefondurchwahl oder "
+#~ "E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und "
+#~ "fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in "
+#~ "diesem Atlas nicht frei erfunden."

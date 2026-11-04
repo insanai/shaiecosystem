@@ -589,7 +589,6 @@
         "language": "zh-CN"
       },
       "website": "https://thexnode.com/english/",
-      "email": "contact@thexnode.com",
       "phone": "+86 21 55698983",
       "address": "4F, Building A, Kehai Building, 800 Naxian Road, Pudong",
       "addressZh": "浦东新区纳贤路800号科海大楼A座4楼",
@@ -1104,7 +1103,6 @@
       },
       "website": "https://www.icc.sh.cn/list_32/",
       "phone": "+86 21 61609878 ext. 217",
-      "email": "fhan@icc.sh.cn",
       "workflow": "hardware",
       "status": "Published entity; intake to confirm",
       "url": "entities/icc.html"
@@ -1129,7 +1127,6 @@
         "language": "zh-CN"
       },
       "website": "https://www.shlab.org.cn/aboutus",
-      "email": "comm@pjlab.org.cn",
       "address": "L1, International Media Port, 129 Longwen Road, Xuhui",
       "addressZh": "徐汇区龙文路129号国际传媒港L1楼",
       "coords": [
@@ -1161,7 +1158,6 @@
         "language": "zh-CN"
       },
       "website": "https://srias.tongji.edu.cn/",
-      "email": "srias@tongji.edu.cn",
       "address": "3F, Building 2, Tongji Zhangjiang Base, 398 Lianchuang Road",
       "addressZh": "浦东新区联创路398号同济张江基地2号楼3楼",
       "workflow": "research",
@@ -1188,7 +1184,6 @@
         "language": "zh-CN"
       },
       "website": "https://ai.tongji.edu.cn/contact.html",
-      "email": "lingtang@tongji.edu.cn",
       "address": "Zhixin Building, Tongji Jiading Campus, 4800 Caoan Highway",
       "addressZh": "嘉定区曹安公路4800号同济大学智信馆",
       "workflow": "research",
@@ -1562,7 +1557,6 @@
         "language": "en"
       },
       "website": "https://www.qimingvc.com/en/contact",
-      "email": "contactus@qimingvc.com",
       "phone": "+86 21 61016522",
       "address": "Room 3901, Jinmao Tower, 88 Century Boulevard, Pudong",
       "addressZh": "浦东新区世纪大道88号金茂大厦3901室",
@@ -1597,7 +1591,6 @@
       },
       "website": "https://chj.shlingang.com/",
       "phone": "+86 21 64850000",
-      "email": "chj@caohejing.com",
       "address": "1015 Caobao Road, Shanghai",
       "addressZh": "上海市漕宝路1015号",
       "workflow": "incubation",
@@ -2184,7 +2177,6 @@
       },
       "sourceDetail": "https://www.worldaic.com.cn/",
       "website": "https://www.worldaic.com.cn/",
-      "email": "info@worldaic.com.cn",
       "status": "Historical / confirm continuation",
       "workflow": "competition",
       "url": "entities/waic-future-tech.html"
@@ -3214,7 +3206,6 @@
         "language": "zh-CN"
       },
       "sourceDetail": "ott.shanghaitech.edu.cn/9078/list.htm",
-      "email": "ott@shanghaitech.edu.cn",
       "sourceExtra": "moe.gov.cn/jyb_xxgk",
       "status": "Published entity; intake to confirm",
       "url": "entities/university-shanghaitech.html"
@@ -4139,7 +4130,6 @@
       },
       "apply": "https://zxzj.sheitc.sh.gov.cn/",
       "phone": "+86 21 23119377",
-      "email": "zxzj@sheitc.sh.gov.cn",
       "deadline": "First batch closed 27 May 2026, 16:00 China Standard Time; notice plans quarterly follow-ups",
       "workflow": "voucher",
       "url": "funding/municipal-ai-vouchers.html",
@@ -4547,7 +4537,6 @@
       },
       "apply": "https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html",
       "phone": "+86 21 65123028",
-      "email": "hkrc_zp@163.com",
       "deadline": "Closed 31 March 2026",
       "deadlineZh": "已于2026年3月31日截止",
       "status": "Closed",

@@ -25,7 +25,7 @@ Contact and location
 
 `Official website / intake route <https://www.worldaic.com.cn/>`_
 
-`Email: info@worldaic.com.cn <mailto:info@worldaic.com.cn>`_
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Map position uses a district or campus anchor; it is not a verified office location.
 

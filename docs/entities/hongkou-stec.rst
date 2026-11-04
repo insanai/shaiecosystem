@@ -25,7 +25,7 @@ Contact and location
 
 `Official evidence and authority route <https://www.shhk.gov.cn/xwzx/002004/20220409/4cbd6213-60a2-4419-a24e-7a21cf8ade6b.html>`_
 
-A direct program phone or email is not verified here. Use the official route and request the responsible team; no contact has been invented.
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Map position uses a district or campus anchor; it is not a verified office location.
 

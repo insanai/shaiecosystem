@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -53,9 +53,9 @@ msgstr "`区人民政府公式サイト <https://www.fengxian.gov.cn/>`_"
 
 #: ../../districts/fengxian.rst:17
 msgid ""
-"A current direct program phone or email is not established in this "
-"record. Use the official website to request the named receiving team."
-msgstr "本記録では現行の直接電話番号やメールアドレスは確認されていません。公式サイトを通じて担当の受付部署にお問い合わせください。"
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "公式サイトを通じて担当部署と現在の申請窓口を確認する。本書にはメールアドレスを掲載していない。"
 
 #: ../../districts/fengxian.rst:19
 msgid "Before applying"
@@ -178,3 +178,8 @@ msgstr ":doc:`2026年奉賢区「南上海科創センター」オープンコ�
 #: ../../districts/fengxian.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`上海全市レベルの資金調達ルートとの比較 </funding>`"
+
+#~ msgid ""
+#~ "A current direct program phone or email is not established in this "
+#~ "record. Use the official website to request the named receiving team."
+#~ msgstr "本記録では現行の直接電話番号やメールアドレスは確認されていません。公式サイトを通じて担当の受付部署にお問い合わせください。"

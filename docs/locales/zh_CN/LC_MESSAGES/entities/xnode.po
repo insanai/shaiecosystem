@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -72,53 +72,49 @@ msgid "Telephone: +86 21 55698983."
 msgstr "电话：+86 21 55698983。"
 
 #: ../../entities/xnode.rst:28
-msgid "`Email: contact@thexnode.com <mailto:contact@thexnode.com>`_"
-msgstr "`邮箱：contact@thexnode.com <mailto:contact@thexnode.com>`_"
-
-#: ../../entities/xnode.rst:30
 msgid ""
 "Published address: 4F, Building A, Kehai Building, 800 Naxian Road, "
 "Pudong."
 msgstr "公布地址：浦东新区纳贤路800号科海大楼A座4楼。"
 
-#: ../../entities/xnode.rst:32
+#: ../../entities/xnode.rst:30
 msgid ""
 "Map point is approximate, based on the published street context; it is "
 "not an entrance or navigation coordinate."
 msgstr "地图点依据公布街道信息近似定位，不是入口或导航坐标。"
 
-#: ../../entities/xnode.rst:34
+#: ../../entities/xnode.rst:32
 msgid "Application workflow"
 msgstr "申请流程"
 
-#: ../../entities/xnode.rst:37
+#: ../../entities/xnode.rst:35
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
 
-#: ../../entities/xnode.rst:39
+#: ../../entities/xnode.rst:37
 msgid "Identify the corporate business owner and one measurable use case."
 msgstr "确认企业业务负责人及可量化场景。"
 
-#: ../../entities/xnode.rst:41
+#: ../../entities/xnode.rst:39
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
 msgstr "提交产品简介、试点证据及相关技术要求。"
 
-#: ../../entities/xnode.rst:43
+#: ../../entities/xnode.rst:41
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
 msgstr "确认招募情况或约定试点范围、数据权利与知识产权。"
 
-#: ../../entities/xnode.rst:45
+#: ../../entities/xnode.rst:43
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
 msgstr "分别审核采购、付款、验收及转生产决策。"
 
-#: ../../entities/xnode.rst:47
+#: ../../entities/xnode.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"

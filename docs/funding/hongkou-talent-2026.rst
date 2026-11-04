@@ -28,8 +28,6 @@ Contact and application
 
 Published consultation: +86 21 65123028.
 
-`hkrc_zp@163.com <mailto:hkrc_zp@163.com>`_
-
 Editorial application checklist. The current official notice or agreement controls the actual procedure.
 
 #. Read the dated call and verify district, entity, activity and spending-period rules.

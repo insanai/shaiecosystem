@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -78,8 +78,10 @@ msgid "`Official website / intake route <https://www.worldaic.com.cn/>`_"
 msgstr "`Sitio web oficial / vía de admisión <https://www.worldaic.com.cn/>`_"
 
 #: ../../entities/waic-future-tech.rst:28
-msgid "`Email: info@worldaic.com.cn <mailto:info@worldaic.com.cn>`_"
-msgstr "`Correo electrónico: info@worldaic.com.cn <mailto:info@worldaic.com.cn>`_"
+msgid ""
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "Consultar en la web oficial el equipo responsable y la vía de solicitud vigente. Esta publicación no reproduce direcciones de correo electrónico."
 
 #: ../../entities/waic-future-tech.rst:30
 msgid ""

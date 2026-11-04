@@ -268,7 +268,6 @@ msgstr "著者：Vikrant Rathore、共同貢献：Lauren Zhao、Vicky Ni、Jenni
 msgid "Built with Guidedog."
 msgstr "Guidedog で構築。"
 
-
 msgid "A city of possibility."
 msgstr "可能性が広がる街。"
 

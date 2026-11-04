@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -72,53 +72,49 @@ msgid "Telephone: +86 21 55698983."
 msgstr "전화: +86 21 55698983."
 
 #: ../../entities/xnode.rst:28
-msgid "`Email: contact@thexnode.com <mailto:contact@thexnode.com>`_"
-msgstr "`이메일: contact@thexnode.com <mailto:contact@thexnode.com>`_"
-
-#: ../../entities/xnode.rst:30
 msgid ""
 "Published address: 4F, Building A, Kehai Building, 800 Naxian Road, "
 "Pudong."
 msgstr "공개 주소: 푸둥신구 나셴루 800호 커하이빌딩 A동 4층."
 
-#: ../../entities/xnode.rst:32
+#: ../../entities/xnode.rst:30
 msgid ""
 "Map point is approximate, based on the published street context; it is "
 "not an entrance or navigation coordinate."
 msgstr "지도상 위치는 공시된 도로 정보를 바탕으로 한 근사치이며, 실제 출입구나 내비게이션용 좌표가 아닙니다."
 
-#: ../../entities/xnode.rst:34
+#: ../../entities/xnode.rst:32
 msgid "Application workflow"
 msgstr "신청 워크플로"
 
-#: ../../entities/xnode.rst:37
+#: ../../entities/xnode.rst:35
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
 
-#: ../../entities/xnode.rst:39
+#: ../../entities/xnode.rst:37
 msgid "Identify the corporate business owner and one measurable use case."
 msgstr "기업 내 사업 책임자(Business Owner)와 측정 가능한 구체적 도입 사례 1건을 특정한다."
 
-#: ../../entities/xnode.rst:41
+#: ../../entities/xnode.rst:39
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
 msgstr "제품 소개서, 파일럿 실증 데이터 및 관련 기술 요구사항을 제출한다."
 
-#: ../../entities/xnode.rst:43
+#: ../../entities/xnode.rst:41
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
 msgstr "정기 배치 모집 여부를 확인하거나 파일럿 실증 범위, 데이터 권리, 지식재산권(IP) 조건을 협의한다."
 
-#: ../../entities/xnode.rst:45
+#: ../../entities/xnode.rst:43
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
 msgstr "조달 프로세스, 대금 지급 일정, 검수 절차 및 양산 전환 결정을 독립된 단계로 검토한다."
 
-#: ../../entities/xnode.rst:47
+#: ../../entities/xnode.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`푸둥 신구 경로 안내 </districts/pudong>`"

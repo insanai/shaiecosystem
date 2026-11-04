@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -80,40 +80,36 @@ msgid "Published consultation: +86 21 65123028."
 msgstr "Veröffentlichte Beratungstelefonnummer: +86 21 65123028."
 
 #: ../../funding/hongkou-talent-2026.rst:31
-msgid "`hkrc_zp@163.com <mailto:hkrc_zp@163.com>`_"
-msgstr "`hkrc_zp@163.com <mailto:hkrc_zp@163.com>`_"
-
-#: ../../funding/hongkou-talent-2026.rst:33
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
 
-#: ../../funding/hongkou-talent-2026.rst:35
+#: ../../funding/hongkou-talent-2026.rst:33
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
 msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
 
-#: ../../funding/hongkou-talent-2026.rst:37
+#: ../../funding/hongkou-talent-2026.rst:35
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
 msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
 
-#: ../../funding/hongkou-talent-2026.rst:39
+#: ../../funding/hongkou-talent-2026.rst:37
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
 msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
 
-#: ../../funding/hongkou-talent-2026.rst:41
+#: ../../funding/hongkou-talent-2026.rst:39
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
 msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
 
-#: ../../funding/hongkou-talent-2026.rst:43
+#: ../../funding/hongkou-talent-2026.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "

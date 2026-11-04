@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -77,9 +77,9 @@ msgstr "`आधिकारिक वेबसाइट / प्रवेश म
 
 #: ../../entities/university-zhongqiao.rst:28
 msgid ""
-"A direct program phone or email is not verified here. Use the official "
-"route and request the responsible team; no contact has been invented."
-msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "जिम्मेदार टीम और मौजूदा आवेदन प्रक्रिया जानने के लिए आधिकारिक वेबसाइट से संपर्क करें। इस प्रकाशन में ईमेल पते नहीं दिए गए हैं।"
 
 #: ../../entities/university-zhongqiao.rst:30
 msgid ""
@@ -130,3 +130,11 @@ msgstr "पुष्टि करें कि क्या बाहरी स�
 #: ../../entities/university-zhongqiao.rst:47
 msgid ":doc:`Jinshan district route </districts/jinshan>`"
 msgstr ":doc:`जिनशान (Jinshan) ज़िला मार्ग </districts/jinshan>`"
+
+#~ msgid ""
+#~ "A direct program phone or email is not verified here. Use the official "
+#~ "route and request the responsible team; no contact has been invented."
+#~ msgstr ""
+#~ "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग "
+#~ "का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत "
+#~ "नहीं बनाया गया है।"

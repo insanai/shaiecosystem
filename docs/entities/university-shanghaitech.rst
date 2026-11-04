@@ -29,7 +29,7 @@ Office of Technology Transfer (OTT)
 
 `Official website / intake route <https://ott.shanghaitech.edu.cn/>`_
 
-`Email: ott@shanghaitech.edu.cn <mailto:ott@shanghaitech.edu.cn>`_
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Map position uses a district or campus anchor; it is not a verified office location.
 

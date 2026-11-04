@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -77,9 +77,9 @@ msgstr "`공식 웹사이트 / 접수 창구 <https://www.gench.edu.cn/>`_"
 
 #: ../../entities/university-jianqiao.rst:28
 msgid ""
-"A direct program phone or email is not verified here. Use the official "
-"route and request the responsible team; no contact has been invented."
-msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "공식 웹사이트에서 담당 팀과 현행 신청 경로를 확인해 주세요. 이 출판물에는 이메일 주소를 싣지 않습니다."
 
 #: ../../entities/university-jianqiao.rst:30
 msgid ""
@@ -130,3 +130,10 @@ msgstr "외부 창업자의 지원 가능 여부, 재학생 또는 동문 신분
 #: ../../entities/university-jianqiao.rst:47
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`푸둥 신구 경로 안내 </districts/pudong>`"
+
+#~ msgid ""
+#~ "A direct program phone or email is not verified here. Use the official "
+#~ "route and request the responsible team; no contact has been invented."
+#~ msgstr ""
+#~ "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 "
+#~ "연락처를 작성하지 않았습니다."

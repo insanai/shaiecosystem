@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -71,50 +71,46 @@ msgid "Telephone: +86 21 64850000."
 msgstr "전화: +86 21 64850000."
 
 #: ../../entities/caohejing.rst:28
-msgid "`Email: chj@caohejing.com <mailto:chj@caohejing.com>`_"
-msgstr "`이메일: chj@caohejing.com <mailto:chj@caohejing.com>`_"
-
-#: ../../entities/caohejing.rst:30
 msgid "Published address: 1015 Caobao Road, Shanghai."
 msgstr "공개 주소: 상하이시 차오바오루 1015호."
 
-#: ../../entities/caohejing.rst:32
+#: ../../entities/caohejing.rst:30
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
 msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
 
-#: ../../entities/caohejing.rst:34
+#: ../../entities/caohejing.rst:32
 msgid "Application workflow"
 msgstr "신청 워크플로"
 
-#: ../../entities/caohejing.rst:37
+#: ../../entities/caohejing.rst:35
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
 
-#: ../../entities/caohejing.rst:39
+#: ../../entities/caohejing.rst:37
 msgid "Send a project brief and request the current admission checklist."
 msgstr "프로젝트 개요를 송부하고 현행 입주 체크리스트를 요청한다."
 
-#: ../../entities/caohejing.rst:41
+#: ../../entities/caohejing.rst:39
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
 msgstr "운영사의 지원 자격 요건 및 기술·사업성 평가를 완료한다."
 
-#: ../../entities/caohejing.rst:43
+#: ../../entities/caohejing.rst:41
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
 msgstr "임대료, 서비스 수수료, 지식재산권(IP), 컴퓨팅 파워 단가 및 지분 관련 권리를 서면으로 확정한다."
 
-#: ../../entities/caohejing.rst:45
+#: ../../entities/caohejing.rst:43
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
 msgstr "합의된 입주 계약서에 서명하고 마일스톤 달성 목표와 전담 지원 담당자를 등록한다."
 
-#: ../../entities/caohejing.rst:47
+#: ../../entities/caohejing.rst:45
 msgid ":doc:`Xuhui district route </districts/xuhui>`"
 msgstr ":doc:`쉬후이구 경로 안내 </districts/xuhui>`"

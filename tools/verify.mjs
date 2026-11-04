@@ -44,6 +44,12 @@ for (const e of [...data.entities, ...data.funding]) {
   check(Boolean(e.source?.url?.startsWith('https://')), `Missing cited source: ${e.id}`);
   check(Boolean(e.zh && e.name), `Missing bilingual name: ${e.id}`);
   check(!e.status.toLowerCase().includes('open now'), `Unverified open status: ${e.id}`);
+  check(!('email' in e), `Email contact field must not be published: ${e.id}`);
+}
+
+const emailAddress = /[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}/;
+for (const file of [...walk('data'), ...walk('docs')].filter(f => !f.includes('/_build/') && !f.includes('/locales/templates/') && /\.(?:rst|po|json|js|html|txt)$/.test(f))) {
+  check(!emailAddress.test(fs.readFileSync(file, 'utf8')), `Email address found in publication input: ${file}`);
 }
 
 check(fs.existsSync(path.join(root, '.nojekyll')), 'Missing .nojekyll in built site for GitHub Pages.');
@@ -86,6 +92,7 @@ for (const edition of EDITIONS) {
   for (const file of walk(directory).filter(f => f.endsWith('.html'))) {
     htmlCount++;
     const text = fs.readFileSync(file, 'utf8');
+    check(!emailAddress.test(text), `Email address found in published page: ${file}`);
     check(!text.includes('{{ '), `Unrendered template: ${file}`);
     check((text.match(/class="gd-language"/g) || []).length === 1, `Expected one language menu: ${file}`);
     for (const folder of EDITIONS) {

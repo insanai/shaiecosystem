@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -72,53 +72,49 @@ msgid "Telephone: +86 21 55698983."
 msgstr "Teléfono: +86 21 55698983."
 
 #: ../../entities/xnode.rst:28
-msgid "`Email: contact@thexnode.com <mailto:contact@thexnode.com>`_"
-msgstr "`Correo electrónico: contact@thexnode.com <mailto:contact@thexnode.com>`_"
-
-#: ../../entities/xnode.rst:30
 msgid ""
 "Published address: 4F, Building A, Kehai Building, 800 Naxian Road, "
 "Pudong."
 msgstr "Dirección publicada: Planta 4, Edificio A, Edificio Kehai, Calle Naxian 800, Pudong."
 
-#: ../../entities/xnode.rst:32
+#: ../../entities/xnode.rst:30
 msgid ""
 "Map point is approximate, based on the published street context; it is "
 "not an entrance or navigation coordinate."
 msgstr "El punto en el mapa es aproximado y se basa en el entorno viario publicado; no constituye una coordenada de acceso ni de navegación."
 
-#: ../../entities/xnode.rst:34
+#: ../../entities/xnode.rst:32
 msgid "Application workflow"
 msgstr "Flujo de solicitud"
 
-#: ../../entities/xnode.rst:37
+#: ../../entities/xnode.rst:35
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
 
-#: ../../entities/xnode.rst:39
+#: ../../entities/xnode.rst:37
 msgid "Identify the corporate business owner and one measurable use case."
 msgstr "Identificar al responsable de la unidad de negocio corporativa y definir un caso de uso medible."
 
-#: ../../entities/xnode.rst:41
+#: ../../entities/xnode.rst:39
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
 msgstr "Presentar el resumen del producto, la evidencia de pilotos previos y los requisitos técnicos pertinentes."
 
-#: ../../entities/xnode.rst:43
+#: ../../entities/xnode.rst:41
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
 msgstr "Confirmar la disponibilidad de una cohorte abierta o acordar un piloto acotado, los derechos sobre los datos y los términos de propiedad intelectual."
 
-#: ../../entities/xnode.rst:45
+#: ../../entities/xnode.rst:43
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
 msgstr "Revisar por separado los procesos de compras, condiciones de pago, criterios de aceptación y la decisión de paso a producción."
 
-#: ../../entities/xnode.rst:47
+#: ../../entities/xnode.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`Ruta del distrito de Nueva Área de Pudong </districts/pudong>`"

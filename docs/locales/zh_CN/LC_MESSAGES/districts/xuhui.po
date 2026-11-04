@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -52,9 +52,9 @@ msgstr "`区政府官网 <https://www.xuhui.gov.cn/>`_"
 
 #: ../../districts/xuhui.rst:17
 msgid ""
-"A current direct program phone or email is not established in this "
-"record. Use the official website to request the named receiving team."
-msgstr "本记录未核实现行项目直线电话或邮箱。请通过官网索取具体受理团队。"
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
 
 #: ../../districts/xuhui.rst:19
 msgid "Before applying"
@@ -223,6 +223,11 @@ msgstr ":doc:`徐汇青苗基金早期AI投资渠道 </funding/qingmiao-investme
 #: ../../districts/xuhui.rst:53
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
+
+#~ msgid ""
+#~ "A current direct program phone or email is not established in this "
+#~ "record. Use the official website to request the named receiving team."
+#~ msgstr "本记录未核实现行项目直线电话或邮箱。请通过官网索取具体受理团队。"
 
 #~ msgid ":doc:`Shanghai Model Speed Space </entities/mosu>`"
 #~ msgstr ":doc:`上海模速空间 </entities/mosu>`"

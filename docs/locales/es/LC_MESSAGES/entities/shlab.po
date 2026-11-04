@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -69,13 +69,15 @@ msgid ""
 msgstr "`Sitio web oficial / vía de admisión <https://www.shlab.org.cn/aboutus>`_"
 
 #: ../../entities/shlab.rst:26
-msgid "`Email: comm@pjlab.org.cn <mailto:comm@pjlab.org.cn>`_"
-msgstr "`Correo electrónico: comm@pjlab.org.cn <mailto:comm@pjlab.org.cn>`_"
-
-#: ../../entities/shlab.rst:28
 msgid ""
 "Published address: L1, International Media Port, 129 Longwen Road, Xuhui."
 msgstr "Dirección publicada: Planta L1, Puerto Internacional de Medios, Calle Longwen 129, Distrito de Xuhui."
+
+#: ../../entities/shlab.rst:28
+msgid ""
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "Consultar en la web oficial el equipo responsable y la vía de solicitud vigente. Esta publicación no reproduce direcciones de correo electrónico."
 
 #: ../../entities/shlab.rst:30
 msgid ""

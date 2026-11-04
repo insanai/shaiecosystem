@@ -25,8 +25,6 @@ Contact and location
 
 Telephone: +86 21 64850000.
 
-`Email: chj@caohejing.com <mailto:chj@caohejing.com>`_
-
 Published address: 1015 Caobao Road, Shanghai.
 
 Map position uses a district or campus anchor; it is not a verified office location.

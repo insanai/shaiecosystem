@@ -25,8 +25,6 @@ Contact and location
 
 Telephone: +86 21 55698983.
 
-`Email: contact@thexnode.com <mailto:contact@thexnode.com>`_
-
 Published address: 4F, Building A, Kehai Building, 800 Naxian Road, Pudong.
 
 Map point is approximate, based on the published street context; it is not an entrance or navigation coordinate.

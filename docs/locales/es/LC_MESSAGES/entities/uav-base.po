@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -72,9 +72,9 @@ msgstr "`Fuente oficial y vía de la autoridad competente <https://www.shanghai.
 
 #: ../../entities/uav-base.rst:26
 msgid ""
-"A direct program phone or email is not verified here. Use the official "
-"route and request the responsible team; no contact has been invented."
-msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "Consultar en la web oficial el equipo responsable y la vía de solicitud vigente. Esta publicación no reproduce direcciones de correo electrónico."
 
 #: ../../entities/uav-base.rst:28
 msgid ""
@@ -115,3 +115,11 @@ msgstr "Separar el contrato de uso de instalaciones de las solicitudes de invers
 #: ../../entities/uav-base.rst:43
 msgid ":doc:`Jinshan district route </districts/jinshan>`"
 msgstr ":doc:`Ruta del distrito de Distrito de Jinshan </districts/jinshan>`"
+
+#~ msgid ""
+#~ "A direct program phone or email is not verified here. Use the official "
+#~ "route and request the responsible team; no contact has been invented."
+#~ msgstr ""
+#~ "En esta edición no se ha verificado un teléfono ni correo electrónico "
+#~ "directo del programa. Utilice el canal oficial y solicite el contacto "
+#~ "del equipo responsable; no se ha inventado ningún dato de contacto."

@@ -28,8 +28,6 @@ Contact and application
 
 Published consultation: +86 21 23119377.
 
-`zxzj@sheitc.sh.gov.cn <mailto:zxzj@sheitc.sh.gov.cn>`_
-
 Editorial application checklist. The current official notice or agreement controls the actual procedure.
 
 #. Confirm the actual category, area boundary, supplier and eligible expenditure period.

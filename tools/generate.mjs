@@ -401,7 +401,7 @@ for (const d of districts) {
   if (d.phone) {
     s += p(`Published contact: ${d.phone}.`, Object.fromEntries(LANGS.map(l => [l, PUB_CONTACT_TPL[l](d.phone)])));
   } else {
-    s += p('A current direct program phone or email is not established in this record. Use the official website to request the named receiving team.', '本记录未核实现行项目直线电话或邮箱。请通过官网索取具体受理团队。');
+    s += p("Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.", "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。");
   }
   s += heading('Before applying', '申请之前', 1) + workflow('grant');
   s += p('Ask which current notice governs the project, whether registration and actual operations must both be in the district, which expenditure period is eligible, and whether previous municipal or district awards exclude a claim. Obtain the answer before moving a company or incurring costs.', '询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。');
@@ -473,7 +473,7 @@ for (const [id, title, zh, categories] of groups) {
     const codeEn = e.code ? ` · MOE code ${e.code}` : '';
     const secEn = e.sectors?.length ? ` · Focus: ${e.sectors.join(', ')}` : '';
     const mechEn = e.funding ? ` Support: ${e.funding}.` : e.support ? ` Support: ${e.support}.` : '';
-    const contactBitsEn = [e.address ? `Address: ${e.address}` : '', e.phone ? `Tel: ${e.phone}` : '', e.email ? `Email: ${e.email}` : ''].filter(Boolean).join(' | ');
+    const contactBitsEn = [e.address ? `Address: ${e.address}` : '', e.phone ? `Tel: ${e.phone}` : ''].filter(Boolean).join(' | ');
     const stKey = e.status || 'Published entity; intake to confirm';
     const enStr = `${eLink} (${e.zh} · ${e.category} · ${dname(e.district)}${codeEn}${secEn}) — ${e.summary}${mechEn}${contactBitsEn ? ' ' + contactBitsEn + '.' : ''} [Status: ${stKey}]`;
     const dict = Object.fromEntries(LANGS.map(l => {
@@ -482,7 +482,7 @@ for (const [id, title, zh, categories] of groups) {
       const secL = e.sectors?.length ? (l === 'zh_CN' ? ` · 方向：${e.sectors.map(x => lbl(x, l)).join(sep)}` : ` · ${e.sectors.map(x => lbl(x, l)).join(sep)}`) : '';
       const mechL = e.funding ? (l === 'zh_CN' ? ` 支持机制：${lbl(e.funding, l)}。` : ` [${lbl(e.funding, l)}].`) : e.support ? (l === 'zh_CN' ? ` 支持说明：${lbl(e.support, l)}。` : ` [${lbl(e.support, l)}].`) : '';
       const addrL = eAddressL(e, l);
-      const bitsL = [addrL ? (l === 'zh_CN' ? `地址：${addrL}` : addrL) : '', e.phone ? (l === 'zh_CN' ? `电话：${e.phone}` : `Tel: ${e.phone}`) : '', e.email ? (l === 'zh_CN' ? `邮箱：${e.email}` : `Email: ${e.email}`) : ''].filter(Boolean).join(l === 'zh_CN' ? '｜' : ' | ');
+      const bitsL = [addrL ? (l === 'zh_CN' ? `地址：${addrL}` : addrL) : '', e.phone ? (l === 'zh_CN' ? `电话：${e.phone}` : `Tel: ${e.phone}`) : ''].filter(Boolean).join(l === 'zh_CN' ? '｜' : ' | ');
       if (l === 'zh_CN') {
         return [l, `${maps[l].get(eLink)} （${e.zh} · ${lbl(e.category, l)} · ${dnameL(e.district, l)}${codeL}${secL}）—— ${eSummaryL(e, l)}${mechL}${bitsL ? ' ' + bitsL + '。' : ''}【状态：${lbl(stKey, l)}】`];
       }
@@ -542,14 +542,6 @@ const TEL_LINE_TPL = {
   ko: v => `전화: ${v}.`,
   de: v => `Telefon: ${v}.`,
   es: v => `Teléfono: ${v}.`
-};
-const EMAIL_LABEL_TPL = {
-  zh_CN: v => `邮箱：${v}`,
-  hi: v => `ईमेल: ${v}`,
-  ja: v => `メール：${v}`,
-  ko: v => `이메일: ${v}`,
-  de: v => `E-Mail: ${v}`,
-  es: v => `Correo electrónico: ${v}`
 };
 const ADDR_LINE_TPL = {
   zh_CN: v => `公布地址：${v}。`,
@@ -619,15 +611,11 @@ for (const e of allEntities) {
   if (e.phone) {
     s += p(`Telephone: ${e.phone}.`, Object.fromEntries(LANGS.map(l => [l, TEL_LINE_TPL[l](e.phone)])));
   }
-  if (e.email) {
-    const emLink = link(`Email: ${e.email}`, Object.fromEntries(LANGS.map(l => [l, EMAIL_LABEL_TPL[l](e.email)])), `mailto:${e.email}`);
-    s += p(emLink, Object.fromEntries(LANGS.map(l => [l, maps[l].get(emLink)])));
-  }
   if (e.address) {
     s += p(`Published address: ${e.address}.`, Object.fromEntries(LANGS.map(l => [l, ADDR_LINE_TPL[l](eAddressL(e, l))])));
   }
-  if (!e.phone && !e.email) {
-    s += p('A direct program phone or email is not verified here. Use the official route and request the responsible team; no contact has been invented.', '本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。');
+  if (!e.phone) {
+    s += p("Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.", "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。");
   }
   s += p(
     e.coords ? 'Map point is approximate, based on the published street context; it is not an entrance or navigation coordinate.' : 'Map position uses a district or campus anchor; it is not a verified office location.',
@@ -707,11 +695,7 @@ for (const f of funding) {
   if (f.phone) {
     s += p(`Published consultation: ${f.phone}.`, Object.fromEntries(LANGS.map(l => [l, CONSULT_TEL_TPL[l](f.phone)])));
   }
-  if (f.email) {
-    const emL = link(f.email, Object.fromEntries(LANGS.map(l => [l, f.email])), `mailto:${f.email}`);
-    s += p(emL, Object.fromEntries(LANGS.map(l => [l, maps[l].get(emL)])));
-  }
-  if (!f.phone && !f.email) {
+  if (!f.phone) {
     s += p('The linked authority or operator is the contact route. A direct current program contact is not established in this profile.', '请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。');
   }
   s += workflow(f.workflow);
@@ -936,7 +920,7 @@ if (process.argv.includes('--sync-po')) {
           return all
             .replace('PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE', 'PO-Revision-Date: 2026-11-04 00:00+0000')
             .replace('Last-Translator: FULL NAME <EMAIL@ADDRESS>', 'Last-Translator: Vikrant Rathore & contributors')
-            .replace('Language-Team: LANGUAGE <LL@li.org>', `Language-Team: ${lang}`);
+            .replace(/Language-Team: LANGUAGE <[^>]+>/, `Language-Team: ${lang}`);
         }
         const translated = pairs.get(id) ?? normalized.get(id.replace(/\s+/g, ' ').trim());
         if (translated === undefined) {

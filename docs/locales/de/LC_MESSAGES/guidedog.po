@@ -268,7 +268,6 @@ msgstr "Verfasst von Vikrant Rathore mit Beiträgen von Lauren Zhao, Vicky Ni, J
 msgid "Built with Guidedog."
 msgstr "Erstellt mit Guidedog."
 
-
 msgid "A city of possibility."
 msgstr "Eine Stadt voller Möglichkeiten."
 

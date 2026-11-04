@@ -23,9 +23,9 @@ Contact and location
 
 `Official website / intake route <https://srias.tongji.edu.cn/>`_
 
-`Email: srias@tongji.edu.cn <mailto:srias@tongji.edu.cn>`_
-
 Published address: 3F, Building 2, Tongji Zhangjiang Base, 398 Lianchuang Road.
+
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Map position uses a district or campus anchor; it is not a verified office location.
 

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -66,14 +66,16 @@ msgid "`Official website / intake route <https://srias.tongji.edu.cn/>`_"
 msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://srias.tongji.edu.cn/>`_"
 
 #: ../../entities/tongji-autonomy.rst:26
-msgid "`Email: srias@tongji.edu.cn <mailto:srias@tongji.edu.cn>`_"
-msgstr "`ईमेल: srias@tongji.edu.cn <mailto:srias@tongji.edu.cn>`_"
-
-#: ../../entities/tongji-autonomy.rst:28
 msgid ""
 "Published address: 3F, Building 2, Tongji Zhangjiang Base, 398 Lianchuang "
 "Road."
 msgstr "प्रकाशित पता: तीसरी मंजिल, बिल्डिंग 2, तोंगजी झांगजियांग बेस, 398 लियानचुआंग रोड।"
+
+#: ../../entities/tongji-autonomy.rst:28
+msgid ""
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "जिम्मेदार टीम और मौजूदा आवेदन प्रक्रिया जानने के लिए आधिकारिक वेबसाइट से संपर्क करें। इस प्रकाशन में ईमेल पते नहीं दिए गए हैं।"
 
 #: ../../entities/tongji-autonomy.rst:30
 msgid ""

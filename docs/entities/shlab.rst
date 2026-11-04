@@ -23,9 +23,9 @@ Contact and location
 
 `Official website / intake route <https://www.shlab.org.cn/aboutus>`_
 
-`Email: comm@pjlab.org.cn <mailto:comm@pjlab.org.cn>`_
-
 Published address: L1, International Media Port, 129 Longwen Road, Xuhui.
+
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Map point is approximate, based on the published street context; it is not an entrance or navigation coordinate.
 

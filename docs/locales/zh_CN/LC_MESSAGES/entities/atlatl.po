@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -72,9 +72,9 @@ msgstr "`官网／对接入口 <https://www.atlatl.center/about/locations/>`_"
 
 #: ../../entities/atlatl.rst:26
 msgid ""
-"A direct program phone or email is not verified here. Use the official "
-"route and request the responsible team; no contact has been invented."
-msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
 
 #: ../../entities/atlatl.rst:28
 msgid ""
@@ -115,3 +115,8 @@ msgstr "设施合同与投资或财政资助分别申请。"
 #: ../../entities/atlatl.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"
+
+#~ msgid ""
+#~ "A direct program phone or email is not verified here. Use the official "
+#~ "route and request the responsible team; no contact has been invented."
+#~ msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"

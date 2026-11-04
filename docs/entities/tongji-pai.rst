@@ -23,9 +23,9 @@ Contact and location
 
 `Official website / intake route <https://ai.tongji.edu.cn/contact.html>`_
 
-`Email: lingtang@tongji.edu.cn <mailto:lingtang@tongji.edu.cn>`_
-
 Published address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan Highway.
+
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Map position uses a district or campus anchor; it is not a verified office location.
 

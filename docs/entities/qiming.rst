@@ -25,8 +25,6 @@ Contact and location
 
 Telephone: +86 21 61016522.
 
-`Email: contactus@qimingvc.com <mailto:contactus@qimingvc.com>`_
-
 Published address: Room 3901, Jinmao Tower, 88 Century Boulevard, Pudong.
 
 Map point is approximate, based on the published street context; it is not an entrance or navigation coordinate.

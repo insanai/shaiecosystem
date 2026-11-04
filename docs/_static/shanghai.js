@@ -381,7 +381,7 @@ document.addEventListener('DOMContentLoaded',()=>{
    const amt=amountText(e);
    if(amt)details.push(`<div><strong>${esc(ui.supportLabel)}:</strong> ${esc(amt)}</div>`);
    if(addr)details.push(`<div><strong>${esc(ui.addressLabel)}:</strong> ${esc(addr)}</div>`);
-   const contacts=[e.phone,e.email].filter(Boolean).join(' · ');
+   const contacts=e.phone||'';
    if(contacts)details.push(`<div><strong>${esc(ui.contactLabel)}:</strong> ${esc(contacts)}</div>`);
    if(e.code)details.push(`<div><strong>${esc(ui.moeLabel)}:</strong> ${esc(e.code)}</div>`);
   }
@@ -420,7 +420,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  function zoom(factor){let[x,y,w,h]=view.split(' ').map(Number);let nw=Math.max(120,Math.min(1200,w*factor));let nh=h*nw/w;setView(`${x+(w-nw)/2} ${y+(h-nh)/2} ${nw} ${nh}`);}
  mount.querySelector('#map-in').addEventListener('click',()=>zoom(.75));mount.querySelector('#map-out').addEventListener('click',()=>zoom(1.35));
  mount.querySelector('#export-results').addEventListener('click',()=>{
-  const rows=[['Name','Chinese name','District','Type','Status','Phone','Email','Apply / website','Funding amount','Deadline','Evidence'],...visible().map(e=>[name(e),e.zh,e.district,label(e.type||e.category),label(e.status),e.phone||'',e.email||'',e.apply||e.website||'',amountText(e)||'',deadlineText(e)||'',e.source.url])];
+  const rows=[['Name','Chinese name','District','Type','Status','Phone','Apply / website','Funding amount','Deadline','Evidence'],...visible().map(e=>[name(e),e.zh,e.district,label(e.type||e.category),label(e.status),e.phone||'',e.apply||e.website||'',amountText(e)||'',deadlineText(e)||'',e.source.url])];
   const safe=value=>{const s=String(value??'');return /^[=+\-@\t\r]/.test(s)?"'"+s:s;};
   const csv='\ufeff'+rows.map(row=>row.map(v=>'"'+safe(v).replace(/"/g,'""')+'"').join(',')).join('\r\n');
   const url=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download=`shanghai-atlas-${state.mode}-${data.checked}.csv`;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);

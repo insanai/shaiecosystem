@@ -73,6 +73,7 @@ These maintained publication inputs stay in Git so `guidedog serve docs` works i
 It also compares RMB amounts across all seven languages and checks that PDF coverage metadata matches the dataset.
 The November review corrected literal startup terminology, translated front matter, missing funding conditions and material currency discrepancies.
 Program names and original source titles remain searchable in their official forms.
+We publish names, telephone numbers and official contact websites, while omitting email addresses from the repository's content, books, datasets and CSV exports.
 
 ## Shanghai template and artwork
 
@@ -98,6 +99,12 @@ The map, fonts, scripts and data are served locally, with no external runtime de
 Guidedog is installed from a checksum-pinned release by `.github/actions/guidedog/action.yml`.
 GitHub Pages must use the **GitHub Actions** publishing source and the custom domain **bettershanghai.com**.
 `pages.toml` also describes the assembled folder for Guidedog's optional local publisher; we keep Actions as the active deployment route.
+
+We first verify ownership of `bettershanghai.com` through [the repository owner's Pages settings](https://github.com/organizations/insanai/settings/pages).
+GitHub handles TXT ownership verification at the owner level, and we bind the custom domain specifically to [this repository's Pages site](https://github.com/insanai/shaiecosystem/settings/pages).
+After selecting **Add a domain**, we copy GitHub's generated TXT value into Cloudflare with the name `_github-pages-challenge-insanai`, then complete verification in GitHub and retain the TXT record.
+We use the exact value GitHub supplies; the A and CNAME records below do not replace that verification.
+GitHub describes this process in [Verifying a custom domain for GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages).
 
 At Cloudflare, we configure the following records for GitHub Pages:
 

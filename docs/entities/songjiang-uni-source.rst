@@ -23,7 +23,7 @@ Contact and location
 
 `Official evidence and authority route <https://www.songjiang.gov.cn/govxxgk/SHSJ1/2026-09-07/f9f1ad18-7e3f-4263-a32a-10ce19f739f3.html>`_
 
-A direct program phone or email is not verified here. Use the official route and request the responsible team; no contact has been invented.
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Map position uses a district or campus anchor; it is not a verified office location.
 

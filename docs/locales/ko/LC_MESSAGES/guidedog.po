@@ -268,7 +268,6 @@ msgstr "Vikrant Rathore 집필, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rath
 msgid "Built with Guidedog."
 msgstr "Guidedog로 제작되었습니다."
 
-
 msgid "A city of possibility."
 msgstr "가능성이 피어나는 도시."
 

@@ -23,7 +23,7 @@ Contact and location
 
 `Official evidence and authority route <https://www.shanghai.gov.cn/nw4411/20260122/a0d2d4e5531145fcb18cce45ebcfb216.html?siteId=1>`_
 
-A direct program phone or email is not verified here. Use the official route and request the responsible team; no contact has been invented.
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Map position uses a district or campus anchor; it is not a verified office location.
 

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -69,14 +69,16 @@ msgid ""
 msgstr "`Sitio web oficial / vía de admisión <https://ai.tongji.edu.cn/contact.html>`_"
 
 #: ../../entities/tongji-pai.rst:26
-msgid "`Email: lingtang@tongji.edu.cn <mailto:lingtang@tongji.edu.cn>`_"
-msgstr "`Correo electrónico: lingtang@tongji.edu.cn <mailto:lingtang@tongji.edu.cn>`_"
-
-#: ../../entities/tongji-pai.rst:28
 msgid ""
 "Published address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan "
 "Highway."
 msgstr "Dirección publicada: Edificio Zhixin, Campus Jiading de la Universidad de Tongji, Carretera Cao'an 4800, Jiading."
+
+#: ../../entities/tongji-pai.rst:28
+msgid ""
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "Consultar en la web oficial el equipo responsable y la vía de solicitud vigente. Esta publicación no reproduce direcciones de correo electrónico."
 
 #: ../../entities/tongji-pai.rst:30
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -78,40 +78,36 @@ msgid "Published consultation: +86 21 23119377."
 msgstr "公開相談電話：+86 21 23119377。"
 
 #: ../../funding/municipal-ai-vouchers.rst:31
-msgid "`zxzj@sheitc.sh.gov.cn <mailto:zxzj@sheitc.sh.gov.cn>`_"
-msgstr "`zxzj@sheitc.sh.gov.cn <mailto:zxzj@sheitc.sh.gov.cn>`_"
-
-#: ../../funding/municipal-ai-vouchers.rst:33
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
 
-#: ../../funding/municipal-ai-vouchers.rst:35
+#: ../../funding/municipal-ai-vouchers.rst:33
 msgid ""
 "Confirm the actual category, area boundary, supplier and eligible "
 "expenditure period."
 msgstr "バウチャーの対象区分、適用地域境界、指定サプライヤー、および対象経費の支出期間を確認する。"
 
-#: ../../funding/municipal-ai-vouchers.rst:37
+#: ../../funding/municipal-ai-vouchers.rst:35
 msgid ""
 "Keep service contracts, invoices, payment evidence and itemized usage "
 "logs."
 msgstr "サービス契約書、発票（公式領収証）、支払い証明、および項目別利用ログを保存する。"
 
-#: ../../funding/municipal-ai-vouchers.rst:39
+#: ../../funding/municipal-ai-vouchers.rst:37
 msgid ""
 "Use the named platform and current batch; obtain the required district or "
 "operator review."
 msgstr "指定プラットフォームの該当募集枠を利用し、所定の区または運営主体による審査を受ける。"
 
-#: ../../funding/municipal-ai-vouchers.rst:41
+#: ../../funding/municipal-ai-vouchers.rst:39
 msgid ""
 "Check approved amount, duplicate-funding exclusions and payment "
 "conditions."
 msgstr "承認金額、他公的補助との重複受給排除規程、および還付・交付条件を確認する。"
 
-#: ../../funding/municipal-ai-vouchers.rst:43
+#: ../../funding/municipal-ai-vouchers.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -53,9 +53,9 @@ msgstr "`आधिकारिक जिला वेबसाइट <https://ww
 
 #: ../../districts/minhang.rst:17
 msgid ""
-"A current direct program phone or email is not established in this "
-"record. Use the official website to request the named receiving team."
-msgstr "इस रिकॉर्ड में वर्तमान सीधा कार्यक्रम फोन या ईमेल स्थापित नहीं है। नामित प्राप्तकर्ता टीम का अनुरोध करने के लिए आधिकारिक वेबसाइट का उपयोग करें।"
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "जिम्मेदार टीम और मौजूदा आवेदन प्रक्रिया जानने के लिए आधिकारिक वेबसाइट से संपर्क करें। इस प्रकाशन में ईमेल पते नहीं दिए गए हैं।"
 
 #: ../../districts/minhang.rst:19
 msgid "Before applying"
@@ -186,3 +186,11 @@ msgstr ":doc:`मिनहांग कोर प्रौद्योगिक�
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`शहरव्यापी फंडिंग की भी तुलना करें </funding>`"
+
+#~ msgid ""
+#~ "A current direct program phone or email is not established in this "
+#~ "record. Use the official website to request the named receiving team."
+#~ msgstr ""
+#~ "इस रिकॉर्ड में वर्तमान सीधा कार्यक्रम फोन या ईमेल स्थापित नहीं है। "
+#~ "नामित प्राप्तकर्ता टीम का अनुरोध करने के लिए आधिकारिक वेबसाइट का उपयोग "
+#~ "करें।"

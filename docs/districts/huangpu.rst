@@ -14,7 +14,7 @@ Huangpu science and entrepreneurship services
 
 `Official district website <https://www.shhuangpu.gov.cn/>`_
 
-A current direct program phone or email is not established in this record. Use the official website to request the named receiving team.
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Before applying
 ---------------

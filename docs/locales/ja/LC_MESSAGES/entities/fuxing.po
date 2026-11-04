@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -73,9 +73,9 @@ msgstr "`公式エビデンス（典拠）および主管機関窓口 <https://w
 
 #: ../../entities/fuxing.rst:26
 msgid ""
-"A direct program phone or email is not verified here. Use the official "
-"route and request the responsible team; no contact has been invented."
-msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "公式サイトを通じて担当部署と現在の申請窓口を確認する。本書にはメールアドレスを掲載していない。"
 
 #: ../../entities/fuxing.rst:28
 msgid ""
@@ -117,3 +117,9 @@ msgstr "合意した入居契約書・採択文書に署名し、マイルスト
 #: ../../entities/fuxing.rst:43
 msgid ":doc:`Yangpu district route </districts/yangpu>`"
 msgstr ":doc:`楊浦区の案内ルート </districts/yangpu>`"
+
+#~ msgid ""
+#~ "A direct program phone or email is not verified here. Use the official "
+#~ "route and request the responsible team; no contact has been invented."
+#~ msgstr ""
+#~ "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"

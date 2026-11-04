@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -71,50 +71,46 @@ msgid "Telephone: +86 21 61016522."
 msgstr "電話：+86 21 61016522。"
 
 #: ../../entities/qiming.rst:28
-msgid "`Email: contactus@qimingvc.com <mailto:contactus@qimingvc.com>`_"
-msgstr "`メール：contactus@qimingvc.com <mailto:contactus@qimingvc.com>`_"
-
-#: ../../entities/qiming.rst:30
 msgid ""
 "Published address: Room 3901, Jinmao Tower, 88 Century Boulevard, Pudong."
 msgstr "公開所在地：浦東新区世紀大道88号金茂タワー3901室。"
 
-#: ../../entities/qiming.rst:32
+#: ../../entities/qiming.rst:30
 msgid ""
 "Map point is approximate, based on the published street context; it is "
 "not an entrance or navigation coordinate."
 msgstr "地図上の地点は公開されている街区情報に基づく概略位置であり、施設の入口やナビゲーション用座標を示すものではありません。"
 
-#: ../../entities/qiming.rst:34
+#: ../../entities/qiming.rst:32
 msgid "Application workflow"
 msgstr "申請・採択ワークフロー"
 
-#: ../../entities/qiming.rst:37
+#: ../../entities/qiming.rst:35
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
 
-#: ../../entities/qiming.rst:39
+#: ../../entities/qiming.rst:37
 msgid "Confirm the manager, sector, stage and legal-entity fit."
 msgstr "ファンド運用者、投資対象セクター、ステージ、および法人格の適格性を確認する。"
 
-#: ../../entities/qiming.rst:41
+#: ../../entities/qiming.rst:39
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
 msgstr "ピッチ資料、資本政策表（キャップテーブル）、技術的実証データ、事業進捗実績（トラクション）、および資金調達計画を提出する。"
 
-#: ../../entities/qiming.rst:43
+#: ../../entities/qiming.rst:41
 msgid "Complete commercial, financial, technical and legal due diligence."
 msgstr "ビジネス、財務、技術、および法務のデューデリジェンスを完了する。"
 
-#: ../../entities/qiming.rst:45
+#: ../../entities/qiming.rst:43
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
 msgstr "投資条件概要書（タームシート）、投資委員会の決議条件、および最終投資契約書を精査する。"
 
-#: ../../entities/qiming.rst:47
+#: ../../entities/qiming.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`浦東新区の案内ルート </districts/pudong>`"

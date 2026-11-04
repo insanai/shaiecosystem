@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -72,53 +72,49 @@ msgid "Telephone: +86 21 55698983."
 msgstr "टेलीफ़ोन: +86 21 55698983।"
 
 #: ../../entities/xnode.rst:28
-msgid "`Email: contact@thexnode.com <mailto:contact@thexnode.com>`_"
-msgstr "`ईमेल: contact@thexnode.com <mailto:contact@thexnode.com>`_"
-
-#: ../../entities/xnode.rst:30
 msgid ""
 "Published address: 4F, Building A, Kehai Building, 800 Naxian Road, "
 "Pudong."
 msgstr "प्रकाशित पता: चौथी मंजिल, बिल्डिंग A, केहाई बिल्डिंग, 800 नाशियान रोड, पुडोंग।"
 
-#: ../../entities/xnode.rst:32
+#: ../../entities/xnode.rst:30
 msgid ""
 "Map point is approximate, based on the published street context; it is "
 "not an entrance or navigation coordinate."
 msgstr "मानचित्र बिंदु प्रकाशित सड़क संदर्भ के आधार पर अनुमानित है; यह कोई प्रवेश द्वार या नेविगेशन निर्देशांक नहीं है।"
 
-#: ../../entities/xnode.rst:34
+#: ../../entities/xnode.rst:32
 msgid "Application workflow"
 msgstr "आवेदन कार्यप्रणाली"
 
-#: ../../entities/xnode.rst:37
+#: ../../entities/xnode.rst:35
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
 
-#: ../../entities/xnode.rst:39
+#: ../../entities/xnode.rst:37
 msgid "Identify the corporate business owner and one measurable use case."
 msgstr "कॉर्पोरेट व्यवसाय स्वामी और एक मापने योग्य उपयोग परिदृश्य (use case) की पहचान करें।"
 
-#: ../../entities/xnode.rst:41
+#: ../../entities/xnode.rst:39
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
 msgstr "उत्पाद विवरण, पायलट साक्ष्य और प्रासंगिक तकनीकी आवश्यकताएं जमा करें।"
 
-#: ../../entities/xnode.rst:43
+#: ../../entities/xnode.rst:41
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
 msgstr "बैच (cohort) की उपलब्धता की पुष्टि करें या निर्धारित पायलट, डेटा अधिकारों और IP शर्तों पर सहमति बनाएं।"
 
-#: ../../entities/xnode.rst:45
+#: ../../entities/xnode.rst:43
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
 msgstr "खरीद, भुगतान, स्वीकृति और उत्पादन निर्णय की अलग से समीक्षा करें।"
 
-#: ../../entities/xnode.rst:47
+#: ../../entities/xnode.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`पुडोंग (Pudong) ज़िला मार्ग </districts/pudong>`"

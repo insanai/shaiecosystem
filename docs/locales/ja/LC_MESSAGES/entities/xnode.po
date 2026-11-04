@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -72,53 +72,49 @@ msgid "Telephone: +86 21 55698983."
 msgstr "電話：+86 21 55698983。"
 
 #: ../../entities/xnode.rst:28
-msgid "`Email: contact@thexnode.com <mailto:contact@thexnode.com>`_"
-msgstr "`メール：contact@thexnode.com <mailto:contact@thexnode.com>`_"
-
-#: ../../entities/xnode.rst:30
 msgid ""
 "Published address: 4F, Building A, Kehai Building, 800 Naxian Road, "
 "Pudong."
 msgstr "公開所在地：浦東新区納賢路800号科海大厦A座4階。"
 
-#: ../../entities/xnode.rst:32
+#: ../../entities/xnode.rst:30
 msgid ""
 "Map point is approximate, based on the published street context; it is "
 "not an entrance or navigation coordinate."
 msgstr "地図上の地点は公開されている街区情報に基づく概略位置であり、施設の入口やナビゲーション用座標を示すものではありません。"
 
-#: ../../entities/xnode.rst:34
+#: ../../entities/xnode.rst:32
 msgid "Application workflow"
 msgstr "申請・採択ワークフロー"
 
-#: ../../entities/xnode.rst:37
+#: ../../entities/xnode.rst:35
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
 
-#: ../../entities/xnode.rst:39
+#: ../../entities/xnode.rst:37
 msgid "Identify the corporate business owner and one measurable use case."
 msgstr "企業の事業責任者と、測定可能な具体的なユースケースを1件特定する。"
 
-#: ../../entities/xnode.rst:41
+#: ../../entities/xnode.rst:39
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
 msgstr "製品概要、パイロット検証の実証データ、および関連する技術要件を提出する。"
 
-#: ../../entities/xnode.rst:43
+#: ../../entities/xnode.rst:41
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
 msgstr "募集バッチの空き状況を確認するか、または検証スコープ、データ権利、知的財産権の諸条件に合意する。"
 
-#: ../../entities/xnode.rst:45
+#: ../../entities/xnode.rst:43
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
 msgstr "調達プロセス、支払い条件、検収、および本番導入（商用化）の判断基準を個別に確認する。"
 
-#: ../../entities/xnode.rst:47
+#: ../../entities/xnode.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`浦東新区の案内ルート </districts/pudong>`"

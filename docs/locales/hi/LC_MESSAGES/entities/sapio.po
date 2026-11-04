@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -68,9 +68,9 @@ msgstr "`आधिकारिक वेबसाइट / प्रवेश म
 
 #: ../../entities/sapio.rst:26
 msgid ""
-"A direct program phone or email is not verified here. Use the official "
-"route and request the responsible team; no contact has been invented."
-msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "जिम्मेदार टीम और मौजूदा आवेदन प्रक्रिया जानने के लिए आधिकारिक वेबसाइट से संपर्क करें। इस प्रकाशन में ईमेल पते नहीं दिए गए हैं।"
 
 #: ../../entities/sapio.rst:28
 msgid ""
@@ -113,3 +113,11 @@ msgstr "खरीद, भुगतान, स्वीकृति और उत
 #: ../../entities/sapio.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`पुडोंग (Pudong) ज़िला मार्ग </districts/pudong>`"
+
+#~ msgid ""
+#~ "A direct program phone or email is not verified here. Use the official "
+#~ "route and request the responsible team; no contact has been invented."
+#~ msgstr ""
+#~ "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग "
+#~ "का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत "
+#~ "नहीं बनाया गया है।"

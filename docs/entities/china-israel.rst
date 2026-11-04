@@ -25,7 +25,7 @@ Contact and location
 
 Published address: Lane 111, Qilianshan Road, Putuo.
 
-A direct program phone or email is not verified here. Use the official route and request the responsible team; no contact has been invented.
+Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.
 
 Map point is approximate, based on the published street context; it is not an entrance or navigation coordinate.
 

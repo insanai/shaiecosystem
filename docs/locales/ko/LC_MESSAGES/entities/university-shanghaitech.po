@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 08:05+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -86,8 +86,10 @@ msgid ""
 msgstr "`공식 웹사이트 / 접수 창구 <https://ott.shanghaitech.edu.cn/>`_"
 
 #: ../../entities/university-shanghaitech.rst:32
-msgid "`Email: ott@shanghaitech.edu.cn <mailto:ott@shanghaitech.edu.cn>`_"
-msgstr "`이메일: ott@shanghaitech.edu.cn <mailto:ott@shanghaitech.edu.cn>`_"
+msgid ""
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "공식 웹사이트에서 담당 팀과 현행 신청 경로를 확인해 주세요. 이 출판물에는 이메일 주소를 싣지 않습니다."
 
 #: ../../entities/university-shanghaitech.rst:34
 msgid ""
