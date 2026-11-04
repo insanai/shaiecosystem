@@ -21,3 +21,11 @@ runs:
     - name: Publisher version
       shell: bash
       run: guidedog --version
+    - name: Register bundled fonts for Graphviz
+      shell: bash
+      run: |
+        set -euo pipefail
+        atlas_font_dir="$HOME/.local/share/fonts/shanghai-atlas"
+        mkdir -p "$atlas_font_dir"
+        cp docs/fonts/*.otf docs/fonts/*.ttf "$atlas_font_dir/"
+        fc-cache -f "$atlas_font_dir"

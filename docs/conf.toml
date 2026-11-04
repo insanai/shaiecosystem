@@ -25,7 +25,7 @@ numfig = true
 pdf_paper_size = "a4"
 pdf_logo = "_static/atlas/shanghai-ink-dawn-book.png"
 pdf_packages = "download"
-pdf_fonts = "system"
+pdf_fonts = "embedded"
 pdf_font_paths = ["_static/fonts", "fonts"]
 pdf_show_urls = "no"
 
