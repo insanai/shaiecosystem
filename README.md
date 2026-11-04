@@ -1,54 +1,31 @@
 # Shanghai Ecosystem Atlas
 
-**Written by Vikrant Rathore**  
-**With contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**  
-**Built with [Guidedog](https://github.com/insanai/guidedog/) — Published in HTML and PDF across 7 languages**
+Written by Vikrant Rathore, with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu.
 
-We build a seven-language interactive website and seven illustrated PDF books (`en`, `zh_CN`, `hi`, `ja`, `ko`, `de`, `es`) using Guidedog's native HTML, Typst PDF, gettext, and multilingual `.po` catalog workflows.
-We use a custom Shanghai White Magnolia (*Yulania denudata* / 白玉兰) editorial theme with pearl white (`#f8f7f2`), warm ivory (`#fffefa`), deep ink (`#263b36`), mist celadon jade (`#315b50`), and champagne gold (`#a88b53`).
-The cover and landing hero feature an original traditional Chinese ink wash painting (*shuimo dan cai* / 水墨淡彩) of the Shanghai skyline and white magnolia blossoms on xuan paper.
+We publish an interactive website and illustrated PDF books in English, Simplified Chinese, Hindi, Japanese, Korean, German and Spanish using [Guidedog](https://github.com/insanai/guidedog).
+The research edition is dated 4 November 2026 and contains 131 organization profiles, 50 funding and cost-support routes, and 140 cited sources across Shanghai's 16 districts.
+We include profiles for all 40 undergraduate institutions in the June 2026 Ministry of Education Shanghai register, with separate registers of 29 diploma colleges and 12 adult institutions.
+Coverage is a researched selection, rather than an exhaustive census of every program.
+We distinguish published policies, closed calls and opportunities whose current intake needs confirmation.
 
-The research edition is dated 4 November 2026.
-It contains **125 organization profiles**, **45 funding routes**, and **133 cited sources** across all **16 districts** of Shanghai.
-We include profiles for all 40 undergraduate institutions in the June 2026 Ministry of Education Shanghai register, plus registers of 29 diploma colleges and 12 adult higher-education institutions.
-Program coverage is a researched selection, not an exhaustive census of every Shanghai program.
-We distinguish closed calls, published policies, and opportunities whose current intake requires operator confirmation.
+The website is published from [insanai/shaiecosystem](https://github.com/insanai/shaiecosystem) to **https://bettershanghai.com** using GitHub Pages.
+English is the default edition.
 
-## Languages & Editions
+## Preview and build
 
-All seven language editions are generated natively by Guidedog (`guidedog build -b html` and `guidedog build -b pdf`) from `docs/` and `docs/locales/<lang>/LC_MESSAGES/*.po`:
-
-| Language | Locale (`-D language=`) | Website Path | PDF Book |
-| :--- | :--- | :--- | :--- |
-| **English** | `en` | `/en/index.html` | `docs/downloads/shanghai-ecosystem-atlas-en.pdf` |
-| **Simplified Chinese (简体中文)** | `zh_CN` | `/zh-CN/index.html` | `docs/downloads/shanghai-ecosystem-atlas-zh_CN.pdf` |
-| **Hindi (हिन्दी)** | `hi` | `/hi/index.html` | `docs/downloads/shanghai-ecosystem-atlas-hi.pdf` |
-| **Japanese (日本語)** | `ja` | `/ja/index.html` | `docs/downloads/shanghai-ecosystem-atlas-ja.pdf` |
-| **Korean (한국어)** | `ko` | `/ko/index.html` | `docs/downloads/shanghai-ecosystem-atlas-ko.pdf` |
-| **German (Deutsch)** | `de` | `/de/index.html` | `docs/downloads/shanghai-ecosystem-atlas-de.pdf` |
-| **Spanish (Español)** | `es` | `/es/index.html` | `docs/downloads/shanghai-ecosystem-atlas-es.pdf` |
-
-## Build & Bundled Fonts
-
-All required web and PDF fonts are bundled directly in the repository (`docs/_static/fonts/` and `docs/fonts/`, configured via `pdf_font_paths = ["_static/fonts", "fonts"]` in `docs/conf.toml`):
-- **Latin (`en`, `de`, `es`)**: `DM Sans`, `Libre Caslon Display`, `Libertinus Serif`, `Libertinus Sans`, `Libertinus Mono`
-- **Simplified Chinese (`zh_CN`)**: `Noto Serif SC`
-- **Hindi (`hi`)**: `Noto Serif Devanagari`, `Noto Sans Devanagari`
-- **Japanese (`ja`)**: `Noto Serif JP`
-- **Korean (`ko`)**: `Noto Serif KR`
-
-The installed Guidedog version used for this edition is `1.0.0-beta.12`.
-The Typst packages are pinned to CeTZ `0.3.4` and Fletcher `0.5.8`.
-
-We can preview any single edition directly with Guidedog:
+We use Guidedog `1.0.0-beta.12` and Node.js 22 or later.
+The repository includes native RST documents, PO catalogs, templates, fonts and illustration assets, so a single-edition preview needs no content-generation step:
 
 ```sh
 guidedog serve docs
 guidedog serve docs -D language=zh_CN --port 8001
-guidedog serve docs -D language=hi --port 8002
+guidedog serve docs -D language=ja --port 8002
 ```
 
-To assemble all seven website editions and all seven PDF books together, verify every page/link/catalog, and preview locally:
+A native single-edition preview contains the current language only.
+The seven-language menu and book downloads appear in the assembled publication, where their destinations exist.
+
+We build and check the complete publication with:
 
 ```sh
 node tools/build.mjs
@@ -56,44 +33,82 @@ node tools/verify.mjs
 node tools/serve.mjs
 ```
 
-We open the assembled multi-edition publication at <http://127.0.0.1:8123/en/index.html>.
-The assembled static site is written to `docs/_build/site/` (including `.nojekyll` for GitHub Pages).
+We open **http://127.0.0.1:8123/en/index.html**.
+The assembly helper calls Guidedog's native HTML and PDF builders for each language; it does not render a separate website or book format.
+Ordinary builds do not regenerate maintained documents or translations.
+Compiled publications and temporary reports remain ignored by Git.
 
-## Native Publishing & Idiomatic Gettext Workflow
+| Language | Guidedog locale | Website folder | Book filename suffix |
+| --- | --- | --- | --- |
+| English | `en` | `en` | `en` |
+| 简体中文 | `zh_CN` | `zh-CN` | `zh_CN` |
+| हिन्दी | `hi` | `hi` | `hi` |
+| 日本語 | `ja` | `ja` | `ja` |
+| 한국어 | `ko` | `ko` | `ko` |
+| Deutsch | `de` | `de` | `de` |
+| Español | `es` | `es` | `es` |
 
-All collected research and multilingual domain records are stored as pure JSON in `data/`:
-- `data/catalog.json` — 16 Shanghai districts, 69 core ecosystem organizations, and citywide funding routes
-- `data/district-funding.json` — district-level funding routes across all 16 districts (45 total funding routes)
-- `data/universities.json` — all 40 undergraduate universities in Shanghai plus enriched campus/innovation metadata
-- `data/chapters.json` — 6 analytical chapters and 13 application workflows
-- `data/i18n.json` — native editorial translations for `hi`, `ja`, `ko`, `de`, and `es`
-- `data/university-register.json` & `data/adult-college-register.json` — Ministry of Education Shanghai registers
-- `data/shanghai-districts.geojson` — local district geometry snapshot
+Books are named `shanghai-ecosystem-atlas-<locale>.pdf`.
+The assembled site is written to `docs/_build/site/` and the downloadable books to `docs/downloads/`.
 
-When updating JSON records in `data/`, run the refresh workflow:
+## Research and translation maintenance
+
+We maintain the organization and citywide funding records in `data/catalog.json`, district funding in `data/district-funding.json`, university records in `data/universities.json`, and editorial chapters and application workflows in `data/chapters.json`.
+Official source indexes and institutional registers remain in `data/`.
+The five additional translation sets are in `data/i18n.json`; Simplified Chinese accompanies the canonical records.
+The native website interface translations are maintained in `docs/locales/<locale>/LC_MESSAGES/guidedog.po`.
+The book's multilingual front matter is in `docs/_templates/book-labels.json`.
+
+After changing research records or structured translations, we run:
 
 ```sh
 node tools/refresh.mjs
 ```
 
-`tools/refresh.mjs` runs:
-1. `node tools/generate.mjs` — regenerates the `.rst` source documents, interactive atlas JSON (`docs/_static/atlas/catalog.json`), and interactive JavaScript bundles (`docs/_static/atlas/catalog.js`)
-2. `node tools/map.mjs` — regenerates the SVG district map (`docs/_static/atlas/shanghai-districts.svg`) and `docs/_static/atlas/geometry.js`
-3. `guidedog build -b gettext docs docs/_build/gettext` — extracts `.pot` message templates from all `.rst` documents and Jinja templates (`_('...')` in `docs/_templates/layout.html`)
-4. `guidedog intl update -d docs/locales -p docs/_build/gettext -l zh_CN -l hi -l ja -l ko -l de -l es` — updates all `.po` catalogs across all 6 translated languages
-5. `node tools/generate.mjs --sync-po` — syncs the structured translations from `data/*.json` into `docs/locales/<lang>/LC_MESSAGES/*.po`
-6. `guidedog intl stat -d docs/locales` — verifies 100% translation completion (`0 fuzzy, 0 untranslated`) across all 205 PO catalogs per language
+The refresh helper regenerates the RST and map inputs, extracts gettext templates with Guidedog, updates the six translated PO catalogs with `guidedog intl update`, synchronizes structured translations and reports native translation coverage with `guidedog intl stat`.
+We review and commit the updated RST, PO and static dataset inputs together with the research changes.
+These maintained publication inputs stay in Git so `guidedog serve docs` works in a fresh checkout.
 
-## GitHub Pages Deployment
+`tools/verify.mjs` checks every edition's local links, organization and funding profiles, PDF downloads, language alternates and translation completeness.
+It also compares RMB amounts across all seven languages and checks that PDF coverage metadata matches the dataset.
+The November review corrected literal startup terminology, translated front matter, missing funding conditions and material currency discrepancies.
+Program names and original source titles remain searchable in their official forms.
 
-The repository is configured for automated GitHub Pages deployment via:
-- `pages.toml` — multi-edition static site manifest
-- `.github/actions/guidedog/action.yml` — composite action that installs Guidedog `1.0.0-beta.12` and builds HTML/PDF artifacts
-- `.github/workflows/pages.yml` — GitHub Actions workflow that builds all 7 PDF and HTML editions (`node tools/build.mjs`), runs `node tools/verify.mjs`, and deploys `docs/_build/site` to GitHub Pages
+## Shanghai template and artwork
 
-## Design Files
+The custom theme follows Shanghai's white magnolia and the city's Pearl of the Orient identity: pearl white, ink, jade, mineral blue, coral and sunrise gold.
+A wide dawn painting blends into the landing page beneath centered hero text; a matching portrait illustration is used for the books.
+The illustrations were generated in a Chinese ink-and-color style and are artistic compositions, rather than surveyed views.
 
-- `docs/_templates/layout.html` — native Jinja HTML template using `{{ _('...') }}` gettext localization
-- `docs/_templates/book.typ` — native Typst book template with script-aware typography for Latin, CJK, and Devanagari editions
-- `docs/_static/shanghai.css` & `docs/_static/shanghai.js` — White Magnolia editorial stylesheet and interactive district map / directory filter engine
-- `docs/_static/atlas/shanghai-ink-cover.png` — traditional Chinese ink wash (*shuimo dan cai*) cover and hero illustration, documented in `data/cover-art.json`
+- `docs/_templates/layout.html`: native HTML layout and seven-language navigation.
+- `docs/_static/shanghai.css` and `shanghai.js`: responsive theme, local district map, search, filters and shortlist.
+- `docs/_templates/book.typ`: native Typst layout in a 240 x 300 mm art-book format.
+- `docs/_templates/book-labels.json` and `coverage.json`: multilingual book labels and maintained coverage metadata.
+- `docs/_static/atlas/shanghai-ink-dawn-hero.png` and `shanghai-ink-dawn-book.png`: retained publication artwork.
+- `data/ink-dawn-art.json`: exact prompts and built-in image generation provenance.
+- `docs/figures/`: CeTZ `0.3.4`, Fletcher `0.5.8` and Graphviz diagrams.
+
+Bundled Libertinus, DejaVu and Noto fonts support Latin, CJK and Devanagari typesetting.
+Font licenses and provenance accompany the assets in `docs/fonts/` and `docs/_static/fonts/`.
+The map, fonts, scripts and data are served locally, with no external runtime dependencies.
+
+## GitHub Pages and Cloudflare
+
+`.github/workflows/pages.yml` builds all seven HTML editions and PDF books, runs verification and deploys the assembled directory with GitHub's official Pages actions.
+Guidedog is installed from a checksum-pinned release by `.github/actions/guidedog/action.yml`.
+GitHub Pages must use the **GitHub Actions** publishing source and the custom domain **bettershanghai.com**.
+`pages.toml` also describes the assembled folder for Guidedog's optional local publisher; we keep Actions as the active deployment route.
+
+At Cloudflare, we configure the following records for GitHub Pages:
+
+| Type | Name | Value |
+| --- | --- | --- |
+| A | `@` | `185.199.108.153` |
+| A | `@` | `185.199.109.153` |
+| A | `@` | `185.199.110.153` |
+| A | `@` | `185.199.111.153` |
+| CNAME | `www` | `insanai.github.io` |
+
+We use DNS-only records during domain validation and certificate provisioning, then enable **Enforce HTTPS** in the repository's Pages settings when GitHub makes it available.
+The GitHub custom-domain setting, rather than the artifact's `CNAME` file, controls the domain for an Actions deployment.
+GitHub documents the records and validation steps in [Managing a custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).

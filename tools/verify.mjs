@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { monetaryValues } from './financial-values.mjs';
 
 const root = path.resolve('docs/_build/site');
 const data = JSON.parse(fs.readFileSync('docs/_static/atlas/catalog.json', 'utf8'));
@@ -46,6 +47,26 @@ for (const e of [...data.entities, ...data.funding]) {
 }
 
 check(fs.existsSync(path.join(root, '.nojekyll')), 'Missing .nojekyll in built site for GitHub Pages.');
+check(fs.readFileSync(path.join(root, 'CNAME'), 'utf8').trim() === 'bettershanghai.com', 'Incorrect publication domain.');
+const counts = JSON.parse(fs.readFileSync('docs/_templates/coverage.json', 'utf8'));
+check(JSON.stringify(counts) === JSON.stringify(data.counts), 'PDF coverage metadata is stale.');
+for (const record of data.funding) {
+  check(JSON.stringify(monetaryValues(record.amount)) === JSON.stringify(monetaryValues(record.amountZh, 'zh')), `RMB amount differs in Chinese: ${record.id}`);
+}
+for (const lang of ['hi', 'ja', 'ko', 'de', 'es']) {
+  const local = data.i18n[lang];
+  for (const record of data.funding) {
+    const translated = local.funding[record.id];
+    for (const field of ['name', 'amount', 'eligibility', 'deadline']) {
+      check(Boolean(translated?.[field]), `Missing ${lang} funding ${field}: ${record.id}`);
+    }
+    // Currency conversion mistakes change a funding claim, even when a PO is complete.
+    check(JSON.stringify(monetaryValues(record.amount)) === JSON.stringify(monetaryValues(translated?.amount || '', lang)), `RMB amount differs in ${lang}: ${record.id}`);
+  }
+  for (const record of data.entities) {
+    check(Boolean(local.entities[record.id]?.name && local.entities[record.id]?.summary), `Missing ${lang} organization: ${record.id}`);
+  }
+}
 
 let htmlCount = 0, links = 0;
 for (const edition of EDITIONS) {
@@ -66,6 +87,11 @@ for (const edition of EDITIONS) {
     htmlCount++;
     const text = fs.readFileSync(file, 'utf8');
     check(!text.includes('{{ '), `Unrendered template: ${file}`);
+    check((text.match(/class="gd-language"/g) || []).length === 1, `Expected one language menu: ${file}`);
+    for (const folder of EDITIONS) {
+      const relativePage = path.relative(directory, file).replaceAll(path.sep, '/');
+      check(text.includes(`https://bettershanghai.com/${folder}/${relativePage}`), `Missing language alternate ${folder}: ${file}`);
+    }
     for (const match of text.matchAll(/(?:href|src)="([^"]+)"/g)) {
       const url = match[1].replaceAll('&amp;', '&');
       if (!url || url.startsWith('#') || /^(https?:|mailto:|data:|javascript:)/.test(url)) continue;

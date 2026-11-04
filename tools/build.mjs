@@ -45,4 +45,5 @@ fs.writeFileSync(
   '<!doctype html><html lang="en"><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=en/index.html"><title>Shanghai Ecosystem Atlas</title><p><a href="en/index.html">English</a> / <a href="zh-CN/index.html" lang="zh-CN">简体中文</a> / <a href="hi/index.html" lang="hi">हिन्दी</a> / <a href="ja/index.html" lang="ja">日本語</a> / <a href="ko/index.html" lang="ko">한국어</a> / <a href="de/index.html" lang="de">Deutsch</a> / <a href="es/index.html" lang="es">Español</a></p></html>\n'
 );
 fs.writeFileSync('docs/_build/site/.nojekyll', '');
+fs.writeFileSync('docs/_build/site/CNAME', 'bettershanghai.com\n');
 console.log('\nBuilt all 7 PDF books and all 7 website editions in docs/_build/site/.');

@@ -1,5 +1,7 @@
 # Guidedog GitHub Pages configuration for the assembled multi-language site.
+repository = "insanai/shaiecosystem"
 site = "docs/_build/site"
+site_url = "https://bettershanghai.com"
 branch = "gh-pages"
 profile = "default"
 strict = true
