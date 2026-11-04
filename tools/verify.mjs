@@ -35,6 +35,8 @@ for (const lang of LANGS) {
 }
 
 check(data.districts.length === 16, 'The atlas must include 16 districts.');
+check(data.license?.name === 'CC BY-SA 4.0', 'The dataset must identify its CC BY-SA license.');
+check(Boolean(data.license?.notice && data.license?.exceptions), 'The dataset must identify third-party exceptions.');
 check(data.entities.filter(e => e.category === 'University').length === 40, 'The undergraduate directory must contain 40 institutions.');
 check(new Set(data.entities.map(e => e.id)).size === data.entities.length, 'Organization IDs must be unique.');
 check(new Set(data.funding.map(e => e.id)).size === data.funding.length, 'Funding IDs must be unique.');
@@ -54,6 +56,17 @@ for (const file of [...walk('data'), ...walk('docs')].filter(f => !f.includes('/
 
 check(fs.existsSync(path.join(root, '.nojekyll')), 'Missing .nojekyll in built site for GitHub Pages.');
 check(fs.readFileSync(path.join(root, 'CNAME'), 'utf8').trim() === 'bettershanghai.com', 'Incorrect publication domain.');
+const entry = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
+check(entry.includes('src="language-entry.js" defer'), 'The entry page must load browser-language detection.');
+check(!/http-equiv="refresh"/i.test(entry), 'An unconditional refresh would override the browser language.');
+check(fs.readFileSync(path.join(root, 'language-entry.js'), 'utf8') === fs.readFileSync('docs/_static/language-entry.js', 'utf8'), 'The published language selector is stale.');
+for (const edition of EDITIONS) {
+  check(entry.includes(`href="${edition}/index.html"`), `Missing no-JavaScript language choice: ${edition}`);
+}
+const bookLabels = JSON.parse(fs.readFileSync('docs/_templates/book-labels.json', 'utf8'));
+for (const edition of ['en', 'zh', 'hi', 'ja', 'ko', 'de', 'es']) {
+  check(Boolean(bookLabels[edition]?.license && bookLabels[edition]?.rights), `Missing book license notice: ${edition}`);
+}
 const counts = JSON.parse(fs.readFileSync('docs/_templates/coverage.json', 'utf8'));
 check(JSON.stringify(counts) === JSON.stringify(data.counts), 'PDF coverage metadata is stale.');
 for (const record of data.funding) {
@@ -94,6 +107,8 @@ for (const edition of EDITIONS) {
     const text = fs.readFileSync(file, 'utf8');
     check(!emailAddress.test(text), `Email address found in published page: ${file}`);
     check(!text.includes('{{ '), `Unrendered template: ${file}`);
+    check(text.includes('rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"'), `Missing CC BY-SA notice: ${file}`);
+    check(!text.includes('src="language-entry.js"'), `Explicit language pages must not redirect: ${file}`);
     check((text.match(/class="gd-language"/g) || []).length === 1, `Expected one language menu: ${file}`);
     for (const folder of EDITIONS) {
       const relativePage = path.relative(directory, file).replaceAll(path.sep, '/');

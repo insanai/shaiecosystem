@@ -7,6 +7,7 @@ Original Atlas material is licensed under [CC BY-SA 4.0](https://creativecommons
 
 We publish an interactive website and illustrated PDF books in English, Simplified Chinese, Hindi, Japanese, Korean, German and Spanish using [Guidedog](https://github.com/insanai/guidedog).
 The research edition is dated 4 November 2026 and contains 133 organization profiles, 53 funding and cost-support routes, and 144 cited sources across Shanghai's 16 districts.
+Publication revision: **2026.11.1**.
 We include profiles for all 40 undergraduate institutions in the June 2026 Ministry of Education Shanghai register, with separate registers of 29 diploma colleges and 12 adult institutions.
 Coverage is a researched selection, rather than an exhaustive census of every program.
 We distinguish published policies, closed calls and opportunities whose current intake needs confirmation.
@@ -79,6 +80,8 @@ These maintained publication inputs stay in Git so `guidedog serve docs` works i
 It also compares RMB amounts across all seven languages and checks that PDF coverage metadata matches the dataset.
 The November review corrected literal startup terminology, translated front matter, missing funding conditions and material currency discrepancies.
 Program names and original source titles remain searchable in their official forms.
+The editorial language review covers Simplified Chinese, Hindi, Japanese, Korean, German and Spanish, including chapter copy, funding explanations, application steps and interface terminology.
+The terminology references and translation rules are recorded in [data/editorial-language-guide.json](data/editorial-language-guide.json).
 We publish names, telephone numbers and official contact websites, while omitting email addresses from the repository's content, books, datasets and CSV exports.
 
 ## Shanghai template and artwork
