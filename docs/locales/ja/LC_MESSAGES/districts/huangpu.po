@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -33,11 +33,6 @@ msgid ""
 msgstr "2025〜2026年の張江黄浦園計画はフィンテックと臨床研究サービスに重点を置いている。「黄浦創卡（Huangpu ChuangKa）」は別途実施されている若手起業家支援ルートであり、申請資格と現時点での席・ワークステーションの空き状況を確認する必要がある。"
 
 #: ../../districts/huangpu.rst:8
-
-#| msgid ""
-#| "`Evidence S100 "
-#| "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
-#| "黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
 msgid ""
 "`Evidence S103 "
 "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
@@ -76,25 +71,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+msgstr "日付のある公募通知で、所在地、申請主体、事業内容、対象経費の期間を確認する。"
 
 #: ../../districts/huangpu.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+msgstr "必要書類をそろえ、求められる場合は所属機関や区の推薦を得る。"
 
 #: ../../districts/huangpu.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+msgstr "締切までに公式システムで提出し、受付証を保存する。"
 
 #: ../../districts/huangpu.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+msgstr "通知に従い、審査、採択、報告、検収、交付の手続きを進める。"
 
 #: ../../districts/huangpu.rst:32
 msgid ""
@@ -116,7 +111,7 @@ msgid ""
 "reported offer. Current capacity, applicant eligibility and additional "
 "subsidies must be checked separately. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`黄浦創卡（Huangpu ChuangKa） </entities/huangpu-chuangka>` （黄浦创卡 · インキュベーター · ソフトウェアAI、コンシューマー・消費）— 上海市人社部門が公表した青年起業家支援ルート。報道された特典には最大6ヶ月間の無料コワーキングデスクが含まれる。現在の受入枠、申請資格、追加補助金については個別に確認が必要。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`黄浦創卡（Huangpu ChuangKa） </entities/huangpu-chuangka>` （黄浦创卡 · インキュベーター · ソフトウェアAI、消費者向け）— 上海市人社部門が公表した青年起業家支援ルート。報道された特典には最大6ヶ月間の無料コワーキングデスクが含まれる。現在の受入枠、申請資格、追加補助金については個別に確認が必要。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/huangpu.rst:38
 msgid ""
@@ -126,7 +121,7 @@ msgid ""
 "direction with the HRSS \"Entrepreneurship Companion Plan\" mentor and "
 "service network for early-stage digital and financial technology "
 "founders. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`黄浦フィンテック集積・起業伴走（ペイパオ）計画 </entities/huangpu-peipao>` （黄浦金融科技集聚与创业陪跑计划 · アクセラレーター · ソフトウェアAI、コンシューマー・消費）— 黄浦区の今後5年間のフィンテック重点集積方針と、区人社局の「起業伴走計画」メンター・サービスネットワークを融合。アーリーステージのデジタル技術および金融テクノロジー創業者を支援。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`黄浦フィンテック集積・起業伴走（ペイパオ）計画 </entities/huangpu-peipao>` （黄浦金融科技集聚与创业陪跑计划 · アクセラレーター · ソフトウェアAI、消費者向け）— 黄浦区の今後5年間のフィンテック重点集積方針と、区人社局の「起業伴走計画」メンター・サービスネットワークを融合。アーリーステージのデジタル技術および金融テクノロジー創業者を支援。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/huangpu.rst:40
 msgid "Funding routes"
@@ -139,7 +134,7 @@ msgid ""
 "repayable) — Product-specific bank credit, startup guarantee and "
 "IP-backed finance. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`黄浦区融資信用金融商品ディレクトリ </funding/huangpu-credit-directory>` （黄浦融资信用产品目录 · 融資・ローン · 株式の提供不要・返済義務あり）— 提携銀行ごとの与信枠、創業担保融資、知財担保ファイナンス条件に従う。ステータス：公表名簿掲載（融資機関による審査要）。時期：商品ごとに異なる（各金融機関の現行条件を確認のこと）。"
+msgstr ":doc:`黄浦区融資信用金融商品ディレクトリ </funding/huangpu-credit-directory>` （黄浦融资信用产品目录 · 融資・ローン · 株式提供の義務なし・返済が必要）— 提携銀行ごとの与信枠、創業担保融資、知財担保ファイナンス条件に従う。ステータス：公表名簿掲載（融資機関による審査要）。時期：商品ごとに異なる（各金融機関の現行条件を確認のこと）。"
 
 #: ../../districts/huangpu.rst:45
 msgid ":doc:`Also compare citywide funding </funding>`"

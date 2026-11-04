@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -24,7 +24,7 @@ msgstr "大学と研究成果の産業化"
 msgid ""
 "40 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "出典、連絡ルート、申請チェックリスト付きの 40 件のプロファイル。機関の存在と現在の募集状況は区別して記載しています。"
+msgstr "40機関の情報を、出典・連絡先・申請の参考手順とともに収録。機関の情報と、現在の受付状況は区別して示す。"
 
 #: ../../universities.rst:6
 msgid ""
@@ -53,7 +53,7 @@ msgid ""
 "not a verified offer of laboratory access or startup funding. Address: "
 "220 Handan Road, Yangpu | Tel: +86 21 65642222. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`復旦大学 <entities/university-fudan>` (复旦大学 · 大学・高等教育機関 · 楊浦区 · MOE 4131010246) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：ソフトウェアAI、半導体チップ、科学のためのAI（AI for Science）。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 楊浦区邯鄲路220号 | Tel: +86 21 65642222. [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`復旦大学 <entities/university-fudan>` (复旦大学 · 大学・高等教育機関 · 楊浦区 · MOE 4131010246) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：ソフトウェアAI、半導体チップ、科学のためのAI（AI for Science）。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 楊浦区邯鄲路220号 | Tel: +86 21 65642222. [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:16
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. Address: 2F, West Building, 100 Guokang Road, Yangpu "
 "| Tel: +86 21 65069006. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`同済大学 <entities/university-tongji>` (同济大学 · 大学・高等教育機関 · 楊浦区 · MOE 4131010247) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：自律知能システム、モビリティ、ロボティクス、都市・建築環境。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 楊浦区国康路100号西楼2階 | Tel: +86 21 65069006. [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`同済大学 <entities/university-tongji>` (同济大学 · 大学・高等教育機関 · 楊浦区 · MOE 4131010247) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：自律知能システム、モビリティ、ロボティクス、都市・建築環境。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 楊浦区国康路100号西楼2階 | Tel: +86 21 65069006. [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:17
 msgid ""
@@ -74,7 +74,7 @@ msgid ""
 "Robotics, chips, engineering, medical AI. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海交通大学 <entities/university-sjtu>` (上海交通大学 · 大学・高等教育機関 · 閔行区 · MOE 4131010248) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：ロボティクス、半導体チップ、先端エンジニアリング、医療AI。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海交通大学 <entities/university-sjtu>` (上海交通大学 · 大学・高等教育機関 · 閔行区 · MOE 4131010248) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：ロボティクス、半導体チップ、先端エンジニアリング、医療AI。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:18
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "bioprocessing, AI for Science. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`華東理工大学 <entities/university-ecust>` (华东理工大学 · 大学・高等教育機関 · 徐匯区 · MOE 4131010251) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：材料科学、化学工学、バイオプロセス、科学のためのAI（AI for Science）。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`華東理工大学 <entities/university-ecust>` (华东理工大学 · 大学・高等教育機関 · 徐匯区 · MOE 4131010251) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：材料科学、化学工学、バイオプロセス、科学のためのAI（AI for Science）。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:19
 msgid ""
@@ -96,7 +96,7 @@ msgid ""
 "sensors, advanced equipment. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海理工大学 <entities/university-usst>` (上海理工大学 · 大学・高等教育機関 · 楊浦区 · MOE 4131010252) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：光学工学、医療機器、センサー、高度製造装置。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海理工大学 <entities/university-usst>` (上海理工大学 · 大学・高等教育機関 · 楊浦区 · MOE 4131010252) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：光学工学、医療機器、センサー、高度製造装置。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:20
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`上海海事大学 <entities/university-maritime>` (上海海事大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131010254) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：海運、物流システム、自律運航・スマート海洋システム。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海海事大学 <entities/university-maritime>` (上海海事大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131010254) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：海運、物流システム、自律運航・スマート海洋システム。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:21
 msgid ""
@@ -117,7 +117,7 @@ msgid ""
 "themes: Advanced fibers, materials, design, smart textiles. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`東華大学 <entities/university-donghua>` (东华大学 · 大学・高等教育機関 · 松江区 · MOE 4131010255) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：先端繊維、高機能材料、デザイン、スマートテキスタイル。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`東華大学 <entities/university-donghua>` (东华大学 · 大学・高等教育機関 · 松江区 · MOE 4131010255) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：先端繊維、高機能材料、デザイン、スマートテキスタイル。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:22
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "intelligence, industrial control. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海電力大学 <entities/university-electric-power>` (上海电力大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131010256) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：エネルギーシステム、スマートグリッド、産業制御システム。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海電力大学 <entities/university-electric-power>` (上海电力大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131010256) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：エネルギーシステム、スマートグリッド、産業制御システム。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:23
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`上海応用技術大学 <entities/university-sit>` (上海应用技术大学 · 大学・高等教育機関 · 奉賢区 · MOE 4131010259) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：応用工学、材料科学、インダストリアルAI。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海応用技術大学 <entities/university-sit>` (上海应用技术大学 · 大学・高等教育機関 · 奉賢区 · MOE 4131010259) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：応用工学、材料科学、インダストリアルAI。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:24
 msgid ""
@@ -150,7 +150,7 @@ msgid ""
 "clinical applications. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海健康医学院 <entities/university-sumhs>` (上海健康医学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131010262) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：ヘルスケア機器、診断技術、臨床医療応用。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海健康医学院 <entities/university-sumhs>` (上海健康医学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131010262) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：ヘルスケア機器、診断技術、臨床医療応用。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:25
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "Marine science, aquaculture, smart agriculture. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海海洋大学 <entities/university-ocean>` (上海海洋大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131010264) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：海洋科学、水産養殖、スマート農業。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海海洋大学 <entities/university-ocean>` (上海海洋大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131010264) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：海洋科学、水産養殖、スマート農業。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:26
 msgid ""
@@ -171,7 +171,7 @@ msgid ""
 "medical data. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海中医薬大学 <entities/university-tcm>` (上海中医药大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131010268) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：医療ヘルスケア、新薬開発、医療ビッグデータ。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海中医薬大学 <entities/university-tcm>` (上海中医药大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131010268) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：医療ヘルスケア、新薬開発、医療ビッグデータ。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:27
 msgid ""
@@ -181,7 +181,7 @@ msgid ""
 "Software, education AI, data science, microelectronics. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`華東師範大学 <entities/university-ecnu>` (华东师范大学 · 大学・高等教育機関 · 普陀区 · MOE 4131010269) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：ソフトウェア工学、教育AI、データサイエンス、マイクロエレクトロニクス。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`華東師範大学 <entities/university-ecnu>` (华东师范大学 · 大学・高等教育機関 · 普陀区 · MOE 4131010269) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：ソフトウェア工学、教育AI、データサイエンス、マイクロエレクトロニクス。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:28
 msgid ""
@@ -191,7 +191,7 @@ msgid ""
 "Education, computer science, creative technology. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海師範大学 <entities/university-shnu>` (上海师范大学 · 大学・高等教育機関 · 徐匯区 · MOE 4131010270) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：教育工学、コンピュータサイエンス、クリエイティブテクノロジー。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海師範大学 <entities/university-shnu>` (上海师范大学 · 大学・高等教育機関 · 徐匯区 · MOE 4131010270) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：教育工学、コンピュータサイエンス、クリエイティブテクノロジー。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:29
 msgid ""
@@ -202,7 +202,7 @@ msgid ""
 "translation, international markets. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海外国語大学 <entities/university-sisu>` (上海外国语大学 · 大学・高等教育機関 · 虹口区 · MOE 4131010271) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：言語技術、自然言語処理・翻訳、海外市場展開。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海外国語大学 <entities/university-sisu>` (上海外国语大学 · 大学・高等教育機関 · 虹口区 · MOE 4131010271) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：言語技術、自然言語処理・翻訳、海外市場展開。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:30
 msgid ""
@@ -213,7 +213,7 @@ msgid ""
 "models. These themes are editorial routing guidance, not a verified offer "
 "of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海財経大学 <entities/university-sufe>` (上海财经大学 · 大学・高等教育機関 · 楊浦区 · MOE 4131010272) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：フィンテック、ビジネスアナリティクス、ビジネスモデル設計。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海財経大学 <entities/university-sufe>` (上海财经大学 · 大学・高等教育機関 · 楊浦区 · MOE 4131010272) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：フィンテック、ビジネスアナリティクス、ビジネスモデル設計。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:31
 msgid ""
@@ -224,7 +224,7 @@ msgid ""
 "cross-border business. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海対外経貿大学 <entities/university-suibe>` (上海对外经贸大学 · 大学・高等教育機関 · 松江区 · MOE 4131010273) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：国際貿易、電子商取引、越境ビジネス。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海対外経貿大学 <entities/university-suibe>` (上海对外经贸大学 · 大学・高等教育機関 · 松江区 · MOE 4131010273) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：国際貿易、電子商取引、越境ビジネス。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:32
 msgid ""
@@ -234,7 +234,7 @@ msgid ""
 "Customs, trade processes, compliance systems. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海海関学院 <entities/university-customs>` (上海海关学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131010274) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：税関行政、貿易通関プロセス、コンプライアンス管理システム。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海海関学院 <entities/university-customs>` (上海海关学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131010274) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：税関行政、貿易通関プロセス、コンプライアンス管理システム。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:33
 msgid ""
@@ -245,7 +245,7 @@ msgid ""
 "technology. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`華東政法大学 <entities/university-ecupl>` (华东政法大学 · 大学・高等教育機関 · 松江区 · MOE 4131010276) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：知的財産権、データガバナンス、リーガルテック。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`華東政法大学 <entities/university-ecupl>` (华东政法大学 · 大学・高等教育機関 · 松江区 · MOE 4131010276) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：知的財産権、データガバナンス、リーガルテック。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:34
 msgid ""
@@ -255,7 +255,7 @@ msgid ""
 "Sports science, motion analysis, wearables. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海体育大学 <entities/university-sport>` (上海体育大学 · 大学・高等教育機関 · 楊浦区 · MOE 4131010277) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：スポーツ科学、動作解析・生体計測、ウェアラブル端末。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海体育大学 <entities/university-sport>` (上海体育大学 · 大学・高等教育機関 · 楊浦区 · MOE 4131010277) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：スポーツ科学、動作解析・生体計測、ウェアラブル端末。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:35
 msgid ""
@@ -265,7 +265,7 @@ msgid ""
 "Audio AI, music technology, creative tools. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海音楽学院 <entities/university-music>` (上海音乐学院 · 大学・高等教育機関 · 徐匯区 · MOE 4131010278) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：音声・音響AI、音楽テクノロジー、創作支援ツール。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海音楽学院 <entities/university-music>` (上海音乐学院 · 大学・高等教育機関 · 徐匯区 · MOE 4131010278) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：音声・音響AI、音楽テクノロジー、創作支援ツール。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:36
 msgid ""
@@ -275,7 +275,7 @@ msgid ""
 "Performance, virtual production, creative media. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海戯劇学院 <entities/university-theatre>` (上海戏剧学院 · 大学・高等教育機関 · 静安区 · MOE 4131010279) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：舞台芸術・パフォーマンス、バーチャルプロダクション、デジタルメディア。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海戯劇学院 <entities/university-theatre>` (上海戏剧学院 · 大学・高等教育機関 · 静安区 · MOE 4131010279) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：舞台芸術・パフォーマンス、バーチャルプロダクション、デジタルメディア。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:37
 msgid ""
@@ -286,7 +286,7 @@ msgid ""
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. Address: 3F, Science Building, 788 Guangzhong Road, "
 "Jing'an. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海大学 <entities/university-shu>` (上海大学 · 大学・高等教育機関 · 静安区 · MOE 4131010280) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：先進製造、ロボティクス、先端材料、デジタルメディア。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 静安区広中路788号科技楼3階. [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海大学 <entities/university-shu>` (上海大学 · 大学・高等教育機関 · 静安区 · MOE 4131010280) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：先進製造、ロボティクス、先端材料、デジタルメディア。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 静安区広中路788号科技楼3階. [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:38
 msgid ""
@@ -296,7 +296,7 @@ msgid ""
 "Public-safety education; external project access unverified. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海公安学院 <entities/university-police>` (上海公安学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131010283) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：公共安全教育（学外プロジェクト連携受入は未確認）。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海公安学院 <entities/university-police>` (上海公安学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131010283) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：公共安全教育（学外プロジェクト連携受入は未確認）。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:39
 msgid ""
@@ -307,7 +307,7 @@ msgid ""
 "manufacturing, design. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海工程技術大学 <entities/university-sues>` (上海工程技术大学 · 大学・高等教育機関 · 松江区 · MOE 4131010856) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：エンジニアリング、モビリティ、高度製造、インダストリアルデザイン。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海工程技術大学 <entities/university-sues>` (上海工程技术大学 · 大学・高等教育機関 · 松江区 · MOE 4131010856) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：エンジニアリング、モビリティ、高度製造、インダストリアルデザイン。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:40
 msgid ""
@@ -318,7 +318,7 @@ msgid ""
 "business analytics. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海立信会計金融学院 <entities/university-lixin>` (上海立信会计金融学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131011047) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：会計情報システム、フィンテック、ビジネスアナリティクス。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海立信会計金融学院 <entities/university-lixin>` (上海立信会计金融学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131011047) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：会計情報システム、フィンテック、ビジネスアナリティクス。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:41
 msgid ""
@@ -328,7 +328,7 @@ msgid ""
 "Electrical equipment, advanced manufacturing. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海電機学院 <entities/university-dianji>` (上海电机学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131011458) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：電気機器、スマート製造、重電設備。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海電機学院 <entities/university-dianji>` (上海电机学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131011458) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：電気機器、スマート製造、重電設備。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:42
 msgid ""
@@ -338,7 +338,7 @@ msgid ""
 "digital business and talent partnerships. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海杉達学院 <entities/university-sanda>` (上海杉达学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131011833) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：応用デジタルビジネス、産学人材育成パートナーシップ。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海杉達学院 <entities/university-sanda>` (上海杉达学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131011833) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：応用デジタルビジネス、産学人材育成パートナーシップ。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:43
 msgid ""
@@ -349,7 +349,7 @@ msgid ""
 "governance. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海政法学院 <entities/university-shupl>` (上海政法学院 · 大学・高等教育機関 · 青浦区 · MOE 4131011835) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：リーガルテック、知的財産権、法務ガバナンス。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海政法学院 <entities/university-shupl>` (上海政法学院 · 大学・高等教育機関 · 青浦区 · MOE 4131011835) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：リーガルテック、知的財産権、法務ガバナンス。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:44
 msgid ""
@@ -360,7 +360,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`上海第二工業大学 <entities/university-polytechnic>` (上海第二工业大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131012044) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：応用工学、電子工学、スマート製造。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海第二工業大学 <entities/university-polytechnic>` (上海第二工业大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131012044) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：応用工学、電子工学、スマート製造。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:45
 msgid ""
@@ -370,7 +370,7 @@ msgid ""
 "Digital retail, commerce, service innovation. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海商学院 <entities/university-business>` (上海商学院 · 大学・高等教育機関 · 奉賢区 · MOE 4131012050) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：デジタルリテール、商取引、サービスイノベーション。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海商学院 <entities/university-business>` (上海商学院 · 大学・高等教育機関 · 奉賢区 · MOE 4131012050) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：デジタルリテール、商取引、サービスイノベーション。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:46
 msgid ""
@@ -380,7 +380,7 @@ msgid ""
 "themes: Applied business, design and creative technology. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海立達学院 <entities/university-lida>` (上海立达学院 · 大学・高等教育機関 · 松江区 · MOE 4131012587) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：応用ビジネス、デザイン、クリエイティブテクノロジー。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海立達学院 <entities/university-lida>` (上海立达学院 · 大学・高等教育機関 · 松江区 · MOE 4131012587) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：応用ビジネス、デザイン、クリエイティブテクノロジー。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:47
 msgid ""
@@ -390,7 +390,7 @@ msgid ""
 "collaboration themes: Applied engineering, digital media, business. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海建橋学院 <entities/university-jianqiao>` (上海建桥学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131012799) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：応用エンジニアリング、デジタルメディア、ビジネス実務。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海建橋学院 <entities/university-jianqiao>` (上海建桥学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131012799) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：応用エンジニアリング、デジタルメディア、ビジネス実務。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:48
 msgid ""
@@ -400,7 +400,7 @@ msgid ""
 "Interdisciplinary education and entrepreneurship conversations. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海興偉学院 <entities/university-xingwei>` (上海兴伟学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131012914) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：学際的リベラルアーツ教育、起業家育成ダイアログ。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海興偉学院 <entities/university-xingwei>` (上海兴伟学院 · 大学・高等教育機関 · 浦東新区 · MOE 4131012914) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：学際的リベラルアーツ教育、起業家育成ダイアログ。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:49
 msgid ""
@@ -411,7 +411,7 @@ msgid ""
 "undergraduate engineering and applied skills. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海中僑職業技術大学 <entities/university-zhongqiao>` (上海中侨职业技术大学 · 大学・高等教育機関 · 金山区 · MOE 4131012915) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：職業学士エンジニアリング、応用技術・スキル。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海中僑職業技術大学 <entities/university-zhongqiao>` (上海中侨职业技术大学 · 大学・高等教育機関 · 金山区 · MOE 4131012915) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：職業学士エンジニアリング、応用技術・スキル。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:50
 msgid ""
@@ -422,7 +422,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`上海視覚芸術学院 <entities/university-siva>` (上海视觉艺术学院 · 大学・高等教育機関 · 松江区 · MOE 4131013632) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：ビジュアルデザイン、デジタルコンテンツ制作、クリエイティブテック。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海視覚芸術学院 <entities/university-siva>` (上海视觉艺术学院 · 大学・高等教育機関 · 松江区 · MOE 4131013632) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：ビジュアルデザイン、デジタルコンテンツ制作、クリエイティブテック。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:51
 msgid ""
@@ -433,7 +433,7 @@ msgid ""
 "and creative applications. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海外国語大学賢達経済人文学院 <entities/university-xianda>` (上海外国语大学贤达经济人文学院 · 大学・高等教育機関 · 虹口区 · MOE 4131013636) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：多言語応用、国際ビジネス、クリエイティブ展開。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海外国語大学賢達経済人文学院 <entities/university-xianda>` (上海外国语大学贤达经济人文学院 · 大学・高等教育機関 · 虹口区 · MOE 4131013636) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：多言語応用、国際ビジネス、クリエイティブ展開。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:52
 msgid ""
@@ -444,7 +444,7 @@ msgid ""
 "engineering and digital business. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海師範大学天華学院 <entities/university-tianhua>` (上海师范大学天华学院 · 大学・高等教育機関 · 嘉定区 · MOE 4131013893) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：応用教育学、実践エンジニアリング、デジタルビジネス。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海師範大学天華学院 <entities/university-tianhua>` (上海师范大学天华学院 · 大学・高等教育機関 · 嘉定区 · MOE 4131013893) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：応用教育学、実践エンジニアリング、デジタルビジネス。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:53
 msgid ""
@@ -454,7 +454,7 @@ msgid ""
 "Chips, software AI, scientific instruments, biotech. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海科技大学 <entities/university-shanghaitech>` (上海科技大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131014423) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：半導体チップ、ソフトウェアAI、先端科学計測機器、バイオテクノロジー。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海科技大学 <entities/university-shanghaitech>` (上海科技大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131014423) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：半導体チップ、ソフトウェアAI、先端科学計測機器、バイオテクノロジー。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../universities.rst:54
 msgid ""
@@ -464,4 +464,4 @@ msgid ""
 "science, computation and international research. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海ニューヨーク大学（NYU Shanghai） <entities/university-nyu>` (上海纽约大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131016404) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：データサイエンス、高度計算科学、国際共同研究。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海ニューヨーク大学（NYU Shanghai） <entities/university-nyu>` (上海纽约大学 · 大学・高等教育機関 · 浦東新区 · MOE 4131016404) — 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：データサイエンス、高度計算科学、国際共同研究。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。 [機関情報を確認済み・現在の受付は要確認]"

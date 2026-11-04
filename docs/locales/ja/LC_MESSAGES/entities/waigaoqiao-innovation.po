@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -31,7 +31,7 @@ msgstr "研究プラットフォーム｜浦東新区｜調査確認日 2026-11-
 #: ../../entities/waigaoqiao-innovation.rst:8
 msgid ""
 "AI and industry focus: AI for Science, Health, Hardware AI, Robotics."
-msgstr "AIおよび産業フォーカス：科学知能（AI for Science）、ヘルスケア・医療、ハードウェアAI、ロボティクス。"
+msgstr "AIおよび産業フォーカス：科学研究へのAI活用、ヘルスケア・医療、ハードウェアAI、ロボティクス。"
 
 #: ../../entities/waigaoqiao-innovation.rst:10
 msgid ""
@@ -66,7 +66,7 @@ msgstr "ステータスと支援内容"
 
 #: ../../entities/waigaoqiao-innovation.rst:19
 msgid "Published entity; intake to confirm"
-msgstr "公表済み組織（公募状況の確認要）"
+msgstr "機関情報を確認済み・現在の受付は要確認"
 
 #: ../../entities/waigaoqiao-innovation.rst:21
 msgid ""
@@ -109,23 +109,23 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Find the relevant research group and state the scientific or industrial "
 "problem."
-msgstr "関連する研究グループを特定し、解決すべき学術的または産業的課題を明確にする。"
+msgstr "研究分野の合うチームを探し、科学的・産業的な課題を明確にする。"
 
 #: ../../entities/waigaoqiao-innovation.rst:39
 msgid ""
 "Send a short proposal covering data, equipment, outputs, funding and "
 "timescale."
-msgstr "データ、設備、研究成果、必要予算、およびタイムラインを網羅した簡潔な共同研究提案書を送付する。"
+msgstr "データ、設備、成果、予算、日程をまとめた簡潔な提案書を送る。"
 
 #: ../../entities/waigaoqiao-innovation.rst:41
 msgid ""
 "Agree the collaboration route, publication, IP and institutional "
 "authorization."
-msgstr "連携スキーム、論文発表、知的財産の帰属、および所属機関の承認手続きについて合意する。"
+msgstr "連携方法、成果発表、知的財産、機関の承認を取り決める。"
 
 #: ../../entities/waigaoqiao-innovation.rst:43
 msgid "Obtain written access or project approval before beginning the work."
-msgstr "研究業務を開始する前に、書面による施設利用許可またはプロジェクト承認を取得する。"
+msgstr "作業開始前に、書面で利用許可または事業承認を得る。"
 
 #: ../../entities/waigaoqiao-innovation.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"

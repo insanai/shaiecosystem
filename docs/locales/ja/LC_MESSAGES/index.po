@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -35,10 +35,6 @@ msgid ""
 msgstr "アクセラレーター、創業者、研究者、AIに関心のある人のための、7言語の図解ガイド。上海の全16区にわたり、大学、ソフトウェア・ハードウェアのAIコミュニティ、実用的な支援制度をつなぐ。"
 
 #: ../../index.rst:10
-
-#| msgid ""
-#| "Research edition: 2026-11-04. 131 organization profiles. 50 funding "
-#| "routes. 16 districts. 140 cited sources."
 msgid ""
 "Research edition: 2026-11-04. 133 organization profiles. 53 funding "
 "routes. 16 districts. 144 cited sources."
@@ -73,12 +69,6 @@ msgid ""
 msgstr "上海市の全行政区について、公的資料に基づく重点産業分野、管轄行政機関、現地イノベーション拠点、大学、および区レベルの資金調達ルートをウェブサイトとPDF書籍の双方で完全収録しています："
 
 #: ../../index.rst:23
-
-#| msgid ""
-#| "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation "
-#| "models, chips, biomedicine and advanced manufacturing**. Authority: "
-#| "Pudong Science, Technology and Economy Commission. (40 organizations, "
-#| "4 district funding routes)"
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
@@ -210,7 +200,7 @@ msgid ""
 "logic across central Shanghai, industrial corridors, five新城 (New Cities) "
 "and Chongming Eco-Island, plus magnolia design notes and authorship "
 "credits."
-msgstr ":doc:`つながりあう可能性の都市 <reading-the-city>` — 上海中心部、産業回廊、5大新城（五つの新都市）、崇明エコインランドを貫く空間ロジックに加え、白玉蘭（ハクモクレン）のデザインノートと執筆クレジット。"
+msgstr ":doc:`上海のイノベーション案内 <reading-the-city>` — 上海中心部、産業回廊、5大新城（五つの新都市）、崇明エコインランドを貫く空間ロジックに加え、白玉蘭（ハクモクレン）のデザインノートと執筆クレジット。"
 
 #: ../../index.rst:44
 msgid ""
@@ -224,14 +214,14 @@ msgid ""
 ":doc:`Intelligence in software <software-ai>` — Foundation models, "
 "vertical agents, Model Speed Space, Zhangjiang Model Community, "
 "compute/corpus vouchers and compliance routing."
-msgstr ":doc:`ソフトウェアにおける知能 <software-ai>` — 基盤モデル、垂直特化型エージェント、模速空間（Model Speed Space）、張江模力コミュニティ、計算資源・コーパスバウチャー、および法規制コンプライアンスの対応ルート。"
+msgstr ":doc:`ソフトウェアとAI活用 <software-ai>` — 基盤モデル、垂直特化型エージェント、模速空間（Model Speed Space）、張江模力コミュニティ、計算資源・コーパスバウチャー、および法規制コンプライアンスの対応ルート。"
 
 #: ../../index.rst:46
 msgid ""
 ":doc:`Intelligence in the physical world <hardware-ai>` — AI chips, "
 "EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, "
 "BCI and wet-lab biocomputing."
-msgstr ":doc:`物理世界における知能 <hardware-ai>` — AI半導体チップ、EDAおよびMPWテープアウト、MEMSセンサー、身体性ロボティクス、低空飛行ドローン、BCI（脳機インタフェース）、ウェットラボ・バイオコンピューティング。"
+msgstr ":doc:`AIハードウェアとロボット <hardware-ai>` — AI半導体チップ、EDAおよびMPWテープアウト、MEMSセンサー、身体性ロボティクス、低空飛行ドローン、BCI（脳機インタフェース）、ウェットラボ・バイオコンピューティング。"
 
 #: ../../index.rst:47
 msgid ""
@@ -286,7 +276,7 @@ msgid ""
 ":doc:`Capital, with its conditions attached <funding-guide>` — How to "
 "distinguish non-repayable grants, post-expenditure reimbursements, "
 "vouchers, debt, tax relief and equity investment."
-msgstr ":doc:`資金調達とその附帯条件 <funding-guide>` — 返済不要の補助金、事後精算型補助、イノベーションバウチャー、融資・デット、税制優遇、および株式投資（エクイティ）の見分け方と活用法。"
+msgstr ":doc:`資金調達と支援制度の条件 <funding-guide>` — 返済不要の補助金、事後精算型補助、イノベーションバウチャー、融資・デット、税制優遇、および株式投資（エクイティ）の見分け方と活用法。"
 
 #: ../../index.rst:55
 msgid ""
@@ -307,14 +297,14 @@ msgid ""
 ":doc:`From introduction to application <apply>` — Bilingual outreach "
 "templates, shared data-room checklist, decision workflows and a four-week "
 "accelerator field program."
-msgstr ":doc:`初回アプローチから正式申請まで <apply>` — 日英・中英バイリンガルのアプローチ用テンプレート、共有データルームのチェックリスト、4つの意思決定ワークフロー、およびアクセラレーター向け4週間の現地フィールドプログラム。"
+msgstr ":doc:`初回の相談から申請まで <apply>` — 日英・中英バイリンガルのアプローチ用テンプレート、共有データルームのチェックリスト、4つの意思決定ワークフロー、およびアクセラレーター向け4週間の現地フィールドプログラム。"
 
 #: ../../index.rst:58
 msgid ""
 ":doc:`How to read the evidence <methodology>` — Source verification "
 "rules, translation discipline, map accuracy disclosures, known gaps and "
 "authorship credits."
-msgstr ":doc:`エビデンス（根拠資料）の読み方 <methodology>` — 情報源の検証規則、翻訳の規律、地図精度の開示、既知の情報ギャップ、および執筆チームのクレジット。"
+msgstr ":doc:`出典と調査方法 <methodology>` — 情報源の検証規則、翻訳の規律、地図精度の開示、既知の情報ギャップ、および執筆チームのクレジット。"
 
 #: ../../index.rst:59
 msgid ""

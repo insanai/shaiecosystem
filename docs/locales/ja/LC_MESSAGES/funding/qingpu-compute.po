@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -29,11 +29,6 @@ msgid "Closed"
 msgstr "募集終了"
 
 #: ../../funding/qingpu-compute.rst:8
-
-#| msgid ""
-#| "`Evidence S121 "
-#| "<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. "
-#| "关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府."
 msgid ""
 "`Evidence S124 "
 "<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. "
@@ -52,7 +47,7 @@ msgstr "デジタル経済適用規則に基づき、適格と認められた計
 
 #: ../../funding/qingpu-compute.rst:15
 msgid "No equity"
-msgstr "株式の提供不要"
+msgstr "株式提供の義務なし"
 
 #: ../../funding/qingpu-compute.rst:17
 msgid "Eligibility and timing"
@@ -96,25 +91,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Confirm the actual category, area boundary, supplier and eligible "
 "expenditure period."
-msgstr "バウチャーの対象区分、適用地域境界、指定サプライヤー、および対象経費の支出期間を確認する。"
+msgstr "対象区分、利用範囲、サービス提供者、経費の対象期間を確認する。"
 
 #: ../../funding/qingpu-compute.rst:35
 msgid ""
 "Keep service contracts, invoices, payment evidence and itemized usage "
 "logs."
-msgstr "サービス契約書、発票（公式領収証）、支払い証明、および項目別利用ログを保存する。"
+msgstr "契約書、発票（中国の税務インボイス）、支払証明、利用明細を保存する。"
 
 #: ../../funding/qingpu-compute.rst:37
 msgid ""
 "Use the named platform and current batch; obtain the required district or "
 "operator review."
-msgstr "指定プラットフォームの該当募集枠を利用し、所定の区または運営主体による審査を受ける。"
+msgstr "指定システムの該当募集回に申請し、区や運営者の審査を受ける。"
 
 #: ../../funding/qingpu-compute.rst:39
 msgid ""
 "Check approved amount, duplicate-funding exclusions and payment "
 "conditions."
-msgstr "承認金額、他公的補助との重複受給排除規程、および還付・交付条件を確認する。"
+msgstr "認定額、重複助成の制限、支払条件を確認する。"
 
 #: ../../funding/qingpu-compute.rst:41
 msgid ""

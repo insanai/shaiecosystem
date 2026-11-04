@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -70,25 +70,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+msgstr "日付のある公募通知で、所在地、申請主体、事業内容、対象経費の期間を確認する。"
 
 #: ../../districts/changning.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+msgstr "必要書類をそろえ、求められる場合は所属機関や区の推薦を得る。"
 
 #: ../../districts/changning.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+msgstr "締切までに公式システムで提出し、受付証を保存する。"
 
 #: ../../districts/changning.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+msgstr "通知に従い、審査、採択、報告、検収、交付の手続きを進める。"
 
 #: ../../districts/changning.rst:32
 msgid ""
@@ -110,7 +110,7 @@ msgid ""
 "communities. We treat this record as a district routing entry, not a "
 "single interchangeable operator or a guaranteed free-workspace offer. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`デジタル・シリコンアレイ／虹橋起業支援拠点 </entities/digital-silicon>` （数字硅巷／虹桥创新载体 · インキュベーター · ソフトウェアAI）— 長寧区が整備する階層的なデジタルインキュベーションおよびスーパーインディビジュアル（OPC／一人起業家）向けコミュニティ群。本項目は区の総合窓口案内であり、各運営主体を一括りにしたり無償デスクを保証したりするものではない。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`デジタル・シリコンアレイ／虹橋起業支援拠点 </entities/digital-silicon>` （数字硅巷／虹桥创新载体 · インキュベーター · ソフトウェアAI）— 長寧区が整備する階層的なデジタルインキュベーションおよびスーパーインディビジュアル（OPC／一人起業家）向けコミュニティ群。本項目は区の総合窓口案内であり、各運営主体を一括りにしたり無償デスクを保証したりするものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/changning.rst:38
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "independent founders, combining incubation, AI services, talent support "
 "and global business resources. Confirm the current operator's selection "
 "and service terms. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`東虹橋国際青年科学イノベーションセンター </entities/east-hongqiao>` （东虹桥国际青年科创中心 · インキュベーター · ソフトウェアAI）— 長寧区の2026年5月公式発表で紹介されたAIスーパーインディビジュアル（一人起業家）特化型ハブ。インキュベーション、AI基盤サービス、人材優遇、グローバル展開支援を融合。現行運営者の選考基準とサービス条件を確認のこと。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`東虹橋国際青年科学イノベーションセンター </entities/east-hongqiao>` （东虹桥国际青年科创中心 · インキュベーター · ソフトウェアAI）— 長寧区の2026年5月公式発表で紹介されたAIスーパーインディビジュアル（一人起業家）特化型ハブ。インキュベーション、AI基盤サービス、人材優遇、グローバル展開支援を融合。現行運営者の選考基準とサービス条件を確認のこと。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/changning.rst:40
 msgid "Funding routes"
@@ -132,7 +132,7 @@ msgid ""
 "(2026长宁人工智能产业项目 · Grant · No equity) — Project-specific support after "
 "assessment; no common ceiling established. Status: Closed. Timing: Closed "
 "30 June 2026."
-msgstr ":doc:`2026年長寧区AI・テクノロジーイノベーション特別資金（第1期） </funding/changning-ai-2026>` （2026长宁人工智能产业项目 · 助成金・補助金 · 株式の提供不要）— 審査後、プロジェクトごとに支援額を決定。一律の上限額は確認されていない。ステータス：募集終了。時期：2026年6月30日に公募終了。"
+msgstr ":doc:`2026年長寧区AI・テクノロジーイノベーション特別資金（第1期） </funding/changning-ai-2026>` （2026长宁人工智能产业项目 · 助成金・補助金 · 株式提供の義務なし）— 審査後、プロジェクトごとに支援額を決定。一律の上限額は確認されていない。ステータス：募集終了。時期：2026年6月30日に公募終了。"
 
 #: ../../districts/changning.rst:44
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 "</funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · No equity) — "
 "Funding for assessed and recognized teams under the district talent fund "
 "plan. Status: Closed. Timing: Closed 26 June 2026."
-msgstr ":doc:`2026年長寧区テクノロジースターチーム（科技之星） </funding/changning-tech-star>` （2026长宁科技之星团队 · 助成金・補助金 · 株式の提供不要）— 区人材特別資金計画に基づき、評価・認定された優秀チームに対して資金支援。ステータス：募集終了。時期：2026年6月26日に公募終了。"
+msgstr ":doc:`2026年長寧区テクノロジースターチーム（科技之星） </funding/changning-tech-star>` （2026长宁科技之星团队 · 助成金・補助金 · 株式提供の義務なし）— 区人材特別資金計画に基づき、評価・認定された優秀チームに対して資金支援。ステータス：募集終了。時期：2026年6月26日に公募終了。"
 
 #: ../../districts/changning.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

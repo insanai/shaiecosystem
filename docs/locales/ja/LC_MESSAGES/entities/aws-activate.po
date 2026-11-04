@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -92,20 +92,20 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 #: ../../entities/aws-activate.rst:35
 msgid ""
 "Check incorporation, company age, account region and existing benefits."
-msgstr "法人設立登記、創業年数、アカウント登録地域、および既存の受給状況を確認する。"
+msgstr "法人登録、創業年数、アカウントの地域、既存の特典を確認する。"
 
 #: ../../entities/aws-activate.rst:37
 msgid "Apply through the official program form or qualifying partner route."
-msgstr "公式プログラム申請フォーム、または対象となる提携パートナー経由で申請する。"
+msgstr "公式フォーム、または対象パートナー経由で申請する。"
 
 #: ../../entities/aws-activate.rst:39
 msgid ""
 "Confirm covered services, expiry, fees, usage limits and overage billing."
-msgstr "対象サービス範囲、有効期限、利用料金、利用制限枠、および超過従量課金ルールを確認する。"
+msgstr "対象サービス、有効期限、料金、利用上限、超過料金を確認する。"
 
 #: ../../entities/aws-activate.rst:41
 msgid "Keep usage records and do not describe credits as unrestricted cash."
-msgstr "利用ログを保存し、付与されたクレジットを使途無制限の現預金として扱わない。"
+msgstr "利用記録を残し、クレジットを使途自由の現金として扱わない。"
 
 #: ../../entities/aws-activate.rst:43
 msgid ":doc:`Citywide / global district route </funding>`"

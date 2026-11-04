@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,7 +30,7 @@ msgstr "インキュベーター｜浦東新区｜調査確認日 2026-11-04"
 
 #: ../../entities/atlatl.rst:8
 msgid "AI and industry focus: Health, AI for Science."
-msgstr "AIおよび産業フォーカス：ヘルスケア・医療、科学知能（AI for Science）。"
+msgstr "AIおよび産業フォーカス：ヘルスケア・医療、科学研究へのAI活用。"
 
 #: ../../entities/atlatl.rst:10
 msgid ""
@@ -52,7 +52,7 @@ msgstr "ステータスと支援内容"
 
 #: ../../entities/atlatl.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "公表済み組織（公募状況の確認要）"
+msgstr "機関情報を確認済み・現在の受付は要確認"
 
 #: ../../entities/atlatl.rst:19
 msgid ""
@@ -95,22 +95,22 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 #: ../../entities/atlatl.rst:35
 msgid ""
 "Describe the prototype, required equipment, process and testing needs."
-msgstr "プロトタイプ、必要な設備機器、製造プロセス、および試験・評価要件を明記する。"
+msgstr "試作品の概要と、必要な設備、工程、試験を説明する。"
 
 #: ../../entities/atlatl.rst:37
 msgid "Ask for a technical review, facility visit and itemized quotation."
-msgstr "技術審査、施設の見学、および項目別の詳細見積もりを依頼する。"
+msgstr "技術評価、施設見学、項目別の見積もりを依頼する。"
 
 #: ../../entities/atlatl.rst:39
 msgid ""
 "Agree access, safety, sample and IP ownership, test scope and acceptance."
-msgstr "施設利用条件、安全基準、試作品・サンプルの知的財産権の帰属、テスト範囲および検収基準について合意する。"
+msgstr "利用条件、安全、試料と知的財産の扱い、試験範囲、検収条件を合意する。"
 
 #: ../../entities/atlatl.rst:41
 msgid ""
 "Separate the facility contract from investment or public-funding "
 "applications."
-msgstr "施設利用契約は、投資誘致や公的資金補助の申請とは切り離して個別に進める。"
+msgstr "施設利用の契約と、投資や公的助成の申請は別に進める。"
 
 #: ../../entities/atlatl.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"

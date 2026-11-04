@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,7 +30,7 @@ msgstr "グローバルプログラム｜全市／グローバル｜調査確認
 
 #: ../../entities/siemens.rst:8
 msgid "AI and industry focus: Software AI, Hardware AI, Industry."
-msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI、産業・インダストリー。"
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI、産業。"
 
 #: ../../entities/siemens.rst:10
 msgid ""
@@ -53,7 +53,7 @@ msgstr "ステータスと支援内容"
 
 #: ../../entities/siemens.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "公表済み組織（公募状況の確認要）"
+msgstr "機関情報を確認済み・現在の受付は要確認"
 
 #: ../../entities/siemens.rst:19
 msgid ""
@@ -95,25 +95,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 
 #: ../../entities/siemens.rst:35
 msgid "Identify the corporate business owner and one measurable use case."
-msgstr "企業の事業責任者と、測定可能な具体的なユースケースを1件特定する。"
+msgstr "企業側の事業責任者を確認し、成果を測れる利用場面を定める。"
 
 #: ../../entities/siemens.rst:37
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
-msgstr "製品概要、パイロット検証の実証データ、および関連する技術要件を提出する。"
+msgstr "製品概要、実証結果、技術要件を提出する。"
 
 #: ../../entities/siemens.rst:39
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
-msgstr "募集バッチの空き状況を確認するか、または検証スコープ、データ権利、知的財産権の諸条件に合意する。"
+msgstr "現在の募集状況を確認するか、個別に実証の範囲、データの権利、知的財産を合意する。"
 
 #: ../../entities/siemens.rst:41
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
-msgstr "調達プロセス、支払い条件、検収、および本番導入（商用化）の判断基準を個別に確認する。"
+msgstr "調達、支払い、検収、本番導入の判断をそれぞれ確認する。"
 
 #: ../../entities/siemens.rst:43
 msgid ":doc:`Citywide / global district route </funding>`"

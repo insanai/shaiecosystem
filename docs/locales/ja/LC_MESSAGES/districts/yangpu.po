@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -70,25 +70,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+msgstr "日付のある公募通知で、所在地、申請主体、事業内容、対象経費の期間を確認する。"
 
 #: ../../districts/yangpu.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+msgstr "必要書類をそろえ、求められる場合は所属機関や区の推薦を得る。"
 
 #: ../../districts/yangpu.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+msgstr "締切までに公式システムで提出し、受付証を保存する。"
 
 #: ../../districts/yangpu.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+msgstr "通知に従い、審査、採択、報告、検収、交付の手続きを進める。"
 
 #: ../../districts/yangpu.rst:32
 msgid ""
@@ -109,7 +109,7 @@ msgid ""
 "corporate open innovation and startup incubation and acceleration. Bring "
 "a concrete industrial use case; program participation does not imply a "
 "corporate purchase order. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`創智空間 InnoSpace </entities/innospace>` （创智空间InnoSpace · アクセラレーター · ソフトウェアAI、産業・インダストリー）— 大企業のオープンイノベーション支援およびスタートアップのインキュベーション・アクセラレーションに特化したイノベーションサービス機関。具体的な産業ユースケースを持参してアプローチすることが推奨される。プログラムへの参加自体が企業からの調達・発注を確約するものではない。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`創智空間 InnoSpace </entities/innospace>` （创智空间InnoSpace · アクセラレーター · ソフトウェアAI、産業）— 大企業のオープンイノベーション支援およびスタートアップのインキュベーション・アクセラレーションに特化したイノベーションサービス機関。具体的な産業ユースケースを持参してアプローチすることが推奨される。プログラムへの参加自体が企業からの調達・発注を確約するものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/yangpu.rst:38
 msgid ""
@@ -118,7 +118,7 @@ msgid ""
 "identifies Changyang Campus as a southern core, paired with Bay Valley in "
 "the north. Suitable for neuromorphic computing and commercial AI "
 "collaborations. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`長陽創谷（Changyang Campus） </entities/changyang>` （长阳创谷 · テクノロジーパーク · ソフトウェアAI、ハードウェアAI）— 楊浦区の脳型人工知能推進計画において、北部の湾谷科技園と対をなす南部コア拠点として位置づけられている。ニューロモルフィック・コンピューティングや商用AIの産学官連携に適する。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`長陽創谷（Changyang Campus） </entities/changyang>` （长阳创谷 · テクノロジーパーク · ソフトウェアAI、ハードウェアAI）— 楊浦区の脳型人工知能推進計画において、北部の湾谷科技園と対をなす南部コア拠点として位置づけられている。ニューロモルフィック・コンピューティングや商用AIの産学官連携に適する。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/yangpu.rst:39
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "an approved community operator, the qualifying activity definition, "
 "housing conditions and any service or equity agreement. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`復興島メイカー＆OPC（一人起業家）コミュニティ </entities/fuxing>` （复兴岛创客与OPC社区 · インキュベーター · ソフトウェアAI）— 2026年5月の区政策に基づき、AIを活用する独立系創業者やメイカーコミュニティを支援する拠点。認定コミュニティ運営事業者、対象活動の定義、住居提供条件、サービス契約または株式付与契約の有無を確認のこと。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`復興島メイカー＆OPC（一人起業家）コミュニティ </entities/fuxing>` （复兴岛创客与OPC社区 · インキュベーター · ソフトウェアAI）— 2026年5月の区政策に基づき、AIを活用する独立系創業者やメイカーコミュニティを支援する拠点。認定コミュニティ運営事業者、対象活動の定義、住居提供条件、サービス契約または株式付与契約の有無を確認のこと。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/yangpu.rst:40
 msgid ""
@@ -138,7 +138,7 @@ msgid ""
 "Chinese university entrepreneurs. Nationality, age, ownership, full-time "
 "work and company age conditions apply. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`上海市大学生科学技術創業基金会エンジェル基金（STEFG） </entities/stefg>` （上海市大学生科技创业基金会天使基金 · 投資機関・投資家 · ソフトウェアAI、ハードウェアAI、産業・インダストリー）— 要件を満たす中国籍の大学在学生・卒業生起業家に対し、無利子融資（雛鷹計画）および暫定株式保有（雄鷹計画）の2つの支援ルートを提供。国籍、年齢、持株比率、フルタイム起業、設立年数に関する厳格な条件が適用される。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海市大学生科学技術創業基金会エンジェル基金（STEFG） </entities/stefg>` （上海市大学生科技创业基金会天使基金 · 投資機関・投資家 · ソフトウェアAI、ハードウェアAI、産業）— 要件を満たす中国籍の大学在学生・卒業生起業家に対し、無利子融資（雛鷹計画）および暫定株式保有（雄鷹計画）の2つの支援ルートを提供。国籍、年齢、持株比率、フルタイム起業、設立年数に関する厳格な条件が適用される。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/yangpu.rst:41
 msgid ""
@@ -148,7 +148,7 @@ msgid ""
 "entrepreneurship training, prototyping and incubation base in Yangpu "
 "linking founder skills training, product trial spaces and startup service "
 "agencies. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`中国（上海）起業家公共実習基地 </entities/entrepreneur-base>` （中国（上海）创业者公共实训基地 · インキュベーター · ソフトウェアAI、ハードウェアAI、産業・インダストリー）— 楊浦区に位置する上海市人社局傘下の公共起業実習・試作・インキュベーション拠点。創業者向け実践スキル研修、製品プロトタイプ試作スペース、専門起業サービス機関とのマッチングを提供。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`中国（上海）起業家公共実習基地 </entities/entrepreneur-base>` （中国（上海）创业者公共实训基地 · インキュベーター · ソフトウェアAI、ハードウェアAI、産業）— 楊浦区に位置する上海市人社局傘下の公共起業実習・試作・インキュベーション拠点。創業者向け実践スキル研修、製品プロトタイプ試作スペース、専門起業サービス機関とのマッチングを提供。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/yangpu.rst:42
 msgid ""
@@ -157,7 +157,7 @@ msgid ""
 "Suggested collaboration themes: Software AI, chips, AI for Science. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`復旦大学 </entities/university-fudan>` （复旦大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：ソフトウェアAI、半導体チップ、科学のためのAI（AI for Science）。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`復旦大学 </entities/university-fudan>` （复旦大学 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：ソフトウェアAI、半導体チップ、科学のためのAI（AI for Science）。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/yangpu.rst:43
 msgid ""
@@ -167,7 +167,7 @@ msgid ""
 "robotics, built environment. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`同済大学 </entities/university-tongji>` （同济大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：自律知能システム、モビリティ、ロボティクス、都市・建築環境。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`同済大学 </entities/university-tongji>` （同济大学 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：自律知能システム、モビリティ、ロボティクス、都市・建築環境。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/yangpu.rst:44
 msgid ""
@@ -177,7 +177,7 @@ msgid ""
 "themes: Optics, medical devices, sensors, advanced equipment. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海理工大学 </entities/university-usst>` （上海理工大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：光学工学、医療機器、センサー、高度製造装置。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海理工大学 </entities/university-usst>` （上海理工大学 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：光学工学、医療機器、センサー、高度製造装置。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/yangpu.rst:45
 msgid ""
@@ -187,7 +187,7 @@ msgid ""
 "themes: Fintech, analytics, business models. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海財経大学 </entities/university-sufe>` （上海财经大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：フィンテック、ビジネスアナリティクス、ビジネスモデル設計。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海財経大学 </entities/university-sufe>` （上海财经大学 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：フィンテック、ビジネスアナリティクス、ビジネスモデル設計。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/yangpu.rst:46
 msgid ""
@@ -197,7 +197,7 @@ msgid ""
 "motion analysis, wearables. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海体育大学 </entities/university-sport>` （上海体育大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：スポーツ科学、動作解析・生体計測、ウェアラブル端末。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海体育大学 </entities/university-sport>` （上海体育大学 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：スポーツ科学、動作解析・生体計測、ウェアラブル端末。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/yangpu.rst:48
 msgid "Funding routes"
@@ -210,7 +210,7 @@ msgid ""
 "repayable) — Product-specific technology credit and IP finance; no "
 "universal ceiling. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`楊浦区融資信用サービスプラットフォーム </funding/yangpu-credit-directory>` （杨浦融资信用服务平台 · 融資・ローン · 株式の提供不要・返済義務あり）— テクノロジー信用融資および知財ファイナンス商品ごとに規定（一律の上限額はなし）。ステータス：公表名簿掲載（融資機関による審査要）。時期：商品ごとに異なる（各金融機関の現行条件を確認のこと）。"
+msgstr ":doc:`楊浦区融資信用サービスプラットフォーム </funding/yangpu-credit-directory>` （杨浦融资信用服务平台 · 融資・ローン · 株式提供の義務なし・返済が必要）— テクノロジー信用融資および知財ファイナンス商品ごとに規定（一律の上限額はなし）。ステータス：公表名簿掲載（融資機関による審査要）。時期：商品ごとに異なる（各金融機関の現行条件を確認のこと）。"
 
 #: ../../districts/yangpu.rst:52
 msgid ""
@@ -220,7 +220,7 @@ msgid ""
 "co-investment; individual cheque subject to investment committee review. "
 "Status: Published investment platform; deal review. Timing: Manager-led "
 "sourcing and due diligence."
-msgstr ":doc:`楊浦区夢想起航エンジェル共同投資ファンド </funding/yangpu-angel-fund>` （杨浦梦想起航天使引投基金 · 株式投資・出資 · 個別協議による株式取得）— 区国有の初期段階エクイティ共同投資ファンド。1社あたりの出資額は投資委員会の審査を経て決定。ステータス：公表済み投資プラットフォーム（案件審査要）。時期：運用会社主導のソーシングおよびデューデリジェンス。"
+msgstr ":doc:`楊浦区夢想起航エンジェル共同投資ファンド </funding/yangpu-angel-fund>` （杨浦梦想起航天使引投基金 · 株式投資・出資 · 個別協議による株式取得）— 区国有の初期段階エクイティ共同投資ファンド。1社あたりの出資額は投資委員会の審査を経て決定。ステータス：投資窓口を公表済み・案件審査あり。時期：運用会社主導のソーシングおよびデューデリジェンス。"
 
 #: ../../districts/yangpu.rst:54
 msgid ":doc:`Also compare citywide funding </funding>`"

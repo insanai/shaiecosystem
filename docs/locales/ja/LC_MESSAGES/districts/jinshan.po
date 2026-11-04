@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -71,25 +71,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+msgstr "日付のある公募通知で、所在地、申請主体、事業内容、対象経費の期間を確認する。"
 
 #: ../../districts/jinshan.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+msgstr "必要書類をそろえ、求められる場合は所属機関や区の推薦を得る。"
 
 #: ../../districts/jinshan.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+msgstr "締切までに公式システムで提出し、受付証を保存する。"
 
 #: ../../districts/jinshan.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+msgstr "通知に従い、審査、採択、報告、検収、交付の手続きを進める。"
 
 #: ../../districts/jinshan.rst:32
 msgid ""
@@ -110,7 +110,7 @@ msgid ""
 "services and a low-altitude incubation platform. Airspace, testing and "
 "airworthiness services require separate confirmation from physical "
 "workspace. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`華東無人機基地（East China UAV Base） </entities/uav-base>` （华东无人机基地 · テクノロジーパーク · ハードウェアAI、ドローン・無人機）— 金山区の園区計画に飛行試験サービスや低空経済インキュベーションプラットフォームが含まれる。試験飛行空域の割当、機体テスト、耐空証明支援などの利用は、物理的オフィスの契約とは別途確認が必要。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`華東無人機基地（East China UAV Base） </entities/uav-base>` （华东无人机基地 · テクノロジーパーク · ハードウェアAI、ドローン・無人機）— 金山区の園区計画に飛行試験サービスや低空経済インキュベーションプラットフォームが含まれる。試験飛行空域の割当、機体テスト、耐空証明支援などの利用は、物理的オフィスの契約とは別途確認が必要。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/jinshan.rst:38
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "materials and manufacturing inputs; specify process equipment and "
 "environmental constraints in the inquiry. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`金山新素材インキュベーター </entities/jinshan-materials>` （金山新材料孵化器 · インキュベーター · 新素材・マテリアル、ハードウェアAI）— 炭谷緑湾（Carbon Valley Green Bay）と連携した新素材特化型インキュベーションルート。センサー材料、電子材料、先端製造用部素材に適する。問い合わせ時にはプロセス機器仕様や環境規制条件を明記すること。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`金山新素材インキュベーター </entities/jinshan-materials>` （金山新材料孵化器 · インキュベーター · 材料、ハードウェアAI）— 炭谷緑湾（Carbon Valley Green Bay）と連携した新素材特化型インキュベーションルート。センサー材料、電子材料、先端製造用部素材に適する。問い合わせ時にはプロセス機器仕様や環境規制条件を明記すること。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/jinshan.rst:39
 msgid ""
@@ -131,7 +131,7 @@ msgid ""
 "applied skills. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海中僑職業技術大学 </entities/university-zhongqiao>` （上海中侨职业技术大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：職業学士エンジニアリング、応用技術・スキル。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海中僑職業技術大学 </entities/university-zhongqiao>` （上海中侨职业技术大学 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：職業学士エンジニアリング、応用技術・スキル。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/jinshan.rst:41
 msgid "Funding routes"
@@ -145,7 +145,7 @@ msgid ""
 "and industrialization support under the 2025-2026 park action plan. "
 "Status: Policy in force; call not confirmed open. Timing: Policy: 2025 to "
 "2026 action plan; confirm current implementing batch."
-msgstr ":doc:`張江金山園低空UAV（無人機）＆新材料イノベーション支援 </funding/jinshan-park-2026>` （张江金山园低空无人机与新材料创新支持 · 助成金・事後精算補助 · 株式の提供不要）— 2025〜2026年パーク行動計画および張江特別政策に基づき、研究開発、インキュベーター育成、受託試験、産業化を多角的に支援。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2025〜2026年アクションプラン（現行の実施バッチを確認のこと）。"
+msgstr ":doc:`張江金山園低空UAV（無人機）＆新材料イノベーション支援 </funding/jinshan-park-2026>` （张江金山园低空无人机与新材料创新支持 · 助成金・事後精算補助 · 株式提供の義務なし）— 2025〜2026年パーク行動計画および張江特別政策に基づき、研究開発、インキュベーター育成、受託試験、産業化を多角的に支援。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2025〜2026年アクションプラン（現行の実施バッチを確認のこと）。"
 
 #: ../../districts/jinshan.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

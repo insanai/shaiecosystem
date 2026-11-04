@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -32,11 +32,6 @@ msgid ""
 msgstr "身体性AI政策ではロボット基盤モデル、アルゴリズム、データセット、OSが対象として明記されている。審査に基づく助成上限額は、スタートアップに一律自動給付されるものではない。"
 
 #: ../../districts/xuhui.rst:8
-
-#| msgid ""
-#| "`Evidence S097 "
-#| "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
-#| "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
 msgid ""
 "`Evidence S100 "
 "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
@@ -75,25 +70,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+msgstr "日付のある公募通知で、所在地、申請主体、事業内容、対象経費の期間を確認する。"
 
 #: ../../districts/xuhui.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+msgstr "必要書類をそろえ、求められる場合は所属機関や区の推薦を得る。"
 
 #: ../../districts/xuhui.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+msgstr "締切までに公式システムで提出し、受付証を保存する。"
 
 #: ../../districts/xuhui.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+msgstr "通知に従い、審査、採択、報告、検収、交付の手続きを進める。"
 
 #: ../../districts/xuhui.rst:32
 msgid ""
@@ -114,7 +109,7 @@ msgid ""
 "community on the West Bund. Its operator lists several zones; admission, "
 "workspace, compute support and investment are separate decisions. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海模速空間（Model Speed Space） </entities/mosu>` （上海模速空间 · インキュベーター · ソフトウェアAI）— 西岸（ウエストバンド）に位置する大規模AIモデル専門のインキュベーション・アクセラレーションコミュニティ。運営主体は複数のエリアを展開している。入居、オフィススペース、計算資源（コンピュート）支援、および投資はそれぞれ別個の判断事項となる。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海模速空間（Model Speed Space） </entities/mosu>` （上海模速空间 · インキュベーター · ソフトウェアAI）— 西岸（ウエストバンド）に位置する大規模AIモデル専門のインキュベーション・アクセラレーションコミュニティ。運営主体は複数のエリアを展開している。入居、オフィススペース、計算資源（コンピュート）支援、および投資はそれぞれ別個の判断事項となる。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/xuhui.rst:38
 msgid ""
@@ -124,7 +119,7 @@ msgid ""
 "general contact supports initial routing; open-source resources, "
 "collaboration and recruitment are separate pathways, not a generic "
 "startup grant. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海人工知能実験室（Shanghai AI Lab） </entities/shlab>` （上海人工智能实验室 · 研究プラットフォーム · ソフトウェアAI、科学知能（AI for Science））— 基礎研究および応用AI研究を担う国家級研究所。公表されている代表連絡先から初期照会が可能。オープンソース資源の利用、共同研究、人材採用はそれぞれ独立した窓口であり、一般的な起業補助金ではない。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海人工知能実験室（Shanghai AI Lab） </entities/shlab>` （上海人工智能实验室 · 研究プラットフォーム · ソフトウェアAI、科学研究へのAI活用）— 基礎研究および応用AI研究を担う国家級研究所。公表されている代表連絡先から初期照会が可能。オープンソース資源の利用、共同研究、人材採用はそれぞれ独立した窓口であり、一般的な起業補助金ではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/xuhui.rst:39
 msgid ""
@@ -134,7 +129,7 @@ msgid ""
 "the specific sub-park and operating address; the Caohejing name covers "
 "multiple development locations. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`漕河涇開発区（Caohejing Development Zone） </entities/caohejing>` （漕河泾开发区 · テクノロジーパーク · ソフトウェアAI、ハードウェアAI、産業・インダストリー）— 開発区運営会社が企業支援および知的財産サービス窓口を公開している。漕河涇ブランドは複数の開発エリアにまたがるため、具体的なサブパーク名および事業所所在地を確認すること。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`漕河涇開発区（Caohejing Development Zone） </entities/caohejing>` （漕河泾开发区 · テクノロジーパーク · ソフトウェアAI、ハードウェアAI、産業）— 開発区運営会社が企業支援および知的財産サービス窓口を公開している。漕河涇ブランドは複数の開発エリアにまたがるため、具体的なサブパーク名および事業所所在地を確認すること。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/xuhui.rst:40
 msgid ""
@@ -144,7 +139,7 @@ msgid ""
 "Shanghai's high-quality incubator cultivation system, innovation "
 "vouchers, technology SME filings and the Startup in Shanghai portal. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海市科学技術創業センター（SHTIC） </entities/shtic>` （上海市科技创业中心 · 研究プラットフォーム · ソフトウェアAI、ハードウェアAI、産業・インダストリー）— 上海市級の科学技術起業サービス機関。上海市高品質インキュベーター育成体系、科学技術イノベーション券、テクノロジー型中小企業登録、および「創・在上海（Startup in Shanghai）」ポータルを一括統括する。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海市科学技術創業センター（SHTIC） </entities/shtic>` （上海市科技创业中心 · 研究プラットフォーム · ソフトウェアAI、ハードウェアAI、産業）— 上海市級の科学技術起業サービス機関。上海市高品質インキュベーター育成体系、科学技術イノベーション券、テクノロジー型中小企業登録、および「創・在上海（Startup in Shanghai）」ポータルを一括統括する。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/xuhui.rst:41
 msgid ""
@@ -157,7 +152,7 @@ msgid ""
 "offer. Ask the operator about affiliation, IP, company formation and "
 "current external-team access. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`上海創智学院／北楊AI起業支援ネットワーク </entities/sii-beiyang>` （上海创智学院／北杨人工智能创业网络 · インキュベーター · ソフトウェアAI、ハードウェアAI、科学知能（AI for Science））— 上海創智学院と漕河涇が共同運営する創智未来センターは、研究を基盤とするAI起業家を支援する。北楊AIアクセラレーターは、その後の市場開拓やサプライチェーンとの連携を担う。学院関連の支援は誰でも応募できる制度ではない。所属要件、知的財産、法人設立、外部チームの受け入れ条件を確認する。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海創智学院／北楊AI起業支援ネットワーク </entities/sii-beiyang>` （上海创智学院／北杨人工智能创业网络 · インキュベーター · ソフトウェアAI、ハードウェアAI、科学研究へのAI活用）— 上海創智学院と漕河涇が共同運営する創智未来センターは、研究を基盤とするAI起業家を支援する。北楊AIアクセラレーターは、その後の市場開拓やサプライチェーンとの連携を担う。学院関連の支援は誰でも応募できる制度ではない。所属要件、知的財産、法人設立、外部チームの受け入れ条件を確認する。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/xuhui.rst:42
 msgid ""
@@ -170,7 +165,7 @@ msgid ""
 "the camp. Request the receiving manager and current investment terms; "
 "camp attendance is not an investment award. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`徐匯・青苗AI青年起業基金 </entities/qingmiao>` （徐汇人工智能青年创业基金（青苗基金） · 投資機関・投資家 · ソフトウェアAI、ハードウェアAI）— 徐匯区が2025年9月に設立した若手AI起業家向けファンド。2026年8月の起業キャンプでは、初期チームと投資・研究・産業パートナーをつないだ。上海徐匯資本投資と上海徐匯科創投私募基金管理などが共催。担当運用会社と現在の投資条件を確認する。キャンプへの参加は投資決定を意味しない。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`徐匯・青苗AI青年起業基金 </entities/qingmiao>` （徐汇人工智能青年创业基金（青苗基金） · 投資機関・投資家 · ソフトウェアAI、ハードウェアAI）— 徐匯区が2025年9月に設立した若手AI起業家向けファンド。2026年8月の起業キャンプでは、初期チームと投資・研究・産業パートナーをつないだ。上海徐匯資本投資と上海徐匯科創投私募基金管理などが共催。担当運用会社と現在の投資条件を確認する。キャンプへの参加は投資決定を意味しない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/xuhui.rst:43
 msgid ""
@@ -180,7 +175,7 @@ msgid ""
 "themes: Materials, chemistry, bioprocessing, AI for Science. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`華東理工大学 </entities/university-ecust>` （华东理工大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：材料科学、化学工学、バイオプロセス、科学のためのAI（AI for Science）。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`華東理工大学 </entities/university-ecust>` （华东理工大学 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：材料科学、化学工学、バイオプロセス、科学のためのAI（AI for Science）。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/xuhui.rst:44
 msgid ""
@@ -190,7 +185,7 @@ msgid ""
 "creative technology. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海師範大学 </entities/university-shnu>` （上海师范大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：教育工学、コンピュータサイエンス、クリエイティブテクノロジー。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海師範大学 </entities/university-shnu>` （上海师范大学 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：教育工学、コンピュータサイエンス、クリエイティブテクノロジー。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/xuhui.rst:45
 msgid ""
@@ -200,7 +195,7 @@ msgid ""
 "technology, creative tools. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海音楽学院 </entities/university-music>` （上海音乐学院 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：音声・音響AI、音楽テクノロジー、創作支援ツール。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海音楽学院 </entities/university-music>` （上海音乐学院 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：音声・音響AI、音楽テクノロジー、創作支援ツール。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/xuhui.rst:47
 msgid "Funding routes"
@@ -213,7 +208,7 @@ msgid ""
 "10m one-off and RMB 20m annual development support. Status: Published "
 "policy; implementing intake to confirm. Timing: Confirm applicable "
 "implementing notice."
-msgstr ":doc:`徐匯区身体性AI（具身知能）産業発展支援 </funding/xuhui-embodied>` （徐汇具身智能产业支持 · 助成金・補助金 · 株式の提供不要）— 評価審査を経た適格主体に対し、1回限り最大1,000万元、年間発展支援として最大2,000万元の上限。ステータス：政策公表済み（申請受付状況の確認要）。時期：該当する実施通知の確認が必要。"
+msgstr ":doc:`徐匯区身体性AI（具身知能）産業発展支援 </funding/xuhui-embodied>` （徐汇具身智能产业支持 · 助成金・補助金 · 株式提供の義務なし）— 評価審査を経た適格主体に対し、1回限り最大1,000万元、年間発展支援として最大2,000万元の上限。ステータス：政策公表済み（申請受付状況の確認要）。時期：該当する実施通知の確認が必要。"
 
 #: ../../districts/xuhui.rst:51
 msgid ""
@@ -223,7 +218,7 @@ msgid ""
 "universal cheque or equity percentage verified. Status: Published "
 "investment platform; deal review. Timing: Manager-led sourcing and due "
 "diligence."
-msgstr ":doc:`徐匯・青苗基金の初期AI投資窓口 </funding/qingmiao-investment>` （徐汇青苗基金早期AI投资渠道 · 株式投資・出資 · 個別協議による株式取得）— 運用会社が審査する初期投資。一律の出資額や持分比率は未確認。ステータス：公表済み投資プラットフォーム（案件審査要）。時期：運用会社による案件選定とデューデリジェンス。"
+msgstr ":doc:`徐匯・青苗基金の初期AI投資窓口 </funding/qingmiao-investment>` （徐汇青苗基金早期AI投资渠道 · 株式投資・出資 · 個別協議による株式取得）— 運用会社が審査する初期投資。一律の出資額や持分比率は未確認。ステータス：投資窓口を公表済み・案件審査あり。時期：運用会社による案件選定とデューデリジェンス。"
 
 #: ../../districts/xuhui.rst:53
 msgid ":doc:`Also compare citywide funding </funding>`"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -71,25 +71,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+msgstr "日付のある公募通知で、所在地、申請主体、事業内容、対象経費の期間を確認する。"
 
 #: ../../districts/hongkou.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+msgstr "必要書類をそろえ、求められる場合は所属機関や区の推薦を得る。"
 
 #: ../../districts/hongkou.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+msgstr "締切までに公式システムで提出し、受付証を保存する。"
 
 #: ../../districts/hongkou.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+msgstr "通知に従い、審査、採択、報告、検収、交付の手続きを進める。"
 
 #: ../../districts/hongkou.rst:32
 msgid ""
@@ -111,7 +111,7 @@ msgid ""
 "and investment services. Request the relevant sub-park and named "
 "operating company for a project-specific response. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`張江ハイテクパーク虹口園／北科創 </entities/hongkou-park>` （张江虹口园／北科创 · テクノロジーパーク · ソフトウェアAI、産業・インダストリー）— 園区計画において北科創がインキュベーション、技術移転、投融資サービスの統括的役割を担う。プロジェクトに応じた個別対応を得るには、該当するサブパークおよび指定運営会社へ照会すること。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`張江ハイテクパーク虹口園／北科創 </entities/hongkou-park>` （张江虹口园／北科创 · テクノロジーパーク · ソフトウェアAI、産業）— 園区計画において北科創がインキュベーション、技術移転、投融資サービスの統括的役割を担う。プロジェクトに応じた個別対応を得るには、該当するサブパークおよび指定運営会社へ照会すること。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/hongkou.rst:38
 msgid ""
@@ -121,7 +121,7 @@ msgid ""
 "postdoctoral innovation practice base route supporting tech SMEs, "
 "green-shipping digital tools and R&D talent settlement in Hongkou. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`虹口区科学技術創業センター＆博士ポストドクターイノベーション基地 </entities/hongkou-stec>` （虹口区科技创业中心与博士后创新基地 · インキュベーター · ソフトウェアAI、産業・インダストリー、気候・環境）— 虹口区直属の公共ハイテク起業センターおよびポスドクイノベーション実践基地。テクノロジー型中小企業、グリーン海運デジタル化ツール、高度研究開発人材の地域定着を支援する。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`虹口区科学技術創業センター＆博士ポストドクターイノベーション基地 </entities/hongkou-stec>` （虹口区科技创业中心与博士后创新基地 · インキュベーター · ソフトウェアAI、産業、気候・環境）— 虹口区直属の公共ハイテク起業センターおよびポスドクイノベーション実践基地。テクノロジー型中小企業、グリーン海運デジタル化ツール、高度研究開発人材の地域定着を支援する。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/hongkou.rst:39
 msgid ""
@@ -131,7 +131,7 @@ msgid ""
 "themes: Language technology, translation, international markets. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海外国語大学 </entities/university-sisu>` （上海外国语大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：言語技術、自然言語処理・翻訳、海外市場展開。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海外国語大学 </entities/university-sisu>` （上海外国语大学 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：言語技術、自然言語処理・翻訳、海外市場展開。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/hongkou.rst:40
 msgid ""
@@ -142,7 +142,7 @@ msgid ""
 "applications. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海外国語大学賢達経済人文学院 </entities/university-xianda>` （上海外国语大学贤达经济人文学院 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：多言語応用、国際ビジネス、クリエイティブ展開。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海外国語大学賢達経済人文学院 </entities/university-xianda>` （上海外国语大学贤达经济人文学院 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：多言語応用、国際ビジネス、クリエイティブ展開。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/hongkou.rst:42
 msgid "Funding routes"
@@ -155,7 +155,7 @@ msgid ""
 "No equity) — Recognized top talent and core team: up to RMB 1m; eligible "
 "overseas young talent: RMB 50,000 per person. Status: Closed. Timing: "
 "Closed 31 March 2026."
-msgstr ":doc:`2026年虹口区トップクラス国際人材・優秀海外若手人材支援（第1期） </funding/hongkou-talent-2026>` （2026虹口国际顶尖及海外优秀青年人才扶持第一批 · 助成金・補助金 · 株式の提供不要）— 認定されたトップ人材および中核チーム：最大100万元。適格な海外優秀若手人材：1人あたり5万元。ステータス：募集終了。時期：2026年3月31日に公募終了。"
+msgstr ":doc:`2026年虹口区トップクラス国際人材・優秀海外若手人材支援（第1期） </funding/hongkou-talent-2026>` （2026虹口国际顶尖及海外优秀青年人才扶持第一批 · 助成金・補助金 · 株式提供の義務なし）— 認定されたトップ人材および中核チーム：最大100万元。適格な海外優秀若手人材：1人あたり5万元。ステータス：募集終了。時期：2026年3月31日に公募終了。"
 
 #: ../../districts/hongkou.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"

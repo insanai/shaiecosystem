@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -18,22 +18,22 @@ msgstr ""
 
 #: ../../funding-guide.rst:1
 msgid "Capital, with its conditions attached"
-msgstr "資金調達とその附帯条件"
+msgstr "資金調達と支援制度の条件"
 
 #: ../../funding-guide.rst:4
 msgid ""
 "We compare what a program pays for, when value arrives, what must be "
 "repaid and whether ownership changes. The label \"equity-free\" alone "
 "answers too little."
-msgstr "プログラムが何を対象に支払うのか、価値がいつ実現するのか、何が返済を要するのか、そして所有権や株式持分に変動が生じるのかを比較検討する。単に「エクイティフリー（株式非取得）」というラベルが貼られているだけでは、判断材料として不十分である。"
+msgstr "何の費用が対象か、いつ受け取れるか、返済は必要か、株式の提供を求められるか。この四点から支援制度を比較する。「エクイティフリー」という表示だけでは、費用や義務の全体は分からない。"
 
 #: ../../funding-guide.rst:7
 msgid "Match the resource need to the financing mechanism."
-msgstr "必要なリソースと資金調達メカニズムを適切にマッチングさせます。"
+msgstr "必要なリソースと資金調達の仕組みを適切にマッチングさせます。"
 
 #: ../../funding-guide.rst:10
 msgid "Six mechanisms"
-msgstr "6つの資金調達メカニズム"
+msgstr "主な6つの支援方式"
 
 #: ../../funding-guide.rst:13
 msgid ""
@@ -42,7 +42,7 @@ msgid ""
 "credit can offset only eligible services. A loan must be repaid. A tax "
 "benefit changes a tax calculation. Equity investment exchanges capital "
 "for ownership or related contractual rights."
-msgstr "助成金（Grant）は、条件付きで提供される公的または慈善的な資金支援である。事後精算型補助金（Reimbursement）は、認定された支出実績に基づいて支払われ、多くの場合、支出が先行する。バウチャーやクレジットは、対象となる適格サービスとの相殺にのみ利用できる。融資（Loan）は必ず返済しなければならない。税制優遇措置は、税額の計算基準や負担を軽減する。株式投資（Equity）は、資本と引き換えに所有権（株式）またはこれに関連する契約上の権利を譲渡するものである。"
+msgstr "助成金は、条件付きの公的・公益的な支援である。経費補助は対象支出に基づいて支払われるため、先に自己資金で支出する場合が多い。バウチャーやクレジットは対象サービスの支払いに限って使える。融資には返済が必要で、税制優遇は税額の計算に影響する。株式投資では、資金と引き換えに株式や関連する契約上の権利を提供する。"
 
 #: ../../funding-guide.rst:15
 msgid ""
@@ -50,11 +50,11 @@ msgid ""
 "each with separate conditions. A subsidized desk is an in-kind benefit, "
 "not unrestricted cash. A government-backed fund is still an investment "
 "vehicle when it takes equity. An interest-free loan remains debt."
-msgstr "競技大会・コンペティションでは、賞金、支援サービス、および投資家への引き合わせが複合的に提供される場合があるが、それぞれ個別の条件が課される。賃料補助付きのデスクは現物給付（インカインド支援）であり、使途自由な現預金ではない。政府系バックのファンドであっても、株式を取得する以上は投資商品である。無利息融資であっても、依然として返済すべき債務であることに変わりはない。"
+msgstr "ビジネスコンテストでは、賞金、サービス、投資家紹介の条件がそれぞれ異なる。賃料補助付きのデスクは施設利用の支援であり、使途自由の現金ではない。政府系ファンドでも株式を取得するなら投資である。無利息融資でも元本は返済する必要がある。"
 
 #: ../../funding-guide.rst:17
 msgid "Build a layered funding plan"
-msgstr "重層的な資金調達プランの設計"
+msgstr "成長段階に合わせて資金を組み合わせる"
 
 #: ../../funding-guide.rst:20
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "activity with public calls. For a prototype, prioritize real lab, compute "
 "or customer needs. For expansion, match the amount and timing to investor "
 "or bank criteria."
-msgstr "法人設立前には、チーム単位のイノベーションバウチャー、大学の概念実証（PoC）支援、またはビジネスコンテストが、実際の申請主体（個人または準備チーム）を受け入れているかを確認する。法人登記後は、自社の登録区および事業内容を公的な助成公募と照合する。プロトタイプ段階では、実際の研究室設備、計算資源、または実証顧客の確保を最優先とする。事業拡大期には、調達希望額と資金実行の時期を、VC投資家や銀行融資の審査基準に合わせて調整する。"
+msgstr "法人設立前は、チーム向けバウチャー、大学の概念実証（PoC）支援、コンテストが、実際の申請主体を受け付けるか確認する。設立後は、所在地と事業内容を公募条件に照らす。試作段階では実験設備、計算資源、顧客検証を優先し、成長段階では希望額と時期を投資家や銀行の審査基準に合わせる。"
 
 #: ../../funding-guide.rst:22
 msgid ""
@@ -72,11 +72,11 @@ msgid ""
 "can exclude duplicated spending, restrict related suppliers, require "
 "local operations, demand matching funds or pay only after acceptance. A "
 "company needs working capital for costs that arrive before reimbursement."
-msgstr "重複する複数の政策の最大助成額を単純に合算して、受け取り可能な約束総額とみなしてはならない。公的助成制度では、重複支出の排除、関連当事者からの調達制限、区内での実体的な事業運営、自己資金のマッチング負担が求められたり、完了検査後の後払いと定められたりすることが一般的である。企業は、補助金が精算・入金されるまでの間、先行して発生する費用を賄うための運転資金を確保しておかなければならない。"
+msgstr "複数の制度の上限額を足して、受給できる総額と考えてはならない。重複助成や関係会社への発注が制限され、現地での事業運営や自己負担、完了検査後の支払いが条件となる場合がある。補助金の入金までの支出を賄う運転資金も必要になる。"
 
 #: ../../funding-guide.rst:24
 msgid "Compare the real cost"
-msgstr "実質コストの比較"
+msgstr "実際の費用と義務を比較する"
 
 #: ../../funding-guide.rst:27
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "valuation, ownership, liquidation preference, board rights, follow-on "
 "rights and exit terms. For debt, compare principal, interest, fees, "
 "guarantee or collateral, repayment schedule and default obligations."
-msgstr "公的支援については、対象経費の認定期間、自己資金マッチング比率、指定監査の費用、税務上の取扱い、報告義務、および返還条項（クローバック）を比較する。株式調達については、企業評価額（バリュエーション）、持分比率、残余財産分配優先権、取締役会設置・派遣権、優先引受権、およびエグジット条件を比較する。デットファイナンス（融資）については、借入元金、利率、各種手数料、信用保証または担保要件、返済スケジュール、および債務不履行時の義務を比較する。"
+msgstr "公的助成では、対象経費の期間、自己負担割合、監査費用、税務処理、報告義務、返還条件を比較する。株式調達では、企業価値、持分比率、残余財産の優先分配、取締役席、追加出資の権利、投資回収条件を確認する。融資では、元本、利息、手数料、保証・担保、返済日程、債務不履行時の責任を比較する。"
 
 #: ../../funding-guide.rst:29
 msgid ""
@@ -93,4 +93,4 @@ msgid ""
 "existing credits and overage billing. China-region and global offers may "
 "use different operators and accounts. Free membership in a technology "
 "ecosystem does not guarantee hardware supply, credits or investment."
-msgstr "クラウドサービス等の特典については、アカウントの登録地域、対象サービス、有効期限、既存クレジットとの重複可否、および超過従量課金の課金体系を確認する。中国リージョン向けプランとグローバル向けプランでは、運営事業者やアカウント体系が異なる場合がある。大手テクノロジー企業のエコシステムに無料で加盟できたとしても、ハードウェアの優先供給、無償クレジット、あるいは出資が保証されるわけではない。"
+msgstr "クラウドの特典は、アカウントの地域、対象サービス、有効期限、既存クレジットの扱い、超過料金を確認する。中国向けとグローバル向けでは運営会社やアカウントが異なる場合がある。無料の会員登録だけで、ハードウェアの供給、クレジット、投資が保証されるわけではない。"

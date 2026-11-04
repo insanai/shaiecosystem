@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../reading-the-city.rst:1
 msgid "A city of connected possibilities"
-msgstr "つながりあう可能性の都市"
+msgstr "上海のイノベーション案内"
 
 #: ../../reading-the-city.rst:4
 msgid ""
@@ -27,7 +27,7 @@ msgid ""
 "customer to a repeatable business. The useful unit is a working "
 "relationship: a laboratory, a district service team, an incubation "
 "operator, a buyer or an investment manager."
-msgstr "プロジェクトを研究からプロトタイプへ、プロトタイプから最初の顧客へ、そしてその顧客から再現性のあるビジネスへと追跡していくことで、上海という都市の全体像は格段に把握しやすくなる。実質的な機能単位となるのは、研究室、区の企業支援チーム、インキュベーション運営事業者、購買企業、あるいは投資責任者といった「実務的な協力関係」である。"
+msgstr "研究から試作、最初の顧客の獲得、そして継続できる事業へ。この流れに沿って見ると、上海の支援資源を探しやすくなる。鍵になるのは、研究室、区の企業支援窓口、インキュベーター、取引先、投資担当者との具体的なつながりである。"
 
 #: ../../reading-the-city.rst:12 ../../reading-the-city.rst:20
 msgid "Sixteen districts, connected by people, research and industry."
@@ -35,7 +35,7 @@ msgstr "人材、学術研究、そして産業によって結ばれた16の行�
 
 #: ../../reading-the-city.rst:22
 msgid "A practical atlas, with a stated boundary"
-msgstr "境界を定めた実用アトラス"
+msgstr "本書の収録範囲"
 
 #: ../../reading-the-city.rst:25
 msgid ""
@@ -66,7 +66,7 @@ msgstr "本調査の基準日は2026年11月4日である。公表された有�
 
 #: ../../reading-the-city.rst:31
 msgid "Three geographies, many choices"
-msgstr "3つの地理空間と多彩な選択肢"
+msgstr "地域の特徴から選ぶ"
 
 #: ../../reading-the-city.rst:34
 msgid ""
@@ -111,7 +111,7 @@ msgstr "2025年から2026年にかけての市および区の最新施策によ�
 
 #: ../../reading-the-city.rst:42
 msgid "The magnolia and the pearl"
-msgstr "白玉蘭と明珠"
+msgstr "白玉蘭と東洋の真珠"
 
 #: ../../reading-the-city.rst:45
 msgid ""
@@ -131,24 +131,15 @@ msgid ""
 "using Guidedog in both HTML and PDF editions in seven languages, sharing "
 "one verified dataset across the interactive web atlas and the illustrated "
 "print-ready books."
-msgstr "本書およびインタラクティブ・アトラスは、Vikrant Rathore が執筆し、Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu の協力を得て完成した。本刊行物は Guidedog を用いてネイティブに制作されており、HTML版とPDF版（英語および簡体字中国語）の双方において、インタラクティブなWebアトラスと印刷対応の図解書籍とで単一の検証済みデータセットを共有している。"
+msgstr "本書とインタラクティブ図鑑はVikrant Rathoreが執筆し、Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xuが制作に協力した。Guidedogのネイティブワークフローで7言語のHTML版とPDF版を制作し、同じ確認済みデータをウェブ図鑑と書籍で共有している。"
 
 #: ../../reading-the-city.rst:49
-
-#| msgid ""
-#| "`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. "
-#| "Shanghai municipal flower and overview."
 msgid ""
 "`Evidence S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
 "municipal flower and overview."
 msgstr "`出典 S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
 
 #: ../../reading-the-city.rst:51
-
-#| msgid ""
-#| "`Evidence S137 "
-#| "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
-#| "Shanghai expands list of high-quality incubators."
 msgid ""
 "`Evidence S141 "
 "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "

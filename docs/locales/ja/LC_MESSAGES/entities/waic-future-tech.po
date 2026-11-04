@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -31,7 +31,7 @@ msgstr "研究プラットフォーム｜全市／グローバル｜調査確認
 #: ../../entities/waic-future-tech.rst:8
 msgid ""
 "AI and industry focus: Software AI, Hardware AI, Robotics, AI for Science."
-msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI、ロボティクス、科学知能（AI for Science）。"
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI、ロボティクス、科学研究へのAI活用。"
 
 #: ../../entities/waic-future-tech.rst:10
 msgid ""
@@ -61,7 +61,7 @@ msgstr "ステータスと支援内容"
 
 #: ../../entities/waic-future-tech.rst:19
 msgid "Historical / confirm continuation"
-msgstr "過去実績プログラム（継続実施の確認要）"
+msgstr "過去のプログラム・継続状況は要確認"
 
 #: ../../entities/waic-future-tech.rst:21
 msgid ""
@@ -101,24 +101,24 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 
 #: ../../entities/waic-future-tech.rst:37
 msgid "Choose the correct competition track, region and applicant category."
-msgstr "適切なコンペティション部門（トラック）、地域区分、および応募者カテゴリーを選択する。"
+msgstr "適切な部門、地域、応募区分を選ぶ。"
 
 #: ../../entities/waic-future-tech.rst:39
 msgid ""
 "Read the rules and submit the required project, team and IP evidence."
-msgstr "応募規定を精読し、必要な事業計画書、チーム経歴、および知的財産権の証明資料を提出する。"
+msgstr "規則を読み、事業、チーム、知的財産の必要資料を提出する。"
 
 #: ../../entities/waic-future-tech.rst:41
 msgid ""
 "Complete selection or pitching; confirm prize and service conditions in "
 "writing."
-msgstr "書類選考やピッチ審査を完了し、賞金、副賞、および支援サービスの提供条件を書面で確認する。"
+msgstr "選考やピッチに参加し、賞金とサービスの条件を書面で確認する。"
 
 #: ../../entities/waic-future-tech.rst:43
 msgid ""
 "Treat investor introductions and district funding as separate follow-up "
 "decisions."
-msgstr "投資家の紹介や区による助成金支援は、大会結果とは別の後続の個別意思決定として取り扱う。"
+msgstr "投資家紹介や区の助成は、大会とは別の審査・判断として扱う。"
 
 #: ../../entities/waic-future-tech.rst:45
 msgid ":doc:`Citywide / global district route </funding>`"

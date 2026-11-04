@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -26,14 +26,9 @@ msgstr "助成金・市場アクセス支援 | 全市／グローバル"
 
 #: ../../funding/first-use.rst:6
 msgid "Published route; current call to confirm"
-msgstr "公表済みルート（現行公募の確認要）"
+msgstr "支援制度公表済み・最新の公募は要確認"
 
 #: ../../funding/first-use.rst:8
-
-#| msgid ""
-#| "`Evidence S113 "
-#| "<https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. "
-#| "市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
 msgid ""
 "`Evidence S116 "
 "<https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. "
@@ -50,7 +45,7 @@ msgstr "個別プログラムの細則に基づき決定（一律の助成限度
 
 #: ../../funding/first-use.rst:15
 msgid "No equity for qualifying public support"
-msgstr "適格な公的助成の場合株式希薄化なし"
+msgstr "対象となる公的支援は株式提供不要"
 
 #: ../../funding/first-use.rst:17
 msgid "Eligibility and timing"
@@ -92,25 +87,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+msgstr "日付のある公募通知で、所在地、申請主体、事業内容、対象経費の期間を確認する。"
 
 #: ../../funding/first-use.rst:35
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+msgstr "必要書類をそろえ、求められる場合は所属機関や区の推薦を得る。"
 
 #: ../../funding/first-use.rst:37
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+msgstr "締切までに公式システムで提出し、受付証を保存する。"
 
 #: ../../funding/first-use.rst:39
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+msgstr "通知に従い、審査、採択、報告、検収、交付の手続きを進める。"
 
 #: ../../funding/first-use.rst:41
 msgid ""

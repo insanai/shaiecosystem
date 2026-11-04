@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -32,11 +32,6 @@ msgid ""
 msgstr "区全域でロボットおよび先端機器の産業クラスターを開発中である。工業団地への入居審査と区の政策助成審査は別個に行う必要がある。工場での実証展示はスタートアップ向け資金助成の公募とは異なる。"
 
 #: ../../districts/baoshan.rst:8
-
-#| msgid ""
-#| "`Evidence S099 "
-#| "<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
-#| "机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
 msgid ""
 "`Evidence S102 "
 "<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
@@ -75,25 +70,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+msgstr "日付のある公募通知で、所在地、申請主体、事業内容、対象経費の期間を確認する。"
 
 #: ../../districts/baoshan.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+msgstr "必要書類をそろえ、求められる場合は所属機関や区の推薦を得る。"
 
 #: ../../districts/baoshan.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+msgstr "締切までに公式システムで提出し、受付証を保存する。"
 
 #: ../../districts/baoshan.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+msgstr "通知に従い、審査、採択、報告、検収、交付の手続きを進める。"
 
 #: ../../districts/baoshan.rst:32
 msgid ""
@@ -115,7 +110,7 @@ msgid ""
 "deployment; we distinguish it from ABB facilities in Pudong and from the "
 "broader Baoshan industrial park. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`上海ロボット産業園 </entities/robot-park>` （上海机器人产业园 · テクノロジーパーク · ハードウェアAI、ロボティクス）— 宝山区顧村に位置するロボット産業パーク。産業用ロボットのサプライチェーン構築および実導入・展開に適する。浦東のABB施設や広域の宝山工業園区とは区別して位置づけられる。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海ロボット産業園 </entities/robot-park>` （上海机器人产业园 · テクノロジーパーク · ハードウェアAI、ロボティクス）— 宝山区顧村に位置するロボット産業パーク。産業用ロボットのサプライチェーン構築および実導入・展開に適する。浦東のABB施設や広域の宝山工業園区とは区別して位置づけられる。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/baoshan.rst:38
 msgid ""
@@ -125,7 +120,7 @@ msgid ""
 "attraction, policy coordination and business services. This is a separate "
 "park from the Gucun robot industrial park. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`宝山工業園区 </entities/baoshan-industrial>` （宝山工业园区 · テクノロジーパーク · 産業・インダストリー、ハードウェアAI）— 園区管理委員会が公式窓口を設置し、産業参入審査、プロジェクト誘致、政策調整、企業支援サービスを提供する。顧村のロボット産業園とは独立した別個の園区。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`宝山工業園区 </entities/baoshan-industrial>` （宝山工业园区 · テクノロジーパーク · 産業、ハードウェアAI）— 園区管理委員会が公式窓口を設置し、産業参入審査、プロジェクト誘致、政策調整、企業支援サービスを提供する。顧村のロボット産業園とは独立した別個の園区。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/baoshan.rst:40
 msgid "Funding routes"

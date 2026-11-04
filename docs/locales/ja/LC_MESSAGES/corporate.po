@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -24,7 +24,7 @@ msgstr "企業プログラムとグローバル構想"
 msgid ""
 "13 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "出典、連絡ルート、申請チェックリスト付きの 13 件のプロファイル。機関の存在と現在の募集状況は区別して記載しています。"
+msgstr "13機関の情報を、出典・連絡先・申請の参考手順とともに収録。機関の情報と、現在の受付状況は区別して示す。"
 
 #: ../../corporate.rst:6
 msgid ""
@@ -45,7 +45,7 @@ msgid ""
 "and AI-enabled discovery teams. Scientific fit, space, collaboration, "
 "funding and IP terms are distinct questions. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`ロシュ・アクセラレーター（Roche Accelerator） <entities/roche>` (罗氏加速器 · 企業イノベーションプログラム · 浦東新区 · ヘルスケア・医療、科学知能（AI for Science）) — ロシュが上海に開設した中国イノベーションエコシステム向け医療・ヘルスケアアクセラレーター。ヘルスケアやAI創薬・創薬探索チームに適する。研究シナジー、ラボ空間、共同開発、資金支援、知財帰属の条件は個別に協議する。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`ロシュ・アクセラレーター（Roche Accelerator） <entities/roche>` (罗氏加速器 · 企業イノベーションプログラム · 浦東新区 · ヘルスケア・医療、科学研究へのAI活用) — ロシュが上海に開設した中国イノベーションエコシステム向け医療・ヘルスケアアクセラレーター。ヘルスケアやAI創薬・創薬探索チームに適する。研究シナジー、ラボ空間、共同開発、資金支援、知財帰属の条件は個別に協議する。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../corporate.rst:14
 msgid ""
@@ -55,7 +55,7 @@ msgid ""
 "included as a historical corporate route; the source does not establish a "
 "2026 Shanghai intake. Support: Equity-free services. [Status: Historical "
 "/ confirm continuation]"
-msgstr ":doc:`SAP.iO Foundry 上海 <entities/sapio>` (SAP.iO上海加速器 · 企業イノベーションプログラム · 浦東新区 · ソフトウェアAI、産業・インダストリー) — 2021年の開設発表では株式を取得しないスマート製造アクセラレーターとして紹介された。過去の企業連携実績として収録されており、2026年現在上海で募集が行われているかは確認されていない。 [非出資型（エクイティフリー）サービス]. [過去実績プログラム（継続実施の確認要）]"
+msgstr ":doc:`SAP.iO Foundry 上海 <entities/sapio>` (SAP.iO上海加速器 · 企業イノベーションプログラム · 浦東新区 · ソフトウェアAI、産業) — 2021年の開設発表では株式を取得しないスマート製造アクセラレーターとして紹介された。過去の企業連携実績として収録されており、2026年現在上海で募集が行われているかは確認されていない。 [株式提供を求めないサービス]. [過去のプログラム・継続状況は要確認]"
 
 #: ../../corporate.rst:15
 msgid ""
@@ -65,7 +65,7 @@ msgid ""
 "routes. Its May 2025 Shanghai AI event is evidence of ecosystem activity, "
 "not an always-open startup accelerator cohort. Propose a measurable "
 "robotics use case. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`ABBオープンイノベーション／上海ロボティクス・エコシステム <entities/abb>` (ABB开放创新／上海机器人生态 · 企業イノベーションプログラム · 浦東新区 · ハードウェアAI、ロボティクス) — ABBが公表するオープンイノベーションおよびスタートアップ協業窓口。2025年5月に上海で開催されたAIイベントは活発なエコシステムを示すが、常時公募のアクセラレーターではない。定量的効果を示すロボティクス活用案を提案すること。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`ABBオープンイノベーション／上海ロボティクス・エコシステム <entities/abb>` (ABB开放创新／上海机器人生态 · 企業イノベーションプログラム · 浦東新区 · ハードウェアAI、ロボティクス) — ABBが公表するオープンイノベーションおよびスタートアップ協業窓口。2025年5月に上海で開催されたAIイベントは活発なエコシステムを示すが、常時公募のアクセラレーターではない。定量的効果を示すロボティクス活用案を提案すること。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../corporate.rst:16
 msgid ""
@@ -75,7 +75,7 @@ msgid ""
 "include it as a robotics industry route and require direct confirmation "
 "of intake, pilot access, investment and hardware resources. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`卓益得（DroidUp）エコシステム・アクセラレーター <entities/droidup>` (卓益得生态加速器 · 企業イノベーションプログラム · 浦東新区 · ハードウェアAI、ロボティクス) — 2025年12月の張江ロボットバレー公式発表で始動が報じられたロボティクス特化型アクセラレーター。募集状況、PoC実証機会、出資、ハードウェア資源の提供条件は直接確認を要する。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`卓益得（DroidUp）エコシステム・アクセラレーター <entities/droidup>` (卓益得生态加速器 · 企業イノベーションプログラム · 浦東新区 · ハードウェアAI、ロボティクス) — 2025年12月の張江ロボットバレー公式発表で始動が報じられたロボティクス特化型アクセラレーター。募集状況、PoC実証機会、出資、ハードウェア資源の提供条件は直接確認を要する。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../corporate.rst:17
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "resources. Explore its technical services and developer events; confirm "
 "whether a specific training or compute offer carries fees. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海人工知能公共技術サービスプラットフォーム <entities/paddle>` (上海人工智能公共技术服务平台 · 企業イノベーションプログラム · 浦東新区 · ソフトウェアAI) — 飛槳（PaddlePaddle）関連プラットフォームとしてAI人材育成や開発者エコシステム資源を提供。技術サービスや開発者イベントとの連携が可能。特定のトレーニングや計算資源提供が無償か有償かは確認が必要。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海人工知能公共技術サービスプラットフォーム <entities/paddle>` (上海人工智能公共技术服务平台 · 企業イノベーションプログラム · 浦東新区 · ソフトウェアAI) — 飛槳（PaddlePaddle）関連プラットフォームとしてAI人材育成や開発者エコシステム資源を提供。技術サービスや開発者イベントとの連携が可能。特定のトレーニングや計算資源提供が無償か有償かは確認が必要。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../corporate.rst:18
 msgid ""
@@ -96,7 +96,7 @@ msgid ""
 "scope, Huawei ecosystem interface and actual startup admission before "
 "describing a benefit package. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`長江デルタAI+共同イノベーションセンター <entities/huawei-ai>` (长三角AI+联合创新中心 · 企業イノベーションプログラム · 青浦区 · ソフトウェアAI、ハードウェアAI) — 青浦区のイノベーション計画において、ファーウェイ（華為）のエコシステムと長江デルタの産業界を結ぶ架け橋として位置づけられている。AI導入・産業実装を提案する際は、計算基盤、データ、モデル、産業側エンドユーザーの枠組みを明確化すること。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`長江デルタAI+共同イノベーションセンター <entities/huawei-ai>` (长三角AI+联合创新中心 · 企業イノベーションプログラム · 青浦区 · ソフトウェアAI、ハードウェアAI) — 青浦区のイノベーション計画において、ファーウェイ（華為）のエコシステムと長江デルタの産業界を結ぶ架け橋として位置づけられている。AI導入・産業実装を提案する際は、計算基盤、データ、モデル、産業側エンドユーザーの枠組みを明確化すること。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../corporate.rst:19
 msgid ""
@@ -106,7 +106,7 @@ msgid ""
 "requirement. It is not a cash grant. China eligibility, product access "
 "and partner benefits must be checked for the specific company. Support: "
 "Equity-free services. [Status: Program published; eligibility review]"
-msgstr ":doc:`NVIDIA Inception（エヌビディア初創加速計画） <entities/nvidia>` (英伟达初创加速计划 · グローバルプログラム · 全市／グローバル · ソフトウェアAI、ハードウェアAI) — 申請料、会費、株式持分の取得を求めないAIスタートアップ育成プログラム。現金助成ではなく、中国地域における対象資格、利用可能な製品・クラウド、パートナー特典を個社ごとに確認する必要がある。 [非出資型（エクイティフリー）サービス]. [公表済みプログラム（資格審査要）]"
+msgstr ":doc:`NVIDIA Inception（エヌビディア初創加速計画） <entities/nvidia>` (英伟达初创加速计划 · グローバルプログラム · 全市／グローバル · ソフトウェアAI、ハードウェアAI) — 申請料、会費、株式持分の取得を求めないAIスタートアップ育成プログラム。現金助成ではなく、中国地域における対象資格、利用可能な製品・クラウド、パートナー特典を個社ごとに確認する必要がある。 [株式提供を求めないサービス]. [プログラム公表済み・対象要件の審査あり]"
 
 #: ../../corporate.rst:20
 msgid ""
@@ -136,7 +136,7 @@ msgid ""
 "For AI-enabled healthcare, clarify scientific fit, laboratory "
 "requirements, residency pricing, IP and any separate challenge or "
 "investment terms. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`強生イノベーション JLABS上海（JLABS Shanghai） <entities/jlabs>` (强生创新JLABS上海 · 企業イノベーションプログラム · 浦東新区 · ヘルスケア・医療、科学知能（AI for Science）) — 張江に展開するジョンソン・エンド・ジョンソン（J&J）直営のライフサイエンス・インキュベーター（申請窓口常設）。AIヘルスケア案件は、科学的親和性、ラボ要件、入居費用、知財帰属、個別コンペや出資条件を事前に確認のこと。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`強生イノベーション JLABS上海（JLABS Shanghai） <entities/jlabs>` (强生创新JLABS上海 · 企業イノベーションプログラム · 浦東新区 · ヘルスケア・医療、科学研究へのAI活用) — 張江に展開するジョンソン・エンド・ジョンソン（J&J）直営のライフサイエンス・インキュベーター（申請窓口常設）。AIヘルスケア案件は、科学的親和性、ラボ要件、入居費用、知財帰属、個別コンペや出資条件を事前に確認のこと。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../corporate.rst:23
 msgid ""
@@ -146,7 +146,7 @@ msgid ""
 "for early biotech teams in SH-INNO Park. Confirm available residency and "
 "collaboration terms; the historic capacity is not a current vacancy "
 "count. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`バイエル Co.Lab 上海 <entities/bayer>` (拜耳Co.Lab上海 · 企業イノベーションプログラム · 浦東新区 · ヘルスケア・医療、科学知能（AI for Science）) — 2024年9月にSH-INNOパーク内で開設されたバイエル直営拠点。アーリーバイオテック企業向けの共用実験室やオフィスを提供。入居および協業条件は個別確認が必要であり、過去の公表収容数は現在の空室数を示すものではない。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`バイエル Co.Lab 上海 <entities/bayer>` (拜耳Co.Lab上海 · 企業イノベーションプログラム · 浦東新区 · ヘルスケア・医療、科学研究へのAI活用) — 2024年9月にSH-INNOパーク内で開設されたバイエル直営拠点。アーリーバイオテック企業向けの共用実験室やオフィスを提供。入居および協業条件は個別確認が必要であり、過去の公表収容数は現在の空室数を示すものではない。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../corporate.rst:24
 msgid ""
@@ -157,7 +157,7 @@ msgid ""
 "separate China Xcelerator platform. Marketplace onboarding and industrial "
 "partnerships are distinct from a funding award. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`シーメンス・スタートアップ／Xceleratorエコシステム <entities/siemens>` (西门子初创企业与Xcelerator生态 · グローバルプログラム · 全市／グローバル · ソフトウェアAI、ハードウェアAI、産業・インダストリー) — シーメンスが公開する産業ソリューション向けスタートアップ連携およびマーケットプレイス窓口（中国専用Xceleratorプラットフォームも併設）。マーケットプレイス掲載や産業連携は補助金支給とは異なる。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`シーメンス・スタートアップ／Xceleratorエコシステム <entities/siemens>` (西门子初创企业与Xcelerator生态 · グローバルプログラム · 全市／グローバル · ソフトウェアAI、ハードウェアAI、産業) — シーメンスが公開する産業ソリューション向けスタートアップ連携およびマーケットプレイス窓口（中国専用Xceleratorプラットフォームも併設）。マーケットプレイス掲載や産業連携は補助金支給とは異なる。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../corporate.rst:25
 msgid ""
@@ -168,4 +168,4 @@ msgid ""
 "the responsible China business owner and pilot requirements; "
 "venture-client activity is not necessarily equity investment. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`BMWグループ・スタートアップ・ガレージ（Startup Garage） <entities/bmw>` (宝马集团Startup Garage · グローバルプログラム · 全市／グローバル · モビリティ・交通、ハードウェアAI、ソフトウェアAI) — 製品・サービス・社内業務への導入検証を目的としたBMWのベンチャークライアント（Venture Client）型協業モデル。中国事業部の責任部署およびPoC実証要件を確認のこと。ベンチャークライアント活動は必ずしも出資を伴わない。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`BMWグループ・スタートアップ・ガレージ（Startup Garage） <entities/bmw>` (宝马集团Startup Garage · グローバルプログラム · 全市／グローバル · モビリティ・交通、ハードウェアAI、ソフトウェアAI) — 製品・サービス・社内業務への導入検証を目的としたBMWのベンチャークライアント（Venture Client）型協業モデル。中国事業部の責任部署およびPoC実証要件を確認のこと。ベンチャークライアント活動は必ずしも出資を伴わない。 [機関情報を確認済み・現在の受付は要確認]"

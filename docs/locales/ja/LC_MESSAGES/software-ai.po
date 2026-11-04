@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../software-ai.rst:1
 msgid "Intelligence in software"
-msgstr "ソフトウェアにおける知能"
+msgstr "ソフトウェアとAI活用"
 
 #: ../../software-ai.rst:4
 msgid ""
@@ -26,7 +26,7 @@ msgid ""
 "customer problem, a reliable evaluation set and a lawful route to useful "
 "data. A model community helps when it supplies a concrete resource or a "
 "credible introduction."
-msgstr "ソフトウェアAIチームにとって、最も希少なリソースは往々にして、再現性のある顧客の課題、信頼できる評価用データセット、そして有用なデータへの合法的なアクセスルートである。モデルコミュニティが真の価値を発揮するのは、具体的なリソースを提供してくれるか、あるいは信頼性の高い顧客・パートナー紹介をもたらしてくれる場合である。"
+msgstr "ソフトウェアAIの事業では、多くの顧客に共通する課題、信頼できる評価データ、適法に利用できるデータが欠かせない。モデル開発のコミュニティを選ぶ際は、必要な資源を得られるか、適切な協業先を紹介してもらえるかを見極めたい。"
 
 #: ../../software-ai.rst:7
 msgid "An AI product connects models to a customer workflow."
@@ -34,7 +34,7 @@ msgstr "AIプロダクトは、モデルを顧客の業務ワークフローへ�
 
 #: ../../software-ai.rst:10
 msgid "Choose an entry point"
-msgstr "参入ポイントの選定"
+msgstr "どこから相談するか"
 
 #: ../../software-ai.rst:13
 msgid ""
@@ -44,7 +44,7 @@ msgid ""
 "operator's actual buyer relationships with the industry requirements. For "
 "an independent founder, check the current Yangpu OPC community policy and "
 "Changning's published carriers."
-msgstr "モデル開発エンジニアリングや開発者コミュニティとの連携を図る場合は、模速空間（Model Speed Space）、張江模力コミュニティ（Zhangjiang Model Community）、上海人工知能実験室のリソース、または専門の研究室から着手するのがよい。企業への本番導入を目指す場合は、運営事業者の実際の購買ネットワークと業界要件とを照合・比較すべきである。独立系創業者であれば、楊浦区の現行OPC（一人企業）コミュニティ政策や、長寧区が公表しているインキュベーション拠点の確認が推奨される。"
+msgstr "モデル開発や開発者との交流には、模速空間、張江模力コミュニティ、上海人工知能実験室の公開リソース、関連大学の研究室などが相談先になる。企業への導入では、運営者が実際に持つ取引先との関係と業界要件を確認する。個人で起業する場合は、楊浦区のOPCコミュニティ政策や長寧区が公表した拠点も調べたい。"
 
 #: ../../software-ai.rst:15
 msgid ""
@@ -52,7 +52,7 @@ msgid ""
 "industrial software, evaluation, AI security and scientific software as "
 "different businesses. An accelerator that can introduce a manufacturer "
 "may not supply a regulated financial dataset or an inference contract."
-msgstr "本書では、基盤モデル、ドメイン特化型モデル、自律型エージェント、マルチモーダルシステム、産業用ソフトウェア、モデル評価、AIセキュリティ、および科学計算ソフトウェアを、それぞれ全く異なる事業形態として取り扱う。製造業企業を紹介できるアクセラレーターであっても、厳格に規制された金融データセットや推論契約を提供できるとは限らない。"
+msgstr "基盤モデル、業界特化モデル、AIエージェント、マルチモーダルシステム、産業ソフトウェア、評価、AI安全性、科学計算ソフトウェアでは、必要な支援が異なる。製造業の顧客を紹介できるアクセラレーターでも、規制対象の金融データや推論サービス契約を用意できるとは限らない。"
 
 #: ../../software-ai.rst:17
 msgid ""
@@ -62,11 +62,11 @@ msgid ""
 "the Entrepreneurship Companion mentor network; and Songjiang's 2026 Data "
 "Elements Special Fund supports corpus governance and AI data-space "
 "applications."
-msgstr "都心部および西部エリアでは、静安区の市北ハイテクパークと数智通途谷（Shutong Valley）がビッグデータ、ブロックチェーン、企業向けAIコンプライアンスに注力している。黄浦区は5カ年のフィンテック集積政策と「創業伴走メンターネットワーク」を組み合わせている。そして松江区の2026年データ要素特別ファンドは、コーパスガバナンスとAIデータスペース応用を強力に支援している。"
+msgstr "静安区の市北ハイテクパークと数通链谷では、ビッグデータ、ブロックチェーン、企業向けAIのコンプライアンスを確認できる。黄浦区は今後5年間のフィンテック集積方針を創業伴走支援につなげている。松江区の2026年データ要素特別資金は、コーパス管理やAIデータスペースの活用を支援対象としている。"
 
 #: ../../software-ai.rst:19
 msgid "Build the smallest credible pilot"
-msgstr "最小の信頼できるパイロットの構築"
+msgstr "小さく始め、確かに検証する"
 
 #: ../../software-ai.rst:22
 msgid ""
@@ -75,7 +75,7 @@ msgid ""
 "review. Name the data owner, deployment environment and accountable "
 "buyer. A pilot needs an owner, a budget, acceptance criteria and a path "
 "to a production contract."
-msgstr "単一の明確に定義されたタスク、ベースライン、秘匿された評価データセット、および目標指標を準備する。完了タスクあたりの処理コスト、レイテンシ、エラーハンドリング、および人的レビューのプロセスを明示する。データの権利保有者、稼働環境、および決裁権を持つ購買責任者を特定する。あらゆるパイロットには、専任の推進責任者、予算、合格基準、そして本番契約への明確な道筋が不可欠である。"
+msgstr "まず一つの課題を定め、ベースライン、独立した評価データ、目標指標を用意する。処理1回当たりの費用、遅延、例外処理、人による確認方法を示し、データの権利者、実行環境、調達担当者を明確にする。実証には責任者、予算、検収基準と、本番契約に進むための条件が必要となる。"
 
 #: ../../software-ai.rst:24
 msgid ""
@@ -84,11 +84,11 @@ msgid ""
 "storage or networking. A model or corpus voucher may cover only an "
 "approved supplier and a specified historical cost period. Retain usage "
 "logs, invoices, contracts and payment records from the beginning."
-msgstr "モデルの事前学習、ファインチューニング、推論、情報検索（RAG）、ストレージ、ネットワーク通信、データアノテーション、および評価にかかるコストは個別に予算化する。計算資源（コンピュート）の補助金は、ストレージやネットワーク転送費を対象外としている場合がある。モデルバウチャーやコーパスバウチャーは、指定サプライヤーおよび特定期間の過去支出のみを対象とすることがある。プロジェクト初期から利用ログ、発票（領収証）、契約書、および支払証明を確実に保管しておくこと。"
+msgstr "学習、ファインチューニング、推論、検索、ストレージ、通信、アノテーション、評価は別々に予算を組む。計算資源の補助がストレージや通信費を含まない場合もある。モデル・コーパスのバウチャーには提供者や経費の対象期間の指定があり得る。開始時から利用ログ、発票、契約書、支払記録を保存しておく。"
 
 #: ../../software-ai.rst:26
 msgid "Before public deployment"
-msgstr "一般公開・商用展開に先立って"
+msgstr "一般公開する前に"
 
 #: ../../software-ai.rst:29
 msgid ""
@@ -99,14 +99,9 @@ msgid ""
 "Requirements attach to the actual service, not to an AI label on a pitch "
 "deck. This atlas supplies routing questions rather than an exhaustive "
 "legal procedure."
-msgstr "提供するサービスが、社内向けツール、企業向け展開（B2B）、あるいは一般公開される生成AIサービス（B2C）のいずれに該当するかを明確に定義する。管轄当局および資格を持つ専門家に相談し、モデル登録、アルゴリズム届出、生成コンテンツの電子透かし・識別表示、データ保護、業界規制、およびネットワークセキュリティの各要件がどのように適用されるかを確認する。法的義務はピッチ資料に掲げられた「AI」のラベルではなく、提供される実際のサービス形態に基づいて課される。本アトラスは確認すべき論点を提供するものであり、網羅的な法的手続きに代わるものではない。"
+msgstr "社内ツール、企業向け導入、一般公開の生成AIサービスのどれに当たるかを整理する。その上で主管機関と専門家に、モデル登録、アルゴリズム届出、生成コンテンツの表示、データ、業界規制、ネットワークの要件を確認する。義務は実際のサービスによって決まり、ピッチ資料のAIという表記では決まらない。本書は相談すべき論点を示すもので、法的手続き全体を代替しない。"
 
 #: ../../software-ai.rst:31
-
-#| msgid ""
-#| "`Evidence S111 "
-#| "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
-#| "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 msgid ""
 "`Evidence S114 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "

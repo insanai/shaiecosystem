@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -26,7 +26,7 @@ msgstr "株式投資・出資 | 全市／グローバル"
 
 #: ../../funding/stefg-equity.rst:6
 msgid "Program published; eligibility review"
-msgstr "公表済みプログラム（資格審査要）"
+msgstr "プログラム公表済み・対象要件の審査あり"
 
 #: ../../funding/stefg-equity.rst:8
 msgid "`Evidence S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
@@ -44,7 +44,7 @@ msgstr "最大80万元、支援期間3年。配当への参加はなく、期間
 
 #: ../../funding/stefg-equity.rst:15
 msgid "Temporary equity; original-price exit"
-msgstr "一時的な株式保有・当初の出資額で退出"
+msgstr "一時的な株式保有・当初出資額で退出"
 
 #: ../../funding/stefg-equity.rst:17
 msgid "Eligibility and timing"
@@ -85,24 +85,24 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Read the foundation's current eligibility rules and choose loan or "
 "temporary equity."
-msgstr "上海市大学生科技創業基金会（STEFG）の現行資格要件を確認し、無利息融資または一時的株式保有のいずれかを選択する。"
+msgstr "基金会の最新要件を読み、融資または一時的な株式保有による支援を選ぶ。"
 
 #: ../../funding/stefg-equity.rst:35
 msgid ""
 "Identify a receiving branch and submit the prescribed founder and project "
 "documents."
-msgstr "管轄の受付窓口（分会）を特定し、所定の創業者証明書類およびプロジェクト計画書を提出する。"
+msgstr "受付分会を確認し、創業者と事業の必要書類を提出する。"
 
 #: ../../funding/stefg-equity.rst:37
 msgid ""
 "Complete review and examine repayment, founder funding and exit "
 "obligations."
-msgstr "審査を通過し、返済義務、創業者自己資金負担要件、および株式買い戻し（エグジット）義務を精査する。"
+msgstr "審査を受け、返済、自己資金、株式の退出条件を確認する。"
 
 #: ../../funding/stefg-equity.rst:39
 msgid ""
 "Sign the correct agreement and track the full three-year obligations."
-msgstr "該当する契約を締結し、3年間にわたる履行義務を管理・遵守する。"
+msgstr "該当する契約を結び、3年間の義務を管理する。"
 
 #: ../../funding/stefg-equity.rst:41
 msgid ""

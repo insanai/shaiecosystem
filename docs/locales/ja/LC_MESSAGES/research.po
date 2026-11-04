@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -21,14 +21,10 @@ msgid "Research and technical platforms"
 msgstr "研究・技術支援プラットフォーム"
 
 #: ../../research.rst:4
-
-#| msgid ""
-#| "10 profiles with evidence, contact routes and an application "
-#| "checklist. Published existence is distinguished from current intake."
 msgid ""
 "11 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "出典、連絡ルート、申請チェックリスト付きの 11 件のプロファイル。機関の存在と現在の募集状況は区別して記載しています。"
+msgstr "11機関の情報を、出典・連絡先・申請の参考手順とともに収録。機関の情報と、現在の受付状況は区別して示す。"
 
 #: ../../research.rst:8
 msgid "Complete directory summary"
@@ -43,7 +39,7 @@ msgid ""
 "services are selected on the official platform; a voucher is not a "
 "general equipment purchase budget. Tel: +86 21 61609878 ext. 217. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海集積回路技術・産業促進センター（ICC） <entities/icc>` (上海集成电路技术与产业促进中心 · 研究プラットフォーム · 浦東新区 · 半導体・チップ、ハードウェアAI) — 集積回路（IC）分野の技術支援窓口であり、科学技術イノベーション券の利用指引も発行している。イノベーション券で相殺可能な対象サービスは公式プラットフォーム上で確認する必要があり、汎用設備購入の補助金ではない。 Tel: +86 21 61609878 ext. 217. [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海集積回路技術・産業促進センター（ICC） <entities/icc>` (上海集成电路技术与产业促进中心 · 研究プラットフォーム · 浦東新区 · 半導体・チップ、ハードウェアAI) — 集積回路（IC）分野の技術支援窓口であり、科学技術イノベーション券の利用指引も発行している。イノベーション券で相殺可能な対象サービスは公式プラットフォーム上で確認する必要があり、汎用設備購入の補助金ではない。 Tel: +86 21 61609878 ext. 217. [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../research.rst:12
 msgid ""
@@ -54,7 +50,7 @@ msgid ""
 "resources, collaboration and recruitment are separate pathways, not a "
 "generic startup grant. Address: L1, International Media Port, 129 Longwen "
 "Road, Xuhui. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海人工知能実験室（Shanghai AI Lab） <entities/shlab>` (上海人工智能实验室 · 研究プラットフォーム · 徐匯区 · ソフトウェアAI、科学知能（AI for Science）) — 基礎研究および応用AI研究を担う国家級研究所。公表されている代表連絡先から初期照会が可能。オープンソース資源の利用、共同研究、人材採用はそれぞれ独立した窓口であり、一般的な起業補助金ではない。 徐匯区龍文路129号国際伝媒港L1階. [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海人工知能実験室（Shanghai AI Lab） <entities/shlab>` (上海人工智能实验室 · 研究プラットフォーム · 徐匯区 · ソフトウェアAI、科学研究へのAI活用) — 基礎研究および応用AI研究を担う国家級研究所。公表されている代表連絡先から初期照会が可能。オープンソース資源の利用、共同研究、人材採用はそれぞれ独立した窓口であり、一般的な起業補助金ではない。 徐匯区龍文路129号国際伝媒港L1階. [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../research.rst:13
 msgid ""
@@ -65,7 +61,7 @@ msgid ""
 "technical proposal should identify the platform, experiment, data and "
 "proposed industrial partner. Address: 3F, Building 2, Tongji Zhangjiang "
 "Base, 398 Lianchuang Road. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`同済大学上海自律スマート無人システム科学センター <entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · 研究プラットフォーム · 浦東新区 · ハードウェアAI、モビリティ・交通) — 自律知能無人システムの共同研究連携窓口。公表オフィスは張江に所在する。技術提案を行う際は、検証プラットフォーム、実験内容、データセット、想定される産業側提携パートナーを明示すること。 浦東新区聯創路398号同済張江基地2号棟3階. [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`同済大学上海自律スマート無人システム科学センター <entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · 研究プラットフォーム · 浦東新区 · ハードウェアAI、モビリティ・交通) — 自律知能無人システムの共同研究連携窓口。公表オフィスは張江に所在する。技術提案を行う際は、検証プラットフォーム、実験内容、データセット、想定される産業側提携パートナーを明示すること。 浦東新区聯創路398号同済張江基地2号棟3階. [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../research.rst:14
 msgid ""
@@ -76,7 +72,7 @@ msgid ""
 "rather than assuming access through general university admissions. "
 "Address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan Highway. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`同済大学PAI研究センター <entities/tongji-pai>` (同济大学PAI研究中心 · 研究プラットフォーム · 嘉定区 · ハードウェアAI、センサー) — 高精度測位、センシング、通信、トラステッド協調分野における産学連携窓口を設置している。大学の一般入学・教務窓口ではなく、公表されている産学連携チャネルを利用すること。 嘉定区曹安公路4800号同済大学智信館. [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`同済大学PAI研究センター <entities/tongji-pai>` (同济大学PAI研究中心 · 研究プラットフォーム · 嘉定区 · ハードウェアAI、センサー) — 高精度測位、センシング、通信、トラステッド協調分野における産学連携窓口を設置している。大学の一般入学・教務窓口ではなく、公表されている産学連携チャネルを利用すること。 嘉定区曹安公路4800号同済大学智信館. [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../research.rst:15
 msgid ""
@@ -86,7 +82,7 @@ msgid ""
 "supporting process development, device verification and IP testing. "
 "Request a technical scoping review and written quotation for wafer or "
 "testing runs. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海集積回路研究開発センター（ICRD） <entities/icrd>` (上海集成电路研发中心 · 研究プラットフォーム · 浦東新区 · 半導体・チップ、ハードウェアAI) — 張江に位置する集積回路の公共研究開発・エンジニアリングプラットフォーム。微細加工プロセス開発、デバイス検証、IP性能評価を支援。ウェハ試作や試験受託には、技術事前評価と書面見積の取得が必要。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海集積回路研究開発センター（ICRD） <entities/icrd>` (上海集成电路研发中心 · 研究プラットフォーム · 浦東新区 · 半導体・チップ、ハードウェアAI) — 張江に位置する集積回路の公共研究開発・エンジニアリングプラットフォーム。微細加工プロセス開発、デバイス検証、IP性能評価を支援。ウェハ試作や試験受託には、技術事前評価と書面見積の取得が必要。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../research.rst:16
 msgid ""
@@ -96,7 +92,7 @@ msgid ""
 "institution coordinating Shanghai's high-quality incubator cultivation "
 "system, innovation vouchers, technology SME filings and the Startup in "
 "Shanghai portal. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海市科学技術創業センター（SHTIC） <entities/shtic>` (上海市科技创业中心 · 研究プラットフォーム · 徐匯区 · ソフトウェアAI、ハードウェアAI、産業・インダストリー) — 上海市級の科学技術起業サービス機関。上海市高品質インキュベーター育成体系、科学技術イノベーション券、テクノロジー型中小企業登録、および「創・在上海（Startup in Shanghai）」ポータルを一括統括する。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海市科学技術創業センター（SHTIC） <entities/shtic>` (上海市科技创业中心 · 研究プラットフォーム · 徐匯区 · ソフトウェアAI、ハードウェアAI、産業) — 上海市級の科学技術起業サービス機関。上海市高品質インキュベーター育成体系、科学技術イノベーション券、テクノロジー型中小企業登録、および「創・在上海（Startup in Shanghai）」ポータルを一括統括する。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../research.rst:17
 msgid ""
@@ -107,7 +103,7 @@ msgid ""
 "Center\" layout, connecting university engineering laboratories with "
 "Yangtze River Delta industrial applications. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海清華国際イノベーションセンター <entities/tsinghua-shanghai>` (上海清华国际创新中心 · 研究プラットフォーム · 普陀区 · ソフトウェアAI、ハードウェアAI、半導体・チップ) — 普陀区の「一軸・一園・一中心」イノベーション構想における中核戦略拠点。清華大学等の理工系先端研究所と長江デルタ地域の産業実証・応用展開現場を直結する。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`上海清華国際イノベーションセンター <entities/tsinghua-shanghai>` (上海清华国际创新中心 · 研究プラットフォーム · 普陀区 · ソフトウェアAI、ハードウェアAI、半導体・チップ) — 普陀区の「一軸・一園・一中心」イノベーション構想における中核戦略拠点。清華大学等の理工系先端研究所と長江デルタ地域の産業実証・応用展開現場を直結する。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../research.rst:18
 msgid ""
@@ -118,7 +114,7 @@ msgid ""
 "alongside district science authorities to support enterprise R&D centers "
 "in ecological tech, green manufacturing and smart agriculture. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`崇明区企業技術センター＆生態科学イノベーションプラットフォーム <entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · 研究プラットフォーム · 崇明区 · 気候・環境、農業・アグリテック、産業・インダストリー) — 崇明区経済委員会（2026年5月に第14次公募発表）と区科委が連携推進する企業研究開発支援窓口。環境テクノロジー、グリーン製造、スマート農業分野の企業技術センター認定を対象とする。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`崇明区企業技術センター＆生態科学イノベーションプラットフォーム <entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · 研究プラットフォーム · 崇明区 · 気候・環境、農業・アグリテック、産業) — 崇明区経済委員会（2026年5月に第14次公募発表）と区科委が連携推進する企業研究開発支援窓口。環境テクノロジー、グリーン製造、スマート農業分野の企業技術センター認定を対象とする。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../research.rst:19
 msgid ""
@@ -131,7 +127,7 @@ msgid ""
 "validation. Ask for compatibility, queue, sample ownership, safety "
 "responsibilities and a written service quotation. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`国家・地方共同人型ロボットイノベーションセンター／試作プラットフォーム <entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · 研究プラットフォーム · 浦東新区 · ハードウェアAI、ロボティクス、センサー) — ロボットのデータ収集、学習、実機検証を、上海電気と共同で運営する試作プラットフォームにつなぐ。2026年7月の発表では業界向けの試作、検査、利用場面の検証サービスを紹介している。互換性、待ち時間、試作品の所有権、安全責任、書面の見積もりを確認する。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`国家・地方共同人型ロボットイノベーションセンター／試作プラットフォーム <entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · 研究プラットフォーム · 浦東新区 · ハードウェアAI、ロボティクス、センサー) — ロボットのデータ収集、学習、実機検証を、上海電気と共同で運営する試作プラットフォームにつなぐ。2026年7月の発表では業界向けの試作、検査、利用場面の検証サービスを紹介している。互換性、待ち時間、試作品の所有権、安全責任、書面の見積もりを確認する。 [機関情報を確認済み・現在の受付は要確認]"
 
 #: ../../research.rst:20
 msgid ""
@@ -144,7 +140,7 @@ msgid ""
 "incubator or an open funding call. Ask the organizer about the next "
 "startup selection, exhibition fees and investor sessions. [Status: "
 "Historical / confirm continuation]"
-msgstr ":doc:`WAIC／Future Tech起業・投資ネットワーク <entities/waic-future-tech>` (世界人工智能大会／Future Tech创投生态 · 研究プラットフォーム · 全市／グローバル · ソフトウェアAI、ハードウェアAI、ロボティクス、科学知能（AI for Science）) — 2026年世界人工知能大会のFuture Techは、選ばれたスタートアップと投資家をつなぐネットワーク。2026年7月の大会は終了しており、常設インキュベーターや募集中の資金支援ではない。今後の交流の窓口として、次回の選考、出展料、投資家との面談を主催者に確認する。 [過去実績プログラム（継続実施の確認要）]"
+msgstr ":doc:`WAIC／Future Tech起業・投資ネットワーク <entities/waic-future-tech>` (世界人工智能大会／Future Tech创投生态 · 研究プラットフォーム · 全市／グローバル · ソフトウェアAI、ハードウェアAI、ロボティクス、科学研究へのAI活用) — 2026年世界人工知能大会のFuture Techは、選ばれたスタートアップと投資家をつなぐネットワーク。2026年7月の大会は終了しており、常設インキュベーターや募集中の資金支援ではない。今後の交流の窓口として、次回の選考、出展料、投資家との面談を主催者に確認する。 [過去のプログラム・継続状況は要確認]"
 
 #: ../../research.rst:21
 msgid ""
@@ -159,4 +155,4 @@ msgid ""
 "entity, customs boundary, sector permissions and data handling before "
 "incurring costs. This is a service and collaboration route; the plan is "
 "not a cash-award offer. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`外高橋の保税研究開発・AIヘルスケアイノベーション支援 <entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · 研究プラットフォーム · 浦東新区 · 科学知能（AI for Science）、ヘルスケア・医療、ハードウェアAI、ロボティクス) — 2025〜2026年計画は、AI創薬、医療機器の国際共同研究開発、先端設備のイノベーション、外資研究開発機関を明示的に支援する。外国のAI・ハードウェア企業は担当当局を通じ、現地での研究、試験、事業化の連携を検討できる。支出前に運営主体、法人、税関管理区域、業種別許可、データ取扱要件を確認する。サービスと協力の窓口であり、現金給付の確約ではない。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`外高橋の保税研究開発・AIヘルスケアイノベーション支援 <entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · 研究プラットフォーム · 浦東新区 · 科学研究へのAI活用、ヘルスケア・医療、ハードウェアAI、ロボティクス) — 2025〜2026年計画は、AI創薬、医療機器の国際共同研究開発、先端設備のイノベーション、外資研究開発機関を明示的に支援する。外国のAI・ハードウェア企業は担当当局を通じ、現地での研究、試験、事業化の連携を検討できる。支出前に運営主体、法人、税関管理区域、業種別許可、データ取扱要件を確認する。サービスと協力の窓口であり、現金給付の確約ではない。 [機関情報を確認済み・現在の受付は要確認]"

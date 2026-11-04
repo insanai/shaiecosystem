@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -71,25 +71,25 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+msgstr "日付のある公募通知で、所在地、申請主体、事業内容、対象経費の期間を確認する。"
 
 #: ../../districts/jiading.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+msgstr "必要書類をそろえ、求められる場合は所属機関や区の推薦を得る。"
 
 #: ../../districts/jiading.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+msgstr "締切までに公式システムで提出し、受付証を保存する。"
 
 #: ../../districts/jiading.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+msgstr "通知に従い、審査、採択、報告、検収、交付の手続きを進める。"
 
 #: ../../districts/jiading.rst:32
 msgid ""
@@ -111,7 +111,7 @@ msgid ""
 "SITRI. This is a route for beyond-Moore technology, shared technical "
 "services and pilot production rather than a promise of free fabrication. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`新微創源／上海マイクロテクノロジー工研院（SITRI）インキュベーション・エコシステム </entities/innospring>` （新微创源／上海微技术工研院孵化生态 · インキュベーター · ハードウェアAI、半導体・チップ、センサー）— 上海市科学技術委員会の記録にある新微創源と上海マイクロテクノロジー工研院（SITRI）の連携事業。モア・ザン・ムーア（More-than-Moore）技術、共用技術サービス、パイロット試作（中試）の連携に適しており、無償での半導体試作（テープアウト）を保証するものではない。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`新微創源／上海マイクロテクノロジー工研院（SITRI）インキュベーション・エコシステム </entities/innospring>` （新微创源／上海微技术工研院孵化生态 · インキュベーター · ハードウェアAI、半導体・チップ、センサー）— 上海市科学技術委員会の記録にある新微創源と上海マイクロテクノロジー工研院（SITRI）の連携事業。モア・ザン・ムーア（More-than-Moore）技術、共用技術サービス、パイロット試作（中試）の連携に適しており、無償での半導体試作（テープアウト）を保証するものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/jiading.rst:38
 msgid ""
@@ -121,7 +121,7 @@ msgid ""
 "trusted coordination. We use its cooperation contact rather than assuming "
 "access through general university admissions. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`同済大学PAI研究センター </entities/tongji-pai>` （同济大学PAI研究中心 · 研究プラットフォーム · ハードウェアAI、センサー）— 高精度測位、センシング、通信、トラステッド協調分野における産学連携窓口を設置している。大学の一般入学・教務窓口ではなく、公表されている産学連携チャネルを利用すること。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`同済大学PAI研究センター </entities/tongji-pai>` （同济大学PAI研究中心 · 研究プラットフォーム · ハードウェアAI、センサー）— 高精度測位、センシング、通信、トラステッド協調分野における産学連携窓口を設置している。大学の一般入学・教務窓口ではなく、公表されている産学連携チャネルを利用すること。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/jiading.rst:39
 msgid ""
@@ -132,7 +132,7 @@ msgid ""
 "and AI hardware components. Confirm optical lab equipment, engineering "
 "support and commercial terms before admission. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`羲和光谷光電産業インキュベーター </entities/xihe-optics>` （羲和光谷光电产业孵化器 · インキュベーター · ハードウェアAI、センサー、半導体・チップ）— 2025年11月に嘉定区で始動した光エレクトロニクス・フォトニクス専門インキュベーター。光学センシング、レーザーシステム、AIハードウェア部素材を手がける研究者発スタートアップを支援。入居前に光学ラボ設備、試作支援、商用条件を確認のこと。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`羲和光谷光電産業インキュベーター </entities/xihe-optics>` （羲和光谷光电产业孵化器 · インキュベーター · ハードウェアAI、センサー、半導体・チップ）— 2025年11月に嘉定区で始動した光エレクトロニクス・フォトニクス専門インキュベーター。光学センシング、レーザーシステム、AIハードウェア部素材を手がける研究者発スタートアップを支援。入居前に光学ラボ設備、試作支援、商用条件を確認のこと。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/jiading.rst:40
 msgid ""
@@ -143,7 +143,7 @@ msgid ""
 "business. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海師範大学天華学院 </entities/university-tianhua>` （上海师范大学天华学院 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：応用教育学、実践エンジニアリング、デジタルビジネス。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`上海師範大学天華学院 </entities/university-tianhua>` （上海师范大学天华学院 · 大学・高等教育機関）— 教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：応用教育学、実践エンジニアリング、デジタルビジネス。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。［ステータス：機関情報を確認済み・現在の受付は要確認］"
 
 #: ../../districts/jiading.rst:42
 msgid "Funding routes"

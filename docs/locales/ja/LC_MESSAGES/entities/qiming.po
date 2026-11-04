@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -51,7 +51,7 @@ msgstr "ステータスと支援内容"
 
 #: ../../entities/qiming.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "公表済み組織（公募状況の確認要）"
+msgstr "機関情報を確認済み・現在の受付は要確認"
 
 #: ../../entities/qiming.rst:19
 msgid "Funding mechanism: Equity investment."
@@ -93,23 +93,23 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 
 #: ../../entities/qiming.rst:37
 msgid "Confirm the manager, sector, stage and legal-entity fit."
-msgstr "ファンド運用者、投資対象セクター、ステージ、および法人格の適格性を確認する。"
+msgstr "運用会社、投資分野、成長段階、申請主体が対象に合うか確認する。"
 
 #: ../../entities/qiming.rst:39
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
-msgstr "ピッチ資料、資本政策表（キャップテーブル）、技術的実証データ、事業進捗実績（トラクション）、および資金調達計画を提出する。"
+msgstr "ピッチ資料、資本政策表、技術の検証結果、事業進捗、資金調達計画を提出する。"
 
 #: ../../entities/qiming.rst:41
 msgid "Complete commercial, financial, technical and legal due diligence."
-msgstr "ビジネス、財務、技術、および法務のデューデリジェンスを完了する。"
+msgstr "事業、財務、技術、法務のデューデリジェンスを受ける。"
 
 #: ../../entities/qiming.rst:43
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
-msgstr "投資条件概要書（タームシート）、投資委員会の決議条件、および最終投資契約書を精査する。"
+msgstr "タームシート、投資委員会の条件、最終契約を確認する。"
 
 #: ../../entities/qiming.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"

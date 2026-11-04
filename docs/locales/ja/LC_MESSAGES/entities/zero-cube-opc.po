@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,7 +30,7 @@ msgstr "インキュベーター｜浦東新区｜調査確認日 2026-11-04"
 
 #: ../../entities/zero-cube-opc.rst:8
 msgid "AI and industry focus: Software AI, Hardware AI, Industry."
-msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI、産業・インダストリー。"
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI、産業。"
 
 #: ../../entities/zero-cube-opc.rst:10
 msgid ""
@@ -55,7 +55,7 @@ msgstr "ステータスと支援内容"
 
 #: ../../entities/zero-cube-opc.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "公表済み組織（公募状況の確認要）"
+msgstr "機関情報を確認済み・現在の受付は要確認"
 
 #: ../../entities/zero-cube-opc.rst:19
 msgid ""
@@ -97,24 +97,24 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 
 #: ../../entities/zero-cube-opc.rst:35
 msgid "Send a project brief and request the current admission checklist."
-msgstr "プロジェクト概要書を送付し、現行の入居・採択チェックリストを請求する。"
+msgstr "事業概要を送り、最新の入居条件と必要書類を確認する。"
 
 #: ../../entities/zero-cube-opc.rst:37
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "運営事業者による資格審査および技術的・商業的審査を完了する。"
+msgstr "運営者の資格審査と技術・事業性の審査を受ける。"
 
 #: ../../entities/zero-cube-opc.rst:39
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "賃料、サービス料、知的財産権、計算資源（コンピュート）の利用料、および株式取得条項の有無を書面で確認する。"
+msgstr "賃料、サービス料、知的財産、計算資源の料金、株式に関する権利を書面で確認する。"
 
 #: ../../entities/zero-cube-opc.rst:41
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "合意した入居契約書・採択文書に署名し、マイルストーンと担当支援責任者を記録する。"
+msgstr "入居契約を結び、到達目標と支援担当者を記録する。"
 
 #: ../../entities/zero-cube-opc.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"

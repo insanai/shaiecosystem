@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: ../../apply.rst:1
 msgid "From introduction to application"
-msgstr "初回アプローチから正式申請まで"
+msgstr "初回の相談から申請まで"
 
 #: ../../apply.rst:4
 msgid ""
 "A useful application starts with a fit check and ends with an evidence "
 "trail. We keep one company data room, then adapt it to an incubation "
 "review, a public funding call, a corporate pilot or an investment process."
-msgstr "実りある申請は、事前の適合性確認から始まり、客観的な証拠資料の記録で完結する。統一した企業データルームを平時から維持管理し、インキュベーション審査、公的資金助成、企業実証パイロット、または投資プロセスのそれぞれに応じて柔軟に適応させていく。"
+msgstr "申請は、対象条件と事業の適合性を確かめるところから始まる。共通の企業資料を整え、インキュベーターへの入居、公的助成、企業との実証実験、資金調達に応じて補足し、各段階の記録を残しておく。"
 
 #: ../../apply.rst:7
 msgid ""
@@ -34,7 +34,7 @@ msgstr "的確な申請とは、資格要件、客観的証拠、そして意思
 
 #: ../../apply.rst:10
 msgid "The first conversation"
-msgstr "最初の対話"
+msgstr "最初の問い合わせ"
 
 #: ../../apply.rst:13
 msgid ""
@@ -43,7 +43,7 @@ msgid ""
 "Shanghai presence and the exact resource requested. We ask for the named "
 "receiving team and written current terms. A first message should be small "
 "enough to forward to the right person."
-msgstr "英語および簡体字中国語で記載した1枚の簡潔な企業紹介資料（ワンページャー）を送付する。会社概要とチーム構成、解決する顧客課題、製品、実証データ、現在の開発フェーズ、上海での拠点体制、および具体的に求めるリソースを明記する。担当の受付部署名と現行の提供条件の書面提示を依頼する。初回メッセージは、相手先が適切な担当者に即座に転送できる程度にコンパクトにまとめるべきである。"
+msgstr "英語と簡体字中国語で、1ページの事業紹介を用意する。企業とチーム、顧客の課題、製品、検証結果、開発段階、上海との関係、求める資源を示し、担当部署と最新の書面条件を尋ねる。最初の連絡は、適切な担当者に転送しやすい長さにまとめる。"
 
 #: ../../apply.rst:15
 msgid ""
@@ -57,7 +57,7 @@ msgstr "推奨される件名：【上海エコシステム照会】プロジェ
 
 #: ../../apply.rst:17
 msgid "The shared data room"
-msgstr "共有データルームの構築"
+msgstr "共通資料を整える"
 
 #: ../../apply.rst:20
 msgid ""
@@ -90,7 +90,7 @@ msgstr "技術資料：製品解説書、デモ動画、ベンチマーク評価
 
 #: ../../apply.rst:26
 msgid "Four different decisions"
-msgstr "性質の異なる4つの意思決定"
+msgstr "4種類の申請・判断"
 
 #: ../../apply.rst:29
 msgid ""
@@ -120,7 +120,7 @@ msgstr "企業実証パイロット：事業責任者の特定、課題の定義
 
 #: ../../apply.rst:35
 msgid "An accelerator's four-week field program"
-msgstr "アクセラレーターによる4週間の実地プログラム"
+msgstr "4週間の現地活動プラン"
 
 #: ../../apply.rst:38
 msgid ""
@@ -142,12 +142,6 @@ msgid ""
 msgstr "担当者、管轄主管機関、政策の版数、対象経費の証憑期間、中国標準時（CST）での締切日時、提出受領証、重複受給の排除規程、報告義務、および次回アクションを記載した「申請管理台帳」を作成・維持する。カレンダーのリマインダー設定は、正確な締切日とタイムゾーンを確認した上で行うべきである。"
 
 #: ../../apply.rst:42
-
-#| msgid ""
-#| "`Evidence S138 "
-#| "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
-#| "Guide for foreign talent and team members (Category A/B) applying for "
-#| "a Foreigner's Work Permit during the startup phase_Latest."
 msgid ""
 "`Evidence S142 "
 "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "

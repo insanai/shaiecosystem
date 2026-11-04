@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -38,27 +38,17 @@ msgid ""
 "Suggested collaboration themes: Materials, chemistry, bioprocessing, AI "
 "for Science. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding."
-msgstr "2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：材料科学、化学工学、バイオプロセス、科学のためのAI（AI for Science）。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。"
+msgstr "教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：材料科学、化学工学、バイオプロセス、科学のためのAI（AI for Science）。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。"
 
 #: ../../entities/university-ecust.rst:12
-
-#| msgid ""
-#| "`Evidence S087 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园."
 msgid "`Evidence S090 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园."
 msgstr "`出典 S090 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园."
 
 #: ../../entities/university-ecust.rst:14
-
-#| msgid "`Evidence S088 <https://www.ecustpark.com/1001370>`_. 创业服务."
 msgid "`Evidence S091 <https://www.ecustpark.com/1001370>`_. 创业服务."
 msgstr "`出典 S091 <https://www.ecustpark.com/1001370>`_. 创业服务."
 
 #: ../../entities/university-ecust.rst:16
-
-#| msgid ""
-#| "`Evidence S083 "
-#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
-#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
 "`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
@@ -71,7 +61,7 @@ msgstr "ステータスと支援内容"
 
 #: ../../entities/university-ecust.rst:21
 msgid "Published entity; intake to confirm"
-msgstr "公表済み組織（公募状況の確認要）"
+msgstr "機関情報を確認済み・現在の受付は要確認"
 
 #: ../../entities/university-ecust.rst:23
 msgid ""
@@ -118,23 +108,23 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 msgid ""
 "Find the relevant research group and state the scientific or industrial "
 "problem."
-msgstr "関連する研究グループを特定し、解決すべき学術的または産業的課題を明確にする。"
+msgstr "研究分野の合うチームを探し、科学的・産業的な課題を明確にする。"
 
 #: ../../entities/university-ecust.rst:43
 msgid ""
 "Send a short proposal covering data, equipment, outputs, funding and "
 "timescale."
-msgstr "データ、設備、研究成果、必要予算、およびタイムラインを網羅した簡潔な共同研究提案書を送付する。"
+msgstr "データ、設備、成果、予算、日程をまとめた簡潔な提案書を送る。"
 
 #: ../../entities/university-ecust.rst:45
 msgid ""
 "Agree the collaboration route, publication, IP and institutional "
 "authorization."
-msgstr "連携スキーム、論文発表、知的財産の帰属、および所属機関の承認手続きについて合意する。"
+msgstr "連携方法、成果発表、知的財産、機関の承認を取り決める。"
 
 #: ../../entities/university-ecust.rst:47
 msgid "Obtain written access or project approval before beginning the work."
-msgstr "研究業務を開始する前に、書面による施設利用許可またはプロジェクト承認を取得する。"
+msgstr "作業開始前に、書面で利用許可または事業承認を得る。"
 
 #: ../../entities/university-ecust.rst:49
 msgid ""

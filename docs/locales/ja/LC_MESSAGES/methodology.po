@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 10:45+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -18,18 +18,18 @@ msgstr ""
 
 #: ../../methodology.rst:1
 msgid "How to read the evidence"
-msgstr "エビデンス（根拠資料）の読み方"
+msgstr "出典と調査方法"
 
 #: ../../methodology.rst:4
 msgid ""
 "A useful directory makes uncertainty inspectable. We link each source "
 "near its claim and maintain one shared research record for all seven "
 "language editions."
-msgstr "有用なガイドは、情報の不確実性も確認できるようにする。本書では各記述のそばに出典を示し、7言語の全版で同じ調査記録を共有する。"
+msgstr "実用的なガイドには、確認できていない情報の明示も欠かせない。本書は各記述のそばに出典を示し、7言語の全版で同じ調査記録を共有する。"
 
 #: ../../methodology.rst:6
 msgid "Research and translation"
-msgstr "調査手法と翻訳の規律"
+msgstr "調査と翻訳"
 
 #: ../../methodology.rst:9
 msgid ""
@@ -60,16 +60,24 @@ msgstr "中国の組織名は、検索や問い合わせ時の照会を担保す
 
 #: ../../methodology.rst:15
 msgid "Contacts, workflows and map locations"
-msgstr "連絡先、ワークフロー、および地図上の位置"
+msgstr "連絡先・申請手順・地図"
 
 #: ../../methodology.rst:18
+
+#| msgid ""
+#| "Published phone numbers and email addresses are attributed to their "
+#| "source. A general university switchboard is identified as such. Where "
+#| "a direct contact is not established, the record gives the official "
+#| "website or authority route and explicitly requests a named receiving "
+#| "team. We did not contact organizations or submit applications."
 msgid ""
-"Published phone numbers and email addresses are attributed to their "
-"source. A general university switchboard is identified as such. Where a "
-"direct contact is not established, the record gives the official website "
-"or authority route and explicitly requests a named receiving team. We did "
-"not contact organizations or submit applications."
-msgstr "掲載されている電話番号やメールアドレスは、それぞれの情報源に紐づけて明記している。大学の代表電話はその旨を明記した。直通連絡先が確認されていない場合、本記録では公式サイトまたは主管機関の案内ルートを提示し、担当部署への連絡を明示的に依頼することを推奨している。編集部が組織に直接連絡を取ったり、申請を代行したりした実績を示すものではない。"
+"Published telephone numbers are attributed to their sources, and general "
+"university switchboards are identified. Where a direct contact is "
+"unverified, we provide an official website or authority and suggest "
+"asking for the responsible team. We have not contacted organizations or "
+"submitted applications on readers' behalf. Email addresses are not "
+"published."
+msgstr "公開電話番号には出典を示し、大学の代表番号はその旨を明記する。担当者を確認できない場合は公式サイトや主管機関を案内し、担当部署の照会を勧める。本プロジェクトでは機関への連絡や読者に代わる申請は行っていない。メールアドレスは掲載しない。"
 
 #: ../../methodology.rst:20
 msgid ""
@@ -82,7 +90,7 @@ msgstr "申請ワークフローは、公募通知に固有の手続きが記載
 
 #: ../../methodology.rst:22
 msgid "Known gaps and responsible upkeep"
-msgstr "既知の課題と責任ある更新方針"
+msgstr "未確認事項と更新方法"
 
 #: ../../methodology.rst:25
 msgid ""
@@ -118,11 +126,9 @@ msgid ""
 "contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
 "Kanak Rathore and Emily Yue Xu. Built with Guidedog as a unified "
 "bilingual HTML website and Typst-typeset PDF book publication."
-msgstr "執筆クレジットおよび出版システム：本書は Vikrant Rathore が執筆し、Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu が寄稿した。Guidedog を用いて、日英・中英バイリンガルのHTML WebサイトおよびTypst組版によるPDF書籍として統合制作された。"
+msgstr "執筆はVikrant Rathore、協力はLauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu。Guidedogのネイティブワークフローを使用し、7言語のHTMLウェブ版とTypst組版のPDF書籍を制作している。"
 
 #: ../../methodology.rst:33
-
-#| msgid "Research and translation"
 msgid "Reuse and licensing"
 msgstr "再利用とライセンス"
 

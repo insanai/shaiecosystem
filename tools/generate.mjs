@@ -162,7 +162,7 @@ function workflow(key) {
 
 const UNI_SUMMARY_TPL = {
   hi: (fit) => `यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: ${fit}। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है।`,
-  ja: (fit) => `2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：${fit}。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。`,
+  ja: (fit) => `教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：${fit}。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。`,
   ko: (fit) => `2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: ${fit}. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다.`,
   de: (fit) => `Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: ${fit}. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar.`,
   es: (fit) => `Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: ${fit}. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups.`
@@ -441,7 +441,7 @@ for (const d of districts) {
 const GROUP_COUNT_TPL = {
   zh_CN: n => `收录${n}家机构，附资料来源、联系方式和申请参考。机构信息已核实，不代表当前正在接受申请。`,
   hi: n => `${n} संस्थानों की जानकारी, स्रोत, संपर्क और आवेदन की संदर्भ सूची के साथ। संस्थान की जानकारी की पुष्टि और मौजूदा आवेदन की स्थिति अलग-अलग बताई गई हैं।`,
-  ja: n => `出典、連絡ルート、申請チェックリスト付きの ${n} 件のプロファイル。機関の存在と現在の募集状況は区別して記載しています。`,
+  ja: n => `${n}機関の情報を、出典・連絡先・申請の参考手順とともに収録。機関の情報と、現在の受付状況は区別して示す。`,
   ko: n => `출처, 연락 경로 및 신청 체크리스트가 포함된 ${n}개의 프로필. 기관의 존재 여부와 현재 모집 여부는 구분하여 표기합니다.`,
   de: n => `${n} Profile mit Quellenbelegen, Kontaktwegen und Bewerbungs-Checkliste. Veröffentlichte Existenz wird von laufenden Bewerbungsrunden unterschieden.`,
   es: n => `${n} perfiles con evidencia, vías de contacto y lista de verificación de solicitud. La existencia publicada se distingue de la recepción activa de candidaturas.`
@@ -641,7 +641,7 @@ for (const e of allEntities) {
 const FUND_INTRO_TPL = {
   zh_CN: n => `整理全市及16个区的${n}项融资扶持信息，区分无需出让股权的支持、需还款的贷款、服务额度及股权投资。政策或网页仍然存在，不代表当前可以申报。`,
   hi: n => `शहर और सभी 16 ज़िलों के ${n} फंडिंग व सहायता विकल्प। बिना हिस्सेदारी वाली सहायता, लौटाने योग्य ऋण, क्रेडिट और निवेश अलग-अलग बताए गए हैं। नीति या वेब पेज मौजूद होने से आवेदन खुला नहीं मानते।`,
-  ja: n => `全市プログラムおよび全16行政区にわたる ${n} 件の調査済み資金ルート。非エクイティ支援、返済義務のある融資、クラウドクレジット、株式投資を明確に区別しています。政策やWebページが存在するだけで募集中と表示することはありません。`,
+  ja: n => `全市と16行政区の資金調達・支援制度${n}件を整理。株式提供を求めない支援、返済が必要な融資、クレジット、投資を区別する。政策やウェブページの存在だけで、申請受付中とは判断しない。`,
   ko: n => `전시 프로그램과 16개 전 행정구에 걸친 ${n}개의 연구된 자금 경로. 비지분 지원과 상환 의무 대출, 크레딧, 지분 투자를 명확히 구분합니다. 정책이나 웹페이지가 존재한다는 이유만으로 접수 중으로 표시하지 않습니다.`,
   de: n => `${n} recherchierte Förderwege über stadtweite Programme und alle 16 Bezirke hinweg. Wir unterscheiden eigenkapitalfreie Förderung klar von rückzahlbaren Darlehen, Gutscheinen und Beteiligungskapital.`,
   es: n => `${n} rutas investigadas en programas de toda la ciudad y en los 16 distritos. Distinguimos el apoyo libre de capital de la deuda reembolsable, los créditos y la inversión de capital.`

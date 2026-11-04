@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -29,11 +29,6 @@ msgid "Published tax guidance; recognition required"
 msgstr "税務指針公表済み（企業認定の取得要）"
 
 #: ../../funding/tax-hnte.rst:8
-
-#| msgid ""
-#| "`Evidence S106 "
-#| "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
-#| "上海市“2366”产业税收优惠政策指引."
 msgid ""
 "`Evidence S109 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
@@ -50,7 +45,7 @@ msgstr "認定を受けた適格企業に対し、法人所得税率を一律15�
 
 #: ../../funding/tax-hnte.rst:15
 msgid "No equity"
-msgstr "株式の提供不要"
+msgstr "株式提供の義務なし"
 
 #: ../../funding/tax-hnte.rst:17
 msgid "Eligibility and timing"
@@ -90,22 +85,22 @@ msgstr "編集部作成の申請チェックリスト。実際の申請手続き
 #: ../../funding/tax-hnte.rst:33
 msgid ""
 "Check the current tax rules and recognition or accounting requirements."
-msgstr "現行の税制優遇規定、企業認定要件、または会計処理基準を確認する。"
+msgstr "現行の税制、認定要件、会計処理の条件を確認する。"
 
 #: ../../funding/tax-hnte.rst:35
 msgid ""
 "Maintain qualifying R&D and income records with a qualified tax adviser."
-msgstr "資格を有する税務専門家・顧問とともに、対象となる研究開発費および収益の記録・帳簿を適正に管理する。"
+msgstr "資格を持つ税務専門家と研究開発費や収益の記録を整える。"
 
 #: ../../funding/tax-hnte.rst:37
 msgid ""
 "Complete recognition where required and claim in the correct tax filing."
-msgstr "所定の認定取得（高新技术企業認定等）を完了させ、該当する確定申告期に正しく控除・優遇を適用する。"
+msgstr "必要な認定を取得し、該当する税務申告で優遇措置を適用する。"
 
 #: ../../funding/tax-hnte.rst:39
 msgid ""
 "Retain evidence for review and separate tax savings from cash grants."
-msgstr "税務調査に備えて根拠資料を保管し、節税効果と直接的な現金補助金とを明確に区別して管理する。"
+msgstr "確認資料を保存し、節税効果と現金の助成を区別する。"
 
 #: ../../funding/tax-hnte.rst:41
 msgid ""
