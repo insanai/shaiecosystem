@@ -26,18 +26,18 @@ msgstr "股权投资｜徐汇区"
 
 #: ../../funding/qingmiao-investment.rst:6
 msgid "Published investment platform; deal review"
-msgstr "投资平台已公布，须项目审核"
+msgstr "投资平台已公布，需进行项目审核"
 
 #: ../../funding/qingmiao-investment.rst:8
 msgid ""
 "`Evidence S077 "
 "<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. "
 "Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
-msgstr "`证据 S077 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+msgstr "`资料来源 S077 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
 
 #: ../../funding/qingmiao-investment.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/qingmiao-investment.rst:13
 msgid ""
@@ -47,11 +47,11 @@ msgstr "由管理人审核早期投资，未核实统一投资额或股权比例
 
 #: ../../funding/qingmiao-investment.rst:15
 msgid "Negotiated equity"
-msgstr "协商股权"
+msgstr "股权比例由双方协商"
 
 #: ../../funding/qingmiao-investment.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/qingmiao-investment.rst:20
 msgid ""
@@ -59,7 +59,7 @@ msgid ""
 "camp notice documents investment activity and organizers, not an "
 "always-open application or guaranteed grant. Request the responsible "
 "manager, screening pack, local-operation conditions and term sheet."
-msgstr "符合基金方向的青年早期AI项目。2026年8月创业营公告证明存在投资活动及组织方，并不证明始终开放申请或保证获得补助。须索取负责管理人、筛选材料、属地经营条件及投资条款清单。"
+msgstr "符合基金方向的青年早期AI项目。2026年8月创业营公告可确认投资活动和主办方，但不能据此判断是否随时接受申请，更不保证获得补助。应向具体管理人索取筛选材料清单、属地经营要求及投资条款。"
 
 #: ../../funding/qingmiao-investment.rst:22
 msgid "Manager-led sourcing and due diligence"
@@ -67,49 +67,49 @@ msgstr "管理人开展项目筛选与尽调"
 
 #: ../../funding/qingmiao-investment.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/qingmiao-investment.rst:27
 msgid ""
 "`Official application / policy route "
 "<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
-msgstr "`官方申请／政策入口 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+msgstr "`官方申请渠道及政策文件 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
 
 #: ../../funding/qingmiao-investment.rst:29
 msgid ""
 "The linked authority or operator is the contact route. A direct current "
 "program contact is not established in this profile."
-msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+msgstr "请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。"
 
 #: ../../funding/qingmiao-investment.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/qingmiao-investment.rst:33
 msgid "Confirm the manager, sector, stage and legal-entity fit."
-msgstr "确认管理人、行业、阶段及主体匹配。"
+msgstr "确认基金管理人、投资领域、发展阶段及申请主体是否匹配。"
 
 #: ../../funding/qingmiao-investment.rst:35
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
-msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+msgstr "提交路演材料、股权结构、技术验证结果、业务进展和融资计划。"
 
 #: ../../funding/qingmiao-investment.rst:37
 msgid "Complete commercial, financial, technical and legal due diligence."
-msgstr "完成商业、财务、技术及法律尽职调查。"
+msgstr "配合完成商业、财务、技术及法律尽职调查。"
 
 #: ../../funding/qingmiao-investment.rst:39
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
-msgstr "审核条款书、投委会条件及正式协议。"
+msgstr "审阅投资条款清单、投委会审议条件及正式协议。"
 
 #: ../../funding/qingmiao-investment.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

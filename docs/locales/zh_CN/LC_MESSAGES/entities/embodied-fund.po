@@ -26,11 +26,11 @@ msgstr "上海具身智能基金"
 
 #: ../../entities/embodied-fund.rst:6
 msgid "Investor | Pudong | Research checked 2026-11-04"
-msgstr "投资机构｜浦东新区｜研究核对日期 2026-11-04"
+msgstr "投资机构｜浦东新区｜资料核查日期 2026-11-04"
 
 #: ../../entities/embodied-fund.rst:8
 msgid "AI and industry focus: Hardware AI, Robotics, Sensors."
-msgstr "人工智能与产业方向：硬件人工智能、机器人、传感器。"
+msgstr "AI及产业方向：AI硬件、机器人、传感器。"
 
 #: ../../entities/embodied-fund.rst:10
 msgid ""
@@ -38,48 +38,48 @@ msgid ""
 "2025, including core components and edge chips. Confirm the current "
 "manager and investment mandate; no uniform cheque size or ownership "
 "percentage is established here."
-msgstr "2025年4月公布的国资具身智能投资路径，涉及核心零部件与边缘芯片。须确认现任管理人及投资范围；本书不推定统一投资额或持股比例。"
+msgstr "2025年4月公布的国资具身智能投资渠道，涉及核心零部件和边缘芯片。需确认当前管理人及投资范围，不能推定统一投资金额或持股比例。"
 
 #: ../../entities/embodied-fund.rst:12
 msgid ""
 "`Evidence S046 "
 "<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_. "
 "上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态."
-msgstr "`证据 S046 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_. 上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态."
+msgstr "`资料来源 S046 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_. 上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态."
 
 #: ../../entities/embodied-fund.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/embodied-fund.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/embodied-fund.rst:19
 msgid "Funding mechanism: Equity investment."
-msgstr "支持机制：股权投资。"
+msgstr "支持方式：股权投资。"
 
 #: ../../entities/embodied-fund.rst:21
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/embodied-fund.rst:24
 msgid ""
 "`Official evidence and authority route "
 "<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_"
-msgstr "`官方来源与主管部门入口 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_"
+msgstr "`官方资料及主管部门 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_"
 
 #: ../../entities/embodied-fund.rst:26
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/embodied-fund.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/embodied-fund.rst:30
 msgid "Application workflow"
@@ -89,31 +89,31 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/embodied-fund.rst:35
 msgid "Confirm the manager, sector, stage and legal-entity fit."
-msgstr "确认管理人、行业、阶段及主体匹配。"
+msgstr "确认基金管理人、投资领域、发展阶段及申请主体是否匹配。"
 
 #: ../../entities/embodied-fund.rst:37
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
-msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+msgstr "提交路演材料、股权结构、技术验证结果、业务进展和融资计划。"
 
 #: ../../entities/embodied-fund.rst:39
 msgid "Complete commercial, financial, technical and legal due diligence."
-msgstr "完成商业、财务、技术及法律尽职调查。"
+msgstr "配合完成商业、财务、技术及法律尽职调查。"
 
 #: ../../entities/embodied-fund.rst:41
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
-msgstr "审核条款书、投委会条件及正式协议。"
+msgstr "审阅投资条款清单、投委会审议条件及正式协议。"
 
 #: ../../entities/embodied-fund.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"
-msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"
+msgstr ":doc:`浦东新区合作指南 </districts/pudong>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

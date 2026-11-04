@@ -26,64 +26,64 @@ msgstr "璞跃中国上海中心"
 
 #: ../../entities/plugplay.rst:6
 msgid "Accelerator | Pudong | Research checked 2026-11-04"
-msgstr "加速器｜浦东新区｜研究核对日期 2026-11-04"
+msgstr "加速器｜浦东新区｜资料核查日期 2026-11-04"
 
 #: ../../entities/plugplay.rst:8
 msgid "AI and industry focus: Software AI, Hardware AI, Mobility."
-msgstr "人工智能与产业方向：软件人工智能、硬件人工智能、交通。"
+msgstr "AI及产业方向：AI软件、AI硬件、交通。"
 
 #: ../../entities/plugplay.rst:10
 msgid ""
 "The operator lists its Yangtze River Delta innovation center at "
 "Zhangjiang Guochuang Center. Corporate innovation, office space and "
 "venture investment have different admission and commercial terms."
-msgstr "运营方公布长三角区域创新中心位于张江国创中心。企业创新、办公空间及风险投资的准入与商业条款不同。"
+msgstr "运营方公布的长三角区域创新中心位于张江国创中心。企业创新项目、办公场地和风险投资各有申请条件及商业条款。"
 
 #: ../../entities/plugplay.rst:12
 msgid ""
 "`Evidence S011 <https://admin.pnpchina.com/about/office-space/>`_. Plug "
 "and Play 中国—科技创新加速器与投资机构，专注创新生态服务和开放式创新."
-msgstr "`证据 S011 <https://admin.pnpchina.com/about/office-space/>`_. Plug and Play 中国—科技创新加速器与投资机构，专注创新生态服务和开放式创新."
+msgstr "`资料来源 S011 <https://admin.pnpchina.com/about/office-space/>`_. Plug and Play 中国—科技创新加速器与投资机构，专注创新生态服务和开放式创新."
 
 #: ../../entities/plugplay.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/plugplay.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/plugplay.rst:19
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
-msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+msgstr "尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。"
 
 #: ../../entities/plugplay.rst:21
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/plugplay.rst:24
 msgid "`Official website / intake route <https://www.pnpchina.com/>`_"
-msgstr "`官网／对接入口 <https://www.pnpchina.com/>`_"
+msgstr "`官网及申请渠道 <https://www.pnpchina.com/>`_"
 
 #: ../../entities/plugplay.rst:26
 msgid ""
 "Published address: 2F, Building 1, Phase II, Zhangjiang Guochuang Center, "
 "899 Dangui Road."
-msgstr "公布地址：浦东新区丹桂路899号张江国创中心二期1幢2楼。"
+msgstr "公开地址：浦东新区丹桂路899号张江国创中心二期1幢2楼。"
 
 #: ../../entities/plugplay.rst:28
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/plugplay.rst:30
 msgid ""
 "Map point is approximate, based on the published street context; it is "
 "not an entrance or navigation coordinate."
-msgstr "地图点依据公布街道信息近似定位，不是入口或导航坐标。"
+msgstr "地图根据公开街道信息标注大致位置，不用于确认入口或导航。"
 
 #: ../../entities/plugplay.rst:32
 msgid "Application workflow"
@@ -93,33 +93,33 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/plugplay.rst:37
 msgid "Identify the corporate business owner and one measurable use case."
-msgstr "确认企业业务负责人及可量化场景。"
+msgstr "找到企业业务负责人，明确可量化的应用需求。"
 
 #: ../../entities/plugplay.rst:39
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
-msgstr "提交产品简介、试点证据及相关技术要求。"
+msgstr "提交产品简介、试点结果及相关技术要求。"
 
 #: ../../entities/plugplay.rst:41
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
-msgstr "确认招募情况或约定试点范围、数据权利与知识产权。"
+msgstr "确认项目是否正在征集，或另行约定试点范围、数据权属和知识产权。"
 
 #: ../../entities/plugplay.rst:43
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
-msgstr "分别审核采购、付款、验收及转生产决策。"
+msgstr "分别确认采购、付款、验收流程，以及转为正式部署的决策条件。"
 
 #: ../../entities/plugplay.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"
-msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"
+msgstr ":doc:`浦东新区合作指南 </districts/pudong>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

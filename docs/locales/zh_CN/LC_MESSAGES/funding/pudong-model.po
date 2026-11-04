@@ -22,27 +22,22 @@ msgstr "浦东2026年大模型等AI新技术应用项目"
 
 #: ../../funding/pudong-model.rst:4
 msgid "Reimbursement | Pudong"
-msgstr "报销支持｜浦东新区"
+msgstr "费用补贴｜浦东新区"
 
 #: ../../funding/pudong-model.rst:6
 msgid "Closed"
 msgstr "已截止"
 
 #: ../../funding/pudong-model.rst:8
-
-#| msgid ""
-#| "`Evidence S096 "
-#| "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
-#| "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 msgid ""
 "`Evidence S099 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
 "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
-msgstr "`证据 S099 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`资料来源 S099 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 
 #: ../../funding/pudong-model.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/pudong-model.rst:13
 msgid "Support rate and amount subject to applicable implementing rules"
@@ -54,14 +49,14 @@ msgstr "不占股"
 
 #: ../../funding/pudong-model.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/pudong-model.rst:20
 msgid ""
 "Qualifying Pudong-benefiting projects with eligible 2025 model or agent "
 "expenses. Required filing or registration conditions apply; previously "
 "publicly funded projects cannot duplicate this support."
-msgstr "主要效益在浦东且具有合资格2025年模型或智能体支出的项目；适用备案或登记条件，已获其他财政资金项目不得重复申报。"
+msgstr "项目主要效益在浦东，且有符合要求的2025年大模型或智能体应用支出。需满足适用的备案或登记要求，已获其他财政资金支持的项目不得重复申报。"
 
 #: ../../funding/pudong-model.rst:22
 msgid "Closed 31 Aug 2026, 16:00 China Standard Time"
@@ -69,49 +64,49 @@ msgstr "已于2026年8月31日中国标准时间16:00截止"
 
 #: ../../funding/pudong-model.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/pudong-model.rst:27
 msgid "`Official application / policy route <https://pyd.pudong.gov.cn/>`_"
-msgstr "`官方申请／政策入口 <https://pyd.pudong.gov.cn/>`_"
+msgstr "`官方申请渠道及政策文件 <https://pyd.pudong.gov.cn/>`_"
 
 #: ../../funding/pudong-model.rst:29
 msgid "Published consultation: +86 21 68811090."
-msgstr "公布咨询电话：+86 21 68811090。"
+msgstr "咨询电话：+86 21 68811090。"
 
 #: ../../funding/pudong-model.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/pudong-model.rst:33
 msgid ""
 "Historical 2026 procedure: prepare the signed application, use report and "
 "commitments."
-msgstr "2026年历史流程：准备签章申请、应用报告及承诺。"
+msgstr "2026年已结束批次的流程：准备签字盖章的申请材料、应用报告和承诺书。"
 
 #: ../../funding/pudong-model.rst:35
 msgid ""
 "Add application logs, special audit, expenditure schedule, contracts, "
 "invoices and payments."
-msgstr "补充应用日志、专项审计、支出明细、合同、发票与付款。"
+msgstr "补充应用日志、专项审计、支出明细、合同、发票及付款凭证。"
 
 #: ../../funding/pudong-model.rst:37
 msgid ""
 "Submit on the Pudong policy platform; the 31 August 2026 deadline has "
 "passed."
-msgstr "通过浦东惠企平台提交；2026年8月31日截止已过。"
+msgstr "通过浦东惠企平台提交；该批次已于2026年8月31日截止。"
 
 #: ../../funding/pudong-model.rst:39
 msgid ""
 "The receiving area administration or town reviews and recommends; seek a "
 "new notice for future claims."
-msgstr "片区管理局或镇审核推荐，后续申报需等待新通知。"
+msgstr "由片区管理局或镇审核推荐；后续申报需等待新通知。"
 
 #: ../../funding/pudong-model.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

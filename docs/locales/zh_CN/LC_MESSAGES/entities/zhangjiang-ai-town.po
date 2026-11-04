@@ -26,11 +26,11 @@ msgstr "张江人工智能创新小镇"
 
 #: ../../entities/zhangjiang-ai-town.rst:6
 msgid "Technology park | Pudong | Research checked 2026-11-04"
-msgstr "科技园区｜浦东新区｜研究核对日期 2026-11-04"
+msgstr "科技园区｜浦东新区｜资料核查日期 2026-11-04"
 
 #: ../../entities/zhangjiang-ai-town.rst:8
 msgid "AI and industry focus: Software AI, Hardware AI, AI for Science."
-msgstr "人工智能与产业方向：软件人工智能、硬件人工智能、科学智能。"
+msgstr "AI及产业方向：AI软件、AI硬件、科学智能。"
 
 #: ../../entities/zhangjiang-ai-town.rst:10
 msgid ""
@@ -39,57 +39,57 @@ msgid ""
 "compute, model and corpus vouchers. Confirm whether the company's "
 "registered and operating address falls inside the designated town "
 "boundary."
-msgstr "位于张江科学城核心区的2平方公里创新集聚区，规划70万平方米产业空间，布局时空量子城市数字底座并配套算力券、模型券与语料券。申请专项支持前须确认注册与实际经营地址是否位于小镇核定边界内。"
+msgstr "位于张江科学城核心区的2平方公里创新集聚区，规划70万平方米产业空间，布局时空量子城市数字底座，并配套算力券、模型券和语料券。申请专项支持前，应确认企业注册地和实际经营地均在核定范围内。"
 
 #: ../../entities/zhangjiang-ai-town.rst:12
 msgid ""
 "`Evidence S056 "
 "<https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_. "
 "〖解放日报头版〗打造“全球AI逐梦者的家园”！张江人工智能创新小镇揭幕，到后年将新集聚500家以上企业_重点工作."
-msgstr "`证据 S056 <https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_. 〖解放日报头版〗打造“全球AI逐梦者的家园”！张江人工智能创新小镇揭幕，到后年将新集聚500家以上企业_重点工作."
+msgstr "`资料来源 S056 <https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_. 〖解放日报头版〗打造“全球AI逐梦者的家园”！张江人工智能创新小镇揭幕，到后年将新集聚500家以上企业_重点工作."
 
 #: ../../entities/zhangjiang-ai-town.rst:14
 msgid ""
 "`Evidence S057 "
 "<https://www.pudong.gov.cn/zwgk/zwgk_zfxxgkml_atc_pf/2026/287/362043.html>`_. "
 "关于张江AI小镇时空量子城市数字底座及首期场景建设项目建设方案的批复_批复."
-msgstr "`证据 S057 <https://www.pudong.gov.cn/zwgk/zwgk_zfxxgkml_atc_pf/2026/287/362043.html>`_. 关于张江AI小镇时空量子城市数字底座及首期场景建设项目建设方案的批复_批复."
+msgstr "`资料来源 S057 <https://www.pudong.gov.cn/zwgk/zwgk_zfxxgkml_atc_pf/2026/287/362043.html>`_. 关于张江AI小镇时空量子城市数字底座及首期场景建设项目建设方案的批复_批复."
 
 #: ../../entities/zhangjiang-ai-town.rst:16
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/zhangjiang-ai-town.rst:19
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/zhangjiang-ai-town.rst:21
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
-msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+msgstr "尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。"
 
 #: ../../entities/zhangjiang-ai-town.rst:23
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/zhangjiang-ai-town.rst:26
 msgid ""
 "`Official evidence and authority route "
 "<https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_"
-msgstr "`官方来源与主管部门入口 <https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_"
+msgstr "`官方资料及主管部门 <https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_"
 
 #: ../../entities/zhangjiang-ai-town.rst:28
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/zhangjiang-ai-town.rst:30
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/zhangjiang-ai-town.rst:32
 msgid "Application workflow"
@@ -99,32 +99,32 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/zhangjiang-ai-town.rst:37
 msgid "Send a project brief and request the current admission checklist."
-msgstr "发送项目简介，索取现行入驻清单。"
+msgstr "发送项目简介，索取最新入驻条件及材料清单。"
 
 #: ../../entities/zhangjiang-ai-town.rst:39
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "完成运营方资格及技术或商业评审。"
+msgstr "按运营机构要求完成资格审核及技术或商业评审。"
 
 #: ../../entities/zhangjiang-ai-town.rst:41
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "书面确认租金、服务费、知识产权、算力价格及任何股权权利。"
+msgstr "书面确认租金、服务费、知识产权、算力价格及股权相关条款。"
 
 #: ../../entities/zhangjiang-ai-town.rst:43
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "签署入驻文件，记录里程碑与服务负责人。"
+msgstr "签署入驻协议，明确阶段目标和服务对接人。"
 
 #: ../../entities/zhangjiang-ai-town.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"
-msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"
+msgstr ":doc:`浦东新区合作指南 </districts/pudong>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

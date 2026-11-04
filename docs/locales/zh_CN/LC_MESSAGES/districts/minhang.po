@@ -33,20 +33,15 @@ msgid ""
 msgstr "企业科技创新政策有效期为2025年9月1日至2030年8月31日。新设科技成果转化企业符合条件的，可按转化投入50%获得每年最高50万元、三年累计最高150万元资助。"
 
 #: ../../districts/minhang.rst:8
-
-#| msgid ""
-#| "`Evidence S098 "
-#| "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
-#| "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 msgid ""
 "`Evidence S101 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`证据 S101 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`资料来源 S101 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../districts/minhang.rst:10
 msgid "Who receives the inquiry"
-msgstr "咨询受理"
+msgstr "联系哪个部门"
 
 #: ../../districts/minhang.rst:13
 msgid "Minhang science and technology authority"
@@ -60,41 +55,41 @@ msgstr "`区政府官网 <https://www.shmh.gov.cn/>`_"
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../districts/minhang.rst:19
 msgid "Before applying"
-msgstr "申请之前"
+msgstr "申请前需确认"
 
 #: ../../districts/minhang.rst:22
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../districts/minhang.rst:24
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+msgstr "阅读有明确发布日期的通知，确认属地、申请主体、业务及费用发生期间等条件。"
 
 #: ../../districts/minhang.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "准备规定材料，按要求完成单位或区级推荐。"
+msgstr "按清单准备材料，并按要求取得依托单位或区级部门推荐。"
 
 #: ../../districts/minhang.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "在截止前通过官方平台提交并保存回执。"
+msgstr "在截止时间前通过官方平台提交，保存受理回执。"
 
 #: ../../districts/minhang.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+msgstr "按通知要求完成评审、立项、报告、验收及资金拨付手续。"
 
 #: ../../districts/minhang.rst:32
 msgid ""
@@ -102,11 +97,11 @@ msgid ""
 "actual operations must both be in the district, which expenditure period "
 "is eligible, and whether previous municipal or district awards exclude a "
 "claim. Obtain the answer before moving a company or incurring costs."
-msgstr "询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。"
+msgstr "申请前应确认适用的最新通知，企业注册地和实际经营地是否都须在本区，哪些期间的费用可以申报，以及已获市级或区级资助是否影响本次申请。企业迁址或发生支出前，应先取得明确答复。"
 
 #: ../../districts/minhang.rst:34
 msgid "Local organizations in this atlas"
-msgstr "本图谱中的本区机构"
+msgstr "本区收录机构"
 
 #: ../../districts/minhang.rst:37
 msgid ""
@@ -116,7 +111,7 @@ msgid ""
 "projects with incubation. SJTU documents the Zero Kilometer launch and "
 "its AI, integrated-circuit, manufacturing and low-carbon participants. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`大零号湾／零公里孵化器 </entities/neobay>` （大零号湾／零公里孵化器 · 孵化器 · 硬件人工智能、软件人工智能）—— 依托高校的科技成果转化路径，连接早期项目与孵化资源。交大公开记录零公里孵化器启动及人工智能、集成电路、制造和低碳领域的参与情况。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`大零号湾／零公里孵化器 </entities/neobay>` （孵化器 · AI硬件、AI软件）： 依托高校科研资源，推动早期项目成果转化和创业孵化。上海交大公开资料记录了零公里孵化器的启动，以及AI、集成电路、制造和低碳领域团队的参与情况。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/minhang.rst:38
 msgid ""
@@ -126,7 +121,7 @@ msgid ""
 "include electrodes, neural interfaces, sensing, rehabilitation and "
 "translational engineering; wet-lab and device requirements need explicit "
 "confirmation. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`司南脑机智能孵化器 </entities/synlonx>` （司南脑机智能孵化器 · 孵化器 · 硬件人工智能、健康）—— 在华漕启动的脑机接口孵化平台。可对接电极、神经接口、传感、康复与转化工程；实验空间及器械要求需明确确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`司南脑机智能孵化器 </entities/synlonx>` （孵化器 · AI硬件、健康）： 在华漕启动的脑机接口孵化平台，可关注电极、神经接口、传感、康复及成果转化工程。实验场地的使用条件和医疗器械相关要求，应在申请前确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/minhang.rst:39
 msgid ""
@@ -135,7 +130,7 @@ msgid ""
 "plan links Grand neoBay R&D with Maqiao manufacturing. A useful pathway "
 "from a robot prototype to supply-chain and production conversations. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`马桥人工智能创新试验区 </entities/maqiao>` （马桥人工智能创新试验区 · 科技园区 · 硬件人工智能、机器人）—— 闵行2025至2026年园区方案连接大零号湾研发与马桥制造，可作为机器人样机走向供应链及生产对接的路径。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`马桥人工智能创新试验区 </entities/maqiao>` （科技园区 · AI硬件、机器人）： 闵行2025至2026年园区方案提出，衔接大零号湾科研与马桥制造资源。机器人团队可据此寻找从样机到供应链及生产环节的合作方。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/minhang.rst:40
 msgid ""
@@ -145,7 +140,7 @@ msgid ""
 "and manufacturing ecosystem. Its operator describes industry challenges "
 "and collaborative innovation; current admission, space and fees require "
 "an intake discussion. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`紫竹国家高新区／创业孵化器ET空间 </entities/zizhu>` （紫竹国家高新区／创业孵化器ET空间 · 孵化器 · 软件人工智能、硬件人工智能、产业）—— 高新区所属孵化器连接软件、航空电子及制造生态。运营方介绍产业挑战及协同创新，当前入驻、空间与费用须通过受理咨询确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`紫竹国家高新区／创业孵化器ET空间 </entities/zizhu>` （孵化器 · AI软件、AI硬件、产业）： 紫竹国家高新区所属孵化器，可对接软件、航空电子和制造业资源。运营方介绍了产业挑战及协同创新项目，当前入驻条件、场地和费用需进一步咨询。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/minhang.rst:41
 msgid ""
@@ -155,7 +150,7 @@ msgid ""
 "business-service hub in Hongqiao. The reported workstation offer depends "
 "on qualification and available space, not simply arrival at the transport "
 "hub. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`虹桥国际青年创业港 </entities/hongqiao-youth>` （虹桥国际青年创业港 · 孵化器 · 软件人工智能、产业）—— 2026年7月启用的虹桥青年创业及企业服务枢纽。报道的工位权益取决于资格及可用空间，并非抵达交通枢纽即可享有。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`虹桥国际青年创业港 </entities/hongqiao-youth>` （孵化器 · AI软件、产业）： 2026年7月启用的青年创业及企业服务平台。报道中的工位支持取决于申请资格及场地余量，并非到达虹桥交通枢纽即可享受。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/minhang.rst:42
 msgid ""
@@ -165,7 +160,7 @@ msgid ""
 "engineering, medical AI. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海交通大学 </entities/university-sjtu>` （上海交通大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：机器人、芯片、工程、医疗人工智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海交通大学 </entities/university-sjtu>` （高校）： 该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：机器人、芯片、工程、医疗人工智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/minhang.rst:44
 msgid "Funding routes"
@@ -178,7 +173,7 @@ msgid ""
 "conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; "
 "up to 50% of investment. Status: Policy in force; call not confirmed "
 "open. Timing: Policy: 1 Sep 2025 to 31 Aug 2030."
-msgstr ":doc:`闵行科技成果转化支持 </funding/minhang-conversion>` （闵行科技成果转化支持 · 补助 · 不占股）—— 新设转化企业每年最高50万元，三年累计150万元，最高按转化投入50%。状态：政策有效，未确认正在申报。时间：政策有效期：2025年9月1日至2030年8月31日。"
+msgstr ":doc:`闵行科技成果转化支持 </funding/minhang-conversion>` （补助 · 不占股）： 新设转化企业每年最高50万元，三年累计150万元，按转化投入最高50%。状态：政策有效，当前是否受理需确认。时间：政策有效期：2025年9月1日至2030年8月31日。"
 
 #: ../../districts/minhang.rst:48
 msgid ""
@@ -186,7 +181,7 @@ msgid ""
 "(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
 "R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
 "confirmed open. Timing: Policy through 31 Aug 2030."
-msgstr ":doc:`闵行关键核心技术攻关 </funding/minhang-rd>` （闵行关键核心技术攻关 · 补助 · 不占股）—— 一般项目按研发投入最高30%、最高300万元；重大项目按最高50%、最高1000万元。状态：政策有效，未确认正在申报。时间：政策有效期至2030年8月31日。"
+msgstr ":doc:`闵行关键核心技术攻关 </funding/minhang-rd>` （补助 · 不占股）： 一般项目按研发投入最高30%、最高300万元；重大项目按最高50%、最高1000万元。状态：政策有效，当前是否受理需确认。时间：政策有效期至2030年8月31日。"
 
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"

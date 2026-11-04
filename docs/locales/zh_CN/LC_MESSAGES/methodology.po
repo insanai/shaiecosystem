@@ -18,18 +18,18 @@ msgstr ""
 
 #: ../../methodology.rst:1
 msgid "How to read the evidence"
-msgstr "如何阅读证据"
+msgstr "资料来源与研究方法"
 
 #: ../../methodology.rst:4
 msgid ""
 "A useful directory makes uncertainty inspectable. We link each source "
 "near its claim and maintain one shared research record for all seven "
 "language editions."
-msgstr "实用的目录应明确标注不确定性。我们在相关论述旁链接来源，七种语言版本共用一份研究记录。"
+msgstr "一份实用的目录，需要把已知信息与尚待确认之处分清楚。本图谱在相关内容旁附上来源链接，七个语言版本共用同一套研究记录。"
 
 #: ../../methodology.rst:6
 msgid "Research and translation"
-msgstr "研究与翻译"
+msgstr "研究与翻译原则"
 
 #: ../../methodology.rst:9
 msgid ""
@@ -38,7 +38,7 @@ msgid ""
 "operators. The Ministry of Education register supplies institutional "
 "scope. Sources are linked, not copied wholesale. Search discovery alone "
 "is weaker than a program's own current notice."
-msgstr "研究同时使用英文和简体中文，优先采用市区政府、高校及项目运营方来源。教育部名录界定高校范围。我们链接来源，不全文复制。搜索发现的证明力度弱于项目现行官方通知。"
+msgstr "研究同时使用英文和简体中文资料，优先查阅市、区政府、高校及项目运营机构的公开信息。高校范围以教育部名录为准。我们提供来源链接，不全文转载原文。搜索结果只能作为线索，不能替代项目现行的官方通知。"
 
 #: ../../methodology.rst:11
 msgid ""
@@ -47,7 +47,7 @@ msgid ""
 "retain old pages. Current validity, open intake, available capacity and a "
 "responsive contact are separate facts. We do not label an opportunity "
 "open without a dated supporting notice."
-msgstr "来源访问日期记录本次研究，并非持续监测承诺。部分官网限制自动访问或保留旧页。政策有效、申报开放、资源可用与联系人回复是不同事实。没有带日期通知支持的机会不会标为正在开放。"
+msgstr "来源访问日期表示本次核查的时间，不意味着持续实时监测。部分官网限制自动访问，也有网站保留历史页面。政策有效、正在受理、资源可用及联系人回复，是四件不同的事。没有带日期的通知支持，不标注为“正在接受申请”。"
 
 #: ../../methodology.rst:13
 msgid ""
@@ -56,11 +56,11 @@ msgid ""
 "edition translates the editorial text, interface and research records; "
 "third-party source pages retain their original language. A linked Chinese "
 "policy controls over our English summary."
-msgstr "保留中文机构名称便于检索与联系。部分英文描述为编辑翻译。中文版翻译编辑正文、界面及研究记录，第三方来源保留原语言。中文政策原文优先于英文摘要。"
+msgstr "保留机构中文名称，方便检索和联系。部分英文说明由编辑翻译。中文版覆盖正文、界面和研究记录，第三方资料的标题保留原语言。涉及中国政策时，以中文原文为准。"
 
 #: ../../methodology.rst:15
 msgid "Contacts, workflows and map locations"
-msgstr "联系、流程与地图位置"
+msgstr "联系方式、申请步骤与地图"
 
 #: ../../methodology.rst:18
 msgid ""
@@ -69,7 +69,7 @@ msgid ""
 "direct contact is not established, the record gives the official website "
 "or authority route and explicitly requests a named receiving team. We did "
 "not contact organizations or submit applications."
-msgstr "公布的电话与邮箱对应具体来源，学校总机明确标注。无法核实直接联系人时，记录提供官网或主管部门路径，并建议索取明确受理团队。我们未联系机构，也未代为申请。"
+msgstr "公开电话均注明资料来源；学校总机也作单独标注。无法确认直接联系人时，提供官网或主管部门等咨询渠道，建议进一步询问具体受理部门。本项目未代读者联系机构或提交申请，也不公开电子邮箱地址。"
 
 #: ../../methodology.rst:20
 msgid ""
@@ -78,11 +78,11 @@ msgid ""
 "locate an ecosystem, not a verified entrance. Even street-based plotted "
 "points are approximate. The district boundaries are an illustrative DataV "
 "dataset, with no claim to survey, legal-boundary or navigation accuracy."
-msgstr "申请流程除注明通知专属程序外，均为编辑核对清单。校区及区级锚点表示生态位置，不是经核实的入口。即使有街道信息，标点仍为近似。区界采用示意DataV数据，不主张测绘、法定边界或导航精度。"
+msgstr "除明确引自某份通知的流程外，申请步骤均为本书整理的参考清单。地图上的校区及行政区参考点仅用于展示资源分布，不是已核实的办公入口。即使有街道地址，位置也可能只是近似值。区界采用DataV示意数据，不用于测绘、法定边界认定或导航。"
 
 #: ../../methodology.rst:22
 msgid "Known gaps and responsible upkeep"
-msgstr "已知缺口与更新方法"
+msgstr "尚待补充的信息与更新方式"
 
 #: ../../methodology.rst:25
 msgid ""
@@ -91,7 +91,7 @@ msgid ""
 "we could not establish as open. Several universities have no verified "
 "external startup program in this edition. Their institutional entry is "
 "included without inventing an accelerator or grant."
-msgstr "覆盖广泛但并非穷尽。许多民营孵化器没有公开现行条款，部分区级政策仍需年度通知，本版未能确认正在受理。若高校没有经核实的对外创业项目，仍保留机构入口，但不会虚构加速器或资助。"
+msgstr "本图谱覆盖面较广，但并非完整清单。许多民营孵化器未公开最新条款，部分区级政策需要等待年度申报通知，本版无法确认是否正在受理。高校如无已核实的对外创业项目，仍保留机构介绍与咨询渠道，但不会据此推定存在加速器或资金支持。"
 
 #: ../../methodology.rst:27
 msgid ""
@@ -100,7 +100,7 @@ msgid ""
 "profiles, suggested thematic fit and office-routing questions are "
 "editorial guidance rather than a verified inventory of laboratories, "
 "contacts or available awards."
-msgstr "名录包括29所专科及12所成人高校，但不声称逐校完成项目级研究。高校档案中的主题匹配及部门对接建议属于编辑指导，不是已核实的实验室、联系人或可用资助清单。"
+msgstr "附录列出29所高职（专科）院校和12所成人高校，但尚未逐校完成项目层面的研究。高校介绍中的合作方向和建议联系部门，属于编辑建议，不代表已经确认可以使用的实验室、具体联系人或资助项目。"
 
 #: ../../methodology.rst:29
 msgid ""
@@ -110,7 +110,7 @@ msgid ""
 "claims with their historical status instead of silently reusing them. The "
 "source repository contains the data, translations, artwork provenance and "
 "reproducible Guidedog build commands."
-msgstr "新版发布前应复核来源日期、运营主体、政策到期、申报截止、联系信息、资助机制、资格、属地边界及重复资助规则。失效内容应保留历史标记，不宜无声沿用。源仓库包含数据、翻译、插画来源及可复现的Guidedog构建命令。"
+msgstr "每次更新应重新核查来源日期、运营主体、政策有效期、申报截止时间、联系方式、支持方式、申请条件、属地范围和重复资助规则。过期内容应注明历史状态，不继续作为现行信息使用。源代码仓库保留数据、翻译、插画来源及可复现的Guidedog构建命令。"
 
 #: ../../methodology.rst:31
 msgid ""
@@ -118,11 +118,9 @@ msgid ""
 "contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
 "Kanak Rathore and Emily Yue Xu. Built with Guidedog as a unified "
 "bilingual HTML website and Typst-typeset PDF book publication."
-msgstr "署名与出版系统：本书由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu 参与贡献。采用 Guidedog 构建为中英双语 HTML 网站与 Typst 排版的 PDF 图书。"
+msgstr "作者与出版信息：本书由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 和 Emily Yue Xu 参与编写。采用 Guidedog 原生工作流制作七种语言的网站及Typst排版PDF图书。"
 
 #: ../../methodology.rst:33
-
-#| msgid "Research and translation"
 msgid "Reuse and licensing"
 msgstr "使用与授权"
 
@@ -144,4 +142,4 @@ msgid ""
 "`Evidence S143 "
 "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV "
 "Shanghai district geometry."
-msgstr "`证据 S143 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry."
+msgstr "`资料来源 S143 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry."

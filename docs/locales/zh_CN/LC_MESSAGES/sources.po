@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../sources.rst:1
 msgid "Sources and reading room"
-msgstr "来源与阅读室"
+msgstr "资料来源与延伸阅读"
 
 #: ../../sources.rst:4
 msgid ""
@@ -26,7 +26,7 @@ msgid ""
 "dates refer to the research session. Source languages are preserved. "
 "Institutional registers and mapped boundaries have different purposes "
 "from current application notices."
-msgstr "下列来源用于机构档案及编辑章节。访问日期指本次研究，保留来源原语言。机构名录、地图边界与现行申报通知的用途不同。"
+msgstr "以下是机构介绍及各章正文引用的资料，保留来源的原语言。访问日期为本次核查时间。机构名录和地图边界只能用于确认相应信息，不能据此判断项目当前是否接受申请。"
 
 #: ../../sources.rst:6
 msgid "S001"
@@ -1284,8 +1284,6 @@ msgid ""
 msgstr "`Fudan Science Park: Waigaoqiao Biomedical Innovation Center <https://fudanusp.com/solutions/17.html>`_"
 
 #: ../../sources.rst:731
-
-#| msgid "Source URL: https://www.fudan.edu.cn/en/Contact_931/list.htm"
 msgid "Source URL: https://fudanusp.com/solutions/17.html"
 msgstr "来源网址：https://fudanusp.com/solutions/17.html"
 
@@ -1300,10 +1298,6 @@ msgid ""
 msgstr "`Zhangjiang Free Trade Bonded Park innovation action plan, 2025-2026 <https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html>`_"
 
 #: ../../sources.rst:740
-
-#| msgid ""
-#| "Source URL: "
-#| "https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html"
 msgid ""
 "Source URL: https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html"
 msgstr "来源网址：https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html"
@@ -1320,10 +1314,6 @@ msgid ""
 msgstr "`Pudong foreign-investment measures: foreign-funded R&D and open innovation centers <https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_"
 
 #: ../../sources.rst:749
-
-#| msgid ""
-#| "Source URL: "
-#| "https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html"
 msgid ""
 "Source URL: "
 "https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html"
@@ -2149,9 +2139,6 @@ msgid ""
 msgstr "`Lin-gang OPC policy: AI tool services and open-source development, 2026 <https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_"
 
 #: ../../sources.rst:1253
-
-#| msgid ""
-#| "Source URL: https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html"
 msgid ""
 "Source URL: "
 "https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html"
@@ -2172,8 +2159,6 @@ msgid "Source URL: https://english.shanghai.gov.cn/en-Overview/"
 msgstr "来源网址：https://english.shanghai.gov.cn/en-Overview/"
 
 #: ../../sources.rst:1266
-
-#| msgid "S011"
 msgid "S141"
 msgstr "S141"
 
@@ -2190,8 +2175,6 @@ msgid ""
 msgstr "来源网址：https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html"
 
 #: ../../sources.rst:1275
-
-#| msgid "S012"
 msgid "S142"
 msgstr "S142"
 
@@ -2209,8 +2192,6 @@ msgid ""
 msgstr "来源网址：https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html"
 
 #: ../../sources.rst:1284
-
-#| msgid "S013"
 msgid "S143"
 msgstr "S143"
 
@@ -2226,8 +2207,6 @@ msgid ""
 msgstr "来源网址：https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json"
 
 #: ../../sources.rst:1293
-
-#| msgid "S014"
 msgid "S144"
 msgstr "S144"
 

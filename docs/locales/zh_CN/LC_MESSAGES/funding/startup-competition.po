@@ -26,23 +26,18 @@ msgstr "比赛｜全市／全球"
 
 #: ../../funding/startup-competition.rst:6
 msgid "2026 call published; deadline check required"
-msgstr "2026通知已公布，须核验截止日"
+msgstr "2026年通知已公布，需确认截止时间"
 
 #: ../../funding/startup-competition.rst:8
-
-#| msgid ""
-#| "`Evidence S107 "
-#| "<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
-#| "2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
 msgid ""
 "`Evidence S110 "
 "<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
 "2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
-msgstr "`证据 S110 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
+msgstr "`资料来源 S110 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
 
 #: ../../funding/startup-competition.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/startup-competition.rst:13
 msgid "Awards and connected investment depend on track; not guaranteed"
@@ -50,68 +45,68 @@ msgstr "奖励及对接投资依赛道确定，不保证获得"
 
 #: ../../funding/startup-competition.rst:15
 msgid "Award / investment terms vary"
-msgstr "奖励与投资条款各异"
+msgstr "奖励与投资条件分别约定"
 
 #: ../../funding/startup-competition.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/startup-competition.rst:20
 msgid ""
 "Domestic and overseas teams and companies under the official track rules. "
 "Competition admission, innovation funding and investor interest are "
 "separate outcomes."
-msgstr "依官方赛道规则面向境内外团队与企业；参赛、创新资金及投资意向为不同结果。"
+msgstr "按官方赛道规则接受境内外团队和企业报名。参赛、获得创新资金支持及达成投资意向是不同事项，不能等同。"
 
 #: ../../funding/startup-competition.rst:22
 msgid "Check the specific 2026 track; not labelled open"
-msgstr "核验2026年具体赛道，不标记正在开放"
+msgstr "需确认2026年具体赛道的报名安排，未标注为正在报名"
 
 #: ../../funding/startup-competition.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/startup-competition.rst:27
 msgid ""
 "`Official application / policy route <https://www.startup-sh.cn/cyds>`_"
-msgstr "`官方申请／政策入口 <https://www.startup-sh.cn/cyds>`_"
+msgstr "`官方申请渠道及政策文件 <https://www.startup-sh.cn/cyds>`_"
 
 #: ../../funding/startup-competition.rst:29
 msgid ""
 "The linked authority or operator is the contact route. A direct current "
 "program contact is not established in this profile."
-msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+msgstr "请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。"
 
 #: ../../funding/startup-competition.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/startup-competition.rst:33
 msgid "Choose the correct competition track, region and applicant category."
-msgstr "选择正确赛道、地区及申请类别。"
+msgstr "选择适合的赛道、地区和报名类别。"
 
 #: ../../funding/startup-competition.rst:35
 msgid ""
 "Read the rules and submit the required project, team and IP evidence."
-msgstr "阅读规则，提交所需项目、团队及知识产权证据。"
+msgstr "阅读赛事规则，提交规定的项目、团队及知识产权证明。"
 
 #: ../../funding/startup-competition.rst:37
 msgid ""
 "Complete selection or pitching; confirm prize and service conditions in "
 "writing."
-msgstr "完成选拔或路演，书面确认奖励及服务条件。"
+msgstr "参加选拔或路演，并书面确认奖励和服务条件。"
 
 #: ../../funding/startup-competition.rst:39
 msgid ""
 "Treat investor introductions and district funding as separate follow-up "
 "decisions."
-msgstr "将投资对接及区级资助视为后续独立决策。"
+msgstr "投资对接和区级资助需分别审核，参赛不代表自动获得支持。"
 
 #: ../../funding/startup-competition.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

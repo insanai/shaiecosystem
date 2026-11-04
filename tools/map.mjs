@@ -15,7 +15,7 @@ for(const [i,d]of districts.entries()){
  const ly=100+i*38;
  svg+=`<text x="790" y="${ly}" fill="#a88b53" font-size="11" font-family="sans-serif">${String(i+1).padStart(2,'0')}</text><text x="825" y="${ly}" fill="#263b36" font-size="14" font-family="sans-serif">${d.name} / ${d.zh}</text>`;
 }
-svg+='<text x="790" y="55" fill="#315b50" font-size="18" font-family="serif">Shanghai / 上海</text><text x="790" y="78" fill="#68746d" font-size="10">16 DISTRICTS / 十六区</text><text x="30" y="854" fill="#68746d" font-size="10">Illustrative district anchors, not office locations. / 区级锚点，不代表办公地点。</text><text x="30" y="874" fill="#68746d" font-size="9">Boundary source: DataV. Not for navigation or legal boundary determination. / 区界来源：DataV，仅供示意。</text></svg>';
+svg+='<text x="790" y="55" fill="#315b50" font-size="18" font-family="serif">Shanghai / 上海</text><text x="790" y="78" fill="#68746d" font-size="10">16 DISTRICTS / 十六区</text><text x="30" y="854" fill="#68746d" font-size="10">Illustrative district anchors, not office locations. / 行政区参考点，不代表办公地址。</text><text x="30" y="874" fill="#68746d" font-size="9">Boundary source: DataV. Not for navigation or legal boundary determination. / 区界来源：DataV，仅供示意。</text></svg>';
 fs.writeFileSync('docs/_static/atlas/shanghai-map.svg',svg);
 // The print plate uses a larger legend and two-line names at the final book size.
 let printMap = svg.replace(/<text x="790" y="\d+" fill="#a88b53"[^<]+<\/text><text x="825"[^<]+<\/text>/g, '');

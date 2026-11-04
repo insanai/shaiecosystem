@@ -18,14 +18,14 @@ msgstr ""
 
 #: ../../funding-guide.rst:1
 msgid "Capital, with its conditions attached"
-msgstr "资金及其附带条件"
+msgstr "读懂融资与扶持政策"
 
 #: ../../funding-guide.rst:4
 msgid ""
 "We compare what a program pays for, when value arrives, what must be "
 "repaid and whether ownership changes. The label \"equity-free\" alone "
 "answers too little."
-msgstr "我们比较项目支付什么、何时兑现、是否偿还及是否改变股权。仅凭“不占股”标签不足以判断。"
+msgstr "判断一项支持是否合适，需要看清四件事：支持什么、何时到账、是否需要偿还、是否涉及股权。仅看“不占股”三个字，还不足以作出决定。"
 
 #: ../../funding-guide.rst:7
 msgid "Match the resource need to the financing mechanism."
@@ -33,7 +33,7 @@ msgstr "按资源需求匹配资金机制。"
 
 #: ../../funding-guide.rst:10
 msgid "Six mechanisms"
-msgstr "六类机制"
+msgstr "六类常见支持方式"
 
 #: ../../funding-guide.rst:13
 msgid ""
@@ -42,7 +42,7 @@ msgid ""
 "credit can offset only eligible services. A loan must be repaid. A tax "
 "benefit changes a tax calculation. Equity investment exchanges capital "
 "for ownership or related contractual rights."
-msgstr "补助为附条件公共或公益支持。报销依据认可支出，往往先支后补。券或积分仅抵扣合资格服务。贷款须偿还。税收优惠改变税额计算。股权投资以资金换取所有权或相关合同权利。"
+msgstr "补助是附带条件的财政或公益资助；费用补贴通常针对符合要求的实际支出，往往需要先支后补；服务券或云额度只能用于规定的服务；贷款需要偿还；税收优惠影响应纳税额；股权投资则以资金换取股权或相关合同权利。"
 
 #: ../../funding-guide.rst:15
 msgid ""
@@ -50,11 +50,11 @@ msgid ""
 "each with separate conditions. A subsidized desk is an in-kind benefit, "
 "not unrestricted cash. A government-backed fund is still an investment "
 "vehicle when it takes equity. An interest-free loan remains debt."
-msgstr "比赛可能结合奖金、服务及投资对接，各有条件。补贴工位属于实物服务，不是自由现金。政府背景基金占股时仍为投资工具。免息贷款仍属于债务。"
+msgstr "赛事可能同时提供奖金、服务和投资对接，三者的条件各不相同。优惠工位属于场地或服务支持，不能当作可自由支配的现金。政府背景基金如果以股权方式出资，仍属于投资；免息贷款也仍然需要还本。"
 
 #: ../../funding-guide.rst:17
 msgid "Build a layered funding plan"
-msgstr "构建分层资金方案"
+msgstr "按发展阶段安排资金"
 
 #: ../../funding-guide.rst:20
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "activity with public calls. For a prototype, prioritize real lab, compute "
 "or customer needs. For expansion, match the amount and timing to investor "
 "or bank criteria."
-msgstr "注册前核验团队创新券、高校概念验证或比赛是否接受实际申请主体。注册后按属地及业务匹配公共申报。样机期优先满足真实实验、算力或客户需求。扩张期按资金量与时间匹配投资或银行标准。"
+msgstr "注册前，先确认创新券、高校概念验证或赛事是否接受团队申请。注册后，再按属地和业务情况筛选财政扶持项目。样机阶段应优先解决实验、算力和客户验证的实际需求；进入扩张期后，再根据融资规模和时间安排匹配投资机构或银行产品。"
 
 #: ../../funding-guide.rst:22
 msgid ""
@@ -72,11 +72,11 @@ msgid ""
 "can exclude duplicated spending, restrict related suppliers, require "
 "local operations, demand matching funds or pay only after acceptance. A "
 "company needs working capital for costs that arrive before reimbursement."
-msgstr "我们不把重叠政策的最高额相加成为承诺总额。项目可能排除重复支出、限制关联供应商、要求属地经营、自筹资金或验收后拨款。企业须为先支后补准备营运资金。"
+msgstr "不能把多项政策的最高额度相加，当作项目可获得的资金总额。政策可能限制同一支出重复申报、关联交易、经营地、自筹资金比例或拨付时间。申请先支后补项目时，企业还需提前安排周转资金。"
 
 #: ../../funding-guide.rst:24
 msgid "Compare the real cost"
-msgstr "比较真实成本"
+msgstr "比较实际成本与义务"
 
 #: ../../funding-guide.rst:27
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "valuation, ownership, liquidation preference, board rights, follow-on "
 "rights and exit terms. For debt, compare principal, interest, fees, "
 "guarantee or collateral, repayment schedule and default obligations."
-msgstr "公共资助需比较支出期间、配套比例、审计成本、税务、报告及追回条款。股权需比较估值、持股、清算优先权、董事席位、后续投资权与退出。债务需比较本金、利息、费用、担保或抵押、还款计划及违约责任。"
+msgstr "财政资助需比较费用发生期间、配套比例、审计成本、税务处理、报告要求及资金追回条款；股权融资需比较估值、持股比例、清算优先权、董事席位、后续投资权和退出安排；债务融资则需比较本金、利息、费用、担保或抵押、还款计划及违约责任。"
 
 #: ../../funding-guide.rst:29
 msgid ""
@@ -93,4 +93,4 @@ msgid ""
 "existing credits and overage billing. China-region and global offers may "
 "use different operators and accounts. Free membership in a technology "
 "ecosystem does not guarantee hardware supply, credits or investment."
-msgstr "云权益需确认账户地区、支持服务、到期、已有积分及超额计费。中国区与全球方案可能采用不同运营方和账户。技术生态免费会员不保证硬件供应、积分或投资。"
+msgstr "云服务权益应确认账户地区、可用服务、有效期、已有额度的处理方式和超额计费规则。中国区与全球计划可能由不同运营方提供，账户也可能不通用。免费加入技术生态计划，并不保证获得硬件、云额度或投资。"

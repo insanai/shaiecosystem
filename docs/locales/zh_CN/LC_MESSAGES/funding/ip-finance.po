@@ -26,21 +26,17 @@ msgstr "贷款与保险｜全市／全球"
 
 #: ../../funding/ip-finance.rst:6
 msgid "2026 directory published; lender review"
-msgstr "2026清单已公布，须贷款方审核"
+msgstr "2026年清单已公布，需经贷款机构审核"
 
 #: ../../funding/ip-finance.rst:8
-
-#| msgid ""
-#| "`Evidence S112 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
-#| "知识产权金融服务平台_上海市知识产权局."
 msgid ""
 "`Evidence S115 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
 "知识产权金融服务平台_上海市知识产权局."
-msgstr "`证据 S115 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
+msgstr "`资料来源 S115 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
 
 #: ../../funding/ip-finance.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/ip-finance.rst:13
 msgid "Bank and product-specific loan, insurance or trust terms"
@@ -48,18 +44,18 @@ msgstr "贷款、保险与信托条件依银行及产品确定"
 
 #: ../../funding/ip-finance.rst:15
 msgid "No equity; product obligations apply"
-msgstr "不占股，适用产品义务"
+msgstr "不要求出让股权，需遵守产品使用条款"
 
 #: ../../funding/ip-finance.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/ip-finance.rst:20
 msgid ""
 "The 2026 IP bureau directory supplies borrower criteria, collateral, "
 "rates, repayment, application steps and contacts by product. IP ownership "
 "and bank assessment matter."
-msgstr "2026年知识产权局清单逐项列出借款主体、担保、利率、还款、申请流程及联系方式，须核验知识产权及银行评估。"
+msgstr "2026年市知识产权局产品清单逐项列明借款主体、担保、利率、还款和申请流程等信息。企业仍需满足知识产权条件，并通过金融机构评估。"
 
 #: ../../funding/ip-finance.rst:22
 msgid "Product-specific"
@@ -67,53 +63,53 @@ msgstr "依具体产品"
 
 #: ../../funding/ip-finance.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/ip-finance.rst:27
 msgid ""
 "`Official application / policy route "
 "<https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
-msgstr "`官方申请／政策入口 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+msgstr "`官方申请渠道及政策文件 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
 
 #: ../../funding/ip-finance.rst:29
 msgid ""
 "The linked authority or operator is the contact route. A direct current "
 "program contact is not established in this profile."
-msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+msgstr "请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。"
 
 #: ../../funding/ip-finance.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/ip-finance.rst:33
 msgid ""
 "Select the current bank or public guarantee product and check borrower "
 "eligibility."
-msgstr "选择现行银行或公共担保产品，核验借款资格。"
+msgstr "选择现行银行贷款或公共担保产品，确认借款资格。"
 
 #: ../../funding/ip-finance.rst:35
 msgid ""
 "Prepare accounts, cash-flow forecast, ownership and requested security "
 "documents."
-msgstr "准备报表、现金流预测、股权及要求的担保材料。"
+msgstr "准备财务报表、现金流预测、股权资料及要求的担保材料。"
 
 #: ../../funding/ip-finance.rst:37
 msgid ""
 "Complete lender and guarantee assessment; compare all costs and repayment "
 "terms."
-msgstr "完成贷款及担保评估，比较全部成本与还款条件。"
+msgstr "配合贷款与担保评估，比较全部费用及还款条件。"
 
 #: ../../funding/ip-finance.rst:39
 msgid ""
 "Sign and track debt service; claim interest support only if independently "
 "eligible."
-msgstr "签约并管理偿债，贴息须另行符合资格。"
+msgstr "签约后按期还款；申请贴息还需另行满足相应条件。"
 
 #: ../../funding/ip-finance.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

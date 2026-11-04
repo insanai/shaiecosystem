@@ -26,49 +26,49 @@ msgstr "宝山工业园区"
 
 #: ../../entities/baoshan-industrial.rst:6
 msgid "Technology park | Baoshan | Research checked 2026-11-04"
-msgstr "科技园区｜宝山区｜研究核对日期 2026-11-04"
+msgstr "科技园区｜宝山区｜资料核查日期 2026-11-04"
 
 #: ../../entities/baoshan-industrial.rst:8
 msgid "AI and industry focus: Industry, Hardware AI."
-msgstr "人工智能与产业方向：产业、硬件人工智能。"
+msgstr "AI及产业方向：产业、AI硬件。"
 
 #: ../../entities/baoshan-industrial.rst:10
 msgid ""
 "The park committee publishes an official contact and provides industrial "
 "admission, project attraction, policy coordination and business services. "
 "This is a separate park from the Gucun robot industrial park."
-msgstr "园区管委会公布官方联系方式，负责产业准入、项目招商、政策协调及企业服务，与顾村机器人产业园为不同园区。"
+msgstr "园区管委会提供产业准入、招商、政策协调及企业服务，并公布了官方联系方式。该园区与顾村的上海机器人产业园并非同一园区。"
 
 #: ../../entities/baoshan-industrial.rst:12
 msgid ""
 "`Evidence S020 "
 "<https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. "
 "信息公开机构_上海市宝山区人民政府门户网站."
-msgstr "`证据 S020 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. 信息公开机构_上海市宝山区人民政府门户网站."
+msgstr "`资料来源 S020 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. 信息公开机构_上海市宝山区人民政府门户网站."
 
 #: ../../entities/baoshan-industrial.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/baoshan-industrial.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/baoshan-industrial.rst:19
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
-msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+msgstr "尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。"
 
 #: ../../entities/baoshan-industrial.rst:21
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/baoshan-industrial.rst:24
 msgid ""
 "`Official evidence and authority route "
 "<https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
-msgstr "`官方来源与主管部门入口 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
+msgstr "`官方资料及主管部门 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
 
 #: ../../entities/baoshan-industrial.rst:26
 msgid "Telephone: +86 21 66879800."
@@ -76,13 +76,13 @@ msgstr "电话：+86 21 66879800。"
 
 #: ../../entities/baoshan-industrial.rst:28
 msgid "Published address: 1688 Jinshi Road, Baoshan."
-msgstr "公布地址：宝山区金石路1688号。"
+msgstr "公开地址：宝山区金石路1688号。"
 
 #: ../../entities/baoshan-industrial.rst:30
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/baoshan-industrial.rst:32
 msgid "Application workflow"
@@ -92,28 +92,28 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/baoshan-industrial.rst:37
 msgid ""
 "Describe the prototype, required equipment, process and testing needs."
-msgstr "说明样机、所需设备、工艺与测试需求。"
+msgstr "介绍样机，列明设备、工艺及测试需求。"
 
 #: ../../entities/baoshan-industrial.rst:39
 msgid "Ask for a technical review, facility visit and itemized quotation."
-msgstr "申请技术审核、设施参观及逐项报价。"
+msgstr "申请技术评估和设施参观，并索取分项报价。"
 
 #: ../../entities/baoshan-industrial.rst:41
 msgid ""
 "Agree access, safety, sample and IP ownership, test scope and acceptance."
-msgstr "约定准入、安全、样本与知识产权、测试范围及验收。"
+msgstr "约定使用权限、安全责任、样品及知识产权归属、测试范围和验收标准。"
 
 #: ../../entities/baoshan-industrial.rst:43
 msgid ""
 "Separate the facility contract from investment or public-funding "
 "applications."
-msgstr "设施合同与投资或财政资助分别申请。"
+msgstr "设施服务合同与投资、财政资助分别办理。"
 
 #: ../../entities/baoshan-industrial.rst:45
 msgid ":doc:`Baoshan district route </districts/baoshan>`"
-msgstr ":doc:`宝山区对接路径 </districts/baoshan>`"
+msgstr ":doc:`宝山区合作指南 </districts/baoshan>`"

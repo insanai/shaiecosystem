@@ -26,57 +26,57 @@ msgstr "SAP.iO上海加速器"
 
 #: ../../entities/sapio.rst:6
 msgid "Corporate program | Pudong | Research checked 2026-11-04"
-msgstr "企业创新计划｜浦东新区｜研究核对日期 2026-11-04"
+msgstr "企业创新计划｜浦东新区｜资料核查日期 2026-11-04"
 
 #: ../../entities/sapio.rst:8
 msgid "AI and industry focus: Software AI, Industry."
-msgstr "人工智能与产业方向：软件人工智能、产业。"
+msgstr "AI及产业方向：AI软件、产业。"
 
 #: ../../entities/sapio.rst:10
 msgid ""
 "The 2021 launch described an equity-free intelligent-manufacturing "
 "accelerator. It is included as a historical corporate route; the source "
 "does not establish a 2026 Shanghai intake."
-msgstr "2021年启动公告介绍了不索取股权的智能制造加速器。本条作为历史企业合作路径收录；来源不能证明2026年上海仍在招募。"
+msgstr "2021年启动公告介绍了不要求出让股权的智能制造加速项目。本条保留为历史企业合作信息，不能据此判断2026年上海仍在征集项目。"
 
 #: ../../entities/sapio.rst:12
 msgid ""
 "`Evidence S035 <https://news.sap.cn/2021/12/120301/>`_. "
 "SAP.iO初创企业加速器首次落地中国 - SAP 中国资讯中心."
-msgstr "`证据 S035 <https://news.sap.cn/2021/12/120301/>`_. SAP.iO初创企业加速器首次落地中国 - SAP 中国资讯中心."
+msgstr "`资料来源 S035 <https://news.sap.cn/2021/12/120301/>`_. SAP.iO初创企业加速器首次落地中国 - SAP 中国资讯中心."
 
 #: ../../entities/sapio.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/sapio.rst:17
 msgid "Historical / confirm continuation"
-msgstr "历史项目，须确认延续"
+msgstr "历史项目，是否延续需确认"
 
 #: ../../entities/sapio.rst:19
 msgid "Funding mechanism: Equity-free services."
-msgstr "支持机制：不占股服务。"
+msgstr "支持方式：无需出让股权的服务支持。"
 
 #: ../../entities/sapio.rst:21
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/sapio.rst:24
 msgid ""
 "`Official website / intake route <https://news.sap.cn/2021/12/120301/>`_"
-msgstr "`官网／对接入口 <https://news.sap.cn/2021/12/120301/>`_"
+msgstr "`官网及申请渠道 <https://news.sap.cn/2021/12/120301/>`_"
 
 #: ../../entities/sapio.rst:26
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/sapio.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/sapio.rst:30
 msgid "Application workflow"
@@ -86,33 +86,33 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/sapio.rst:35
 msgid "Identify the corporate business owner and one measurable use case."
-msgstr "确认企业业务负责人及可量化场景。"
+msgstr "找到企业业务负责人，明确可量化的应用需求。"
 
 #: ../../entities/sapio.rst:37
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
-msgstr "提交产品简介、试点证据及相关技术要求。"
+msgstr "提交产品简介、试点结果及相关技术要求。"
 
 #: ../../entities/sapio.rst:39
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
-msgstr "确认招募情况或约定试点范围、数据权利与知识产权。"
+msgstr "确认项目是否正在征集，或另行约定试点范围、数据权属和知识产权。"
 
 #: ../../entities/sapio.rst:41
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
-msgstr "分别审核采购、付款、验收及转生产决策。"
+msgstr "分别确认采购、付款、验收流程，以及转为正式部署的决策条件。"
 
 #: ../../entities/sapio.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"
-msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"
+msgstr ":doc:`浦东新区合作指南 </districts/pudong>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

@@ -26,11 +26,11 @@ msgstr "东方美谷"
 
 #: ../../entities/oriental-beauty.rst:6
 msgid "Technology park | Fengxian | Research checked 2026-11-04"
-msgstr "科技园区｜奉贤区｜研究核对日期 2026-11-04"
+msgstr "科技园区｜奉贤区｜资料核查日期 2026-11-04"
 
 #: ../../entities/oriental-beauty.rst:8
 msgid "AI and industry focus: Health, Industry."
-msgstr "人工智能与产业方向：健康、产业。"
+msgstr "AI及产业方向：健康、产业。"
 
 #: ../../entities/oriental-beauty.rst:10
 msgid ""
@@ -38,50 +38,50 @@ msgid ""
 "include formulation research, inspection, consumer analysis and "
 "supply-chain tools; clinical or laboratory access is a separate "
 "arrangement."
-msgstr "奉贤美丽健康产业生态，相关人工智能场景包括配方研究、检测、消费者分析及供应链工具；临床或实验设施须另行安排。"
+msgstr "奉贤美丽健康产业集群。AI团队可关注配方研发、检测、消费者分析和供应链工具等应用；临床及实验设施的使用需另行安排。"
 
 #: ../../entities/oriental-beauty.rst:12
 msgid ""
 "`Evidence S024 "
 "<https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_. "
 "奉贤区领导调研东方美谷集团、临港南桥科技城."
-msgstr "`证据 S024 <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_. 奉贤区领导调研东方美谷集团、临港南桥科技城."
+msgstr "`资料来源 S024 <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_. 奉贤区领导调研东方美谷集团、临港南桥科技城."
 
 #: ../../entities/oriental-beauty.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/oriental-beauty.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/oriental-beauty.rst:19
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
-msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+msgstr "尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。"
 
 #: ../../entities/oriental-beauty.rst:21
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/oriental-beauty.rst:24
 msgid ""
 "`Official evidence and authority route "
 "<https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_"
-msgstr "`官方来源与主管部门入口 <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_"
+msgstr "`官方资料及主管部门 <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_"
 
 #: ../../entities/oriental-beauty.rst:26
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/oriental-beauty.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/oriental-beauty.rst:30
 msgid "Application workflow"
@@ -91,33 +91,33 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/oriental-beauty.rst:35
 msgid "Identify the corporate business owner and one measurable use case."
-msgstr "确认企业业务负责人及可量化场景。"
+msgstr "找到企业业务负责人，明确可量化的应用需求。"
 
 #: ../../entities/oriental-beauty.rst:37
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
-msgstr "提交产品简介、试点证据及相关技术要求。"
+msgstr "提交产品简介、试点结果及相关技术要求。"
 
 #: ../../entities/oriental-beauty.rst:39
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
-msgstr "确认招募情况或约定试点范围、数据权利与知识产权。"
+msgstr "确认项目是否正在征集，或另行约定试点范围、数据权属和知识产权。"
 
 #: ../../entities/oriental-beauty.rst:41
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
-msgstr "分别审核采购、付款、验收及转生产决策。"
+msgstr "分别确认采购、付款、验收流程，以及转为正式部署的决策条件。"
 
 #: ../../entities/oriental-beauty.rst:43
 msgid ":doc:`Fengxian district route </districts/fengxian>`"
-msgstr ":doc:`奉贤区对接路径 </districts/fengxian>`"
+msgstr ":doc:`奉贤区合作指南 </districts/fengxian>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

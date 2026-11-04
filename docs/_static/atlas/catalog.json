@@ -64,7 +64,7 @@
       "ownerZh": "徐汇区产业主管部门",
       "phone": "",
       "note": "The embodied AI policy identifies robot models, algorithms, data and operating systems. Its evaluated support ceilings are not automatic startup awards.",
-      "noteZh": "具身智能政策覆盖机器人大模型、算法、数据与操作系统。经综合评估的支持上限并非初创企业自动获得的补贴。"
+      "noteZh": "具身智能政策覆盖机器人大模型、算法、数据与操作系统。经综合评估的支持上限并非初创企业可以自动获得的补贴。"
     },
     {
       "id": "yangpu",
@@ -111,7 +111,7 @@
       "name": "Jiading",
       "zh": "嘉定区",
       "focus": "Automotive intelligence, sensors, MEMS and pilot production",
-      "focusZh": "汽车智能、传感器、微机电系统与中试",
+      "focusZh": "智能汽车、传感器、微机电系统与中试",
       "domain": "jiading.gov.cn",
       "source": {
         "id": "S006",
@@ -191,7 +191,7 @@
       "name": "Jing'an",
       "zh": "静安区",
       "focus": "Enterprise AI, data services and digital commerce",
-      "focusZh": "企业人工智能、数据服务与数字商业",
+      "focusZh": "企业级AI、数据服务与数字商业",
       "domain": "jingan.gov.cn",
       "source": {
         "id": "S053",
@@ -224,7 +224,7 @@
       "ownerZh": "黄浦区科技与创业服务部门",
       "phone": "",
       "note": "The 2025-2026 Zhangjiang Huangpu Park plan emphasizes fintech and clinical research services. Huangpu ChuangKa is a separate youth entrepreneurship support route; check eligibility and current workstation availability.",
-      "noteZh": "2025至2026年张江黄浦园方案侧重金融科技与临床研究服务。黄浦创卡是另行实施的青年创业支持渠道，须核验资格与当前工位情况。"
+      "noteZh": "2025至2026年张江黄浦园方案侧重金融科技与临床研究服务。黄浦创卡是另行实施的青年创业支持渠道，需确认资格与当前工位情况。"
     },
     {
       "id": "hongkou",
@@ -284,7 +284,7 @@
       "ownerZh": "青浦区科学技术委员会",
       "phone": "",
       "note": "Xicen links the Lianqiu Lake research center with an emerging innovation district. The official 2025 reply discusses early investment and technology transfer, but proposed funds are not treated here as open startup applications.",
-      "noteZh": "西岑联动练秋湖研发中心与科创片区。2025年官方答复讨论早期投资及技术转移，本书不将研究设立的基金视为正在受理的创业项目。"
+      "noteZh": "西岑联动练秋湖研发中心与科创片区。2025年官方答复讨论早期投资及技术转移，本书不把研究设立的基金视为正在受理的创业项目。"
     },
     {
       "id": "jinshan",
@@ -344,7 +344,7 @@
       "ownerZh": "崇明区科学技术委员会",
       "phone": "+86 21 69695910",
       "note": "The 2025-2026 Chongming Park plan supplies current strategic context. The separate 2024 science innovation subsidy measures expired on 31 December 2025; we do not present those ceilings as current entitlements.",
-      "noteZh": "2025至2026年崇明园方案提供战略背景。另一项2024年科技创新资助办法已于2025年12月31日到期，本书不将其额度作为现行权益。"
+      "noteZh": "2025至2026年崇明园方案提供战略背景。另一项2024年科技创新资助办法已于2025年12月31日到期，本书不把其额度作为现行支持。"
     }
   ],
   "entities": [
@@ -358,7 +358,7 @@
         "Software AI"
       ],
       "summary": "A specialist large-model incubation and acceleration community on the West Bund. Its operator lists several zones; admission, workspace, compute support and investment are separate decisions.",
-      "summaryZh": "西岸专业大模型孵化加速社区。运营方列有多个片区；入驻、办公空间、算力支持与投资属于不同事项。",
+      "summaryZh": "位于西岸的大模型专业孵化加速社区。运营方公布了多个片区，入驻资格、办公场地、算力支持和投资应分别确认，不能视为同一份支持方案。",
       "source": {
         "id": "S001",
         "title": "模速空间",
@@ -390,7 +390,7 @@
         "Hardware AI"
       ],
       "summary": "A Zhangjiang AI community identified in the municipal AI implementation plan. It links model developers and industry users. Ask the operator for the specific model, data and compute package and its reimbursement rules.",
-      "summaryZh": "市级人工智能实施方案明确的张江人工智能社区，连接模型研发方与行业用户。应向运营方确认模型、语料及算力支持包和报销规则。",
+      "summaryZh": "市级人工智能实施方案中明确的张江大模型社区，连接模型研发团队与行业用户。模型、语料和算力支持的具体内容及费用补贴规则，需向运营方确认。",
       "source": {
         "id": "S002",
         "title": "上海市人民政府办公厅印发《关于人工智能“模塑申城”的实施方案》的通知",
@@ -414,7 +414,7 @@
         "Software AI"
       ],
       "summary": "A university-linked commercialization route connecting early technology projects with incubation. SJTU documents the Zero Kilometer launch and its AI, integrated-circuit, manufacturing and low-carbon participants.",
-      "summaryZh": "依托高校的科技成果转化路径，连接早期项目与孵化资源。交大公开记录零公里孵化器启动及人工智能、集成电路、制造和低碳领域的参与情况。",
+      "summaryZh": "依托高校科研资源，推动早期项目成果转化和创业孵化。上海交大公开资料记录了零公里孵化器的启动，以及AI、集成电路、制造和低碳领域团队的参与情况。",
       "source": {
         "id": "S003",
         "title": "Official Launch of the Zero Kilometer Incubator in Grand Neobay - 上海交通大学港澳台办公室",
@@ -438,7 +438,7 @@
         "Chips"
       ],
       "summary": "A deep-technology incubator with chip-testing and industrialization context in Zhangjiang. Incubation and the associated angel investment pathway must be reviewed as different agreements.",
-      "summaryZh": "位于张江的硬科技孵化载体，具备芯片测试及产业化生态。孵化与相关天使投资须作为不同协议审核。",
+      "summaryZh": "张江硬科技孵化器，可对接芯片测试及产业化资源。孵化服务与天使投资的条件应分别审阅，并签订相应协议。",
       "source": {
         "id": "S004",
         "title": "Shanghai uses innovation ecosystems to nurture future industries",
@@ -462,7 +462,7 @@
         "Health"
       ],
       "summary": "A brain-computer interface incubation platform launched in Huacao. Suitable conversations include electrodes, neural interfaces, sensing, rehabilitation and translational engineering; wet-lab and device requirements need explicit confirmation.",
-      "summaryZh": "在华漕启动的脑机接口孵化平台。可对接电极、神经接口、传感、康复与转化工程；实验空间及器械要求需明确确认。",
+      "summaryZh": "在华漕启动的脑机接口孵化平台，可关注电极、神经接口、传感、康复及成果转化工程。实验场地的使用条件和医疗器械相关要求，应在申请前确认。",
       "source": {
         "id": "S005",
         "title": "脑机接口产业注入新动能，司南脑机智能超级孵化器在闵行华漕镇启动丨投资前湾",
@@ -486,7 +486,7 @@
         "Sensors"
       ],
       "summary": "The municipal science commission records joint work between InnoSpring and SITRI. This is a route for beyond-Moore technology, shared technical services and pilot production rather than a promise of free fabrication.",
-      "summaryZh": "市科委记录了新微创源与工研院的联动工作，适合超越摩尔技术、公共技术服务与中试对接，不代表免费流片。",
+      "summaryZh": "上海市科委公开资料介绍了新微创源与工研院在科研、中试和孵化方面的协作，可关注超越摩尔技术及公共技术服务。对接平台不代表可以免费流片。",
       "source": {
         "id": "S006",
         "title": "市科委、嘉定区联合调研高质量孵化器建设工作",
@@ -509,7 +509,7 @@
         "AI for Science"
       ],
       "summary": "A shared research and incubation environment in Zhangjiang Pharma Valley. Laboratory services and its innovation seed-fund relationships are relevant to AI-enabled biology; access and investment are negotiated separately.",
-      "summaryZh": "张江药谷的共享研发与孵化环境。实验室服务及创新种子基金关系适合人工智能生物研究；使用服务与投资须分别协商。",
+      "summaryZh": "位于张江药谷，提供共享研发设施及孵化服务。AI生物研发团队可了解实验室服务和创新种子基金，服务使用与投资事项需分别协商。",
       "source": {
         "id": "S007",
         "title": "Locations - ATLATL",
@@ -533,7 +533,7 @@
         "AI for Science"
       ],
       "summary": "Recognized in the December 2025 high-quality incubation expansion, with synthetic biology and cell and gene therapy interests. Confirm current Shanghai facilities, admission and laboratory pricing with the operator.",
-      "summaryZh": "2025年12月高质量孵化器扩围名单中的平台，关注合成生物及细胞与基因治疗。应向运营方确认上海设施、入驻与实验室收费。",
+      "summaryZh": "列入2025年12月扩围名单的上海高质量孵化器，关注合成生物及细胞与基因治疗。上海设施、入驻条件及实验室收费，需向运营方确认。",
       "source": {
         "id": "S008",
         "title": "上海高质量孵化器增至18家 新增6家涵盖合成生物、脑机智能、集成电路等领域",
@@ -556,7 +556,7 @@
         "Industry"
       ],
       "summary": "An innovation service organization focused on corporate open innovation and startup incubation and acceleration. Bring a concrete industrial use case; program participation does not imply a corporate purchase order.",
-      "summaryZh": "专注大企业开放创新及科技企业孵化加速的创新服务机构。对接时应提供明确产业场景；参与项目不代表企业采购承诺。",
+      "summaryZh": "提供大企业开放创新及科技企业孵化加速服务。初次联系时宜说明具体产业应用需求；参与创新项目不代表一定获得企业采购订单。",
       "source": {
         "id": "S009",
         "title": "InnoSpace | 创业孵化 大企业创新",
@@ -580,7 +580,7 @@
         "Industry"
       ],
       "summary": "A cross-border innovation operator supporting market entry, corporate partnerships and pilots. Its Shanghai office is a useful intake route for international teams. Scope, fees, deliverables and investment should be stated separately.",
-      "summaryZh": "提供跨境市场进入、企业合作与试点服务的创新运营机构。上海办公室可作为国际团队对接入口；须分别明确服务范围、费用、交付及投资。",
+      "summaryZh": "提供跨境市场拓展、企业合作和试点服务。国际团队可先联系上海办公室，分别确认服务范围、费用、交付内容及投资安排。",
       "source": {
         "id": "S010",
         "title": "联系我们 – XNode",
@@ -613,7 +613,7 @@
         "Mobility"
       ],
       "summary": "The operator lists its Yangtze River Delta innovation center at Zhangjiang Guochuang Center. Corporate innovation, office space and venture investment have different admission and commercial terms.",
-      "summaryZh": "运营方公布长三角区域创新中心位于张江国创中心。企业创新、办公空间及风险投资的准入与商业条款不同。",
+      "summaryZh": "运营方公布的长三角区域创新中心位于张江国创中心。企业创新项目、办公场地和风险投资各有申请条件及商业条款。",
       "source": {
         "id": "S011",
         "title": "Plug and Play 中国—科技创新加速器与投资机构，专注创新生态服务和开放式创新",
@@ -643,7 +643,7 @@
         "Software AI"
       ],
       "summary": "PwC describes a digital healthcare acceleration initiative supported by Pudong and Zhangjiang. The evidence establishes the initiative; a currently accepting cohort and its commercial terms require confirmation.",
-      "summaryZh": "普华永道介绍了浦东及张江支持的数字医疗加速项目。来源证实项目存在，当前是否招募及商业条款仍需确认。",
+      "summaryZh": "普华永道公开介绍过由浦东及张江支持的数字医疗加速项目。资料可确认项目曾开展，当前是否征集项目及具体商业条款仍需咨询。",
       "source": {
         "id": "S012",
         "title": "PwC China: Scaleup Accelerator",
@@ -667,7 +667,7 @@
         "Industry"
       ],
       "summary": "An industrial research and testing environment operated by the Shanghai Electrical Apparatus Research Institute group. Robot and industrial-internet testing are useful entry points for hardware validation.",
-      "summaryZh": "由上海电器科学研究所集团运营的工业研发与检测园区。机器人及工业互联网检测可作为硬件验证对接方向。",
+      "summaryZh": "由上海电器科学研究所集团运营，提供工业研发及检测服务。机器人和工业互联网团队可关注相关检测及硬件验证资源。",
       "source": {
         "id": "S013",
         "title": "上海武宁科技园_创业园区_上海市普陀区人民政府",
@@ -692,7 +692,7 @@
         "Hardware AI"
       ],
       "summary": "A district-listed carrier for international collaboration in intelligent manufacturing, AI, robotics and information technology. It supports market, capital and industrial connections; the listing does not guarantee cash support.",
-      "summaryZh": "区级名录中的国际合作载体，涉及智能制造、人工智能、机器人及信息技术，可对接市场、资本与产业资源；名录不构成现金资助承诺。",
+      "summaryZh": "列入区级名录的国际创新合作园区，涉及智能制造、AI、机器人和信息技术，可对接市场、资本及产业资源。列入名录不代表入驻项目一定获得现金资助。",
       "source": {
         "id": "S014",
         "title": "普陀区区级创业孵化基地基本情况汇总表-上海普陀",
@@ -720,7 +720,7 @@
         "Software AI"
       ],
       "summary": "Changning identifies a layered group of digital incubation and OPC communities. We treat this record as a district routing entry, not a single interchangeable operator or a guaranteed free-workspace offer.",
-      "summaryZh": "长宁公布分层数字孵化及超级个体社区。本条为区级对接入口，不将不同运营方混同，也不承诺免费工位。",
+      "summaryZh": "长宁已公布的数字孵化及OPC社区相关资源。本条提供区级咨询渠道，各载体的运营主体不同，工位是否免费需分别确认。",
       "source": {
         "id": "S015",
         "title": "上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路",
@@ -743,7 +743,7 @@
         "Hardware AI"
       ],
       "summary": "The Yangpu brain-inspired intelligence plan identifies Changyang Campus as a southern core, paired with Bay Valley in the north. Suitable for neuromorphic computing and commercial AI collaborations.",
-      "summaryZh": "杨浦类脑智能方案将长阳创谷作为南部核心，与北部湾谷科技园联动，适合类脑计算及人工智能商业合作。",
+      "summaryZh": "杨浦类脑智能行动方案中的南部核心载体，与北部湾谷科技园联动。可关注类脑计算及AI产业合作。",
       "source": {
         "id": "S016",
         "title": "关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知",
@@ -765,7 +765,7 @@
         "Software AI"
       ],
       "summary": "A May 2026 district policy supports AI-enabled independent founders and maker communities. Ask for an approved community operator, the qualifying activity definition, housing conditions and any service or equity agreement.",
-      "summaryZh": "2026年5月区级政策支持人工智能赋能的超级个体及创客社区。应确认合资格运营方、活动认定、住房条件及服务或股权协议。",
+      "summaryZh": "2026年5月杨浦政策支持AI赋能的超级个体及创客社区。申请前需确认运营机构是否符合政策要求，以及活动认定、住房、服务和股权等具体条件。",
       "source": {
         "id": "S017",
         "title": "关于印发《关于支持打造OPC超级个体社区的若干措施》的通知",
@@ -788,7 +788,7 @@
         "Robotics"
       ],
       "summary": "The Minhang 2025-2026 park plan links Grand neoBay R&D with Maqiao manufacturing. A useful pathway from a robot prototype to supply-chain and production conversations.",
-      "summaryZh": "闵行2025至2026年园区方案连接大零号湾研发与马桥制造，可作为机器人样机走向供应链及生产对接的路径。",
+      "summaryZh": "闵行2025至2026年园区方案提出，衔接大零号湾科研与马桥制造资源。机器人团队可据此寻找从样机到供应链及生产环节的合作方。",
       "source": {
         "id": "S018",
         "title": "闵行区人民政府关于印发《张江高新区闵行园区改革创新发展行动方案（2025-2026年）》的通知",
@@ -812,7 +812,7 @@
         "Robotics"
       ],
       "summary": "A robotics industrial park in Gucun, Baoshan. Suitable for industrial robotics supply chains and deployment; we distinguish it from ABB facilities in Pudong and from the broader Baoshan industrial park.",
-      "summaryZh": "位于宝山顾村的机器人产业园，适合工业机器人供应链及应用对接；应与浦东ABB设施及宝山工业园区区分。",
+      "summaryZh": "位于宝山顾村，可对接工业机器人供应链和应用资源。该园区与浦东ABB设施、宝山工业园区是不同主体，联系时应注意区分。",
       "source": {
         "id": "S019",
         "title": "上海机器人产业园地名专项规划获批_上海市规划和自然资源局",
@@ -835,7 +835,7 @@
         "Hardware AI"
       ],
       "summary": "The park committee publishes an official contact and provides industrial admission, project attraction, policy coordination and business services. This is a separate park from the Gucun robot industrial park.",
-      "summaryZh": "园区管委会公布官方联系方式，负责产业准入、项目招商、政策协调及企业服务，与顾村机器人产业园为不同园区。",
+      "summaryZh": "园区管委会提供产业准入、招商、政策协调及企业服务，并公布了官方联系方式。该园区与顾村的上海机器人产业园并非同一园区。",
       "source": {
         "id": "S020",
         "title": "信息公开机构_上海市宝山区人民政府门户网站",
@@ -861,7 +861,7 @@
         "Chips"
       ],
       "summary": "An officially profiled industrial park for domestic information-technology innovation. For an AI infrastructure team, establish compatibility requirements, lab access and real customer demand before choosing space.",
-      "summaryZh": "官方介绍的信创产业园。人工智能基础设施团队宜先明确兼容适配要求、实验室使用与实际客户需求，再决定办公空间。",
+      "summaryZh": "官方公开介绍的信创产业园。AI基础设施团队应先确认兼容适配要求、实验室使用条件及实际客户需求，再决定是否租用办公场地。",
       "source": {
         "id": "S021",
         "title": "G60 Songjiang Xinchuang Industrial Park",
@@ -884,7 +884,7 @@
         "Software AI"
       ],
       "summary": "A Qingpu innovation area centered on Huawei Lianqiu Lake and Xicen development. It offers an ecosystem connection, not automatic access to Huawei laboratories, procurement or investment.",
-      "summaryZh": "以华为练秋湖及西岑园区为核心的青浦科创片区。提供生态对接机会，不自动获得华为实验室、采购或投资资格。",
+      "summaryZh": "青浦以华为练秋湖研发中心和西岑园区为核心的科创片区。可寻找产业合作机会，但进入该片区不代表可以使用华为实验室，或获得采购、投资资格。",
       "source": {
         "id": "S022",
         "title": "对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府",
@@ -907,7 +907,7 @@
         "Drones"
       ],
       "summary": "The Jinshan park plan includes test-flight services and a low-altitude incubation platform. Airspace, testing and airworthiness services require separate confirmation from physical workspace.",
-      "summaryZh": "金山园区方案涵盖试飞服务及低空孵化平台。空域、测试与适航服务须与物理空间分别确认。",
+      "summaryZh": "金山园区方案涉及的试飞及低空产业孵化平台。空域使用、测试、适航服务和场地租赁，应逐项确认。",
       "source": {
         "id": "S023",
         "title": "金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知",
@@ -930,7 +930,7 @@
         "Hardware AI"
       ],
       "summary": "A materials incubation route linked to Carbon Valley Green Bay. Relevant to sensors, electronic materials and manufacturing inputs; specify process equipment and environmental constraints in the inquiry.",
-      "summaryZh": "与碳谷绿湾联动的新材料孵化路径，适合传感、电子材料及制造投入品；咨询时应说明工艺设备与环境要求。",
+      "summaryZh": "与碳谷绿湾联动的新材料孵化资源，可关注传感材料、电子材料及制造用材料。咨询时宜说明工艺、设备和环境要求。",
       "source": {
         "id": "S023",
         "title": "金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知",
@@ -953,7 +953,7 @@
         "Industry"
       ],
       "summary": "A Fengxian beauty and health industry ecosystem. Relevant AI applications include formulation research, inspection, consumer analysis and supply-chain tools; clinical or laboratory access is a separate arrangement.",
-      "summaryZh": "奉贤美丽健康产业生态，相关人工智能场景包括配方研究、检测、消费者分析及供应链工具；临床或实验设施须另行安排。",
+      "summaryZh": "奉贤美丽健康产业集群。AI团队可关注配方研发、检测、消费者分析和供应链工具等应用；临床及实验设施的使用需另行安排。",
       "source": {
         "id": "S024",
         "title": "奉贤区领导调研东方美谷集团、临港南桥科技城",
@@ -976,7 +976,7 @@
         "Agriculture"
       ],
       "summary": "The 2025-2026 reform plan sets a framework for ecological innovation. We use the district authority for matching smart agriculture, ecological sensing and marine technology projects to a concrete carrier.",
-      "summaryZh": "2025至2026年改革方案构建生态创新框架。智慧农业、生态传感及海洋科技项目可通过区级主管部门对接具体载体。",
+      "summaryZh": "2025至2026年园区改革方案提出生态创新方向。智慧农业、生态传感和海洋科技项目，可通过区级主管部门咨询具体园区及运营机构。",
       "source": {
         "id": "S025",
         "title": "崇明区人民政府关于印发《张江高新区崇明园改革创新发展行动方案（2025-2026年）》的通知",
@@ -999,7 +999,7 @@
         "Industry"
       ],
       "summary": "The park plan gives Beikechuang a coordinating role in incubation, technology transfer and investment services. Request the relevant sub-park and named operating company for a project-specific response.",
-      "summaryZh": "园区方案明确北科创在孵化、技术转移及投融资服务方面的统筹作用。应索取对应子园及具体运营公司，以获得针对项目的答复。",
+      "summaryZh": "园区方案明确由北科创统筹孵化、技术转移及投融资服务。咨询时应明确具体子园区和运营公司，便于获得与项目相关的答复。",
       "source": {
         "id": "S026",
         "title": "虹口区人民政府关于印发 《张江高新区虹口园改革创新发展行动方案（2025—2026年）》的通知",
@@ -1022,7 +1022,7 @@
         "Consumer"
       ],
       "summary": "A youth entrepreneurship service route described by Shanghai HRSS, including up to six months of free workstations in the reported offer. Current capacity, applicant eligibility and additional subsidies must be checked separately.",
-      "summaryZh": "上海人社报道的青年创业服务路径，报道权益含六个月免费工位；当前容量、申请资格及其他补贴须分别核实。",
+      "summaryZh": "上海人社公开报道的青年创业服务项目，曾介绍六个月免费工位等权益。当前名额、申请条件和其他补贴，应分别确认。",
       "source": {
         "id": "S027",
         "title": "创卡搭子齐发力！黄浦创业服务进校园，书写校地协同新篇章_黄浦_上海市人力资源和社会保障局",
@@ -1046,7 +1046,7 @@
         "Software AI"
       ],
       "summary": "The January 2026 plan identifies Dishui Lake AI and IC innovation ports and staged development targets. Lin-gang is a functional area, not Shanghai's seventeenth district. Establish the administering boundary before seeking incentives.",
-      "summaryZh": "2026年1月方案明确滴水湖AI及IC创新港与分阶段发展目标。临港为功能区，并非上海第十七个区；申请支持前应确认实际管理范围。",
+      "summaryZh": "2026年1月方案提出滴水湖AI及IC创新港和分阶段发展目标。临港属于功能区，并非上海第17个行政区；申请政策支持前，需确认项目是否处于相应管理范围内。",
       "source": {
         "id": "S028",
         "title": "在临港 打造青年创业理想城 “临港科创城”建设方案发布 建设国际科创中心重要基地",
@@ -1070,7 +1070,7 @@
         "Hardware AI"
       ],
       "summary": "A Zhangjiang chip design ecosystem connecting design and industrial services. A strong starting point for AI chip teams, with specific EDA, IP, tape-out, packaging and testing access negotiated with providers.",
-      "summaryZh": "张江芯片设计产业生态，连接设计及产业服务。适合人工智能芯片团队；EDA、IP、流片、封装及测试须与供应商逐项确认。",
+      "summaryZh": "张江集成电路设计产业集聚区，可对接芯片设计和产业服务。AI芯片团队应向具体服务商逐项确认EDA、IP授权、流片、封装和测试条件。",
       "source": {
         "id": "S029",
         "title": "浦东新区区委书记李政走访张江科学城企业",
@@ -1093,7 +1093,7 @@
         "Hardware AI"
       ],
       "summary": "An IC technical-service entry point that also publishes innovation-voucher guidance. Eligible voucher-covered services are selected on the official platform; a voucher is not a general equipment purchase budget.",
-      "summaryZh": "集成电路技术服务入口，同时公布创新券指引。可抵扣服务应在官方平台核验，创新券并非通用设备采购预算。",
+      "summaryZh": "提供集成电路技术服务，并公布科技创新券使用指引。可抵扣哪些服务，需在官方平台确认；创新券不能作为通用设备采购资金。",
       "source": {
         "id": "S030",
         "title": "科技创新券-上海集成电路技术与产业促进中心",
@@ -1118,7 +1118,7 @@
         "AI for Science"
       ],
       "summary": "A research institution for foundational and applied AI. Its published general contact supports initial routing; open-source resources, collaboration and recruitment are separate pathways, not a generic startup grant.",
-      "summaryZh": "开展人工智能基础及应用研究的科研机构。公开综合联系邮箱可用于初步对接；开源资源、科研合作与招聘为不同路径，并非通用创业补贴。",
+      "summaryZh": "开展AI基础及应用研究的科研机构，可通过官网公开联系方式初步咨询。开源资源、科研合作和招聘各有对接渠道，不属于通用创业补贴。",
       "source": {
         "id": "S031",
         "title": "关于我们 - 上海人工智能实验室",
@@ -1149,7 +1149,7 @@
         "Mobility"
       ],
       "summary": "A research collaboration route for autonomous systems. The published office contact is in Zhangjiang. A technical proposal should identify the platform, experiment, data and proposed industrial partner.",
-      "summaryZh": "自主系统研究合作入口，公开办公地址位于张江。技术方案应说明平台、实验、数据及拟合作产业方。",
+      "summaryZh": "自主智能无人系统研究合作平台，公开办公地址位于张江。联系时宜提交技术方案，说明所需平台、实验、数据及拟合作的产业单位。",
       "source": {
         "id": "S032",
         "title": "联系我们",
@@ -1175,7 +1175,7 @@
         "Sensors"
       ],
       "summary": "The center publishes an industry collaboration entry for localization, sensing, communication and trusted coordination. We use its cooperation contact rather than assuming access through general university admissions.",
-      "summaryZh": "中心公布定位、感知、通信及可信协同领域的产学研合作入口。本书使用合作联系渠道，不将普通招生入口视为产业合作入口。",
+      "summaryZh": "提供定位、感知、通信及可信协同领域的产学研合作渠道。本图谱采用合作咨询信息，不把普通招生渠道作为产业合作渠道。",
       "source": {
         "id": "S033",
         "title": "联系我们 | PAI Research Center",
@@ -1201,7 +1201,7 @@
         "AI for Science"
       ],
       "summary": "Roche describes its Shanghai innovation accelerator for the China ecosystem. Relevant to healthcare and AI-enabled discovery teams. Scientific fit, space, collaboration, funding and IP terms are distinct questions.",
-      "summaryZh": "罗氏介绍其位于上海、服务中国创新生态的加速器，适合医疗健康及人工智能研发团队。科研匹配、空间、合作、资金与知识产权须分别确认。",
+      "summaryZh": "罗氏在上海设立、面向中国创新生态的加速器，医疗健康及AI研发团队可了解相关资源。科研匹配、空间、合作、资金和知识产权需分别确认。",
       "source": {
         "id": "S034",
         "title": "Roche | Roche accelerator",
@@ -1225,7 +1225,7 @@
         "Industry"
       ],
       "summary": "The 2021 launch described an equity-free intelligent-manufacturing accelerator. It is included as a historical corporate route; the source does not establish a 2026 Shanghai intake.",
-      "summaryZh": "2021年启动公告介绍了不索取股权的智能制造加速器。本条作为历史企业合作路径收录；来源不能证明2026年上海仍在招募。",
+      "summaryZh": "2021年启动公告介绍了不要求出让股权的智能制造加速项目。本条保留为历史企业合作信息，不能据此判断2026年上海仍在征集项目。",
       "source": {
         "id": "S035",
         "title": "SAP.iO初创企业加速器首次落地中国 - SAP 中国资讯中心",
@@ -1250,7 +1250,7 @@
         "Robotics"
       ],
       "summary": "ABB publishes open-innovation and startup collaboration routes. Its May 2025 Shanghai AI event is evidence of ecosystem activity, not an always-open startup accelerator cohort. Propose a measurable robotics use case.",
-      "summaryZh": "ABB公布开放创新及初创企业合作路径。2025年5月上海人工智能活动证明生态活动存在，不代表长期开放的加速营。可提交可量化的机器人应用方案。",
+      "summaryZh": "ABB公布了开放创新及初创企业合作渠道。2025年5月上海AI活动可确认相关活动曾开展，但不代表设有长期开放的加速营。机器人团队可提交目标明确、可量化的应用方案。",
       "source": {
         "id": "S036",
         "title": "Open innovation | ABB",
@@ -1274,7 +1274,7 @@
         "Robotics"
       ],
       "summary": "The December 2025 Zhangjiang Robot Valley account reports the accelerator launch. We include it as a robotics industry route and require direct confirmation of intake, pilot access, investment and hardware resources.",
-      "summaryZh": "2025年12月张江机器人谷报道记录其启动。本条作为机器人产业对接路径收录，招募、试点、投资与硬件资源均须直接确认。",
+      "summaryZh": "2025年12月张江机器人谷报道记录了该加速器的启动。机器人团队可据此寻找产业合作，但当前项目征集、试点、投资和硬件资源均需向运营方确认。",
       "source": {
         "id": "S037",
         "title": "Robot valley forges alliances to fuel robotics innovation",
@@ -1296,7 +1296,7 @@
         "Software AI"
       ],
       "summary": "The PaddlePaddle-linked platform publishes AI training and ecosystem resources. Explore its technical services and developer events; confirm whether a specific training or compute offer carries fees.",
-      "summaryZh": "飞桨相关平台公布人工智能培训及生态资源，可对接技术服务与开发者活动；具体培训或算力服务是否收费须确认。",
+      "summaryZh": "飞桨相关平台提供AI培训及开发者生态资源，可咨询技术服务和活动安排。具体培训或算力服务是否收费，需单独确认。",
       "source": {
         "id": "S038",
         "title": "人工智能公共技术服务平台",
@@ -1320,7 +1320,7 @@
         "Hardware AI"
       ],
       "summary": "An official July 2026 account records the center beginning operations in Qingpu. Confirm the operator, technical scope, Huawei ecosystem interface and actual startup admission before describing a benefit package.",
-      "summaryZh": "2026年7月官方报道记录中心在青浦投入运营。应确认运营方、技术范围、华为生态接口及初创企业实际准入，不能自行推定支持包。",
+      "summaryZh": "2026年7月官方报道记录该中心在青浦投入运营。申请前应确认运营主体、技术服务范围、华为生态对接方式及初创企业准入条件，不能自行推定可获得哪些资源。",
       "source": {
         "id": "S039",
         "title": "Yangtze River Delta AI+ Joint Innovation Center begins operations_Yangtze River Delta integration: Connect • Innovate • Thrive",
@@ -1343,7 +1343,7 @@
         "Hardware AI"
       ],
       "summary": "A free AI startup ecosystem program with no application fee, membership fee or equity requirement. It is not a cash grant. China eligibility, product access and partner benefits must be checked for the specific company.",
-      "summaryZh": "无需申请费、会员费或股权的人工智能初创生态计划，并非现金补助。应针对企业确认中国地区资格、产品可用性及合作伙伴权益。",
+      "summaryZh": "面向AI初创企业的生态计划，不收申请费、会员费，也不要求出让股权，但不提供通用现金补助。企业需确认中国区资格、产品供应及合作伙伴权益。",
       "source": {
         "id": "S040",
         "title": "Inception Program for Startups | NVIDIA",
@@ -1367,7 +1367,7 @@
         "Software AI"
       ],
       "summary": "The current program provides Azure-related startup resources through online application. We do not transfer historic Shanghai accelerator terms or global credit ceilings to China-region accounts. Validate the legal entity and region first.",
-      "summaryZh": "现行计划通过在线申请提供Azure相关创业资源。本书不将历史上海加速器条款或全球积分上限套用于中国区账户，须先核实主体与地区。",
+      "summaryZh": "通过在线申请提供Azure等创业资源。中国区企业和账户的适用条件需单独确认，不能沿用历史上海加速器条款或直接套用全球服务额度上限。",
       "source": {
         "id": "S041",
         "title": "What is Microsoft for Startups? | Microsoft Learn",
@@ -1391,7 +1391,7 @@
         "Software AI"
       ],
       "summary": "A China-region startup offer with company, customer and participating investor or incubation relationship conditions. Credits offset eligible services; they are not cash and should not be confused with the separate global AWS offer.",
-      "summaryZh": "中国区创业支持要求符合企业、客户及合作投资或孵化关系等条件。积分抵扣合资格服务，并非现金，也不同于全球AWS计划。",
+      "summaryZh": "中国区初创企业支持计划，对企业、新客户身份及投资机构或孵化合作关系设有条件。服务额度只能抵扣规定的云服务，不能兑换现金，也不能直接套用全球AWS规则。",
       "source": {
         "id": "S042",
         "title": "Amazon Web Services Activate-Amazon Web Services China Region",
@@ -1417,7 +1417,7 @@
         "Industry"
       ],
       "summary": "The foundation offers distinct interest-free loan and temporary equity support routes for eligible Chinese university entrepreneurs. Nationality, age, ownership, full-time work and company age conditions apply.",
-      "summaryZh": "基金会为符合条件的中国籍高校创业者提供免息贷款及临时股权两种资助。适用国籍、年龄、持股、全职创业与企业成立年限条件。",
+      "summaryZh": "为符合条件的中国籍高校创业者提供免息贷款和临时持股两类资助，另有国籍、年龄、持股、全职创业及企业成立年限等要求。",
       "source": {
         "id": "S043",
         "title": "创业基金会",
@@ -1447,7 +1447,7 @@
         "Health"
       ],
       "summary": "A state-backed fund platform for leading industries, with AI interests including general AI, computing systems, humanoids, vertical models and edge AI. A fund-of-funds commitment is not a startup award or a direct application entitlement.",
-      "summaryZh": "面向先导产业的国资基金平台，人工智能方向包括通用智能、算力系统、人形机器人、垂类模型及端侧智能。母基金出资不等于创业补助或直接申报资格。",
+      "summaryZh": "面向三大先导产业的国资基金平台。AI投资方向包括通用智能、算力系统、人形机器人、垂直领域模型和端侧智能。母基金出资不等于企业可直接申领的创业补助。",
       "source": {
         "id": "S044",
         "title": "上海国投先导",
@@ -1472,7 +1472,7 @@
         "Hardware AI"
       ],
       "summary": "Announced in July 2025 at a target size of RMB 2 billion and an initial RMB 500 million tranche. The figure is fund scale, not a per-startup cheque. Seek the manager through Pudong's official ecosystem route.",
-      "summaryZh": "2025年7月公布总规模20亿元、首期5亿元。该数字为基金规模，并非每家企业投资额。可经浦东官方生态渠道确认管理人。",
+      "summaryZh": "2025年7月公布目标规模20亿元、首期5亿元。基金规模不是单家企业可获得的投资额，可通过浦东官方渠道进一步确认管理人及项目接收安排。",
       "source": {
         "id": "S045",
         "title": "Pudong launches fund to boost AI industry",
@@ -1497,7 +1497,7 @@
         "Sensors"
       ],
       "summary": "A state-backed embodied-intelligence investment route announced in April 2025, including core components and edge chips. Confirm the current manager and investment mandate; no uniform cheque size or ownership percentage is established here.",
-      "summaryZh": "2025年4月公布的国资具身智能投资路径，涉及核心零部件与边缘芯片。须确认现任管理人及投资范围；本书不推定统一投资额或持股比例。",
+      "summaryZh": "2025年4月公布的国资具身智能投资渠道，涉及核心零部件和边缘芯片。需确认当前管理人及投资范围，不能推定统一投资金额或持股比例。",
       "source": {
         "id": "S046",
         "title": "上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态",
@@ -1522,7 +1522,7 @@
         "Software AI"
       ],
       "summary": "An established science and technology investment group within Shanghai's state-capital ecosystem. Use its official portfolio and manager information to identify the appropriate investment vehicle and stage.",
-      "summaryZh": "上海国资生态中的科技投资机构。应通过官网投资组合及管理人信息匹配具体基金与阶段。",
+      "summaryZh": "上海国资背景的科技投资机构。可根据官网公布的投资组合及管理人信息，筛选与行业、发展阶段匹配的具体基金。",
       "source": {
         "id": "S047",
         "title": "Shanghai Science & Technology Venture Capital (Group) Co., Ltd.",
@@ -1548,7 +1548,7 @@
         "Hardware AI"
       ],
       "summary": "A venture-capital contact route with a published Shanghai office. Send a concise investment case and confirm sector and stage fit. The general contact inbox is not a guarantee of an investment review.",
-      "summaryZh": "公布上海办公室的风险投资机构。可提交简明投资方案并确认行业与阶段匹配；综合邮箱不保证立项评审。",
+      "summaryZh": "设有上海办公室的风险投资机构。联系时可提交简明融资材料，并确认投资领域及阶段是否匹配；通过综合咨询渠道联系，不代表项目一定进入投资评审。",
       "source": {
         "id": "S048",
         "title": "Contact Us | Qiming Venture Partners",
@@ -1581,7 +1581,7 @@
         "Industry"
       ],
       "summary": "The park operator publishes enterprise and intellectual-property service routes. Confirm the specific sub-park and operating address; the Caohejing name covers multiple development locations.",
-      "summaryZh": "园区运营方公布企业及知识产权服务入口。漕河泾涉及多个开发地点，应确认具体子园及经营地址。",
+      "summaryZh": "运营方公布了企业服务及知识产权服务渠道。漕河泾涉及多个开发区域，需明确具体子园区及实际经营地址。",
       "source": {
         "id": "S049",
         "title": "漕河泾开发区",
@@ -1609,7 +1609,7 @@
         "Industry"
       ],
       "summary": "The park-owned incubator connects startups with the software, avionics and manufacturing ecosystem. Its operator describes industry challenges and collaborative innovation; current admission, space and fees require an intake discussion.",
-      "summaryZh": "高新区所属孵化器连接软件、航空电子及制造生态。运营方介绍产业挑战及协同创新，当前入驻、空间与费用须通过受理咨询确认。",
+      "summaryZh": "紫竹国家高新区所属孵化器，可对接软件、航空电子和制造业资源。运营方介绍了产业挑战及协同创新项目，当前入驻条件、场地和费用需进一步咨询。",
       "source": {
         "id": "S050",
         "title": "紫竹创业孵化器 - 紫竹国家高新技术产业开发区",
@@ -1633,7 +1633,7 @@
         "Industry"
       ],
       "summary": "Opened in July 2026 as a youth innovation and business-service hub in Hongqiao. The reported workstation offer depends on qualification and available space, not simply arrival at the transport hub.",
-      "summaryZh": "2026年7月启用的虹桥青年创业及企业服务枢纽。报道的工位权益取决于资格及可用空间，并非抵达交通枢纽即可享有。",
+      "summaryZh": "2026年7月启用的青年创业及企业服务平台。报道中的工位支持取决于申请资格及场地余量，并非到达虹桥交通枢纽即可享受。",
       "source": {
         "id": "S051",
         "title": "下了飞机火车，120个创业工位“零成本”拎包入驻！虹桥国际青年创业港7月25日启用",
@@ -1655,7 +1655,7 @@
         "Software AI"
       ],
       "summary": "Changning's official May 2026 account describes a hub for AI-enabled independent founders, combining incubation, AI services, talent support and global business resources. Confirm the current operator's selection and service terms.",
-      "summaryZh": "长宁2026年5月官方报道介绍人工智能超级个体创新枢纽，结合孵化、人工智能服务、人才及全球商业资源。须核验当前运营方遴选及服务条款。",
+      "summaryZh": "长宁2026年5月官方报道介绍的AI超级个体创新平台，整合孵化、AI服务、人才和国际商务资源。当前运营机构遴选情况及服务条款，需进一步确认。",
       "source": {
         "id": "S052",
         "title": "Press Release",
@@ -1678,7 +1678,7 @@
         "Industry"
       ],
       "summary": "Jing'an's 2026-2028 AI demonstration plan and district carrier program anchor big-data, blockchain (Shutong Valley), cloud computing and enterprise AI workspaces across Shibei Hi-Tech Park, Daning and Suhewan. Confirm the specific carrier operator, data-compliance services and tenancy terms.",
-      "summaryZh": "静安2026至2028年人工智能示范区方案及载体布局以市北高新园区、数通链谷、大宁及苏河湾为核心，集聚大数据、区块链、云计算与企业级人工智能空间。申请前应确认具体运营主体、数据合规服务与入驻条款。",
+      "summaryZh": "静安2026至2028年AI示范区方案以市北高新、数通链谷、大宁和苏河湾等为核心，集聚大数据、区块链、云计算及企业级AI资源。申请前需明确具体运营主体、数据合规服务及入驻条款。",
       "source": {
         "id": "S053",
         "title": "静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知",
@@ -1704,7 +1704,7 @@
         "Chips"
       ],
       "summary": "An optoelectronic and photonics incubator launched in Jiading in November 2025 to support scientist-founded teams in optical sensing, laser systems and AI hardware components. Confirm optical lab equipment, engineering support and commercial terms before admission.",
-      "summaryZh": "2025年11月在嘉定启用的光电产业孵化器，面向科学家创业团队提供光学传感、激光系统与人工智能硬件部件孵化支持。入驻前应确认光学实验设备、工程服务与商业条款。",
+      "summaryZh": "2025年11月在嘉定启用，面向科学家创业团队，提供光学传感、激光系统及AI硬件零部件领域的孵化支持。入驻前应确认实验设备、工程服务和商业条款。",
       "source": {
         "id": "S055",
         "title": "一个“懂”科学家创业的孵化器！羲和光谷光电产业孵化器在嘉定启用",
@@ -1728,7 +1728,7 @@
         "AI for Science"
       ],
       "summary": "A 2-square-kilometer core zone in Zhangjiang Science City with 700,000 sqm of industrial space, spatiotemporal digital infrastructure and linked compute, model and corpus vouchers. Confirm whether the company's registered and operating address falls inside the designated town boundary.",
-      "summaryZh": "位于张江科学城核心区的2平方公里创新集聚区，规划70万平方米产业空间，布局时空量子城市数字底座并配套算力券、模型券与语料券。申请专项支持前须确认注册与实际经营地址是否位于小镇核定边界内。",
+      "summaryZh": "位于张江科学城核心区的2平方公里创新集聚区，规划70万平方米产业空间，布局时空量子城市数字底座，并配套算力券、模型券和语料券。申请专项支持前，应确认企业注册地和实际经营地均在核定范围内。",
       "source": {
         "id": "S056",
         "title": "〖解放日报头版〗打造“全球AI逐梦者的家园”！张江人工智能创新小镇揭幕，到后年将新集聚500家以上企业_重点工作",
@@ -1753,7 +1753,7 @@
         "Hardware AI"
       ],
       "summary": "A shared integrated-circuit research and engineering platform in Zhangjiang supporting process development, device verification and IP testing. Request a technical scoping review and written quotation for wafer or testing runs.",
-      "summaryZh": "位于张江的集成电路公共研发与工程平台，支持工艺开发、器件验证与IP测试。流片或测试合作需申请技术评估与书面报价。",
+      "summaryZh": "位于张江的集成电路公共研发与工程平台，提供工艺开发、器件验证及IP测试服务。流片或测试合作需先完成技术评估，并索取书面报价。",
       "source": {
         "id": "S058",
         "title": "上海集成电路研发中心",
@@ -1778,7 +1778,7 @@
         "Industry"
       ],
       "summary": "The municipal science-and-technology entrepreneurship service institution coordinating Shanghai's high-quality incubator cultivation system, innovation vouchers, technology SME filings and the Startup in Shanghai portal.",
-      "summaryZh": "市级科技创业服务机构，统筹上海市高质量孵化器培育体系、科技创新券、科技型中小企业服务及“上海科创在线／创·在上海”平台。",
+      "summaryZh": "市级科技创业服务机构，负责上海高质量孵化器培育、科技创新券、科技型中小企业服务，以及“上海科创在线／创·在上海”等平台相关工作。",
       "source": {
         "id": "S059",
         "title": "上海市科技创业中心",
@@ -1804,7 +1804,7 @@
         "Chips"
       ],
       "summary": "A strategic research and technology-transfer platform in Putuo's \"One Axis, One Park, One Center\" layout, connecting university engineering laboratories with Yangtze River Delta industrial applications.",
-      "summaryZh": "普陀区“一轴一园一中心”科创布局中的重大战略平台，连接高校工程实验室与长三角产业化应用场景。",
+      "summaryZh": "普陀“一轴一园一中心”科创布局中的重点平台，连接高校工程实验室与长三角产业化应用资源。",
       "source": {
         "id": "S061",
         "title": "“十四五”期间，普陀区科技创新工作紧密围绕本区建设“上海全球科技创新中心特色承载区和新的发展极”的奋斗目标，结合近几年两大功能型平台打造以及中以（上海）创新园、上海清华国际创新中心等重大战略项目建设，着力构建“一轴一园一中心”¹的科技创新重点布局框架，立足普陀区科技创新已有基础，围绕打造“三地一极”²的战略目标，加速驱动创新，推进实施“九大工程”。2023年普陀区在科创方面取得的成绩持续向好。1-11月，普陀区智能软件、研发服务产业分别实现区税12.50亿元、11.06亿元，同比分别增长16.33%、17.42%；年内落实《普陀区加快中以（上海）创新园建设推动桃浦智创城高质量发展实施意见》，推进园区二期载体和“中以创新加速孵化平台二期”项目建设，引进上海市互联网协会落地区园区，推进国际数字安全与生态运营中心建设，截至12月底，园区已累计引入企业、机构、项目共计160家，其中2023年新注册企业46家；全年引进优质企业如青飞互娱、砺算科技、浪潮智能、万达信息等，共计产税33,563.95万元，区税9,896.00万元，超额完成全年招商任务。新认定高新技术企业67家，超额完成年度目标任务，新增育市、区科技“小巨人”企业20家。",
@@ -1827,7 +1827,7 @@
         "AI for Science"
       ],
       "summary": "Opened in April 2025 in Fengxian to connect gene and nucleic-acid drug R&D, AI-assisted molecular design, shared laboratories and pilot manufacturing. Confirm biosafety level, cleanroom specs and admission terms.",
-      "summaryZh": "2025年4月在奉贤开园的基因与核酸药物创新基地，衔接AI辅助分子设计、共享实验室与中试生产。入驻前应确认生物安全等级、洁净室规格及服务条款。",
+      "summaryZh": "2025年4月在奉贤开园，面向基因与核酸药物创新，可关注AI辅助分子设计、共享实验室与中试生产的衔接。入驻前应确认生物安全等级、洁净室规格及服务条款。",
       "source": {
         "id": "S062",
         "title": "“东方美谷·生命信使”基因药物创新产业基地今天正式开园_东方美谷",
@@ -1851,7 +1851,7 @@
         "Industry"
       ],
       "summary": "A municipal HRSS-backed public entrepreneurship training, prototyping and incubation base in Yangpu linking founder skills training, product trial spaces and startup service agencies.",
-      "summaryZh": "位于杨浦的市人社公共创业实训与孵化基地，提供创业培训、产品试制空间与创业服务机构对接。",
+      "summaryZh": "位于杨浦的市人社公共创业实训与孵化基地，提供创业培训、产品试制场地及创业服务机构对接。",
       "source": {
         "id": "S063",
         "title": "中国（上海）创业者公共实训基地_技能照亮前程-培训实训_上海市人力资源和社会保障局",
@@ -1875,7 +1875,7 @@
         "Materials"
       ],
       "summary": "A Songjiang district initiative backed by a September 2026 special-fund notice to link the seven universities in Songjiang University Town with technology-transfer platforms and incubation operators.",
-      "summaryZh": "松江区2026年9月专项资金通知支持的产学研转化载体，连接松江大学城高校与科技成果转化平台及双创空间运营方。",
+      "summaryZh": "松江2026年9月专项资金通知涉及的产学研成果转化载体，连接大学城高校、科技成果转化平台和创新创业空间运营机构。",
       "source": {
         "id": "S064",
         "title": "松江区高质量建设松江大学城科创源专项资金（科技成果转化平台类、双创空间运营类）申报工作的通知",
@@ -1899,7 +1899,7 @@
         "Industry"
       ],
       "summary": "Coordinated by the Chongming Economic Commission (14th batch call issued in May 2026) alongside district science authorities to support enterprise R&D centers in ecological tech, green manufacturing and smart agriculture.",
-      "summaryZh": "由崇明区经委（2026年5月发布第十四批申报）与区科委协同推进的企业研发平台路径，面向生态科技、绿色制造与智慧农业领域企业技术中心。",
+      "summaryZh": "崇明企业研发平台相关服务。区经委于2026年5月发布第十四批申报通知，区科委协同推进生态科技、绿色制造和智慧农业等领域的企业技术中心建设。",
       "source": {
         "id": "S065",
         "title": "关于开展2026年（第十四批）崇明区企业技术中心申报工作的通知-上海市崇明区人民政府",
@@ -1922,7 +1922,7 @@
         "Consumer"
       ],
       "summary": "Combines Huangpu's five-year fintech industry clustering direction with the HRSS \"Entrepreneurship Companion Plan\" mentor and service network for early-stage digital and financial technology founders.",
-      "summaryZh": "结合黄浦未来五年金融科技主攻方向与区人社“创业陪跑计划”导师服务机制，支持早期数字科技与金融科技创业团队。",
+      "summaryZh": "将黄浦未来五年金融科技发展方向与区人社“创业陪跑计划”导师服务相衔接，可关注早期数字科技和金融科技团队的创业辅导。",
       "source": {
         "id": "S066",
         "title": "黄浦明确金融科技为未来五年主攻方向，即将出台支持产业集聚新举措_中共上海市委金融委员会办公室、中共上海市金融工作委员会",
@@ -1947,7 +1947,7 @@
         "Climate"
       ],
       "summary": "District public entrepreneurship center and postdoctoral innovation practice base route supporting tech SMEs, green-shipping digital tools and R&D talent settlement in Hongkou.",
-      "summaryZh": "虹口区属公共科技创业中心及博士后创新实践基地对接路径，支持科技型中小企业、绿色航运数字化工具及研发人才落地。",
+      "summaryZh": "虹口公共科技创业中心及博士后创新实践基地相关服务，可供科技型中小企业、绿色航运数字化团队及研发人才咨询。",
       "source": {
         "id": "S068",
         "title": "虹口区科技创业中心助力企业纾困解难-上海市虹口区人民政府",
@@ -1971,7 +1971,7 @@
         "AI for Science"
       ],
       "summary": "An operator-listed life-sciences incubation site in Zhangjiang with an application route. For AI-enabled healthcare, clarify scientific fit, laboratory requirements, residency pricing, IP and any separate challenge or investment terms.",
-      "summaryZh": "运营方列明的张江生命科学孵化基地，提供申请入口。人工智能医疗项目应确认科研匹配、实验需求、入驻费用、知识产权及独立挑战赛或投资条款。",
+      "summaryZh": "运营方公布的张江生命科学孵化基地，设有申请渠道。AI医疗团队应确认研究方向、实验需求、入驻费用和知识产权安排；挑战赛或投资项目另有条件。",
       "source": {
         "id": "S070",
         "title": "Incubator For Life Science Start-Ups, Shanghai, China | JLABS | Johnson & Johnson Innovation",
@@ -1995,7 +1995,7 @@
         "AI for Science"
       ],
       "summary": "Bayer's September 2024 Shanghai site launch describes shared laboratories and office space for early biotech teams in SH-INNO Park. Confirm available residency and collaboration terms; the historic capacity is not a current vacancy count.",
-      "summaryZh": "拜耳2024年9月上海基地启动资料介绍SH-INNO园区内早期生物科技团队的共享实验及办公空间。应确认当前入驻与合作条款，历史容量不是实时空位。",
+      "summaryZh": "拜耳2024年9月启动资料介绍了SH-INNO园区内面向早期生物科技团队的共享实验室及办公场地。当前入驻与合作条款需进一步确认，历史公布容量不代表实时空位。",
       "source": {
         "id": "S071",
         "title": "Bayer Co.Lab",
@@ -2020,7 +2020,7 @@
         "Industry"
       ],
       "summary": "Siemens publishes a startup connection and marketplace route for industrial solutions, with a separate China Xcelerator platform. Marketplace onboarding and industrial partnerships are distinct from a funding award.",
-      "summaryZh": "西门子公布工业解决方案的初创连接及市场平台路径，中国另有Xcelerator平台。市场入驻与产业合作不同于资金资助。",
+      "summaryZh": "西门子提供工业解决方案相关的初创企业合作及市场平台，中国另设Xcelerator平台。平台入驻、产业合作与资金资助是不同事项。",
       "source": {
         "id": "S072",
         "title": "Connect 计划 | Siemens",
@@ -2045,7 +2045,7 @@
         "Software AI"
       ],
       "summary": "BMW describes a venture-client route for evaluating startup solutions for products, services and internal processes. Validate the responsible China business owner and pilot requirements; venture-client activity is not necessarily equity investment.",
-      "summaryZh": "宝马介绍通过风险客户模式评估用于产品、服务及内部流程的初创解决方案。须确认中国业务负责人及试点要求；风险客户活动不一定涉及股权投资。",
+      "summaryZh": "宝马通过“风险客户”（venture client）模式，评估初创企业的产品、服务及内部流程解决方案。需确认中国业务对接人及试点要求；作为早期客户开展合作，并不一定涉及股权投资。",
       "source": {
         "id": "S073",
         "title": "BMW Group Startup Garage - Startups as Innovation Partners",
@@ -2070,7 +2070,7 @@
         "AI for Science"
       ],
       "summary": "SII and Caohejing jointly operate the Chuangzhi Future Center for research-led AI founders; Beiyang AI Accelerator supports later market and supply-chain connections. Institute-affiliated incubation is not an unrestricted public admission offer. Ask the operator about affiliation, IP, company formation and current external-team access.",
-      "summaryZh": "上海创智学院与漕河泾共同运营创智未来中心，服务科研型AI创业者，北杨AI加速器承接后续市场及产业链对接。学院相关孵化不等于面向所有团队开放；须向运营方确认身份、知识产权、企业设立及外部团队当前准入条件。",
+      "summaryZh": "上海创智学院与漕河泾共同运营创智未来中心，面向科研型AI创业者；北杨AI加速器进一步对接市场及产业链资源。相关孵化服务不一定向所有团队开放，需确认申请人身份、知识产权、企业设立及校外团队准入条件。",
       "source": {
         "id": "S074",
         "title": "Beiyang AI Town and the SII research-founder incubation network, September 2026",
@@ -2095,7 +2095,7 @@
         "Sensors"
       ],
       "summary": "The center links robot data collection, training and physical validation with a pilot-production platform operated with Shanghai Electric. The July 2026 announcement describes industry-facing trial production, testing and scenario validation. Ask for compatibility, queue, sample ownership, safety responsibilities and a written service quotation.",
-      "summaryZh": "国地中心将机器人数据采集、训练和真机验证，与联合上海电气建设的中试平台衔接。2026年7月公告介绍面向行业的试制、检测和场景验证服务。须确认设备兼容性、排期、样机归属、安全责任及书面报价。",
+      "summaryZh": "国地中心将机器人数据采集、训练和真机验证，与联合上海电气建设的中试平台衔接。2026年7月公告介绍了试制、检测和场景验证服务。使用前需确认设备兼容性、排期、样机归属、安全责任及书面报价。",
       "source": {
         "id": "S075",
         "title": "Pudong humanoid robot training and pilot-production services, July 2026",
@@ -2119,7 +2119,7 @@
         "Industry"
       ],
       "summary": "A Lin-gang Group community for solo founders and small teams, with startup and living-service teams and AI-Store resource access. The August 2026 operator report describes three rent-free office years followed by two half-price years for qualifying projects. Housing, loans, vouchers and admission have separate conditions; confirm the current tenancy contract.",
-      "summaryZh": "临港集团面向一人及小团队创业的社区，配备创业及生活服务专班，衔接AI-Store资源。2026年8月运营报告介绍符合条件项目办公三年免租、后两年租金减半。住房、贷款、资源券及入驻分别设条件，须核验现行租赁合同。",
+      "summaryZh": "临港集团面向一人创业及小团队的社区，设有创业、生活服务专班，并对接AI-Store资源。2026年8月运营报告介绍，符合条件的项目可享办公场地前三年免租、后两年租金减半。住房、贷款、服务券和入驻各有条件，需核对最新租赁协议。",
       "source": {
         "id": "S076",
         "title": "Lin-gang Zero Cube OPC community, August 2026",
@@ -2142,7 +2142,7 @@
         "Hardware AI"
       ],
       "summary": "Xuhui established this youth-focused AI fund in September 2025. Its August 2026 entrepreneurship camp connected early AI teams with investment, research and industrial partners. Shanghai Xuhui Capital Investment and Shanghai Xuhui Science and Technology Venture Capital Fund Management co-hosted the camp. Request the receiving manager and current investment terms; camp attendance is not an investment award.",
-      "summaryZh": "徐汇于2025年9月设立面向青年AI创业者的基金。2026年8月创业营对接早期AI团队、投资机构、科研及产业资源，由上海徐汇资本投资有限公司、上海徐汇科创投私募基金管理有限公司等共同主办。须索取接收项目的管理人及现行投资条款，参加创业营不代表获投。",
+      "summaryZh": "徐汇于2025年9月设立面向青年AI创业者的基金。2026年8月创业营对接早期团队、投资机构、科研及产业资源，由上海徐汇资本投资有限公司、上海徐汇科创投私募基金管理有限公司等共同主办。需向具体管理人确认项目接收安排和投资条款，参加创业营不代表获得投资。",
       "source": {
         "id": "S077",
         "title": "Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026",
@@ -2167,7 +2167,7 @@
         "AI for Science"
       ],
       "summary": "The 2026 World Artificial Intelligence Conference included a Future Tech venture network connecting selected startups and investors. The July 2026 event has ended; this is a networking and future-event route, not a permanent incubator or an open funding call. Ask the organizer about the next startup selection, exhibition fees and investor sessions.",
-      "summaryZh": "2026世界人工智能大会设置Future Tech创投生态，对接入选创业团队与投资机构。2026年7月活动已结束，本条用于联系大会及后续活动，并非常设孵化器或正在开放的资助申报。请向主办方咨询下一期项目征集、参展收费及投资人对接活动。",
+      "summaryZh": "2026世界人工智能大会设置Future Tech创投生态，对接入选创业团队与投资机构。2026年7月活动已结束，本条供咨询后续活动时参考，并非常设孵化器或正在受理的资助项目。下一期项目征集、参展费用及投资人对接安排，需向主办方确认。",
       "source": {
         "id": "S078",
         "title": "WAIC 2026 Future Tech venture ecosystem",
@@ -2192,7 +2192,7 @@
         "Hardware AI"
       ],
       "summary": "The 2026 municipal rules identify the talent authority and district service windows for eligible overseas returnees, including qualifying people who acquired foreign citizenship. Recognition and startup-park services can lead to separate support applications. Returnee status is not a category covering every foreign founder and is not an automatic grant or residence permit.",
-      "summaryZh": "2026年市级规定明确由人才工作部门及各区服务窗口为符合条件的留学人员提供服务，包括符合规定的入外籍人员。资格认定及创业园服务可衔接独立的支持申报。留学人员身份不涵盖所有外国创始人，也不自动带来资助或居留许可。",
+      "summaryZh": "2026年市级规定明确，由人才工作部门及各区服务窗口为符合条件的留学人员提供服务，符合规定的入外籍人员也可纳入。身份认定、创业园服务及资金申报各有要求，不能将留学人员等同于所有外籍创业者，也不自动取得资助或居留许可。",
       "source": {
         "id": "S080",
         "title": "上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知",
@@ -2215,7 +2215,7 @@
         "AI for Science"
       ],
       "summary": "Fudan Science Park operates this biomedical incubation and commercialization center at 8 Jiafeng Road in Waigaoqiao. AI-for-drug-discovery teams can explore laboratory and translational partnerships here; this is an editorial fit, not a verified dedicated AI cohort. Foreign businesses should ask whether a locally incorporated foreign-invested entity is required, then confirm admission, IP, laboratory access and fees. No standard grant or foreign-founder entitlement is established.",
-      "summaryZh": "复旦科技园在外高桥加枫路8号运营生物医药孵化与成果转化中心。AI制药团队可探索实验室及转化合作；这属于编辑对接建议，并非已核实的AI专项招募。境外企业应先确认是否须设立本地外商投资企业，再核验入驻、知识产权、实验室准入及费用。本条不承诺统一补助或外国创始人当然资格。",
+      "summaryZh": "复旦科技园在外高桥加枫路8号运营的生物医药孵化与成果转化中心。AI制药团队可咨询实验室使用及成果转化合作，但这只是本书建议的合作方向，并非已确认的AI专项征集。境外企业应先确认是否需要设立本地外商投资企业，再了解入驻、知识产权、实验室使用及费用要求，不宜推定统一补助或外籍创业者资格。",
       "source": {
         "id": "S081",
         "title": "Fudan Science Park: Waigaoqiao Biomedical Innovation Center",
@@ -2241,7 +2241,7 @@
         "Robotics"
       ],
       "summary": "The 2025-2026 Free Trade Bonded Park plan explicitly supports AI drug discovery, cross-border medical-device R&D, advanced-equipment innovation and foreign-funded R&D institutions. Foreign AI and hardware companies can use the authority route to explore local research, testing and commercialization arrangements. Confirm the specific operator, legal entity, customs boundary, sector permissions and data handling before incurring costs. This is a service and collaboration route; the plan is not a cash-award offer.",
-      "summaryZh": "2025-2026年自贸保税园行动方案明确支持AI制药、医疗器械跨境研发、高端装备创新及外资研发机构。境外AI和硬件企业可通过主管部门探索本地科研、测试及成果转化合作。发生费用前须核实具体运营方、法人主体、海关监管边界、行业许可及数据处理要求。本条属于服务与合作渠道，规划并非现金资助承诺。",
+      "summaryZh": "2025至2026年自贸保税园行动方案支持AI制药、医疗器械跨境研发、高端装备创新及外资研发机构。境外AI及硬件企业可通过主管部门咨询本地科研、测试和成果转化合作。发生费用前，应确认运营主体、本地法人要求、海关监管范围、行业许可及数据处理规定。此处列为服务与合作渠道，规划本身不代表现金资助。",
       "source": {
         "id": "S082",
         "title": "Zhangjiang Free Trade Bonded Park innovation action plan, 2025-2026",
@@ -2265,7 +2265,7 @@
       "sectors": [],
       "website": "https://www.fudan.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Software AI, chips, AI for Science. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：软件人工智能、芯片、科学智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：AI软件、芯片、科学智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010246",
       "contact": "University switchboard and Office of Science & Technology Research Technology Transfer Center",
@@ -2299,11 +2299,11 @@
       "sectors": [],
       "website": "https://www.tongji.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Autonomous systems, mobility, robotics, built environment. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：自主系统、交通、机器人、建成环境。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：自主系统、交通、机器人、建筑与城市环境。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010247",
       "contact": "Tongji National University Science Park & Incubator Route",
-      "contactZh": "同济大学国家大学科技园及孵化器入口",
+      "contactZh": "同济大学国家大学科技园及孵化器",
       "source": {
         "id": "S087",
         "title": "联系方式",
@@ -2333,7 +2333,7 @@
       "sectors": [],
       "website": "https://www.sjtu.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Robotics, chips, engineering, medical AI. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：机器人、芯片、工程、医疗人工智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：机器人、芯片、工程、医疗人工智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010248",
       "contact": "Grand neoBay, Student Innovation Center & University Entrepreneurship Office",
@@ -2360,11 +2360,11 @@
       "sectors": [],
       "website": "https://www.ecustpark.com/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Materials, chemistry, bioprocessing, AI for Science. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：材料、化学、生物工艺、科学智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：材料、化学、生物工艺、科学智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010251",
       "contact": "ECUST National University Science Park entrepreneurship service route",
-      "contactZh": "华东理工大学国家大学科技园创业服务入口",
+      "contactZh": "华东理工大学国家大学科技园创业服务部门",
       "source": {
         "id": "S090",
         "title": "科技园",
@@ -2387,11 +2387,11 @@
       "sectors": [],
       "website": "https://www.usst.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Optics, medical devices, sensors, advanced equipment. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：光学、医疗器械、传感器、先进装备。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：光学、医疗器械、传感器、先进装备。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010252",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2412,11 +2412,11 @@
       "sectors": [],
       "website": "https://www.shmtu.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Shipping, logistics, autonomous maritime systems. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：航运、物流、自主海事系统。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：航运、物流、海上自主系统。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010254",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2437,11 +2437,11 @@
       "sectors": [],
       "website": "https://www.dhu.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Advanced fibers, materials, design, smart textiles. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：先进纤维、材料、设计、智能纺织。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：先进纤维、材料、设计、智能纺织。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010255",
       "contact": "Donghua University research cooperation and advanced materials transfer route",
-      "contactZh": "东华大学科研合作与先进材料成果转化入口",
+      "contactZh": "东华大学科研合作与先进材料成果转化部门",
       "source": {
         "id": "S092",
         "title": "",
@@ -2463,11 +2463,11 @@
       "sectors": [],
       "website": "https://www.shiep.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Energy systems, grid intelligence, industrial control. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：能源系统、智能电网、工业控制。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：能源系统、智能电网、工业控制。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010256",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2488,11 +2488,11 @@
       "sectors": [],
       "website": "https://www.sit.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Applied engineering, materials, industrial AI. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：应用工程、材料、工业人工智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：应用工程、材料、工业人工智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010259",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2513,11 +2513,11 @@
       "sectors": [],
       "website": "https://www.sumhs.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Health devices, diagnostics, clinical applications. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：健康器械、诊断、临床应用。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：健康医疗设备、诊断、临床应用。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010262",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2538,11 +2538,11 @@
       "sectors": [],
       "website": "https://www.shou.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Marine science, aquaculture, smart agriculture. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：海洋科学、水产、智慧农业。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：海洋科学、水产养殖、智慧农业。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010264",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2563,11 +2563,11 @@
       "sectors": [],
       "website": "https://www.shutcm.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Healthcare, drug discovery, medical data. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：医疗健康、药物发现、医学数据。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：医疗健康、药物发现、医学数据。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010268",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2588,7 +2588,7 @@
       "sectors": [],
       "website": "https://www.ecnu.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Software, education AI, data science, microelectronics. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：软件、教育人工智能、数据科学、微电子。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：软件、教育AI应用、数据科学、微电子。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010269",
       "contact": "ECNU research cooperation and graduate innovation institutes",
@@ -2614,11 +2614,11 @@
       "sectors": [],
       "website": "https://www.shnu.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Education, computer science, creative technology. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：教育、计算机、创意科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：教育、计算机、创意科技。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010270",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2639,11 +2639,11 @@
       "sectors": [],
       "website": "https://www.shisu.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Language technology, translation, international markets. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：语言技术、翻译、国际市场。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：语言技术、翻译、国际市场。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010271",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2664,11 +2664,11 @@
       "sectors": [],
       "website": "https://www.sufe.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Fintech, analytics, business models. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：金融科技、分析、商业模式。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：金融科技、数据分析、商业模式。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010272",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2689,11 +2689,11 @@
       "sectors": [],
       "website": "https://www.suibe.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Trade, commerce, cross-border business. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：贸易、商业、跨境业务。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：贸易、商业、跨境业务。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010273",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2714,11 +2714,11 @@
       "sectors": [],
       "website": "https://www.shcc.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Customs, trade processes, compliance systems. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：海关、贸易流程、合规系统。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：海关、贸易流程、合规系统。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010274",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2739,11 +2739,11 @@
       "sectors": [],
       "website": "https://www.ecupl.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: IP, data governance, legal technology. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：知识产权、数据治理、法律科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：知识产权、数据治理、法律科技。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010276",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2764,11 +2764,11 @@
       "sectors": [],
       "website": "https://www.sus.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Sports science, motion analysis, wearables. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：运动科学、动作分析、可穿戴设备。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：运动科学、动作分析、可穿戴设备。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010277",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2789,11 +2789,11 @@
       "sectors": [],
       "website": "https://www.shcmusic.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Audio AI, music technology, creative tools. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：音频人工智能、音乐科技、创作工具。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：音频AI技术、音乐科技、创作工具。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010278",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2814,11 +2814,11 @@
       "sectors": [],
       "website": "https://www.sta.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Performance, virtual production, creative media. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：表演、虚拟制作、创意媒体。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：表演、虚拟制作、创意媒体。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010279",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2839,7 +2839,7 @@
       "sectors": [],
       "website": "https://www.shu.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Manufacturing, robotics, materials, digital media. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：制造、机器人、材料、数字媒体。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：制造、机器人、材料、数字媒体。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010280",
       "contact": "Shanghai University Science Park & Research Base/Achievements Division",
@@ -2868,11 +2868,11 @@
       "sectors": [],
       "website": "https://www.shpc.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Public-safety education; external project access unverified. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：公共安全教育，外部项目准入未核实。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：公共安全教育；校外团队参与条件尚未确认。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010283",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2893,11 +2893,11 @@
       "sectors": [],
       "website": "https://www.sues.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Engineering, mobility, manufacturing, design. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：工程、交通、制造、设计。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：工程、交通、制造、设计。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131010856",
       "contact": "SUES university-industry engineering cooperation and entrepreneurship service route",
-      "contactZh": "上海工程技术大学产学研合作与创业指导入口",
+      "contactZh": "上海工程技术大学产学研合作与创业指导部门",
       "source": {
         "id": "S096",
         "title": "上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号",
@@ -2919,11 +2919,11 @@
       "sectors": [],
       "website": "https://www.lixin.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Accounting systems, fintech, business analytics. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：会计系统、金融科技、商业分析。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：会计系统、金融科技、商业分析。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131011047",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2944,11 +2944,11 @@
       "sectors": [],
       "website": "https://www.sdju.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Electrical equipment, advanced manufacturing. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：电气装备、先进制造。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：电气装备、先进制造。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131011458",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2969,11 +2969,11 @@
       "sectors": [],
       "website": "https://www.sandau.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Applied digital business and talent partnerships. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：应用数字商业与人才合作。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：数字商务应用与人才培养合作。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131011833",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -2994,11 +2994,11 @@
       "sectors": [],
       "website": "https://www.shupl.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Legal technology, IP, governance. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：法律科技、知识产权、治理。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：法律科技、知识产权、治理。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131011835",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3019,11 +3019,11 @@
       "sectors": [],
       "website": "https://www.sspu.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Applied engineering, electronics, manufacturing. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：应用工程、电子、制造。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：应用工程、电子、制造。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131012044",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3044,11 +3044,11 @@
       "sectors": [],
       "website": "https://www.sbs.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Digital retail, commerce, service innovation. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：数字零售、商业、服务创新。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：数字零售、商业、服务创新。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131012050",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3069,11 +3069,11 @@
       "sectors": [],
       "website": "https://www.lidapoly.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Applied business, design and creative technology. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：应用商业、设计与创意科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：商业应用、设计与创意科技。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131012587",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3094,11 +3094,11 @@
       "sectors": [],
       "website": "https://www.gench.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Applied engineering, digital media, business. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：应用工程、数字媒体、商业。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：应用工程、数字媒体、商业。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131012799",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3119,11 +3119,11 @@
       "sectors": [],
       "website": "https://www.xingwei.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Interdisciplinary education and entrepreneurship conversations. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：跨学科教育与创业对接。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：跨学科教育与创业对接。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131012914",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3144,11 +3144,11 @@
       "sectors": [],
       "website": "https://www.shzq.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Vocational undergraduate engineering and applied skills. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：职业本科工程与应用技能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：职业本科工程与应用技能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131012915",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3169,11 +3169,11 @@
       "sectors": [],
       "website": "https://www.siva.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Design, digital content and creative technology. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：设计、数字内容与创意科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：设计、数字内容与创意科技。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131013632",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3194,11 +3194,11 @@
       "sectors": [],
       "website": "https://www.xdsisu.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Language, commerce and creative applications. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：语言、商业与创意应用。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：语言、商业与创意应用。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131013636",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3219,11 +3219,11 @@
       "sectors": [],
       "website": "https://www.sthc.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Applied education, engineering and digital business. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：应用教育、工程与数字商业。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：应用教育、工程与数字商业。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131013893",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3244,7 +3244,7 @@
       "sectors": [],
       "website": "https://ott.shanghaitech.edu.cn/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Chips, software AI, scientific instruments, biotech. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：芯片、软件人工智能、科学仪器、生物科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：芯片、AI软件、科学仪器、生物科技。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131014423",
       "contact": "Office of Technology Transfer (OTT)",
@@ -3271,11 +3271,11 @@
       "sectors": [],
       "website": "https://shanghai.nyu.edu/",
       "summary": "Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Data science, computation and international research. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.",
-      "summaryZh": "列入教育部2026年6月高校名录。建议合作主题：数据科学、计算与国际科研。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。",
+      "summaryZh": "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：数据科学、计算与国际科研。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。",
       "workflow": "research",
       "code": "4131016404",
       "contact": "Official university website; request the technology-transfer, research cooperation or entrepreneurship office",
-      "contactZh": "通过高校官网咨询技术转移、科研合作或创业部门",
+      "contactZh": "通过学校官网联系技术转移、科研合作或创业服务部门",
       "source": {
         "id": "S086",
         "title": "全国高等学校名单 - 中华人民共和国教育部政府门户网站",
@@ -3318,7 +3318,7 @@
       "category": "Government",
       "sectors": [],
       "summary": "The embodied AI policy identifies robot models, algorithms, data and operating systems. Its evaluated support ceilings are not automatic startup awards.",
-      "summaryZh": "具身智能政策覆盖机器人大模型、算法、数据与操作系统。经综合评估的支持上限并非初创企业自动获得的补贴。",
+      "summaryZh": "具身智能政策覆盖机器人大模型、算法、数据与操作系统。经综合评估的支持上限并非初创企业可以自动获得的补贴。",
       "source": {
         "id": "S100",
         "title": "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知",
@@ -3502,7 +3502,7 @@
       "category": "Government",
       "sectors": [],
       "summary": "The 2025-2026 Zhangjiang Huangpu Park plan emphasizes fintech and clinical research services. Huangpu ChuangKa is a separate youth entrepreneurship support route; check eligibility and current workstation availability.",
-      "summaryZh": "2025至2026年张江黄浦园方案侧重金融科技与临床研究服务。黄浦创卡是另行实施的青年创业支持渠道，须核验资格与当前工位情况。",
+      "summaryZh": "2025至2026年张江黄浦园方案侧重金融科技与临床研究服务。黄浦创卡是另行实施的青年创业支持渠道，需确认资格与当前工位情况。",
       "source": {
         "id": "S103",
         "title": "黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知",
@@ -3571,7 +3571,7 @@
       "category": "Government",
       "sectors": [],
       "summary": "Xicen links the Lianqiu Lake research center with an emerging innovation district. The official 2025 reply discusses early investment and technology transfer, but proposed funds are not treated here as open startup applications.",
-      "summaryZh": "西岑联动练秋湖研发中心与科创片区。2025年官方答复讨论早期投资及技术转移，本书不将研究设立的基金视为正在受理的创业项目。",
+      "summaryZh": "西岑联动练秋湖研发中心与科创片区。2025年官方答复讨论早期投资及技术转移，本书不把研究设立的基金视为正在受理的创业项目。",
       "source": {
         "id": "S022",
         "title": "对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府",
@@ -3640,7 +3640,7 @@
       "category": "Government",
       "sectors": [],
       "summary": "The 2025-2026 Chongming Park plan supplies current strategic context. The separate 2024 science innovation subsidy measures expired on 31 December 2025; we do not present those ceilings as current entitlements.",
-      "summaryZh": "2025至2026年崇明园方案提供战略背景。另一项2024年科技创新资助办法已于2025年12月31日到期，本书不将其额度作为现行权益。",
+      "summaryZh": "2025至2026年崇明园方案提供战略背景。另一项2024年科技创新资助办法已于2025年12月31日到期，本书不把其额度作为现行支持。",
       "source": {
         "id": "S025",
         "title": "崇明区人民政府关于印发《张江高新区崇明园改革创新发展行动方案（2025-2026年）》的通知",
@@ -3664,9 +3664,9 @@
       "equity": "No equity",
       "district": "citywide",
       "amount": "Up to 50% of eligible orders; annual cap RMB 300,000 per company or RMB 100,000 per team",
-      "amountZh": "合资格订单最高50%；企业每年最高30万元，团队每年最高10万元",
+      "amountZh": "符合条件的订单最高50%；企业每年最高30万元，团队每年最高10万元",
       "eligibility": "Qualifying technology SMEs and innovation teams using approved platform services. Service-provider qualification is separate from applicant eligibility.",
-      "eligibilityZh": "使用平台认可服务的合资格科技型中小企业及创新团队。服务机构资格不等同于申请方资格。",
+      "eligibilityZh": "使用平台认可服务、符合申请条件的科技型中小企业及创新创业团队。服务机构具有资质，不代表购买服务的企业或团队也符合申请条件。",
       "status": "Policy in force; confirm service and order",
       "source": {
         "id": "S106",
@@ -3691,7 +3691,7 @@
       "amount": "Award and matching support depend on the annual call",
       "amountZh": "资助及配套额度以年度申报通知为准",
       "eligibility": "Shanghai non-listed technology companies: prior-year revenue up to RMB 200 million; R&D at least RMB 500,000 and 5% of revenue; no more than 500 employees; R&D staff at least 10%. The current call may add conditions.",
-      "eligibilityZh": "上海非上市科技企业：上年营收不超过2亿元，研发不少于50万元且占营收5%，职工不超过500人，研发人员不少于10%；年度通知可能另有条件。",
+      "eligibilityZh": "在上海的非上市科技企业，上年营业收入不超过2亿元，研发费用不低于50万元且占营业收入不低于5%，职工不超过500人，研发人员占比不低于10%。年度通知可能另有要求。",
       "status": "Policy in force; call not confirmed open",
       "source": {
         "id": "S107",
@@ -3716,7 +3716,7 @@
       "amount": "Support rate and amount subject to applicable implementing rules",
       "amountZh": "支持比例与额度以适用实施细则为准",
       "eligibility": "Qualifying Pudong-benefiting projects with eligible 2025 model or agent expenses. Required filing or registration conditions apply; previously publicly funded projects cannot duplicate this support.",
-      "eligibilityZh": "主要效益在浦东且具有合资格2025年模型或智能体支出的项目；适用备案或登记条件，已获其他财政资金项目不得重复申报。",
+      "eligibilityZh": "项目主要效益在浦东，且有符合要求的2025年大模型或智能体应用支出。需满足适用的备案或登记要求，已获其他财政资金支持的项目不得重复申报。",
       "status": "Closed",
       "source": {
         "id": "S099",
@@ -3740,9 +3740,9 @@
       "equity": "No equity",
       "district": "minhang",
       "amount": "New conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; up to 50% of investment",
-      "amountZh": "新设转化企业每年最高50万元，三年累计150万元，最高按转化投入50%",
+      "amountZh": "新设转化企业每年最高50万元，三年累计150万元，按转化投入最高50%",
       "eligibility": "Qualifying research-result conversion in Minhang. Registration, eligible expenditure, audit and annual notice conditions must be confirmed.",
-      "eligibilityZh": "符合条件的闵行科技成果转化项目；须核验注册、合资格投入、审计及年度通知要求。",
+      "eligibilityZh": "符合闵行科技成果转化政策的项目。企业注册、认可的转化投入、审计及年度申报要求，需逐项确认。",
       "status": "Policy in force; call not confirmed open",
       "source": {
         "id": "S101",
@@ -3767,7 +3767,7 @@
       "amount": "General: up to RMB 3m at up to 30% of R&D; major: up to RMB 10m at up to 50%",
       "amountZh": "一般项目按研发投入最高30%、最高300万元；重大项目按最高50%、最高1000万元",
       "eligibility": "Project classification and investment thresholds apply. This is selective R&D support, not a general startup incorporation bonus.",
-      "eligibilityZh": "适用项目分类与投资门槛，为择优研发支持，不是普遍适用的企业开办奖励。",
+      "eligibilityZh": "适用相应项目分类及投入门槛，采取择优支持方式，不是所有新设企业都可申请的开办奖励。",
       "status": "Policy in force; call not confirmed open",
       "source": {
         "id": "S101",
@@ -3792,7 +3792,7 @@
       "amount": "Evaluated entity support ceilings: RMB 10m one-off and RMB 20m annual development support",
       "amountZh": "经评估主体最高一次性1000万元、年度发展支持最高2000万元",
       "eligibility": "Qualifying entities in robot models, embodied algorithms, robot data and operating systems. These headline maxima are not an ordinary startup award and require comprehensive evaluation.",
-      "eligibilityZh": "符合区域导向的机器人大模型、具身算法、数据及操作系统等主体，须综合评估；上述上限非普通创业者自动补贴。",
+      "eligibilityZh": "符合区域产业方向、从事机器人大模型、具身算法、数据及操作系统等业务的主体，需经综合评估。所列最高额度不代表普通初创企业可自动获得。",
       "status": "Published policy; implementing intake to confirm",
       "source": {
         "id": "S100",
@@ -3805,7 +3805,7 @@
       "deadline": "Confirm applicable implementing notice",
       "workflow": "grant",
       "url": "funding/xuhui-embodied.html",
-      "deadlineZh": "核验适用实施通知"
+      "deadlineZh": "确认适用的实施通知"
     },
     {
       "id": "stefg-loan",
@@ -3817,7 +3817,7 @@
       "amount": "Up to RMB 500,000; interest-free; 3 years; equal principal over 36 months",
       "amountZh": "最高50万元，免息，资助期3年，36个月等额本金偿还",
       "eligibility": "Chinese nationals aged at most 40 who meet the student/graduate rules; founder is the largest natural-person shareholder and legal representative; full-time startup; Shanghai company registered at most 3 years.",
-      "eligibilityZh": "符合在读或毕业生条件、40周岁及以下的中国籍创业者；须为自然人大股东与法定代表人，全职创业，上海企业成立不超过3年。",
+      "eligibilityZh": "符合在读或毕业条件、年龄40周岁及以下的中国籍创业者，需为自然人第一大股东及法定代表人，全职创业，且所创上海企业成立不超过3年。",
       "status": "Program published; eligibility review",
       "source": {
         "id": "S043",
@@ -3841,9 +3841,9 @@
       "equity": "Temporary equity; original-price exit",
       "district": "citywide",
       "amount": "Up to RMB 800,000 for 3 years; no dividend participation; exit at original price",
-      "amountZh": "最高80万元，资助期3年，不参与分红，期满原价退出",
+      "amountZh": "最高80万元，资助期3年，不参与分红，期满按原出资额退出",
       "eligibility": "Eligible technology entrepreneurs meeting the foundation rules; founder cash funding must exceed the foundation contribution. Review nominee ownership, exit obligation and documents.",
-      "eligibilityZh": "符合基金会规则的科技创业者，自筹货币资金须高于基金会出资；须审核代持、退出义务与协议。",
+      "eligibilityZh": "符合基金会规定的科技创业者。企业自筹货币资金须高于基金会出资，需仔细审阅代持安排、期满退出义务及资助协议。",
       "status": "Program published; eligibility review",
       "source": {
         "id": "S043",
@@ -3869,7 +3869,7 @@
       "amount": "Loan ceiling and interest support depend on applicant class and current rules",
       "amountZh": "贷款上限与贴息依申请类别及现行规则确定",
       "eligibility": "Individual, pre-startup and enterprise routes have different residence, education, registration and employment conditions. Bank underwriting still applies; an interest subsidy does not remove principal repayment.",
-      "eligibilityZh": "个人、创业前与企业路径的居住、学历、注册及就业条件不同，仍需银行审核；贴息不免除本金偿还。",
+      "eligibilityZh": "个人创业、创业前及企业贷款的居住、学历、注册和就业条件不同，均需按适用类别及银行要求审核。获得贴息也仍需偿还本金。",
       "status": "Published service; current terms to confirm",
       "source": {
         "id": "S108",
@@ -3882,7 +3882,7 @@
       "deadline": "Confirm current HRSS service rules",
       "workflow": "loan",
       "url": "funding/startup-guarantee.html",
-      "deadlineZh": "核验现行人社服务规则"
+      "deadlineZh": "确认现行人社办理规定"
     },
     {
       "id": "tax-rd",
@@ -3894,7 +3894,7 @@
       "amount": "Eligible expensed R&D: additional 100% deduction; eligible capitalized R&D: 200% amortization basis",
       "amountZh": "符合条件的费用化研发再加计扣除100%；资本化按成本200%摊销",
       "eligibility": "Qualifying enterprise R&D costs with the required accounting and evidence. A tax deduction reduces taxable income; it is not cash equal to the expense or deduction.",
-      "eligibilityZh": "合资格企业研发费用，须有相应核算及证据。扣除减少应纳税所得额，并非按支出或扣除额发放现金。",
+      "eligibilityZh": "符合规定的企业研发费用，需有相应核算和证明资料。加计扣除减少的是应纳税所得额，并非按研发支出或扣除额发放现金。",
       "status": "Published tax guidance; applicability review",
       "source": {
         "id": "S109",
@@ -3907,7 +3907,7 @@
       "deadline": "Annual tax filing and applicable rules",
       "workflow": "tax",
       "url": "funding/tax-rd.html",
-      "deadlineZh": "按年度纳税申报及适用规则"
+      "deadlineZh": "按年度纳税申报要求及适用规定办理"
     },
     {
       "id": "tax-hnte",
@@ -3919,7 +3919,7 @@
       "amount": "15% corporate income tax for qualifying recognized enterprises",
       "amountZh": "符合认定条件的高新技术企业减按15%征收企业所得税",
       "eligibility": "Recognition and continued compliance are required. Review IP, personnel, R&D, revenue mix and annual reporting; not all AI companies qualify.",
-      "eligibilityZh": "须通过认定并持续合规，审核知识产权、人员、研发、收入结构及年度报告，并非所有人工智能企业均符合。",
+      "eligibilityZh": "需通过高新技术企业认定并持续满足相关要求，涉及知识产权、人员、研发、收入结构及年度报告等。AI企业并不一定都符合条件。",
       "status": "Published tax guidance; recognition required",
       "source": {
         "id": "S109",
@@ -3932,7 +3932,7 @@
       "deadline": "Recognition batches and annual filing",
       "workflow": "tax",
       "url": "funding/tax-hnte.html",
-      "deadlineZh": "按认定批次及年度申报"
+      "deadlineZh": "按认定批次及年度申报要求办理"
     },
     {
       "id": "startup-competition",
@@ -3944,7 +3944,7 @@
       "amount": "Awards and connected investment depend on track; not guaranteed",
       "amountZh": "奖励及对接投资依赛道确定，不保证获得",
       "eligibility": "Domestic and overseas teams and companies under the official track rules. Competition admission, innovation funding and investor interest are separate outcomes.",
-      "eligibilityZh": "依官方赛道规则面向境内外团队与企业；参赛、创新资金及投资意向为不同结果。",
+      "eligibilityZh": "按官方赛道规则接受境内外团队和企业报名。参赛、获得创新资金支持及达成投资意向是不同事项，不能等同。",
       "status": "2026 call published; deadline check required",
       "source": {
         "id": "S110",
@@ -3957,7 +3957,7 @@
       "deadline": "Check the specific 2026 track; not labelled open",
       "workflow": "competition",
       "url": "funding/startup-competition.html",
-      "deadlineZh": "核验2026年具体赛道，不标记正在开放"
+      "deadlineZh": "需确认2026年具体赛道的报名安排，未标注为正在报名"
     },
     {
       "id": "haiju",
@@ -3969,7 +3969,7 @@
       "amount": "Track-specific awards, introductions and services",
       "amountZh": "各赛道奖励、资源对接与服务",
       "eligibility": "Apply through the official competition portal and qualifying division. District selection and final competition do not establish automatic funding or immigration status.",
-      "eligibilityZh": "通过官方平台与合资格分赛区报名；区级选拔及决赛不自动产生资金或居留资格。",
+      "eligibilityZh": "通过官方平台及符合要求的分赛区报名。进入区级选拔或决赛，不代表自动获得资金或居留资格。",
       "status": "2026 competition published; track intake to confirm",
       "source": {
         "id": "S111",
@@ -3994,7 +3994,7 @@
       "amount": "Category-specific support; consult the actual 2026 category",
       "amountZh": "资助额按2026年具体类别确定",
       "eligibility": "The July 2026 guide supports eligible overseas returnees through distinct categories. Scientific research and entrepreneurial routes must not be confused; host endorsement may be required.",
-      "eligibilityZh": "2026年7月指南分类支持符合条件的留学人员，科研与创业类别不同，可能需要依托单位推荐。",
+      "eligibilityZh": "2026年7月指南按类别支持符合条件的留学人员。科研类与创业类要求不同，部分申请需依托单位推荐。",
       "status": "2026 call published; not confirmed open",
       "source": {
         "id": "S112",
@@ -4019,7 +4019,7 @@
       "amount": "Free membership; conditional ecosystem benefits, not a cash grant",
       "amountZh": "免费加入，生态权益附条件，并非现金资助",
       "eligibility": "Qualifying AI startups; check incorporation, developer, age and regional conditions. Product availability and partner credits are separately governed.",
-      "eligibilityZh": "符合条件的人工智能初创企业；须核验注册、开发者、年限与地区条件，产品及合作积分另有规则。",
+      "eligibilityZh": "符合计划条件的AI初创企业。企业注册、开发者身份、成立年限和地区等要求需确认；产品及合作伙伴提供的额度另有规则。",
       "status": "Program published; eligibility review",
       "source": {
         "id": "S040",
@@ -4032,7 +4032,7 @@
       "deadline": "Online application; regional eligibility review",
       "workflow": "credits",
       "url": "funding/nvidia-service.html",
-      "deadlineZh": "在线申请，须地区资格审核"
+      "deadlineZh": "在线申请，地区适用资格需审核"
     },
     {
       "id": "aws-credit",
@@ -4042,9 +4042,9 @@
       "equity": "No equity stated in offer; verify terms",
       "district": "citywide",
       "amount": "Package-specific promotional credits for eligible China services",
-      "amountZh": "依支持包抵扣合资格中国区云服务",
+      "amountZh": "依支持包抵扣符合条件的中国区云服务",
       "eligibility": "China-established unlisted startup and qualifying new-customer / participating partner relationship. Do not substitute global AWS account rules or credit ceilings.",
-      "eligibilityZh": "在中国设立的非上市初创企业，符合新客户及合作伙伴关系要求；不能套用全球AWS账户规则或额度。",
+      "eligibilityZh": "在中国设立的非上市初创企业，并满足新客户及合作伙伴关系等要求。全球AWS账户的规则和额度不能直接适用于中国区。",
       "status": "Regional eligibility to confirm",
       "source": {
         "id": "S042",
@@ -4057,7 +4057,7 @@
       "deadline": "Confirm current package and expiration",
       "workflow": "credits",
       "url": "funding/aws-credit.html",
-      "deadlineZh": "确认现行支持包及到期"
+      "deadlineZh": "确认最新权益方案及有效期"
     },
     {
       "id": "azure-credit",
@@ -4069,7 +4069,7 @@
       "amount": "Offer-specific credits and technical resources",
       "amountZh": "依当前方案提供积分与技术资源",
       "eligibility": "Apply online and verify company, region and account eligibility. Global benefits are not represented as China-region entitlements.",
-      "eligibilityZh": "在线申请并核验企业、地区与账户资格，不将全球权益视为中国区当然权益。",
+      "eligibilityZh": "通过在线渠道申请，需确认企业、地区和账户资格。全球计划的权益不代表中国区企业可以直接享受。",
       "status": "Regional eligibility to confirm",
       "source": {
         "id": "S041",
@@ -4082,7 +4082,7 @@
       "deadline": "Confirm current application and credit validity",
       "workflow": "credits",
       "url": "funding/azure-credit.html",
-      "deadlineZh": "确认现行申请及积分有效期"
+      "deadlineZh": "确认最新申请条件及服务额度有效期"
     },
     {
       "id": "pudong-equity",
@@ -4094,7 +4094,7 @@
       "amount": "Fund target RMB 2bn; first tranche RMB 500m; individual cheque not established",
       "amountZh": "基金目标20亿元，首期5亿元；单笔投资额未确定",
       "eligibility": "Seed-stage AI projects fitting the manager's mandate. The public launch does not establish a universal application form, valuation or shareholding percentage.",
-      "eligibilityZh": "符合管理人范围的种子期人工智能项目；公开发布不代表统一申请表、估值或持股比例。",
+      "eligibilityZh": "符合基金管理人投资范围的种子期AI项目。基金已公开发布，不代表存在统一申请表、估值或持股比例。",
       "status": "Fund announced; deal intake to confirm",
       "source": {
         "id": "S045",
@@ -4119,7 +4119,7 @@
       "amount": "Vehicle-specific investment; fund size is not startup funding",
       "amountZh": "依具体基金投资，基金规模不等于企业获资额",
       "eligibility": "AI, chip, healthcare and other mandate-compatible companies. Identify the direct-investment or subfund manager and review stage, domicile, return and ownership terms.",
-      "eligibilityZh": "符合人工智能、芯片、医疗等投资范围的企业；确认直投或子基金管理人及阶段、属地、收益与持股条款。",
+      "eligibilityZh": "符合AI、芯片、医疗等投资方向的企业。需确认具体直投或子基金管理人，以及发展阶段、属地、收益安排和股权条款。",
       "status": "Published investment platform; deal review",
       "source": {
         "id": "S044",
@@ -4132,7 +4132,7 @@
       "deadline": "Investment committee process; no guaranteed award",
       "workflow": "investment",
       "url": "funding/city-equity.html",
-      "deadlineZh": "经投委会程序，不保证获资"
+      "deadlineZh": "须经投委会审议，不保证获得投资"
     },
     {
       "id": "zhangjiang-ai-vouchers",
@@ -4144,7 +4144,7 @@
       "amount": "Up to 100% of approved actual cost, capped at RMB 1m in each category; at most one year",
       "amountZh": "核定实际支出最高100%，各类最高100万元，单个企业最多享受一年",
       "eligibility": "AI companies registered and operating inside the specified town boundary, established or moved there no earlier than 1 Jan 2025. Expenses must be for qualifying model R&D or deployment; review the current quarterly guide.",
-      "eligibilityZh": "注册经营在明确小镇范围内，且成立或迁入不早于2025年1月1日的人工智能企业；支出须用于合资格模型研发应用，并审核当季指南。",
+      "eligibilityZh": "在核定小镇范围内注册并实际经营，且成立或迁入时间不早于2025年1月1日的AI企业。费用须用于符合规定的模型研发应用，并按当季指南审核。",
       "status": "Quarterly scheme published; current intake to confirm",
       "source": {
         "id": "S113",
@@ -4170,7 +4170,7 @@
       "amount": "Award depends on applicable category and assessment",
       "amountZh": "支持额依适用类别及评审确定",
       "eligibility": "Qualifying Shanghai AI model or agent developers and users purchasing eligible non-related-party services. Projects already receiving other municipal fiscal subsidy are excluded.",
-      "eligibilityZh": "在沪合资格大模型或智能体研发应用单位，采购非关联方合资格服务；已获其他市级财政补贴项目不得重复。",
+      "eligibilityZh": "在沪开展大模型或智能体研发应用、符合要求的单位，采购非关联方提供的认可服务。同一项目已获其他市级财政补贴的，不得重复申报。",
       "status": "First 2026 batch closed; later batches to verify",
       "source": {
         "id": "S114",
@@ -4196,7 +4196,7 @@
       "amount": "Bank and product-specific loan, insurance or trust terms",
       "amountZh": "贷款、保险与信托条件依银行及产品确定",
       "eligibility": "The 2026 IP bureau directory supplies borrower criteria, collateral, rates, repayment, application steps and contacts by product. IP ownership and bank assessment matter.",
-      "eligibilityZh": "2026年知识产权局清单逐项列出借款主体、担保、利率、还款、申请流程及联系方式，须核验知识产权及银行评估。",
+      "eligibilityZh": "2026年市知识产权局产品清单逐项列明借款主体、担保、利率、还款和申请流程等信息。企业仍需满足知识产权条件，并通过金融机构评估。",
       "status": "2026 directory published; lender review",
       "source": {
         "id": "S115",
@@ -4221,7 +4221,7 @@
       "amount": "Program-specific; no common award ceiling established",
       "amountZh": "依具体项目确定，无统一资助上限",
       "eligibility": "Shanghai policy identifies these routes for qualifying specialized SMEs and new products. Recognition, insurance compensation, procurement and R&D support are separate mechanisms; obtain the current call.",
-      "eligibilityZh": "上海政策列出专精特新企业及创新产品相关路径。认定、保险补偿、采购与研发支持为不同机制，应索取现行申报通知。",
+      "eligibilityZh": "上海政策列出专精特新企业及创新产品相关支持。产品认定、保险补偿、采购和研发支持属于不同事项，需查阅各自最新申报通知。",
       "status": "Published route; current call to confirm",
       "source": {
         "id": "S116",
@@ -4257,7 +4257,7 @@
       "apply": "https://zwdt.sh.gov.cn/",
       "status": "Policy in force; call not confirmed open",
       "deadline": "Policy through 31 Dec 2027; confirm district procedure",
-      "deadlineZh": "政策至2027年12月31日，须核验本区办理流程",
+      "deadlineZh": "政策至2027年12月31日，需确认本区办理流程",
       "workflow": "grant",
       "url": "funding/startup-insurance.html"
     },
@@ -4282,7 +4282,7 @@
       "apply": "https://zwdt.sh.gov.cn/",
       "status": "Policy in force; call not confirmed open",
       "deadline": "Policy through 31 Dec 2027; confirm district procedure",
-      "deadlineZh": "政策至2027年12月31日，须核验本区办理流程",
+      "deadlineZh": "政策至2027年12月31日，需确认本区办理流程",
       "workflow": "grant",
       "url": "funding/startup-incubation-rent.html"
     },
@@ -4307,7 +4307,7 @@
       "apply": "https://www.shanghai.gov.cn/affairs_affairs/0595cbd5c4974649b9cfb03b3d217daf.html",
       "status": "Policy in force; call not confirmed open",
       "deadline": "Policy through 31 Dec 2027; confirm district procedure",
-      "deadlineZh": "政策至2027年12月31日，须核验本区办理流程",
+      "deadlineZh": "政策至2027年12月31日，需确认本区办理流程",
       "workflow": "grant",
       "url": "funding/first-startup-subsidy.html"
     },
@@ -4347,7 +4347,7 @@
       "amount": "Funding for assessed and recognized teams under the district talent fund plan",
       "amountZh": "依区人才资金计划对评审认定团队给予支持",
       "eligibility": "Eligible teams in AI, industrial internet and biomedicine at organizations established or operating lawfully in Changning. Required evidence includes research outcomes, employment contracts and commitments.",
-      "eligibilityZh": "在长宁依法设立或开展经营单位的人工智能、工业互联网及生物医药等团队，须提供科研成果、劳动合同及承诺等。",
+      "eligibilityZh": "在长宁依法设立或开展经营的单位中，从事AI、工业互联网、生物医药等方向的团队。需提供科研成果、劳动合同和承诺书等材料。",
       "source": {
         "id": "S119",
         "title": "上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知",
@@ -4373,7 +4373,7 @@
       "amount": "RMB 300,000 per selected company; 50% initially, remainder after one-year development review",
       "amountZh": "获选企业30万元，首期50%，一年后按发展情况拨付余款",
       "eligibility": "Lawfully established technology companies with good credit. Online application is accompanied by stamped paper materials through the responsible investment promotion center; the science commission evaluates the project.",
-      "eligibilityZh": "依法设立且信用良好的科创企业，线上申报并向对应投促中心提交盖章纸质材料，由区科委组织评估。",
+      "eligibilityZh": "依法设立、信用良好的科创企业。需线上申报，并向相应投促中心提交盖章纸质材料，由区科委组织评估。",
       "source": {
         "id": "S120",
         "title": "关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀",
@@ -4399,7 +4399,7 @@
       "amount": "Direction-specific R&D, compute, first-product matching and related support",
       "amountZh": "按研发、算力、首台套首版次配套等方向支持",
       "eligibility": "Good-credit legal or non-legal-person organizations. The call distinguishes R&D collaboration, compute use for models and agents, recognized technical breakthroughs and other directions; approval and eligible periods differ.",
-      "eligibilityZh": "信用良好的法人或非法人组织，分别设置产学研、模型及智能体算力、认定技术突破等方向，审批及支出期间各异。",
+      "eligibilityZh": "信用良好的法人或非法人组织。产学研合作、模型及智能体算力、技术突破认定等方向各有条件，审核要求及认可的费用发生期间不同。",
       "source": {
         "id": "S121",
         "title": "关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀",
@@ -4425,7 +4425,7 @@
       "amount": "Up to RMB 2 million; first payment at most 50%, balance subject to acceptance",
       "amountZh": "最高200万元，首期不超过50%，余款按验收情况拨付",
       "eligibility": "Lawfully established, good-credit legal or non-legal-person organizations building qualifying R&D platforms. Online registration requires district review; credit commitments and prescribed materials are required.",
-      "eligibilityZh": "依法设立、信用良好并建设合资格研发平台的法人或非法人组织；线上注册须区级审核，并提交信用承诺及规定材料。",
+      "eligibilityZh": "依法设立、信用良好，建设符合条件的研发平台的法人或非法人组织。线上注册需经区级审核，并提交信用承诺及规定材料。",
       "source": {
         "id": "S122",
         "title": "关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀",
@@ -4436,7 +4436,7 @@
       "apply": "https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register",
       "phone": "+86 21 52564588 ext. 8628",
       "deadline": "Confirm the deadline in the September 2026 notice",
-      "deadlineZh": "核验2026年9月通知中的具体截止日",
+      "deadlineZh": "确认2026年9月通知中的具体截止日",
       "status": "2026 call published; not confirmed open",
       "url": "funding/putuo-rd-platform.html"
     },
@@ -4451,7 +4451,7 @@
       "amount": "District innovation project up to RMB 100,000; approved municipal innovation projects matched 1:1 under the policy",
       "amountZh": "区级创新资金每项最高10万元，市级创新资金立项按政策1:1配套",
       "eligibility": "Qualifying technology enterprises under the 2026-2027 measures and implementing rules. Different recognition, commercialization and voucher provisions must be checked separately.",
-      "eligibilityZh": "符合2026至2027年措施及实施细则的科技企业；认定、成果转化及创新券条款须分别核验。",
+      "eligibilityZh": "符合2026至2027年措施及实施细则的科技企业。认定、成果转化及创新券的具体条件应分别确认。",
       "source": {
         "id": "S123",
         "title": "关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知",
@@ -4461,7 +4461,7 @@
       },
       "apply": "https://www.songjiang.gov.cn/",
       "deadline": "Policy: 1 January 2026 to 31 December 2027; confirm the applicable call",
-      "deadlineZh": "政策有效期2026年1月1日至2027年12月31日，须核验相应申报",
+      "deadlineZh": "政策有效期2026年1月1日至2027年12月31日，需确认相应申报",
       "status": "Policy in force; call not confirmed open",
       "url": "funding/songjiang-innovation.html"
     },
@@ -4474,9 +4474,9 @@
       "district": "qingpu",
       "type": "Reimbursement",
       "amount": "Amount under the applicable digital-economy rules; reviewed against eligible actual cost",
-      "amountZh": "依数字经济适用规则及合资格实际支出审核",
+      "amountZh": "依数字经济适用规则及符合条件的实际支出审核",
       "eligibility": "Eligible R&D rental of non-related-party intelligent compute; storage, networking and security are excluded. The provider must hold the specified IDC/ISP licence. Other fiscal support for the same project and year is generally excluded.",
-      "eligibilityZh": "非关联方智能算力研发租用，不含存储、网络及安全；供应商须持规定IDC/ISP许可，同项目同年度原则上不重复财政资助。",
+      "eligibilityZh": "租用非关联方智能算力用于研发，不包含存储、网络及安全服务。供应商须持有规定的IDC/ISP许可，同一项目同一年度原则上不重复享受财政资助。",
       "source": {
         "id": "S124",
         "title": "关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府",
@@ -4499,9 +4499,9 @@
       "district": "fengxian",
       "type": "Reimbursement",
       "amount": "30% of the qualifying annual R&D net increase, capped at RMB 1 million",
-      "amountZh": "合资格年度研发净增部分30%，最高100万元",
+      "amountZh": "符合条件的年度研发净增部分30%，最高100万元",
       "eligibility": "Valid recognized high-tech enterprise or 2025 registered technology SME; 2024 and 2025 tax finalization and R&D super-deduction schedules are required. Submit online and route the paper pack through the recommending unit.",
-      "eligibilityZh": "有效期内高企或2025年入库科技型中小企业，须完成2024及2025年汇算清缴和研发加计扣除明细；线上申报并经推荐单位递交纸质材料。",
+      "eligibilityZh": "有效期内的高新技术企业，或2025年入库的科技型中小企业。需完成2024及2025年度汇算清缴，并提供研发费用加计扣除明细，线上申报后经推荐单位递交纸质材料。",
       "source": {
         "id": "S125",
         "title": "奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告",
@@ -4527,7 +4527,7 @@
       "amount": "Up to RMB 250,000; generally two installments, final settlement after acceptance",
       "amountZh": "最高25万元，一般分两期，验收后结清",
       "eligibility": "The 2026 key-project call requires prior-year revenue RMB 30m-200m, R&D at least RMB 1.2m and 4% of revenue, at most 500 employees and at least 10% R&D staff, plus additional conditions.",
-      "eligibilityZh": "2026重点项目要求上年营收3000万元至2亿元、研发不少于120万元且占营收4%、职工不超过500人、研发人员不少于10%，并有其他条件。",
+      "eligibilityZh": "2026年重点项目要求：上年营业收入3000万元至2亿元，研发费用不低于120万元且占营业收入不低于4%，职工不超过500人，研发人员占比不低于10%，并需满足其他条件。",
       "source": {
         "id": "S126",
         "title": "奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告",
@@ -4551,9 +4551,9 @@
       "district": "chongming",
       "type": "Grant",
       "amount": "Up to RMB 100,000 for an assessed excellent qualifying early-stage project",
-      "amountZh": "经区级评审为优秀的合资格初创项目，最高10万元",
+      "amountZh": "经区级评审为优秀的符合条件的初创项目，最高10万元",
       "eligibility": "Startup organizations incubated in a carrier or closely supported by a township park, with qualifying emerging-industry or niche innovation and growth potential. The July policy is distinct from the expired 2024 science measures.",
-      "eligibilityZh": "在创业载体孵化或乡镇园区重点帮扶、具有合资格新兴产业或细分领域创新及成长潜力的创业组织；7月政策不同于已失效的2024年科技办法。",
+      "eligibilityZh": "在创业载体孵化或由乡镇、园区重点帮扶的创业组织，具备符合要求的新兴产业或细分领域创新及成长潜力。该政策于7月发布，与已失效的2024年科技创新办法不同。",
       "source": {
         "id": "S127",
         "title": "上海市崇明区人力资源和社会保障局关于印发《崇明区关于新时期强化创业创新促进产业高质量发展的若干政策措施》的通知-上海市崇明区人民政府",
@@ -4576,9 +4576,9 @@
       "district": "hongkou",
       "type": "Grant",
       "amount": "Recognized top talent and core team: up to RMB 1m; eligible overseas young talent: RMB 50,000 per person",
-      "amountZh": "认定顶尖人才及核心团队最高100万元，合资格海外优秀青年人才每人5万元",
+      "amountZh": "认定顶尖人才及核心团队最高100万元，符合条件的海外优秀青年人才每人5万元",
       "eligibility": "Strict category-specific talent recognition and Hongkou employment rules apply. Email pre-review is followed by paper submission at the district talent service center; this is not a grant for every foreign founder.",
-      "eligibilityZh": "适用严格分类人才认定及虹口就业条件；邮箱预审后到区人才中心交纸质材料，并非所有外籍创始人均可申请。",
+      "eligibilityZh": "需符合严格的人才分类认定及虹口就业条件，按通知完成预审后，向区人才中心提交纸质材料。并非所有外籍创业者均可申请。",
       "source": {
         "id": "S128",
         "title": "虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府",
@@ -4604,7 +4604,7 @@
       "amount": "Announced fund scale RMB 800 million; individual investment not established",
       "amountZh": "公布基金规模8亿元，单笔投资未确定",
       "eligibility": "Projects within the fund manager's current future-industry mandate. Confirm the responsible manager, direct or subfund route, stage and domicile requirements. Fund scale is not a per-company award.",
-      "eligibilityZh": "符合管理人现行未来产业投资范围的项目，须确认管理人、直投或子基金路径、阶段及属地要求；基金规模非每家企业获资额。",
+      "eligibilityZh": "符合管理人现行未来产业投资范围的项目。需确认管理人、直投或子基金安排、发展阶段及属地要求。公布的基金规模不是每家企业可获得的金额。",
       "source": {
         "id": "S129",
         "title": "Jiading launches 800m-yuan future industry fund",
@@ -4614,7 +4614,7 @@
       },
       "apply": "https://english.jiading.gov.cn/2026-02/06/c_1160145.htm",
       "deadline": "Manager-led sourcing; current deal intake to confirm",
-      "deadlineZh": "管理人筛选项目，当前受理待确认",
+      "deadlineZh": "管理人筛选项目，当前是否接收项目需确认",
       "status": "Fund announced; deal intake to confirm",
       "url": "funding/jiading-future-fund.html"
     },
@@ -4627,9 +4627,9 @@
       "district": "baoshan",
       "type": "Convertible support",
       "amount": "Amount and conversion terms require the actual project guide and agreement",
-      "amountZh": "额度及转股条件须以项目指南及协议为准",
+      "amountZh": "额度及转股条件以项目指南及协议为准",
       "eligibility": "The district January 2026 policy calendar identifies a science-commission call for pre-investment / later equity projects. Verify the recipient, milestone and conversion conditions rather than labelling this an unrestricted equity-free grant.",
-      "eligibilityZh": "区级2026年1月政策月历列明科委先投后股项目征集，须核验主体、里程碑及转股条件，不能视为自由使用的不占股补助。",
+      "eligibilityZh": "2026年1月区级政策月历列有区科委“先投后股”项目征集。申请主体、阶段目标及转股条件需按指南和协议确认，不能作为无需出让股权、可自由使用的补助。",
       "source": {
         "id": "S130",
         "title": "宝山人才政策月历·1月刊",
@@ -4655,7 +4655,7 @@
       "amount": "Product-specific bank credit, startup guarantee and IP-backed finance",
       "amountZh": "各银行授信、创业担保与知识产权融资产品条件各异",
       "eligibility": "Select the actual bank product on the official district platform. Credit eligibility, guarantee, rates, fees, collateral and repayment depend on the lender and company; the directory is not an approval.",
-      "eligibilityZh": "在区级官方平台选择具体银行产品，授信资格、担保、利率、费用、抵押及还款依银行与企业确定，列入目录不代表获批。",
+      "eligibilityZh": "在区级官方平台选择具体银行产品。是否获批及担保、利率、费用、抵押和还款条件，由银行结合企业情况确定；产品列入目录不代表贷款获批。",
       "source": {
         "id": "S131",
         "title": "黄浦区融资信用服务平台-银行产品",
@@ -4665,7 +4665,7 @@
       },
       "apply": "https://xydhp.shhuangpu.gov.cn/finance-product",
       "deadline": "Product-specific; confirm current lender terms",
-      "deadlineZh": "依具体产品，核验贷款方现行条件",
+      "deadlineZh": "依具体产品，确认贷款机构现行条件",
       "status": "Published directory; lender review",
       "url": "funding/huangpu-credit-directory.html"
     },
@@ -4678,9 +4678,9 @@
       "district": "yangpu",
       "type": "Loan",
       "amount": "Product-specific technology credit and IP finance; no universal ceiling",
-      "amountZh": "科技信贷及知识产权融资依具体产品，无统一上限",
+      "amountZh": "科技信贷及知识产权融资依具体产品，无统一额度上限",
       "eligibility": "Use the district platform to identify an actual lender and product. Technology performance-guarantee lending, IP-backed products and guarantees have different duties and underwriting conditions.",
-      "eligibilityZh": "通过区级平台确认实际贷款方及产品，科技履约贷、知识产权融资与担保产品的义务和审核条件不同。",
+      "eligibilityZh": "通过区级平台确认实际贷款机构及产品。科技履约贷、知识产权融资和担保产品各有义务及审核条件。",
       "source": {
         "id": "S132",
         "title": "金融产品",
@@ -4690,7 +4690,7 @@
       },
       "apply": "https://xyd.shyp.gov.cn/finance",
       "deadline": "Product-specific; confirm current lender terms",
-      "deadlineZh": "依具体产品，核验贷款方现行条件",
+      "deadlineZh": "依具体产品，确认贷款机构现行条件",
       "status": "Published directory; lender review",
       "url": "funding/yangpu-credit-directory.html"
     },
@@ -4703,7 +4703,7 @@
       "district": "jingan",
       "type": "Grant",
       "amount": "Project-specific support under the district service-industry guidance fund rules, matched to qualifying project investment",
-      "amountZh": "依区服务业发展引导资金办法给予支持，按合资格项目总投资及类别核定",
+      "amountZh": "依区服务业发展引导资金办法给予支持，按符合条件的项目总投资及类别核定",
       "eligibility": "Lawfully registered, tax-paying legal-person organizations in Jing'an with sound credit, advancing modern services, enterprise AI, data services or digital commerce under the 2026 batch rules and 2026-2028 AI demonstration plan.",
       "eligibilityZh": "在静安依法设立、纳税且信用良好的法人组织，符合2026年申报通知及2026至2028年人工智能创新应用示范区方向的现代服务业、企业人工智能、数据服务或数字商业项目。",
       "source": {
@@ -4715,7 +4715,7 @@
       },
       "apply": "https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html",
       "deadline": "Second 2026 batch published May 2026; confirm current sub-district recommending window",
-      "deadlineZh": "2026年第二批通知于5月发布，须向所属街镇或功能区确认当前推荐受理窗口",
+      "deadlineZh": "2026年第二批通知于5月发布，须向所属街镇或功能区确认当前推荐受理时间",
       "status": "2026 call published; deadline check required",
       "url": "funding/jingan-service-2026.html"
     },
@@ -4730,7 +4730,7 @@
       "amount": "Policy-specific R&D, carrier incubation, testing-service and industrialization support under the 2025-2026 park action plan",
       "amountZh": "依2025至2026年园区行动方案及张江专项政策给予研发、载体孵化、检测服务及产业化支持",
       "eligibility": "Qualifying enterprises and innovation carriers in Zhangjiang Jinshan Park working on low-altitude UAV systems, new chemical or electronic materials, biomanufacturing and intelligent equipment.",
-      "eligibilityZh": "张江金山园内从事低空无人机系统、化工与电子新材料、生物制造及智能装备的合资格企业与创新载体。",
+      "eligibilityZh": "张江金山园内从事低空无人机系统、化工与电子新材料、生物制造及智能装备的符合条件的企业与创新载体。",
       "source": {
         "id": "S023",
         "title": "金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知",
@@ -4740,7 +4740,7 @@
       },
       "apply": "https://www.jinshan.gov.cn/",
       "deadline": "Policy: 2025 to 2026 action plan; confirm current implementing batch",
-      "deadlineZh": "2025至2026年行动方案有效，须核验当前实施批次",
+      "deadlineZh": "2025至2026年行动方案有效，需确认当前实施批次",
       "status": "Policy in force; call not confirmed open",
       "url": "funding/jinshan-park-2026.html"
     },
@@ -4755,7 +4755,7 @@
       "amount": "District state-backed early-stage equity co-investment; individual cheque subject to investment committee review",
       "amountZh": "区级国资早期股权引投基金，单笔投资额经投委会审议确定",
       "eligibility": "Early-stage hard-tech, quantum computing, brain-inspired AI and university spinout enterprises settling or operating in Yangpu alongside qualifying lead investors.",
-      "eligibilityZh": "落户或在杨浦经营、并获得合资格领投机构协同投资的硬科技、量子计算、类脑智能及高校成果转化早期企业。",
+      "eligibilityZh": "落户或在杨浦经营、并获得符合条件的领投机构协同投资的硬科技、量子计算、类脑智能及高校成果转化早期企业。",
       "source": {
         "id": "S134",
         "title": "杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府",
@@ -4790,7 +4790,7 @@
       },
       "apply": "https://www.songjiang.gov.cn/",
       "deadline": "Second 2026 batch notice issued August 2026; confirm current acceptance status",
-      "deadlineZh": "2026年第二批通知于8月发布，须核验当前受理状态",
+      "deadlineZh": "2026年第二批通知于8月发布，需确认当前受理状态",
       "status": "2026 call published; deadline check required",
       "url": "funding/songjiang-data-2026.html"
     },
@@ -4805,7 +4805,7 @@
       "amount": "Proportion of verified intelligent equipment, industrial software and digital-workshop investment",
       "amountZh": "按经核定的智能装备、工业软件及数字车间投入比例给予扶持",
       "eligibility": "Qualifying Qingpu manufacturing and technology enterprises implementing intelligent factories, industrial AI inspection or digital supply-chain upgrades.",
-      "eligibilityZh": "在青浦实施智能工厂、工业AI视觉检测或数字化供应链升级的合资格制造与科技企业。",
+      "eligibilityZh": "在青浦实施智能工厂、工业AI视觉检测或数字化供应链升级的符合条件的制造与科技企业。",
       "source": {
         "id": "S136",
         "title": "关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府",
@@ -4815,7 +4815,7 @@
       },
       "apply": "https://www.shqp.gov.cn/",
       "deadline": "2026 notice issued 31 July 2026; confirm current batch window",
-      "deadlineZh": "2026年通知于7月31日发布，须核验当前批次受理窗口",
+      "deadlineZh": "2026年通知于7月31日发布，需确认当前批次受理时间",
       "status": "2026 call published; deadline check required",
       "url": "funding/qingpu-intelligent-2026.html"
     },
@@ -4865,7 +4865,7 @@
       },
       "apply": "https://www.shcm.gov.cn/",
       "deadline": "Implementation plan issued 20 August 2026; check track schedule",
-      "deadlineZh": "实施方案于2026年8月20日印发，须核验赛程安排",
+      "deadlineZh": "实施方案于2026年8月20日印发，需确认赛程安排",
       "status": "2026 competition published; track intake to confirm",
       "url": "funding/chongming-competition-2026.html"
     },
@@ -4879,7 +4879,7 @@
       "amount": "Qualifying offices: 3 years rent-free, then 2 years at half rent; separate housing and service terms",
       "amountZh": "符合条件的办公空间三年免租，后两年租金减半；住房及服务另有条款",
       "eligibility": "Selected OPC and small-team projects admitted by the community. The August 2026 operator report is not a tenancy offer for every applicant. Confirm current selection, eligible premises, deposits, service charges and exit terms in writing.",
-      "eligibilityZh": "由社区筛选入驻的OPC及小团队项目。2026年8月运营报告并非向所有申请者发出的租赁承诺，须书面确认现行遴选、适用空间、押金、服务费及退出条款。",
+      "eligibilityZh": "经社区筛选入驻的一人创业（OPC）及小团队项目。2026年8月运营报告不等于面向所有申请者的租赁承诺，需书面确认最新遴选条件、适用场地、押金、服务费及退出条款。",
       "source": {
         "id": "S076",
         "title": "Lin-gang Zero Cube OPC community, August 2026",
@@ -4904,7 +4904,7 @@
       "amount": "Manager-reviewed early-stage investment; no universal cheque or equity percentage verified",
       "amountZh": "由管理人审核早期投资，未核实统一投资额或股权比例",
       "eligibility": "Youth-led early AI projects matching the fund mandate. The August 2026 camp notice documents investment activity and organizers, not an always-open application or guaranteed grant. Request the responsible manager, screening pack, local-operation conditions and term sheet.",
-      "eligibilityZh": "符合基金方向的青年早期AI项目。2026年8月创业营公告证明存在投资活动及组织方，并不证明始终开放申请或保证获得补助。须索取负责管理人、筛选材料、属地经营条件及投资条款清单。",
+      "eligibilityZh": "符合基金方向的青年早期AI项目。2026年8月创业营公告可确认投资活动和主办方，但不能据此判断是否随时接受申请，更不保证获得补助。应向具体管理人索取筛选材料清单、属地经营要求及投资条款。",
       "source": {
         "id": "S077",
         "title": "Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026",
@@ -4927,9 +4927,9 @@
       "type": "Reimbursement",
       "equity": "No equity for qualifying public support",
       "amount": "Up to 80% of qualifying AI-tool service costs; applicable caps and conditions require the implementing notice",
-      "amountZh": "符合条件的AI工具服务费用最高支持80%；具体限额及条件须核验实施通知",
+      "amountZh": "符合条件的AI工具服务费用最高支持80%；具体限额及条件需确认实施通知",
       "eligibility": "Eligible OPCs purchasing approved technical services under the March 2026 measures. Foreign-founded teams should confirm the required local entity, community recognition, eligible invoices and supplier rules. Foreign ownership or a foreign parent alone does not establish grant eligibility; verify the written current procedure.",
-      "eligibilityZh": "适用2026年3月措施、购买合资格技术服务的OPC。外籍创始团队应确认所需本地法人、社区认定、合资格发票及供应商规则。外资股权或境外母公司本身不构成资助资格，须核验现行书面流程。",
+      "eligibilityZh": "适用2026年3月措施、购买认可技术服务的OPC。外籍团队需确认本地法人、社区认定、发票及供应商等要求。具有外资股权或境外母公司，不代表已具备资助资格，需取得现行书面办理说明。",
       "source": {
         "id": "S139",
         "title": "Lin-gang OPC policy: AI tool services and open-source development, 2026",
@@ -4954,7 +4954,7 @@
       "amount": "Annual reward up to RMB 1 million for qualifying AI-tool development and listing on major international open-source platforms",
       "amountZh": "符合条件的AI工具开发并上架国际主流开源平台，年度奖励最高100万元",
       "eligibility": "A distinct developer reward under the March 2026 OPC measures, rather than reimbursement for buying AI services. Confirm qualifying deployment, assessment and local-operation requirements. Foreign teams must obtain a written eligibility decision for the applicant entity; an overseas repository listing alone is insufficient.",
-      "eligibilityZh": "2026年3月OPC措施下独立的开发者奖励，不是购买AI服务的费用补贴。须确认合资格上架、评估及属地经营要求。外资团队应对申请主体取得书面资格确认，仅在境外代码平台上架并不足以获得奖励。",
+      "eligibilityZh": "2026年3月OPC措施中的独立开发奖励，区别于购买AI服务的费用补贴。需确认开源平台上架、评估及属地经营要求。外资团队应先书面确认申请主体资格，仅将代码发布在境外平台上，不足以取得奖励。",
       "source": {
         "id": "S139",
         "title": "Lin-gang OPC policy: AI tool services and open-source development, 2026",
@@ -4979,7 +4979,7 @@
       "amount": "Conditional R&D-center support under the applicable recognition and funding rules; no universal cash ceiling established",
       "amountZh": "按适用认定及资助规则给予有条件研发中心支持，未核实统一现金上限",
       "eligibility": "The 2025 measures explicitly support qualifying foreign-funded R&D centers and foreign-invested open innovation centers (GOI). Relevant to AI and hardware companies considering a Pudong or Waigaoqiao research presence. A foreign parent alone is insufficient: confirm local registration, center recognition, project location, sector restrictions and the actual funding call with the Pudong commerce authority.",
-      "eligibilityZh": "2025年措施明确支持合资格外资研发中心及外资企业开放创新中心（GOI），适合拟在浦东或外高桥开展研发的AI及硬件企业评估。仅有境外母公司并不足够，须向浦东商务主管部门确认本地登记、中心认定、项目地点、行业限制及实际资助申报通知。",
+      "eligibilityZh": "2025年措施支持符合条件的外资研发中心及外资企业开放创新中心（GOI），拟在浦东或外高桥开展研发的AI和硬件企业可据此评估。仅有境外母公司并不足够，应向浦东商务主管部门确认本地登记、中心认定、项目地点、行业限制及实际资助申报通知。",
       "source": {
         "id": "S083",
         "title": "Pudong foreign-investment measures: foreign-funded R&D and open innovation centers",
@@ -5296,8 +5296,8 @@
     "Investor": "投资机构",
     "University": "高校",
     "Government": "政府部门",
-    "Software AI": "软件人工智能",
-    "Hardware AI": "硬件人工智能",
+    "Software AI": "AI软件",
+    "Hardware AI": "AI硬件",
     "Chips": "芯片",
     "Sensors": "传感器",
     "Robotics": "机器人",
@@ -5311,51 +5311,51 @@
     "Agriculture": "农业",
     "Consumer": "消费",
     "Grant": "补助",
-    "Reimbursement": "报销支持",
+    "Reimbursement": "费用补贴",
     "Loan": "贷款",
     "Equity investment": "股权投资",
     "Tax relief": "税收优惠",
     "Competition": "比赛",
-    "In-kind services": "实物与服务支持",
-    "Cloud credits": "云积分",
+    "In-kind services": "实物及服务支持",
+    "Cloud credits": "云服务额度",
     "Loan / insurance": "贷款与保险",
     "Grant / market access": "补助与市场准入",
-    "Grant / reimbursement": "补助与报销",
+    "Grant / reimbursement": "补助与费用补贴",
     "Convertible support": "可转股支持",
     "Potential equity conversion; review contract": "可能转为股权，须审核协议",
-    "Published directory; lender review": "目录已公布，须贷款方审核",
+    "Published directory; lender review": "目录已公布，须贷款机构审核",
     "No equity": "不占股",
-    "No equity; repayable": "不占股，须偿还",
-    "Temporary equity; original-price exit": "临时股权，原价退出",
-    "Award / investment terms vary": "奖励与投资条款各异",
-    "No equity stated in offer; verify terms": "所述方案无股权要求，须核验协议",
-    "Verify current agreement": "核验现行协议",
-    "Negotiated equity": "协商股权",
-    "No equity; product obligations apply": "不占股，适用产品义务",
-    "No equity for qualifying public support": "合资格财政支持不占股",
-    "Program published; eligibility review": "项目已公布，须资格审核",
-    "Historical / confirm continuation": "历史项目，须确认延续",
-    "Regional eligibility to confirm": "地区资格待确认",
-    "Published entity; intake to confirm": "机构有来源，招募待确认",
-    "Services / possible incentives": "空间服务／潜在政策激励",
-    "Equity-free services": "不占股服务",
-    "Loan / temporary equity": "贷款／临时股权",
+    "No equity; repayable": "不要求出让股权，需还款",
+    "Temporary equity; original-price exit": "临时持股，期满按原出资额退出",
+    "Award / investment terms vary": "奖励与投资条件分别约定",
+    "No equity stated in offer; verify terms": "公布方案未要求出让股权，具体以协议为准",
+    "Verify current agreement": "以现行协议为准",
+    "Negotiated equity": "股权比例由双方协商",
+    "No equity; product obligations apply": "不要求出让股权，需遵守产品使用条款",
+    "No equity for qualifying public support": "符合条件的财政支持不要求出让股权",
+    "Program published; eligibility review": "已公布，需审核申请资格",
+    "Historical / confirm continuation": "历史项目，是否延续需确认",
+    "Regional eligibility to confirm": "地区适用条件需确认",
+    "Published entity; intake to confirm": "机构信息已核实，当前是否接受申请需确认",
+    "Services / possible incentives": "场地及服务支持，可能另有政策优惠",
+    "Equity-free services": "无需出让股权的服务支持",
+    "Loan / temporary equity": "贷款或临时持股资助",
     "Closed": "已截止",
-    "Policy in force; confirm service and order": "政策有效，须核验服务与订单",
-    "Policy in force; call not confirmed open": "政策有效，未确认正在申报",
-    "Published policy; implementing intake to confirm": "政策已公布，实施受理待确认",
-    "Published service; current terms to confirm": "服务已公布，现行条款待确认",
-    "Published tax guidance; applicability review": "税务指引已公布，适用性待核验",
-    "Published tax guidance; recognition required": "税务指引已公布，须认定",
-    "2026 call published; deadline check required": "2026通知已公布，须核验截止日",
-    "2026 competition published; track intake to confirm": "2026赛事已公布，赛道受理待确认",
-    "2026 call published; not confirmed open": "2026通知已公布，未确认正在受理",
-    "Fund announced; deal intake to confirm": "基金已公布，项目受理待确认",
-    "Published investment platform; deal review": "投资平台已公布，须项目审核",
-    "Quarterly scheme published; current intake to confirm": "季度机制已公布，当前批次待确认",
-    "First 2026 batch closed; later batches to verify": "2026首批已截止，后续批次待核验",
-    "2026 directory published; lender review": "2026清单已公布，须贷款方审核",
-    "Published route; current call to confirm": "路径已公布，现行申报待确认"
+    "Policy in force; confirm service and order": "政策有效，适用服务及订单需确认",
+    "Policy in force; call not confirmed open": "政策有效，当前是否受理需确认",
+    "Published policy; implementing intake to confirm": "政策已公布，实施细则及受理安排需确认",
+    "Published service; current terms to confirm": "服务已公布，最新条款需确认",
+    "Published tax guidance; applicability review": "税收指引已公布，是否适用需确认",
+    "Published tax guidance; recognition required": "税收指引已公布，需取得相关认定",
+    "2026 call published; deadline check required": "2026年通知已公布，需确认截止时间",
+    "2026 competition published; track intake to confirm": "2026年赛事已公布，具体赛道报名时间需确认",
+    "2026 call published; not confirmed open": "2026年通知已公布，当前是否受理需确认",
+    "Fund announced; deal intake to confirm": "基金已公布，项目接收安排需确认",
+    "Published investment platform; deal review": "投资平台已公布，需进行项目审核",
+    "Quarterly scheme published; current intake to confirm": "按季度申报，当前批次需确认",
+    "First 2026 batch closed; later batches to verify": "2026年首批已截止，后续批次需确认",
+    "2026 directory published; lender review": "2026年清单已公布，需经贷款机构审核",
+    "Published route; current call to confirm": "支持渠道已公布，最新申报安排需确认"
   },
   "i18n": {
     "hi": {

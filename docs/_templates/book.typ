@@ -114,11 +114,11 @@
    #block(width: 194mm)[
    #align(center)[
    #set par(justify: false, leading: 0.35em)
-   #text(font: sans, size: 8pt, tracking: 0.16em, fill: jade, if zh { "东方明珠 · 白玉兰水墨珍藏版" } else if hi { "पूरब का मोती · श्वेत मैग्नोलिया संस्करण" } else if ja { "東洋の真珠 · 白玉蘭水墨エディション" } else if ko { "동양의 진주 · 백목련 수묵 에디션" } else if de { "DIE PERLE DES ORIENTS · MAGNOLIEN-EDITION" } else if es { "LA PERLA DE ORIENTE · EDICIÓN MAGNOLIA" } else { "THE PEARL OF THE ORIENT · MAGNOLIA EDITION" })
+   #text(font: sans, size: 8pt, tracking: 0.16em, fill: jade, if zh { "东方明珠 · 白玉兰版" } else if hi { "पूरब का मोती · श्वेत मैग्नोलिया संस्करण" } else if ja { "東洋の真珠 · 白玉蘭水墨エディション" } else if ko { "동양의 진주 · 백목련 수묵 에디션" } else if de { "DIE PERLE DES ORIENTS · MAGNOLIEN-EDITION" } else if es { "LA PERLA DE ORIENTE · EDICIÓN MAGNOLIA" } else { "THE PEARL OF THE ORIENT · MAGNOLIA EDITION" })
    #v(7mm)
    #text(font: serif, size: if zh or ja or ko { 32pt } else if de or es or hi { 31pt } else { 39pt }, fill: ink, words.cover_lines.map(line => [#line]).join(linebreak()))
    #v(5mm)
-   #text(font: sans, size: 9pt, fill: jade, if zh { "十六区 · 高校 · 软硬件人工智能 · 融资与扶持渠道" } else if hi { "16 जिले · विश्वविद्यालय · AI · पूंजी" } else if ja { "16行政区 · 大学 · AI · 資金ルート" } else if ko { "16개 행정구 · 대학 · AI · 자금 지원" } else if de { "16 BEZIRKE · UNIVERSITÄTEN · KI · KAPITAL" } else if es { "16 DISTRITOS · UNIVERSIDADES · IA · CAPITAL" } else { "16 DISTRICTS / UNIVERSITIES / AI / CAPITAL" })
+   #text(font: sans, size: 9pt, fill: jade, if zh { "16区 · 高校 · AI软硬件 · 融资与扶持" } else if hi { "16 जिले · विश्वविद्यालय · AI · पूंजी" } else if ja { "16行政区 · 大学 · AI · 資金ルート" } else if ko { "16개 행정구 · 대학 · AI · 자금 지원" } else if de { "16 BEZIRKE · UNIVERSITÄTEN · KI · KAPITAL" } else if es { "16 DISTRITOS · UNIVERSIDADES · IA · CAPITAL" } else { "16 DISTRICTS / UNIVERSITIES / AI / CAPITAL" })
    #v(4mm)
    #text(font: sans, size: 8.5pt, fill: ink, words.author + " Vikrant Rathore")
    ]]
@@ -136,7 +136,7 @@
   #v(7mm)
   #text(size: 24pt, title)
   #v(6mm)
-  #text(size: 10pt, if zh { "一部为加速器、创始人、研究者及人工智能爱好者编写的实用图谱。" } else if hi { "एक्सेलेरेटर, संस्थापकों, शोधकर्ताओं और AI उत्साही लोगों के लिए एक व्यावहारिक मार्गदर्शिका।" } else if ja { "アクセラレーター、創業者、研究者、AI実践者のための実用フィールドガイド。" } else if ko { "액셀러레이터, 창업자, 연구자 및 AI 실무자를 위한 실용 필드 가이드." } else if de { "Ein praktischer Leitfaden für Acceleratoren, Gründer, Forschende und KI-Interessierte." } else if es { "Una guía práctica para aceleradoras, fundadores, investigadores y entusiastas de la IA." } else { "A field guide for accelerators, founders, researchers and AI enthusiasts." })
+  #text(size: 10pt, if zh { "面向加速器、创业者、研究人员和AI爱好者的实用图谱。" } else if hi { "एक्सेलेरेटर, संस्थापकों, शोधकर्ताओं और AI उत्साही लोगों के लिए एक व्यावहारिक मार्गदर्शिका।" } else if ja { "アクセラレーター、創業者、研究者、AI実践者のための実用フィールドガイド。" } else if ko { "액셀러레이터, 창업자, 연구자 및 AI 실무자를 위한 실용 필드 가이드." } else if de { "Ein praktischer Leitfaden für Acceleratoren, Gründer, Forschende und KI-Interessierte." } else if es { "Una guía práctica para aceleradoras, fundadores, investigadores y entusiastas de la IA." } else { "A field guide for accelerators, founders, researchers and AI enthusiasts." })
   #v(14mm)
   #grid(columns: (1fr, 1fr, 1fr, 1fr), gutter: 6mm,
    ..(str(counts.districts), str(counts.entities), str(counts.funding), str(counts.sources)).enumerate().map(((n, value)) => [

@@ -26,19 +26,14 @@ msgid ""
 "June 2026. The downloaded source workbooks are retained in the "
 "repository. Institutional inclusion does not prove a startup program, "
 "available funding or admission for an external founder."
-msgstr "采用教育部截至2026年6月17日、6月18日公布的名单，源工作簿保存在仓库。列入名录不代表存在创业计划、可用资金或接受外部创业者。"
+msgstr "本名录依据教育部2026年6月18日公布、截至6月17日的名单编制，原始表格保存在仓库中。学校被列入名录，不代表设有创业项目、可提供资金，或接受校外创业者申请。"
 
 #: ../../university-register.rst:6
-
-#| msgid ""
-#| "`Evidence S083 "
-#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
-#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
 "`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`证据 S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`资料来源 S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../university-register.rst:8
 msgid "40 undergraduate institutions"
@@ -280,7 +275,7 @@ msgstr ":doc:`上海纽约大学 </entities/university-nyu>` (4131016404)"
 
 #: ../../university-register.rst:52
 msgid "29 diploma colleges"
-msgstr "29所专科院校"
+msgstr "29所高职（专科）院校"
 
 #: ../../university-register.rst:55
 msgid ""
@@ -289,7 +284,7 @@ msgid ""
 "individually verified. Use the official education register to confirm the "
 "institution before seeking its research-cooperation or entrepreneurship "
 "office."
-msgstr "中文法定名称与学校标识码依官方工作簿。本版尚未逐校核实专科院校的创业联系及资金，请先通过官方教育名录确认机构，再咨询科研合作或创业部门。"
+msgstr "学校中文名称及标识码以官方表格为准。本版尚未逐校核实这些院校的创业服务联系人和资金支持，可先查阅官方名录，再向学校科研合作或创业服务部门咨询。"
 
 #: ../../university-register.rst:57
 msgid "上海旅游高等专科学校 (4131010275)"
@@ -416,7 +411,7 @@ msgid ""
 "A separate Ministry register; these are not added to the 69 ordinary "
 "institutions. Names and codes are authoritative register entries, not a "
 "claim of a verified startup program."
-msgstr "来自教育部独立名录，不计入69所普通高校。名称及代码为官方名录信息，不代表已核实创业项目。"
+msgstr "以下院校来自教育部单独公布的成人高校名录，不计入69所普通高校。名称及标识码均据官方名录列出，不代表已核实具体创业项目。"
 
 #: ../../university-register.rst:92
 msgid "上海科技管理干部学院 (4231050033)"
@@ -468,20 +463,16 @@ msgstr "上海市宝山区业余大学 (4231051852)"
 
 #: ../../university-register.rst:105
 msgid "Additional specialist routes"
-msgstr "其他专业路径"
+msgstr "其他专业院校"
 
 #: ../../university-register.rst:108
 msgid ""
 "`CEIBS official institutional route <https://www.ceibs.edu/>`_. CEIBS "
 "appears in Shanghai's international education directory and is listed "
 "separately here; no specific startup funding offer has been verified."
-msgstr "`中欧国际工商学院官方入口 <https://www.ceibs.edu/>`_. 中欧国际工商学院列于上海国际教育目录，本图谱另列；尚未核实具体创业资助。"
+msgstr "`中欧国际工商学院官网 <https://www.ceibs.edu/>`_. 中欧国际工商学院列于上海国际教育目录，本图谱单独列示，尚未确认具体创业资助项目。"
 
 #: ../../university-register.rst:110
-
-#| msgid ""
-#| "`Evidence S140 <https://edu.sh.gov.cn/study_cn_school/>`_. "
-#| "院校信息_上海市教育委员会."
 msgid ""
 "`Evidence S144 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
-msgstr "`证据 S144 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
+msgstr "`资料来源 S144 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."

@@ -26,56 +26,56 @@ msgstr "上海科技创业投资集团"
 
 #: ../../entities/stvc.rst:6
 msgid "Investor | Citywide / global | Research checked 2026-11-04"
-msgstr "投资机构｜全市／全球｜研究核对日期 2026-11-04"
+msgstr "投资机构｜全市／全球｜资料核查日期 2026-11-04"
 
 #: ../../entities/stvc.rst:8
 msgid "AI and industry focus: Chips, Health, Software AI."
-msgstr "人工智能与产业方向：芯片、健康、软件人工智能。"
+msgstr "AI及产业方向：芯片、健康、AI软件。"
 
 #: ../../entities/stvc.rst:10
 msgid ""
 "An established science and technology investment group within Shanghai's "
 "state-capital ecosystem. Use its official portfolio and manager "
 "information to identify the appropriate investment vehicle and stage."
-msgstr "上海国资生态中的科技投资机构。应通过官网投资组合及管理人信息匹配具体基金与阶段。"
+msgstr "上海国资背景的科技投资机构。可根据官网公布的投资组合及管理人信息，筛选与行业、发展阶段匹配的具体基金。"
 
 #: ../../entities/stvc.rst:12
 msgid ""
 "`Evidence S047 <https://www.shstvc.com.cn/en/>`_. Shanghai Science & "
 "Technology Venture Capital (Group) Co., Ltd.."
-msgstr "`证据 S047 <https://www.shstvc.com.cn/en/>`_. Shanghai Science & Technology Venture Capital (Group) Co., Ltd.."
+msgstr "`资料来源 S047 <https://www.shstvc.com.cn/en/>`_. Shanghai Science & Technology Venture Capital (Group) Co., Ltd.."
 
 #: ../../entities/stvc.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/stvc.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/stvc.rst:19
 msgid "Funding mechanism: Equity investment."
-msgstr "支持机制：股权投资。"
+msgstr "支持方式：股权投资。"
 
 #: ../../entities/stvc.rst:21
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/stvc.rst:24
 msgid "`Official website / intake route <https://www.shstvc.com.cn/en/>`_"
-msgstr "`官网／对接入口 <https://www.shstvc.com.cn/en/>`_"
+msgstr "`官网及申请渠道 <https://www.shstvc.com.cn/en/>`_"
 
 #: ../../entities/stvc.rst:26
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/stvc.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/stvc.rst:30
 msgid "Application workflow"
@@ -85,31 +85,31 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/stvc.rst:35
 msgid "Confirm the manager, sector, stage and legal-entity fit."
-msgstr "确认管理人、行业、阶段及主体匹配。"
+msgstr "确认基金管理人、投资领域、发展阶段及申请主体是否匹配。"
 
 #: ../../entities/stvc.rst:37
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
-msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+msgstr "提交路演材料、股权结构、技术验证结果、业务进展和融资计划。"
 
 #: ../../entities/stvc.rst:39
 msgid "Complete commercial, financial, technical and legal due diligence."
-msgstr "完成商业、财务、技术及法律尽职调查。"
+msgstr "配合完成商业、财务、技术及法律尽职调查。"
 
 #: ../../entities/stvc.rst:41
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
-msgstr "审核条款书、投委会条件及正式协议。"
+msgstr "审阅投资条款清单、投委会审议条件及正式协议。"
 
 #: ../../entities/stvc.rst:43
 msgid ":doc:`Citywide / global district route </funding>`"
-msgstr ":doc:`全市／全球对接路径 </funding>`"
+msgstr ":doc:`全市／全球合作指南 </funding>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

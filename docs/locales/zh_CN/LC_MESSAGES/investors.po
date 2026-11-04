@@ -24,11 +24,11 @@ msgstr "投资机构与耐心资本"
 msgid ""
 "7 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "7份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。"
+msgstr "收录7家机构，附资料来源、联系方式和申请参考。机构信息已核实，不代表当前正在接受申请。"
 
 #: ../../investors.rst:8
 msgid "Complete directory summary"
-msgstr "完整机构名录摘要"
+msgstr "机构目录概览"
 
 #: ../../investors.rst:11
 msgid ""
@@ -39,7 +39,7 @@ msgid ""
 "ownership, full-time work and company age conditions apply. Support: Loan "
 "/ temporary equity. Address: Room 108, Building 10, 8 Jinian Road, Yangpu "
 "| Tel: +86 21 55231818. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海市大学生科技创业基金会天使基金 <entities/stefg>` （上海市大学生科技创业基金会天使基金 · 投资机构 · 杨浦区 · 方向：软件人工智能、硬件人工智能、产业）—— 基金会为符合条件的中国籍高校创业者提供免息贷款及临时股权两种资助。适用国籍、年龄、持股、全职创业与企业成立年限条件。 支持机制：贷款／临时股权。 地址：杨浦区纪念路8号10号楼108室｜电话：+86 21 55231818。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海市大学生科技创业基金会天使基金 <entities/stefg>` （投资机构 · 杨浦区 · 方向：AI软件、AI硬件、产业）：为符合条件的中国籍高校创业者提供免息贷款和临时持股两类资助，另有国籍、年龄、持股、全职创业及企业成立年限等要求。 支持方式：贷款或临时持股资助。 地址：杨浦区纪念路8号10号楼108室｜电话：+86 21 55231818。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../investors.rst:12
 msgid ""
@@ -50,7 +50,7 @@ msgid ""
 "models and edge AI. A fund-of-funds commitment is not a startup award or "
 "a direct application entitlement. Support: Equity investment. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海三大先导产业母基金 <entities/ssci>` （上海三大先导产业母基金 · 投资机构 · 全市／全球 · 方向：软件人工智能、硬件人工智能、芯片、健康）—— 面向先导产业的国资基金平台，人工智能方向包括通用智能、算力系统、人形机器人、垂类模型及端侧智能。母基金出资不等于创业补助或直接申报资格。 支持机制：股权投资。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海三大先导产业母基金 <entities/ssci>` （投资机构 · 全市／全球 · 方向：AI软件、AI硬件、芯片、健康）：面向三大先导产业的国资基金平台。AI投资方向包括通用智能、算力系统、人形机器人、垂直领域模型和端侧智能。母基金出资不等于企业可直接申领的创业补助。 支持方式：股权投资。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../investors.rst:13
 msgid ""
@@ -60,7 +60,7 @@ msgid ""
 "figure is fund scale, not a per-startup cheque. Seek the manager through "
 "Pudong's official ecosystem route. Support: Equity investment. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`浦东人工智能种子基金 <entities/pudong-seed>` （浦东人工智能种子基金 · 投资机构 · 浦东新区 · 方向：软件人工智能、硬件人工智能）—— 2025年7月公布总规模20亿元、首期5亿元。该数字为基金规模，并非每家企业投资额。可经浦东官方生态渠道确认管理人。 支持机制：股权投资。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`浦东人工智能种子基金 <entities/pudong-seed>` （投资机构 · 浦东新区 · 方向：AI软件、AI硬件）：2025年7月公布目标规模20亿元、首期5亿元。基金规模不是单家企业可获得的投资额，可通过浦东官方渠道进一步确认管理人及项目接收安排。 支持方式：股权投资。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../investors.rst:14
 msgid ""
@@ -71,7 +71,7 @@ msgid ""
 "manager and investment mandate; no uniform cheque size or ownership "
 "percentage is established here. Support: Equity investment. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海具身智能基金 <entities/embodied-fund>` （上海具身智能基金 · 投资机构 · 浦东新区 · 方向：硬件人工智能、机器人、传感器）—— 2025年4月公布的国资具身智能投资路径，涉及核心零部件与边缘芯片。须确认现任管理人及投资范围；本书不推定统一投资额或持股比例。 支持机制：股权投资。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海具身智能基金 <entities/embodied-fund>` （投资机构 · 浦东新区 · 方向：AI硬件、机器人、传感器）：2025年4月公布的国资具身智能投资渠道，涉及核心零部件和边缘芯片。需确认当前管理人及投资范围，不能推定统一投资金额或持股比例。 支持方式：股权投资。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../investors.rst:15
 msgid ""
@@ -81,7 +81,7 @@ msgid ""
 "ecosystem. Use its official portfolio and manager information to identify "
 "the appropriate investment vehicle and stage. Support: Equity investment. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海科技创业投资集团 <entities/stvc>` （上海科技创业投资集团 · 投资机构 · 全市／全球 · 方向：芯片、健康、软件人工智能）—— 上海国资生态中的科技投资机构。应通过官网投资组合及管理人信息匹配具体基金与阶段。 支持机制：股权投资。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海科技创业投资集团 <entities/stvc>` （投资机构 · 全市／全球 · 方向：芯片、健康、AI软件）：上海国资背景的科技投资机构。可根据官网公布的投资组合及管理人信息，筛选与行业、发展阶段匹配的具体基金。 支持方式：股权投资。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../investors.rst:16
 msgid ""
@@ -92,7 +92,7 @@ msgid ""
 "guarantee of an investment review. Support: Equity investment. Address: "
 "Room 3901, Jinmao Tower, 88 Century Boulevard, Pudong | Tel: +86 21 "
 "61016522. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`启明创投 <entities/qiming>` （启明创投 · 投资机构 · 浦东新区 · 方向：软件人工智能、健康、硬件人工智能）—— 公布上海办公室的风险投资机构。可提交简明投资方案并确认行业与阶段匹配；综合邮箱不保证立项评审。 支持机制：股权投资。 地址：浦东新区世纪大道88号金茂大厦3901室｜电话：+86 21 61016522。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`启明创投 <entities/qiming>` （投资机构 · 浦东新区 · 方向：AI软件、健康、AI硬件）：设有上海办公室的风险投资机构。联系时可提交简明融资材料，并确认投资领域及阶段是否匹配；通过综合咨询渠道联系，不代表项目一定进入投资评审。 支持方式：股权投资。 地址：浦东新区世纪大道88号金茂大厦3901室｜电话：+86 21 61016522。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../investors.rst:17
 msgid ""
@@ -105,4 +105,4 @@ msgid ""
 "Management co-hosted the camp. Request the receiving manager and current "
 "investment terms; camp attendance is not an investment award. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`徐汇人工智能青年创业基金（青苗基金） <entities/qingmiao>` （徐汇人工智能青年创业基金（青苗基金） · 投资机构 · 徐汇区 · 方向：软件人工智能、硬件人工智能）—— 徐汇于2025年9月设立面向青年AI创业者的基金。2026年8月创业营对接早期AI团队、投资机构、科研及产业资源，由上海徐汇资本投资有限公司、上海徐汇科创投私募基金管理有限公司等共同主办。须索取接收项目的管理人及现行投资条款，参加创业营不代表获投。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`徐汇人工智能青年创业基金（青苗基金） <entities/qingmiao>` （投资机构 · 徐汇区 · 方向：AI软件、AI硬件）：徐汇于2025年9月设立面向青年AI创业者的基金。2026年8月创业营对接早期团队、投资机构、科研及产业资源，由上海徐汇资本投资有限公司、上海徐汇科创投私募基金管理有限公司等共同主办。需向具体管理人确认项目接收安排和投资条款，参加创业营不代表获得投资。【状态：机构信息已核实，当前是否接受申请需确认】"

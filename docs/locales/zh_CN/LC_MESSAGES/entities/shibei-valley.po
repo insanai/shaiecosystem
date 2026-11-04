@@ -26,11 +26,11 @@ msgstr "市北高新园区／数通链谷与大宁科创载体"
 
 #: ../../entities/shibei-valley.rst:6
 msgid "Technology park | Jing'an | Research checked 2026-11-04"
-msgstr "科技园区｜静安区｜研究核对日期 2026-11-04"
+msgstr "科技园区｜静安区｜资料核查日期 2026-11-04"
 
 #: ../../entities/shibei-valley.rst:8
 msgid "AI and industry focus: Software AI, Industry."
-msgstr "人工智能与产业方向：软件人工智能、产业。"
+msgstr "AI及产业方向：AI软件、产业。"
 
 #: ../../entities/shibei-valley.rst:10
 msgid ""
@@ -39,57 +39,57 @@ msgid ""
 "enterprise AI workspaces across Shibei Hi-Tech Park, Daning and Suhewan. "
 "Confirm the specific carrier operator, data-compliance services and "
 "tenancy terms."
-msgstr "静安2026至2028年人工智能示范区方案及载体布局以市北高新园区、数通链谷、大宁及苏河湾为核心，集聚大数据、区块链、云计算与企业级人工智能空间。申请前应确认具体运营主体、数据合规服务与入驻条款。"
+msgstr "静安2026至2028年AI示范区方案以市北高新、数通链谷、大宁和苏河湾等为核心，集聚大数据、区块链、云计算及企业级AI资源。申请前需明确具体运营主体、数据合规服务及入驻条款。"
 
 #: ../../entities/shibei-valley.rst:12
 msgid ""
 "`Evidence S053 "
 "<https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. "
 "静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
-msgstr "`证据 S053 <https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. 静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+msgstr "`资料来源 S053 <https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. 静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
 
 #: ../../entities/shibei-valley.rst:14
 msgid ""
 "`Evidence S054 "
 "<https://www.shanghai.gov.cn/nw15343/20250310/f8c67876d6cb459f8c8d353d70fe3f31.html>`_. "
 "静安大宁功能区举办“宁心荟”企业家沙龙暨优秀企业颁奖仪式｜营商in静安."
-msgstr "`证据 S054 <https://www.shanghai.gov.cn/nw15343/20250310/f8c67876d6cb459f8c8d353d70fe3f31.html>`_. 静安大宁功能区举办“宁心荟”企业家沙龙暨优秀企业颁奖仪式｜营商in静安."
+msgstr "`资料来源 S054 <https://www.shanghai.gov.cn/nw15343/20250310/f8c67876d6cb459f8c8d353d70fe3f31.html>`_. 静安大宁功能区举办“宁心荟”企业家沙龙暨优秀企业颁奖仪式｜营商in静安."
 
 #: ../../entities/shibei-valley.rst:16
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/shibei-valley.rst:19
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/shibei-valley.rst:21
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
-msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+msgstr "尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。"
 
 #: ../../entities/shibei-valley.rst:23
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/shibei-valley.rst:26
 msgid ""
 "`Official evidence and authority route "
 "<https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_"
-msgstr "`官方来源与主管部门入口 <https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_"
+msgstr "`官方资料及主管部门 <https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_"
 
 #: ../../entities/shibei-valley.rst:28
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/shibei-valley.rst:30
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/shibei-valley.rst:32
 msgid "Application workflow"
@@ -99,32 +99,32 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/shibei-valley.rst:37
 msgid "Send a project brief and request the current admission checklist."
-msgstr "发送项目简介，索取现行入驻清单。"
+msgstr "发送项目简介，索取最新入驻条件及材料清单。"
 
 #: ../../entities/shibei-valley.rst:39
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "完成运营方资格及技术或商业评审。"
+msgstr "按运营机构要求完成资格审核及技术或商业评审。"
 
 #: ../../entities/shibei-valley.rst:41
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "书面确认租金、服务费、知识产权、算力价格及任何股权权利。"
+msgstr "书面确认租金、服务费、知识产权、算力价格及股权相关条款。"
 
 #: ../../entities/shibei-valley.rst:43
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "签署入驻文件，记录里程碑与服务负责人。"
+msgstr "签署入驻协议，明确阶段目标和服务对接人。"
 
 #: ../../entities/shibei-valley.rst:45
 msgid ":doc:`Jing'an district route </districts/jingan>`"
-msgstr ":doc:`静安区对接路径 </districts/jingan>`"
+msgstr ":doc:`静安区合作指南 </districts/jingan>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

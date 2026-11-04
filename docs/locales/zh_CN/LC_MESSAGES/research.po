@@ -21,18 +21,14 @@ msgid "Research and technical platforms"
 msgstr "科研与技术平台"
 
 #: ../../research.rst:4
-
-#| msgid ""
-#| "10 profiles with evidence, contact routes and an application "
-#| "checklist. Published existence is distinguished from current intake."
 msgid ""
 "11 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "11份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。"
+msgstr "收录11家机构，附资料来源、联系方式和申请参考。机构信息已核实，不代表当前正在接受申请。"
 
 #: ../../research.rst:8
 msgid "Complete directory summary"
-msgstr "完整机构名录摘要"
+msgstr "机构目录概览"
 
 #: ../../research.rst:11
 msgid ""
@@ -43,7 +39,7 @@ msgid ""
 "services are selected on the official platform; a voucher is not a "
 "general equipment purchase budget. Tel: +86 21 61609878 ext. 217. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海集成电路技术与产业促进中心 <entities/icc>` （上海集成电路技术与产业促进中心 · 科研平台 · 浦东新区 · 方向：芯片、硬件人工智能）—— 集成电路技术服务入口，同时公布创新券指引。可抵扣服务应在官方平台核验，创新券并非通用设备采购预算。 电话：+86 21 61609878 ext. 217。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海集成电路技术与产业促进中心 <entities/icc>` （科研平台 · 浦东新区 · 方向：芯片、AI硬件）：提供集成电路技术服务，并公布科技创新券使用指引。可抵扣哪些服务，需在官方平台确认；创新券不能作为通用设备采购资金。 电话：+86 21 61609878 ext. 217。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../research.rst:12
 msgid ""
@@ -54,7 +50,7 @@ msgid ""
 "resources, collaboration and recruitment are separate pathways, not a "
 "generic startup grant. Address: L1, International Media Port, 129 Longwen "
 "Road, Xuhui. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海人工智能实验室 <entities/shlab>` （上海人工智能实验室 · 科研平台 · 徐汇区 · 方向：软件人工智能、科学智能）—— 开展人工智能基础及应用研究的科研机构。公开综合联系邮箱可用于初步对接；开源资源、科研合作与招聘为不同路径，并非通用创业补贴。 地址：徐汇区龙文路129号国际传媒港L1楼。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海人工智能实验室 <entities/shlab>` （科研平台 · 徐汇区 · 方向：AI软件、科学智能）：开展AI基础及应用研究的科研机构，可通过官网公开联系方式初步咨询。开源资源、科研合作和招聘各有对接渠道，不属于通用创业补贴。 地址：徐汇区龙文路129号国际传媒港L1楼。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../research.rst:13
 msgid ""
@@ -65,7 +61,7 @@ msgid ""
 "technical proposal should identify the platform, experiment, data and "
 "proposed industrial partner. Address: 3F, Building 2, Tongji Zhangjiang "
 "Base, 398 Lianchuang Road. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`同济大学上海自主智能无人系统科学中心 <entities/tongji-autonomy>` （同济大学上海自主智能无人系统科学中心 · 科研平台 · 浦东新区 · 方向：硬件人工智能、交通）—— 自主系统研究合作入口，公开办公地址位于张江。技术方案应说明平台、实验、数据及拟合作产业方。 地址：浦东新区联创路398号同济张江基地2号楼3楼。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`同济大学上海自主智能无人系统科学中心 <entities/tongji-autonomy>` （科研平台 · 浦东新区 · 方向：AI硬件、交通）：自主智能无人系统研究合作平台，公开办公地址位于张江。联系时宜提交技术方案，说明所需平台、实验、数据及拟合作的产业单位。 地址：浦东新区联创路398号同济张江基地2号楼3楼。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../research.rst:14
 msgid ""
@@ -76,7 +72,7 @@ msgid ""
 "rather than assuming access through general university admissions. "
 "Address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan Highway. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`同济大学PAI研究中心 <entities/tongji-pai>` （同济大学PAI研究中心 · 科研平台 · 嘉定区 · 方向：硬件人工智能、传感器）—— 中心公布定位、感知、通信及可信协同领域的产学研合作入口。本书使用合作联系渠道，不将普通招生入口视为产业合作入口。 地址：嘉定区曹安公路4800号同济大学智信馆。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`同济大学PAI研究中心 <entities/tongji-pai>` （科研平台 · 嘉定区 · 方向：AI硬件、传感器）：提供定位、感知、通信及可信协同领域的产学研合作渠道。本图谱采用合作咨询信息，不把普通招生渠道作为产业合作渠道。 地址：嘉定区曹安公路4800号同济大学智信馆。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../research.rst:15
 msgid ""
@@ -86,7 +82,7 @@ msgid ""
 "supporting process development, device verification and IP testing. "
 "Request a technical scoping review and written quotation for wafer or "
 "testing runs. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海集成电路研发中心 <entities/icrd>` （上海集成电路研发中心 · 科研平台 · 浦东新区 · 方向：芯片、硬件人工智能）—— 位于张江的集成电路公共研发与工程平台，支持工艺开发、器件验证与IP测试。流片或测试合作需申请技术评估与书面报价。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海集成电路研发中心 <entities/icrd>` （科研平台 · 浦东新区 · 方向：芯片、AI硬件）：位于张江的集成电路公共研发与工程平台，提供工艺开发、器件验证及IP测试服务。流片或测试合作需先完成技术评估，并索取书面报价。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../research.rst:16
 msgid ""
@@ -96,7 +92,7 @@ msgid ""
 "institution coordinating Shanghai's high-quality incubator cultivation "
 "system, innovation vouchers, technology SME filings and the Startup in "
 "Shanghai portal. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海市科技创业中心 <entities/shtic>` （上海市科技创业中心 · 科研平台 · 徐汇区 · 方向：软件人工智能、硬件人工智能、产业）—— 市级科技创业服务机构，统筹上海市高质量孵化器培育体系、科技创新券、科技型中小企业服务及“上海科创在线／创·在上海”平台。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海市科技创业中心 <entities/shtic>` （科研平台 · 徐汇区 · 方向：AI软件、AI硬件、产业）：市级科技创业服务机构，负责上海高质量孵化器培育、科技创新券、科技型中小企业服务，以及“上海科创在线／创·在上海”等平台相关工作。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../research.rst:17
 msgid ""
@@ -107,7 +103,7 @@ msgid ""
 "Center\" layout, connecting university engineering laboratories with "
 "Yangtze River Delta industrial applications. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海清华国际创新中心 <entities/tsinghua-shanghai>` （上海清华国际创新中心 · 科研平台 · 普陀区 · 方向：软件人工智能、硬件人工智能、芯片）—— 普陀区“一轴一园一中心”科创布局中的重大战略平台，连接高校工程实验室与长三角产业化应用场景。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海清华国际创新中心 <entities/tsinghua-shanghai>` （科研平台 · 普陀区 · 方向：AI软件、AI硬件、芯片）：普陀“一轴一园一中心”科创布局中的重点平台，连接高校工程实验室与长三角产业化应用资源。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../research.rst:18
 msgid ""
@@ -118,7 +114,7 @@ msgid ""
 "alongside district science authorities to support enterprise R&D centers "
 "in ecological tech, green manufacturing and smart agriculture. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`崇明区企业技术中心与生态科创平台 <entities/chongming-tech-center>` （崇明区企业技术中心与生态科创平台 · 科研平台 · 崇明区 · 方向：气候、农业、产业）—— 由崇明区经委（2026年5月发布第十四批申报）与区科委协同推进的企业研发平台路径，面向生态科技、绿色制造与智慧农业领域企业技术中心。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`崇明区企业技术中心与生态科创平台 <entities/chongming-tech-center>` （科研平台 · 崇明区 · 方向：气候、农业、产业）：崇明企业研发平台相关服务。区经委于2026年5月发布第十四批申报通知，区科委协同推进生态科技、绿色制造和智慧农业等领域的企业技术中心建设。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../research.rst:19
 msgid ""
@@ -131,7 +127,7 @@ msgid ""
 "validation. Ask for compatibility, queue, sample ownership, safety "
 "responsibilities and a written service quotation. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`国家地方共建人形机器人创新中心／中试服务平台 <entities/humanoid-pilot>` （国家地方共建人形机器人创新中心／中试服务平台 · 科研平台 · 浦东新区 · 方向：硬件人工智能、机器人、传感器）—— 国地中心将机器人数据采集、训练和真机验证，与联合上海电气建设的中试平台衔接。2026年7月公告介绍面向行业的试制、检测和场景验证服务。须确认设备兼容性、排期、样机归属、安全责任及书面报价。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`国家地方共建人形机器人创新中心／中试服务平台 <entities/humanoid-pilot>` （科研平台 · 浦东新区 · 方向：AI硬件、机器人、传感器）：国地中心将机器人数据采集、训练和真机验证，与联合上海电气建设的中试平台衔接。2026年7月公告介绍了试制、检测和场景验证服务。使用前需确认设备兼容性、排期、样机归属、安全责任及书面报价。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../research.rst:20
 msgid ""
@@ -144,7 +140,7 @@ msgid ""
 "incubator or an open funding call. Ask the organizer about the next "
 "startup selection, exhibition fees and investor sessions. [Status: "
 "Historical / confirm continuation]"
-msgstr ":doc:`世界人工智能大会／Future Tech创投生态 <entities/waic-future-tech>` （世界人工智能大会／Future Tech创投生态 · 科研平台 · 全市／全球 · 方向：软件人工智能、硬件人工智能、机器人、科学智能）—— 2026世界人工智能大会设置Future Tech创投生态，对接入选创业团队与投资机构。2026年7月活动已结束，本条用于联系大会及后续活动，并非常设孵化器或正在开放的资助申报。请向主办方咨询下一期项目征集、参展收费及投资人对接活动。【状态：历史项目，须确认延续】"
+msgstr ":doc:`世界人工智能大会／Future Tech创投生态 <entities/waic-future-tech>` （科研平台 · 全市／全球 · 方向：AI软件、AI硬件、机器人、科学智能）：2026世界人工智能大会设置Future Tech创投生态，对接入选创业团队与投资机构。2026年7月活动已结束，本条供咨询后续活动时参考，并非常设孵化器或正在受理的资助项目。下一期项目征集、参展费用及投资人对接安排，需向主办方确认。【状态：历史项目，是否延续需确认】"
 
 #: ../../research.rst:21
 msgid ""
@@ -159,4 +155,4 @@ msgid ""
 "entity, customs boundary, sector permissions and data handling before "
 "incurring costs. This is a service and collaboration route; the plan is "
 "not a cash-award offer. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`外高桥保税研发与AI健康创新服务 <entities/waigaoqiao-innovation>` （外高桥保税研发与AI健康创新服务 · 科研平台 · 浦东新区 · 方向：科学智能、健康、硬件人工智能、机器人）—— 2025-2026年自贸保税园行动方案明确支持AI制药、医疗器械跨境研发、高端装备创新及外资研发机构。境外AI和硬件企业可通过主管部门探索本地科研、测试及成果转化合作。发生费用前须核实具体运营方、法人主体、海关监管边界、行业许可及数据处理要求。本条属于服务与合作渠道，规划并非现金资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`外高桥保税研发与AI健康创新服务 <entities/waigaoqiao-innovation>` （科研平台 · 浦东新区 · 方向：科学智能、健康、AI硬件、机器人）：2025至2026年自贸保税园行动方案支持AI制药、医疗器械跨境研发、高端装备创新及外资研发机构。境外AI及硬件企业可通过主管部门咨询本地科研、测试和成果转化合作。发生费用前，应确认运营主体、本地法人要求、海关监管范围、行业许可及数据处理规定。此处列为服务与合作渠道，规划本身不代表现金资助。【状态：机构信息已核实，当前是否接受申请需确认】"

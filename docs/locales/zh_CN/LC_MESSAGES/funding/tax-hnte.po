@@ -26,23 +26,18 @@ msgstr "税收优惠｜全市／全球"
 
 #: ../../funding/tax-hnte.rst:6
 msgid "Published tax guidance; recognition required"
-msgstr "税务指引已公布，须认定"
+msgstr "税收指引已公布，需取得相关认定"
 
 #: ../../funding/tax-hnte.rst:8
-
-#| msgid ""
-#| "`Evidence S106 "
-#| "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
-#| "上海市“2366”产业税收优惠政策指引."
 msgid ""
 "`Evidence S109 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
 "上海市“2366”产业税收优惠政策指引."
-msgstr "`证据 S109 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+msgstr "`资料来源 S109 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
 
 #: ../../funding/tax-hnte.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/tax-hnte.rst:13
 msgid "15% corporate income tax for qualifying recognized enterprises"
@@ -54,62 +49,62 @@ msgstr "不占股"
 
 #: ../../funding/tax-hnte.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/tax-hnte.rst:20
 msgid ""
 "Recognition and continued compliance are required. Review IP, personnel, "
 "R&D, revenue mix and annual reporting; not all AI companies qualify."
-msgstr "须通过认定并持续合规，审核知识产权、人员、研发、收入结构及年度报告，并非所有人工智能企业均符合。"
+msgstr "需通过高新技术企业认定并持续满足相关要求，涉及知识产权、人员、研发、收入结构及年度报告等。AI企业并不一定都符合条件。"
 
 #: ../../funding/tax-hnte.rst:22
 msgid "Recognition batches and annual filing"
-msgstr "按认定批次及年度申报"
+msgstr "按认定批次及年度申报要求办理"
 
 #: ../../funding/tax-hnte.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/tax-hnte.rst:27
 msgid ""
 "`Official application / policy route <https://shanghai.chinatax.gov.cn/>`_"
-msgstr "`官方申请／政策入口 <https://shanghai.chinatax.gov.cn/>`_"
+msgstr "`官方申请渠道及政策文件 <https://shanghai.chinatax.gov.cn/>`_"
 
 #: ../../funding/tax-hnte.rst:29
 msgid ""
 "The linked authority or operator is the contact route. A direct current "
 "program contact is not established in this profile."
-msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+msgstr "请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。"
 
 #: ../../funding/tax-hnte.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/tax-hnte.rst:33
 msgid ""
 "Check the current tax rules and recognition or accounting requirements."
-msgstr "核验现行税规、认定或核算要求。"
+msgstr "确认现行税收规定，以及认定和核算要求。"
 
 #: ../../funding/tax-hnte.rst:35
 msgid ""
 "Maintain qualifying R&D and income records with a qualified tax adviser."
-msgstr "与合资格税务顾问维护研发及收入记录。"
+msgstr "与具备相应资质的税务顾问一起维护研发及收入记录。"
 
 #: ../../funding/tax-hnte.rst:37
 msgid ""
 "Complete recognition where required and claim in the correct tax filing."
-msgstr "按要求完成认定，在正确纳税申报中享受优惠。"
+msgstr "按要求完成认定，并在对应纳税申报中办理优惠。"
 
 #: ../../funding/tax-hnte.rst:39
 msgid ""
 "Retain evidence for review and separate tax savings from cash grants."
-msgstr "留存备查证据，区分税收节省与现金补助。"
+msgstr "留存备查资料，区分税收减免与现金补助。"
 
 #: ../../funding/tax-hnte.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

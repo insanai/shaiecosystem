@@ -22,32 +22,27 @@ msgstr "2026奉贤研发费用增长补贴"
 
 #: ../../funding/fengxian-rd-increase.rst:4
 msgid "Reimbursement | Fengxian"
-msgstr "报销支持｜奉贤区"
+msgstr "费用补贴｜奉贤区"
 
 #: ../../funding/fengxian-rd-increase.rst:6
 msgid "Closed"
 msgstr "已截止"
 
 #: ../../funding/fengxian-rd-increase.rst:8
-
-#| msgid ""
-#| "`Evidence S122 "
-#| "<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. "
-#| "奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
 msgid ""
 "`Evidence S125 "
 "<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. "
 "奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
-msgstr "`证据 S125 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
+msgstr "`资料来源 S125 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
 
 #: ../../funding/fengxian-rd-increase.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/fengxian-rd-increase.rst:13
 msgid ""
 "30% of the qualifying annual R&D net increase, capped at RMB 1 million"
-msgstr "合资格年度研发净增部分30%，最高100万元"
+msgstr "符合条件的年度研发净增部分30%，最高100万元"
 
 #: ../../funding/fengxian-rd-increase.rst:15
 msgid "No equity"
@@ -55,7 +50,7 @@ msgstr "不占股"
 
 #: ../../funding/fengxian-rd-increase.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/fengxian-rd-increase.rst:20
 msgid ""
@@ -63,7 +58,7 @@ msgid ""
 "2024 and 2025 tax finalization and R&D super-deduction schedules are "
 "required. Submit online and route the paper pack through the recommending "
 "unit."
-msgstr "有效期内高企或2025年入库科技型中小企业，须完成2024及2025年汇算清缴和研发加计扣除明细；线上申报并经推荐单位递交纸质材料。"
+msgstr "有效期内的高新技术企业，或2025年入库的科技型中小企业。需完成2024及2025年度汇算清缴，并提供研发费用加计扣除明细，线上申报后经推荐单位递交纸质材料。"
 
 #: ../../funding/fengxian-rd-increase.rst:22
 msgid ""
@@ -73,50 +68,50 @@ msgstr "线上已于2026年6月17日17:00截止，纸质已于6月30日17:00截�
 
 #: ../../funding/fengxian-rd-increase.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/fengxian-rd-increase.rst:27
 msgid ""
 "`Official application / policy route <https://fxkjxmxt.cn/website/>`_"
-msgstr "`官方申请／政策入口 <https://fxkjxmxt.cn/website/>`_"
+msgstr "`官方申请渠道及政策文件 <https://fxkjxmxt.cn/website/>`_"
 
 #: ../../funding/fengxian-rd-increase.rst:29
 msgid "Published consultation: +86 21 33610530."
-msgstr "公布咨询电话：+86 21 33610530。"
+msgstr "咨询电话：+86 21 33610530。"
 
 #: ../../funding/fengxian-rd-increase.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/fengxian-rd-increase.rst:33
 msgid ""
 "Confirm the actual category, area boundary, supplier and eligible "
 "expenditure period."
-msgstr "确认实际类别、范围、供应商及合资格支出期间。"
+msgstr "确认服务券类别、使用范围、服务商及认可的费用发生期间。"
 
 #: ../../funding/fengxian-rd-increase.rst:35
 msgid ""
 "Keep service contracts, invoices, payment evidence and itemized usage "
 "logs."
-msgstr "保留服务合同、发票、付款凭证及明细用量记录。"
+msgstr "留存服务合同、发票、付款凭证和详细使用记录。"
 
 #: ../../funding/fengxian-rd-increase.rst:37
 msgid ""
 "Use the named platform and current batch; obtain the required district or "
 "operator review."
-msgstr "使用指定平台及当前批次，完成规定区级或运营方审核。"
+msgstr "通过指定平台申报当前批次，并按要求完成区级或运营机构审核。"
 
 #: ../../funding/fengxian-rd-increase.rst:39
 msgid ""
 "Check approved amount, duplicate-funding exclusions and payment "
 "conditions."
-msgstr "核验认可额度、重复资助限制及拨付条件。"
+msgstr "确认核定额度、重复资助限制及资金拨付条件。"
 
 #: ../../funding/fengxian-rd-increase.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

@@ -91,7 +91,7 @@ function source(fragment) {
   return existing;
 }
 
-const EV_WORD = { zh_CN: '证据', hi: 'साक्ष्य', ja: '出典', ko: '근거', de: 'Nachweis', es: 'Evidencia' };
+const EV_WORD = { zh_CN: '资料来源', hi: 'साक्ष्य', ja: '出典', ko: '근거', de: 'Nachweis', es: 'Evidencia' };
 function evidence(fragment) {
   const s = source(fragment);
   const lnk = link(
@@ -107,14 +107,14 @@ function evidence(fragment) {
 
 const labels = {
   'Incubator': '孵化器', 'Accelerator': '加速器', 'Technology park': '科技园区', 'Research platform': '科研平台', 'Corporate program': '企业创新计划', 'Global program': '全球计划', 'Investor': '投资机构', 'University': '高校', 'Government': '政府部门',
-  'Software AI': '软件人工智能', 'Hardware AI': '硬件人工智能', 'Chips': '芯片', 'Sensors': '传感器', 'Robotics': '机器人', 'Health': '健康', 'AI for Science': '科学智能', 'Industry': '产业', 'Mobility': '交通', 'Materials': '材料', 'Drones': '无人机', 'Climate': '气候', 'Agriculture': '农业', 'Consumer': '消费',
-  'Grant': '补助', 'Reimbursement': '报销支持', 'Loan': '贷款', 'Equity investment': '股权投资', 'Tax relief': '税收优惠', 'Competition': '比赛', 'In-kind services': '实物与服务支持', 'Cloud credits': '云积分', 'Loan / insurance': '贷款与保险', 'Grant / market access': '补助与市场准入',
-  'Grant / reimbursement': '补助与报销', 'Convertible support': '可转股支持', 'Potential equity conversion; review contract': '可能转为股权，须审核协议',
-  'Published directory; lender review': '目录已公布，须贷款方审核',
-  'No equity': '不占股', 'No equity; repayable': '不占股，须偿还', 'Temporary equity; original-price exit': '临时股权，原价退出', 'Award / investment terms vary': '奖励与投资条款各异', 'No equity stated in offer; verify terms': '所述方案无股权要求，须核验协议', 'Verify current agreement': '核验现行协议', 'Negotiated equity': '协商股权', 'No equity; product obligations apply': '不占股，适用产品义务', 'No equity for qualifying public support': '合资格财政支持不占股',
-  'Program published; eligibility review': '项目已公布，须资格审核', 'Historical / confirm continuation': '历史项目，须确认延续', 'Regional eligibility to confirm': '地区资格待确认', 'Published entity; intake to confirm': '机构有来源，招募待确认',
-  'Services / possible incentives': '空间服务／潜在政策激励', 'Equity-free services': '不占股服务', 'Loan / temporary equity': '贷款／临时股权',
-  'Closed': '已截止', 'Policy in force; confirm service and order': '政策有效，须核验服务与订单', 'Policy in force; call not confirmed open': '政策有效，未确认正在申报', 'Published policy; implementing intake to confirm': '政策已公布，实施受理待确认', 'Published service; current terms to confirm': '服务已公布，现行条款待确认', 'Published tax guidance; applicability review': '税务指引已公布，适用性待核验', 'Published tax guidance; recognition required': '税务指引已公布，须认定', '2026 call published; deadline check required': '2026通知已公布，须核验截止日', '2026 competition published; track intake to confirm': '2026赛事已公布，赛道受理待确认', '2026 call published; not confirmed open': '2026通知已公布，未确认正在受理', 'Fund announced; deal intake to confirm': '基金已公布，项目受理待确认', 'Published investment platform; deal review': '投资平台已公布，须项目审核', 'Quarterly scheme published; current intake to confirm': '季度机制已公布，当前批次待确认', 'First 2026 batch closed; later batches to verify': '2026首批已截止，后续批次待核验', '2026 directory published; lender review': '2026清单已公布，须贷款方审核', 'Published route; current call to confirm': '路径已公布，现行申报待确认',
+  'Software AI': 'AI软件', 'Hardware AI': 'AI硬件', 'Chips': '芯片', 'Sensors': '传感器', 'Robotics': '机器人', 'Health': '健康', 'AI for Science': '科学智能', 'Industry': '产业', 'Mobility': '交通', 'Materials': '材料', 'Drones': '无人机', 'Climate': '气候', 'Agriculture': '农业', 'Consumer': '消费',
+  'Grant': '补助', 'Reimbursement': '费用补贴', 'Loan': '贷款', 'Equity investment': '股权投资', 'Tax relief': '税收优惠', 'Competition': '比赛', 'In-kind services': '实物及服务支持', 'Cloud credits': '云服务额度', 'Loan / insurance': '贷款与保险', 'Grant / market access': '补助与市场准入',
+  'Grant / reimbursement': '补助与费用补贴', 'Convertible support': '可转股支持', 'Potential equity conversion; review contract': '可能转为股权，须审核协议',
+  'Published directory; lender review': '目录已公布，须贷款机构审核',
+  'No equity': '不占股', 'No equity; repayable': '不要求出让股权，需还款', 'Temporary equity; original-price exit': '临时持股，期满按原出资额退出', 'Award / investment terms vary': '奖励与投资条件分别约定', 'No equity stated in offer; verify terms': '公布方案未要求出让股权，具体以协议为准', 'Verify current agreement': '以现行协议为准', 'Negotiated equity': '股权比例由双方协商', 'No equity; product obligations apply': '不要求出让股权，需遵守产品使用条款', 'No equity for qualifying public support': '符合条件的财政支持不要求出让股权',
+  'Program published; eligibility review': '已公布，需审核申请资格', 'Historical / confirm continuation': '历史项目，是否延续需确认', 'Regional eligibility to confirm': '地区适用条件需确认', 'Published entity; intake to confirm': '机构信息已核实，当前是否接受申请需确认',
+  'Services / possible incentives': '场地及服务支持，可能另有政策优惠', 'Equity-free services': '无需出让股权的服务支持', 'Loan / temporary equity': '贷款或临时持股资助',
+  'Closed': '已截止', 'Policy in force; confirm service and order': '政策有效，适用服务及订单需确认', 'Policy in force; call not confirmed open': '政策有效，当前是否受理需确认', 'Published policy; implementing intake to confirm': '政策已公布，实施细则及受理安排需确认', 'Published service; current terms to confirm': '服务已公布，最新条款需确认', 'Published tax guidance; applicability review': '税收指引已公布，是否适用需确认', 'Published tax guidance; recognition required': '税收指引已公布，需取得相关认定', '2026 call published; deadline check required': '2026年通知已公布，需确认截止时间', '2026 competition published; track intake to confirm': '2026年赛事已公布，具体赛道报名时间需确认', '2026 call published; not confirmed open': '2026年通知已公布，当前是否受理需确认', 'Fund announced; deal intake to confirm': '基金已公布，项目接收安排需确认', 'Published investment platform; deal review': '投资平台已公布，需进行项目审核', 'Quarterly scheme published; current intake to confirm': '按季度申报，当前批次需确认', 'First 2026 batch closed; later batches to verify': '2026年首批已截止，后续批次需确认', '2026 directory published; lender review': '2026年清单已公布，需经贷款机构审核', 'Published route; current call to confirm': '支持渠道已公布，最新申报安排需确认',
 };
 const lbl = (s, lang) => {
   if (!s) return '';
@@ -146,7 +146,7 @@ const dnoteL = (d, lang) => lang === 'zh_CN' ? d.noteZh : (i18nData[lang]?.distr
 
 function workflow(key) {
   const k = key || 'incubation';
-  let s = p('Editorial application checklist. The current official notice or agreement controls the actual procedure.', '编辑申请清单，实际流程以现行官方通知或协议为准。');
+  let s = p('Editorial application checklist. The current official notice or agreement controls the actual procedure.', '以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。');
   for (const [idx, [en, zh]] of workflows[k].entries()) {
     s += `#. ${register(en, {
       zh_CN: zh,
@@ -182,11 +182,11 @@ const universityEntities = universities.map(([uid, name, zh, district, domain, f
     sectors: [],
     website: `https://${domain === 'shanghai.nyu.edu' ? '' : 'www.'}${domain}/`,
     summary: `Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: ${fit}. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.`,
-    summaryZh: `列入教育部2026年6月高校名录。建议合作主题：${fitZh}。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。`,
+    summaryZh: `该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：${fitZh}。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。`,
     workflow: 'research',
     code: record.code,
     contact: 'Official university website; request the technology-transfer, research cooperation or entrepreneurship office',
-    contactZh: '通过高校官网咨询技术转移、科研合作或创业部门',
+    contactZh: '通过学校官网联系技术转移、科研合作或创业服务部门',
     ...info,
     source: info.source || 'moe.gov.cn/jyb_xxgk',
     sourceDetail: info.sourceDetail || (info.source ? 'moe.gov.cn/jyb_xxgk' : undefined),
@@ -256,19 +256,19 @@ function translateDeadline(s, lang = 'zh_CN') {
     'Policy: 9 Dec 2025 to 8 Dec 2030': '政策有效期：2025年12月9日至2030年12月8日',
     'Closed 31 Aug 2026, 16:00 China Standard Time': '已于2026年8月31日中国标准时间16:00截止',
     'Policy through 31 Aug 2030': '政策有效期至2030年8月31日',
-    'Confirm applicable implementing notice': '核验适用实施通知',
+    'Confirm applicable implementing notice': '确认适用的实施通知',
     'Confirm branch intake and review schedule': '确认受理分会及评审安排',
-    'Confirm current HRSS service rules': '核验现行人社服务规则',
-    'Annual tax filing and applicable rules': '按年度纳税申报及适用规则',
-    'Recognition batches and annual filing': '按认定批次及年度申报',
-    'Check the specific 2026 track; not labelled open': '核验2026年具体赛道，不标记正在开放',
+    'Confirm current HRSS service rules': '确认现行人社办理规定',
+    'Annual tax filing and applicable rules': '按年度纳税申报要求及适用规定办理',
+    'Recognition batches and annual filing': '按认定批次及年度申报要求办理',
+    'Check the specific 2026 track; not labelled open': '需确认2026年具体赛道的报名安排，未标注为正在报名',
     'Confirm track and division dates': '确认赛道及分赛区日期',
     'Confirm category deadline and host review': '确认类别截止日期及依托单位审核',
-    'Online application; regional eligibility review': '在线申请，须地区资格审核',
-    'Confirm current package and expiration': '确认现行支持包及到期',
-    'Confirm current application and credit validity': '确认现行申请及积分有效期',
+    'Online application; regional eligibility review': '在线申请，地区适用资格需审核',
+    'Confirm current package and expiration': '确认最新权益方案及有效期',
+    'Confirm current application and credit validity': '确认最新申请条件及服务额度有效期',
     'Manager-led sourcing and due diligence': '管理人开展项目筛选与尽调',
-    'Investment committee process; no guaranteed award': '经投委会程序，不保证获资',
+    'Investment committee process; no guaranteed award': '须经投委会审议，不保证获得投资',
     'Quarterly claims; confirm the current batch': '按季度申报，确认当前批次',
     'First batch closed 27 May 2026, 16:00 China Standard Time; notice plans quarterly follow-ups': '首批已于2026年5月27日中国标准时间16:00截止，通知计划后续按季度受理',
     'Product-specific': '依具体产品',
@@ -336,13 +336,13 @@ for (const [id, c] of Object.entries(chapters)) {
 
 // 2. Districts Index & 16 District Chapters
 const onlyHtml = s => '.. only:: html\n\n' + s.trimEnd().split('\n').map(l => l ? '   ' + l : '').join('\n') + '\n\n';
-let districtIndex = heading('Sixteen districts, sixteen entry routes', '十六区，十六条对接路径') +
-  p('Every district has a chapter. We begin with its documented specialization and receiving authority, then follow the local organizations and district funding routes. An official portal remains the contact route when no current named officer or direct intake form is established.', '每个区均设章节，从有来源的产业方向和主管部门出发，再了解本地机构与区级融资与扶持渠道。尚无经核实现任联系人或直接表格时，以官方门户作为联系入口。');
+let districtIndex = heading('Sixteen districts, sixteen entry routes', '上海16区创新指南') +
+  p('Every district has a chapter. We begin with its documented specialization and receiving authority, then follow the local organizations and district funding routes. An official portal remains the contact route when no current named officer or direct intake form is established.', '各区章节先介绍产业方向及主管部门，再列出本地机构和融资扶持项目，并附资料来源。尚未确认具体联系人或申请表时，可先通过政府官网咨询。');
 districtIndex += onlyHtml('.. figure:: _static/atlas/shanghai-map.svg\n   :alt: Illustrative Shanghai district map, with numbered district anchors and a bilingual legend.\n   :width: 100%\n\n   ' +
-  trS('All 16 administrative districts of Shanghai, with numbered anchors corresponding to the directory below.', '上海全部16个行政区示意图，编号锚点对应下方名录。') + '\n');
+  trS('All 16 administrative districts of Shanghai, with numbered anchors corresponding to the directory below.', '上海16个行政区示意图，参考点编号与下方目录对应。') + '\n');
 
 const DIST_BULLET_TPL = {
-  zh_CN: (num, dLink, d, focus, owner, phone, note, lc, fc) => `**[${num}]** ${dLink} （${d.zh}）—— **${focus}**。受理部门：${owner}。${phone ? ` 公布电话：${phone}。` : ''}政策与载体说明：${note}（本区收录 ${lc} 家机构、${fc} 条区级融资与扶持渠道）。`,
+  zh_CN: (num, dLink, d, focus, owner, phone, note, lc, fc) => `**[${num}]** ${dLink} **${focus}**。受理部门：${owner}。${phone ? ` 联系电话：${phone}。` : ''}政策与园区信息：${note}（本区收录 ${lc} 家机构、${fc} 条区级融资与扶持渠道）。`,
   hi: (num, dLink, d, focus, owner, phone, note, lc, fc) => `**[${num}]** ${dLink} (${d.zh}) — **${focus}**। नोडल प्राधिकरण: ${owner}.${phone ? ` प्रकाशित फ़ोन: ${phone}.` : ''} नीति व कैरियर विवरण: ${note} (${lc} स्थानीय संस्थान, ${fc} ज़िला वित्तपोषण मार्ग)।`,
   ja: (num, dLink, d, focus, owner, phone, note, lc, fc) => `**[${num}]** ${dLink} （${d.zh}）— **${focus}**。担当窓口：${owner}。${phone ? ` 公開電話：${phone}。` : ''}政策・拠点注記：${note}（区内機関 ${lc} 件、区独自の資金ルート ${fc} 件）。`,
   ko: (num, dLink, d, focus, owner, phone, note, lc, fc) => `**[${num}]** ${dLink} (${d.zh}) — **${focus}**. 담당 부처: ${owner}.${phone ? ` 공개 전화: ${phone}.` : ''} 정책 및 거점 안내: ${note} (관내 기관 ${lc}개, 구 단위 자금 경로 ${fc}개).`,
@@ -367,7 +367,7 @@ districtIndex += '\n.. toctree::\n   :hidden:\n\n' + districts.map(d => '   dist
 write('docs/districts.rst', districtIndex);
 
 const PUB_CONTACT_TPL = {
-  zh_CN: ph => `已公布联系电话：${ph}。`,
+  zh_CN: ph => `联系电话：${ph}。`,
   hi: ph => `प्रकाशित संपर्क: ${ph}।`,
   ja: ph => `公開連絡先：${ph}。`,
   ko: ph => `공개 연락처: ${ph}.`,
@@ -375,7 +375,7 @@ const PUB_CONTACT_TPL = {
   es: ph => `Contacto publicado: ${ph}.`
 };
 const DIST_ORG_BULLET_TPL = {
-  zh_CN: (eLink, e, cat, sec, sum, st) => `${eLink} （${e.zh} · ${cat}${sec}）—— ${sum}【状态：${st}】`,
+  zh_CN: (eLink, e, cat, sec, sum, st) => `${eLink} （${cat}${sec}）： ${sum}【状态：${st}】`,
   hi: (eLink, e, cat, sec, sum, st) => `${eLink} (${e.zh} · ${cat}${sec}) — ${sum} [स्थिति: ${st}]`,
   ja: (eLink, e, cat, sec, sum, st) => `${eLink} （${e.zh} · ${cat}${sec}）— ${sum}［ステータス：${st}］`,
   ko: (eLink, e, cat, sec, sum, st) => `${eLink} (${e.zh} · ${cat}${sec}) — ${sum} [상태: ${st}]`,
@@ -383,7 +383,7 @@ const DIST_ORG_BULLET_TPL = {
   es: (eLink, e, cat, sec, sum, st) => `${eLink} (${e.zh} · ${cat}${sec}) — ${sum} [Estado: ${st}]`
 };
 const DIST_FUND_BULLET_TPL = {
-  zh_CN: (fLink, f, tp, eq, amt, st, dl) => `${fLink} （${f.zh} · ${tp} · ${eq}）—— ${amt}。状态：${st}。时间：${dl}。`,
+  zh_CN: (fLink, f, tp, eq, amt, st, dl) => `${fLink} （${tp} · ${eq}）： ${amt}。状态：${st}。时间：${dl}。`,
   hi: (fLink, f, tp, eq, amt, st, dl) => `${fLink} (${f.zh} · ${tp} · ${eq}) — ${amt}। स्थिति: ${st}। समय-सीमा: ${dl}।`,
   ja: (fLink, f, tp, eq, amt, st, dl) => `${fLink} （${f.zh} · ${tp} · ${eq}）— ${amt}。ステータス：${st}。時期：${dl}。`,
   ko: (fLink, f, tp, eq, amt, st, dl) => `${fLink} (${f.zh} · ${tp} · ${eq}) — ${amt}. 상태: ${st}. 일정: ${dl}.`,
@@ -396,18 +396,18 @@ for (const d of districts) {
     p(d.focus, Object.fromEntries(LANGS.map(l => [l, dfocusL(d, l)]))) +
     p(d.note, Object.fromEntries(LANGS.map(l => [l, dnoteL(d, l)]))) +
     evidence(d.source);
-  s += heading('Who receives the inquiry', '咨询受理', 1) +
+  s += heading('Who receives the inquiry', '联系哪个部门', 1) +
     p(d.owner, Object.fromEntries(LANGS.map(l => [l, downerL(d, l)])));
   const webLink = link('Official district website', '区政府官网', `https://www.${d.domain}/`);
   s += p(webLink, Object.fromEntries(LANGS.map(l => [l, maps[l].get(webLink)])));
   if (d.phone) {
     s += p(`Published contact: ${d.phone}.`, Object.fromEntries(LANGS.map(l => [l, PUB_CONTACT_TPL[l](d.phone)])));
   } else {
-    s += p("Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.", "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。");
+    s += p("Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.", "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。");
   }
-  s += heading('Before applying', '申请之前', 1) + workflow('grant');
-  s += p('Ask which current notice governs the project, whether registration and actual operations must both be in the district, which expenditure period is eligible, and whether previous municipal or district awards exclude a claim. Obtain the answer before moving a company or incurring costs.', '询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。');
-  s += heading('Local organizations in this atlas', '本图谱中的本区机构', 1);
+  s += heading('Before applying', '申请前需确认', 1) + workflow('grant');
+  s += p('Ask which current notice governs the project, whether registration and actual operations must both be in the district, which expenditure period is eligible, and whether previous municipal or district awards exclude a claim. Obtain the answer before moving a company or incurring costs.', '申请前应确认适用的最新通知，企业注册地和实际经营地是否都须在本区，哪些期间的费用可以申报，以及已获市级或区级资助是否影响本次申请。企业迁址或发生支出前，应先取得明确答复。');
+  s += heading('Local organizations in this atlas', '本区收录机构', 1);
   const local = allEntities.filter(e => e.district === d.id && e.category !== 'Government');
   for (const e of local) {
     const eLink = doc(e.name, Object.fromEntries(LANGS.map(l => [l, eNameL(e, l)])), `/entities/${e.id}`);
@@ -439,7 +439,7 @@ for (const d of districts) {
 
 // 3. Category directories and organization profiles
 const GROUP_COUNT_TPL = {
-  zh_CN: n => `${n}份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。`,
+  zh_CN: n => `收录${n}家机构，附资料来源、联系方式和申请参考。机构信息已核实，不代表当前正在接受申请。`,
   hi: n => `साक्ष्य, संपर्क मार्ग और आवेदन चेकलिस्ट के साथ ${n} प्रोफ़ाइल। प्रकाशित अस्तित्व और वर्तमान प्रवेश को अलग-अलग दर्शाया गया है।`,
   ja: n => `出典、連絡ルート、申請チェックリスト付きの ${n} 件のプロファイル。機関の存在と現在の募集状況は区別して記載しています。`,
   ko: n => `출처, 연락 경로 및 신청 체크리스트가 포함된 ${n}개의 프로필. 기관의 존재 여부와 현재 모집 여부는 구분하여 표기합니다.`,
@@ -451,9 +451,9 @@ const groups = [
   ['universities', 'Universities and commercialization', '高校与成果转化', ['University']],
   ['incubation', 'Incubators, accelerators and parks', '孵化器、加速器及园区', ['Incubator', 'Accelerator', 'Technology park']],
   ['research', 'Research and technical platforms', '科研与技术平台', ['Research platform']],
-  ['corporate', 'Corporate and global programs', '企业与全球计划', ['Corporate program', 'Global program']],
+  ['corporate', 'Corporate and global programs', '企业创新与全球项目', ['Corporate program', 'Global program']],
   ['investors', 'Investors and patient capital', '投资机构与耐心资本', ['Investor']],
-  ['government', 'Government entry points', '政府对接入口', ['Government']]
+  ['government', 'Government entry points', '政府部门与咨询渠道', ['Government']]
 ];
 
 for (const [id, title, zh, categories] of groups) {
@@ -462,14 +462,14 @@ for (const [id, title, zh, categories] of groups) {
     p(`${list.length} profiles with evidence, contact routes and an application checklist. Published existence is distinguished from current intake.`,
       Object.fromEntries(LANGS.map(l => [l, GROUP_COUNT_TPL[l](list.length)])));
   if (id === 'universities') {
-    s += p('All 40 undergraduate institutions in the official Shanghai register have an institutional profile here. Some have documented science-park or technology-transfer contacts; others have a general institutional route. A profile does not assert that a dedicated startup program is open.', '官方上海名录中的40所本科院校均有机构档案。部分有科技园或技术转移联系渠道，其他仅有机构对接入口。档案不代表专属创业项目正在开放。');
+    s += p('All 40 undergraduate institutions in the official Shanghai register have an institutional profile here. Some have documented science-park or technology-transfer contacts; others have a general institutional route. A profile does not assert that a dedicated startup program is open.', '收录官方名录中的上海40所本科院校。部分学校已提供科技园或技术转移部门的联系方式，其余可先通过学校官网咨询。收录学校信息，不代表该校有正在接受申请的创业项目。');
     const regDoc = doc('Full higher-education register, including diploma and adult institutions', '含专科与成人高校的完整名录', 'university-register');
     s += p(regDoc, Object.fromEntries(LANGS.map(l => [l, maps[l].get(regDoc)])));
   }
   if (id === 'corporate') {
-    s += p('Global programs are kept separate from local offices. Their China-region eligibility, service availability and account rules require direct verification. Historical corporate cohorts are marked.', '全球计划与本地办公室区分，中国地区资格、服务及账户规则须直接核实。历史企业招募另行标注。');
+    s += p('Global programs are kept separate from local offices. Their China-region eligibility, service availability and account rules require direct verification. Historical corporate cohorts are marked.', '全球项目与上海本地办公机构分别说明。中国区的申请条件、服务范围及账户规则，应向运营方确认；历史批次另作标注。');
   }
-  let htmlDir = heading('Complete directory summary', '完整机构名录摘要', 1);
+  let htmlDir = heading('Complete directory summary', '机构目录概览', 1);
   for (const e of list) {
     const eLink = doc(e.name, Object.fromEntries(LANGS.map(l => [l, eNameL(e, l)])), `entities/${e.id}`);
     const codeEn = e.code ? ` · MOE code ${e.code}` : '';
@@ -482,11 +482,11 @@ for (const [id, title, zh, categories] of groups) {
       const codeL = e.code ? (l === 'zh_CN' ? ` · 标识码 ${e.code}` : ` · MOE ${e.code}`) : '';
       const sep = l === 'zh_CN' || l === 'ja' ? '、' : ', ';
       const secL = e.sectors?.length ? (l === 'zh_CN' ? ` · 方向：${e.sectors.map(x => lbl(x, l)).join(sep)}` : ` · ${e.sectors.map(x => lbl(x, l)).join(sep)}`) : '';
-      const mechL = e.funding ? (l === 'zh_CN' ? ` 支持机制：${lbl(e.funding, l)}。` : ` [${lbl(e.funding, l)}].`) : e.support ? (l === 'zh_CN' ? ` 支持说明：${lbl(e.support, l)}。` : ` [${lbl(e.support, l)}].`) : '';
+      const mechL = e.funding ? (l === 'zh_CN' ? ` 支持方式：${lbl(e.funding, l)}。` : ` [${lbl(e.funding, l)}].`) : e.support ? (l === 'zh_CN' ? ` 支持说明：${lbl(e.support, l)}。` : ` [${lbl(e.support, l)}].`) : '';
       const addrL = eAddressL(e, l);
       const bitsL = [addrL ? (l === 'zh_CN' ? `地址：${addrL}` : addrL) : '', e.phone ? (l === 'zh_CN' ? `电话：${e.phone}` : `Tel: ${e.phone}`) : ''].filter(Boolean).join(l === 'zh_CN' ? '｜' : ' | ');
       if (l === 'zh_CN') {
-        return [l, `${maps[l].get(eLink)} （${e.zh} · ${lbl(e.category, l)} · ${dnameL(e.district, l)}${codeL}${secL}）—— ${eSummaryL(e, l)}${mechL}${bitsL ? ' ' + bitsL + '。' : ''}【状态：${lbl(stKey, l)}】`];
+        return [l, `${maps[l].get(eLink)} （${lbl(e.category, l)} · ${dnameL(e.district, l)}${codeL}${secL}）：${eSummaryL(e, l)}${mechL}${bitsL ? ' ' + bitsL + '。' : ''}【状态：${lbl(stKey, l)}】`];
       }
       return [l, `${maps[l].get(eLink)} (${e.zh} · ${lbl(e.category, l)} · ${dnameL(e.district, l)}${codeL}${secL}) — ${eSummaryL(e, l)}${mechL}${bitsL ? ' ' + bitsL + '.' : ''} [${lbl(stKey, l)}]`];
     }));
@@ -498,7 +498,7 @@ for (const [id, title, zh, categories] of groups) {
 }
 
 const META_LINE_TPL = {
-  zh_CN: (cat, dist, chk) => `${cat}｜${dist}｜研究核对日期 ${chk}`,
+  zh_CN: (cat, dist, chk) => `${cat}｜${dist}｜资料核查日期 ${chk}`,
   hi: (cat, dist, chk) => `${cat} | ${dist} | शोध सत्यापन तिथि ${chk}`,
   ja: (cat, dist, chk) => `${cat}｜${dist}｜調査確認日 ${chk}`,
   ko: (cat, dist, chk) => `${cat} | ${dist} | 연구 확인일 ${chk}`,
@@ -506,7 +506,7 @@ const META_LINE_TPL = {
   es: (cat, dist, chk) => `${cat} | ${dist} | Investigación verificada el ${chk}`
 };
 const FOCUS_LINE_TPL = {
-  zh_CN: list => `人工智能与产业方向：${list}。`,
+  zh_CN: list => `AI及产业方向：${list}。`,
   hi: list => `एआई और उद्योग फोकस: ${list}।`,
   ja: list => `AIおよび産業フォーカス：${list}。`,
   ko: list => `AI 및 산업 분야: ${list}.`,
@@ -522,7 +522,7 @@ const MOE_LINE_TPL = {
   es: c => `Código institucional del Ministerio de Educación (MOE): ${c}.`
 };
 const SUP_LINE_TPL = {
-  zh_CN: v => `已公布支持说明：${v}。`,
+  zh_CN: v => `公开支持内容：${v}。`,
   hi: v => `प्रकाशित सहायता विवरण: ${v}।`,
   ja: v => `公開支援内容：${v}。`,
   ko: v => `공개 지원 안내: ${v}.`,
@@ -530,7 +530,7 @@ const SUP_LINE_TPL = {
   es: v => `Nota de apoyo publicada: ${v}.`
 };
 const FUND_MECH_TPL = {
-  zh_CN: v => `支持机制：${v}。`,
+  zh_CN: v => `支持方式：${v}。`,
   hi: v => `वित्तपोषण तंत्र: ${v}।`,
   ja: v => `資金・支援スキーム：${v}。`,
   ko: v => `지원 메커니즘: ${v}.`,
@@ -546,7 +546,7 @@ const TEL_LINE_TPL = {
   es: v => `Teléfono: ${v}.`
 };
 const ADDR_LINE_TPL = {
-  zh_CN: v => `公布地址：${v}。`,
+  zh_CN: v => `公开地址：${v}。`,
   hi: v => `प्रकाशित पता: ${v}।`,
   ja: v => `公開所在地：${v}。`,
   ko: v => `공개 주소: ${v}.`,
@@ -554,7 +554,7 @@ const ADDR_LINE_TPL = {
   es: v => `Dirección publicada: ${v}.`
 };
 const DIST_ROUTE_TPL = {
-  zh_CN: d => `${d}对接路径`,
+  zh_CN: d => `${d}合作指南`,
   hi: d => `${d} ज़िला मार्ग`,
   ja: d => `${d}の案内ルート`,
   ko: d => `${d} 경로 안내`,
@@ -589,7 +589,7 @@ for (const e of allEntities) {
   if (e.sourceExtra && e.sourceExtra !== e.source && e.sourceExtra !== e.sourceDetail) s += evidence(e.sourceExtra);
 
   const stKey = e.status || 'Published entity; intake to confirm';
-  s += heading('Status and support', '状态与支持', 1) +
+  s += heading('Status and support', '项目状态与支持内容', 1) +
     p(stKey, Object.fromEntries(LANGS.map(l => [l, lbl(stKey, l)])));
   if (e.support) {
     s += p(`Published support note: ${e.support}.`, Object.fromEntries(LANGS.map(l => [l, SUP_LINE_TPL[l](lbl(e.support, l))])));
@@ -597,17 +597,17 @@ for (const e of allEntities) {
   if (e.funding) {
     s += p(`Funding mechanism: ${e.funding}.`, Object.fromEntries(LANGS.map(l => [l, FUND_MECH_TPL[l](lbl(e.funding, l))])));
   } else {
-    s += p('No standard cash award, fee waiver or equity percentage is verified for this entry. Request the current written offer.', '本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。');
+    s += p('No standard cash award, fee waiver or equity percentage is verified for this entry. Request the current written offer.', '尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。');
   }
-  s += heading('Contact and location', '联系与位置', 1);
+  s += heading('Contact and location', '联系方式与地址', 1);
   if (e.contact) {
     s += p(e.contact, Object.fromEntries(LANGS.map(l => [l, eContactL(e, l)])));
   }
   if (e.website) {
-    const wLink = link('Official website / intake route', '官网／对接入口', e.website);
+    const wLink = link('Official website / intake route', '官网及申请渠道', e.website);
     s += p(wLink, Object.fromEntries(LANGS.map(l => [l, maps[l].get(wLink)])));
   } else {
-    const aLink = link('Official evidence and authority route', '官方来源与主管部门入口', source(e.source).url);
+    const aLink = link('Official evidence and authority route', '官方资料及主管部门', source(e.source).url);
     s += p(aLink, Object.fromEntries(LANGS.map(l => [l, maps[l].get(aLink)])));
   }
   if (e.phone) {
@@ -617,15 +617,15 @@ for (const e of allEntities) {
     s += p(`Published address: ${e.address}.`, Object.fromEntries(LANGS.map(l => [l, ADDR_LINE_TPL[l](eAddressL(e, l))])));
   }
   if (!e.phone) {
-    s += p("Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.", "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。");
+    s += p("Use the official website to request the responsible team and current application route. Email addresses are not reproduced in this publication.", "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。");
   }
   s += p(
     e.coords ? 'Map point is approximate, based on the published street context; it is not an entrance or navigation coordinate.' : 'Map position uses a district or campus anchor; it is not a verified office location.',
-    e.coords ? '地图点依据公布街道信息近似定位，不是入口或导航坐标。' : '地图位置使用区级或校区锚点，并非核实后的办公室位置。'
+    e.coords ? '地图根据公开街道信息标注大致位置，不用于确认入口或导航。' : '地图采用行政区或校区参考点，不代表已核实的办公地址。'
   );
   s += heading('Application workflow', '申请流程', 1) + workflow(e.workflow);
   if (e.category === 'University') {
-    s += p('Confirm whether external founders can apply, whether student or alumni status is required, who owns the research IP, and whether support is a service, a loan, a grant or equity. The thematic match in this profile is editorial guidance.', '确认外部创业者能否申请、是否要求在校或校友身份、科研知识产权权属，以及支持属于服务、贷款、补助还是股权。本档案的主题匹配为编辑建议。');
+    s += p('Confirm whether external founders can apply, whether student or alumni status is required, who owns the research IP, and whether support is a service, a loan, a grant or equity. The thematic match in this profile is editorial guidance.', '请确认校外创业者能否申请，是否要求在校生或校友身份，科研成果的知识产权归属，以及支持属于服务、贷款、补助还是股权投资。本页所列合作方向仅供参考。');
   }
   const targetRoute = e.district === 'citywide' ? '/funding' : `/districts/${e.district}`;
   const dDoc = doc(
@@ -639,7 +639,7 @@ for (const e of allEntities) {
 
 // 4. Funding directory and profiles
 const FUND_INTRO_TPL = {
-  zh_CN: n => `覆盖全市及全部16个区的${n}条研究路径，区分不占股支持、须偿还债务、积分及投资。不会仅因政策或网页存在便标记正在开放。`,
+  zh_CN: n => `整理全市及16个区的${n}项融资扶持信息，区分无需出让股权的支持、需还款的贷款、服务额度及股权投资。政策或网页仍然存在，不代表当前可以申报。`,
   hi: n => `शहर-व्यापी कार्यक्रमों और सभी 16 ज़िलों में ${n} शोधित मार्ग। हम गैर-इक्विटी सहायता को पुनर्भुगतान योग्य ऋण, क्रेडिट और निवेश से अलग करते हैं। केवल नीति या वेब पेज मौजूद होने के कारण किसी भी कार्यक्रम को खुला नहीं माना गया है।`,
   ja: n => `全市プログラムおよび全16行政区にわたる ${n} 件の調査済み資金ルート。非エクイティ支援、返済義務のある融資、クラウドクレジット、株式投資を明確に区別しています。政策やWebページが存在するだけで募集中と表示することはありません。`,
   ko: n => `전시 프로그램과 16개 전 행정구에 걸친 ${n}개의 연구된 자금 경로. 비지분 지원과 상환 의무 대출, 크레딧, 지분 투자를 명확히 구분합니다. 정책이나 웹페이지가 존재한다는 이유만으로 접수 중으로 표시하지 않습니다.`,
@@ -647,13 +647,13 @@ const FUND_INTRO_TPL = {
   es: n => `${n} rutas investigadas en programas de toda la ciudad y en los 16 distritos. Distinguimos el apoyo libre de capital de la deuda reembolsable, los créditos y la inversión de capital.`
 };
 
-let fundingIndex = heading('Funding, without mixing the mechanisms', '融资与扶持渠道：分清不同机制') +
+let fundingIndex = heading('Funding, without mixing the mechanisms', '融资与扶持政策总览') +
   p(`${funding.length} researched routes across citywide programs and all 16 districts. We distinguish equity-free support from repayable debt, credits and investment. No item is labelled open merely because its policy or web page exists.`,
     Object.fromEntries(LANGS.map(l => [l, FUND_INTRO_TPL[l](funding.length)])));
-const fgDoc = doc('Read the funding guide first', '先阅读资金指南', 'funding-guide');
+const fgDoc = doc('Read the funding guide first', '先了解各类资金的条件', 'funding-guide');
 fundingIndex += p(fgDoc, Object.fromEntries(LANGS.map(l => [l, maps[l].get(fgDoc)])));
 
-let fundingHtmlDir = heading('All researched funding routes at a glance', '全部研究融资与扶持渠道总览', 1);
+let fundingHtmlDir = heading('All researched funding routes at a glance', '融资扶持项目一览', 1);
 for (const f of funding) {
   const fLink = doc(f.name, Object.fromEntries(LANGS.map(l => [l, fNameL(f, l)])), `funding/${f.id}`);
   const phEn = f.phone ? ` Tel: ${f.phone}.` : '';
@@ -661,7 +661,7 @@ for (const f of funding) {
   const dict = Object.fromEntries(LANGS.map(l => {
     const phL = f.phone ? (l === 'zh_CN' ? ` 电话：${f.phone}。` : ` Tel: ${f.phone}.`) : '';
     if (l === 'zh_CN') {
-      return [l, `${maps[l].get(fLink)} （${f.zh} · ${lbl(f.type, l)} · ${dnameL(f.district, l)} · ${lbl(f.equity, l)}）—— **${fAmountL(f, l)}**。资格：${fEligL(f, l)} 时间：${fDeadlineL(f, l)}。${phL}【状态：${lbl(f.status, l)}】`];
+      return [l, `${maps[l].get(fLink)} （${lbl(f.type, l)} · ${dnameL(f.district, l)} · ${lbl(f.equity, l)}）：**${fAmountL(f, l)}**。资格：${fEligL(f, l)} 时间：${fDeadlineL(f, l)}。${phL}【状态：${lbl(f.status, l)}】`];
     }
     return [l, `${maps[l].get(fLink)} (${f.zh} · ${lbl(f.type, l)} · ${dnameL(f.district, l)} · ${lbl(f.equity, l)}) — **${fAmountL(f, l)}**. ${fEligL(f, l)} (${fDeadlineL(f, l)}).${phL} [${lbl(f.status, l)}]`];
   }));
@@ -672,7 +672,7 @@ fundingIndex += '.. toctree::\n   :maxdepth: 1\n\n' + funding.map(f => '   fundi
 write('docs/funding.rst', fundingIndex);
 
 const CONSULT_TEL_TPL = {
-  zh_CN: v => `公布咨询电话：${v}。`,
+  zh_CN: v => `咨询电话：${v}。`,
   hi: v => `प्रकाशित परामर्श फ़ोन: ${v}।`,
   ja: v => `公開相談電話：${v}。`,
   ko: v => `공개 상담 전화: ${v}.`,
@@ -685,48 +685,48 @@ for (const f of funding) {
     p(`${f.type} | ${dname(f.district)}`, Object.fromEntries(LANGS.map(l => [l, l === 'zh_CN' ? `${lbl(f.type, l)}｜${dnameL(f.district, l)}` : `${lbl(f.type, l)} | ${dnameL(f.district, l)}`]))) +
     p(f.status, Object.fromEntries(LANGS.map(l => [l, lbl(f.status, l)]))) +
     evidence(f.source);
-  s += heading('Amount and mechanism', '额度与机制', 1) +
+  s += heading('Amount and mechanism', '额度与支持方式', 1) +
     p(f.amount, Object.fromEntries(LANGS.map(l => [l, fAmountL(f, l)]))) +
     p(f.equity, Object.fromEntries(LANGS.map(l => [l, lbl(f.equity, l)])));
-  s += heading('Eligibility and timing', '资格与时间', 1) +
+  s += heading('Eligibility and timing', '申请条件与受理时间', 1) +
     p(f.eligibility, Object.fromEntries(LANGS.map(l => [l, fEligL(f, l)]))) +
     p(f.deadline, Object.fromEntries(LANGS.map(l => [l, fDeadlineL(f, l)])));
-  const appLink = link('Official application / policy route', '官方申请／政策入口', f.apply);
-  s += heading('Contact and application', '联系与申请', 1) +
+  const appLink = link('Official application / policy route', '官方申请渠道及政策文件', f.apply);
+  s += heading('Contact and application', '咨询与申请', 1) +
     p(appLink, Object.fromEntries(LANGS.map(l => [l, maps[l].get(appLink)])));
   if (f.phone) {
     s += p(`Published consultation: ${f.phone}.`, Object.fromEntries(LANGS.map(l => [l, CONSULT_TEL_TPL[l](f.phone)])));
   }
   if (!f.phone) {
-    s += p('The linked authority or operator is the contact route. A direct current program contact is not established in this profile.', '请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。');
+    s += p('The linked authority or operator is the contact route. A direct current program contact is not established in this profile.', '请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。');
   }
   s += workflow(f.workflow);
-  s += p('The published maximum is a ceiling, not an entitlement. Check the applicable notice, eligible cost period, other public support and written payment conditions.', '公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。');
+  s += p('The published maximum is a ceiling, not an entitlement. Check the applicable notice, eligible cost period, other public support and written payment conditions.', '公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。');
   write(`docs/funding/${f.id}.rst`, s);
 }
 
 // 5. Higher-Education Register
 let registerRst = heading('The higher-education register', '高等教育机构名录') +
-  p('We use the Ministry of Education list dated 17 June 2026, published 18 June 2026. The downloaded source workbooks are retained in the repository. Institutional inclusion does not prove a startup program, available funding or admission for an external founder.', '采用教育部截至2026年6月17日、6月18日公布的名单，源工作簿保存在仓库。列入名录不代表存在创业计划、可用资金或接受外部创业者。') +
+  p('We use the Ministry of Education list dated 17 June 2026, published 18 June 2026. The downloaded source workbooks are retained in the repository. Institutional inclusion does not prove a startup program, available funding or admission for an external founder.', '本名录依据教育部2026年6月18日公布、截至6月17日的名单编制，原始表格保存在仓库中。学校被列入名录，不代表设有创业项目、可提供资金，或接受校外创业者申请。') +
   evidence('moe.gov.cn/jyb_xxgk');
 registerRst += heading('40 undergraduate institutions', '40所本科院校', 1);
 for (const u of universityEntities) {
   const uDoc = doc(`${u.name} / ${u.zh}`, Object.fromEntries(LANGS.map(l => [l, l === 'zh_CN' ? u.zh : `${eNameL(u, l)} / ${u.zh}`])), `/entities/${u.id}`);
   registerRst += bullet(`${uDoc} (${u.code})`, Object.fromEntries(LANGS.map(l => [l, `${maps[l].get(uDoc)} (${u.code})`])));
 }
-registerRst += '\n' + heading('29 diploma colleges', '29所专科院校', 1) +
-  p('Chinese legal names and institution codes follow the official workbook. Program contacts and startup funding for these colleges have not been individually verified. Use the official education register to confirm the institution before seeking its research-cooperation or entrepreneurship office.', '中文法定名称与学校标识码依官方工作簿。本版尚未逐校核实专科院校的创业联系及资金，请先通过官方教育名录确认机构，再咨询科研合作或创业部门。');
+registerRst += '\n' + heading('29 diploma colleges', '29所高职（专科）院校', 1) +
+  p('Chinese legal names and institution codes follow the official workbook. Program contacts and startup funding for these colleges have not been individually verified. Use the official education register to confirm the institution before seeking its research-cooperation or entrepreneurship office.', '学校中文名称及标识码以官方表格为准。本版尚未逐校核实这些院校的创业服务联系人和资金支持，可先查阅官方名录，再向学校科研合作或创业服务部门咨询。');
 for (const r of registry.filter(x => x.level === '专科')) {
   registerRst += bullet(`${r.zh} (${r.code})`, Object.fromEntries(LANGS.map(l => [l, `${r.zh} (${r.code})`])));
 }
 registerRst += '\n' + heading('12 adult higher-education institutions', '12所成人高校', 1) +
-  p('A separate Ministry register; these are not added to the 69 ordinary institutions. Names and codes are authoritative register entries, not a claim of a verified startup program.', '来自教育部独立名录，不计入69所普通高校。名称及代码为官方名录信息，不代表已核实创业项目。');
+  p('A separate Ministry register; these are not added to the 69 ordinary institutions. Names and codes are authoritative register entries, not a claim of a verified startup program.', '以下院校来自教育部单独公布的成人高校名录，不计入69所普通高校。名称及标识码均据官方名录列出，不代表已核实具体创业项目。');
 for (const r of adult) {
   registerRst += bullet(`${r.zh} (${r.code})`, Object.fromEntries(LANGS.map(l => [l, `${r.zh} (${r.code})`])));
 }
-const ceibsLink = link('CEIBS official institutional route', '中欧国际工商学院官方入口', 'https://www.ceibs.edu/');
-const ceibsNote = trS("CEIBS appears in Shanghai's international education directory and is listed separately here; no specific startup funding offer has been verified.", '中欧国际工商学院列于上海国际教育目录，本图谱另列；尚未核实具体创业资助。');
-registerRst += '\n' + heading('Additional specialist routes', '其他专业路径', 1) +
+const ceibsLink = link('CEIBS official institutional route', '中欧国际工商学院官网', 'https://www.ceibs.edu/');
+const ceibsNote = trS("CEIBS appears in Shanghai's international education directory and is listed separately here; no specific startup funding offer has been verified.", '中欧国际工商学院列于上海国际教育目录，本图谱单独列示，尚未确认具体创业资助项目。');
+registerRst += '\n' + heading('Additional specialist routes', '其他专业院校', 1) +
   p(`${ceibsLink}. ${ceibsNote}`, Object.fromEntries(LANGS.map(l => [l, `${maps[l].get(ceibsLink)}. ${maps[l].get(ceibsNote)}`])));
 registerRst += evidence('edu.sh.gov.cn/study_cn_school');
 write('docs/university-register.rst', registerRst);
@@ -734,22 +734,22 @@ write('docs/university-register.rst', registerRst);
 // 6. Interactive Atlas Page
 // The custom website navigation links the interactive map; print uses the district plate.
 let atlas = ':orphan:\n\n' + heading('Explore the Shanghai ecosystem', '探索上海创新生态') +
-  p('Select a district, search a Chinese or English organization name, and filter by organization type or funding mechanism. Each result opens a sourced profile with contact and application steps.', '选择行政区，搜索中英文机构名称，按类型或资助机制筛选。每个结果均可打开附来源、联系与申请步骤的档案。');
+  p('Select a district, search a Chinese or English organization name, and filter by organization type or funding mechanism. Each result opens a sourced profile with contact and application steps.', '选择行政区，搜索中英文机构名称，按类型或资助机制筛选。每个结果均可打开附来源、咨询与申请步骤的档案。');
 atlas += '.. only:: html\n\n   .. raw:: html\n\n      <div id="atlas-app" aria-live="polite"></div>\n      <noscript><p>Use the district and directory links below. / 请使用下方行政区与目录链接。</p></noscript>\n\n';
 const bDistDoc = doc('Browse all district chapters', '浏览全部行政区章节', 'districts');
-const bFundDoc = doc('Browse funding', '浏览资金', 'funding');
+const bFundDoc = doc('Browse funding', '查看融资与扶持项目', 'funding');
 atlas += p(`${bDistDoc} | ${bFundDoc}`, Object.fromEntries(LANGS.map(l => [l, `${maps[l].get(bDistDoc)} | ${maps[l].get(bFundDoc)}`])));
-atlas += '.. only:: pdf\n\n   ' + trS('The website provides the interactive map. The printed district map and the directory chapters provide the same routes without requiring a device.', '网站提供交互地图。纸本行政区地图与目录章节提供相同对接路径，无需设备。') + '\n';
+atlas += '.. only:: pdf\n\n   ' + trS('The website provides the interactive map. The printed district map and the directory chapters provide the same routes without requiring a device.', '网站提供交互式地图；离线阅读时，可通过书中的行政区地图和目录查找相应机构及支持项目。') + '\n';
 write('docs/atlas.rst', atlas);
 
 // 7. Home Index Page
 const tree = ['reading-the-city', 'atlas', 'software-ai', 'hardware-ai', 'districts', 'universities', 'university-register', 'incubation', 'research', 'corporate', 'government', 'funding-guide', 'funding', 'investors', 'apply', 'methodology', 'sources'];
 let index = heading('Shanghai Ecosystem Atlas', '上海创新生态图谱');
-let indexPrelude = p('The Pearl of the Orient. A field guide to research, enterprise and possibility.', '东方明珠。连接科研、企业与机遇的实用图谱。') +
-  p("An illustrated guide in seven languages for accelerators, founders, researchers and AI enthusiasts. It connects Shanghai's universities, software and hardware AI communities, and practical routes to support across all 16 districts.", '为加速器、创始人、研究者及人工智能爱好者编写的七语插图指南，连接上海16个行政区的高校、软硬件人工智能社区及实用扶持渠道。');
+let indexPrelude = p('The Pearl of the Orient. A field guide to research, enterprise and possibility.', '走进东方明珠，寻找科研合作与创新创业机会。') +
+  p("An illustrated guide in seven languages for accelerators, founders, researchers and AI enthusiasts. It connects Shanghai's universities, software and hardware AI communities, and practical routes to support across all 16 districts.", '为加速器、创始人、研究者及人工智能爱好者编写的七语插图指南，连接上海16个行政区的高校、软AI硬件社区及实用扶持渠道。');
 
 const EDITION_STAT_TPL = {
-  zh_CN: `研究版本：${checked}。${allEntities.length}份机构档案，${funding.length}条融资与扶持渠道，覆盖16个行政区，引用${used.length}项原始证据来源。`,
+  zh_CN: `资料核查截至${checked}。收录${allEntities.length}家机构、${funding.length}项融资扶持信息，覆盖16个行政区，引用${used.length}份一手资料。`,
   hi: `शोध संस्करण: ${checked}। ${allEntities.length} संस्थान प्रोफ़ाइल। ${funding.length} वित्तपोषण मार्ग। 16 ज़िले। ${used.length} उद्धृत स्रोत।`,
   ja: `調査エディション：${checked}。${allEntities.length}件の機関プロファイル、${funding.length}件の資金ルート、全16行政区、${used.length}件の引用一次出典。`,
   ko: `연구 에디션: ${checked}. ${allEntities.length}개 기관 프로필. ${funding.length}개 자금 경로. 16개 행정구. ${used.length}개 인용 출처.`,
@@ -757,19 +757,19 @@ const EDITION_STAT_TPL = {
   es: `Edición de investigación: ${checked}. ${allEntities.length} perfiles de organizaciones. ${funding.length} vías de financiación. 16 distritos. ${used.length} fuentes citadas.`
 };
 indexPrelude += p(`Research edition: ${checked}. ${allEntities.length} organization profiles. ${funding.length} funding routes. 16 districts. ${used.length} cited sources.`, EDITION_STAT_TPL);
-indexPrelude += p("Written by **Vikrant Rathore** with contributions from **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. Produced using **Guidedog** as a unified seven-language **HTML and PDF** publication inspired by Shanghai's official flower, the white magnolia (*Yulania denudata*).", '本书由 **Vikrant Rathore** 撰写，**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu** 共同贡献。采用 **Guidedog** 原生构建为七语 **HTML 网站与 PDF 图书**，视觉设计汲取上海市花白玉兰之灵感。');
+indexPrelude += p("Written by **Vikrant Rathore** with contributions from **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. Produced using **Guidedog** as a unified seven-language **HTML and PDF** publication inspired by Shanghai's official flower, the white magnolia (*Yulania denudata*).", '本书由 **Vikrant Rathore** 撰写，**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 和 Emily Yue Xu** 参与编写。使用 **Guidedog** 原生工作流制作七种语言的 **HTML 网站及 PDF 图书**，以上海市花白玉兰为视觉灵感。');
 
-const nav1 = doc('Explore the interactive atlas', '探索交互图谱', 'atlas');
+const nav1 = doc('Explore the interactive atlas', '打开交互式图谱', 'atlas');
 const nav2 = doc('Browse all 16 districts', '浏览全部16个行政区', 'districts');
-const nav3 = doc('Find funding', '寻找资金', 'funding');
-const nav4 = doc('Plan an application', '规划申请', 'apply');
+const nav3 = doc('Find funding', '查找融资与扶持项目', 'funding');
+const nav4 = doc('Plan an application', '准备申请', 'apply');
 indexPrelude += p(`${nav1} | ${nav2} | ${nav3} | ${nav4}`, Object.fromEntries(LANGS.map(l => [l, `${maps[l].get(nav1)} | ${maps[l].get(nav2)} | ${maps[l].get(nav3)} | ${maps[l].get(nav4)}`])));
 
 // The colophon and opening essay provide the print introduction.
 index += onlyHtml(indexPrelude);
 
-let indexHtml = heading('All 16 administrative districts of Shanghai', '上海十六个行政区全景导览', 1);
-indexHtml += p('Every administrative district of Shanghai is covered in both the website and the PDF book with its documented industrial focus, receiving government authority, local innovation carriers, universities and district funding routes:', '网站与PDF图书完整收录上海全部16个行政区的定位方向、受理政府部门、本地创新载体、高校及区级融资与扶持渠道：');
+let indexHtml = heading('All 16 administrative districts of Shanghai', '上海16区导览', 1);
+indexHtml += p('Every administrative district of Shanghai is covered in both the website and the PDF book with its documented industrial focus, receiving government authority, local innovation carriers, universities and district funding routes:', '网站和PDF图书均按上海16个行政区梳理产业方向、受理部门、创新载体、高校及区级融资扶持项目：');
 for (const [idx, d] of districts.entries()) {
   const dLink = doc(d.name, Object.fromEntries(LANGS.map(l => [l, dnameL(d.id, l)])), `districts/${d.id}`);
   const num = String(idx + 1).padStart(2, '0');
@@ -778,31 +778,31 @@ for (const [idx, d] of districts.entries()) {
   const enStr = `**[${num}]** ${dLink} (${d.zh}) — **${d.focus}**. Authority: ${d.owner}. (${localCount} organizations, ${fundCount} district funding routes)`;
   const dict = Object.fromEntries(LANGS.map(l => {
     if (l === 'zh_CN') {
-      return [l, `**[${num}]** ${maps[l].get(dLink)} （${d.zh}）—— **${dfocusL(d, l)}**。主管部门：${downerL(d, l)}。（${localCount}家机构，${fundCount}条区级融资与扶持渠道）`];
+      return [l, `**[${num}]** ${maps[l].get(dLink)} **${dfocusL(d, l)}**。主管部门：${downerL(d, l)}。（${localCount}家机构，${fundCount}条区级融资与扶持渠道）`];
     }
     return [l, `**[${num}]** ${maps[l].get(dLink)} (${d.zh}) — **${dfocusL(d, l)}**. ${downerL(d, l)}. (${localCount} / ${fundCount})`];
   }));
   indexHtml += bullet(enStr, dict);
 }
-indexHtml += '\n' + heading('Complete chapters & directories in this atlas', '本图谱完整章节与目录', 1);
+indexHtml += '\n' + heading('Complete chapters & directories in this atlas', '章节与目录', 1);
 const chapterSummaries = [
-  ['reading-the-city', 'A city of connected possibilities', '一座连接机遇的城市', 'Spatial logic across central Shanghai, industrial corridors, five新城 (New Cities) and Chongming Eco-Island, plus magnolia design notes and authorship credits.', '中心城区、产业走廊、五个新城与崇明生态岛的空间逻辑，以及白玉兰设计说明与作者署名。'],
+  ['reading-the-city', 'A city of connected possibilities', '读懂上海的创新创业生态', 'Spatial logic across central Shanghai, industrial corridors, five新城 (New Cities) and Chongming Eco-Island, plus magnolia design notes and authorship credits.', '中心城区、产业走廊、五个新城与崇明生态岛的空间逻辑，以及白玉兰设计说明与作者署名。'],
   ['atlas', 'Explore the Shanghai ecosystem', '探索上海创新生态', 'Interactive 16-district vector map, bilingual search, sector and equity filters, shortlist and CSV export.', '16区交互式矢量地图、中英双语检索、产业与股权筛选、收藏清单及CSV导出。'],
-  ['software-ai', 'Intelligence in software', '软件中的智能', 'Foundation models, vertical agents, Model Speed Space, Zhangjiang Model Community, compute/corpus vouchers and compliance routing.', '基础模型、垂类智能体、模速空间、张江模力社区、算力语料券及合规路径。'],
-  ['hardware-ai', 'Intelligence in the physical world', '物理世界中的智能', 'AI chips, EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, BCI and wet-lab biocomputing.', 'AI芯片、EDA与流片、传感器、具身智能机器人、低空无人机、脑机接口与生物计算。'],
-  ['districts', 'Sixteen districts, sixteen entry routes', '十六区，十六条对接路径', "Dedicated chapter for each of Shanghai's 16 districts with receiving authorities, policy boundaries, local carriers and funding.", '上海16个行政区逐区专章，含受理部门、政策边界、本地载体与融资与扶持渠道。'],
+  ['software-ai', 'Intelligence in software', '软件与人工智能应用', 'Foundation models, vertical agents, Model Speed Space, Zhangjiang Model Community, compute/corpus vouchers and compliance routing.', '基础模型、垂类智能体、模速空间、张江模力社区、算力语料券及合规路径。'],
+  ['hardware-ai', 'Intelligence in the physical world', '芯片、机器人与智能硬件', 'AI chips, EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, BCI and wet-lab biocomputing.', 'AI芯片、EDA与流片、传感器、具身智能机器人、低空无人机、脑机接口与生物计算。'],
+  ['districts', 'Sixteen districts, sixteen entry routes', '上海16区创新指南', "Dedicated chapter for each of Shanghai's 16 districts with receiving authorities, policy boundaries, local carriers and funding.", '上海16个行政区逐区专章，含受理部门、政策边界、本地载体与融资与扶持渠道。'],
   ['universities', 'Universities and commercialization', '高校与成果转化', 'Profiles for all 40 undergraduate universities in Shanghai with MOE codes, collaboration themes and tech-transfer contacts.', '上海全部40所本科高校档案，含教育部标识码、合作主题与技术转移联系方式。'],
   ['university-register', 'The higher-education register', '高等教育机构名录', 'Complete June 2026 Ministry of Education register: 40 undergraduate universities, 29 diploma colleges, 12 adult institutions and CEIBS.', '教育部2026年6月完整名录：40所本科、29所专科、12所成人高校及中欧国际工商学院。'],
   ['incubation', 'Incubators, accelerators and parks', '孵化器、加速器及园区', '28 researched incubators, accelerators and technology parks across Shanghai with admission checklists and operator details.', '全市28家孵化器、加速器与科技园区档案，含入驻核对清单与运营方信息。'],
   ['research', 'Research and technical platforms', '科研与技术平台', 'Shanghai AI Lab, ICC chip service center and Tongji autonomous and PAI research platforms.', '上海人工智能实验室、集成电路促进中心及同济无人系统与PAI科研平台。'],
-  ['corporate', 'Corporate and global programs', '企业与全球计划', 'Roche, SAP.iO, ABB, DroidUp, PaddlePaddle, Yangtze AI+ Center, JLABS, Bayer Co.Lab, NVIDIA Inception, Microsoft, AWS, Siemens and BMW.', '罗氏、SAP.iO、ABB、卓益得、飞桨、长三角AI+中心、JLABS、拜耳、英伟达、微软、亚马逊云、西门子与宝马项目。'],
-  ['government', 'Government entry points', '政府对接入口', 'All 16 district science, technology and economy authorities with official portals, published contacts and policy notes.', '16个区科技与经济主管部门入口，含官方网站、公开电话与政策说明。'],
-  ['funding-guide', 'Capital, with its conditions attached', '资金及其附带条件', 'How to distinguish non-repayable grants, post-expenditure reimbursements, vouchers, debt, tax relief and equity investment.', '如何区分无偿补助、先支后补、创新券、债务贷款、税收优惠与股权投资。'],
-  ['funding', 'Funding, without mixing the mechanisms', '融资与扶持渠道：分清不同机制', 'All 40 citywide and district funding pathways with ceilings, equity rules, eligibility criteria, deadlines and official links.', '全市及16区全部40条融资与扶持渠道，含额度上限、股权规则、资格条件、截止时间与官方入口。'],
+  ['corporate', 'Corporate and global programs', '企业创新与全球项目', 'Roche, SAP.iO, ABB, DroidUp, PaddlePaddle, Yangtze AI+ Center, JLABS, Bayer Co.Lab, NVIDIA Inception, Microsoft, AWS, Siemens and BMW.', '罗氏、SAP.iO、ABB、卓益得、飞桨、长三角AI+中心、JLABS、拜耳、英伟达、微软、亚马逊云、西门子与宝马项目。'],
+  ['government', 'Government entry points', '政府部门与咨询渠道', 'All 16 district science, technology and economy authorities with official portals, published contacts and policy notes.', '16个区科技与经济主管部门入口，含官方网站、公开电话与政策说明。'],
+  ['funding-guide', 'Capital, with its conditions attached', '读懂融资与扶持政策', 'How to distinguish non-repayable grants, post-expenditure reimbursements, vouchers, debt, tax relief and equity investment.', '如何区分无偿补助、先支后补、创新券、债务贷款、税收优惠与股权投资。'],
+  ['funding', 'Funding, without mixing the mechanisms', '融资与扶持政策总览', 'All 40 citywide and district funding pathways with ceilings, equity rules, eligibility criteria, deadlines and official links.', '全市及16区全部40条融资与扶持渠道，含额度上限、股权规则、资格条件、截止时间与官方入口。'],
   ['investors', 'Investors and patient capital', '投资机构与耐心资本', 'STEFG Angel Fund, Shanghai Leading Industry Funds, Pudong AI Seed Fund, Embodied AI Fund, STVC and Qiming Venture Partners.', '大学生科创基金会天使基金、三大先导母基金、浦东AI种子基金、具身智能基金、科投集团与启明创投。'],
   ['apply', 'From introduction to application', '从初次对接到正式申请', 'Bilingual outreach templates, shared data-room checklist, decision workflows and a four-week accelerator field program.', '中英双语初次沟通模板、共用资料库清单、四类决策流程及加速器四周实地计划。'],
-  ['methodology', 'How to read the evidence', '如何阅读证据', 'Source verification rules, translation discipline, map accuracy disclosures, known gaps and authorship credits.', '来源核验规则、翻译规范、地图精度说明、已知缺口及作者团队署名。'],
-  ['sources', 'Sources and reading room', '来源与阅读室', 'Complete bibliography of all cited government notices, institutional registers and operator pages with access dates.', '全部引用的政府通知、高校名录与运营方网页完整文献库及核对日期。'],
+  ['methodology', 'How to read the evidence', '资料来源与研究方法', 'Source verification rules, translation discipline, map accuracy disclosures, known gaps and authorship credits.', '来源核验规则、翻译规范、地图精度说明、已知缺口及作者团队署名。'],
+  ['sources', 'Sources and reading room', '资料来源与延伸阅读', 'Complete bibliography of all cited government notices, institutional registers and operator pages with access dates.', '全部引用的政府通知、高校名录与运营方网页完整文献库及核对日期。'],
 ];
 for (const [idx, [cid, ctEn, ctZh, cdEn, cdZh]] of chapterSummaries.entries()) {
   const cLink = doc(ctEn, Object.fromEntries(LANGS.map(l => [l, l === 'zh_CN' ? ctZh : i18nData[l].chapterSummaries[idx][1]])), cid);
@@ -835,8 +835,8 @@ const SRC_LANG_TPL = {
   es: (lg, chk) => `Idioma de la fuente: ${lg}. Fecha de investigación: ${chk}.`
 };
 
-let bibliography = heading('Sources and reading room', '来源与阅读室') +
-  p('These are the sources used by the profiles and editorial chapters. Access dates refer to the research session. Source languages are preserved. Institutional registers and mapped boundaries have different purposes from current application notices.', '下列来源用于机构档案及编辑章节。访问日期指本次研究，保留来源原语言。机构名录、地图边界与现行申报通知的用途不同。');
+let bibliography = heading('Sources and reading room', '资料来源与延伸阅读') +
+  p('These are the sources used by the profiles and editorial chapters. Access dates refer to the research session. Source languages are preserved. Institutional registers and mapped boundaries have different purposes from current application notices.', '以下是机构介绍及各章正文引用的资料，保留来源的原语言。访问日期为本次核查时间。机构名录和地图边界只能用于确认相应信息，不能据此判断项目当前是否接受申请。');
 for (const s of used) {
   const sLnk = link(s.title, Object.fromEntries(LANGS.map(l => [l, s.title])), s.url);
   bibliography += heading(s.id, Object.fromEntries(LANGS.map(l => [l, s.id])), 1) +

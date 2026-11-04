@@ -26,11 +26,11 @@ msgstr "上海三大先导产业母基金"
 
 #: ../../entities/ssci.rst:6
 msgid "Investor | Citywide / global | Research checked 2026-11-04"
-msgstr "投资机构｜全市／全球｜研究核对日期 2026-11-04"
+msgstr "投资机构｜全市／全球｜资料核查日期 2026-11-04"
 
 #: ../../entities/ssci.rst:8
 msgid "AI and industry focus: Software AI, Hardware AI, Chips, Health."
-msgstr "人工智能与产业方向：软件人工智能、硬件人工智能、芯片、健康。"
+msgstr "AI及产业方向：AI软件、AI硬件、芯片、健康。"
 
 #: ../../entities/ssci.rst:10
 msgid ""
@@ -38,44 +38,44 @@ msgid ""
 "including general AI, computing systems, humanoids, vertical models and "
 "edge AI. A fund-of-funds commitment is not a startup award or a direct "
 "application entitlement."
-msgstr "面向先导产业的国资基金平台，人工智能方向包括通用智能、算力系统、人形机器人、垂类模型及端侧智能。母基金出资不等于创业补助或直接申报资格。"
+msgstr "面向三大先导产业的国资基金平台。AI投资方向包括通用智能、算力系统、人形机器人、垂直领域模型和端侧智能。母基金出资不等于企业可直接申领的创业补助。"
 
 #: ../../entities/ssci.rst:12
 msgid "`Evidence S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
-msgstr "`证据 S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+msgstr "`资料来源 S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
 
 #: ../../entities/ssci.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/ssci.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/ssci.rst:19
 msgid "Funding mechanism: Equity investment."
-msgstr "支持机制：股权投资。"
+msgstr "支持方式：股权投资。"
 
 #: ../../entities/ssci.rst:21
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/ssci.rst:24
 msgid ""
 "`Official website / intake route <https://www.ssci-leadingfund.com/>`_"
-msgstr "`官网／对接入口 <https://www.ssci-leadingfund.com/>`_"
+msgstr "`官网及申请渠道 <https://www.ssci-leadingfund.com/>`_"
 
 #: ../../entities/ssci.rst:26
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/ssci.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/ssci.rst:30
 msgid "Application workflow"
@@ -85,31 +85,31 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/ssci.rst:35
 msgid "Confirm the manager, sector, stage and legal-entity fit."
-msgstr "确认管理人、行业、阶段及主体匹配。"
+msgstr "确认基金管理人、投资领域、发展阶段及申请主体是否匹配。"
 
 #: ../../entities/ssci.rst:37
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
-msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+msgstr "提交路演材料、股权结构、技术验证结果、业务进展和融资计划。"
 
 #: ../../entities/ssci.rst:39
 msgid "Complete commercial, financial, technical and legal due diligence."
-msgstr "完成商业、财务、技术及法律尽职调查。"
+msgstr "配合完成商业、财务、技术及法律尽职调查。"
 
 #: ../../entities/ssci.rst:41
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
-msgstr "审核条款书、投委会条件及正式协议。"
+msgstr "审阅投资条款清单、投委会审议条件及正式协议。"
 
 #: ../../entities/ssci.rst:43
 msgid ":doc:`Citywide / global district route </funding>`"
-msgstr ":doc:`全市／全球对接路径 </funding>`"
+msgstr ":doc:`全市／全球合作指南 </funding>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

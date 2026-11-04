@@ -36,11 +36,11 @@ msgstr "武宁科技园连接工业研发、检测与技术转移。区级孵化
 msgid ""
 "`Evidence S013 <https://www.shpt.gov.cn/ys-cyyq/20260430/969703.html>`_. "
 "上海武宁科技园_创业园区_上海市普陀区人民政府."
-msgstr "`证据 S013 <https://www.shpt.gov.cn/ys-cyyq/20260430/969703.html>`_. 上海武宁科技园_创业园区_上海市普陀区人民政府."
+msgstr "`资料来源 S013 <https://www.shpt.gov.cn/ys-cyyq/20260430/969703.html>`_. 上海武宁科技园_创业园区_上海市普陀区人民政府."
 
 #: ../../districts/putuo.rst:10
 msgid "Who receives the inquiry"
-msgstr "咨询受理"
+msgstr "联系哪个部门"
 
 #: ../../districts/putuo.rst:13
 msgid "Putuo science and technology authority"
@@ -54,41 +54,41 @@ msgstr "`区政府官网 <https://www.shpt.gov.cn/>`_"
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../districts/putuo.rst:19
 msgid "Before applying"
-msgstr "申请之前"
+msgstr "申请前需确认"
 
 #: ../../districts/putuo.rst:22
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../districts/putuo.rst:24
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+msgstr "阅读有明确发布日期的通知，确认属地、申请主体、业务及费用发生期间等条件。"
 
 #: ../../districts/putuo.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "准备规定材料，按要求完成单位或区级推荐。"
+msgstr "按清单准备材料，并按要求取得依托单位或区级部门推荐。"
 
 #: ../../districts/putuo.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "在截止前通过官方平台提交并保存回执。"
+msgstr "在截止时间前通过官方平台提交，保存受理回执。"
 
 #: ../../districts/putuo.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+msgstr "按通知要求完成评审、立项、报告、验收及资金拨付手续。"
 
 #: ../../districts/putuo.rst:32
 msgid ""
@@ -96,11 +96,11 @@ msgid ""
 "actual operations must both be in the district, which expenditure period "
 "is eligible, and whether previous municipal or district awards exclude a "
 "claim. Obtain the answer before moving a company or incurring costs."
-msgstr "询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。"
+msgstr "申请前应确认适用的最新通知，企业注册地和实际经营地是否都须在本区，哪些期间的费用可以申报，以及已获市级或区级资助是否影响本次申请。企业迁址或发生支出前，应先取得明确答复。"
 
 #: ../../districts/putuo.rst:34
 msgid "Local organizations in this atlas"
-msgstr "本图谱中的本区机构"
+msgstr "本区收录机构"
 
 #: ../../districts/putuo.rst:37
 msgid ""
@@ -109,7 +109,7 @@ msgid ""
 "operated by the Shanghai Electrical Apparatus Research Institute group. "
 "Robot and industrial-internet testing are useful entry points for "
 "hardware validation. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海武宁科技园 </entities/wuning>` （上海武宁科技园 · 科技园区 · 硬件人工智能、产业）—— 由上海电器科学研究所集团运营的工业研发与检测园区。机器人及工业互联网检测可作为硬件验证对接方向。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海武宁科技园 </entities/wuning>` （科技园区 · AI硬件、产业）： 由上海电器科学研究所集团运营，提供工业研发及检测服务。机器人和工业互联网团队可关注相关检测及硬件验证资源。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/putuo.rst:38
 msgid ""
@@ -119,7 +119,7 @@ msgid ""
 "manufacturing, AI, robotics and information technology. It supports "
 "market, capital and industrial connections; the listing does not "
 "guarantee cash support. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`中以（上海）创新园 </entities/china-israel>` （中以（上海）创新园 · 科技园区 · 软件人工智能、硬件人工智能）—— 区级名录中的国际合作载体，涉及智能制造、人工智能、机器人及信息技术，可对接市场、资本与产业资源；名录不构成现金资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`中以（上海）创新园 </entities/china-israel>` （科技园区 · AI软件、AI硬件）： 列入区级名录的国际创新合作园区，涉及智能制造、AI、机器人和信息技术，可对接市场、资本及产业资源。列入名录不代表入驻项目一定获得现金资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/putuo.rst:39
 msgid ""
@@ -129,7 +129,7 @@ msgid ""
 "platform in Putuo's \"One Axis, One Park, One Center\" layout, connecting "
 "university engineering laboratories with Yangtze River Delta industrial "
 "applications. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海清华国际创新中心 </entities/tsinghua-shanghai>` （上海清华国际创新中心 · 科研平台 · 软件人工智能、硬件人工智能、芯片）—— 普陀区“一轴一园一中心”科创布局中的重大战略平台，连接高校工程实验室与长三角产业化应用场景。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海清华国际创新中心 </entities/tsinghua-shanghai>` （科研平台 · AI软件、AI硬件、芯片）： 普陀“一轴一园一中心”科创布局中的重点平台，连接高校工程实验室与长三角产业化应用资源。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/putuo.rst:40
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "science, microelectronics. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`华东师范大学 </entities/university-ecnu>` （华东师范大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：软件、教育人工智能、数据科学、微电子。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`华东师范大学 </entities/university-ecnu>` （高校）： 该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：软件、教育AI应用、数据科学、微电子。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/putuo.rst:42
 msgid "Funding routes"
@@ -151,7 +151,7 @@ msgid ""
 "</funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Grant · No equity) — RMB "
 "300,000 per selected company; 50% initially, remainder after one-year "
 "development review. Status: Closed. Timing: Closed 31 August 2026."
-msgstr ":doc:`2026普陀科创企业种子计划第二批 </funding/putuo-seed>` （2026普陀科创企业种子计划第二批 · 补助 · 不占股）—— 获选企业30万元，首期50%，一年后按发展情况拨付余款。状态：已截止。时间：已于2026年8月31日截止。"
+msgstr ":doc:`2026普陀科创企业种子计划第二批 </funding/putuo-seed>` （补助 · 不占股）： 获选企业30万元，首期50%，一年后按发展情况拨付余款。状态：已截止。时间：已于2026年8月31日截止。"
 
 #: ../../districts/putuo.rst:46
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "reimbursement · No equity) — Direction-specific R&D, compute, "
 "first-product matching and related support. Status: Closed. Timing: "
 "Closed 26 June 2026."
-msgstr ":doc:`2026普陀智能软件产业专项 </funding/putuo-intelligent-software>` （2026普陀智能软件产业专项 · 补助与报销 · 不占股）—— 按研发、算力、首台套首版次配套等方向支持。状态：已截止。时间：已于2026年6月26日截止。"
+msgstr ":doc:`2026普陀智能软件产业专项 </funding/putuo-intelligent-software>` （补助与费用补贴 · 不占股）： 按研发、算力、首台套首版次配套等方向支持。状态：已截止。时间：已于2026年6月26日截止。"
 
 #: ../../districts/putuo.rst:47
 msgid ""
@@ -169,7 +169,7 @@ msgid ""
 "at most 50%, balance subject to acceptance. Status: 2026 call published; "
 "not confirmed open. Timing: Confirm the deadline in the September 2026 "
 "notice."
-msgstr ":doc:`2026普陀科技研发平台项目 </funding/putuo-rd-platform>` （2026普陀科技研发平台项目 · 补助 · 不占股）—— 最高200万元，首期不超过50%，余款按验收情况拨付。状态：2026通知已公布，未确认正在受理。时间：核验2026年9月通知中的具体截止日。"
+msgstr ":doc:`2026普陀科技研发平台项目 </funding/putuo-rd-platform>` （补助 · 不占股）： 最高200万元，首期不超过50%，余款按验收情况拨付。状态：2026年通知已公布，当前是否受理需确认。时间：确认2026年9月通知中的具体截止日。"
 
 #: ../../districts/putuo.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"

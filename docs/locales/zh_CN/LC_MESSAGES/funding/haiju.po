@@ -26,21 +26,17 @@ msgstr "比赛｜全市／全球"
 
 #: ../../funding/haiju.rst:6
 msgid "2026 competition published; track intake to confirm"
-msgstr "2026赛事已公布，赛道受理待确认"
+msgstr "2026年赛事已公布，具体赛道报名时间需确认"
 
 #: ../../funding/haiju.rst:8
-
-#| msgid ""
-#| "`Evidence S108 <https://www.hello-sh.com/haijuTalent/competition>`_. "
-#| "海聚英才官网."
 msgid ""
 "`Evidence S111 <https://www.hello-sh.com/haijuTalent/competition>`_. "
 "海聚英才官网."
-msgstr "`证据 S111 <https://www.hello-sh.com/haijuTalent/competition>`_. 海聚英才官网."
+msgstr "`资料来源 S111 <https://www.hello-sh.com/haijuTalent/competition>`_. 海聚英才官网."
 
 #: ../../funding/haiju.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/haiju.rst:13
 msgid "Track-specific awards, introductions and services"
@@ -48,18 +44,18 @@ msgstr "各赛道奖励、资源对接与服务"
 
 #: ../../funding/haiju.rst:15
 msgid "Award / investment terms vary"
-msgstr "奖励与投资条款各异"
+msgstr "奖励与投资条件分别约定"
 
 #: ../../funding/haiju.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/haiju.rst:20
 msgid ""
 "Apply through the official competition portal and qualifying division. "
 "District selection and final competition do not establish automatic "
 "funding or immigration status."
-msgstr "通过官方平台与合资格分赛区报名；区级选拔及决赛不自动产生资金或居留资格。"
+msgstr "通过官方平台及符合要求的分赛区报名。进入区级选拔或决赛，不代表自动获得资金或居留资格。"
 
 #: ../../funding/haiju.rst:22
 msgid "Confirm track and division dates"
@@ -67,50 +63,50 @@ msgstr "确认赛道及分赛区日期"
 
 #: ../../funding/haiju.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/haiju.rst:27
 msgid ""
 "`Official application / policy route "
 "<https://www.hello-sh.com/haijuTalent/competition>`_"
-msgstr "`官方申请／政策入口 <https://www.hello-sh.com/haijuTalent/competition>`_"
+msgstr "`官方申请渠道及政策文件 <https://www.hello-sh.com/haijuTalent/competition>`_"
 
 #: ../../funding/haiju.rst:29
 msgid ""
 "The linked authority or operator is the contact route. A direct current "
 "program contact is not established in this profile."
-msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+msgstr "请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。"
 
 #: ../../funding/haiju.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/haiju.rst:33
 msgid "Choose the correct competition track, region and applicant category."
-msgstr "选择正确赛道、地区及申请类别。"
+msgstr "选择适合的赛道、地区和报名类别。"
 
 #: ../../funding/haiju.rst:35
 msgid ""
 "Read the rules and submit the required project, team and IP evidence."
-msgstr "阅读规则，提交所需项目、团队及知识产权证据。"
+msgstr "阅读赛事规则，提交规定的项目、团队及知识产权证明。"
 
 #: ../../funding/haiju.rst:37
 msgid ""
 "Complete selection or pitching; confirm prize and service conditions in "
 "writing."
-msgstr "完成选拔或路演，书面确认奖励及服务条件。"
+msgstr "参加选拔或路演，并书面确认奖励和服务条件。"
 
 #: ../../funding/haiju.rst:39
 msgid ""
 "Treat investor introductions and district funding as separate follow-up "
 "decisions."
-msgstr "将投资对接及区级资助视为后续独立决策。"
+msgstr "投资对接和区级资助需分别审核，参赛不代表自动获得支持。"
 
 #: ../../funding/haiju.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

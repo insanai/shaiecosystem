@@ -22,27 +22,22 @@ msgstr "2026青浦区企业智能化改造扶持资金"
 
 #: ../../funding/qingpu-intelligent-2026.rst:4
 msgid "Grant / reimbursement | Qingpu"
-msgstr "补助与报销｜青浦区"
+msgstr "补助与费用补贴｜青浦区"
 
 #: ../../funding/qingpu-intelligent-2026.rst:6
 msgid "2026 call published; deadline check required"
-msgstr "2026通知已公布，须核验截止日"
+msgstr "2026年通知已公布，需确认截止时间"
 
 #: ../../funding/qingpu-intelligent-2026.rst:8
-
-#| msgid ""
-#| "`Evidence S133 "
-#| "<https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. "
-#| "关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
 msgid ""
 "`Evidence S136 "
 "<https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. "
 "关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
-msgstr "`证据 S136 <https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. 关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
+msgstr "`资料来源 S136 <https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. 关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
 
 #: ../../funding/qingpu-intelligent-2026.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/qingpu-intelligent-2026.rst:13
 msgid ""
@@ -56,66 +51,66 @@ msgstr "不占股"
 
 #: ../../funding/qingpu-intelligent-2026.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/qingpu-intelligent-2026.rst:20
 msgid ""
 "Qualifying Qingpu manufacturing and technology enterprises implementing "
 "intelligent factories, industrial AI inspection or digital supply-chain "
 "upgrades."
-msgstr "在青浦实施智能工厂、工业AI视觉检测或数字化供应链升级的合资格制造与科技企业。"
+msgstr "在青浦实施智能工厂、工业AI视觉检测或数字化供应链升级的符合条件的制造与科技企业。"
 
 #: ../../funding/qingpu-intelligent-2026.rst:22
 msgid "2026 notice issued 31 July 2026; confirm current batch window"
-msgstr "2026年通知于7月31日发布，须核验当前批次受理窗口"
+msgstr "2026年通知于7月31日发布，需确认当前批次受理时间"
 
 #: ../../funding/qingpu-intelligent-2026.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/qingpu-intelligent-2026.rst:27
 msgid "`Official application / policy route <https://www.shqp.gov.cn/>`_"
-msgstr "`官方申请／政策入口 <https://www.shqp.gov.cn/>`_"
+msgstr "`官方申请渠道及政策文件 <https://www.shqp.gov.cn/>`_"
 
 #: ../../funding/qingpu-intelligent-2026.rst:29
 msgid ""
 "The linked authority or operator is the contact route. A direct current "
 "program contact is not established in this profile."
-msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+msgstr "请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。"
 
 #: ../../funding/qingpu-intelligent-2026.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/qingpu-intelligent-2026.rst:33
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+msgstr "阅读有明确发布日期的通知，确认属地、申请主体、业务及费用发生期间等条件。"
 
 #: ../../funding/qingpu-intelligent-2026.rst:35
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "准备规定材料，按要求完成单位或区级推荐。"
+msgstr "按清单准备材料，并按要求取得依托单位或区级部门推荐。"
 
 #: ../../funding/qingpu-intelligent-2026.rst:37
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "在截止前通过官方平台提交并保存回执。"
+msgstr "在截止时间前通过官方平台提交，保存受理回执。"
 
 #: ../../funding/qingpu-intelligent-2026.rst:39
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+msgstr "按通知要求完成评审、立项、报告、验收及资金拨付手续。"
 
 #: ../../funding/qingpu-intelligent-2026.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

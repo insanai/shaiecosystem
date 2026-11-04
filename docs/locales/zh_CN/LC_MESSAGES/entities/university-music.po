@@ -26,7 +26,7 @@ msgstr "上海音乐学院"
 
 #: ../../entities/university-music.rst:6
 msgid "University | Xuhui | Research checked 2026-11-04"
-msgstr "高校｜徐汇区｜研究核对日期 2026-11-04"
+msgstr "高校｜徐汇区｜资料核查日期 2026-11-04"
 
 #: ../../entities/university-music.rst:8
 msgid "Ministry of Education institution code: 4131010278."
@@ -38,59 +38,54 @@ msgid ""
 "Suggested collaboration themes: Audio AI, music technology, creative "
 "tools. These themes are editorial routing guidance, not a verified offer "
 "of laboratory access or startup funding."
-msgstr "列入教育部2026年6月高校名录。建议合作主题：音频人工智能、音乐科技、创作工具。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。"
+msgstr "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：音频AI技术、音乐科技、创作工具。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。"
 
 #: ../../entities/university-music.rst:12
-
-#| msgid ""
-#| "`Evidence S083 "
-#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
-#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
 "`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`证据 S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`资料来源 S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-music.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/university-music.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/university-music.rst:19
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
-msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+msgstr "尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。"
 
 #: ../../entities/university-music.rst:21
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/university-music.rst:24
 msgid ""
 "Official university website; request the technology-transfer, research "
 "cooperation or entrepreneurship office"
-msgstr "通过高校官网咨询技术转移、科研合作或创业部门"
+msgstr "通过学校官网联系技术转移、科研合作或创业服务部门"
 
 #: ../../entities/university-music.rst:26
 msgid "`Official website / intake route <https://www.shcmusic.edu.cn/>`_"
-msgstr "`官网／对接入口 <https://www.shcmusic.edu.cn/>`_"
+msgstr "`官网及申请渠道 <https://www.shcmusic.edu.cn/>`_"
 
 #: ../../entities/university-music.rst:28
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/university-music.rst:30
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/university-music.rst:32
 msgid "Application workflow"
@@ -100,29 +95,29 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/university-music.rst:37
 msgid ""
 "Find the relevant research group and state the scientific or industrial "
 "problem."
-msgstr "匹配科研团队，明确科学或产业问题。"
+msgstr "寻找研究方向匹配的团队，明确科学问题或产业需求。"
 
 #: ../../entities/university-music.rst:39
 msgid ""
 "Send a short proposal covering data, equipment, outputs, funding and "
 "timescale."
-msgstr "发送涵盖数据、设备、成果、经费及时程的简短方案。"
+msgstr "提交简要合作方案，说明数据、设备、预期成果、经费和进度。"
 
 #: ../../entities/university-music.rst:41
 msgid ""
 "Agree the collaboration route, publication, IP and institutional "
 "authorization."
-msgstr "约定合作路径、发表、知识产权及单位授权。"
+msgstr "商定合作方式、成果发表、知识产权和单位授权。"
 
 #: ../../entities/university-music.rst:43
 msgid "Obtain written access or project approval before beginning the work."
-msgstr "开始工作前取得书面准入或项目批准。"
+msgstr "取得书面使用许可或项目批准后，再开展工作。"
 
 #: ../../entities/university-music.rst:45
 msgid ""
@@ -130,11 +125,11 @@ msgid ""
 "status is required, who owns the research IP, and whether support is a "
 "service, a loan, a grant or equity. The thematic match in this profile is "
 "editorial guidance."
-msgstr "确认外部创业者能否申请、是否要求在校或校友身份、科研知识产权权属，以及支持属于服务、贷款、补助还是股权。本档案的主题匹配为编辑建议。"
+msgstr "请确认校外创业者能否申请，是否要求在校生或校友身份，科研成果的知识产权归属，以及支持属于服务、贷款、补助还是股权投资。本页所列合作方向仅供参考。"
 
 #: ../../entities/university-music.rst:47
 msgid ":doc:`Xuhui district route </districts/xuhui>`"
-msgstr ":doc:`徐汇区对接路径 </districts/xuhui>`"
+msgstr ":doc:`徐汇区合作指南 </districts/xuhui>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

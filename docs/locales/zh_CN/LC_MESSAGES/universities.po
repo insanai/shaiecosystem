@@ -24,7 +24,7 @@ msgstr "高校与成果转化"
 msgid ""
 "40 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "40份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。"
+msgstr "收录40家机构，附资料来源、联系方式和申请参考。机构信息已核实，不代表当前正在接受申请。"
 
 #: ../../universities.rst:6
 msgid ""
@@ -32,7 +32,7 @@ msgid ""
 "an institutional profile here. Some have documented science-park or "
 "technology-transfer contacts; others have a general institutional route. "
 "A profile does not assert that a dedicated startup program is open."
-msgstr "官方上海名录中的40所本科院校均有机构档案。部分有科技园或技术转移联系渠道，其他仅有机构对接入口。档案不代表专属创业项目正在开放。"
+msgstr "收录官方名录中的上海40所本科院校。部分学校已提供科技园或技术转移部门的联系方式，其余可先通过学校官网咨询。收录学校信息，不代表该校有正在接受申请的创业项目。"
 
 #: ../../universities.rst:8
 msgid ""
@@ -42,7 +42,7 @@ msgstr ":doc:`含专科与成人高校的完整名录 <university-register>`"
 
 #: ../../universities.rst:12
 msgid "Complete directory summary"
-msgstr "完整机构名录摘要"
+msgstr "机构目录概览"
 
 #: ../../universities.rst:15
 msgid ""
@@ -53,7 +53,7 @@ msgid ""
 "not a verified offer of laboratory access or startup funding. Address: "
 "220 Handan Road, Yangpu | Tel: +86 21 65642222. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`复旦大学 <entities/university-fudan>` （复旦大学 · 高校 · 杨浦区 · 标识码 4131010246）—— 列入教育部2026年6月高校名录。建议合作主题：软件人工智能、芯片、科学智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。 地址：杨浦区邯郸路220号｜电话：+86 21 65642222。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`复旦大学 <entities/university-fudan>` （高校 · 杨浦区 · 标识码 4131010246）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：AI软件、芯片、科学智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。 地址：杨浦区邯郸路220号｜电话：+86 21 65642222。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:16
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. Address: 2F, West Building, 100 Guokang Road, Yangpu "
 "| Tel: +86 21 65069006. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`同济大学 <entities/university-tongji>` （同济大学 · 高校 · 杨浦区 · 标识码 4131010247）—— 列入教育部2026年6月高校名录。建议合作主题：自主系统、交通、机器人、建成环境。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。 地址：杨浦区国康路100号西楼2层｜电话：+86 21 65069006。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`同济大学 <entities/university-tongji>` （高校 · 杨浦区 · 标识码 4131010247）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：自主系统、交通、机器人、建筑与城市环境。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。 地址：杨浦区国康路100号西楼2层｜电话：+86 21 65069006。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:17
 msgid ""
@@ -74,7 +74,7 @@ msgid ""
 "Robotics, chips, engineering, medical AI. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海交通大学 <entities/university-sjtu>` （上海交通大学 · 高校 · 闵行区 · 标识码 4131010248）—— 列入教育部2026年6月高校名录。建议合作主题：机器人、芯片、工程、医疗人工智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海交通大学 <entities/university-sjtu>` （高校 · 闵行区 · 标识码 4131010248）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：机器人、芯片、工程、医疗人工智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:18
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "bioprocessing, AI for Science. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`华东理工大学 <entities/university-ecust>` （华东理工大学 · 高校 · 徐汇区 · 标识码 4131010251）—— 列入教育部2026年6月高校名录。建议合作主题：材料、化学、生物工艺、科学智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`华东理工大学 <entities/university-ecust>` （高校 · 徐汇区 · 标识码 4131010251）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：材料、化学、生物工艺、科学智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:19
 msgid ""
@@ -96,7 +96,7 @@ msgid ""
 "sensors, advanced equipment. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海理工大学 <entities/university-usst>` （上海理工大学 · 高校 · 杨浦区 · 标识码 4131010252）—— 列入教育部2026年6月高校名录。建议合作主题：光学、医疗器械、传感器、先进装备。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海理工大学 <entities/university-usst>` （高校 · 杨浦区 · 标识码 4131010252）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：光学、医疗器械、传感器、先进装备。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:20
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`上海海事大学 <entities/university-maritime>` （上海海事大学 · 高校 · 浦东新区 · 标识码 4131010254）—— 列入教育部2026年6月高校名录。建议合作主题：航运、物流、自主海事系统。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海海事大学 <entities/university-maritime>` （高校 · 浦东新区 · 标识码 4131010254）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：航运、物流、海上自主系统。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:21
 msgid ""
@@ -117,7 +117,7 @@ msgid ""
 "themes: Advanced fibers, materials, design, smart textiles. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`东华大学 <entities/university-donghua>` （东华大学 · 高校 · 松江区 · 标识码 4131010255）—— 列入教育部2026年6月高校名录。建议合作主题：先进纤维、材料、设计、智能纺织。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`东华大学 <entities/university-donghua>` （高校 · 松江区 · 标识码 4131010255）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：先进纤维、材料、设计、智能纺织。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:22
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "intelligence, industrial control. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海电力大学 <entities/university-electric-power>` （上海电力大学 · 高校 · 浦东新区 · 标识码 4131010256）—— 列入教育部2026年6月高校名录。建议合作主题：能源系统、智能电网、工业控制。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海电力大学 <entities/university-electric-power>` （高校 · 浦东新区 · 标识码 4131010256）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：能源系统、智能电网、工业控制。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:23
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`上海应用技术大学 <entities/university-sit>` （上海应用技术大学 · 高校 · 奉贤区 · 标识码 4131010259）—— 列入教育部2026年6月高校名录。建议合作主题：应用工程、材料、工业人工智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海应用技术大学 <entities/university-sit>` （高校 · 奉贤区 · 标识码 4131010259）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：应用工程、材料、工业人工智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:24
 msgid ""
@@ -150,7 +150,7 @@ msgid ""
 "clinical applications. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海健康医学院 <entities/university-sumhs>` （上海健康医学院 · 高校 · 浦东新区 · 标识码 4131010262）—— 列入教育部2026年6月高校名录。建议合作主题：健康器械、诊断、临床应用。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海健康医学院 <entities/university-sumhs>` （高校 · 浦东新区 · 标识码 4131010262）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：健康医疗设备、诊断、临床应用。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:25
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "Marine science, aquaculture, smart agriculture. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海海洋大学 <entities/university-ocean>` （上海海洋大学 · 高校 · 浦东新区 · 标识码 4131010264）—— 列入教育部2026年6月高校名录。建议合作主题：海洋科学、水产、智慧农业。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海海洋大学 <entities/university-ocean>` （高校 · 浦东新区 · 标识码 4131010264）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：海洋科学、水产养殖、智慧农业。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:26
 msgid ""
@@ -171,7 +171,7 @@ msgid ""
 "medical data. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海中医药大学 <entities/university-tcm>` （上海中医药大学 · 高校 · 浦东新区 · 标识码 4131010268）—— 列入教育部2026年6月高校名录。建议合作主题：医疗健康、药物发现、医学数据。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海中医药大学 <entities/university-tcm>` （高校 · 浦东新区 · 标识码 4131010268）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：医疗健康、药物发现、医学数据。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:27
 msgid ""
@@ -181,7 +181,7 @@ msgid ""
 "Software, education AI, data science, microelectronics. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`华东师范大学 <entities/university-ecnu>` （华东师范大学 · 高校 · 普陀区 · 标识码 4131010269）—— 列入教育部2026年6月高校名录。建议合作主题：软件、教育人工智能、数据科学、微电子。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`华东师范大学 <entities/university-ecnu>` （高校 · 普陀区 · 标识码 4131010269）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：软件、教育AI应用、数据科学、微电子。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:28
 msgid ""
@@ -191,7 +191,7 @@ msgid ""
 "Education, computer science, creative technology. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海师范大学 <entities/university-shnu>` （上海师范大学 · 高校 · 徐汇区 · 标识码 4131010270）—— 列入教育部2026年6月高校名录。建议合作主题：教育、计算机、创意科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海师范大学 <entities/university-shnu>` （高校 · 徐汇区 · 标识码 4131010270）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：教育、计算机、创意科技。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:29
 msgid ""
@@ -202,7 +202,7 @@ msgid ""
 "translation, international markets. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海外国语大学 <entities/university-sisu>` （上海外国语大学 · 高校 · 虹口区 · 标识码 4131010271）—— 列入教育部2026年6月高校名录。建议合作主题：语言技术、翻译、国际市场。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海外国语大学 <entities/university-sisu>` （高校 · 虹口区 · 标识码 4131010271）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：语言技术、翻译、国际市场。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:30
 msgid ""
@@ -213,7 +213,7 @@ msgid ""
 "models. These themes are editorial routing guidance, not a verified offer "
 "of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海财经大学 <entities/university-sufe>` （上海财经大学 · 高校 · 杨浦区 · 标识码 4131010272）—— 列入教育部2026年6月高校名录。建议合作主题：金融科技、分析、商业模式。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海财经大学 <entities/university-sufe>` （高校 · 杨浦区 · 标识码 4131010272）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：金融科技、数据分析、商业模式。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:31
 msgid ""
@@ -224,7 +224,7 @@ msgid ""
 "cross-border business. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海对外经贸大学 <entities/university-suibe>` （上海对外经贸大学 · 高校 · 松江区 · 标识码 4131010273）—— 列入教育部2026年6月高校名录。建议合作主题：贸易、商业、跨境业务。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海对外经贸大学 <entities/university-suibe>` （高校 · 松江区 · 标识码 4131010273）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：贸易、商业、跨境业务。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:32
 msgid ""
@@ -234,7 +234,7 @@ msgid ""
 "Customs, trade processes, compliance systems. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海海关学院 <entities/university-customs>` （上海海关学院 · 高校 · 浦东新区 · 标识码 4131010274）—— 列入教育部2026年6月高校名录。建议合作主题：海关、贸易流程、合规系统。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海海关学院 <entities/university-customs>` （高校 · 浦东新区 · 标识码 4131010274）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：海关、贸易流程、合规系统。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:33
 msgid ""
@@ -245,7 +245,7 @@ msgid ""
 "technology. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`华东政法大学 <entities/university-ecupl>` （华东政法大学 · 高校 · 松江区 · 标识码 4131010276）—— 列入教育部2026年6月高校名录。建议合作主题：知识产权、数据治理、法律科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`华东政法大学 <entities/university-ecupl>` （高校 · 松江区 · 标识码 4131010276）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：知识产权、数据治理、法律科技。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:34
 msgid ""
@@ -255,7 +255,7 @@ msgid ""
 "Sports science, motion analysis, wearables. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海体育大学 <entities/university-sport>` （上海体育大学 · 高校 · 杨浦区 · 标识码 4131010277）—— 列入教育部2026年6月高校名录。建议合作主题：运动科学、动作分析、可穿戴设备。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海体育大学 <entities/university-sport>` （高校 · 杨浦区 · 标识码 4131010277）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：运动科学、动作分析、可穿戴设备。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:35
 msgid ""
@@ -265,7 +265,7 @@ msgid ""
 "Audio AI, music technology, creative tools. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海音乐学院 <entities/university-music>` （上海音乐学院 · 高校 · 徐汇区 · 标识码 4131010278）—— 列入教育部2026年6月高校名录。建议合作主题：音频人工智能、音乐科技、创作工具。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海音乐学院 <entities/university-music>` （高校 · 徐汇区 · 标识码 4131010278）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：音频AI技术、音乐科技、创作工具。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:36
 msgid ""
@@ -275,7 +275,7 @@ msgid ""
 "Performance, virtual production, creative media. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海戏剧学院 <entities/university-theatre>` （上海戏剧学院 · 高校 · 静安区 · 标识码 4131010279）—— 列入教育部2026年6月高校名录。建议合作主题：表演、虚拟制作、创意媒体。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海戏剧学院 <entities/university-theatre>` （高校 · 静安区 · 标识码 4131010279）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：表演、虚拟制作、创意媒体。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:37
 msgid ""
@@ -286,7 +286,7 @@ msgid ""
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. Address: 3F, Science Building, 788 Guangzhong Road, "
 "Jing'an. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海大学 <entities/university-shu>` （上海大学 · 高校 · 静安区 · 标识码 4131010280）—— 列入教育部2026年6月高校名录。建议合作主题：制造、机器人、材料、数字媒体。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。 地址：静安区广中路788号科技楼3楼。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海大学 <entities/university-shu>` （高校 · 静安区 · 标识码 4131010280）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：制造、机器人、材料、数字媒体。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。 地址：静安区广中路788号科技楼3楼。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:38
 msgid ""
@@ -296,7 +296,7 @@ msgid ""
 "Public-safety education; external project access unverified. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海公安学院 <entities/university-police>` （上海公安学院 · 高校 · 浦东新区 · 标识码 4131010283）—— 列入教育部2026年6月高校名录。建议合作主题：公共安全教育，外部项目准入未核实。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海公安学院 <entities/university-police>` （高校 · 浦东新区 · 标识码 4131010283）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：公共安全教育；校外团队参与条件尚未确认。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:39
 msgid ""
@@ -307,7 +307,7 @@ msgid ""
 "manufacturing, design. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海工程技术大学 <entities/university-sues>` （上海工程技术大学 · 高校 · 松江区 · 标识码 4131010856）—— 列入教育部2026年6月高校名录。建议合作主题：工程、交通、制造、设计。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海工程技术大学 <entities/university-sues>` （高校 · 松江区 · 标识码 4131010856）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：工程、交通、制造、设计。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:40
 msgid ""
@@ -318,7 +318,7 @@ msgid ""
 "business analytics. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海立信会计金融学院 <entities/university-lixin>` （上海立信会计金融学院 · 高校 · 浦东新区 · 标识码 4131011047）—— 列入教育部2026年6月高校名录。建议合作主题：会计系统、金融科技、商业分析。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海立信会计金融学院 <entities/university-lixin>` （高校 · 浦东新区 · 标识码 4131011047）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：会计系统、金融科技、商业分析。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:41
 msgid ""
@@ -328,7 +328,7 @@ msgid ""
 "Electrical equipment, advanced manufacturing. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海电机学院 <entities/university-dianji>` （上海电机学院 · 高校 · 浦东新区 · 标识码 4131011458）—— 列入教育部2026年6月高校名录。建议合作主题：电气装备、先进制造。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海电机学院 <entities/university-dianji>` （高校 · 浦东新区 · 标识码 4131011458）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：电气装备、先进制造。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:42
 msgid ""
@@ -338,7 +338,7 @@ msgid ""
 "digital business and talent partnerships. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海杉达学院 <entities/university-sanda>` （上海杉达学院 · 高校 · 浦东新区 · 标识码 4131011833）—— 列入教育部2026年6月高校名录。建议合作主题：应用数字商业与人才合作。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海杉达学院 <entities/university-sanda>` （高校 · 浦东新区 · 标识码 4131011833）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：数字商务应用与人才培养合作。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:43
 msgid ""
@@ -349,7 +349,7 @@ msgid ""
 "governance. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海政法学院 <entities/university-shupl>` （上海政法学院 · 高校 · 青浦区 · 标识码 4131011835）—— 列入教育部2026年6月高校名录。建议合作主题：法律科技、知识产权、治理。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海政法学院 <entities/university-shupl>` （高校 · 青浦区 · 标识码 4131011835）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：法律科技、知识产权、治理。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:44
 msgid ""
@@ -360,7 +360,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`上海第二工业大学 <entities/university-polytechnic>` （上海第二工业大学 · 高校 · 浦东新区 · 标识码 4131012044）—— 列入教育部2026年6月高校名录。建议合作主题：应用工程、电子、制造。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海第二工业大学 <entities/university-polytechnic>` （高校 · 浦东新区 · 标识码 4131012044）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：应用工程、电子、制造。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:45
 msgid ""
@@ -370,7 +370,7 @@ msgid ""
 "Digital retail, commerce, service innovation. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海商学院 <entities/university-business>` （上海商学院 · 高校 · 奉贤区 · 标识码 4131012050）—— 列入教育部2026年6月高校名录。建议合作主题：数字零售、商业、服务创新。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海商学院 <entities/university-business>` （高校 · 奉贤区 · 标识码 4131012050）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：数字零售、商业、服务创新。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:46
 msgid ""
@@ -380,7 +380,7 @@ msgid ""
 "themes: Applied business, design and creative technology. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海立达学院 <entities/university-lida>` （上海立达学院 · 高校 · 松江区 · 标识码 4131012587）—— 列入教育部2026年6月高校名录。建议合作主题：应用商业、设计与创意科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海立达学院 <entities/university-lida>` （高校 · 松江区 · 标识码 4131012587）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：商业应用、设计与创意科技。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:47
 msgid ""
@@ -390,7 +390,7 @@ msgid ""
 "collaboration themes: Applied engineering, digital media, business. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海建桥学院 <entities/university-jianqiao>` （上海建桥学院 · 高校 · 浦东新区 · 标识码 4131012799）—— 列入教育部2026年6月高校名录。建议合作主题：应用工程、数字媒体、商业。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海建桥学院 <entities/university-jianqiao>` （高校 · 浦东新区 · 标识码 4131012799）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：应用工程、数字媒体、商业。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:48
 msgid ""
@@ -400,7 +400,7 @@ msgid ""
 "Interdisciplinary education and entrepreneurship conversations. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海兴伟学院 <entities/university-xingwei>` （上海兴伟学院 · 高校 · 浦东新区 · 标识码 4131012914）—— 列入教育部2026年6月高校名录。建议合作主题：跨学科教育与创业对接。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海兴伟学院 <entities/university-xingwei>` （高校 · 浦东新区 · 标识码 4131012914）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：跨学科教育与创业对接。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:49
 msgid ""
@@ -411,7 +411,7 @@ msgid ""
 "undergraduate engineering and applied skills. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海中侨职业技术大学 <entities/university-zhongqiao>` （上海中侨职业技术大学 · 高校 · 金山区 · 标识码 4131012915）—— 列入教育部2026年6月高校名录。建议合作主题：职业本科工程与应用技能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海中侨职业技术大学 <entities/university-zhongqiao>` （高校 · 金山区 · 标识码 4131012915）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：职业本科工程与应用技能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:50
 msgid ""
@@ -422,7 +422,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`上海视觉艺术学院 <entities/university-siva>` （上海视觉艺术学院 · 高校 · 松江区 · 标识码 4131013632）—— 列入教育部2026年6月高校名录。建议合作主题：设计、数字内容与创意科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海视觉艺术学院 <entities/university-siva>` （高校 · 松江区 · 标识码 4131013632）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：设计、数字内容与创意科技。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:51
 msgid ""
@@ -433,7 +433,7 @@ msgid ""
 "and creative applications. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海外国语大学贤达经济人文学院 <entities/university-xianda>` （上海外国语大学贤达经济人文学院 · 高校 · 虹口区 · 标识码 4131013636）—— 列入教育部2026年6月高校名录。建议合作主题：语言、商业与创意应用。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海外国语大学贤达经济人文学院 <entities/university-xianda>` （高校 · 虹口区 · 标识码 4131013636）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：语言、商业与创意应用。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:52
 msgid ""
@@ -444,7 +444,7 @@ msgid ""
 "engineering and digital business. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海师范大学天华学院 <entities/university-tianhua>` （上海师范大学天华学院 · 高校 · 嘉定区 · 标识码 4131013893）—— 列入教育部2026年6月高校名录。建议合作主题：应用教育、工程与数字商业。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海师范大学天华学院 <entities/university-tianhua>` （高校 · 嘉定区 · 标识码 4131013893）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：应用教育、工程与数字商业。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:53
 msgid ""
@@ -454,7 +454,7 @@ msgid ""
 "Chips, software AI, scientific instruments, biotech. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海科技大学 <entities/university-shanghaitech>` （上海科技大学 · 高校 · 浦东新区 · 标识码 4131014423）—— 列入教育部2026年6月高校名录。建议合作主题：芯片、软件人工智能、科学仪器、生物科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海科技大学 <entities/university-shanghaitech>` （高校 · 浦东新区 · 标识码 4131014423）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：芯片、AI软件、科学仪器、生物科技。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../universities.rst:54
 msgid ""
@@ -464,4 +464,4 @@ msgid ""
 "science, computation and international research. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海纽约大学 <entities/university-nyu>` （上海纽约大学 · 高校 · 浦东新区 · 标识码 4131016404）—— 列入教育部2026年6月高校名录。建议合作主题：数据科学、计算与国际科研。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海纽约大学 <entities/university-nyu>` （高校 · 浦东新区 · 标识码 4131016404）：该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：数据科学、计算与国际科研。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"

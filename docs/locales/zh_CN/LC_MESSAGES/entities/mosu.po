@@ -26,64 +26,64 @@ msgstr "上海模速空间"
 
 #: ../../entities/mosu.rst:6
 msgid "Incubator | Xuhui | Research checked 2026-11-04"
-msgstr "孵化器｜徐汇区｜研究核对日期 2026-11-04"
+msgstr "孵化器｜徐汇区｜资料核查日期 2026-11-04"
 
 #: ../../entities/mosu.rst:8
 msgid "AI and industry focus: Software AI."
-msgstr "人工智能与产业方向：软件人工智能。"
+msgstr "AI及产业方向：AI软件。"
 
 #: ../../entities/mosu.rst:10
 msgid ""
 "A specialist large-model incubation and acceleration community on the "
 "West Bund. Its operator lists several zones; admission, workspace, "
 "compute support and investment are separate decisions."
-msgstr "西岸专业大模型孵化加速社区。运营方列有多个片区；入驻、办公空间、算力支持与投资属于不同事项。"
+msgstr "位于西岸的大模型专业孵化加速社区。运营方公布了多个片区，入驻资格、办公场地、算力支持和投资应分别确认，不能视为同一份支持方案。"
 
 #: ../../entities/mosu.rst:12
 msgid "`Evidence S001 <https://www.opensmc.com/>`_. 模速空间."
-msgstr "`证据 S001 <https://www.opensmc.com/>`_. 模速空间."
+msgstr "`资料来源 S001 <https://www.opensmc.com/>`_. 模速空间."
 
 #: ../../entities/mosu.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/mosu.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/mosu.rst:19
 msgid "Published support note: Services / possible incentives."
-msgstr "已公布支持说明：空间服务／潜在政策激励。"
+msgstr "公开支持内容：场地及服务支持，可能另有政策优惠。"
 
 #: ../../entities/mosu.rst:21
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
-msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+msgstr "尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。"
 
 #: ../../entities/mosu.rst:23
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/mosu.rst:26
 msgid "`Official website / intake route <https://www.opensmc.com/>`_"
-msgstr "`官网／对接入口 <https://www.opensmc.com/>`_"
+msgstr "`官网及申请渠道 <https://www.opensmc.com/>`_"
 
 #: ../../entities/mosu.rst:28
 msgid "Published address: Zone A, 180 Longtai Road, Xuhui."
-msgstr "公布地址：徐汇区龙台路180号A区。"
+msgstr "公开地址：徐汇区龙台路180号A区。"
 
 #: ../../entities/mosu.rst:30
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/mosu.rst:32
 msgid ""
 "Map point is approximate, based on the published street context; it is "
 "not an entrance or navigation coordinate."
-msgstr "地图点依据公布街道信息近似定位，不是入口或导航坐标。"
+msgstr "地图根据公开街道信息标注大致位置，不用于确认入口或导航。"
 
 #: ../../entities/mosu.rst:34
 msgid "Application workflow"
@@ -93,32 +93,32 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/mosu.rst:39
 msgid "Send a project brief and request the current admission checklist."
-msgstr "发送项目简介，索取现行入驻清单。"
+msgstr "发送项目简介，索取最新入驻条件及材料清单。"
 
 #: ../../entities/mosu.rst:41
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "完成运营方资格及技术或商业评审。"
+msgstr "按运营机构要求完成资格审核及技术或商业评审。"
 
 #: ../../entities/mosu.rst:43
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "书面确认租金、服务费、知识产权、算力价格及任何股权权利。"
+msgstr "书面确认租金、服务费、知识产权、算力价格及股权相关条款。"
 
 #: ../../entities/mosu.rst:45
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "签署入驻文件，记录里程碑与服务负责人。"
+msgstr "签署入驻协议，明确阶段目标和服务对接人。"
 
 #: ../../entities/mosu.rst:47
 msgid ":doc:`Xuhui district route </districts/xuhui>`"
-msgstr ":doc:`徐汇区对接路径 </districts/xuhui>`"
+msgstr ":doc:`徐汇区合作指南 </districts/xuhui>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

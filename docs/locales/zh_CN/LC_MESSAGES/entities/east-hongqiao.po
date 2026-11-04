@@ -26,11 +26,11 @@ msgstr "东虹桥国际青年科创中心"
 
 #: ../../entities/east-hongqiao.rst:6
 msgid "Incubator | Changning | Research checked 2026-11-04"
-msgstr "孵化器｜长宁区｜研究核对日期 2026-11-04"
+msgstr "孵化器｜长宁区｜资料核查日期 2026-11-04"
 
 #: ../../entities/east-hongqiao.rst:8
 msgid "AI and industry focus: Software AI."
-msgstr "人工智能与产业方向：软件人工智能。"
+msgstr "AI及产业方向：AI软件。"
 
 #: ../../entities/east-hongqiao.rst:10
 msgid ""
@@ -38,50 +38,50 @@ msgid ""
 "independent founders, combining incubation, AI services, talent support "
 "and global business resources. Confirm the current operator's selection "
 "and service terms."
-msgstr "长宁2026年5月官方报道介绍人工智能超级个体创新枢纽，结合孵化、人工智能服务、人才及全球商业资源。须核验当前运营方遴选及服务条款。"
+msgstr "长宁2026年5月官方报道介绍的AI超级个体创新平台，整合孵化、AI服务、人才和国际商务资源。当前运营机构遴选情况及服务条款，需进一步确认。"
 
 #: ../../entities/east-hongqiao.rst:12
 msgid ""
 "`Evidence S052 "
 "<https://english.shanghai.gov.cn/en-PressRelease/20260522/2052ca9d55084c329ebec8eec82848b8.html>`_. "
 "Press Release."
-msgstr "`证据 S052 <https://english.shanghai.gov.cn/en-PressRelease/20260522/2052ca9d55084c329ebec8eec82848b8.html>`_. Press Release."
+msgstr "`资料来源 S052 <https://english.shanghai.gov.cn/en-PressRelease/20260522/2052ca9d55084c329ebec8eec82848b8.html>`_. Press Release."
 
 #: ../../entities/east-hongqiao.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/east-hongqiao.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/east-hongqiao.rst:19
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
-msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+msgstr "尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。"
 
 #: ../../entities/east-hongqiao.rst:21
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/east-hongqiao.rst:24
 msgid ""
 "`Official evidence and authority route "
 "<https://english.shanghai.gov.cn/en-PressRelease/20260522/2052ca9d55084c329ebec8eec82848b8.html>`_"
-msgstr "`官方来源与主管部门入口 <https://english.shanghai.gov.cn/en-PressRelease/20260522/2052ca9d55084c329ebec8eec82848b8.html>`_"
+msgstr "`官方资料及主管部门 <https://english.shanghai.gov.cn/en-PressRelease/20260522/2052ca9d55084c329ebec8eec82848b8.html>`_"
 
 #: ../../entities/east-hongqiao.rst:26
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/east-hongqiao.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/east-hongqiao.rst:30
 msgid "Application workflow"
@@ -91,32 +91,32 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/east-hongqiao.rst:35
 msgid "Send a project brief and request the current admission checklist."
-msgstr "发送项目简介，索取现行入驻清单。"
+msgstr "发送项目简介，索取最新入驻条件及材料清单。"
 
 #: ../../entities/east-hongqiao.rst:37
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "完成运营方资格及技术或商业评审。"
+msgstr "按运营机构要求完成资格审核及技术或商业评审。"
 
 #: ../../entities/east-hongqiao.rst:39
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "书面确认租金、服务费、知识产权、算力价格及任何股权权利。"
+msgstr "书面确认租金、服务费、知识产权、算力价格及股权相关条款。"
 
 #: ../../entities/east-hongqiao.rst:41
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "签署入驻文件，记录里程碑与服务负责人。"
+msgstr "签署入驻协议，明确阶段目标和服务对接人。"
 
 #: ../../entities/east-hongqiao.rst:43
 msgid ":doc:`Changning district route </districts/changning>`"
-msgstr ":doc:`长宁区对接路径 </districts/changning>`"
+msgstr ":doc:`长宁区合作指南 </districts/changning>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

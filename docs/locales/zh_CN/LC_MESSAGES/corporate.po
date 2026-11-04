@@ -18,24 +18,24 @@ msgstr ""
 
 #: ../../corporate.rst:1
 msgid "Corporate and global programs"
-msgstr "企业与全球计划"
+msgstr "企业创新与全球项目"
 
 #: ../../corporate.rst:4
 msgid ""
 "13 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "13份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。"
+msgstr "收录13家机构，附资料来源、联系方式和申请参考。机构信息已核实，不代表当前正在接受申请。"
 
 #: ../../corporate.rst:6
 msgid ""
 "Global programs are kept separate from local offices. Their China-region "
 "eligibility, service availability and account rules require direct "
 "verification. Historical corporate cohorts are marked."
-msgstr "全球计划与本地办公室区分，中国地区资格、服务及账户规则须直接核实。历史企业招募另行标注。"
+msgstr "全球项目与上海本地办公机构分别说明。中国区的申请条件、服务范围及账户规则，应向运营方确认；历史批次另作标注。"
 
 #: ../../corporate.rst:10
 msgid "Complete directory summary"
-msgstr "完整机构名录摘要"
+msgstr "机构目录概览"
 
 #: ../../corporate.rst:13
 msgid ""
@@ -45,7 +45,7 @@ msgid ""
 "and AI-enabled discovery teams. Scientific fit, space, collaboration, "
 "funding and IP terms are distinct questions. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`罗氏加速器 <entities/roche>` （罗氏加速器 · 企业创新计划 · 浦东新区 · 方向：健康、科学智能）—— 罗氏介绍其位于上海、服务中国创新生态的加速器，适合医疗健康及人工智能研发团队。科研匹配、空间、合作、资金与知识产权须分别确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`罗氏加速器 <entities/roche>` （企业创新计划 · 浦东新区 · 方向：健康、科学智能）：罗氏在上海设立、面向中国创新生态的加速器，医疗健康及AI研发团队可了解相关资源。科研匹配、空间、合作、资金和知识产权需分别确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../corporate.rst:14
 msgid ""
@@ -55,7 +55,7 @@ msgid ""
 "included as a historical corporate route; the source does not establish a "
 "2026 Shanghai intake. Support: Equity-free services. [Status: Historical "
 "/ confirm continuation]"
-msgstr ":doc:`SAP.iO上海加速器 <entities/sapio>` （SAP.iO上海加速器 · 企业创新计划 · 浦东新区 · 方向：软件人工智能、产业）—— 2021年启动公告介绍了不索取股权的智能制造加速器。本条作为历史企业合作路径收录；来源不能证明2026年上海仍在招募。 支持机制：不占股服务。【状态：历史项目，须确认延续】"
+msgstr ":doc:`SAP.iO上海加速器 <entities/sapio>` （企业创新计划 · 浦东新区 · 方向：AI软件、产业）：2021年启动公告介绍了不要求出让股权的智能制造加速项目。本条保留为历史企业合作信息，不能据此判断2026年上海仍在征集项目。 支持方式：无需出让股权的服务支持。【状态：历史项目，是否延续需确认】"
 
 #: ../../corporate.rst:15
 msgid ""
@@ -65,7 +65,7 @@ msgid ""
 "routes. Its May 2025 Shanghai AI event is evidence of ecosystem activity, "
 "not an always-open startup accelerator cohort. Propose a measurable "
 "robotics use case. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`ABB开放创新／上海机器人生态 <entities/abb>` （ABB开放创新／上海机器人生态 · 企业创新计划 · 浦东新区 · 方向：硬件人工智能、机器人）—— ABB公布开放创新及初创企业合作路径。2025年5月上海人工智能活动证明生态活动存在，不代表长期开放的加速营。可提交可量化的机器人应用方案。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`ABB开放创新／上海机器人生态 <entities/abb>` （企业创新计划 · 浦东新区 · 方向：AI硬件、机器人）：ABB公布了开放创新及初创企业合作渠道。2025年5月上海AI活动可确认相关活动曾开展，但不代表设有长期开放的加速营。机器人团队可提交目标明确、可量化的应用方案。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../corporate.rst:16
 msgid ""
@@ -75,7 +75,7 @@ msgid ""
 "include it as a robotics industry route and require direct confirmation "
 "of intake, pilot access, investment and hardware resources. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`卓益得生态加速器 <entities/droidup>` （卓益得生态加速器 · 企业创新计划 · 浦东新区 · 方向：硬件人工智能、机器人）—— 2025年12月张江机器人谷报道记录其启动。本条作为机器人产业对接路径收录，招募、试点、投资与硬件资源均须直接确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`卓益得生态加速器 <entities/droidup>` （企业创新计划 · 浦东新区 · 方向：AI硬件、机器人）：2025年12月张江机器人谷报道记录了该加速器的启动。机器人团队可据此寻找产业合作，但当前项目征集、试点、投资和硬件资源均需向运营方确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../corporate.rst:17
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "resources. Explore its technical services and developer events; confirm "
 "whether a specific training or compute offer carries fees. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海人工智能公共技术服务平台 <entities/paddle>` （上海人工智能公共技术服务平台 · 企业创新计划 · 浦东新区 · 方向：软件人工智能）—— 飞桨相关平台公布人工智能培训及生态资源，可对接技术服务与开发者活动；具体培训或算力服务是否收费须确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海人工智能公共技术服务平台 <entities/paddle>` （企业创新计划 · 浦东新区 · 方向：AI软件）：飞桨相关平台提供AI培训及开发者生态资源，可咨询技术服务和活动安排。具体培训或算力服务是否收费，需单独确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../corporate.rst:18
 msgid ""
@@ -96,7 +96,7 @@ msgid ""
 "scope, Huawei ecosystem interface and actual startup admission before "
 "describing a benefit package. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`长三角AI+联合创新中心 <entities/huawei-ai>` （长三角AI+联合创新中心 · 企业创新计划 · 青浦区 · 方向：软件人工智能、硬件人工智能）—— 2026年7月官方报道记录中心在青浦投入运营。应确认运营方、技术范围、华为生态接口及初创企业实际准入，不能自行推定支持包。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`长三角AI+联合创新中心 <entities/huawei-ai>` （企业创新计划 · 青浦区 · 方向：AI软件、AI硬件）：2026年7月官方报道记录该中心在青浦投入运营。申请前应确认运营主体、技术服务范围、华为生态对接方式及初创企业准入条件，不能自行推定可获得哪些资源。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../corporate.rst:19
 msgid ""
@@ -106,7 +106,7 @@ msgid ""
 "requirement. It is not a cash grant. China eligibility, product access "
 "and partner benefits must be checked for the specific company. Support: "
 "Equity-free services. [Status: Program published; eligibility review]"
-msgstr ":doc:`英伟达初创加速计划 <entities/nvidia>` （英伟达初创加速计划 · 全球计划 · 全市／全球 · 方向：软件人工智能、硬件人工智能）—— 无需申请费、会员费或股权的人工智能初创生态计划，并非现金补助。应针对企业确认中国地区资格、产品可用性及合作伙伴权益。 支持机制：不占股服务。【状态：项目已公布，须资格审核】"
+msgstr ":doc:`英伟达初创加速计划 <entities/nvidia>` （全球计划 · 全市／全球 · 方向：AI软件、AI硬件）：面向AI初创企业的生态计划，不收申请费、会员费，也不要求出让股权，但不提供通用现金补助。企业需确认中国区资格、产品供应及合作伙伴权益。 支持方式：无需出让股权的服务支持。【状态：已公布，需审核申请资格】"
 
 #: ../../corporate.rst:20
 msgid ""
@@ -116,7 +116,7 @@ msgid ""
 "do not transfer historic Shanghai accelerator terms or global credit "
 "ceilings to China-region accounts. Validate the legal entity and region "
 "first. Support: Cloud credits. [Status: Regional eligibility to confirm]"
-msgstr ":doc:`微软初创企业计划 <entities/ms-startups>` （微软初创企业计划 · 全球计划 · 全市／全球 · 方向：软件人工智能）—— 现行计划通过在线申请提供Azure相关创业资源。本书不将历史上海加速器条款或全球积分上限套用于中国区账户，须先核实主体与地区。 支持机制：云积分。【状态：地区资格待确认】"
+msgstr ":doc:`微软初创企业计划 <entities/ms-startups>` （全球计划 · 全市／全球 · 方向：AI软件）：通过在线申请提供Azure等创业资源。中国区企业和账户的适用条件需单独确认，不能沿用历史上海加速器条款或直接套用全球服务额度上限。 支持方式：云服务额度。【状态：地区适用条件需确认】"
 
 #: ../../corporate.rst:21
 msgid ""
@@ -126,7 +126,7 @@ msgid ""
 "incubation relationship conditions. Credits offset eligible services; "
 "they are not cash and should not be confused with the separate global AWS "
 "offer. Support: Cloud credits. [Status: Regional eligibility to confirm]"
-msgstr ":doc:`亚马逊云科技中国区Activate <entities/aws-activate>` （亚马逊云科技中国区Activate · 全球计划 · 全市／全球 · 方向：软件人工智能）—— 中国区创业支持要求符合企业、客户及合作投资或孵化关系等条件。积分抵扣合资格服务，并非现金，也不同于全球AWS计划。 支持机制：云积分。【状态：地区资格待确认】"
+msgstr ":doc:`亚马逊云科技中国区Activate <entities/aws-activate>` （全球计划 · 全市／全球 · 方向：AI软件）：中国区初创企业支持计划，对企业、新客户身份及投资机构或孵化合作关系设有条件。服务额度只能抵扣规定的云服务，不能兑换现金，也不能直接套用全球AWS规则。 支持方式：云服务额度。【状态：地区适用条件需确认】"
 
 #: ../../corporate.rst:22
 msgid ""
@@ -136,7 +136,7 @@ msgid ""
 "For AI-enabled healthcare, clarify scientific fit, laboratory "
 "requirements, residency pricing, IP and any separate challenge or "
 "investment terms. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`强生创新JLABS上海 <entities/jlabs>` （强生创新JLABS上海 · 企业创新计划 · 浦东新区 · 方向：健康、科学智能）—— 运营方列明的张江生命科学孵化基地，提供申请入口。人工智能医疗项目应确认科研匹配、实验需求、入驻费用、知识产权及独立挑战赛或投资条款。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`强生创新JLABS上海 <entities/jlabs>` （企业创新计划 · 浦东新区 · 方向：健康、科学智能）：运营方公布的张江生命科学孵化基地，设有申请渠道。AI医疗团队应确认研究方向、实验需求、入驻费用和知识产权安排；挑战赛或投资项目另有条件。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../corporate.rst:23
 msgid ""
@@ -146,7 +146,7 @@ msgid ""
 "for early biotech teams in SH-INNO Park. Confirm available residency and "
 "collaboration terms; the historic capacity is not a current vacancy "
 "count. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`拜耳Co.Lab上海 <entities/bayer>` （拜耳Co.Lab上海 · 企业创新计划 · 浦东新区 · 方向：健康、科学智能）—— 拜耳2024年9月上海基地启动资料介绍SH-INNO园区内早期生物科技团队的共享实验及办公空间。应确认当前入驻与合作条款，历史容量不是实时空位。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`拜耳Co.Lab上海 <entities/bayer>` （企业创新计划 · 浦东新区 · 方向：健康、科学智能）：拜耳2024年9月启动资料介绍了SH-INNO园区内面向早期生物科技团队的共享实验室及办公场地。当前入驻与合作条款需进一步确认，历史公布容量不代表实时空位。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../corporate.rst:24
 msgid ""
@@ -157,7 +157,7 @@ msgid ""
 "separate China Xcelerator platform. Marketplace onboarding and industrial "
 "partnerships are distinct from a funding award. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`西门子初创企业与Xcelerator生态 <entities/siemens>` （西门子初创企业与Xcelerator生态 · 全球计划 · 全市／全球 · 方向：软件人工智能、硬件人工智能、产业）—— 西门子公布工业解决方案的初创连接及市场平台路径，中国另有Xcelerator平台。市场入驻与产业合作不同于资金资助。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`西门子初创企业与Xcelerator生态 <entities/siemens>` （全球计划 · 全市／全球 · 方向：AI软件、AI硬件、产业）：西门子提供工业解决方案相关的初创企业合作及市场平台，中国另设Xcelerator平台。平台入驻、产业合作与资金资助是不同事项。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../corporate.rst:25
 msgid ""
@@ -168,4 +168,4 @@ msgid ""
 "the responsible China business owner and pilot requirements; "
 "venture-client activity is not necessarily equity investment. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`宝马集团Startup Garage <entities/bmw>` （宝马集团Startup Garage · 全球计划 · 全市／全球 · 方向：交通、硬件人工智能、软件人工智能）—— 宝马介绍通过风险客户模式评估用于产品、服务及内部流程的初创解决方案。须确认中国业务负责人及试点要求；风险客户活动不一定涉及股权投资。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`宝马集团Startup Garage <entities/bmw>` （全球计划 · 全市／全球 · 方向：交通、AI硬件、AI软件）：宝马通过“风险客户”（venture client）模式，评估初创企业的产品、服务及内部流程解决方案。需确认中国业务对接人及试点要求；作为早期客户开展合作，并不一定涉及股权投资。【状态：机构信息已核实，当前是否接受申请需确认】"

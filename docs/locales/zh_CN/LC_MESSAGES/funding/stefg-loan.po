@@ -26,15 +26,15 @@ msgstr "贷款｜全市／全球"
 
 #: ../../funding/stefg-loan.rst:6
 msgid "Program published; eligibility review"
-msgstr "项目已公布，须资格审核"
+msgstr "已公布，需审核申请资格"
 
 #: ../../funding/stefg-loan.rst:8
 msgid "`Evidence S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
-msgstr "`证据 S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
+msgstr "`资料来源 S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
 
 #: ../../funding/stefg-loan.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/stefg-loan.rst:13
 msgid ""
@@ -43,11 +43,11 @@ msgstr "最高50万元，免息，资助期3年，36个月等额本金偿还"
 
 #: ../../funding/stefg-loan.rst:15
 msgid "No equity; repayable"
-msgstr "不占股，须偿还"
+msgstr "不要求出让股权，需还款"
 
 #: ../../funding/stefg-loan.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/stefg-loan.rst:20
 msgid ""
@@ -55,7 +55,7 @@ msgid ""
 "founder is the largest natural-person shareholder and legal "
 "representative; full-time startup; Shanghai company registered at most 3 "
 "years."
-msgstr "符合在读或毕业生条件、40周岁及以下的中国籍创业者；须为自然人大股东与法定代表人，全职创业，上海企业成立不超过3年。"
+msgstr "符合在读或毕业条件、年龄40周岁及以下的中国籍创业者，需为自然人第一大股东及法定代表人，全职创业，且所创上海企业成立不超过3年。"
 
 #: ../../funding/stefg-loan.rst:22
 msgid "Confirm branch intake and review schedule"
@@ -63,50 +63,50 @@ msgstr "确认受理分会及评审安排"
 
 #: ../../funding/stefg-loan.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/stefg-loan.rst:27
 msgid ""
 "`Official application / policy route "
 "<https://fund.stefg.org/Angel/Intro.aspx>`_"
-msgstr "`官方申请／政策入口 <https://fund.stefg.org/Angel/Intro.aspx>`_"
+msgstr "`官方申请渠道及政策文件 <https://fund.stefg.org/Angel/Intro.aspx>`_"
 
 #: ../../funding/stefg-loan.rst:29
 msgid "Published consultation: +86 21 55231818."
-msgstr "公布咨询电话：+86 21 55231818。"
+msgstr "咨询电话：+86 21 55231818。"
 
 #: ../../funding/stefg-loan.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/stefg-loan.rst:33
 msgid ""
 "Read the foundation's current eligibility rules and choose loan or "
 "temporary equity."
-msgstr "阅读基金会现行资格，选择贷款或临时股权。"
+msgstr "阅读基金会现行申请条件，选择免息贷款或临时持股资助。"
 
 #: ../../funding/stefg-loan.rst:35
 msgid ""
 "Identify a receiving branch and submit the prescribed founder and project "
 "documents."
-msgstr "确认受理分会，提交规定创业者及项目材料。"
+msgstr "确认受理分会，提交规定的创业者及项目材料。"
 
 #: ../../funding/stefg-loan.rst:37
 msgid ""
 "Complete review and examine repayment, founder funding and exit "
 "obligations."
-msgstr "完成评审，审核还款、自筹及退出义务。"
+msgstr "完成评审，仔细核对还款、自筹资金及股权退出义务。"
 
 #: ../../funding/stefg-loan.rst:39
 msgid ""
 "Sign the correct agreement and track the full three-year obligations."
-msgstr "签署对应协议，跟踪完整三年义务。"
+msgstr "签署对应协议，并在三年资助期内持续履行相关义务。"
 
 #: ../../funding/stefg-loan.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

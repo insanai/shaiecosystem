@@ -22,22 +22,22 @@ msgstr "临港零界魔方有条件办公租金支持"
 
 #: ../../funding/zero-cube-rent.rst:4
 msgid "In-kind services | Pudong"
-msgstr "实物与服务支持｜浦东新区"
+msgstr "实物及服务支持｜浦东新区"
 
 #: ../../funding/zero-cube-rent.rst:6
 msgid "Published service; current terms to confirm"
-msgstr "服务已公布，现行条款待确认"
+msgstr "服务已公布，最新条款需确认"
 
 #: ../../funding/zero-cube-rent.rst:8
 msgid ""
 "`Evidence S076 "
 "<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_. "
 "Lin-gang Zero Cube OPC community, August 2026."
-msgstr "`证据 S076 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_. Lin-gang Zero Cube OPC community, August 2026."
+msgstr "`资料来源 S076 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_. Lin-gang Zero Cube OPC community, August 2026."
 
 #: ../../funding/zero-cube-rent.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/zero-cube-rent.rst:13
 msgid ""
@@ -47,11 +47,11 @@ msgstr "符合条件的办公空间三年免租，后两年租金减半；住房
 
 #: ../../funding/zero-cube-rent.rst:15
 msgid "No equity stated in offer; verify terms"
-msgstr "所述方案无股权要求，须核验协议"
+msgstr "公布方案未要求出让股权，具体以协议为准"
 
 #: ../../funding/zero-cube-rent.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/zero-cube-rent.rst:20
 msgid ""
@@ -59,7 +59,7 @@ msgid ""
 "August 2026 operator report is not a tenancy offer for every applicant. "
 "Confirm current selection, eligible premises, deposits, service charges "
 "and exit terms in writing."
-msgstr "由社区筛选入驻的OPC及小团队项目。2026年8月运营报告并非向所有申请者发出的租赁承诺，须书面确认现行遴选、适用空间、押金、服务费及退出条款。"
+msgstr "经社区筛选入驻的一人创业（OPC）及小团队项目。2026年8月运营报告不等于面向所有申请者的租赁承诺，需书面确认最新遴选条件、适用场地、押金、服务费及退出条款。"
 
 #: ../../funding/zero-cube-rent.rst:22
 msgid "Confirm current community admission and tenancy terms"
@@ -67,50 +67,50 @@ msgstr "确认社区现行入驻及租赁条款"
 
 #: ../../funding/zero-cube-rent.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/zero-cube-rent.rst:27
 msgid ""
 "`Official application / policy route "
 "<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
-msgstr "`官方申请／政策入口 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
+msgstr "`官方申请渠道及政策文件 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
 
 #: ../../funding/zero-cube-rent.rst:29
 msgid ""
 "The linked authority or operator is the contact route. A direct current "
 "program contact is not established in this profile."
-msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+msgstr "请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。"
 
 #: ../../funding/zero-cube-rent.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/zero-cube-rent.rst:33
 msgid "Send a project brief and request the current admission checklist."
-msgstr "发送项目简介，索取现行入驻清单。"
+msgstr "发送项目简介，索取最新入驻条件及材料清单。"
 
 #: ../../funding/zero-cube-rent.rst:35
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "完成运营方资格及技术或商业评审。"
+msgstr "按运营机构要求完成资格审核及技术或商业评审。"
 
 #: ../../funding/zero-cube-rent.rst:37
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "书面确认租金、服务费、知识产权、算力价格及任何股权权利。"
+msgstr "书面确认租金、服务费、知识产权、算力价格及股权相关条款。"
 
 #: ../../funding/zero-cube-rent.rst:39
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "签署入驻文件，记录里程碑与服务负责人。"
+msgstr "签署入驻协议，明确阶段目标和服务对接人。"
 
 #: ../../funding/zero-cube-rent.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

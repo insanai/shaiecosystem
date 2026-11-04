@@ -25,7 +25,7 @@ msgid ""
 "A useful application starts with a fit check and ends with an evidence "
 "trail. We keep one company data room, then adapt it to an incubation "
 "review, a public funding call, a corporate pilot or an investment process."
-msgstr "有效申请始于匹配核验，终于证据记录。我们维护统一企业资料库，再按孵化、公资申报、企业试点或投资流程调整。"
+msgstr "申请前先判断项目是否匹配，提交后持续保存过程记录。我们可以维护一套共用的企业资料，再根据孵化入驻、财政资助、企业试点或股权融资的要求补充材料。"
 
 #: ../../apply.rst:7
 msgid ""
@@ -34,7 +34,7 @@ msgstr "清晰的申请区分资格、证据与决策。"
 
 #: ../../apply.rst:10
 msgid "The first conversation"
-msgstr "第一次沟通"
+msgstr "第一次联系怎么写"
 
 #: ../../apply.rst:13
 msgid ""
@@ -43,7 +43,7 @@ msgid ""
 "Shanghai presence and the exact resource requested. We ask for the named "
 "receiving team and written current terms. A first message should be small "
 "enough to forward to the right person."
-msgstr "发送中英双语一页简介，包含企业团队、客户问题、产品、证据、阶段、上海情况及具体资源需求，并索取明确受理团队与现行书面条款。首封信息应简洁，便于转交合适人员。"
+msgstr "准备一页中英双语项目简介，写清团队、客户需求、产品、已有验证结果、发展阶段、在沪情况及所需资源。联系时请对方明确受理部门，并提供现行书面条款。首封信息宜简洁，方便转交给合适的同事。"
 
 #: ../../apply.rst:15
 msgid ""
@@ -53,11 +53,11 @@ msgid ""
 "[specific resource] during [period]. Please confirm eligibility, intake "
 "dates, the application checklist, fees or equity terms, and the "
 "responsible contact."
-msgstr "建议主题：上海生态对接／项目名称／孵化、试点或融资。建议正文：我们正在为【客户】开发【产品】，目前证据为【指标或样机】，计划于【期间】申请【具体资源】。请确认资格、受理日期、材料清单、收费或股权条件及负责联系人。"
+msgstr "主题示例：上海项目对接／【项目名称】／孵化、试点或融资。正文示例：我们正在为【客户群体】开发【产品】，目前已取得【指标或样机成果】，计划在【时间】申请【具体资源】。烦请告知申请条件、受理时间、材料清单、费用或股权要求，以及负责对接的联系人。"
 
 #: ../../apply.rst:17
 msgid "The shared data room"
-msgstr "共用资料库"
+msgstr "建立共用资料库"
 
 #: ../../apply.rst:20
 msgid ""
@@ -66,7 +66,7 @@ msgid ""
 "addresses, prior public awards and related-party list. Team: founder "
 "roles, full-time commitment, relevant education, eligibility evidence and "
 "lawful work status where required."
-msgstr "企业：营业执照、统一社会信用代码、章程、股权表、实际受益人、银行信息、注册及经营地址、已获财政支持与关联方名单。团队：创始人职责、全职投入、相关学历、资格证据及必要工作身份。"
+msgstr "企业资料：营业执照、统一社会信用代码、章程、股权结构、实际受益人、银行账户信息、注册及经营地址、已获财政支持和关联方名单。团队资料：创始人分工、全职投入情况、相关学历与资质，以及必要的工作身份材料。"
 
 #: ../../apply.rst:22
 msgid ""
@@ -76,7 +76,7 @@ msgid ""
 "and the 2026 Regulations Encouraging Overseas Returnees to Work and Start "
 "Businesses in Shanghai. Confirm host-park endorsement and immigration "
 "requirements separately from grant eligibility."
-msgstr "针对国际创业者与留学回国人员，上海公布了创业期外国人来华工作许可（A/B类）申办指引、海外人才居住证管理办法及2026年《鼓励留学人员来上海工作和创业的若干规定》。园区推荐函与出入境及工作许可条件应与财政资助资格分别核验。"
+msgstr "针对外籍创业者和留学回国人员，上海已公布创业期外国人来华工作许可（A/B类）申办指南、海外人才居住证管理办法，以及2026年《鼓励留学人员来上海工作和创业的若干规定》。园区推荐、出入境手续、工作许可和财政资助各有条件，应分别确认。"
 
 #: ../../apply.rst:24
 msgid ""
@@ -86,11 +86,11 @@ msgid ""
 "references, pricing, procurement path and unit economics. Finance: "
 "management accounts, annual audit where required, R&D ledger, contracts, "
 "invoices and payment evidence."
-msgstr "技术：产品说明、演示、评测、知识产权及授权、专利软件记录、数据权利、安全控制及适用行业许可。商业：试点证据、客户证明、定价、采购路径与单位经济性。财务：管理报表、必要年审、研发台账、合同、发票及付款凭证。"
+msgstr "技术资料：产品说明、演示、评测结果、知识产权及授权、专利和软件相关证明、数据权属、安全措施及适用的行业许可。商业资料：试点结果、客户证明、定价、采购流程和单位经济模型。财务资料：管理报表、必要的年度审计、研发费用台账、合同、发票和付款凭证。"
 
 #: ../../apply.rst:26
 msgid "Four different decisions"
-msgstr "四种不同决策"
+msgstr "四类申请，四种流程"
 
 #: ../../apply.rst:29
 msgid ""
@@ -98,7 +98,7 @@ msgid ""
 "review, written service and space terms, admission and onboarding. "
 "Confirm workspace rent, service fee, compute price, access restrictions, "
 "IP and any investment rights before signing."
-msgstr "孵化：匹配咨询、申请材料、技术或商业评审、书面服务及空间条款、录取及入驻。签约前确认租金、服务费、算力价、访问限制、知识产权及任何投资权利。"
+msgstr "孵化入驻：初步沟通、提交材料、技术或商业评审、确认服务与场地条款、签约入驻。签约前逐项确认租金、服务费、算力价格、使用限制、知识产权安排及投资相关权利。"
 
 #: ../../apply.rst:31
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "district or host review, expert review, award or contract, reporting, "
 "acceptance and payment. This sequence is a general guide; the linked "
 "notice governs the actual workflow."
-msgstr "财政资助或报销：现行通知、资格核验、平台账户、法人授权、证据提交、区级或单位审核、专家评审、立项或签约、报告、验收及拨付。这是一般流程，具体以所链通知为准。"
+msgstr "财政资助或费用补贴：查看最新通知、确认资格、开通平台账户、办理法人授权、提交证明材料，随后按要求完成区级或依托单位审核、专家评审、立项或签约、报告、验收及资金拨付。这只是常见流程，具体以所附官方通知为准。"
 
 #: ../../apply.rst:33
 msgid ""
@@ -116,11 +116,11 @@ msgid ""
 "production decision. Investment: manager fit, deck, meeting, diligence, "
 "term sheet, investment committee, definitive agreements and closing. "
 "Neither begins with a guaranteed outcome."
-msgstr "企业试点：业务负责人、问题定义、数据及知识产权协议、限定试点、采购及法务审核、验收、转生产决策。投资：管理人匹配、材料、会议、尽调、条款书、投委会、正式协议及交割。两者均不保证结果。"
+msgstr "企业试点：找到业务负责人，明确需求，约定数据及知识产权，开展限定范围的试点，完成采购与法务审核、验收，再决定是否正式上线。股权投资：匹配基金及管理人，提交材料，进行沟通和尽职调查，磋商条款清单，经投委会审议后签订正式协议并交割。两类流程都不保证最终合作。"
 
 #: ../../apply.rst:35
 msgid "An accelerator's four-week field program"
-msgstr "加速器四周实地计划"
+msgstr "加速器团队的四周走访计划"
 
 #: ../../apply.rst:38
 msgid ""
@@ -130,7 +130,7 @@ msgid ""
 "costed evidence plan. Week 4: submit the relevant application or "
 "investment pack and record the next decision date. This is an editorial "
 "planning model, not an official service promise."
-msgstr "第一周：按行业匹配与书面资格筛选两个区、一家科研伙伴及两家运营方。第二周：会见运营方与潜在客户，实地查看设施。第三周：明确一个试点及有成本的证据计划。第四周：提交相应申请或投资材料并记录下一决策日。本安排为编辑规划模型，不是官方服务时限。"
+msgstr "第一周：根据行业匹配度和书面申请条件，筛选两个区、一家科研合作方和两家运营机构。第二周：拜访运营机构及潜在客户，实地查看设施。第三周：明确一个试点，制定包含预算的验证计划。第四周：提交申请或融资材料，记录下一次决策时间。这是本书建议的工作安排，不是官方办理时限。"
 
 #: ../../apply.rst:40
 msgid ""
@@ -139,25 +139,19 @@ msgid ""
 "duplicate-funding exclusions, reporting duty and next action. A calendar "
 "alert is useful only after the correct deadline and timezone have been "
 "confirmed."
-msgstr "申请台账应记录负责人、主管部门、政策版本、证据期间、中国标准时间截止日、提交回执、重复资助限制、报告义务及下一行动。日历提醒应在确认日期与时区后设置。"
+msgstr "申请台账应记录负责人、主管部门、政策版本、证明材料对应期间、截止时间（北京时间）、提交回执、重复资助限制、报告义务和下一步事项。确认日期与时区后，再设置提醒。"
 
 #: ../../apply.rst:42
-
-#| msgid ""
-#| "`Evidence S138 "
-#| "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
-#| "Guide for foreign talent and team members (Category A/B) applying for "
-#| "a Foreigner's Work Permit during the startup phase_Latest."
 msgid ""
 "`Evidence S142 "
 "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
 "Guide for foreign talent and team members (Category A/B) applying for a "
 "Foreigner's Work Permit during the startup phase_Latest."
-msgstr "`证据 S142 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest."
+msgstr "`资料来源 S142 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest."
 
 #: ../../apply.rst:44
 msgid ""
 "`Evidence S080 "
 "<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. "
 "上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
-msgstr "`证据 S080 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+msgstr "`资料来源 S080 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."

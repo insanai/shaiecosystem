@@ -26,18 +26,18 @@ msgstr "股权投资｜浦东新区"
 
 #: ../../funding/pudong-equity.rst:6
 msgid "Fund announced; deal intake to confirm"
-msgstr "基金已公布，项目受理待确认"
+msgstr "基金已公布，项目接收安排需确认"
 
 #: ../../funding/pudong-equity.rst:8
 msgid ""
 "`Evidence S045 "
 "<https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong "
 "launches fund to boost AI industry."
-msgstr "`证据 S045 <https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong launches fund to boost AI industry."
+msgstr "`资料来源 S045 <https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong launches fund to boost AI industry."
 
 #: ../../funding/pudong-equity.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/pudong-equity.rst:13
 msgid ""
@@ -47,18 +47,18 @@ msgstr "基金目标20亿元，首期5亿元；单笔投资额未确定"
 
 #: ../../funding/pudong-equity.rst:15
 msgid "Negotiated equity"
-msgstr "协商股权"
+msgstr "股权比例由双方协商"
 
 #: ../../funding/pudong-equity.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/pudong-equity.rst:20
 msgid ""
 "Seed-stage AI projects fitting the manager's mandate. The public launch "
 "does not establish a universal application form, valuation or "
 "shareholding percentage."
-msgstr "符合管理人范围的种子期人工智能项目；公开发布不代表统一申请表、估值或持股比例。"
+msgstr "符合基金管理人投资范围的种子期AI项目。基金已公开发布，不代表存在统一申请表、估值或持股比例。"
 
 #: ../../funding/pudong-equity.rst:22
 msgid "Manager-led sourcing and due diligence"
@@ -66,47 +66,47 @@ msgstr "管理人开展项目筛选与尽调"
 
 #: ../../funding/pudong-equity.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/pudong-equity.rst:27
 msgid "`Official application / policy route <https://www.pudong.gov.cn/>`_"
-msgstr "`官方申请／政策入口 <https://www.pudong.gov.cn/>`_"
+msgstr "`官方申请渠道及政策文件 <https://www.pudong.gov.cn/>`_"
 
 #: ../../funding/pudong-equity.rst:29
 msgid ""
 "The linked authority or operator is the contact route. A direct current "
 "program contact is not established in this profile."
-msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+msgstr "请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。"
 
 #: ../../funding/pudong-equity.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/pudong-equity.rst:33
 msgid "Confirm the manager, sector, stage and legal-entity fit."
-msgstr "确认管理人、行业、阶段及主体匹配。"
+msgstr "确认基金管理人、投资领域、发展阶段及申请主体是否匹配。"
 
 #: ../../funding/pudong-equity.rst:35
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
-msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+msgstr "提交路演材料、股权结构、技术验证结果、业务进展和融资计划。"
 
 #: ../../funding/pudong-equity.rst:37
 msgid "Complete commercial, financial, technical and legal due diligence."
-msgstr "完成商业、财务、技术及法律尽职调查。"
+msgstr "配合完成商业、财务、技术及法律尽职调查。"
 
 #: ../../funding/pudong-equity.rst:39
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
-msgstr "审核条款书、投委会条件及正式协议。"
+msgstr "审阅投资条款清单、投委会审议条件及正式协议。"
 
 #: ../../funding/pudong-equity.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

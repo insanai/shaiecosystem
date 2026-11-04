@@ -29,25 +29,20 @@ msgid "Closed"
 msgstr "已截止"
 
 #: ../../funding/baoshan-conversion.rst:8
-
-#| msgid ""
-#| "`Evidence S127 "
-#| "<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. "
-#| "宝山人才政策月历·1月刊."
 msgid ""
 "`Evidence S130 "
 "<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. "
 "宝山人才政策月历·1月刊."
-msgstr "`证据 S130 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. 宝山人才政策月历·1月刊."
+msgstr "`资料来源 S130 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. 宝山人才政策月历·1月刊."
 
 #: ../../funding/baoshan-conversion.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/baoshan-conversion.rst:13
 msgid ""
 "Amount and conversion terms require the actual project guide and agreement"
-msgstr "额度及转股条件须以项目指南及协议为准"
+msgstr "额度及转股条件以项目指南及协议为准"
 
 #: ../../funding/baoshan-conversion.rst:15
 msgid "Potential equity conversion; review contract"
@@ -55,7 +50,7 @@ msgstr "可能转为股权，须审核协议"
 
 #: ../../funding/baoshan-conversion.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/baoshan-conversion.rst:20
 msgid ""
@@ -63,7 +58,7 @@ msgid ""
 "call for pre-investment / later equity projects. Verify the recipient, "
 "milestone and conversion conditions rather than labelling this an "
 "unrestricted equity-free grant."
-msgstr "区级2026年1月政策月历列明科委先投后股项目征集，须核验主体、里程碑及转股条件，不能视为自由使用的不占股补助。"
+msgstr "2026年1月区级政策月历列有区科委“先投后股”项目征集。申请主体、阶段目标及转股条件需按指南和协议确认，不能作为无需出让股权、可自由使用的补助。"
 
 #: ../../funding/baoshan-conversion.rst:22
 msgid "Closed 10 February 2026"
@@ -71,47 +66,47 @@ msgstr "已于2026年2月10日截止"
 
 #: ../../funding/baoshan-conversion.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/baoshan-conversion.rst:27
 msgid ""
 "`Official application / policy route "
 "<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
-msgstr "`官方申请／政策入口 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
+msgstr "`官方申请渠道及政策文件 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
 
 #: ../../funding/baoshan-conversion.rst:29
 msgid "Published consultation: +86 21 56160454."
-msgstr "公布咨询电话：+86 21 56160454。"
+msgstr "咨询电话：+86 21 56160454。"
 
 #: ../../funding/baoshan-conversion.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/baoshan-conversion.rst:33
 msgid "Confirm the manager, sector, stage and legal-entity fit."
-msgstr "确认管理人、行业、阶段及主体匹配。"
+msgstr "确认基金管理人、投资领域、发展阶段及申请主体是否匹配。"
 
 #: ../../funding/baoshan-conversion.rst:35
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
-msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+msgstr "提交路演材料、股权结构、技术验证结果、业务进展和融资计划。"
 
 #: ../../funding/baoshan-conversion.rst:37
 msgid "Complete commercial, financial, technical and legal due diligence."
-msgstr "完成商业、财务、技术及法律尽职调查。"
+msgstr "配合完成商业、财务、技术及法律尽职调查。"
 
 #: ../../funding/baoshan-conversion.rst:39
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
-msgstr "审核条款书、投委会条件及正式协议。"
+msgstr "审阅投资条款清单、投委会审议条件及正式协议。"
 
 #: ../../funding/baoshan-conversion.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

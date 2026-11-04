@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../districts.rst:1
 msgid "Sixteen districts, sixteen entry routes"
-msgstr "十六区，十六条对接路径"
+msgstr "上海16区创新指南"
 
 #: ../../districts.rst:4
 msgid ""
@@ -26,24 +26,15 @@ msgid ""
 "and receiving authority, then follow the local organizations and district "
 "funding routes. An official portal remains the contact route when no "
 "current named officer or direct intake form is established."
-msgstr "每个区均设章节，从有来源的产业方向和主管部门出发，再了解本地机构与区级融资与扶持渠道。尚无经核实现任联系人或直接表格时，以官方门户作为联系入口。"
+msgstr "各区章节先介绍产业方向及主管部门，再列出本地机构和融资扶持项目，并附资料来源。尚未确认具体联系人或申请表时，可先通过政府官网咨询。"
 
 #: ../../districts.rst:12
 msgid ""
 "All 16 administrative districts of Shanghai, with numbered anchors "
 "corresponding to the directory below."
-msgstr "上海全部16个行政区示意图，编号锚点对应下方名录。"
+msgstr "上海16个行政区示意图，参考点编号与下方目录对应。"
 
 #: ../../districts.rst:14
-
-#| msgid ""
-#| "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation "
-#| "models, chips, biomedicine and advanced manufacturing**. Receiving "
-#| "authority: Pudong Science, Technology and Economy Commission. "
-#| "Published phone: +86 21 68811090. Policy & carrier note: 2026 AI "
-#| "application call closed on 31 August 2026. The published route covers "
-#| "qualifying 2025 model and agent expenditure; duplicate public funding "
-#| "is excluded. (40 local organizations, 4 district funding routes)."
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Receiving authority: "
@@ -52,7 +43,7 @@ msgid ""
 "August 2026. The published route covers qualifying 2025 model and agent "
 "expenditure; duplicate public funding is excluded. (42 local "
 "organizations, 7 district funding routes)."
-msgstr "**[01]** :doc:`浦东新区 <districts/pudong>` （浦东新区）—— **大模型、芯片、生物医药与先进制造**。受理部门：浦东新区科技和经济委员会。 公布电话：+86 21 68811090。政策与载体说明：2026年人工智能应用项目申报已于2026年8月31日截止。该通知面向符合条件的2025年模型与智能体支出，已获其他财政资金资助的项目不得重复申报。（本区收录 42 家机构、7 条区级融资与扶持渠道）。"
+msgstr "**[01]** :doc:`浦东新区 <districts/pudong>` **大模型、芯片、生物医药与先进制造**。受理部门：浦东新区科技和经济委员会。 联系电话：+86 21 68811090。政策与园区信息：2026年人工智能应用项目申报已于2026年8月31日截止。该通知面向符合条件的2025年模型与智能体支出，已获其他财政资金资助的项目不得重复申报。（本区收录 42 家机构、7 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:15
 msgid ""
@@ -62,7 +53,7 @@ msgid ""
 "policy identifies robot models, algorithms, data and operating systems. "
 "Its evaluated support ceilings are not automatic startup awards. (9 local "
 "organizations, 2 district funding routes)."
-msgstr "**[02]** :doc:`徐汇区 <districts/xuhui>` （徐汇区）—— **大模型、具身智能与科研成果转化**。受理部门：徐汇区产业主管部门。政策与载体说明：具身智能政策覆盖机器人大模型、算法、数据与操作系统。经综合评估的支持上限并非初创企业自动获得的补贴。（本区收录 9 家机构、2 条区级融资与扶持渠道）。"
+msgstr "**[02]** :doc:`徐汇区 <districts/xuhui>` **大模型、具身智能与科研成果转化**。受理部门：徐汇区产业主管部门。政策与园区信息：具身智能政策覆盖机器人大模型、算法、数据与操作系统。经综合评估的支持上限并非初创企业可以自动获得的补贴。（本区收录 9 家机构、2 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:16
 msgid ""
@@ -73,7 +64,7 @@ msgid ""
 "separate May 2026 OPC policy supports communities around Fuxing Island; "
 "an action plan does not itself constitute a cash award. (10 local "
 "organizations, 2 district funding routes)."
-msgstr "**[03]** :doc:`杨浦区 <districts/yangpu>` （杨浦区）—— **高校衍生企业、类脑智能与人工智能创业**。受理部门：杨浦区科技主管部门。政策与载体说明：类脑智能方案明确长阳创谷与湾谷科技园布局。2026年5月另有支持复兴岛等超级个体社区的政策；行动方案本身不等同于现金补助。（本区收录 10 家机构、2 条区级融资与扶持渠道）。"
+msgstr "**[03]** :doc:`杨浦区 <districts/yangpu>` **高校衍生企业、类脑智能与人工智能创业**。受理部门：杨浦区科技主管部门。政策与园区信息：类脑智能方案明确长阳创谷与湾谷科技园布局。2026年5月另有支持复兴岛等超级个体社区的政策；行动方案本身不等同于现金补助。（本区收录 10 家机构、2 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:17
 msgid ""
@@ -84,7 +75,7 @@ msgid ""
 "2030. New conversion enterprises may qualify for up to RMB 500,000 "
 "annually, capped at RMB 1.5 million over three years and 50% of eligible "
 "investment. (6 local organizations, 2 district funding routes)."
-msgstr "**[04]** :doc:`闵行区 <districts/minhang>` （闵行区）—— **高校成果转化、机器人、脑机接口与工程技术**。受理部门：闵行区科技主管部门。政策与载体说明：企业科技创新政策有效期为2025年9月1日至2030年8月31日。新设科技成果转化企业符合条件的，可按转化投入50%获得每年最高50万元、三年累计最高150万元资助。（本区收录 6 家机构、2 条区级融资与扶持渠道）。"
+msgstr "**[04]** :doc:`闵行区 <districts/minhang>` **高校成果转化、机器人、脑机接口与工程技术**。受理部门：闵行区科技主管部门。政策与园区信息：企业科技创新政策有效期为2025年9月1日至2030年8月31日。新设科技成果转化企业符合条件的，可按转化投入50%获得每年最高50万元、三年累计最高150万元资助。（本区收录 6 家机构、2 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:18
 msgid ""
@@ -95,7 +86,7 @@ msgid ""
 "InnoSpring in connecting research, pilot production and incubation. The "
 "2026 district service program provides policy interpretation and project "
 "coordination. (4 local organizations, 1 district funding routes)."
-msgstr "**[05]** :doc:`嘉定区 <districts/jiading>` （嘉定区）—— **汽车智能、传感器、微机电系统与中试**。受理部门：嘉定区科技主管部门。政策与载体说明：市科委记录了工研院与新微创源联动科研、中试与孵化的工作。2026年区级企业服务活动提供政策解读与项目协调。（本区收录 4 家机构、1 条区级融资与扶持渠道）。"
+msgstr "**[05]** :doc:`嘉定区 <districts/jiading>` **智能汽车、传感器、微机电系统与中试**。受理部门：嘉定区科技主管部门。政策与园区信息：市科委记录了工研院与新微创源联动科研、中试与孵化的工作。2026年区级企业服务活动提供政策解读与项目协调。（本区收录 4 家机构、1 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:19
 msgid ""
@@ -106,7 +97,7 @@ msgid ""
 "industrial-park admission and district support reviews are needed; a "
 "factory demonstration is not a startup funding call. (2 local "
 "organizations, 1 district funding routes)."
-msgstr "**[06]** :doc:`宝山区 <districts/baoshan>` （宝山区）—— **机器人、高端装备与工业应用**。受理部门：宝山区产业与科技主管部门。政策与载体说明：全区正在发展机器人及高端装备产业集群。园区准入与政策资助需分别审核；工厂示范项目不等于面向初创企业的资金申报。（本区收录 2 家机构、1 条区级融资与扶持渠道）。"
+msgstr "**[06]** :doc:`宝山区 <districts/baoshan>` **机器人、高端装备与工业应用**。受理部门：宝山区产业与科技主管部门。政策与园区信息：全区正在发展机器人及高端装备产业集群。园区准入与政策资助需分别审核；工厂示范项目不等于面向初创企业的资金申报。（本区收录 2 家机构、1 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:20
 msgid ""
@@ -117,7 +108,7 @@ msgid ""
 "transfer. The district incubator register also lists the China-Israel "
 "Innovation Hub; tenancy and investment require separate terms. (4 local "
 "organizations, 3 district funding routes)."
-msgstr "**[07]** :doc:`普陀区 <districts/putuo>` （普陀区）—— **工业检测、智能软件与国际创新**。受理部门：普陀区科技主管部门。政策与载体说明：武宁科技园连接工业研发、检测与技术转移。区级孵化基地名录还列有中以创新园；入驻与投资须分别确认条款。（本区收录 4 家机构、3 条区级融资与扶持渠道）。"
+msgstr "**[07]** :doc:`普陀区 <districts/putuo>` **工业检测、智能软件与国际创新**。受理部门：普陀区科技主管部门。政策与园区信息：武宁科技园连接工业研发、检测与技术转移。区级孵化基地名录还列有中以创新园；入驻与投资须分别确认条款。（本区收录 4 家机构、3 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:21
 msgid ""
@@ -129,7 +120,7 @@ msgid ""
 "MAKE021 as parts of its incubation landscape. Confirm the correct "
 "operator before submitting. (2 local organizations, 2 district funding "
 "routes)."
-msgstr "**[08]** :doc:`长宁区 <districts/changning>` （长宁区）—— **数字商业、人工智能应用与跨境服务**。受理部门：长宁区科技主管部门。政策与载体说明：2026年8月区级报道列出数字硅巷、虹桥智域、东虹桥国际青年科创中心与马克沪MAKE021等孵化载体。申请前应确认具体运营主体。（本区收录 2 家机构、2 条区级融资与扶持渠道）。"
+msgstr "**[08]** :doc:`长宁区 <districts/changning>` **数字商业、人工智能应用与跨境服务**。受理部门：长宁区科技主管部门。政策与园区信息：2026年8月区级报道列出数字硅巷、虹桥智域、东虹桥国际青年科创中心与马克沪MAKE021等孵化载体。申请前应确认具体运营主体。（本区收录 2 家机构、2 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:22
 msgid ""
@@ -140,7 +131,7 @@ msgid ""
 "objectives must be distinguished from implementing rules and currently "
 "accepting applications. (3 local organizations, 1 district funding "
 "routes)."
-msgstr "**[09]** :doc:`静安区 <districts/jingan>` （静安区）—— **企业人工智能、数据服务与数字商业**。受理部门：静安区科技和经济委员会。政策与载体说明：2026至2028年人工智能创新应用示范区方案聚焦产业融合与人才。规划目标应与实施细则及正在受理的申报事项区分。（本区收录 3 家机构、1 条区级融资与扶持渠道）。"
+msgstr "**[09]** :doc:`静安区 <districts/jingan>` **企业级AI、数据服务与数字商业**。受理部门：静安区科技和经济委员会。政策与园区信息：2026至2028年人工智能创新应用示范区方案聚焦产业融合与人才。规划目标应与实施细则及正在受理的申报事项区分。（本区收录 3 家机构、1 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:23
 msgid ""
@@ -151,7 +142,7 @@ msgid ""
 "research services. Huangpu ChuangKa is a separate youth entrepreneurship "
 "support route; check eligibility and current workstation availability. (2 "
 "local organizations, 1 district funding routes)."
-msgstr "**[10]** :doc:`黄浦区 <districts/huangpu>` （黄浦区）—— **金融科技、临床服务、设计与消费应用**。受理部门：黄浦区科技与创业服务部门。政策与载体说明：2025至2026年张江黄浦园方案侧重金融科技与临床研究服务。黄浦创卡是另行实施的青年创业支持渠道，须核验资格与当前工位情况。（本区收录 2 家机构、1 条区级融资与扶持渠道）。"
+msgstr "**[10]** :doc:`黄浦区 <districts/huangpu>` **金融科技、临床服务、设计与消费应用**。受理部门：黄浦区科技与创业服务部门。政策与园区信息：2025至2026年张江黄浦园方案侧重金融科技与临床研究服务。黄浦创卡是另行实施的青年创业支持渠道，需确认资格与当前工位情况。（本区收录 2 家机构、1 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:24
 msgid ""
@@ -163,7 +154,7 @@ msgid ""
 "the operating carrier and current application notice, rather than relying "
 "on older subsidy summaries. (4 local organizations, 1 district funding "
 "routes)."
-msgstr "**[11]** :doc:`虹口区 <districts/hongkou>` （虹口区）—— **航运科技、绿色金融与智能检测**。受理部门：虹口区科技和经济委员会。政策与载体说明：2025至2026年虹口园方案明确北科创集团在载体统筹、孵化与投融资方面的职责。应索取具体运营载体与现行申报通知，避免依赖旧版补贴概述。（本区收录 4 家机构、1 条区级融资与扶持渠道）。"
+msgstr "**[11]** :doc:`虹口区 <districts/hongkou>` **航运科技、绿色金融与智能检测**。受理部门：虹口区科技和经济委员会。政策与园区信息：2025至2026年虹口园方案明确北科创集团在载体统筹、孵化与投融资方面的职责。应索取具体运营载体与现行申报通知，避免依赖旧版补贴概述。（本区收录 4 家机构、1 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:25
 msgid ""
@@ -175,7 +166,7 @@ msgid ""
 "eligibility: a partner elsewhere in the corridor does not establish "
 "Songjiang qualification. (8 local organizations, 2 district funding "
 "routes)."
-msgstr "**[12]** :doc:`松江区 <districts/songjiang>` （松江区）—— **G60科创、工业软件与先进制造**。受理部门：松江区G60科创服务部门。政策与载体说明：G60科创走廊发布创新与资源对接举措。九城市合作范围与上海区级资格不同，走廊其他城市的合作伙伴不能据此取得松江申报资格。（本区收录 8 家机构、2 条区级融资与扶持渠道）。"
+msgstr "**[12]** :doc:`松江区 <districts/songjiang>` **G60科创、工业软件与先进制造**。受理部门：松江区G60科创服务部门。政策与园区信息：G60科创走廊发布创新与资源对接举措。九城市合作范围与上海区级资格不同，走廊其他城市的合作伙伴不能据此取得松江申报资格。（本区收录 8 家机构、2 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:26
 msgid ""
@@ -186,7 +177,7 @@ msgid ""
 "innovation district. The official 2025 reply discusses early investment "
 "and technology transfer, but proposed funds are not treated here as open "
 "startup applications. (3 local organizations, 2 district funding routes)."
-msgstr "**[13]** :doc:`青浦区 <districts/qingpu>` （青浦区）—— **华为相关研发、数字系统与区域协作**。受理部门：青浦区科学技术委员会。政策与载体说明：西岑联动练秋湖研发中心与科创片区。2025年官方答复讨论早期投资及技术转移，本书不将研究设立的基金视为正在受理的创业项目。（本区收录 3 家机构、2 条区级融资与扶持渠道）。"
+msgstr "**[13]** :doc:`青浦区 <districts/qingpu>` **华为相关研发、数字系统与区域协作**。受理部门：青浦区科学技术委员会。政策与园区信息：西岑联动练秋湖研发中心与科创片区。2025年官方答复讨论早期投资及技术转移，本书不把研究设立的基金视为正在受理的创业项目。（本区收录 3 家机构、2 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:27
 msgid ""
@@ -197,7 +188,7 @@ msgid ""
 "Bay Area incubation carriers. It connects testing and industrialization, "
 "subject to park admission and the applicable aviation permissions. (3 "
 "local organizations, 1 district funding routes)."
-msgstr "**[14]** :doc:`金山区 <districts/jinshan>` （金山区）—— **无人机、新材料与低空系统**。受理部门：金山区科技主管部门。政策与载体说明：2025至2026年园区方案列出金山新材料孵化器、华东无人机基地与湾区孵化载体，衔接检测及产业化；须分别办理园区准入与适用的航空许可。（本区收录 3 家机构、1 条区级融资与扶持渠道）。"
+msgstr "**[14]** :doc:`金山区 <districts/jinshan>` **无人机、新材料与低空系统**。受理部门：金山区科技主管部门。政策与园区信息：2025至2026年园区方案列出金山新材料孵化器、华东无人机基地与湾区孵化载体，衔接检测及产业化；须分别办理园区准入与适用的航空许可。（本区收录 3 家机构、1 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:28
 msgid ""
@@ -208,7 +199,7 @@ msgid ""
 "robots. Oriental Beauty Valley provides a separate beauty and health "
 "industry context. Match the project to the correct policy owner and "
 "application batch. (4 local organizations, 3 district funding routes)."
-msgstr "**[15]** :doc:`奉贤区 <districts/fengxian>` （奉贤区）—— **机器人、美丽健康科技与先进制造**。受理部门：奉贤区经济委员会。政策与载体说明：智能机器人产业措施面向符合条件的注册企业。东方美谷构成另一条美丽健康产业路径。项目须匹配相应主管部门与申报批次。（本区收录 4 家机构、3 条区级融资与扶持渠道）。"
+msgstr "**[15]** :doc:`奉贤区 <districts/fengxian>` **机器人、美丽健康科技与先进制造**。受理部门：奉贤区经济委员会。政策与园区信息：智能机器人产业措施面向符合条件的注册企业。东方美谷构成另一条美丽健康产业路径。项目须匹配相应主管部门与申报批次。（本区收录 4 家机构、3 条区级融资与扶持渠道）。"
 
 #: ../../districts.rst:29
 msgid ""
@@ -220,7 +211,7 @@ msgid ""
 "subsidy measures expired on 31 December 2025; we do not present those "
 "ceilings as current entitlements. (2 local organizations, 2 district "
 "funding routes)."
-msgstr "**[16]** :doc:`崇明区 <districts/chongming>` （崇明区）—— **生态科技、智慧农业与海洋系统**。受理部门：崇明区科学技术委员会。 公布电话：+86 21 69695910。政策与载体说明：2025至2026年崇明园方案提供战略背景。另一项2024年科技创新资助办法已于2025年12月31日到期，本书不将其额度作为现行权益。（本区收录 2 家机构、2 条区级融资与扶持渠道）。"
+msgstr "**[16]** :doc:`崇明区 <districts/chongming>` **生态科技、智慧农业与海洋系统**。受理部门：崇明区科学技术委员会。 联系电话：+86 21 69695910。政策与园区信息：2025至2026年崇明园方案提供战略背景。另一项2024年科技创新资助办法已于2025年12月31日到期，本书不把其额度作为现行支持。（本区收录 2 家机构、2 条区级融资与扶持渠道）。"
 
 #~ msgid ":doc:`Pudong <districts/pudong>`"
 #~ msgstr ":doc:`浦东新区 <districts/pudong>`"

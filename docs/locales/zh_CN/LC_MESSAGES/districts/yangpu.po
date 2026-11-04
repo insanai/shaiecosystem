@@ -36,11 +36,11 @@ msgid ""
 "`Evidence S016 "
 "<https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. "
 "关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
-msgstr "`证据 S016 <https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. 关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
+msgstr "`资料来源 S016 <https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. 关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
 
 #: ../../districts/yangpu.rst:10
 msgid "Who receives the inquiry"
-msgstr "咨询受理"
+msgstr "联系哪个部门"
 
 #: ../../districts/yangpu.rst:13
 msgid "Yangpu science and technology authority"
@@ -54,41 +54,41 @@ msgstr "`区政府官网 <https://www.shyp.gov.cn/>`_"
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../districts/yangpu.rst:19
 msgid "Before applying"
-msgstr "申请之前"
+msgstr "申请前需确认"
 
 #: ../../districts/yangpu.rst:22
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../districts/yangpu.rst:24
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+msgstr "阅读有明确发布日期的通知，确认属地、申请主体、业务及费用发生期间等条件。"
 
 #: ../../districts/yangpu.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "准备规定材料，按要求完成单位或区级推荐。"
+msgstr "按清单准备材料，并按要求取得依托单位或区级部门推荐。"
 
 #: ../../districts/yangpu.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "在截止前通过官方平台提交并保存回执。"
+msgstr "在截止时间前通过官方平台提交，保存受理回执。"
 
 #: ../../districts/yangpu.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+msgstr "按通知要求完成评审、立项、报告、验收及资金拨付手续。"
 
 #: ../../districts/yangpu.rst:32
 msgid ""
@@ -96,11 +96,11 @@ msgid ""
 "actual operations must both be in the district, which expenditure period "
 "is eligible, and whether previous municipal or district awards exclude a "
 "claim. Obtain the answer before moving a company or incurring costs."
-msgstr "询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。"
+msgstr "申请前应确认适用的最新通知，企业注册地和实际经营地是否都须在本区，哪些期间的费用可以申报，以及已获市级或区级资助是否影响本次申请。企业迁址或发生支出前，应先取得明确答复。"
 
 #: ../../districts/yangpu.rst:34
 msgid "Local organizations in this atlas"
-msgstr "本图谱中的本区机构"
+msgstr "本区收录机构"
 
 #: ../../districts/yangpu.rst:37
 msgid ""
@@ -109,7 +109,7 @@ msgid ""
 "corporate open innovation and startup incubation and acceleration. Bring "
 "a concrete industrial use case; program participation does not imply a "
 "corporate purchase order. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`创智空间InnoSpace </entities/innospace>` （创智空间InnoSpace · 加速器 · 软件人工智能、产业）—— 专注大企业开放创新及科技企业孵化加速的创新服务机构。对接时应提供明确产业场景；参与项目不代表企业采购承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`创智空间InnoSpace </entities/innospace>` （加速器 · AI软件、产业）： 提供大企业开放创新及科技企业孵化加速服务。初次联系时宜说明具体产业应用需求；参与创新项目不代表一定获得企业采购订单。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/yangpu.rst:38
 msgid ""
@@ -118,7 +118,7 @@ msgid ""
 "identifies Changyang Campus as a southern core, paired with Bay Valley in "
 "the north. Suitable for neuromorphic computing and commercial AI "
 "collaborations. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`长阳创谷 </entities/changyang>` （长阳创谷 · 科技园区 · 软件人工智能、硬件人工智能）—— 杨浦类脑智能方案将长阳创谷作为南部核心，与北部湾谷科技园联动，适合类脑计算及人工智能商业合作。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`长阳创谷 </entities/changyang>` （科技园区 · AI软件、AI硬件）： 杨浦类脑智能行动方案中的南部核心载体，与北部湾谷科技园联动。可关注类脑计算及AI产业合作。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/yangpu.rst:39
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "an approved community operator, the qualifying activity definition, "
 "housing conditions and any service or equity agreement. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`复兴岛创客与OPC社区 </entities/fuxing>` （复兴岛创客与OPC社区 · 孵化器 · 软件人工智能）—— 2026年5月区级政策支持人工智能赋能的超级个体及创客社区。应确认合资格运营方、活动认定、住房条件及服务或股权协议。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`复兴岛创客与OPC社区 </entities/fuxing>` （孵化器 · AI软件）： 2026年5月杨浦政策支持AI赋能的超级个体及创客社区。申请前需确认运营机构是否符合政策要求，以及活动认定、住房、服务和股权等具体条件。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/yangpu.rst:40
 msgid ""
@@ -138,7 +138,7 @@ msgid ""
 "Chinese university entrepreneurs. Nationality, age, ownership, full-time "
 "work and company age conditions apply. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`上海市大学生科技创业基金会天使基金 </entities/stefg>` （上海市大学生科技创业基金会天使基金 · 投资机构 · 软件人工智能、硬件人工智能、产业）—— 基金会为符合条件的中国籍高校创业者提供免息贷款及临时股权两种资助。适用国籍、年龄、持股、全职创业与企业成立年限条件。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海市大学生科技创业基金会天使基金 </entities/stefg>` （投资机构 · AI软件、AI硬件、产业）： 为符合条件的中国籍高校创业者提供免息贷款和临时持股两类资助，另有国籍、年龄、持股、全职创业及企业成立年限等要求。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/yangpu.rst:41
 msgid ""
@@ -148,7 +148,7 @@ msgid ""
 "entrepreneurship training, prototyping and incubation base in Yangpu "
 "linking founder skills training, product trial spaces and startup service "
 "agencies. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`中国（上海）创业者公共实训基地 </entities/entrepreneur-base>` （中国（上海）创业者公共实训基地 · 孵化器 · 软件人工智能、硬件人工智能、产业）—— 位于杨浦的市人社公共创业实训与孵化基地，提供创业培训、产品试制空间与创业服务机构对接。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`中国（上海）创业者公共实训基地 </entities/entrepreneur-base>` （孵化器 · AI软件、AI硬件、产业）： 位于杨浦的市人社公共创业实训与孵化基地，提供创业培训、产品试制场地及创业服务机构对接。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/yangpu.rst:42
 msgid ""
@@ -157,7 +157,7 @@ msgid ""
 "Suggested collaboration themes: Software AI, chips, AI for Science. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`复旦大学 </entities/university-fudan>` （复旦大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：软件人工智能、芯片、科学智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`复旦大学 </entities/university-fudan>` （高校）： 该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：AI软件、芯片、科学智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/yangpu.rst:43
 msgid ""
@@ -167,7 +167,7 @@ msgid ""
 "robotics, built environment. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`同济大学 </entities/university-tongji>` （同济大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：自主系统、交通、机器人、建成环境。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`同济大学 </entities/university-tongji>` （高校）： 该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：自主系统、交通、机器人、建筑与城市环境。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/yangpu.rst:44
 msgid ""
@@ -177,7 +177,7 @@ msgid ""
 "themes: Optics, medical devices, sensors, advanced equipment. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海理工大学 </entities/university-usst>` （上海理工大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：光学、医疗器械、传感器、先进装备。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海理工大学 </entities/university-usst>` （高校）： 该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：光学、医疗器械、传感器、先进装备。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/yangpu.rst:45
 msgid ""
@@ -187,7 +187,7 @@ msgid ""
 "themes: Fintech, analytics, business models. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海财经大学 </entities/university-sufe>` （上海财经大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：金融科技、分析、商业模式。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海财经大学 </entities/university-sufe>` （高校）： 该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：金融科技、数据分析、商业模式。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/yangpu.rst:46
 msgid ""
@@ -197,7 +197,7 @@ msgid ""
 "motion analysis, wearables. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`上海体育大学 </entities/university-sport>` （上海体育大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：运动科学、动作分析、可穿戴设备。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海体育大学 </entities/university-sport>` （高校）： 该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：运动科学、动作分析、可穿戴设备。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/yangpu.rst:48
 msgid "Funding routes"
@@ -210,7 +210,7 @@ msgid ""
 "repayable) — Product-specific technology credit and IP finance; no "
 "universal ceiling. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`杨浦融资信用服务平台 </funding/yangpu-credit-directory>` （杨浦融资信用服务平台 · 贷款 · 不占股，须偿还）—— 科技信贷及知识产权融资依具体产品，无统一上限。状态：目录已公布，须贷款方审核。时间：依具体产品，核验贷款方现行条件。"
+msgstr ":doc:`杨浦融资信用服务平台 </funding/yangpu-credit-directory>` （贷款 · 不要求出让股权，需还款）： 科技信贷及知识产权融资依具体产品，无统一额度上限。状态：目录已公布，须贷款机构审核。时间：依具体产品，确认贷款机构现行条件。"
 
 #: ../../districts/yangpu.rst:52
 msgid ""
@@ -220,7 +220,7 @@ msgid ""
 "co-investment; individual cheque subject to investment committee review. "
 "Status: Published investment platform; deal review. Timing: Manager-led "
 "sourcing and due diligence."
-msgstr ":doc:`杨浦梦想起航天使引投基金 </funding/yangpu-angel-fund>` （杨浦梦想起航天使引投基金 · 股权投资 · 协商股权）—— 区级国资早期股权引投基金，单笔投资额经投委会审议确定。状态：投资平台已公布，须项目审核。时间：管理人开展项目筛选与尽调。"
+msgstr ":doc:`杨浦梦想起航天使引投基金 </funding/yangpu-angel-fund>` （股权投资 · 股权比例由双方协商）： 区级国资早期股权引投基金，单笔投资额经投委会审议确定。状态：投资平台已公布，需进行项目审核。时间：管理人开展项目筛选与尽调。"
 
 #: ../../districts/yangpu.rst:54
 msgid ":doc:`Also compare citywide funding </funding>`"

@@ -24,7 +24,7 @@ msgstr "上海创新生态图谱"
 msgid ""
 "The Pearl of the Orient. A field guide to research, enterprise and "
 "possibility."
-msgstr "东方明珠。连接科研、企业与机遇的实用图谱。"
+msgstr "走进东方明珠，寻找科研合作与创新创业机会。"
 
 #: ../../index.rst:8
 msgid ""
@@ -32,17 +32,13 @@ msgid ""
 "researchers and AI enthusiasts. It connects Shanghai's universities, "
 "software and hardware AI communities, and practical routes to support "
 "across all 16 districts."
-msgstr "为加速器、创始人、研究者及人工智能爱好者编写的七语插图指南，连接上海16个行政区的高校、软硬件人工智能社区及实用扶持渠道。"
+msgstr "为加速器、创始人、研究者及人工智能爱好者编写的七语插图指南，连接上海16个行政区的高校、软AI硬件社区及实用扶持渠道。"
 
 #: ../../index.rst:10
-
-#| msgid ""
-#| "Research edition: 2026-11-04. 131 organization profiles. 50 funding "
-#| "routes. 16 districts. 140 cited sources."
 msgid ""
 "Research edition: 2026-11-04. 133 organization profiles. 53 funding "
 "routes. 16 districts. 144 cited sources."
-msgstr "研究版本：2026-11-04。133份机构档案，53条融资与扶持渠道，覆盖16个行政区，引用144项原始证据来源。"
+msgstr "资料核查截至2026-11-04。收录133家机构、53项融资扶持信息，覆盖16个行政区，引用144份一手资料。"
 
 #: ../../index.rst:12
 msgid ""
@@ -51,18 +47,18 @@ msgid ""
 "Produced using **Guidedog** as a unified seven-language **HTML and PDF** "
 "publication inspired by Shanghai's official flower, the white magnolia "
 "(*Yulania denudata*)."
-msgstr "本书由 **Vikrant Rathore** 撰写，**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu** 共同贡献。采用 **Guidedog** 原生构建为七语 **HTML 网站与 PDF 图书**，视觉设计汲取上海市花白玉兰之灵感。"
+msgstr "本书由 **Vikrant Rathore** 撰写，**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 和 Emily Yue Xu** 参与编写。使用 **Guidedog** 原生工作流制作七种语言的 **HTML 网站及 PDF 图书**，以上海市花白玉兰为视觉灵感。"
 
 #: ../../index.rst:14
 msgid ""
 ":doc:`Explore the interactive atlas <atlas>` | :doc:`Browse all 16 "
 "districts <districts>` | :doc:`Find funding <funding>` | :doc:`Plan an "
 "application <apply>`"
-msgstr ":doc:`探索交互图谱 <atlas>` | :doc:`浏览全部16个行政区 <districts>` | :doc:`寻找资金 <funding>` | :doc:`规划申请 <apply>`"
+msgstr ":doc:`打开交互式图谱 <atlas>` | :doc:`浏览全部16个行政区 <districts>` | :doc:`查找融资与扶持项目 <funding>` | :doc:`准备申请 <apply>`"
 
 #: ../../index.rst:18
 msgid "All 16 administrative districts of Shanghai"
-msgstr "上海十六个行政区全景导览"
+msgstr "上海16区导览"
 
 #: ../../index.rst:21
 msgid ""
@@ -70,28 +66,22 @@ msgid ""
 "and the PDF book with its documented industrial focus, receiving "
 "government authority, local innovation carriers, universities and "
 "district funding routes:"
-msgstr "网站与PDF图书完整收录上海全部16个行政区的定位方向、受理政府部门、本地创新载体、高校及区级融资与扶持渠道："
+msgstr "网站和PDF图书均按上海16个行政区梳理产业方向、受理部门、创新载体、高校及区级融资扶持项目："
 
 #: ../../index.rst:23
-
-#| msgid ""
-#| "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation "
-#| "models, chips, biomedicine and advanced manufacturing**. Authority: "
-#| "Pudong Science, Technology and Economy Commission. (40 organizations, "
-#| "4 district funding routes)"
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
 "Science, Technology and Economy Commission. (42 organizations, 7 district "
 "funding routes)"
-msgstr "**[01]** :doc:`浦东新区 <districts/pudong>` （浦东新区）—— **大模型、芯片、生物医药与先进制造**。主管部门：浦东新区科技和经济委员会。（42家机构，7条区级融资与扶持渠道）"
+msgstr "**[01]** :doc:`浦东新区 <districts/pudong>` **大模型、芯片、生物医药与先进制造**。主管部门：浦东新区科技和经济委员会。（42家机构，7条区级融资与扶持渠道）"
 
 #: ../../index.rst:24
 msgid ""
 "**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
 "embodied AI and research commercialization**. Authority: Xuhui industry "
 "development authority. (9 organizations, 2 district funding routes)"
-msgstr "**[02]** :doc:`徐汇区 <districts/xuhui>` （徐汇区）—— **大模型、具身智能与科研成果转化**。主管部门：徐汇区产业主管部门。（9家机构，2条区级融资与扶持渠道）"
+msgstr "**[02]** :doc:`徐汇区 <districts/xuhui>` **大模型、具身智能与科研成果转化**。主管部门：徐汇区产业主管部门。（9家机构，2条区级融资与扶持渠道）"
 
 #: ../../index.rst:25
 msgid ""
@@ -99,7 +89,7 @@ msgid ""
 "brain-inspired AI and independent AI founders**. Authority: Yangpu "
 "science and technology authority. (10 organizations, 2 district funding "
 "routes)"
-msgstr "**[03]** :doc:`杨浦区 <districts/yangpu>` （杨浦区）—— **高校衍生企业、类脑智能与人工智能创业**。主管部门：杨浦区科技主管部门。（10家机构，2条区级融资与扶持渠道）"
+msgstr "**[03]** :doc:`杨浦区 <districts/yangpu>` **高校衍生企业、类脑智能与人工智能创业**。主管部门：杨浦区科技主管部门。（10家机构，2条区级融资与扶持渠道）"
 
 #: ../../index.rst:26
 msgid ""
@@ -107,7 +97,7 @@ msgid ""
 "commercialization, robotics, BCI and engineering**. Authority: Minhang "
 "science and technology authority. (6 organizations, 2 district funding "
 "routes)"
-msgstr "**[04]** :doc:`闵行区 <districts/minhang>` （闵行区）—— **高校成果转化、机器人、脑机接口与工程技术**。主管部门：闵行区科技主管部门。（6家机构，2条区级融资与扶持渠道）"
+msgstr "**[04]** :doc:`闵行区 <districts/minhang>` **高校成果转化、机器人、脑机接口与工程技术**。主管部门：闵行区科技主管部门。（6家机构，2条区级融资与扶持渠道）"
 
 #: ../../index.rst:27
 msgid ""
@@ -115,14 +105,14 @@ msgid ""
 "intelligence, sensors, MEMS and pilot production**. Authority: Jiading "
 "science and technology authority. (4 organizations, 1 district funding "
 "routes)"
-msgstr "**[05]** :doc:`嘉定区 <districts/jiading>` （嘉定区）—— **汽车智能、传感器、微机电系统与中试**。主管部门：嘉定区科技主管部门。（4家机构，1条区级融资与扶持渠道）"
+msgstr "**[05]** :doc:`嘉定区 <districts/jiading>` **智能汽车、传感器、微机电系统与中试**。主管部门：嘉定区科技主管部门。（4家机构，1条区级融资与扶持渠道）"
 
 #: ../../index.rst:28
 msgid ""
 "**[06]** :doc:`Baoshan <districts/baoshan>` (宝山区) — **Robotics, advanced "
 "equipment and industrial deployment**. Authority: Baoshan industry and "
 "science authorities. (2 organizations, 1 district funding routes)"
-msgstr "**[06]** :doc:`宝山区 <districts/baoshan>` （宝山区）—— **机器人、高端装备与工业应用**。主管部门：宝山区产业与科技主管部门。（2家机构，1条区级融资与扶持渠道）"
+msgstr "**[06]** :doc:`宝山区 <districts/baoshan>` **机器人、高端装备与工业应用**。主管部门：宝山区产业与科技主管部门。（2家机构，1条区级融资与扶持渠道）"
 
 #: ../../index.rst:29
 msgid ""
@@ -130,7 +120,7 @@ msgid ""
 "intelligent software and international innovation**. Authority: Putuo "
 "science and technology authority. (4 organizations, 3 district funding "
 "routes)"
-msgstr "**[07]** :doc:`普陀区 <districts/putuo>` （普陀区）—— **工业检测、智能软件与国际创新**。主管部门：普陀区科技主管部门。（4家机构，3条区级融资与扶持渠道）"
+msgstr "**[07]** :doc:`普陀区 <districts/putuo>` **工业检测、智能软件与国际创新**。主管部门：普陀区科技主管部门。（4家机构，3条区级融资与扶持渠道）"
 
 #: ../../index.rst:30
 msgid ""
@@ -138,14 +128,14 @@ msgid ""
 "business, AI applications and cross-border services**. Authority: "
 "Changning science and technology authority. (2 organizations, 2 district "
 "funding routes)"
-msgstr "**[08]** :doc:`长宁区 <districts/changning>` （长宁区）—— **数字商业、人工智能应用与跨境服务**。主管部门：长宁区科技主管部门。（2家机构，2条区级融资与扶持渠道）"
+msgstr "**[08]** :doc:`长宁区 <districts/changning>` **数字商业、人工智能应用与跨境服务**。主管部门：长宁区科技主管部门。（2家机构，2条区级融资与扶持渠道）"
 
 #: ../../index.rst:31
 msgid ""
 "**[09]** :doc:`Jing'an <districts/jingan>` (静安区) — **Enterprise AI, data "
 "services and digital commerce**. Authority: Jing'an science and economy "
 "authority. (3 organizations, 1 district funding routes)"
-msgstr "**[09]** :doc:`静安区 <districts/jingan>` （静安区）—— **企业人工智能、数据服务与数字商业**。主管部门：静安区科技和经济委员会。（3家机构，1条区级融资与扶持渠道）"
+msgstr "**[09]** :doc:`静安区 <districts/jingan>` **企业级AI、数据服务与数字商业**。主管部门：静安区科技和经济委员会。（3家机构，1条区级融资与扶持渠道）"
 
 #: ../../index.rst:32
 msgid ""
@@ -153,7 +143,7 @@ msgid ""
 "services, design and consumer applications**. Authority: Huangpu science "
 "and entrepreneurship services. (2 organizations, 1 district funding "
 "routes)"
-msgstr "**[10]** :doc:`黄浦区 <districts/huangpu>` （黄浦区）—— **金融科技、临床服务、设计与消费应用**。主管部门：黄浦区科技与创业服务部门。（2家机构，1条区级融资与扶持渠道）"
+msgstr "**[10]** :doc:`黄浦区 <districts/huangpu>` **金融科技、临床服务、设计与消费应用**。主管部门：黄浦区科技与创业服务部门。（2家机构，1条区级融资与扶持渠道）"
 
 #: ../../index.rst:33
 msgid ""
@@ -161,14 +151,14 @@ msgid ""
 "technology, green finance and intelligent inspection**. Authority: "
 "Hongkou science and economy authority. (4 organizations, 1 district "
 "funding routes)"
-msgstr "**[11]** :doc:`虹口区 <districts/hongkou>` （虹口区）—— **航运科技、绿色金融与智能检测**。主管部门：虹口区科技和经济委员会。（4家机构，1条区级融资与扶持渠道）"
+msgstr "**[11]** :doc:`虹口区 <districts/hongkou>` **航运科技、绿色金融与智能检测**。主管部门：虹口区科技和经济委员会。（4家机构，1条区级融资与扶持渠道）"
 
 #: ../../index.rst:34
 msgid ""
 "**[12]** :doc:`Songjiang <districts/songjiang>` (松江区) — **G60 innovation, "
 "industrial software and advanced manufacturing**. Authority: Songjiang "
 "G60 innovation services. (8 organizations, 2 district funding routes)"
-msgstr "**[12]** :doc:`松江区 <districts/songjiang>` （松江区）—— **G60科创、工业软件与先进制造**。主管部门：松江区G60科创服务部门。（8家机构，2条区级融资与扶持渠道）"
+msgstr "**[12]** :doc:`松江区 <districts/songjiang>` **G60科创、工业软件与先进制造**。主管部门：松江区G60科创服务部门。（8家机构，2条区级融资与扶持渠道）"
 
 #: ../../index.rst:35
 msgid ""
@@ -176,21 +166,21 @@ msgid ""
 "research, digital systems and regional collaboration**. Authority: Qingpu "
 "science and technology authority. (3 organizations, 2 district funding "
 "routes)"
-msgstr "**[13]** :doc:`青浦区 <districts/qingpu>` （青浦区）—— **华为相关研发、数字系统与区域协作**。主管部门：青浦区科学技术委员会。（3家机构，2条区级融资与扶持渠道）"
+msgstr "**[13]** :doc:`青浦区 <districts/qingpu>` **华为相关研发、数字系统与区域协作**。主管部门：青浦区科学技术委员会。（3家机构，2条区级融资与扶持渠道）"
 
 #: ../../index.rst:36
 msgid ""
 "**[14]** :doc:`Jinshan <districts/jinshan>` (金山区) — **Drones, new "
 "materials and low-altitude systems**. Authority: Jinshan science and "
 "technology authority. (3 organizations, 1 district funding routes)"
-msgstr "**[14]** :doc:`金山区 <districts/jinshan>` （金山区）—— **无人机、新材料与低空系统**。主管部门：金山区科技主管部门。（3家机构，1条区级融资与扶持渠道）"
+msgstr "**[14]** :doc:`金山区 <districts/jinshan>` **无人机、新材料与低空系统**。主管部门：金山区科技主管部门。（3家机构，1条区级融资与扶持渠道）"
 
 #: ../../index.rst:37
 msgid ""
 "**[15]** :doc:`Fengxian <districts/fengxian>` (奉贤区) — **Robotics, beauty "
 "and health technology, advanced manufacturing**. Authority: Fengxian "
 "economic commission. (4 organizations, 3 district funding routes)"
-msgstr "**[15]** :doc:`奉贤区 <districts/fengxian>` （奉贤区）—— **机器人、美丽健康科技与先进制造**。主管部门：奉贤区经济委员会。（4家机构，3条区级融资与扶持渠道）"
+msgstr "**[15]** :doc:`奉贤区 <districts/fengxian>` **机器人、美丽健康科技与先进制造**。主管部门：奉贤区经济委员会。（4家机构，3条区级融资与扶持渠道）"
 
 #: ../../index.rst:38
 msgid ""
@@ -198,11 +188,11 @@ msgid ""
 "technology, smart agriculture and marine systems**. Authority: Chongming "
 "science and technology authority. (2 organizations, 2 district funding "
 "routes)"
-msgstr "**[16]** :doc:`崇明区 <districts/chongming>` （崇明区）—— **生态科技、智慧农业与海洋系统**。主管部门：崇明区科学技术委员会。（2家机构，2条区级融资与扶持渠道）"
+msgstr "**[16]** :doc:`崇明区 <districts/chongming>` **生态科技、智慧农业与海洋系统**。主管部门：崇明区科学技术委员会。（2家机构，2条区级融资与扶持渠道）"
 
 #: ../../index.rst:40
 msgid "Complete chapters & directories in this atlas"
-msgstr "本图谱完整章节与目录"
+msgstr "章节与目录"
 
 #: ../../index.rst:43
 msgid ""
@@ -210,7 +200,7 @@ msgid ""
 "logic across central Shanghai, industrial corridors, five新城 (New Cities) "
 "and Chongming Eco-Island, plus magnolia design notes and authorship "
 "credits."
-msgstr ":doc:`一座连接机遇的城市 <reading-the-city>` —— 中心城区、产业走廊、五个新城与崇明生态岛的空间逻辑，以及白玉兰设计说明与作者署名。"
+msgstr ":doc:`读懂上海的创新创业生态 <reading-the-city>` —— 中心城区、产业走廊、五个新城与崇明生态岛的空间逻辑，以及白玉兰设计说明与作者署名。"
 
 #: ../../index.rst:44
 msgid ""
@@ -224,21 +214,21 @@ msgid ""
 ":doc:`Intelligence in software <software-ai>` — Foundation models, "
 "vertical agents, Model Speed Space, Zhangjiang Model Community, "
 "compute/corpus vouchers and compliance routing."
-msgstr ":doc:`软件中的智能 <software-ai>` —— 基础模型、垂类智能体、模速空间、张江模力社区、算力语料券及合规路径。"
+msgstr ":doc:`软件与人工智能应用 <software-ai>` —— 基础模型、垂类智能体、模速空间、张江模力社区、算力语料券及合规路径。"
 
 #: ../../index.rst:46
 msgid ""
 ":doc:`Intelligence in the physical world <hardware-ai>` — AI chips, "
 "EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, "
 "BCI and wet-lab biocomputing."
-msgstr ":doc:`物理世界中的智能 <hardware-ai>` —— AI芯片、EDA与流片、传感器、具身智能机器人、低空无人机、脑机接口与生物计算。"
+msgstr ":doc:`芯片、机器人与智能硬件 <hardware-ai>` —— AI芯片、EDA与流片、传感器、具身智能机器人、低空无人机、脑机接口与生物计算。"
 
 #: ../../index.rst:47
 msgid ""
 ":doc:`Sixteen districts, sixteen entry routes <districts>` — Dedicated "
 "chapter for each of Shanghai's 16 districts with receiving authorities, "
 "policy boundaries, local carriers and funding."
-msgstr ":doc:`十六区，十六条对接路径 <districts>` —— 上海16个行政区逐区专章，含受理部门、政策边界、本地载体与融资与扶持渠道。"
+msgstr ":doc:`上海16区创新指南 <districts>` —— 上海16个行政区逐区专章，含受理部门、政策边界、本地载体与融资与扶持渠道。"
 
 #: ../../index.rst:48
 msgid ""
@@ -272,28 +262,28 @@ msgid ""
 ":doc:`Corporate and global programs <corporate>` — Roche, SAP.iO, ABB, "
 "DroidUp, PaddlePaddle, Yangtze AI+ Center, JLABS, Bayer Co.Lab, NVIDIA "
 "Inception, Microsoft, AWS, Siemens and BMW."
-msgstr ":doc:`企业与全球计划 <corporate>` —— 罗氏、SAP.iO、ABB、卓益得、飞桨、长三角AI+中心、JLABS、拜耳、英伟达、微软、亚马逊云、西门子与宝马项目。"
+msgstr ":doc:`企业创新与全球项目 <corporate>` —— 罗氏、SAP.iO、ABB、卓益得、飞桨、长三角AI+中心、JLABS、拜耳、英伟达、微软、亚马逊云、西门子与宝马项目。"
 
 #: ../../index.rst:53
 msgid ""
 ":doc:`Government entry points <government>` — All 16 district science, "
 "technology and economy authorities with official portals, published "
 "contacts and policy notes."
-msgstr ":doc:`政府对接入口 <government>` —— 16个区科技与经济主管部门入口，含官方网站、公开电话与政策说明。"
+msgstr ":doc:`政府部门与咨询渠道 <government>` —— 16个区科技与经济主管部门入口，含官方网站、公开电话与政策说明。"
 
 #: ../../index.rst:54
 msgid ""
 ":doc:`Capital, with its conditions attached <funding-guide>` — How to "
 "distinguish non-repayable grants, post-expenditure reimbursements, "
 "vouchers, debt, tax relief and equity investment."
-msgstr ":doc:`资金及其附带条件 <funding-guide>` —— 如何区分无偿补助、先支后补、创新券、债务贷款、税收优惠与股权投资。"
+msgstr ":doc:`读懂融资与扶持政策 <funding-guide>` —— 如何区分无偿补助、先支后补、创新券、债务贷款、税收优惠与股权投资。"
 
 #: ../../index.rst:55
 msgid ""
 ":doc:`Funding, without mixing the mechanisms <funding>` — All 40 citywide "
 "and district funding pathways with ceilings, equity rules, eligibility "
 "criteria, deadlines and official links."
-msgstr ":doc:`融资与扶持渠道：分清不同机制 <funding>` —— 全市及16区全部40条融资与扶持渠道，含额度上限、股权规则、资格条件、截止时间与官方入口。"
+msgstr ":doc:`融资与扶持政策总览 <funding>` —— 全市及16区全部40条融资与扶持渠道，含额度上限、股权规则、资格条件、截止时间与官方入口。"
 
 #: ../../index.rst:56
 msgid ""
@@ -314,11 +304,11 @@ msgid ""
 ":doc:`How to read the evidence <methodology>` — Source verification "
 "rules, translation discipline, map accuracy disclosures, known gaps and "
 "authorship credits."
-msgstr ":doc:`如何阅读证据 <methodology>` —— 来源核验规则、翻译规范、地图精度说明、已知缺口及作者团队署名。"
+msgstr ":doc:`资料来源与研究方法 <methodology>` —— 来源核验规则、翻译规范、地图精度说明、已知缺口及作者团队署名。"
 
 #: ../../index.rst:59
 msgid ""
 ":doc:`Sources and reading room <sources>` — Complete bibliography of all "
 "cited government notices, institutional registers and operator pages with "
 "access dates."
-msgstr ":doc:`来源与阅读室 <sources>` —— 全部引用的政府通知、高校名录与运营方网页完整文献库及核对日期。"
+msgstr ":doc:`资料来源与延伸阅读 <sources>` —— 全部引用的政府通知、高校名录与运营方网页完整文献库及核对日期。"

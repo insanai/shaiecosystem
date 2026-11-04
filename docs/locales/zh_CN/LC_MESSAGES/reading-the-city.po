@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../reading-the-city.rst:1
 msgid "A city of connected possibilities"
-msgstr "一座连接机遇的城市"
+msgstr "读懂上海的创新创业生态"
 
 #: ../../reading-the-city.rst:4
 msgid ""
@@ -27,7 +27,7 @@ msgid ""
 "customer to a repeatable business. The useful unit is a working "
 "relationship: a laboratory, a district service team, an incubation "
 "operator, a buyer or an investment manager."
-msgstr "把项目从科研、样机、首位客户追踪到可复制的业务，我们就能更清楚地理解上海。有效的连接来自实验室、区级服务团队、孵化运营方、采购方与投资管理人。"
+msgstr "一个项目如何从科研走向样机，找到首批客户，再建立可持续、可复制的业务？沿着这条线索，我们就能看清上海创新创业资源之间的联系：实验室、区级企业服务部门、孵化器、采购方和投资机构，各自在不同阶段发挥作用。"
 
 #: ../../reading-the-city.rst:12 ../../reading-the-city.rst:20
 msgid "Sixteen districts, connected by people, research and industry."
@@ -35,7 +35,7 @@ msgstr "十六个区，以人才、科研及产业相连。"
 
 #: ../../reading-the-city.rst:22
 msgid "A practical atlas, with a stated boundary"
-msgstr "有边界的实用图谱"
+msgstr "本图谱收录什么"
 
 #: ../../reading-the-city.rst:25
 msgid ""
@@ -45,7 +45,7 @@ msgid ""
 "colleges. A separate appendix includes the 12 adult higher-education "
 "institutions. CEIBS and military institutions need separate treatment and "
 "are not silently added to the ordinary-university count."
-msgstr "本版覆盖16个行政区，以及教育部2026年6月上海69所普通高校名录，其中本科40所、专科29所。附录另列12所成人高校。中欧国际工商学院与军事院校需单独处理，不计入普通高校数量。"
+msgstr "本版覆盖上海全部16个行政区，并依据教育部2026年6月公布的名录，收录上海69所普通高校，其中本科院校40所、高职（专科）院校29所。附录另列12所成人高校。中欧国际工商学院和军事院校的统计口径不同，不计入上述普通高校数量。"
 
 #: ../../reading-the-city.rst:27
 msgid ""
@@ -54,7 +54,7 @@ msgid ""
 "policies, university entry routes, technology parks, public platforms, "
 "private operators and corporate initiatives change independently. Unknown "
 "details remain visible."
-msgstr "项目目录为经研究筛选的集合，并不声称已找到上海全部机构或申报事项。区级政策、高校入口、园区、公共平台、民营运营方及企业计划各自变化，尚不明确的信息会直接标注。"
+msgstr "本图谱按研究结果选编项目，并非上海所有机构和申报项目的完整名录。各区政策、高校合作渠道、科技园区、公共服务平台、民营孵化器和企业创新项目的更新节奏各不相同。尚未核实的信息均作说明。"
 
 #: ../../reading-the-city.rst:29
 msgid ""
@@ -62,11 +62,11 @@ msgid ""
 "validity period is not necessarily accepting applications. A launch "
 "announcement proves that an initiative was announced; it does not prove "
 "that a new cohort is open."
-msgstr "研究核对日期为2026年11月4日。政策仍在有效期内不代表正在受理。启动公告只能证明计划曾经发布，不能证明新一期正在招募。"
+msgstr "本版资料核查截至2026年11月4日。政策仍在有效期内，不代表当前可以申报；项目曾发布启动公告，也不代表新一期正在接受申请。"
 
 #: ../../reading-the-city.rst:31
 msgid "Three geographies, many choices"
-msgstr "三类空间，多种选择"
+msgstr "从城市布局寻找合作机会"
 
 #: ../../reading-the-city.rst:34
 msgid ""
@@ -76,7 +76,7 @@ msgid ""
 "biomedical activity with a distinct Lin-gang development area. These are "
 "starting hypotheses; the right operator and customer matter more than an "
 "address."
-msgstr "中心城区便于连接科研、专业服务与客户。徐汇和杨浦可作为模型及高校合作起点。浦东结合张江科研、芯片及生物医药生态，并包含定位不同的临港片区。这些是选址假设，合适的运营方与客户比地址更重要。"
+msgstr "中心城区集聚科研机构、专业服务和客户资源。寻找大模型及高校合作资源，可以先从徐汇、杨浦入手。浦东既有张江的科研、芯片和生物医药产业集群，也有定位不同的临港新片区。这些只能作为初步选址参考，最终仍要看运营机构能否提供所需资源，以及周边是否有合适的客户。"
 
 #: ../../reading-the-city.rst:36
 msgid ""
@@ -86,7 +86,7 @@ msgid ""
 "environment. Chongming is a distinct setting for ecological, agricultural "
 "and marine questions. The district chapters explain the evidence behind "
 "each route."
-msgstr "闵行与嘉定有助于连接工程研究与产业实践。宝山、松江、金山及奉贤提供不同制造环境。青浦连接区域协作与西岑研发环境。崇明适合生态、农业及海洋问题。各区章节给出相应证据。"
+msgstr "闵行、嘉定便于对接工程科研与产业应用；宝山、松江、金山和奉贤各有不同的制造业基础。青浦可关注长三角协作和西岑研发资源，崇明则可关注生态、农业及海洋科技。各区章节列出了相关资料来源，便于进一步判断。"
 
 #: ../../reading-the-city.rst:38
 msgid ""
@@ -94,7 +94,7 @@ msgid ""
 "Hongqiao, G60 and Lin-gang can cross administrative or operating "
 "boundaries. We confirm registered address, actual operations, project "
 "location and the receiving authority before assuming a policy applies."
-msgstr "功能区不是新增行政区。张江、漕河泾、虹桥、G60与临港具有不同管理及运营边界。适用政策前，我们先确认注册地址、实际经营、项目位置及受理部门。"
+msgstr "功能区与行政区不是同一概念。张江、漕河泾、虹桥、G60和临港的管理范围、运营范围各有不同。判断一项政策是否适用，需要先确认企业注册地址、实际经营地、项目实施地及受理部门。"
 
 #: ../../reading-the-city.rst:40
 msgid ""
@@ -107,11 +107,11 @@ msgid ""
 "Shanghai Tsinghua International Innovation Center; and Songjiang launched "
 "the University Town Sci-Tech Source fund to connect seven campus research "
 "bases with industrial transformation."
-msgstr "2025至2026年的市区政策进一步细化了空间分工：浦东揭幕2平方公里的张江人工智能创新小镇并配套算力、模型与语料券；上海高质量孵化器扩围至18家；普陀构建“一轴一园一中心”框架，串联武宁科技园、中以（上海）创新园与上海清华国际创新中心；松江则启动松江大学城科创源专项资金，打通七所高校科研基地与产业转化通道。"
+msgstr "2025至2026年，市、区两级的新举措进一步明确了这些区域的定位：浦东揭牌2平方公里的张江人工智能创新小镇，配套算力券、模型券和语料券；全市高质量孵化器增至18家；普陀以“一轴一园一中心”串联武宁科技园、中以（上海）创新园和上海清华国际创新中心；松江设立大学城科创源专项资金，推动七所高校科研基地与产业对接。"
 
 #: ../../reading-the-city.rst:42
 msgid "The magnolia and the pearl"
-msgstr "白玉兰与明珠"
+msgstr "白玉兰与东方明珠"
 
 #: ../../reading-the-city.rst:45
 msgid ""
@@ -121,7 +121,7 @@ msgid ""
 "municipal color standard. The cover is an original generated Chinese "
 "ink-style illustration, not a documentary photograph or a geographically "
 "exact skyline."
-msgstr "上海市花为白玉兰，1986年确定。本图谱以珍珠白为主色，辅以墨黑、雾玉与香槟金。这是编辑设计配色，并非官方城市色标准。封面为原创生成的中国水墨风格插画，不是纪实照片或精确地理景观。"
+msgstr "白玉兰于1986年被确定为上海市花。本图谱以珍珠白为主色，辅以墨色、浅玉色和香槟金，呼应白玉兰与“东方明珠”的意象。这是本书的设计配色，并非上海官方色彩标准。封面为原创生成的中国水墨风格插画，属于艺术创作，不是实景照片，也不追求天际线的地理精确性。"
 
 #: ../../reading-the-city.rst:47
 msgid ""
@@ -131,26 +131,17 @@ msgid ""
 "using Guidedog in both HTML and PDF editions in seven languages, sharing "
 "one verified dataset across the interactive web atlas and the illustrated "
 "print-ready books."
-msgstr "本书与交互图谱由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu 共同贡献。全书与网站使用 Guidedog 原生构建为 HTML 与 PDF 双格式版本（英文与简体中文），在交互式网页图谱与插图版 PDF 图书之间共用同一套经核实的研究数据。"
+msgstr "本书及交互式图谱由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 和 Emily Yue Xu 参与编写。网站和PDF图书均使用 Guidedog 原生工作流制作，提供英语、简体中文、印地语、日语、韩语、德语和西班牙语七个版本，共用同一套经过核查的研究数据。"
 
 #: ../../reading-the-city.rst:49
-
-#| msgid ""
-#| "`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. "
-#| "Shanghai municipal flower and overview."
 msgid ""
 "`Evidence S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
 "municipal flower and overview."
-msgstr "`证据 S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
+msgstr "`资料来源 S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
 
 #: ../../reading-the-city.rst:51
-
-#| msgid ""
-#| "`Evidence S137 "
-#| "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
-#| "Shanghai expands list of high-quality incubators."
 msgid ""
 "`Evidence S141 "
 "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
 "Shanghai expands list of high-quality incubators."
-msgstr "`证据 S141 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators."
+msgstr "`资料来源 S141 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators."

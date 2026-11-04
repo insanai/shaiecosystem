@@ -37,11 +37,11 @@ msgid ""
 "`Evidence S026 "
 "<https://www.shanghai.gov.cn/tszczq-cxcyqj7/20251119/b3f4914652a443c89bd1d1bd1320021d.html>`_. "
 "虹口区人民政府关于印发 《张江高新区虹口园改革创新发展行动方案（2025—2026年）》的通知."
-msgstr "`证据 S026 <https://www.shanghai.gov.cn/tszczq-cxcyqj7/20251119/b3f4914652a443c89bd1d1bd1320021d.html>`_. 虹口区人民政府关于印发 《张江高新区虹口园改革创新发展行动方案（2025—2026年）》的通知."
+msgstr "`资料来源 S026 <https://www.shanghai.gov.cn/tszczq-cxcyqj7/20251119/b3f4914652a443c89bd1d1bd1320021d.html>`_. 虹口区人民政府关于印发 《张江高新区虹口园改革创新发展行动方案（2025—2026年）》的通知."
 
 #: ../../districts/hongkou.rst:10
 msgid "Who receives the inquiry"
-msgstr "咨询受理"
+msgstr "联系哪个部门"
 
 #: ../../districts/hongkou.rst:13
 msgid "Hongkou science and economy authority"
@@ -55,41 +55,41 @@ msgstr "`区政府官网 <https://www.shhk.gov.cn/>`_"
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../districts/hongkou.rst:19
 msgid "Before applying"
-msgstr "申请之前"
+msgstr "申请前需确认"
 
 #: ../../districts/hongkou.rst:22
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../districts/hongkou.rst:24
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+msgstr "阅读有明确发布日期的通知，确认属地、申请主体、业务及费用发生期间等条件。"
 
 #: ../../districts/hongkou.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "准备规定材料，按要求完成单位或区级推荐。"
+msgstr "按清单准备材料，并按要求取得依托单位或区级部门推荐。"
 
 #: ../../districts/hongkou.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "在截止前通过官方平台提交并保存回执。"
+msgstr "在截止时间前通过官方平台提交，保存受理回执。"
 
 #: ../../districts/hongkou.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+msgstr "按通知要求完成评审、立项、报告、验收及资金拨付手续。"
 
 #: ../../districts/hongkou.rst:32
 msgid ""
@@ -97,11 +97,11 @@ msgid ""
 "actual operations must both be in the district, which expenditure period "
 "is eligible, and whether previous municipal or district awards exclude a "
 "claim. Obtain the answer before moving a company or incurring costs."
-msgstr "询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。"
+msgstr "申请前应确认适用的最新通知，企业注册地和实际经营地是否都须在本区，哪些期间的费用可以申报，以及已获市级或区级资助是否影响本次申请。企业迁址或发生支出前，应先取得明确答复。"
 
 #: ../../districts/hongkou.rst:34
 msgid "Local organizations in this atlas"
-msgstr "本图谱中的本区机构"
+msgstr "本区收录机构"
 
 #: ../../districts/hongkou.rst:37
 msgid ""
@@ -111,7 +111,7 @@ msgid ""
 "and investment services. Request the relevant sub-park and named "
 "operating company for a project-specific response. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`张江虹口园／北科创 </entities/hongkou-park>` （张江虹口园／北科创 · 科技园区 · 软件人工智能、产业）—— 园区方案明确北科创在孵化、技术转移及投融资服务方面的统筹作用。应索取对应子园及具体运营公司，以获得针对项目的答复。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`张江虹口园／北科创 </entities/hongkou-park>` （科技园区 · AI软件、产业）： 园区方案明确由北科创统筹孵化、技术转移及投融资服务。咨询时应明确具体子园区和运营公司，便于获得与项目相关的答复。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/hongkou.rst:38
 msgid ""
@@ -121,7 +121,7 @@ msgid ""
 "postdoctoral innovation practice base route supporting tech SMEs, "
 "green-shipping digital tools and R&D talent settlement in Hongkou. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`虹口区科技创业中心与博士后创新基地 </entities/hongkou-stec>` （虹口区科技创业中心与博士后创新基地 · 孵化器 · 软件人工智能、产业、气候）—— 虹口区属公共科技创业中心及博士后创新实践基地对接路径，支持科技型中小企业、绿色航运数字化工具及研发人才落地。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`虹口区科技创业中心与博士后创新基地 </entities/hongkou-stec>` （孵化器 · AI软件、产业、气候）： 虹口公共科技创业中心及博士后创新实践基地相关服务，可供科技型中小企业、绿色航运数字化团队及研发人才咨询。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/hongkou.rst:39
 msgid ""
@@ -131,7 +131,7 @@ msgid ""
 "themes: Language technology, translation, international markets. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海外国语大学 </entities/university-sisu>` （上海外国语大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：语言技术、翻译、国际市场。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海外国语大学 </entities/university-sisu>` （高校）： 该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：语言技术、翻译、国际市场。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/hongkou.rst:40
 msgid ""
@@ -142,7 +142,7 @@ msgid ""
 "applications. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`上海外国语大学贤达经济人文学院 </entities/university-xianda>` （上海外国语大学贤达经济人文学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：语言、商业与创意应用。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海外国语大学贤达经济人文学院 </entities/university-xianda>` （高校）： 该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：语言、商业与创意应用。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../districts/hongkou.rst:42
 msgid "Funding routes"
@@ -155,7 +155,7 @@ msgid ""
 "No equity) — Recognized top talent and core team: up to RMB 1m; eligible "
 "overseas young talent: RMB 50,000 per person. Status: Closed. Timing: "
 "Closed 31 March 2026."
-msgstr ":doc:`2026虹口国际顶尖及海外优秀青年人才扶持第一批 </funding/hongkou-talent-2026>` （2026虹口国际顶尖及海外优秀青年人才扶持第一批 · 补助 · 不占股）—— 认定顶尖人才及核心团队最高100万元，合资格海外优秀青年人才每人5万元。状态：已截止。时间：已于2026年3月31日截止。"
+msgstr ":doc:`2026虹口国际顶尖及海外优秀青年人才扶持第一批 </funding/hongkou-talent-2026>` （补助 · 不占股）： 认定顶尖人才及核心团队最高100万元，符合条件的海外优秀青年人才每人5万元。状态：已截止。时间：已于2026年3月31日截止。"
 
 #: ../../districts/hongkou.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"

@@ -18,17 +18,17 @@ msgstr ""
 
 #: ../../government.rst:1
 msgid "Government entry points"
-msgstr "政府对接入口"
+msgstr "政府部门与咨询渠道"
 
 #: ../../government.rst:4
 msgid ""
 "17 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "17份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。"
+msgstr "收录17家机构，附资料来源、联系方式和申请参考。机构信息已核实，不代表当前正在接受申请。"
 
 #: ../../government.rst:8
 msgid "Complete directory summary"
-msgstr "完整机构名录摘要"
+msgstr "机构目录概览"
 
 #: ../../government.rst:11
 msgid ""
@@ -41,7 +41,7 @@ msgid ""
 "support applications. Returnee status is not a category covering every "
 "foreign founder and is not an automatic grant or residence permit. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海留学人员创业服务窗口 <entities/returnee-services>` （上海留学人员创业服务窗口 · 政府部门 · 全市／全球 · 方向：软件人工智能、硬件人工智能）—— 2026年市级规定明确由人才工作部门及各区服务窗口为符合条件的留学人员提供服务，包括符合规定的入外籍人员。资格认定及创业园服务可衔接独立的支持申报。留学人员身份不涵盖所有外国创始人，也不自动带来资助或居留许可。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海留学人员创业服务窗口 <entities/returnee-services>` （政府部门 · 全市／全球 · 方向：AI软件、AI硬件）：2026年市级规定明确，由人才工作部门及各区服务窗口为符合条件的留学人员提供服务，符合规定的入外籍人员也可纳入。身份认定、创业园服务及资金申报各有要求，不能将留学人员等同于所有外籍创业者，也不自动取得资助或居留许可。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:12
 msgid ""
@@ -51,7 +51,7 @@ msgid ""
 "qualifying 2025 model and agent expenditure; duplicate public funding is "
 "excluded. Tel: +86 21 68811090. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`浦东新区科技和经济委员会 <entities/government-pudong>` （浦东新区科技和经济委员会 · 政府部门 · 浦东新区）—— 2026年人工智能应用项目申报已于2026年8月31日截止。该通知面向符合条件的2025年模型与智能体支出，已获其他财政资金资助的项目不得重复申报。 电话：+86 21 68811090。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`浦东新区科技和经济委员会 <entities/government-pudong>` （政府部门 · 浦东新区）：2026年人工智能应用项目申报已于2026年8月31日截止。该通知面向符合条件的2025年模型与智能体支出，已获其他财政资金资助的项目不得重复申报。 电话：+86 21 68811090。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:13
 msgid ""
@@ -60,7 +60,7 @@ msgid ""
 "robot models, algorithms, data and operating systems. Its evaluated "
 "support ceilings are not automatic startup awards. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`徐汇区产业主管部门 <entities/government-xuhui>` （徐汇区产业主管部门 · 政府部门 · 徐汇区）—— 具身智能政策覆盖机器人大模型、算法、数据与操作系统。经综合评估的支持上限并非初创企业自动获得的补贴。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`徐汇区产业主管部门 <entities/government-xuhui>` （政府部门 · 徐汇区）：具身智能政策覆盖机器人大模型、算法、数据与操作系统。经综合评估的支持上限并非初创企业可以自动获得的补贴。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:14
 msgid ""
@@ -70,7 +70,7 @@ msgid ""
 "separate May 2026 OPC policy supports communities around Fuxing Island; "
 "an action plan does not itself constitute a cash award. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`杨浦区科技主管部门 <entities/government-yangpu>` （杨浦区科技主管部门 · 政府部门 · 杨浦区）—— 类脑智能方案明确长阳创谷与湾谷科技园布局。2026年5月另有支持复兴岛等超级个体社区的政策；行动方案本身不等同于现金补助。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`杨浦区科技主管部门 <entities/government-yangpu>` （政府部门 · 杨浦区）：类脑智能方案明确长阳创谷与湾谷科技园布局。2026年5月另有支持复兴岛等超级个体社区的政策；行动方案本身不等同于现金补助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:15
 msgid ""
@@ -80,7 +80,7 @@ msgid ""
 "2030. New conversion enterprises may qualify for up to RMB 500,000 "
 "annually, capped at RMB 1.5 million over three years and 50% of eligible "
 "investment. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`闵行区科技主管部门 <entities/government-minhang>` （闵行区科技主管部门 · 政府部门 · 闵行区）—— 企业科技创新政策有效期为2025年9月1日至2030年8月31日。新设科技成果转化企业符合条件的，可按转化投入50%获得每年最高50万元、三年累计最高150万元资助。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`闵行区科技主管部门 <entities/government-minhang>` （政府部门 · 闵行区）：企业科技创新政策有效期为2025年9月1日至2030年8月31日。新设科技成果转化企业符合条件的，可按转化投入50%获得每年最高50万元、三年累计最高150万元资助。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:16
 msgid ""
@@ -90,7 +90,7 @@ msgid ""
 "InnoSpring in connecting research, pilot production and incubation. The "
 "2026 district service program provides policy interpretation and project "
 "coordination. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`嘉定区科技主管部门 <entities/government-jiading>` （嘉定区科技主管部门 · 政府部门 · 嘉定区）—— 市科委记录了工研院与新微创源联动科研、中试与孵化的工作。2026年区级企业服务活动提供政策解读与项目协调。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`嘉定区科技主管部门 <entities/government-jiading>` （政府部门 · 嘉定区）：市科委记录了工研院与新微创源联动科研、中试与孵化的工作。2026年区级企业服务活动提供政策解读与项目协调。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:17
 msgid ""
@@ -100,7 +100,7 @@ msgid ""
 "Separate industrial-park admission and district support reviews are "
 "needed; a factory demonstration is not a startup funding call. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`宝山区产业与科技主管部门 <entities/government-baoshan>` （宝山区产业与科技主管部门 · 政府部门 · 宝山区）—— 全区正在发展机器人及高端装备产业集群。园区准入与政策资助需分别审核；工厂示范项目不等于面向初创企业的资金申报。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`宝山区产业与科技主管部门 <entities/government-baoshan>` （政府部门 · 宝山区）：全区正在发展机器人及高端装备产业集群。园区准入与政策资助需分别审核；工厂示范项目不等于面向初创企业的资金申报。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:18
 msgid ""
@@ -110,7 +110,7 @@ msgid ""
 "incubator register also lists the China-Israel Innovation Hub; tenancy "
 "and investment require separate terms. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`普陀区科技主管部门 <entities/government-putuo>` （普陀区科技主管部门 · 政府部门 · 普陀区）—— 武宁科技园连接工业研发、检测与技术转移。区级孵化基地名录还列有中以创新园；入驻与投资须分别确认条款。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`普陀区科技主管部门 <entities/government-putuo>` （政府部门 · 普陀区）：武宁科技园连接工业研发、检测与技术转移。区级孵化基地名录还列有中以创新园；入驻与投资须分别确认条款。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:19
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
 "MAKE021 as parts of its incubation landscape. Confirm the correct "
 "operator before submitting. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`长宁区科技主管部门 <entities/government-changning>` （长宁区科技主管部门 · 政府部门 · 长宁区）—— 2026年8月区级报道列出数字硅巷、虹桥智域、东虹桥国际青年科创中心与马克沪MAKE021等孵化载体。申请前应确认具体运营主体。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`长宁区科技主管部门 <entities/government-changning>` （政府部门 · 长宁区）：2026年8月区级报道列出数字硅巷、虹桥智域、东虹桥国际青年科创中心与马克沪MAKE021等孵化载体。申请前应确认具体运营主体。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:20
 msgid ""
@@ -129,7 +129,7 @@ msgid ""
 "demonstration plan focuses on industry integration and talent. Its stated "
 "objectives must be distinguished from implementing rules and currently "
 "accepting applications. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`静安区科技和经济委员会 <entities/government-jingan>` （静安区科技和经济委员会 · 政府部门 · 静安区）—— 2026至2028年人工智能创新应用示范区方案聚焦产业融合与人才。规划目标应与实施细则及正在受理的申报事项区分。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`静安区科技和经济委员会 <entities/government-jingan>` （政府部门 · 静安区）：2026至2028年人工智能创新应用示范区方案聚焦产业融合与人才。规划目标应与实施细则及正在受理的申报事项区分。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:21
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "clinical research services. Huangpu ChuangKa is a separate youth "
 "entrepreneurship support route; check eligibility and current workstation "
 "availability. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`黄浦区科技与创业服务部门 <entities/government-huangpu>` （黄浦区科技与创业服务部门 · 政府部门 · 黄浦区）—— 2025至2026年张江黄浦园方案侧重金融科技与临床研究服务。黄浦创卡是另行实施的青年创业支持渠道，须核验资格与当前工位情况。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`黄浦区科技与创业服务部门 <entities/government-huangpu>` （政府部门 · 黄浦区）：2025至2026年张江黄浦园方案侧重金融科技与临床研究服务。黄浦创卡是另行实施的青年创业支持渠道，需确认资格与当前工位情况。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:22
 msgid ""
@@ -149,7 +149,7 @@ msgid ""
 "investment role to the district state-owned Beikechuang group. Ask for "
 "the operating carrier and current application notice, rather than relying "
 "on older subsidy summaries. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`虹口区科技和经济委员会 <entities/government-hongkou>` （虹口区科技和经济委员会 · 政府部门 · 虹口区）—— 2025至2026年虹口园方案明确北科创集团在载体统筹、孵化与投融资方面的职责。应索取具体运营载体与现行申报通知，避免依赖旧版补贴概述。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`虹口区科技和经济委员会 <entities/government-hongkou>` （政府部门 · 虹口区）：2025至2026年虹口园方案明确北科创集团在载体统筹、孵化与投融资方面的职责。应索取具体运营载体与现行申报通知，避免依赖旧版补贴概述。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:23
 msgid ""
@@ -159,7 +159,7 @@ msgid ""
 "distinguish the nine-city corridor from Shanghai district eligibility: a "
 "partner elsewhere in the corridor does not establish Songjiang "
 "qualification. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`松江区G60科创服务部门 <entities/government-songjiang>` （松江区G60科创服务部门 · 政府部门 · 松江区）—— G60科创走廊发布创新与资源对接举措。九城市合作范围与上海区级资格不同，走廊其他城市的合作伙伴不能据此取得松江申报资格。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`松江区G60科创服务部门 <entities/government-songjiang>` （政府部门 · 松江区）：G60科创走廊发布创新与资源对接举措。九城市合作范围与上海区级资格不同，走廊其他城市的合作伙伴不能据此取得松江申报资格。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:24
 msgid ""
@@ -169,7 +169,7 @@ msgid ""
 "district. The official 2025 reply discusses early investment and "
 "technology transfer, but proposed funds are not treated here as open "
 "startup applications. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`青浦区科学技术委员会 <entities/government-qingpu>` （青浦区科学技术委员会 · 政府部门 · 青浦区）—— 西岑联动练秋湖研发中心与科创片区。2025年官方答复讨论早期投资及技术转移，本书不将研究设立的基金视为正在受理的创业项目。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`青浦区科学技术委员会 <entities/government-qingpu>` （政府部门 · 青浦区）：西岑联动练秋湖研发中心与科创片区。2025年官方答复讨论早期投资及技术转移，本书不把研究设立的基金视为正在受理的创业项目。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:25
 msgid ""
@@ -179,7 +179,7 @@ msgid ""
 "Base and Bay Area incubation carriers. It connects testing and "
 "industrialization, subject to park admission and the applicable aviation "
 "permissions. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`金山区科技主管部门 <entities/government-jinshan>` （金山区科技主管部门 · 政府部门 · 金山区）—— 2025至2026年园区方案列出金山新材料孵化器、华东无人机基地与湾区孵化载体，衔接检测及产业化；须分别办理园区准入与适用的航空许可。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`金山区科技主管部门 <entities/government-jinshan>` （政府部门 · 金山区）：2025至2026年园区方案列出金山新材料孵化器、华东无人机基地与湾区孵化载体，衔接检测及产业化；须分别办理园区准入与适用的航空许可。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:26
 msgid ""
@@ -189,7 +189,7 @@ msgid ""
 "Beauty Valley provides a separate beauty and health industry context. "
 "Match the project to the correct policy owner and application batch. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`奉贤区经济委员会 <entities/government-fengxian>` （奉贤区经济委员会 · 政府部门 · 奉贤区）—— 智能机器人产业措施面向符合条件的注册企业。东方美谷构成另一条美丽健康产业路径。项目须匹配相应主管部门与申报批次。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`奉贤区经济委员会 <entities/government-fengxian>` （政府部门 · 奉贤区）：智能机器人产业措施面向符合条件的注册企业。东方美谷构成另一条美丽健康产业路径。项目须匹配相应主管部门与申报批次。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../government.rst:27
 msgid ""
@@ -199,4 +199,4 @@ msgid ""
 "separate 2024 science innovation subsidy measures expired on 31 December "
 "2025; we do not present those ceilings as current entitlements. Tel: +86 "
 "21 69695910. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`崇明区科学技术委员会 <entities/government-chongming>` （崇明区科学技术委员会 · 政府部门 · 崇明区）—— 2025至2026年崇明园方案提供战略背景。另一项2024年科技创新资助办法已于2025年12月31日到期，本书不将其额度作为现行权益。 电话：+86 21 69695910。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`崇明区科学技术委员会 <entities/government-chongming>` （政府部门 · 崇明区）：2025至2026年崇明园方案提供战略背景。另一项2024年科技创新资助办法已于2025年12月31日到期，本书不把其额度作为现行支持。 电话：+86 21 69695910。【状态：机构信息已核实，当前是否接受申请需确认】"

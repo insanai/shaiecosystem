@@ -26,21 +26,17 @@ msgstr "贷款｜黄浦区"
 
 #: ../../funding/huangpu-credit-directory.rst:6
 msgid "Published directory; lender review"
-msgstr "目录已公布，须贷款方审核"
+msgstr "目录已公布，须贷款机构审核"
 
 #: ../../funding/huangpu-credit-directory.rst:8
-
-#| msgid ""
-#| "`Evidence S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
-#| "黄浦区融资信用服务平台-银行产品."
 msgid ""
 "`Evidence S131 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
 "黄浦区融资信用服务平台-银行产品."
-msgstr "`证据 S131 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
+msgstr "`资料来源 S131 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
 
 #: ../../funding/huangpu-credit-directory.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/huangpu-credit-directory.rst:13
 msgid ""
@@ -49,72 +45,72 @@ msgstr "各银行授信、创业担保与知识产权融资产品条件各异"
 
 #: ../../funding/huangpu-credit-directory.rst:15
 msgid "No equity; repayable"
-msgstr "不占股，须偿还"
+msgstr "不要求出让股权，需还款"
 
 #: ../../funding/huangpu-credit-directory.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/huangpu-credit-directory.rst:20
 msgid ""
 "Select the actual bank product on the official district platform. Credit "
 "eligibility, guarantee, rates, fees, collateral and repayment depend on "
 "the lender and company; the directory is not an approval."
-msgstr "在区级官方平台选择具体银行产品，授信资格、担保、利率、费用、抵押及还款依银行与企业确定，列入目录不代表获批。"
+msgstr "在区级官方平台选择具体银行产品。是否获批及担保、利率、费用、抵押和还款条件，由银行结合企业情况确定；产品列入目录不代表贷款获批。"
 
 #: ../../funding/huangpu-credit-directory.rst:22
 msgid "Product-specific; confirm current lender terms"
-msgstr "依具体产品，核验贷款方现行条件"
+msgstr "依具体产品，确认贷款机构现行条件"
 
 #: ../../funding/huangpu-credit-directory.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/huangpu-credit-directory.rst:27
 msgid ""
 "`Official application / policy route "
 "<https://xydhp.shhuangpu.gov.cn/finance-product>`_"
-msgstr "`官方申请／政策入口 <https://xydhp.shhuangpu.gov.cn/finance-product>`_"
+msgstr "`官方申请渠道及政策文件 <https://xydhp.shhuangpu.gov.cn/finance-product>`_"
 
 #: ../../funding/huangpu-credit-directory.rst:29
 msgid ""
 "The linked authority or operator is the contact route. A direct current "
 "program contact is not established in this profile."
-msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+msgstr "请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。"
 
 #: ../../funding/huangpu-credit-directory.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/huangpu-credit-directory.rst:33
 msgid ""
 "Select the current bank or public guarantee product and check borrower "
 "eligibility."
-msgstr "选择现行银行或公共担保产品，核验借款资格。"
+msgstr "选择现行银行贷款或公共担保产品，确认借款资格。"
 
 #: ../../funding/huangpu-credit-directory.rst:35
 msgid ""
 "Prepare accounts, cash-flow forecast, ownership and requested security "
 "documents."
-msgstr "准备报表、现金流预测、股权及要求的担保材料。"
+msgstr "准备财务报表、现金流预测、股权资料及要求的担保材料。"
 
 #: ../../funding/huangpu-credit-directory.rst:37
 msgid ""
 "Complete lender and guarantee assessment; compare all costs and repayment "
 "terms."
-msgstr "完成贷款及担保评估，比较全部成本与还款条件。"
+msgstr "配合贷款与担保评估，比较全部费用及还款条件。"
 
 #: ../../funding/huangpu-credit-directory.rst:39
 msgid ""
 "Sign and track debt service; claim interest support only if independently "
 "eligible."
-msgstr "签约并管理偿债，贴息须另行符合资格。"
+msgstr "签约后按期还款；申请贴息还需另行满足相应条件。"
 
 #: ../../funding/huangpu-credit-directory.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

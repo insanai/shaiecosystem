@@ -22,27 +22,22 @@ msgstr "2026模塑申城算力券、模型券、语料券"
 
 #: ../../funding/municipal-ai-vouchers.rst:4
 msgid "Reimbursement | Citywide / global"
-msgstr "报销支持｜全市／全球"
+msgstr "费用补贴｜全市／全球"
 
 #: ../../funding/municipal-ai-vouchers.rst:6
 msgid "First 2026 batch closed; later batches to verify"
-msgstr "2026首批已截止，后续批次待核验"
+msgstr "2026年首批已截止，后续批次需确认"
 
 #: ../../funding/municipal-ai-vouchers.rst:8
-
-#| msgid ""
-#| "`Evidence S111 "
-#| "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
-#| "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 msgid ""
 "`Evidence S114 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
 "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
-msgstr "`证据 S114 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`资料来源 S114 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 
 #: ../../funding/municipal-ai-vouchers.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/municipal-ai-vouchers.rst:13
 msgid "Award depends on applicable category and assessment"
@@ -54,14 +49,14 @@ msgstr "不占股"
 
 #: ../../funding/municipal-ai-vouchers.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/municipal-ai-vouchers.rst:20
 msgid ""
 "Qualifying Shanghai AI model or agent developers and users purchasing "
 "eligible non-related-party services. Projects already receiving other "
 "municipal fiscal subsidy are excluded."
-msgstr "在沪合资格大模型或智能体研发应用单位，采购非关联方合资格服务；已获其他市级财政补贴项目不得重复。"
+msgstr "在沪开展大模型或智能体研发应用、符合要求的单位，采购非关联方提供的认可服务。同一项目已获其他市级财政补贴的，不得重复申报。"
 
 #: ../../funding/municipal-ai-vouchers.rst:22
 msgid ""
@@ -71,50 +66,50 @@ msgstr "首批已于2026年5月27日中国标准时间16:00截止，通知计划
 
 #: ../../funding/municipal-ai-vouchers.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/municipal-ai-vouchers.rst:27
 msgid ""
 "`Official application / policy route <https://zxzj.sheitc.sh.gov.cn/>`_"
-msgstr "`官方申请／政策入口 <https://zxzj.sheitc.sh.gov.cn/>`_"
+msgstr "`官方申请渠道及政策文件 <https://zxzj.sheitc.sh.gov.cn/>`_"
 
 #: ../../funding/municipal-ai-vouchers.rst:29
 msgid "Published consultation: +86 21 23119377."
-msgstr "公布咨询电话：+86 21 23119377。"
+msgstr "咨询电话：+86 21 23119377。"
 
 #: ../../funding/municipal-ai-vouchers.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/municipal-ai-vouchers.rst:33
 msgid ""
 "Confirm the actual category, area boundary, supplier and eligible "
 "expenditure period."
-msgstr "确认实际类别、范围、供应商及合资格支出期间。"
+msgstr "确认服务券类别、使用范围、服务商及认可的费用发生期间。"
 
 #: ../../funding/municipal-ai-vouchers.rst:35
 msgid ""
 "Keep service contracts, invoices, payment evidence and itemized usage "
 "logs."
-msgstr "保留服务合同、发票、付款凭证及明细用量记录。"
+msgstr "留存服务合同、发票、付款凭证和详细使用记录。"
 
 #: ../../funding/municipal-ai-vouchers.rst:37
 msgid ""
 "Use the named platform and current batch; obtain the required district or "
 "operator review."
-msgstr "使用指定平台及当前批次，完成规定区级或运营方审核。"
+msgstr "通过指定平台申报当前批次，并按要求完成区级或运营机构审核。"
 
 #: ../../funding/municipal-ai-vouchers.rst:39
 msgid ""
 "Check approved amount, duplicate-funding exclusions and payment "
 "conditions."
-msgstr "核验认可额度、重复资助限制及拨付条件。"
+msgstr "确认核定额度、重复资助限制及资金拨付条件。"
 
 #: ../../funding/municipal-ai-vouchers.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

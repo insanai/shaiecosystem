@@ -22,21 +22,21 @@ msgstr "英伟达初创加速计划"
 
 #: ../../funding/nvidia-service.rst:4
 msgid "In-kind services | Citywide / global"
-msgstr "实物与服务支持｜全市／全球"
+msgstr "实物及服务支持｜全市／全球"
 
 #: ../../funding/nvidia-service.rst:6
 msgid "Program published; eligibility review"
-msgstr "项目已公布，须资格审核"
+msgstr "已公布，需审核申请资格"
 
 #: ../../funding/nvidia-service.rst:8
 msgid ""
 "`Evidence S040 <https://www.nvidia.com/en-us/startups/>`_. Inception "
 "Program for Startups | NVIDIA."
-msgstr "`证据 S040 <https://www.nvidia.com/en-us/startups/>`_. Inception Program for Startups | NVIDIA."
+msgstr "`资料来源 S040 <https://www.nvidia.com/en-us/startups/>`_. Inception Program for Startups | NVIDIA."
 
 #: ../../funding/nvidia-service.rst:10
 msgid "Amount and mechanism"
-msgstr "额度与机制"
+msgstr "额度与支持方式"
 
 #: ../../funding/nvidia-service.rst:13
 msgid "Free membership; conditional ecosystem benefits, not a cash grant"
@@ -48,62 +48,62 @@ msgstr "不占股"
 
 #: ../../funding/nvidia-service.rst:17
 msgid "Eligibility and timing"
-msgstr "资格与时间"
+msgstr "申请条件与受理时间"
 
 #: ../../funding/nvidia-service.rst:20
 msgid ""
 "Qualifying AI startups; check incorporation, developer, age and regional "
 "conditions. Product availability and partner credits are separately "
 "governed."
-msgstr "符合条件的人工智能初创企业；须核验注册、开发者、年限与地区条件，产品及合作积分另有规则。"
+msgstr "符合计划条件的AI初创企业。企业注册、开发者身份、成立年限和地区等要求需确认；产品及合作伙伴提供的额度另有规则。"
 
 #: ../../funding/nvidia-service.rst:22
 msgid "Online application; regional eligibility review"
-msgstr "在线申请，须地区资格审核"
+msgstr "在线申请，地区适用资格需审核"
 
 #: ../../funding/nvidia-service.rst:24
 msgid "Contact and application"
-msgstr "联系与申请"
+msgstr "咨询与申请"
 
 #: ../../funding/nvidia-service.rst:27
 msgid ""
 "`Official application / policy route "
 "<https://www.nvidia.com/en-us/startups/>`_"
-msgstr "`官方申请／政策入口 <https://www.nvidia.com/en-us/startups/>`_"
+msgstr "`官方申请渠道及政策文件 <https://www.nvidia.com/en-us/startups/>`_"
 
 #: ../../funding/nvidia-service.rst:29
 msgid ""
 "The linked authority or operator is the contact route. A direct current "
 "program contact is not established in this profile."
-msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+msgstr "请通过所附链接联系主管部门或运营机构。本页尚未确认该项目的具体联系人。"
 
 #: ../../funding/nvidia-service.rst:31
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../funding/nvidia-service.rst:33
 msgid ""
 "Check incorporation, company age, account region and existing benefits."
-msgstr "核验注册、企业年限、账户地区及已有权益。"
+msgstr "确认企业注册地、成立年限、账户地区及已有服务权益。"
 
 #: ../../funding/nvidia-service.rst:35
 msgid "Apply through the official program form or qualifying partner route."
-msgstr "通过官方表格或合资格合作方路径申请。"
+msgstr "通过官方申请表，或由符合要求的合作伙伴推荐申请。"
 
 #: ../../funding/nvidia-service.rst:37
 msgid ""
 "Confirm covered services, expiry, fees, usage limits and overage billing."
-msgstr "确认支持服务、到期、费用、用量限制及超额计费。"
+msgstr "确认可用服务、有效期、费用、用量限制及超额计费规则。"
 
 #: ../../funding/nvidia-service.rst:39
 msgid "Keep usage records and do not describe credits as unrestricted cash."
-msgstr "保留使用记录，不把积分视为自由现金。"
+msgstr "保存使用记录，服务额度不能作为可自由支配的现金。"
 
 #: ../../funding/nvidia-service.rst:41
 msgid ""
 "The published maximum is a ceiling, not an entitlement. Check the "
 "applicable notice, eligible cost period, other public support and written "
 "payment conditions."
-msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
+msgstr "公布额度是最高限额，不代表申请即可获得。申报前请核对适用通知、认可的费用发生期间、已获其他财政支持及书面拨付条件。"

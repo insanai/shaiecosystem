@@ -7,7 +7,7 @@
       "yangpu",
       "fudan.edu.cn",
       "Software AI, chips, AI for Science",
-      "软件人工智能、芯片、科学智能"
+      "AI软件、芯片、科学智能"
     ],
     [
       "tongji",
@@ -16,7 +16,7 @@
       "yangpu",
       "tongji.edu.cn",
       "Autonomous systems, mobility, robotics, built environment",
-      "自主系统、交通、机器人、建成环境"
+      "自主系统、交通、机器人、建筑与城市环境"
     ],
     [
       "sjtu",
@@ -52,7 +52,7 @@
       "pudong",
       "shmtu.edu.cn",
       "Shipping, logistics, autonomous maritime systems",
-      "航运、物流、自主海事系统"
+      "航运、物流、海上自主系统"
     ],
     [
       "donghua",
@@ -88,7 +88,7 @@
       "pudong",
       "sumhs.edu.cn",
       "Health devices, diagnostics, clinical applications",
-      "健康器械、诊断、临床应用"
+      "健康医疗设备、诊断、临床应用"
     ],
     [
       "ocean",
@@ -97,7 +97,7 @@
       "pudong",
       "shou.edu.cn",
       "Marine science, aquaculture, smart agriculture",
-      "海洋科学、水产、智慧农业"
+      "海洋科学、水产养殖、智慧农业"
     ],
     [
       "tcm",
@@ -115,7 +115,7 @@
       "putuo",
       "ecnu.edu.cn",
       "Software, education AI, data science, microelectronics",
-      "软件、教育人工智能、数据科学、微电子"
+      "软件、教育AI应用、数据科学、微电子"
     ],
     [
       "shnu",
@@ -142,7 +142,7 @@
       "yangpu",
       "sufe.edu.cn",
       "Fintech, analytics, business models",
-      "金融科技、分析、商业模式"
+      "金融科技、数据分析、商业模式"
     ],
     [
       "suibe",
@@ -187,7 +187,7 @@
       "xuhui",
       "shcmusic.edu.cn",
       "Audio AI, music technology, creative tools",
-      "音频人工智能、音乐科技、创作工具"
+      "音频AI技术、音乐科技、创作工具"
     ],
     [
       "theatre",
@@ -214,7 +214,7 @@
       "pudong",
       "shpc.edu.cn",
       "Public-safety education; external project access unverified",
-      "公共安全教育，外部项目准入未核实"
+      "公共安全教育；校外团队参与条件尚未确认"
     ],
     [
       "sues",
@@ -250,7 +250,7 @@
       "pudong",
       "sandau.edu.cn",
       "Applied digital business and talent partnerships",
-      "应用数字商业与人才合作"
+      "数字商务应用与人才培养合作"
     ],
     [
       "shupl",
@@ -286,7 +286,7 @@
       "songjiang",
       "lidapoly.edu.cn",
       "Applied business, design and creative technology",
-      "应用商业、设计与创意科技"
+      "商业应用、设计与创意科技"
     ],
     [
       "jianqiao",
@@ -349,7 +349,7 @@
       "pudong",
       "shanghaitech.edu.cn",
       "Chips, software AI, scientific instruments, biotech",
-      "芯片、软件人工智能、科学仪器、生物科技"
+      "芯片、AI软件、科学仪器、生物科技"
     ],
     [
       "nyu",
@@ -380,7 +380,7 @@
       "sourceDetail": "tjkg.tongji.edu.cn/16738/list.htm",
       "phone": "+86 21 65069006",
       "contact": "Tongji National University Science Park & Incubator Route",
-      "contactZh": "同济大学国家大学科技园及孵化器入口",
+      "contactZh": "同济大学国家大学科技园及孵化器",
       "address": "2F, West Building, 100 Guokang Road, Yangpu",
       "addressZh": "杨浦区国康路100号西楼2层",
       "coords": [
@@ -399,7 +399,7 @@
       "sourceDetail": "ecustpark.com/1001370",
       "website": "https://www.ecustpark.com/",
       "contact": "ECUST National University Science Park entrepreneurship service route",
-      "contactZh": "华东理工大学国家大学科技园创业服务入口"
+      "contactZh": "华东理工大学国家大学科技园创业服务部门"
     },
     "shanghaitech": {
       "source": "ott.shanghaitech.edu.cn/zxdt",
@@ -425,12 +425,12 @@
     "donghua": {
       "source": "dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246",
       "contact": "Donghua University research cooperation and advanced materials transfer route",
-      "contactZh": "东华大学科研合作与先进材料成果转化入口"
+      "contactZh": "东华大学科研合作与先进材料成果转化部门"
     },
     "sues": {
       "source": "career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147",
       "contact": "SUES university-industry engineering cooperation and entrepreneurship service route",
-      "contactZh": "上海工程技术大学产学研合作与创业指导入口"
+      "contactZh": "上海工程技术大学产学研合作与创业指导部门"
     }
   }
 }

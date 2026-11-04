@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../software-ai.rst:1
 msgid "Intelligence in software"
-msgstr "软件中的智能"
+msgstr "软件与人工智能应用"
 
 #: ../../software-ai.rst:4
 msgid ""
@@ -26,7 +26,7 @@ msgid ""
 "customer problem, a reliable evaluation set and a lawful route to useful "
 "data. A model community helps when it supplies a concrete resource or a "
 "credible introduction."
-msgstr "软件人工智能团队往往最需要可复制的客户问题、可靠评测集及合规数据路径。模型社区的价值在于提供具体资源或可信对接。"
+msgstr "对软件AI团队而言，真正稀缺的往往是具有共性的客户需求、可靠的评测集，以及合法获取和使用数据的渠道。选择大模型社区时，关键是看它能否提供具体资源，或帮助团队找到合适的合作方。"
 
 #: ../../software-ai.rst:7
 msgid "An AI product connects models to a customer workflow."
@@ -34,7 +34,7 @@ msgstr "人工智能产品把模型连接到客户流程。"
 
 #: ../../software-ai.rst:10
 msgid "Choose an entry point"
-msgstr "选择入口"
+msgstr "从哪里入手"
 
 #: ../../software-ai.rst:13
 msgid ""
@@ -44,7 +44,7 @@ msgid ""
 "operator's actual buyer relationships with the industry requirements. For "
 "an independent founder, check the current Yangpu OPC community policy and "
 "Changning's published carriers."
-msgstr "模型工程及开发者连接可从模速空间、张江模力社区、上海人工智能实验室资源或相关高校团队入手。企业部署应核对运营方的真实采购关系与行业要求。独立创业者可核验杨浦OPC社区政策及长宁已公布载体。"
+msgstr "需要大模型工程和开发者资源，可以先了解模速空间、张江模力社区、上海人工智能实验室的公开资源，以及相关高校团队。面向企业部署产品时，应确认运营机构是否有实际的客户和采购对接能力，并了解行业要求。独立创业者还可关注杨浦OPC社区政策和长宁已公布的相关载体。"
 
 #: ../../software-ai.rst:15
 msgid ""
@@ -52,7 +52,7 @@ msgid ""
 "industrial software, evaluation, AI security and scientific software as "
 "different businesses. An accelerator that can introduce a manufacturer "
 "may not supply a regulated financial dataset or an inference contract."
-msgstr "我们区分基础模型、垂类模型、智能体、多模态系统、工业软件、评测、人工智能安全与科学软件。能够介绍制造商的加速器未必能提供受监管金融数据或推理服务合同。"
+msgstr "基础模型、垂直领域模型、智能体、多模态系统、工业软件、模型评测、AI安全和科学计算软件，需要的资源各不相同。能够对接制造企业的加速器，未必能够提供受监管的金融数据或帮助签订推理服务合同。"
 
 #: ../../software-ai.rst:17
 msgid ""
@@ -62,11 +62,11 @@ msgid ""
 "the Entrepreneurship Companion mentor network; and Songjiang's 2026 Data "
 "Elements Special Fund supports corpus governance and AI data-space "
 "applications."
-msgstr "在中心城区与西部走廊，静安市北高新与数通链谷聚焦大数据、区块链及企业级AI合规；黄浦将未来五年金融科技集聚导向与“创业陪跑计划”结合；松江则通过2026年数据要素专项资金支持语料治理与AI数据空间应用。"
+msgstr "静安市北高新和数通链谷可关注大数据、区块链及企业级AI合规服务；黄浦将未来五年的金融科技发展方向与“创业陪跑计划”衔接；松江2026年数据要素专项资金则涉及语料治理和AI数据空间应用。"
 
 #: ../../software-ai.rst:19
 msgid "Build the smallest credible pilot"
-msgstr "构建最小可信试点"
+msgstr "把试点做小，把验证做实"
 
 #: ../../software-ai.rst:22
 msgid ""
@@ -75,7 +75,7 @@ msgid ""
 "review. Name the data owner, deployment environment and accountable "
 "buyer. A pilot needs an owner, a budget, acceptance criteria and a path "
 "to a production contract."
-msgstr "准备单一任务、基线、独立评测集与目标指标，说明每次任务成本、延迟、异常处理及人工复核，并明确数据权利人、部署环境与负责采购方。试点需要负责人、预算、验收标准及转生产合同路径。"
+msgstr "从一个明确的任务开始，准备基线方案、独立评测集和目标指标。说明单次任务成本、延迟、异常处理及人工复核方式，并明确数据权属、部署环境和采购负责人。试点还应有明确的项目负责人、预算、验收标准，以及验收后转为正式采购的安排。"
 
 #: ../../software-ai.rst:24
 msgid ""
@@ -84,11 +84,11 @@ msgid ""
 "storage or networking. A model or corpus voucher may cover only an "
 "approved supplier and a specified historical cost period. Retain usage "
 "logs, invoices, contracts and payment records from the beginning."
-msgstr "训练、微调、推理、检索、存储、网络、标注及评测须分别预算。算力补贴可能不含存储或网络，模型及语料券可能限定供应商和支出期间。应从项目开始保存使用日志、发票、合同及付款记录。"
+msgstr "训练、微调、推理、检索、存储、网络、标注和评测应分别编制预算。算力补贴可能不覆盖存储或网络费用，模型券和语料券也可能限定服务商及费用发生期间。从项目启动起，就应留存使用日志、合同、发票和付款凭证。"
 
 #: ../../software-ai.rst:26
 msgid "Before public deployment"
-msgstr "公开部署之前"
+msgstr "面向公众上线前"
 
 #: ../../software-ai.rst:29
 msgid ""
@@ -99,16 +99,11 @@ msgid ""
 "Requirements attach to the actual service, not to an AI label on a pitch "
 "deck. This atlas supplies routing questions rather than an exhaustive "
 "legal procedure."
-msgstr "先定义服务属于内部工具、企业部署还是面向公众的生成式服务，再向主管部门与专业顾问核实模型登记、算法备案、内容标识、数据、行业及网络要求。要求取决于实际服务，而非路演材料中的人工智能标签。本图谱提供对接问题，不代替完整法律程序。"
+msgstr "先区分内部工具、企业客户部署和面向公众的生成式AI服务，再向主管部门及专业顾问确认模型登记、算法备案、生成内容标识、数据处理、行业监管和网络安全等要求。具体义务取决于实际提供的服务，不能仅凭路演材料中的“人工智能”标签判断。本图谱列出的是需要咨询的问题，不能替代完整的合规审查。"
 
 #: ../../software-ai.rst:31
-
-#| msgid ""
-#| "`Evidence S111 "
-#| "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
-#| "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 msgid ""
 "`Evidence S114 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
 "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
-msgstr "`证据 S114 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`资料来源 S114 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."

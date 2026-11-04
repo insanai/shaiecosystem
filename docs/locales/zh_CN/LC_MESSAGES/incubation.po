@@ -21,18 +21,14 @@ msgid "Incubators, accelerators and parks"
 msgstr "孵化器、加速器及园区"
 
 #: ../../incubation.rst:4
-
-#| msgid ""
-#| "44 profiles with evidence, contact routes and an application "
-#| "checklist. Published existence is distinguished from current intake."
 msgid ""
 "45 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "45份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。"
+msgstr "收录45家机构，附资料来源、联系方式和申请参考。机构信息已核实，不代表当前正在接受申请。"
 
 #: ../../incubation.rst:8
 msgid "Complete directory summary"
-msgstr "完整机构名录摘要"
+msgstr "机构目录概览"
 
 #: ../../incubation.rst:11
 msgid ""
@@ -42,7 +38,7 @@ msgid ""
 "zones; admission, workspace, compute support and investment are separate "
 "decisions. Support: Services / possible incentives. Address: Zone A, 180 "
 "Longtai Road, Xuhui. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海模速空间 <entities/mosu>` （上海模速空间 · 孵化器 · 徐汇区 · 方向：软件人工智能）—— 西岸专业大模型孵化加速社区。运营方列有多个片区；入驻、办公空间、算力支持与投资属于不同事项。 支持说明：空间服务／潜在政策激励。 地址：徐汇区龙台路180号A区。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海模速空间 <entities/mosu>` （孵化器 · 徐汇区 · 方向：AI软件）：位于西岸的大模型专业孵化加速社区。运营方公布了多个片区，入驻资格、办公场地、算力支持和投资应分别确认，不能视为同一份支持方案。 支持说明：场地及服务支持，可能另有政策优惠。 地址：徐汇区龙台路180号A区。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:12
 msgid ""
@@ -52,7 +48,7 @@ msgid ""
 "model developers and industry users. Ask the operator for the specific "
 "model, data and compute package and its reimbursement rules. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`张江模力社区 <entities/model-community>` （张江模力社区 · 孵化器 · 浦东新区 · 方向：软件人工智能、硬件人工智能）—— 市级人工智能实施方案明确的张江人工智能社区，连接模型研发方与行业用户。应向运营方确认模型、语料及算力支持包和报销规则。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`张江模力社区 <entities/model-community>` （孵化器 · 浦东新区 · 方向：AI软件、AI硬件）：市级人工智能实施方案中明确的张江大模型社区，连接模型研发团队与行业用户。模型、语料和算力支持的具体内容及费用补贴规则，需向运营方确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:13
 msgid ""
@@ -62,7 +58,7 @@ msgid ""
 "projects with incubation. SJTU documents the Zero Kilometer launch and "
 "its AI, integrated-circuit, manufacturing and low-carbon participants. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`大零号湾／零公里孵化器 <entities/neobay>` （大零号湾／零公里孵化器 · 孵化器 · 闵行区 · 方向：硬件人工智能、软件人工智能）—— 依托高校的科技成果转化路径，连接早期项目与孵化资源。交大公开记录零公里孵化器启动及人工智能、集成电路、制造和低碳领域的参与情况。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`大零号湾／零公里孵化器 <entities/neobay>` （孵化器 · 闵行区 · 方向：AI硬件、AI软件）：依托高校科研资源，推动早期项目成果转化和创业孵化。上海交大公开资料记录了零公里孵化器的启动，以及AI、集成电路、制造和低碳领域团队的参与情况。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:14
 msgid ""
@@ -71,7 +67,7 @@ msgid ""
 "incubator with chip-testing and industrialization context in Zhangjiang. "
 "Incubation and the associated angel investment pathway must be reviewed "
 "as different agreements. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`张江高科895孵化器 <entities/895>` （张江高科895孵化器 · 孵化器 · 浦东新区 · 方向：硬件人工智能、芯片）—— 位于张江的硬科技孵化载体，具备芯片测试及产业化生态。孵化与相关天使投资须作为不同协议审核。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`张江高科895孵化器 <entities/895>` （孵化器 · 浦东新区 · 方向：AI硬件、芯片）：张江硬科技孵化器，可对接芯片测试及产业化资源。孵化服务与天使投资的条件应分别审阅，并签订相应协议。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:15
 msgid ""
@@ -82,7 +78,7 @@ msgid ""
 "rehabilitation and translational engineering; wet-lab and device "
 "requirements need explicit confirmation. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`司南脑机智能孵化器 <entities/synlonx>` （司南脑机智能孵化器 · 孵化器 · 闵行区 · 方向：硬件人工智能、健康）—— 在华漕启动的脑机接口孵化平台。可对接电极、神经接口、传感、康复与转化工程；实验空间及器械要求需明确确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`司南脑机智能孵化器 <entities/synlonx>` （孵化器 · 闵行区 · 方向：AI硬件、健康）：在华漕启动的脑机接口孵化平台，可关注电极、神经接口、传感、康复及成果转化工程。实验场地的使用条件和医疗器械相关要求，应在申请前确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:16
 msgid ""
@@ -92,7 +88,7 @@ msgid ""
 "InnoSpring and SITRI. This is a route for beyond-Moore technology, shared "
 "technical services and pilot production rather than a promise of free "
 "fabrication. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`新微创源／上海微技术工研院孵化生态 <entities/innospring>` （新微创源／上海微技术工研院孵化生态 · 孵化器 · 嘉定区 · 方向：硬件人工智能、芯片、传感器）—— 市科委记录了新微创源与工研院的联动工作，适合超越摩尔技术、公共技术服务与中试对接，不代表免费流片。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`新微创源／上海微技术工研院孵化生态 <entities/innospring>` （孵化器 · 嘉定区 · 方向：AI硬件、芯片、传感器）：上海市科委公开资料介绍了新微创源与工研院在科研、中试和孵化方面的协作，可关注超越摩尔技术及公共技术服务。对接平台不代表可以免费流片。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:17
 msgid ""
@@ -102,7 +98,7 @@ msgid ""
 "services and its innovation seed-fund relationships are relevant to "
 "AI-enabled biology; access and investment are negotiated separately. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`ATLATL飞镖张江中心 <entities/atlatl>` （ATLATL飞镖张江中心 · 孵化器 · 浦东新区 · 方向：健康、科学智能）—— 张江药谷的共享研发与孵化环境。实验室服务及创新种子基金关系适合人工智能生物研究；使用服务与投资须分别协商。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`ATLATL飞镖张江中心 <entities/atlatl>` （孵化器 · 浦东新区 · 方向：健康、科学智能）：位于张江药谷，提供共享研发设施及孵化服务。AI生物研发团队可了解实验室服务和创新种子基金，服务使用与投资事项需分别协商。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:18
 msgid ""
@@ -112,7 +108,7 @@ msgid ""
 "synthetic biology and cell and gene therapy interests. Confirm current "
 "Shanghai facilities, admission and laboratory pricing with the operator. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`巢生上海创新孵化平台 <entities/nestbio>` （巢生上海创新孵化平台 · 孵化器 · 浦东新区 · 方向：健康、科学智能）—— 2025年12月高质量孵化器扩围名单中的平台，关注合成生物及细胞与基因治疗。应向运营方确认上海设施、入驻与实验室收费。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`巢生上海创新孵化平台 <entities/nestbio>` （孵化器 · 浦东新区 · 方向：健康、科学智能）：列入2025年12月扩围名单的上海高质量孵化器，关注合成生物及细胞与基因治疗。上海设施、入驻条件及实验室收费，需向运营方确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:19
 msgid ""
@@ -122,7 +118,7 @@ msgid ""
 "and acceleration. Bring a concrete industrial use case; program "
 "participation does not imply a corporate purchase order. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`创智空间InnoSpace <entities/innospace>` （创智空间InnoSpace · 加速器 · 杨浦区 · 方向：软件人工智能、产业）—— 专注大企业开放创新及科技企业孵化加速的创新服务机构。对接时应提供明确产业场景；参与项目不代表企业采购承诺。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`创智空间InnoSpace <entities/innospace>` （加速器 · 杨浦区 · 方向：AI软件、产业）：提供大企业开放创新及科技企业孵化加速服务。初次联系时宜说明具体产业应用需求；参与创新项目不代表一定获得企业采购订单。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:20
 msgid ""
@@ -133,7 +129,7 @@ msgid ""
 "and investment should be stated separately. Address: 4F, Building A, "
 "Kehai Building, 800 Naxian Road, Pudong | Tel: +86 21 55698983. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`创极无限XNode <entities/xnode>` （创极无限XNode · 加速器 · 浦东新区 · 方向：软件人工智能、产业）—— 提供跨境市场进入、企业合作与试点服务的创新运营机构。上海办公室可作为国际团队对接入口；须分别明确服务范围、费用、交付及投资。 地址：浦东新区纳贤路800号科海大楼A座4楼｜电话：+86 21 55698983。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`创极无限XNode <entities/xnode>` （加速器 · 浦东新区 · 方向：AI软件、产业）：提供跨境市场拓展、企业合作和试点服务。国际团队可先联系上海办公室，分别确认服务范围、费用、交付内容及投资安排。 地址：浦东新区纳贤路800号科海大楼A座4楼｜电话：+86 21 55698983。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:21
 msgid ""
@@ -144,7 +140,7 @@ msgid ""
 "investment have different admission and commercial terms. Address: 2F, "
 "Building 1, Phase II, Zhangjiang Guochuang Center, 899 Dangui Road. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`璞跃中国上海中心 <entities/plugplay>` （璞跃中国上海中心 · 加速器 · 浦东新区 · 方向：软件人工智能、硬件人工智能、交通）—— 运营方公布长三角区域创新中心位于张江国创中心。企业创新、办公空间及风险投资的准入与商业条款不同。 地址：浦东新区丹桂路899号张江国创中心二期1幢2楼。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`璞跃中国上海中心 <entities/plugplay>` （加速器 · 浦东新区 · 方向：AI软件、AI硬件、交通）：运营方公布的长三角区域创新中心位于张江国创中心。企业创新项目、办公场地和风险投资各有申请条件及商业条款。 地址：浦东新区丹桂路899号张江国创中心二期1幢2楼。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:22
 msgid ""
@@ -154,7 +150,7 @@ msgid ""
 "Pudong and Zhangjiang. The evidence establishes the initiative; a "
 "currently accepting cohort and its commercial terms require confirmation. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`普华永道张江数字医疗加速营 <entities/pwc>` （普华永道张江数字医疗加速营 · 加速器 · 浦东新区 · 方向：健康、软件人工智能）—— 普华永道介绍了浦东及张江支持的数字医疗加速项目。来源证实项目存在，当前是否招募及商业条款仍需确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`普华永道张江数字医疗加速营 <entities/pwc>` （加速器 · 浦东新区 · 方向：健康、AI软件）：普华永道公开介绍过由浦东及张江支持的数字医疗加速项目。资料可确认项目曾开展，当前是否征集项目及具体商业条款仍需咨询。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:23
 msgid ""
@@ -165,7 +161,7 @@ msgid ""
 "useful entry points for hardware validation. Address: Wuning Road area, "
 "Putuo; confirm the service building. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`上海武宁科技园 <entities/wuning>` （上海武宁科技园 · 科技园区 · 普陀区 · 方向：硬件人工智能、产业）—— 由上海电器科学研究所集团运营的工业研发与检测园区。机器人及工业互联网检测可作为硬件验证对接方向。 地址：普陀区武宁路片区，服务楼宇需确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海武宁科技园 <entities/wuning>` （科技园区 · 普陀区 · 方向：AI硬件、产业）：由上海电器科学研究所集团运营，提供工业研发及检测服务。机器人和工业互联网团队可关注相关检测及硬件验证资源。 地址：普陀区武宁路片区，服务楼宇需确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:24
 msgid ""
@@ -176,7 +172,7 @@ msgid ""
 "market, capital and industrial connections; the listing does not "
 "guarantee cash support. Address: Lane 111, Qilianshan Road, Putuo. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`中以（上海）创新园 <entities/china-israel>` （中以（上海）创新园 · 科技园区 · 普陀区 · 方向：软件人工智能、硬件人工智能）—— 区级名录中的国际合作载体，涉及智能制造、人工智能、机器人及信息技术，可对接市场、资本与产业资源；名录不构成现金资助承诺。 地址：普陀区祁连山路111弄。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`中以（上海）创新园 <entities/china-israel>` （科技园区 · 普陀区 · 方向：AI软件、AI硬件）：列入区级名录的国际创新合作园区，涉及智能制造、AI、机器人和信息技术，可对接市场、资本及产业资源。列入名录不代表入驻项目一定获得现金资助。 地址：普陀区祁连山路111弄。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:25
 msgid ""
@@ -186,7 +182,7 @@ msgid ""
 "and OPC communities. We treat this record as a district routing entry, "
 "not a single interchangeable operator or a guaranteed free-workspace "
 "offer. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`数字硅巷／虹桥创新载体 <entities/digital-silicon>` （数字硅巷／虹桥创新载体 · 孵化器 · 长宁区 · 方向：软件人工智能）—— 长宁公布分层数字孵化及超级个体社区。本条为区级对接入口，不将不同运营方混同，也不承诺免费工位。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`数字硅巷／虹桥创新载体 <entities/digital-silicon>` （孵化器 · 长宁区 · 方向：AI软件）：长宁已公布的数字孵化及OPC社区相关资源。本条提供区级咨询渠道，各载体的运营主体不同，工位是否免费需分别确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:26
 msgid ""
@@ -196,7 +192,7 @@ msgid ""
 "with Bay Valley in the north. Suitable for neuromorphic computing and "
 "commercial AI collaborations. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`长阳创谷 <entities/changyang>` （长阳创谷 · 科技园区 · 杨浦区 · 方向：软件人工智能、硬件人工智能）—— 杨浦类脑智能方案将长阳创谷作为南部核心，与北部湾谷科技园联动，适合类脑计算及人工智能商业合作。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`长阳创谷 <entities/changyang>` （科技园区 · 杨浦区 · 方向：AI软件、AI硬件）：杨浦类脑智能行动方案中的南部核心载体，与北部湾谷科技园联动。可关注类脑计算及AI产业合作。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:27
 msgid ""
@@ -206,7 +202,7 @@ msgid ""
 "communities. Ask for an approved community operator, the qualifying "
 "activity definition, housing conditions and any service or equity "
 "agreement. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`复兴岛创客与OPC社区 <entities/fuxing>` （复兴岛创客与OPC社区 · 孵化器 · 杨浦区 · 方向：软件人工智能）—— 2026年5月区级政策支持人工智能赋能的超级个体及创客社区。应确认合资格运营方、活动认定、住房条件及服务或股权协议。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`复兴岛创客与OPC社区 <entities/fuxing>` （孵化器 · 杨浦区 · 方向：AI软件）：2026年5月杨浦政策支持AI赋能的超级个体及创客社区。申请前需确认运营机构是否符合政策要求，以及活动认定、住房、服务和股权等具体条件。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:28
 msgid ""
@@ -215,7 +211,7 @@ msgid ""
 "2025-2026 park plan links Grand neoBay R&D with Maqiao manufacturing. A "
 "useful pathway from a robot prototype to supply-chain and production "
 "conversations. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`马桥人工智能创新试验区 <entities/maqiao>` （马桥人工智能创新试验区 · 科技园区 · 闵行区 · 方向：硬件人工智能、机器人）—— 闵行2025至2026年园区方案连接大零号湾研发与马桥制造，可作为机器人样机走向供应链及生产对接的路径。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`马桥人工智能创新试验区 <entities/maqiao>` （科技园区 · 闵行区 · 方向：AI硬件、机器人）：闵行2025至2026年园区方案提出，衔接大零号湾科研与马桥制造资源。机器人团队可据此寻找从样机到供应链及生产环节的合作方。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:29
 msgid ""
@@ -225,7 +221,7 @@ msgid ""
 "supply chains and deployment; we distinguish it from ABB facilities in "
 "Pudong and from the broader Baoshan industrial park. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`上海机器人产业园 <entities/robot-park>` （上海机器人产业园 · 科技园区 · 宝山区 · 方向：硬件人工智能、机器人）—— 位于宝山顾村的机器人产业园，适合工业机器人供应链及应用对接；应与浦东ABB设施及宝山工业园区区分。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海机器人产业园 <entities/robot-park>` （科技园区 · 宝山区 · 方向：AI硬件、机器人）：位于宝山顾村，可对接工业机器人供应链和应用资源。该园区与浦东ABB设施、宝山工业园区是不同主体，联系时应注意区分。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:30
 msgid ""
@@ -236,7 +232,7 @@ msgid ""
 "This is a separate park from the Gucun robot industrial park. Address: "
 "1688 Jinshi Road, Baoshan | Tel: +86 21 66879800. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`宝山工业园区 <entities/baoshan-industrial>` （宝山工业园区 · 科技园区 · 宝山区 · 方向：产业、硬件人工智能）—— 园区管委会公布官方联系方式，负责产业准入、项目招商、政策协调及企业服务，与顾村机器人产业园为不同园区。 地址：宝山区金石路1688号｜电话：+86 21 66879800。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`宝山工业园区 <entities/baoshan-industrial>` （科技园区 · 宝山区 · 方向：产业、AI硬件）：园区管委会提供产业准入、招商、政策协调及企业服务，并公布了官方联系方式。该园区与顾村的上海机器人产业园并非同一园区。 地址：宝山区金石路1688号｜电话：+86 21 66879800。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:31
 msgid ""
@@ -246,7 +242,7 @@ msgid ""
 "information-technology innovation. For an AI infrastructure team, "
 "establish compatibility requirements, lab access and real customer demand "
 "before choosing space. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`G60松江信创产业园 <entities/g60-xinchuang>` （G60松江信创产业园 · 科技园区 · 松江区 · 方向：软件人工智能、芯片）—— 官方介绍的信创产业园。人工智能基础设施团队宜先明确兼容适配要求、实验室使用与实际客户需求，再决定办公空间。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`G60松江信创产业园 <entities/g60-xinchuang>` （科技园区 · 松江区 · 方向：AI软件、芯片）：官方公开介绍的信创产业园。AI基础设施团队应先确认兼容适配要求、实验室使用条件及实际客户需求，再决定是否租用办公场地。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:32
 msgid ""
@@ -256,7 +252,7 @@ msgid ""
 "offers an ecosystem connection, not automatic access to Huawei "
 "laboratories, procurement or investment. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`西岑科创中心 <entities/xicen>` （西岑科创中心 · 科技园区 · 青浦区 · 方向：硬件人工智能、软件人工智能）—— 以华为练秋湖及西岑园区为核心的青浦科创片区。提供生态对接机会，不自动获得华为实验室、采购或投资资格。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`西岑科创中心 <entities/xicen>` （科技园区 · 青浦区 · 方向：AI硬件、AI软件）：青浦以华为练秋湖研发中心和西岑园区为核心的科创片区。可寻找产业合作机会，但进入该片区不代表可以使用华为实验室，或获得采购、投资资格。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:33
 msgid ""
@@ -265,7 +261,7 @@ msgid ""
 "test-flight services and a low-altitude incubation platform. Airspace, "
 "testing and airworthiness services require separate confirmation from "
 "physical workspace. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`华东无人机基地 <entities/uav-base>` （华东无人机基地 · 科技园区 · 金山区 · 方向：硬件人工智能、无人机）—— 金山园区方案涵盖试飞服务及低空孵化平台。空域、测试与适航服务须与物理空间分别确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`华东无人机基地 <entities/uav-base>` （科技园区 · 金山区 · 方向：AI硬件、无人机）：金山园区方案涉及的试飞及低空产业孵化平台。空域使用、测试、适航服务和场地租赁，应逐项确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:34
 msgid ""
@@ -275,7 +271,7 @@ msgid ""
 "sensors, electronic materials and manufacturing inputs; specify process "
 "equipment and environmental constraints in the inquiry. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`金山新材料孵化器 <entities/jinshan-materials>` （金山新材料孵化器 · 孵化器 · 金山区 · 方向：材料、硬件人工智能）—— 与碳谷绿湾联动的新材料孵化路径，适合传感、电子材料及制造投入品；咨询时应说明工艺设备与环境要求。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`金山新材料孵化器 <entities/jinshan-materials>` （孵化器 · 金山区 · 方向：材料、AI硬件）：与碳谷绿湾联动的新材料孵化资源，可关注传感材料、电子材料及制造用材料。咨询时宜说明工艺、设备和环境要求。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:35
 msgid ""
@@ -285,7 +281,7 @@ msgid ""
 "formulation research, inspection, consumer analysis and supply-chain "
 "tools; clinical or laboratory access is a separate arrangement. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`东方美谷 <entities/oriental-beauty>` （东方美谷 · 科技园区 · 奉贤区 · 方向：健康、产业）—— 奉贤美丽健康产业生态，相关人工智能场景包括配方研究、检测、消费者分析及供应链工具；临床或实验设施须另行安排。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`东方美谷 <entities/oriental-beauty>` （科技园区 · 奉贤区 · 方向：健康、产业）：奉贤美丽健康产业集群。AI团队可关注配方研发、检测、消费者分析和供应链工具等应用；临床及实验设施的使用需另行安排。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:36
 msgid ""
@@ -295,7 +291,7 @@ msgid ""
 "the district authority for matching smart agriculture, ecological sensing "
 "and marine technology projects to a concrete carrier. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`张江高新区崇明园 <entities/chongming-park>` （张江高新区崇明园 · 科技园区 · 崇明区 · 方向：气候、农业）—— 2025至2026年改革方案构建生态创新框架。智慧农业、生态传感及海洋科技项目可通过区级主管部门对接具体载体。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`张江高新区崇明园 <entities/chongming-park>` （科技园区 · 崇明区 · 方向：气候、农业）：2025至2026年园区改革方案提出生态创新方向。智慧农业、生态传感和海洋科技项目，可通过区级主管部门咨询具体园区及运营机构。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:37
 msgid ""
@@ -305,7 +301,7 @@ msgid ""
 "technology transfer and investment services. Request the relevant "
 "sub-park and named operating company for a project-specific response. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`张江虹口园／北科创 <entities/hongkou-park>` （张江虹口园／北科创 · 科技园区 · 虹口区 · 方向：软件人工智能、产业）—— 园区方案明确北科创在孵化、技术转移及投融资服务方面的统筹作用。应索取对应子园及具体运营公司，以获得针对项目的答复。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`张江虹口园／北科创 <entities/hongkou-park>` （科技园区 · 虹口区 · 方向：AI软件、产业）：园区方案明确由北科创统筹孵化、技术转移及投融资服务。咨询时应明确具体子园区和运营公司，便于获得与项目相关的答复。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:38
 msgid ""
@@ -315,7 +311,7 @@ msgid ""
 "free workstations in the reported offer. Current capacity, applicant "
 "eligibility and additional subsidies must be checked separately. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`黄浦创卡 <entities/huangpu-chuangka>` （黄浦创卡 · 孵化器 · 黄浦区 · 方向：软件人工智能、消费）—— 上海人社报道的青年创业服务路径，报道权益含六个月免费工位；当前容量、申请资格及其他补贴须分别核实。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`黄浦创卡 <entities/huangpu-chuangka>` （孵化器 · 黄浦区 · 方向：AI软件、消费）：上海人社公开报道的青年创业服务项目，曾介绍六个月免费工位等权益。当前名额、申请条件和其他补贴，应分别确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:39
 msgid ""
@@ -325,7 +321,7 @@ msgid ""
 "staged development targets. Lin-gang is a functional area, not Shanghai's "
 "seventeenth district. Establish the administering boundary before seeking "
 "incentives. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`临港科创城 <entities/lin-gang>` （临港科创城 · 科技园区 · 浦东新区 · 方向：硬件人工智能、芯片、软件人工智能）—— 2026年1月方案明确滴水湖AI及IC创新港与分阶段发展目标。临港为功能区，并非上海第十七个区；申请支持前应确认实际管理范围。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`临港科创城 <entities/lin-gang>` （科技园区 · 浦东新区 · 方向：AI硬件、芯片、AI软件）：2026年1月方案提出滴水湖AI及IC创新港和分阶段发展目标。临港属于功能区，并非上海第17个行政区；申请政策支持前，需确认项目是否处于相应管理范围内。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:40
 msgid ""
@@ -335,7 +331,7 @@ msgid ""
 "services. A strong starting point for AI chip teams, with specific EDA, "
 "IP, tape-out, packaging and testing access negotiated with providers. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`上海集成电路设计产业园 <entities/ic-design>` （上海集成电路设计产业园 · 科技园区 · 浦东新区 · 方向：芯片、硬件人工智能）—— 张江芯片设计产业生态，连接设计及产业服务。适合人工智能芯片团队；EDA、IP、流片、封装及测试须与供应商逐项确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海集成电路设计产业园 <entities/ic-design>` （科技园区 · 浦东新区 · 方向：芯片、AI硬件）：张江集成电路设计产业集聚区，可对接芯片设计和产业服务。AI芯片团队应向具体服务商逐项确认EDA、IP授权、流片、封装和测试条件。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:41
 msgid ""
@@ -346,7 +342,7 @@ msgid ""
 "Caohejing name covers multiple development locations. Address: 1015 "
 "Caobao Road, Shanghai | Tel: +86 21 64850000. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`漕河泾开发区 <entities/caohejing>` （漕河泾开发区 · 科技园区 · 徐汇区 · 方向：软件人工智能、硬件人工智能、产业）—— 园区运营方公布企业及知识产权服务入口。漕河泾涉及多个开发地点，应确认具体子园及经营地址。 地址：上海市漕宝路1015号｜电话：+86 21 64850000。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`漕河泾开发区 <entities/caohejing>` （科技园区 · 徐汇区 · 方向：AI软件、AI硬件、产业）：运营方公布了企业服务及知识产权服务渠道。漕河泾涉及多个开发区域，需明确具体子园区及实际经营地址。 地址：上海市漕宝路1015号｜电话：+86 21 64850000。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:42
 msgid ""
@@ -357,7 +353,7 @@ msgid ""
 "industry challenges and collaborative innovation; current admission, "
 "space and fees require an intake discussion. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`紫竹国家高新区／创业孵化器ET空间 <entities/zizhu>` （紫竹国家高新区／创业孵化器ET空间 · 孵化器 · 闵行区 · 方向：软件人工智能、硬件人工智能、产业）—— 高新区所属孵化器连接软件、航空电子及制造生态。运营方介绍产业挑战及协同创新，当前入驻、空间与费用须通过受理咨询确认。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`紫竹国家高新区／创业孵化器ET空间 <entities/zizhu>` （孵化器 · 闵行区 · 方向：AI软件、AI硬件、产业）：紫竹国家高新区所属孵化器，可对接软件、航空电子和制造业资源。运营方介绍了产业挑战及协同创新项目，当前入驻条件、场地和费用需进一步咨询。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:43
 msgid ""
@@ -367,7 +363,7 @@ msgid ""
 "business-service hub in Hongqiao. The reported workstation offer depends "
 "on qualification and available space, not simply arrival at the transport "
 "hub. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`虹桥国际青年创业港 <entities/hongqiao-youth>` （虹桥国际青年创业港 · 孵化器 · 闵行区 · 方向：软件人工智能、产业）—— 2026年7月启用的虹桥青年创业及企业服务枢纽。报道的工位权益取决于资格及可用空间，并非抵达交通枢纽即可享有。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`虹桥国际青年创业港 <entities/hongqiao-youth>` （孵化器 · 闵行区 · 方向：AI软件、产业）：2026年7月启用的青年创业及企业服务平台。报道中的工位支持取决于申请资格及场地余量，并非到达虹桥交通枢纽即可享受。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:44
 msgid ""
@@ -378,7 +374,7 @@ msgid ""
 "talent support and global business resources. Confirm the current "
 "operator's selection and service terms. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`东虹桥国际青年科创中心 <entities/east-hongqiao>` （东虹桥国际青年科创中心 · 孵化器 · 长宁区 · 方向：软件人工智能）—— 长宁2026年5月官方报道介绍人工智能超级个体创新枢纽，结合孵化、人工智能服务、人才及全球商业资源。须核验当前运营方遴选及服务条款。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`东虹桥国际青年科创中心 <entities/east-hongqiao>` （孵化器 · 长宁区 · 方向：AI软件）：长宁2026年5月官方报道介绍的AI超级个体创新平台，整合孵化、AI服务、人才和国际商务资源。当前运营机构遴选情况及服务条款，需进一步确认。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:45
 msgid ""
@@ -390,7 +386,7 @@ msgid ""
 "Hi-Tech Park, Daning and Suhewan. Confirm the specific carrier operator, "
 "data-compliance services and tenancy terms. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`市北高新园区／数通链谷与大宁科创载体 <entities/shibei-valley>` （市北高新园区／数通链谷与大宁科创载体 · 科技园区 · 静安区 · 方向：软件人工智能、产业）—— 静安2026至2028年人工智能示范区方案及载体布局以市北高新园区、数通链谷、大宁及苏河湾为核心，集聚大数据、区块链、云计算与企业级人工智能空间。申请前应确认具体运营主体、数据合规服务与入驻条款。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`市北高新园区／数通链谷与大宁科创载体 <entities/shibei-valley>` （科技园区 · 静安区 · 方向：AI软件、产业）：静安2026至2028年AI示范区方案以市北高新、数通链谷、大宁和苏河湾等为核心，集聚大数据、区块链、云计算及企业级AI资源。申请前需明确具体运营主体、数据合规服务及入驻条款。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:46
 msgid ""
@@ -401,7 +397,7 @@ msgid ""
 "laser systems and AI hardware components. Confirm optical lab equipment, "
 "engineering support and commercial terms before admission. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`羲和光谷光电产业孵化器 <entities/xihe-optics>` （羲和光谷光电产业孵化器 · 孵化器 · 嘉定区 · 方向：硬件人工智能、传感器、芯片）—— 2025年11月在嘉定启用的光电产业孵化器，面向科学家创业团队提供光学传感、激光系统与人工智能硬件部件孵化支持。入驻前应确认光学实验设备、工程服务与商业条款。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`羲和光谷光电产业孵化器 <entities/xihe-optics>` （孵化器 · 嘉定区 · 方向：AI硬件、传感器、芯片）：2025年11月在嘉定启用，面向科学家创业团队，提供光学传感、激光系统及AI硬件零部件领域的孵化支持。入驻前应确认实验设备、工程服务和商业条款。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:47
 msgid ""
@@ -412,7 +408,7 @@ msgid ""
 "infrastructure and linked compute, model and corpus vouchers. Confirm "
 "whether the company's registered and operating address falls inside the "
 "designated town boundary. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`张江人工智能创新小镇 <entities/zhangjiang-ai-town>` （张江人工智能创新小镇 · 科技园区 · 浦东新区 · 方向：软件人工智能、硬件人工智能、科学智能）—— 位于张江科学城核心区的2平方公里创新集聚区，规划70万平方米产业空间，布局时空量子城市数字底座并配套算力券、模型券与语料券。申请专项支持前须确认注册与实际经营地址是否位于小镇核定边界内。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`张江人工智能创新小镇 <entities/zhangjiang-ai-town>` （科技园区 · 浦东新区 · 方向：AI软件、AI硬件、科学智能）：位于张江科学城核心区的2平方公里创新集聚区，规划70万平方米产业空间，布局时空量子城市数字底座，并配套算力券、模型券和语料券。申请专项支持前，应确认企业注册地和实际经营地均在核定范围内。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:48
 msgid ""
@@ -423,7 +419,7 @@ msgid ""
 "shared laboratories and pilot manufacturing. Confirm biosafety level, "
 "cleanroom specs and admission terms. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`东方美谷·生命信使基因药物创新产业基地 <entities/life-messenger>` （东方美谷·生命信使基因药物创新产业基地 · 孵化器 · 奉贤区 · 方向：健康、科学智能）—— 2025年4月在奉贤开园的基因与核酸药物创新基地，衔接AI辅助分子设计、共享实验室与中试生产。入驻前应确认生物安全等级、洁净室规格及服务条款。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`东方美谷·生命信使基因药物创新产业基地 <entities/life-messenger>` （孵化器 · 奉贤区 · 方向：健康、科学智能）：2025年4月在奉贤开园，面向基因与核酸药物创新，可关注AI辅助分子设计、共享实验室与中试生产的衔接。入驻前应确认生物安全等级、洁净室规格及服务条款。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:49
 msgid ""
@@ -433,7 +429,7 @@ msgid ""
 "public entrepreneurship training, prototyping and incubation base in "
 "Yangpu linking founder skills training, product trial spaces and startup "
 "service agencies. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`中国（上海）创业者公共实训基地 <entities/entrepreneur-base>` （中国（上海）创业者公共实训基地 · 孵化器 · 杨浦区 · 方向：软件人工智能、硬件人工智能、产业）—— 位于杨浦的市人社公共创业实训与孵化基地，提供创业培训、产品试制空间与创业服务机构对接。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`中国（上海）创业者公共实训基地 <entities/entrepreneur-base>` （孵化器 · 杨浦区 · 方向：AI软件、AI硬件、产业）：位于杨浦的市人社公共创业实训与孵化基地，提供创业培训、产品试制场地及创业服务机构对接。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:50
 msgid ""
@@ -444,7 +440,7 @@ msgid ""
 "seven universities in Songjiang University Town with technology-transfer "
 "platforms and incubation operators. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`松江大学城科创源 <entities/songjiang-uni-source>` （松江大学城科创源 · 孵化器 · 松江区 · 方向：软件人工智能、硬件人工智能、材料）—— 松江区2026年9月专项资金通知支持的产学研转化载体，连接松江大学城高校与科技成果转化平台及双创空间运营方。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`松江大学城科创源 <entities/songjiang-uni-source>` （孵化器 · 松江区 · 方向：AI软件、AI硬件、材料）：松江2026年9月专项资金通知涉及的产学研成果转化载体，连接大学城高校、科技成果转化平台和创新创业空间运营机构。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:51
 msgid ""
@@ -454,7 +450,7 @@ msgid ""
 "industry clustering direction with the HRSS \"Entrepreneurship Companion "
 "Plan\" mentor and service network for early-stage digital and financial "
 "technology founders. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`黄浦金融科技集聚与创业陪跑计划 <entities/huangpu-peipao>` （黄浦金融科技集聚与创业陪跑计划 · 加速器 · 黄浦区 · 方向：软件人工智能、消费）—— 结合黄浦未来五年金融科技主攻方向与区人社“创业陪跑计划”导师服务机制，支持早期数字科技与金融科技创业团队。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`黄浦金融科技集聚与创业陪跑计划 <entities/huangpu-peipao>` （加速器 · 黄浦区 · 方向：AI软件、消费）：将黄浦未来五年金融科技发展方向与区人社“创业陪跑计划”导师服务相衔接，可关注早期数字科技和金融科技团队的创业辅导。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:52
 msgid ""
@@ -464,7 +460,7 @@ msgid ""
 "center and postdoctoral innovation practice base route supporting tech "
 "SMEs, green-shipping digital tools and R&D talent settlement in Hongkou. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`虹口区科技创业中心与博士后创新基地 <entities/hongkou-stec>` （虹口区科技创业中心与博士后创新基地 · 孵化器 · 虹口区 · 方向：软件人工智能、产业、气候）—— 虹口区属公共科技创业中心及博士后创新实践基地对接路径，支持科技型中小企业、绿色航运数字化工具及研发人才落地。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`虹口区科技创业中心与博士后创新基地 <entities/hongkou-stec>` （孵化器 · 虹口区 · 方向：AI软件、产业、气候）：虹口公共科技创业中心及博士后创新实践基地相关服务，可供科技型中小企业、绿色航运数字化团队及研发人才咨询。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:53
 msgid ""
@@ -477,7 +473,7 @@ msgid ""
 "offer. Ask the operator about affiliation, IP, company formation and "
 "current external-team access. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`上海创智学院／北杨人工智能创业网络 <entities/sii-beiyang>` （上海创智学院／北杨人工智能创业网络 · 孵化器 · 徐汇区 · 方向：软件人工智能、硬件人工智能、科学智能）—— 上海创智学院与漕河泾共同运营创智未来中心，服务科研型AI创业者，北杨AI加速器承接后续市场及产业链对接。学院相关孵化不等于面向所有团队开放；须向运营方确认身份、知识产权、企业设立及外部团队当前准入条件。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`上海创智学院／北杨人工智能创业网络 <entities/sii-beiyang>` （孵化器 · 徐汇区 · 方向：AI软件、AI硬件、科学智能）：上海创智学院与漕河泾共同运营创智未来中心，面向科研型AI创业者；北杨AI加速器进一步对接市场及产业链资源。相关孵化服务不一定向所有团队开放，需确认申请人身份、知识产权、企业设立及校外团队准入条件。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:54
 msgid ""
@@ -489,7 +485,7 @@ msgid ""
 "followed by two half-price years for qualifying projects. Housing, loans, "
 "vouchers and admission have separate conditions; confirm the current "
 "tenancy contract. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`临港零界魔方OPC社区 <entities/zero-cube-opc>` （临港零界魔方OPC社区 · 孵化器 · 浦东新区 · 方向：软件人工智能、硬件人工智能、产业）—— 临港集团面向一人及小团队创业的社区，配备创业及生活服务专班，衔接AI-Store资源。2026年8月运营报告介绍符合条件项目办公三年免租、后两年租金减半。住房、贷款、资源券及入驻分别设条件，须核验现行租赁合同。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`临港零界魔方OPC社区 <entities/zero-cube-opc>` （孵化器 · 浦东新区 · 方向：AI软件、AI硬件、产业）：临港集团面向一人创业及小团队的社区，设有创业、生活服务专班，并对接AI-Store资源。2026年8月运营报告介绍，符合条件的项目可享办公场地前三年免租、后两年租金减半。住房、贷款、服务券和入驻各有条件，需核对最新租赁协议。【状态：机构信息已核实，当前是否接受申请需确认】"
 
 #: ../../incubation.rst:55
 msgid ""
@@ -503,4 +499,4 @@ msgid ""
 "incorporated foreign-invested entity is required, then confirm admission, "
 "IP, laboratory access and fees. No standard grant or foreign-founder "
 "entitlement is established. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`外高桥复旦科技园生物医药创新中心 <entities/waigaoqiao-fudan>` （外高桥复旦科技园生物医药创新中心 · 孵化器 · 浦东新区 · 方向：健康、科学智能）—— 复旦科技园在外高桥加枫路8号运营生物医药孵化与成果转化中心。AI制药团队可探索实验室及转化合作；这属于编辑对接建议，并非已核实的AI专项招募。境外企业应先确认是否须设立本地外商投资企业，再核验入驻、知识产权、实验室准入及费用。本条不承诺统一补助或外国创始人当然资格。【状态：机构有来源，招募待确认】"
+msgstr ":doc:`外高桥复旦科技园生物医药创新中心 <entities/waigaoqiao-fudan>` （孵化器 · 浦东新区 · 方向：健康、科学智能）：复旦科技园在外高桥加枫路8号运营的生物医药孵化与成果转化中心。AI制药团队可咨询实验室使用及成果转化合作，但这只是本书建议的合作方向，并非已确认的AI专项征集。境外企业应先确认是否需要设立本地外商投资企业，再了解入驻、知识产权、实验室使用及费用要求，不宜推定统一补助或外籍创业者资格。【状态：机构信息已核实，当前是否接受申请需确认】"

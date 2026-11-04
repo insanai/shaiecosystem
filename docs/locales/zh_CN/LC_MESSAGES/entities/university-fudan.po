@@ -26,7 +26,7 @@ msgstr "复旦大学"
 
 #: ../../entities/university-fudan.rst:6
 msgid "University | Yangpu | Research checked 2026-11-04"
-msgstr "高校｜杨浦区｜研究核对日期 2026-11-04"
+msgstr "高校｜杨浦区｜资料核查日期 2026-11-04"
 
 #: ../../entities/university-fudan.rst:8
 msgid "Ministry of Education institution code: 4131010246."
@@ -38,57 +38,44 @@ msgid ""
 "Suggested collaboration themes: Software AI, chips, AI for Science. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding."
-msgstr "列入教育部2026年6月高校名录。建议合作主题：软件人工智能、芯片、科学智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。"
+msgstr "该校列入教育部2026年6月公布的高校名录。可关注的合作方向包括：AI软件、芯片、科学智能。这些方向仅供寻找合作方时参考，不代表已确认可使用相关实验室或获得创业资助。"
 
 #: ../../entities/university-fudan.rst:12
-
-#| msgid ""
-#| "`Evidence S081 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. "
-#| "Contact."
 msgid ""
 "`Evidence S084 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. "
 "Contact."
-msgstr "`证据 S084 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. Contact."
+msgstr "`资料来源 S084 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. Contact."
 
 #: ../../entities/university-fudan.rst:14
-
-#| msgid ""
-#| "`Evidence S082 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - "
-#| "部门设置（联系方式） - 复旦大学科学技术研究院."
 msgid ""
 "`Evidence S085 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - "
 "部门设置（联系方式） - 复旦大学科学技术研究院."
-msgstr "`证据 S085 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院."
+msgstr "`资料来源 S085 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院."
 
 #: ../../entities/university-fudan.rst:16
-
-#| msgid ""
-#| "`Evidence S083 "
-#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
-#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
 "`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`证据 S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`资料来源 S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-fudan.rst:18
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/university-fudan.rst:21
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/university-fudan.rst:23
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
-msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+msgstr "尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。"
 
 #: ../../entities/university-fudan.rst:25
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/university-fudan.rst:28
 msgid ""
@@ -98,7 +85,7 @@ msgstr "学校总机及科学技术研究院技术转移中心"
 
 #: ../../entities/university-fudan.rst:30
 msgid "`Official website / intake route <https://www.fudan.edu.cn/>`_"
-msgstr "`官网／对接入口 <https://www.fudan.edu.cn/>`_"
+msgstr "`官网及申请渠道 <https://www.fudan.edu.cn/>`_"
 
 #: ../../entities/university-fudan.rst:32
 msgid "Telephone: +86 21 65642222."
@@ -106,13 +93,13 @@ msgstr "电话：+86 21 65642222。"
 
 #: ../../entities/university-fudan.rst:34
 msgid "Published address: 220 Handan Road, Yangpu."
-msgstr "公布地址：杨浦区邯郸路220号。"
+msgstr "公开地址：杨浦区邯郸路220号。"
 
 #: ../../entities/university-fudan.rst:36
 msgid ""
 "Map point is approximate, based on the published street context; it is "
 "not an entrance or navigation coordinate."
-msgstr "地图点依据公布街道信息近似定位，不是入口或导航坐标。"
+msgstr "地图根据公开街道信息标注大致位置，不用于确认入口或导航。"
 
 #: ../../entities/university-fudan.rst:38
 msgid "Application workflow"
@@ -122,29 +109,29 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/university-fudan.rst:43
 msgid ""
 "Find the relevant research group and state the scientific or industrial "
 "problem."
-msgstr "匹配科研团队，明确科学或产业问题。"
+msgstr "寻找研究方向匹配的团队，明确科学问题或产业需求。"
 
 #: ../../entities/university-fudan.rst:45
 msgid ""
 "Send a short proposal covering data, equipment, outputs, funding and "
 "timescale."
-msgstr "发送涵盖数据、设备、成果、经费及时程的简短方案。"
+msgstr "提交简要合作方案，说明数据、设备、预期成果、经费和进度。"
 
 #: ../../entities/university-fudan.rst:47
 msgid ""
 "Agree the collaboration route, publication, IP and institutional "
 "authorization."
-msgstr "约定合作路径、发表、知识产权及单位授权。"
+msgstr "商定合作方式、成果发表、知识产权和单位授权。"
 
 #: ../../entities/university-fudan.rst:49
 msgid "Obtain written access or project approval before beginning the work."
-msgstr "开始工作前取得书面准入或项目批准。"
+msgstr "取得书面使用许可或项目批准后，再开展工作。"
 
 #: ../../entities/university-fudan.rst:51
 msgid ""
@@ -152,8 +139,8 @@ msgid ""
 "status is required, who owns the research IP, and whether support is a "
 "service, a loan, a grant or equity. The thematic match in this profile is "
 "editorial guidance."
-msgstr "确认外部创业者能否申请、是否要求在校或校友身份、科研知识产权权属，以及支持属于服务、贷款、补助还是股权。本档案的主题匹配为编辑建议。"
+msgstr "请确认校外创业者能否申请，是否要求在校生或校友身份，科研成果的知识产权归属，以及支持属于服务、贷款、补助还是股权投资。本页所列合作方向仅供参考。"
 
 #: ../../entities/university-fudan.rst:53
 msgid ":doc:`Yangpu district route </districts/yangpu>`"
-msgstr ":doc:`杨浦区对接路径 </districts/yangpu>`"
+msgstr ":doc:`杨浦区合作指南 </districts/yangpu>`"

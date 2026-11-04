@@ -26,11 +26,11 @@ msgstr "紫竹国家高新区／创业孵化器ET空间"
 
 #: ../../entities/zizhu.rst:6
 msgid "Incubator | Minhang | Research checked 2026-11-04"
-msgstr "孵化器｜闵行区｜研究核对日期 2026-11-04"
+msgstr "孵化器｜闵行区｜资料核查日期 2026-11-04"
 
 #: ../../entities/zizhu.rst:8
 msgid "AI and industry focus: Software AI, Hardware AI, Industry."
-msgstr "人工智能与产业方向：软件人工智能、硬件人工智能、产业。"
+msgstr "AI及产业方向：AI软件、AI硬件、产业。"
 
 #: ../../entities/zizhu.rst:10
 msgid ""
@@ -38,49 +38,49 @@ msgid ""
 "and manufacturing ecosystem. Its operator describes industry challenges "
 "and collaborative innovation; current admission, space and fees require "
 "an intake discussion."
-msgstr "高新区所属孵化器连接软件、航空电子及制造生态。运营方介绍产业挑战及协同创新，当前入驻、空间与费用须通过受理咨询确认。"
+msgstr "紫竹国家高新区所属孵化器，可对接软件、航空电子和制造业资源。运营方介绍了产业挑战及协同创新项目，当前入驻条件、场地和费用需进一步咨询。"
 
 #: ../../entities/zizhu.rst:12
 msgid ""
 "`Evidence S050 <https://www.zizhupark.com/innovation/view/68>`_. 紫竹创业孵化器 "
 "- 紫竹国家高新技术产业开发区."
-msgstr "`证据 S050 <https://www.zizhupark.com/innovation/view/68>`_. 紫竹创业孵化器 - 紫竹国家高新技术产业开发区."
+msgstr "`资料来源 S050 <https://www.zizhupark.com/innovation/view/68>`_. 紫竹创业孵化器 - 紫竹国家高新技术产业开发区."
 
 #: ../../entities/zizhu.rst:14
 msgid "Status and support"
-msgstr "状态与支持"
+msgstr "项目状态与支持内容"
 
 #: ../../entities/zizhu.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "机构有来源，招募待确认"
+msgstr "机构信息已核实，当前是否接受申请需确认"
 
 #: ../../entities/zizhu.rst:19
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
-msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+msgstr "尚未确认统一的现金资助额度、费用减免或股权比例，请向运营机构索取最新书面方案。"
 
 #: ../../entities/zizhu.rst:21
 msgid "Contact and location"
-msgstr "联系与位置"
+msgstr "联系方式与地址"
 
 #: ../../entities/zizhu.rst:24
 msgid ""
 "`Official website / intake route "
 "<https://www.zizhupark.com/innovation/view/68>`_"
-msgstr "`官网／对接入口 <https://www.zizhupark.com/innovation/view/68>`_"
+msgstr "`官网及申请渠道 <https://www.zizhupark.com/innovation/view/68>`_"
 
 #: ../../entities/zizhu.rst:26
 msgid ""
 "Use the official website to request the responsible team and current "
 "application route. Email addresses are not reproduced in this publication."
-msgstr "请通过官网联系负责团队，确认现行申请渠道。本刊不刊载邮箱地址。"
+msgstr "请通过官网咨询具体负责部门及最新申请方式。本图谱不公开电子邮箱地址。"
 
 #: ../../entities/zizhu.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
-msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+msgstr "地图采用行政区或校区参考点，不代表已核实的办公地址。"
 
 #: ../../entities/zizhu.rst:30
 msgid "Application workflow"
@@ -90,32 +90,32 @@ msgstr "申请流程"
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
-msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+msgstr "以下步骤为本书整理的申请参考，实际办理流程以最新官方通知或协议为准。"
 
 #: ../../entities/zizhu.rst:35
 msgid "Send a project brief and request the current admission checklist."
-msgstr "发送项目简介，索取现行入驻清单。"
+msgstr "发送项目简介，索取最新入驻条件及材料清单。"
 
 #: ../../entities/zizhu.rst:37
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "完成运营方资格及技术或商业评审。"
+msgstr "按运营机构要求完成资格审核及技术或商业评审。"
 
 #: ../../entities/zizhu.rst:39
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "书面确认租金、服务费、知识产权、算力价格及任何股权权利。"
+msgstr "书面确认租金、服务费、知识产权、算力价格及股权相关条款。"
 
 #: ../../entities/zizhu.rst:41
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "签署入驻文件，记录里程碑与服务负责人。"
+msgstr "签署入驻协议，明确阶段目标和服务对接人。"
 
 #: ../../entities/zizhu.rst:43
 msgid ":doc:`Minhang district route </districts/minhang>`"
-msgstr ":doc:`闵行区对接路径 </districts/minhang>`"
+msgstr ":doc:`闵行区合作指南 </districts/minhang>`"
 
 #~ msgid ""
 #~ "A direct program phone or email is not verified here. Use the official "

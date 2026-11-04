@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../hardware-ai.rst:1
 msgid "Intelligence in the physical world"
-msgstr "物理世界中的智能"
+msgstr "芯片、机器人与智能硬件"
 
 #: ../../hardware-ai.rst:4
 msgid ""
@@ -26,7 +26,7 @@ msgid ""
 "reliability and service. A beautiful prototype is the beginning of a "
 "supply chain. We follow chips, sensors, robots and autonomous systems "
 "through the facilities they need."
-msgstr "硬件把算法与材料、制造公差、可靠性及服务连接起来。漂亮的样机只是供应链的起点。我们按所需设施梳理芯片、传感器、机器人及自主系统。"
+msgstr "硬件项目需要把算法与材料、制造精度、可靠性和售后服务结合起来。样机做得好，只是迈向量产的第一步。本章从所需设施和工程能力出发，梳理芯片、传感器、机器人及自主系统的合作资源。"
 
 #: ../../hardware-ai.rst:7
 msgid "Engineering gates from research to repeatable production."
@@ -34,7 +34,7 @@ msgstr "从科研到可重复生产的工程关口。"
 
 #: ../../hardware-ai.rst:10
 msgid "Chips and sensing"
-msgstr "芯片与传感"
+msgstr "芯片与传感器"
 
 #: ../../hardware-ai.rst:13
 msgid ""
@@ -43,7 +43,7 @@ msgid ""
 "EDA access, licensed IP, multi-project wafer participation, full mask "
 "sets, packaging, testing and characterization. A shared lab or incubator "
 "does not automatically pay for a tape-out."
-msgstr "人工智能芯片项目应准备架构、工作负载、工艺选择、工具链、IP依赖及软件支持计划。分别核对EDA、授权IP、多项目晶圆、全掩模、封装、测试及表征。共享实验室或孵化器不自动承担流片费用。"
+msgstr "AI芯片项目应准备架构方案、目标负载、工艺选择、工具链、IP依赖和软件支持计划。EDA工具、IP授权、多项目晶圆（MPW）、全掩模流片、封装、测试和器件表征，应逐项确认。共享实验室或孵化器通常不会自动承担流片费用。"
 
 #: ../../hardware-ai.rst:15
 msgid ""
@@ -52,7 +52,7 @@ msgid ""
 "relationship is relevant to beyond-Moore devices, sensors and pilot "
 "production. We ask for equipment, process capability, queue time, sample "
 "ownership and a written quotation."
-msgstr "张江集成电路设计产业园及集成电路促进中心可作为服务入口。嘉定工研院与新微创源的联动适合超越摩尔器件、传感器及中试。我们应索取设备、工艺能力、排期、样品权属及书面报价。"
+msgstr "张江集成电路设计产业园和上海集成电路技术与产业促进中心可作为初步对接渠道。嘉定工研院与新微创源的协作适合超越摩尔器件、传感器及中试项目。咨询时应索取设备清单、工艺能力、排期、样品权属约定和书面报价。"
 
 #: ../../hardware-ai.rst:17
 msgid ""
@@ -62,7 +62,7 @@ msgid ""
 "photonic sensing teams. In Fengxian, the Oriental Beauty Valley Life "
 "Messenger Gene Drug Base opened in April 2025 to link AI-assisted "
 "molecular design with shared wet labs and pilot manufacturing."
-msgstr "张江的上海集成电路研发中心（ICRD）提供工艺开发与器件验证公共能力，嘉定羲和光谷面向科学家创业团队提供光电与激光传感孵化；奉贤于2025年4月开园的“东方美谷·生命信使”基因药物基地则衔接AI分子设计、共享实验与中试生产。"
+msgstr "张江的上海集成电路研发中心（ICRD）提供工艺开发与器件验证等公共服务；嘉定羲和光谷面向科学家创业团队，提供光电与激光传感领域的孵化支持；2025年4月开园的奉贤“东方美谷·生命信使”基因药物基地，可关注AI辅助分子设计、共享实验室及中试生产的衔接。"
 
 #: ../../hardware-ai.rst:19
 msgid "Robots and embodied AI"
@@ -75,7 +75,7 @@ msgid ""
 "batteries and the mechanical platform. Test the complete system against a "
 "named use case. Demonstrations should state payload, cycle time, failure "
 "conditions, human intervention and maintenance cost."
-msgstr "将机器人大模型、感知、规划、控制及安全架构与电机、传动、触觉、电池及机械平台分别分析，并在具体场景验证整机。演示应说明载荷、节拍、失效条件、人工介入及维护成本。"
+msgstr "应分别梳理机器人大模型、感知、规划、控制与安全架构，以及电机、传动、触觉、电池和机械平台，再放到具体场景中验证整机性能。演示时应说明载荷、作业节拍、失效条件、人工干预方式及维护成本。"
 
 #: ../../hardware-ai.rst:24
 msgid ""
@@ -84,11 +84,11 @@ msgid ""
 "Corporate programs can provide a deployment conversation. They do not "
 "replace production qualification, applicable certification or a customer "
 "acceptance plan."
-msgstr "可比较闵行研发制造衔接、宝山机器人产业、武宁检测服务及张江机器人生态。企业计划可以打开应用对话，但不能替代生产资质、适用认证或客户验收方案。"
+msgstr "可以比较闵行的研发制造资源、宝山的机器人产业链、武宁的检测服务和张江的机器人产业资源。企业创新项目有助于对接应用场景，但不能替代生产资质、适用认证或客户验收方案。"
 
 #: ../../hardware-ai.rst:26
 msgid "Other physical frontiers"
-msgstr "其他物理前沿"
+msgstr "其他智能硬件方向"
 
 #: ../../hardware-ai.rst:29
 msgid ""
@@ -98,7 +98,7 @@ msgid ""
 "research from regulated product development. For AI-enabled biology, "
 "confirm biosafety, instrument availability, sample handling and clinical "
 "access before renting a lab."
-msgstr "无人机应从真实运行场景出发，经金山无人机渠道确认测试及适用运行许可。脑机接口与医疗器械应区分探索研究与受监管产品开发。人工智能生物研发在租实验室前须确认生物安全、仪器、样本及临床资源。"
+msgstr "无人机项目应先明确实际应用场景，再通过金山相关平台确认试飞条件及所需运行许可。脑机接口和医疗器械项目应区分探索性研究与受监管的产品开发。AI生物研发团队在租用实验室前，应确认生物安全条件、仪器、样本和临床资源。"
 
 #: ../../hardware-ai.rst:31
 msgid ""
@@ -106,11 +106,11 @@ msgid ""
 "engineering milestones, manufacturing partner plan, test fixtures, "
 "reliability plan and a working demonstration. We identify what the "
 "incubator can actually supply and what the team must buy elsewhere."
-msgstr "硬件申请材料应增加物料清单、有成本的工程里程碑、制造合作计划、测试夹具、可靠性计划及可运行演示，明确孵化器实际提供内容与团队另行采购内容。"
+msgstr "硬件项目的申请材料还应包括物料清单、各工程里程碑的预算、制造合作计划、测试工装、可靠性验证计划和可运行演示。哪些资源由孵化器提供，哪些需要团队另行采购，应逐项写清。"
 
 #: ../../hardware-ai.rst:33
 msgid ""
 "`Evidence S006 "
 "<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "
 "市科委、嘉定区联合调研高质量孵化器建设工作."
-msgstr "`证据 S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."
+msgstr "`资料来源 S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."
