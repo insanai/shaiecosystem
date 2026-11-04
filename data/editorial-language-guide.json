@@ -1,0 +1,67 @@
+{
+  "reviewed": "2026-11-04",
+  "purpose": "Editorial terminology references for the seven Guidedog editions. These references inform wording; they do not establish Shanghai program eligibility, funding availability or open application dates.",
+  "rules": [
+    "Retain formal institutional and program names, with the original Chinese name where useful for search.",
+    "Translate meaning and sentence structure rather than individual English words.",
+    "Distinguish application, admission, investment review and public funding claims.",
+    "Distinguish grants, cost reimbursement, cloud credits, repayable loans, temporary shareholding and equity investment.",
+    "Preserve amounts, currencies, percentages, deadlines, policy validity and eligibility conditions.",
+    "A published institution or valid policy does not establish an open call.",
+    "Follow-on investment rights are distinct from tag-along rights.",
+    "A venture client buys or trials a startup's solution; this does not necessarily involve equity investment."
+  ],
+  "languages": {
+    "en": {
+      "terms": ["funding and support", "application deadline", "technology transfer", "repayable loan", "equity investment"],
+      "references": ["https://www.bmwgroup.com/en/innovation/innovation-network/startup-garage.html"]
+    },
+    "zh_CN": {
+      "terms": ["科技成果转化", "申报", "入驻", "先支后补", "股权投资", "申请条件", "受理时间"],
+      "references": [
+        "https://sheitc.sh.gov.cn/cyfz/20260929/56d5e41453e14e8e9859b7ce44edecb0.html",
+        "https://www.shanghai.gov.cn/cxcysj/20260330/b647abe4d09244489b324a0d11735d2e.html",
+        "https://www.stefg.org/Angel/Intro.aspx",
+        "https://www.icc.sh.cn/list_32/"
+      ]
+    },
+    "hi": {
+      "terms": ["स्टार्टअप", "इनक्यूबेटर", "अनुदान", "फंडिंग", "खर्च की प्रतिपूर्ति", "कंपनी की हिस्सेदारी", "आवेदन की प्रक्रिया"],
+      "references": [
+        "https://www.startupindia.gov.in/hindi/content/sih/en/reources/looking_for_funding.html",
+        "https://www.startupindia.gov.in/hindi/content/sih/en/about-startup-india-initiative.html"
+      ]
+    },
+    "ja": {
+      "terms": ["スタートアップ", "アクセラレーター", "資金調達", "公募", "実証", "エクイティフリー", "エンボディドAI"],
+      "references": [
+        "https://www.jetro.go.jp/services/gsap.html",
+        "https://www.jetro.go.jp/biznews/2018/06/0b1b5644b32b5e7d.html",
+        "https://www.jetro.go.jp/biznews/2026/07/d17df8127c38f0b9.html"
+      ]
+    },
+    "ko": {
+      "terms": ["스타트업", "액셀러레이터", "창업보육", "투자 유치", "신청 요건", "피지컬 AI", "BMW 스타트업 개러지"],
+      "references": [
+        "https://dream.kotra.or.kr/dream/cms/news/actionKotraBoardDetail.do?CONTENTS_NO=1&MENU_ID=4270&SITE_NO=2&bbsSn=322&pNttSn=243327",
+        "https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?CONTENTS_NO=1&MENU_ID=180&SITE_NO=3&pNttSn=239295",
+        "https://www.press.bmwgroup.com/korea/article/detail/T0321751KO/bmw-스타트업-개러지-프로그램-참여-기업-정부-지원-사업에-선발"
+      ]
+    },
+    "de": {
+      "terms": ["Start-up", "Zuschuss", "Beteiligungskapital", "Förderbedingungen", "Antragsunterlagen", "Betriebsmittel", "Venture Client"],
+      "references": [
+        "https://www.kfw.de/partner/KfW-Partnerportal/Multiplikatoren/Förderprodukte/RegioInnoGrowth-(265)/index.jsp",
+        "https://www.bmwgroup.com/content/grpw/websites/bmwgroup_com/de/news/allgemein/2019/startup-garage.html"
+      ]
+    },
+    "es": {
+      "terms": ["financiación", "ayudas", "convocatoria", "incubación", "aceleración", "participaciones", "inversión en futuras rondas", "IA física"],
+      "references": [
+        "https://www.icex.es/es/sala-prensa/notas-de-prensa/2025/03/desafia-canada-icex-startups-espanolas-internacionalizacion",
+        "https://www.icex.es/content/dam/icex/centros/china/documentos/2024/estudio-mercado-emprendimiento-china-2024-resumen.pdf",
+        "https://blog.google/intl/es-419/noticias-de-la-empresa/tecnologia/gemini-robotics-er-2/"
+      ]
+    }
+  }
+}

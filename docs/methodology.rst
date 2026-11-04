@@ -15,7 +15,7 @@ Chinese organization names are retained for searching and contact. Descriptive E
 Contacts, workflows and map locations
 -------------------------------------
 
-Published phone numbers and email addresses are attributed to their source. A general university switchboard is identified as such. Where a direct contact is not established, the record gives the official website or authority route and explicitly requests a named receiving team. We did not contact organizations or submit applications.
+Published telephone numbers are attributed to their sources, and general university switchboards are identified. Where a direct contact is unverified, we provide an official website or authority and suggest asking for the responsible team. We have not contacted organizations or submitted applications on readers' behalf. Email addresses are not published.
 
 Application workflows are labelled as editorial checklists unless a record cites a notice-specific procedure. Campus and district anchors locate an ecosystem, not a verified entrance. Even street-based plotted points are approximate. The district boundaries are an illustrative DataV dataset, with no claim to survey, legal-boundary or navigation accuracy.
 
