@@ -5,6 +5,8 @@ Zhangjiang Hi-Tech 895 Incubator
 
 Incubator | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Chips.
+
 A deep-technology incubator with chip-testing and industrialization context in Zhangjiang. Incubation and the associated angel investment pathway must be reviewed as different agreements.
 
 `Evidence S004 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260724/5ae78c565d2449cf96e42595a8e5422e.html>`_. Shanghai uses innovation ecosystems to nurture future industries.

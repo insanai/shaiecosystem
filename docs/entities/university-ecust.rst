@@ -5,9 +5,15 @@ East China University of Science and Technology
 
 University | Xuhui | Research checked 2026-11-04
 
+Ministry of Education institution code: 4131010251.
+
 Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Materials, chemistry, bioprocessing, AI for Science. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.
 
-`Evidence S059 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园.
+`Evidence S080 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园.
+
+`Evidence S081 <https://www.ecustpark.com/1001370>`_. 创业服务.
+
+`Evidence S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
 
 Status and support
 ------------------
@@ -19,9 +25,9 @@ No standard cash award, fee waiver or equity percentage is verified for this ent
 Contact and location
 --------------------
 
-ECUST University Science Park
+ECUST National University Science Park entrepreneurship service route
 
-`Official website / intake route <https://www.ecust.edu.cn/>`_
+`Official website / intake route <https://www.ecustpark.com/>`_
 
 A direct program phone or email is not verified here. Use the official route and request the responsible team; no contact has been invented.
 

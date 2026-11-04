@@ -5,6 +5,8 @@ Shanghai IC Design Industrial Park
 
 Technology park | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Chips, Hardware AI.
+
 A Zhangjiang chip design ecosystem connecting design and industrial services. A strong starting point for AI chip teams, with specific EDA, IP, tape-out, packaging and testing access negotiated with providers.
 
 `Evidence S029 <https://www.shanghai.gov.cn/nw15343/20250210/708f661c2b46458996844fab153a0a41.html>`_. 浦东新区区委书记李政走访张江科学城企业.

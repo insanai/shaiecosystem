@@ -5,6 +5,8 @@ Shanghai Embodied AI Fund
 
 Investor | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Robotics, Sensors.
+
 A state-backed embodied-intelligence investment route announced in April 2025, including core components and edge chips. Confirm the current manager and investment mandate; no uniform cheque size or ownership percentage is established here.
 
 `Evidence S046 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_. 上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态.

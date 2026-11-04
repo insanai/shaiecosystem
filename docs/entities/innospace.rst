@@ -5,6 +5,8 @@ InnoSpace
 
 Accelerator | Yangpu | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Industry.
+
 An innovation service organization focused on corporate open innovation and startup incubation and acceleration. Bring a concrete industrial use case; program participation does not imply a corporate purchase order.
 
 `Evidence S009 <https://www.innospaceplus.com.cn/>`_. InnoSpace | 创业孵化 大企业创新.

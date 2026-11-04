@@ -5,6 +5,8 @@ SAP.iO上海加速器
 
 Corporate program | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Industry.
+
 The 2021 launch described an equity-free intelligent-manufacturing accelerator. It is included as a historical corporate route; the source does not establish a 2026 Shanghai intake.
 
 `Evidence S035 <https://news.sap.cn/2021/12/120301/>`_. SAP.iO初创企业加速器首次落地中国 - SAP 中国资讯中心.

@@ -5,6 +5,8 @@ Nest.Bio Shanghai Innovation Platform
 
 Incubator | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Health, AI for Science.
+
 Recognized in the December 2025 high-quality incubation expansion, with synthetic biology and cell and gene therapy interests. Confirm current Shanghai facilities, admission and laboratory pricing with the operator.
 
 `Evidence S008 <https://www.shanghai.gov.cn/nw4411/20251211/0346bd371e2442f9864f3d6df510b46d.html?siteId=1>`_. 上海高质量孵化器增至18家 新增6家涵盖合成生物、脑机智能、集成电路等领域.

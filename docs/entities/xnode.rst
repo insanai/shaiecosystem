@@ -5,6 +5,8 @@ XNode
 
 Accelerator | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Industry.
+
 A cross-border innovation operator supporting market entry, corporate partnerships and pilots. Its Shanghai office is a useful intake route for international teams. Scope, fees, deliverables and investment should be stated separately.
 
 `Evidence S010 <https://thexnode.com/cn/contact-us/>`_. 联系我们 – XNode.

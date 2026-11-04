@@ -5,6 +5,8 @@ Lin-gang Science and Innovation City
 
 Technology park | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Chips, Software AI.
+
 The January 2026 plan identifies Dishui Lake AI and IC innovation ports and staged development targets. Lin-gang is a functional area, not Shanghai's seventeenth district. Establish the administering boundary before seeking incentives.
 
 `Evidence S028 <https://www.shanghai.gov.cn/nw4411/20260122/a0d2d4e5531145fcb18cce45ebcfb216.html?siteId=1>`_. 在临港 打造青年创业理想城 “临港科创城”建设方案发布 建设国际科创中心重要基地.

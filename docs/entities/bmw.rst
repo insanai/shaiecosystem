@@ -5,9 +5,11 @@ BMW Group Startup Garage
 
 Global program | Citywide / global | Research checked 2026-11-04
 
+AI and industry focus: Mobility, Hardware AI, Software AI.
+
 BMW describes a venture-client route for evaluating startup solutions for products, services and internal processes. Validate the responsible China business owner and pilot requirements; venture-client activity is not necessarily equity investment.
 
-`Evidence S056 <https://www.bmwgroup.com/en/innovation/innovation-network/startup-garage.html>`_. BMW Group Startup Garage - Startups as Innovation Partners.
+`Evidence S073 <https://www.bmwgroup.com/en/innovation/innovation-network/startup-garage.html>`_. BMW Group Startup Garage - Startups as Innovation Partners.
 
 Status and support
 ------------------

@@ -34,13 +34,14 @@ Ask which current notice governs the project, whether registration and actual op
 Local organizations in this atlas
 ---------------------------------
 
-* :doc:`Zhangjiang Hongkou Park / Beikechuang </entities/hongkou-park>`
-* :doc:`Shanghai International Studies University </entities/university-sisu>`
-* :doc:`Xianda College of Economics and Humanities, SISU </entities/university-xianda>`
+* :doc:`Zhangjiang Hongkou Park / Beikechuang </entities/hongkou-park>` (张江虹口园／北科创 · Technology park · Software AI, Industry) — The park plan gives Beikechuang a coordinating role in incubation, technology transfer and investment services. Request the relevant sub-park and named operating company for a project-specific response. [Status: Published entity; intake to confirm]
+* :doc:`Hongkou Science & Technology Entrepreneurship Center </entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · Incubator · Software AI, Industry, Climate) — District public entrepreneurship center and postdoctoral innovation practice base route supporting tech SMEs, green-shipping digital tools and R&D talent settlement in Hongkou. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai International Studies University </entities/university-sisu>` (上海外国语大学 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Language technology, translation, international markets. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Xianda College of Economics and Humanities, SISU </entities/university-xianda>` (上海外国语大学贤达经济人文学院 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Language, commerce and creative applications. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
 
 Funding routes
 --------------
 
-* :doc:`Hongkou international and overseas young talent support, first 2026 batch </funding/hongkou-talent-2026>`
+* :doc:`Hongkou international and overseas young talent support, first 2026 batch </funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · Grant · No equity) — Recognized top talent and core team: up to RMB 1m; eligible overseas young talent: RMB 50,000 per person. Status: Closed. Timing: Closed 31 March 2026.
 
 :doc:`Also compare citywide funding </funding>`

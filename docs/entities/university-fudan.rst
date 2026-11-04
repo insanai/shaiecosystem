@@ -5,9 +5,15 @@ Fudan University
 
 University | Yangpu | Research checked 2026-11-04
 
+Ministry of Education institution code: 4131010246.
+
 Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Software AI, chips, AI for Science. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.
 
-`Evidence S057 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. Contact.
+`Evidence S074 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. Contact.
+
+`Evidence S075 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院.
+
+`Evidence S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
 
 Status and support
 ------------------
@@ -19,7 +25,7 @@ No standard cash award, fee waiver or equity percentage is verified for this ent
 Contact and location
 --------------------
 
-University switchboard; ask for science park or technology transfer
+University switchboard and Office of Science & Technology Research Technology Transfer Center
 
 `Official website / intake route <https://www.fudan.edu.cn/>`_
 

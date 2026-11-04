@@ -5,9 +5,11 @@ Siemens startup / Xcelerator ecosystem
 
 Global program | Citywide / global | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI, Industry.
+
 Siemens publishes a startup connection and marketplace route for industrial solutions, with a separate China Xcelerator platform. Marketplace onboarding and industrial partnerships are distinct from a funding award.
 
-`Evidence S055 <https://www.siemens.com/zh-cn/company/innovation/startups/connect/>`_. Connect 计划 | Siemens.
+`Evidence S072 <https://www.siemens.com/zh-cn/company/innovation/startups/connect/>`_. Connect 计划 | Siemens.
 
 Status and support
 ------------------

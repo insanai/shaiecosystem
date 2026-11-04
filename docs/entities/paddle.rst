@@ -5,6 +5,8 @@ Shanghai AI Public Technology Service Platform
 
 Corporate program | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Software AI.
+
 The PaddlePaddle-linked platform publishes AI training and ecosystem resources. Explore its technical services and developer events; confirm whether a specific training or compute offer carries fees.
 
 `Evidence S038 <https://shanghai.paddlepaddle.org.cn/>`_. 人工智能公共技术服务平台.

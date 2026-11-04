@@ -7,7 +7,7 @@ Government | Xuhui | Research checked 2026-11-04
 
 The embodied AI policy identifies robot models, algorithms, data and operating systems. Its evaluated support ceilings are not automatic startup awards.
 
-`Evidence S064 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知.
+`Evidence S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知.
 
 Status and support
 ------------------

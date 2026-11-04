@@ -5,6 +5,8 @@ Roche Accelerator
 
 Corporate program | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Health, AI for Science.
+
 Roche describes its Shanghai innovation accelerator for the China ecosystem. Relevant to healthcare and AI-enabled discovery teams. Scientific fit, space, collaboration, funding and IP terms are distinct questions.
 
 `Evidence S034 <https://www.roche.com/innovation/structure/cicor/roche-accelerator>`_. Roche | Roche accelerator.

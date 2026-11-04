@@ -5,6 +5,8 @@ Qiming Venture Partners
 
 Investor | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Health, Hardware AI.
+
 A venture-capital contact route with a published Shanghai office. Send a concise investment case and confirm sector and stage fit. The general contact inbox is not a guarantee of an investment review.
 
 `Evidence S048 <https://www.qimingvc.com/en/contact>`_. Contact Us | Qiming Venture Partners.

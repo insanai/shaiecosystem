@@ -27,9 +27,15 @@ Minhang and Jiading help connect engineering research to industrial work. Baosha
 
 Functional areas are not extra districts. Zhangjiang, Caohejing, Hongqiao, G60 and Lin-gang can cross administrative or operating boundaries. We confirm registered address, actual operations, project location and the receiving authority before assuming a policy applies.
 
+Recent 2025-2026 municipal and district upgrades have sharpened these spatial roles: Pudong unveiled the 2-square-kilometer Zhangjiang AI Innovation Town alongside its compute, model and corpus vouchers; Shanghai expanded its high-quality incubator network to 18 flagship operators; Putuo structured its "One Axis, One Park, One Center" corridor linking Wuning Science Park, China-Israel Innovation Hub and Shanghai Tsinghua International Innovation Center; and Songjiang launched the University Town Sci-Tech Source fund to connect seven campus research bases with industrial transformation.
+
 The magnolia and the pearl
 --------------------------
 
 Shanghai's official flower is the white magnolia, designated in 1986. Pearl white is the principal color of this atlas. Ink charcoal, mist jade and champagne gold form an editorial palette rather than an official municipal color standard. The cover is an original generated Chinese ink-style illustration, not a documentary photograph or a geographically exact skyline.
 
-`Evidence S097 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview.
+This book and interactive atlas are written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. The publication is produced natively using Guidedog in both HTML and PDF editions (English and Simplified Chinese), sharing one verified dataset across the interactive web atlas and the illustrated print-ready books.
+
+`Evidence S128 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview.
+
+`Evidence S129 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators.

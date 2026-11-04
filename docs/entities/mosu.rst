@@ -5,6 +5,8 @@ Shanghai Model Speed Space
 
 Incubator | Xuhui | Research checked 2026-11-04
 
+AI and industry focus: Software AI.
+
 A specialist large-model incubation and acceleration community on the West Bund. Its operator lists several zones; admission, workspace, compute support and investment are separate decisions.
 
 `Evidence S001 <https://www.opensmc.com/>`_. 模速空间.
@@ -13,6 +15,8 @@ Status and support
 ------------------
 
 Published entity; intake to confirm
+
+Published support note: Services / possible incentives.
 
 No standard cash award, fee waiver or equity percentage is verified for this entry. Request the current written offer.
 

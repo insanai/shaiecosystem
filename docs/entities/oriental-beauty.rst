@@ -5,6 +5,8 @@ Oriental Beauty Valley
 
 Technology park | Fengxian | Research checked 2026-11-04
 
+AI and industry focus: Health, Industry.
+
 A Fengxian beauty and health industry ecosystem. Relevant AI applications include formulation research, inspection, consumer analysis and supply-chain tools; clinical or laboratory access is a separate arrangement.
 
 `Evidence S024 <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_. 奉贤区领导调研东方美谷集团、临港南桥科技城.

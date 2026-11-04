@@ -5,6 +5,8 @@ Tongji PAI Research Center
 
 Research platform | Jiading | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Sensors.
+
 The center publishes an industry collaboration entry for localization, sensing, communication and trusted coordination. We use its cooperation contact rather than assuming access through general university admissions.
 
 `Evidence S033 <https://ai.tongji.edu.cn/contact.html>`_. 联系我们 | PAI Research Center.

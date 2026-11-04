@@ -5,6 +5,8 @@ Shanghai Leading Industry Funds
 
 Investor | Citywide / global | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI, Chips, Health.
+
 A state-backed fund platform for leading industries, with AI interests including general AI, computing systems, humanoids, vertical models and edge AI. A fund-of-funds commitment is not a startup award or a direct application entitlement.
 
 `Evidence S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导.

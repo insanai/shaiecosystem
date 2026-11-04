@@ -5,6 +5,8 @@ NVIDIA Inception
 
 Global program | Citywide / global | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI.
+
 A free AI startup ecosystem program with no application fee, membership fee or equity requirement. It is not a cash grant. China eligibility, product access and partner benefits must be checked for the specific company.
 
 `Evidence S040 <https://www.nvidia.com/en-us/startups/>`_. Inception Program for Startups | NVIDIA.

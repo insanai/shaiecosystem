@@ -14,6 +14,8 @@ For an AI chip project, prepare the architecture, workload, process choice, tool
 
 Zhangjiang IC Design Industrial Park and the IC promotion center are initial service routes. In Jiading, the documented SITRI and InnoSpring relationship is relevant to beyond-Moore devices, sensors and pilot production. We ask for equipment, process capability, queue time, sample ownership and a written quotation.
 
+Shanghai Integrated Circuit R&D Center (ICRD) in Zhangjiang supports shared process development and device verification, while Xihe Optic Valley in Jiading incubates scientist-founded optoelectronics, laser and photonic sensing teams. In Fengxian, the Oriental Beauty Valley Life Messenger Gene Drug Base opened in April 2025 to link AI-assisted molecular design with shared wet labs and pilot manufacturing.
+
 Robots and embodied AI
 ----------------------
 

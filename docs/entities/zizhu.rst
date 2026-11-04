@@ -5,6 +5,8 @@ Zizhu National Hi-Tech Park / ET Space
 
 Incubator | Minhang | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI, Industry.
+
 The park-owned incubator connects startups with the software, avionics and manufacturing ecosystem. Its operator describes industry challenges and collaborative innovation; current admission, space and fees require an intake discussion.
 
 `Evidence S050 <https://www.zizhupark.com/innovation/view/68>`_. 紫竹创业孵化器 - 紫竹国家高新技术产业开发区.

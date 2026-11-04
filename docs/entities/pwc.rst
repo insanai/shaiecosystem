@@ -5,6 +5,8 @@ PwC x Zhangjiang Healthcare Accelerator
 
 Accelerator | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Health, Software AI.
+
 PwC describes a digital healthcare acceleration initiative supported by Pudong and Zhangjiang. The evidence establishes the initiative; a currently accepting cohort and its commercial terms require confirmation.
 
 `Evidence S012 <https://www.pwccn.com/en/services/entrepreneurial-and-private-business/startup-accelerator.html>`_. PwC China: Scaleup Accelerator.

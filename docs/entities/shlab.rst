@@ -5,6 +5,8 @@ Shanghai Artificial Intelligence Laboratory
 
 Research platform | Xuhui | Research checked 2026-11-04
 
+AI and industry focus: Software AI, AI for Science.
+
 A research institution for foundational and applied AI. Its published general contact supports initial routing; open-source resources, collaboration and recruitment are separate pathways, not a generic startup grant.
 
 `Evidence S031 <https://www.shlab.org.cn/aboutus>`_. 关于我们 - 上海人工智能实验室.

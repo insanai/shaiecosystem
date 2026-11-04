@@ -5,6 +5,8 @@ Xicen Science and Innovation Center
 
 Technology park | Qingpu | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Software AI.
+
 A Qingpu innovation area centered on Huawei Lianqiu Lake and Xicen development. It offers an ecosystem connection, not automatic access to Huawei laboratories, procurement or investment.
 
 `Evidence S022 <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. 对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府.

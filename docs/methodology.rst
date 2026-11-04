@@ -28,4 +28,6 @@ The registry includes 29 diploma colleges and 12 adult institutions without clai
 
 Before a new edition, recheck source dates, operator identity, policy expiry, intake deadlines, contacts, funding mechanism, eligibility, district boundaries and duplicate-funding rules. Preserve superseded claims with their historical status instead of silently reusing them. The source repository contains the data, translations, artwork provenance and reproducible Guidedog build commands.
 
-`Evidence S098 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry.
+Credits and publication system: Written by Vikrant Rathore, with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog as a unified bilingual HTML website and Typst-typeset PDF book publication.
+
+`Evidence S132 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry.

@@ -5,6 +5,8 @@ Hongqiao International Youth Innovation Hub
 
 Incubator | Minhang | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Industry.
+
 Opened in July 2026 as a youth innovation and business-service hub in Hongqiao. The reported workstation offer depends on qualification and available space, not simply arrival at the transport hub.
 
 `Evidence S051 <https://www.shanghai.gov.cn/nw15343/20260728/8f316e7b4dcc43d48067f450e11fc80e.html>`_. 下了飞机火车，120个创业工位“零成本”拎包入驻！虹桥国际青年创业港7月25日启用.

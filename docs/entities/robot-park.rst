@@ -5,6 +5,8 @@ Shanghai Robot Industrial Park
 
 Technology park | Baoshan | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Robotics.
+
 A robotics industrial park in Gucun, Baoshan. Suitable for industrial robotics supply chains and deployment; we distinguish it from ABB facilities in Pudong and from the broader Baoshan industrial park.
 
 `Evidence S019 <https://ghzyj.sh.gov.cn/bs/20220208/06e455735b234308b7cce5d49c7674cb.html>`_. 上海机器人产业园地名专项规划获批_上海市规划和自然资源局.

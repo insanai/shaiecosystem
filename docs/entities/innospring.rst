@@ -5,6 +5,8 @@ InnoSpring / SITRI incubation ecosystem
 
 Incubator | Jiading | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Chips, Sensors.
+
 The municipal science commission records joint work between InnoSpring and SITRI. This is a route for beyond-Moore technology, shared technical services and pilot production rather than a promise of free fabrication.
 
 `Evidence S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作.

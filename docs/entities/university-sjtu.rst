@@ -5,9 +5,15 @@ Shanghai Jiao Tong University
 
 University | Minhang | Research checked 2026-11-04
 
+Ministry of Education institution code: 4131010248.
+
 Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Robotics, chips, engineering, medical AI. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.
 
 `Evidence S003 <https://global.sjtu.edu.cn/hmt/news/view/1737>`_. Official Launch of the Zero Kilometer Incubator in Grand Neobay - 上海交通大学港澳台办公室.
+
+`Evidence S079 <https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_. People – Entrepreneurship.
+
+`Evidence S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
 
 Status and support
 ------------------
@@ -19,7 +25,7 @@ No standard cash award, fee waiver or equity percentage is verified for this ent
 Contact and location
 --------------------
 
-Grand neoBay / university entrepreneurship and technology-transfer offices
+Grand neoBay, Student Innovation Center & University Entrepreneurship Office
 
 `Official website / intake route <https://www.sjtu.edu.cn/>`_
 

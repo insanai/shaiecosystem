@@ -3,7 +3,7 @@ The higher-education register
 
 We use the Ministry of Education list dated 17 June 2026, published 18 June 2026. The downloaded source workbooks are retained in the repository. Institutional inclusion does not prove a startup program, available funding or admission for an external founder.
 
-`Evidence S060 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
+`Evidence S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
 
 40 undergraduate institutions
 -----------------------------
@@ -107,4 +107,4 @@ Additional specialist routes
 
 `CEIBS official institutional route <https://www.ceibs.edu/>`_. CEIBS appears in Shanghai's international education directory and is listed separately here; no specific startup funding offer has been verified.
 
-`Evidence S099 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会.
+`Evidence S133 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会.

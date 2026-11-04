@@ -5,9 +5,13 @@ East China Normal University
 
 University | Putuo | Research checked 2026-11-04
 
+Ministry of Education institution code: 4131010269.
+
 Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Software, education AI, data science, microelectronics. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.
 
-`Evidence S060 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
+`Evidence S083 <https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf>`_. 华东师范大学研究生招生单位联系方式.
+
+`Evidence S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
 
 Status and support
 ------------------
@@ -19,7 +23,7 @@ No standard cash award, fee waiver or equity percentage is verified for this ent
 Contact and location
 --------------------
 
-Official university website; request the technology-transfer, research cooperation or entrepreneurship office
+ECNU research cooperation and graduate innovation institutes
 
 `Official website / intake route <https://www.ecnu.edu.cn/>`_
 

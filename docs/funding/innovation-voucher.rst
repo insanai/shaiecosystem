@@ -5,7 +5,7 @@ Reimbursement | Citywide / global
 
 Policy in force; confirm service and order
 
-`Evidence S071 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. 关于印发《上海市科技创新券管理办法》的通知.
+`Evidence S096 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. 关于印发《上海市科技创新券管理办法》的通知.
 
 Amount and mechanism
 --------------------

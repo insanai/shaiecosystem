@@ -5,6 +5,8 @@ Pudong AI Seed Fund
 
 Investor | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI.
+
 Announced in July 2025 at a target size of RMB 2 billion and an initial RMB 500 million tranche. The figure is fund scale, not a per-startup cheque. Seek the manager through Pudong's official ecosystem route.
 
 `Evidence S045 <https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong launches fund to boost AI industry.

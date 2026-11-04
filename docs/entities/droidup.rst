@@ -5,6 +5,8 @@ DroidUp Ecosystem Accelerator
 
 Corporate program | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Robotics.
+
 The December 2025 Zhangjiang Robot Valley account reports the accelerator launch. We include it as a robotics industry route and require direct confirmation of intake, pilot access, investment and hardware resources.
 
 `Evidence S037 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251214/a6c9850d756b4798abf615ba0beda92b.html>`_. Robot valley forges alliances to fuel robotics innovation.

@@ -5,6 +5,8 @@ Changyang Campus
 
 Technology park | Yangpu | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI.
+
 The Yangpu brain-inspired intelligence plan identifies Changyang Campus as a southern core, paired with Bay Valley in the north. Suitable for neuromorphic computing and commercial AI collaborations.
 
 `Evidence S016 <https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. 关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知.

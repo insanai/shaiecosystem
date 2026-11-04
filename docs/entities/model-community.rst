@@ -5,6 +5,8 @@ Zhangjiang Model Community
 
 Incubator | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI.
+
 A Zhangjiang AI community identified in the municipal AI implementation plan. It links model developers and industry users. Ask the operator for the specific model, data and compute package and its reimbursement rules.
 
 `Evidence S002 <https://www.shanghai.gov.cn/202502bgtwj/20250220/77b163177e954e8c929f90ec43fc92b7.html>`_. 上海市人民政府办公厅印发《关于人工智能“模塑申城”的实施方案》的通知.

@@ -5,6 +5,8 @@ Grand neoBay / Zero Kilometer Incubator
 
 Incubator | Minhang | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Software AI.
+
 A university-linked commercialization route connecting early technology projects with incubation. SJTU documents the Zero Kilometer launch and its AI, integrated-circuit, manufacturing and low-carbon participants.
 
 `Evidence S003 <https://global.sjtu.edu.cn/hmt/news/view/1737>`_. Official Launch of the Zero Kilometer Incubator in Grand Neobay - 上海交通大学港澳台办公室.

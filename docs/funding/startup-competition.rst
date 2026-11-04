@@ -5,7 +5,7 @@ Competition | Citywide / global
 
 2026 call published; deadline check required
 
-`Evidence S075 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会.
+`Evidence S100 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会.
 
 Amount and mechanism
 --------------------

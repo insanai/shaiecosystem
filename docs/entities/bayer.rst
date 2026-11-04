@@ -5,9 +5,11 @@ Bayer Co.Lab Shanghai
 
 Corporate program | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Health, AI for Science.
+
 Bayer's September 2024 Shanghai site launch describes shared laboratories and office space for early biotech teams in SH-INNO Park. Confirm available residency and collaboration terms; the historic capacity is not a current vacancy count.
 
-`Evidence S054 <https://colab.bayer.com/en/page/co-lab-shanghai-en>`_. Bayer Co.Lab.
+`Evidence S071 <https://colab.bayer.com/en/page/co-lab-shanghai-en>`_. Bayer Co.Lab.
 
 Status and support
 ------------------

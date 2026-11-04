@@ -5,6 +5,8 @@ East Hongqiao International Youth Innovation Center
 
 Incubator | Changning | Research checked 2026-11-04
 
+AI and industry focus: Software AI.
+
 Changning's official May 2026 account describes a hub for AI-enabled independent founders, combining incubation, AI services, talent support and global business resources. Confirm the current operator's selection and service terms.
 
 `Evidence S052 <https://english.shanghai.gov.cn/en-PressRelease/20260522/2052ca9d55084c329ebec8eec82848b8.html>`_. Press Release.

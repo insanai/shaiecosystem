@@ -34,11 +34,13 @@ Ask which current notice governs the project, whether registration and actual op
 Local organizations in this atlas
 ---------------------------------
 
-* :doc:`Zhangjiang Chongming Park </entities/chongming-park>`
+* :doc:`Zhangjiang Chongming Park </entities/chongming-park>` (张江高新区崇明园 · Technology park · Climate, Agriculture) — The 2025-2026 reform plan sets a framework for ecological innovation. We use the district authority for matching smart agriculture, ecological sensing and marine technology projects to a concrete carrier. [Status: Published entity; intake to confirm]
+* :doc:`Chongming Enterprise Technology Center & Eco-Innovation Route </entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Research platform · Climate, Agriculture, Industry) — Coordinated by the Chongming Economic Commission (14th batch call issued in May 2026) alongside district science authorities to support enterprise R&D centers in ecological tech, green manufacturing and smart agriculture. [Status: Published entity; intake to confirm]
 
 Funding routes
 --------------
 
-* :doc:`Chongming early-stage enterprise development subsidy, 2026 </funding/chongming-startup-2026>`
+* :doc:`Chongming early-stage enterprise development subsidy, 2026 </funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Grant · No equity) — Up to RMB 100,000 for an assessed excellent qualifying early-stage project. Status: Policy in force; call not confirmed open. Timing: Policy: 1 August to 31 December 2026, with qualifying cases since 1 January; confirm intake.
+* :doc:`Chongming Entrepreneurship and Innovation Competition & Policy Support, 2026 </funding/chongming-competition-2026>` (2026崇明区创业创新大赛与联动扶持 · Competition · Award / investment terms vary) — Competition awards plus priority routing to district startup subsidies, carrier incubation and guaranteed loans. Status: 2026 competition published; track intake to confirm. Timing: Implementation plan issued 20 August 2026; check track schedule.
 
 :doc:`Also compare citywide funding </funding>`

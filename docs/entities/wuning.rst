@@ -5,6 +5,8 @@ Wuning Science Park
 
 Technology park | Putuo | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Industry.
+
 An industrial research and testing environment operated by the Shanghai Electrical Apparatus Research Institute group. Robot and industrial-internet testing are useful entry points for hardware validation.
 
 `Evidence S013 <https://www.shpt.gov.cn/ys-cyyq/20260430/969703.html>`_. 上海武宁科技园_创业园区_上海市普陀区人民政府.

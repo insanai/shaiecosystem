@@ -5,6 +5,8 @@ Plug and Play China, Shanghai
 
 Accelerator | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI, Mobility.
+
 The operator lists its Yangtze River Delta innovation center at Zhangjiang Guochuang Center. Corporate innovation, office space and venture investment have different admission and commercial terms.
 
 `Evidence S011 <https://admin.pnpchina.com/about/office-space/>`_. Plug and Play 中国—科技创新加速器与投资机构，专注创新生态服务和开放式创新.

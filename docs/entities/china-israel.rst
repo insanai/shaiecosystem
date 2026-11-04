@@ -5,6 +5,8 @@ China-Israel Innovation Hub, Shanghai
 
 Technology park | Putuo | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI.
+
 A district-listed carrier for international collaboration in intelligent manufacturing, AI, robotics and information technology. It supports market, capital and industrial connections; the listing does not guarantee cash support.
 
 `Evidence S014 <https://www.shpt.gov.cn/zhengwu/jjfz-czzzdgz/2024/106/170391.html>`_. 普陀区区级创业孵化基地基本情况汇总表-上海普陀.

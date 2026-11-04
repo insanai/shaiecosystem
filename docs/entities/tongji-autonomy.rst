@@ -5,6 +5,8 @@ Tongji Autonomous Intelligent Unmanned Systems Center
 
 Research platform | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Mobility.
+
 A research collaboration route for autonomous systems. The published office contact is in Zhangjiang. A technical proposal should identify the platform, experiment, data and proposed industrial partner.
 
 `Evidence S032 <https://srias.tongji.edu.cn/17839/list.htm>`_. 联系我们.

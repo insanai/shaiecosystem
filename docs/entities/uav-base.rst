@@ -5,6 +5,8 @@ East China UAV Base
 
 Technology park | Jinshan | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Drones.
+
 The Jinshan park plan includes test-flight services and a low-altitude incubation platform. Airspace, testing and airworthiness services require separate confirmation from physical workspace.
 
 `Evidence S023 <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. 金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知.

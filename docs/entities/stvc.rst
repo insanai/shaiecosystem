@@ -5,6 +5,8 @@ Shanghai STVC Group
 
 Investor | Citywide / global | Research checked 2026-11-04
 
+AI and industry focus: Chips, Health, Software AI.
+
 An established science and technology investment group within Shanghai's state-capital ecosystem. Use its official portfolio and manager information to identify the appropriate investment vehicle and stage.
 
 `Evidence S047 <https://www.shstvc.com.cn/en/>`_. Shanghai Science & Technology Venture Capital (Group) Co., Ltd..

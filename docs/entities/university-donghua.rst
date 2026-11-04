@@ -5,9 +5,13 @@ Donghua University
 
 University | Songjiang | Research checked 2026-11-04
 
+Ministry of Education institution code: 4131010255.
+
 Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Advanced fibers, materials, design, smart textiles. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.
 
-`Evidence S060 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
+`Evidence S082 <https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_. .
+
+`Evidence S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
 
 Status and support
 ------------------
@@ -19,7 +23,7 @@ No standard cash award, fee waiver or equity percentage is verified for this ent
 Contact and location
 --------------------
 
-Official university website; request the technology-transfer, research cooperation or entrepreneurship office
+Donghua University research cooperation and advanced materials transfer route
 
 `Official website / intake route <https://www.dhu.edu.cn/>`_
 

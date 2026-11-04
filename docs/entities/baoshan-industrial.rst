@@ -5,6 +5,8 @@ Baoshan Industrial Park
 
 Technology park | Baoshan | Research checked 2026-11-04
 
+AI and industry focus: Industry, Hardware AI.
+
 The park committee publishes an official contact and provides industrial admission, project attraction, policy coordination and business services. This is a separate park from the Gucun robot industrial park.
 
 `Evidence S020 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. 信息公开机构_上海市宝山区人民政府门户网站.

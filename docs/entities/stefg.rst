@@ -5,6 +5,8 @@ STEFG Angel Fund
 
 Investor | Yangpu | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI, Industry.
+
 The foundation offers distinct interest-free loan and temporary equity support routes for eligible Chinese university entrepreneurs. Nationality, age, ownership, full-time work and company age conditions apply.
 
 `Evidence S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会.

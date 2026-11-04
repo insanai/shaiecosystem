@@ -5,7 +5,7 @@ Competition | Citywide / global
 
 2026 competition published; track intake to confirm
 
-`Evidence S076 <https://www.hello-sh.com/haijuTalent/competition>`_. 海聚英才官网.
+`Evidence S101 <https://www.hello-sh.com/haijuTalent/competition>`_. 海聚英才官网.
 
 Amount and mechanism
 --------------------

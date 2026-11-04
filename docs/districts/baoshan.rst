@@ -5,7 +5,7 @@ Robotics, advanced equipment and industrial deployment
 
 The district is developing a robotics and advanced equipment cluster. Separate industrial-park admission and district support reviews are needed; a factory demonstration is not a startup funding call.
 
-`Evidence S066 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律.
+`Evidence S092 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律.
 
 Who receives the inquiry
 ------------------------
@@ -34,12 +34,12 @@ Ask which current notice governs the project, whether registration and actual op
 Local organizations in this atlas
 ---------------------------------
 
-* :doc:`Shanghai Robot Industrial Park </entities/robot-park>`
-* :doc:`Baoshan Industrial Park </entities/baoshan-industrial>`
+* :doc:`Shanghai Robot Industrial Park </entities/robot-park>` (上海机器人产业园 · Technology park · Hardware AI, Robotics) — A robotics industrial park in Gucun, Baoshan. Suitable for industrial robotics supply chains and deployment; we distinguish it from ABB facilities in Pudong and from the broader Baoshan industrial park. [Status: Published entity; intake to confirm]
+* :doc:`Baoshan Industrial Park </entities/baoshan-industrial>` (宝山工业园区 · Technology park · Industry, Hardware AI) — The park committee publishes an official contact and provides industrial admission, project attraction, policy coordination and business services. This is a separate park from the Gucun robot industrial park. [Status: Published entity; intake to confirm]
 
 Funding routes
 --------------
 
-* :doc:`Baoshan pre-investment / later equity project call </funding/baoshan-conversion>`
+* :doc:`Baoshan pre-investment / later equity project call </funding/baoshan-conversion>` (宝山先投后股项目征集 · Convertible support · Potential equity conversion; review contract) — Amount and conversion terms require the actual project guide and agreement. Status: Closed. Timing: Closed 10 February 2026.
 
 :doc:`Also compare citywide funding </funding>`

@@ -5,7 +5,7 @@ Equity investment | Jiading
 
 Fund announced; deal intake to confirm
 
-`Evidence S093 <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading launches 800m-yuan future industry fund.
+`Evidence S118 <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading launches 800m-yuan future industry fund.
 
 Amount and mechanism
 --------------------

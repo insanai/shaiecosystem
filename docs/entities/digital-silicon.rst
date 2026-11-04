@@ -5,6 +5,8 @@ Digital Silicon Alley / Hongqiao innovation carriers
 
 Incubator | Changning | Research checked 2026-11-04
 
+AI and industry focus: Software AI.
+
 Changning identifies a layered group of digital incubation and OPC communities. We treat this record as a district routing entry, not a single interchangeable operator or a guaranteed free-workspace offer.
 
 `Evidence S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. 上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路.

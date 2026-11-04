@@ -5,6 +5,8 @@ G60松江信创产业园
 
 Technology park | Songjiang | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Chips.
+
 An officially profiled industrial park for domestic information-technology innovation. For an AI infrastructure team, establish compatibility requirements, lab access and real customer demand before choosing space.
 
 `Evidence S021 <https://english.shanghai.gov.cn/en-SpecialIndustrialParks/20240202/1367184b6c5547f0a5cd0572f3951b9b.html>`_. G60 Songjiang Xinchuang Industrial Park.

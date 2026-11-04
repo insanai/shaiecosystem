@@ -5,9 +5,15 @@ Shanghai University
 
 University | Jing'an | Research checked 2026-11-04
 
+Ministry of Education institution code: 4131010280.
+
 Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Manufacturing, robotics, materials, digital media. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.
 
-`Evidence S061 <https://sustp.shu.edu.cn/>`_. 上海大学科技园区.
+`Evidence S084 <https://sustp.shu.edu.cn/>`_. 上海大学科技园区.
+
+`Evidence S085 <https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm>`_. 基地与成果处-上海大学科研管理部.
+
+`Evidence S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
 
 Status and support
 ------------------
@@ -19,7 +25,7 @@ No standard cash award, fee waiver or equity percentage is verified for this ent
 Contact and location
 --------------------
 
-Shanghai University Science Park
+Shanghai University Science Park & Research Base/Achievements Division
 
 `Official website / intake route <https://www.shu.edu.cn/>`_
 

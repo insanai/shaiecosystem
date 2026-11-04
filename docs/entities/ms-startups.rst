@@ -5,6 +5,8 @@ Microsoft for Startups
 
 Global program | Citywide / global | Research checked 2026-11-04
 
+AI and industry focus: Software AI.
+
 The current program provides Azure-related startup resources through online application. We do not transfer historic Shanghai accelerator terms or global credit ceilings to China-region accounts. Validate the legal entity and region first.
 
 `Evidence S041 <https://learn.microsoft.com/en-us/startups/overview>`_. What is Microsoft for Startups? | Microsoft Learn.

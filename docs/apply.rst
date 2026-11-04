@@ -19,6 +19,8 @@ The shared data room
 
 Company: business licence, unified social credit code, articles, cap table, beneficial ownership, bank details, registered and operating addresses, prior public awards and related-party list. Team: founder roles, full-time commitment, relevant education, eligibility evidence and lawful work status where required.
 
+For international founders and overseas returnees, Shanghai publishes dedicated guidance for Foreigner's Work Permit (Category A/B) applications during the startup phase, Overseas Talent Residence Permits, and the 2026 Regulations Encouraging Overseas Returnees to Work and Start Businesses in Shanghai. Confirm host-park endorsement and immigration requirements separately from grant eligibility.
+
 Technology: product note, demo, evaluation, IP ownership and licences, patent and software records, data rights, security controls and sector approvals where applicable. Commercial: pilot evidence, customer references, pricing, procurement path and unit economics. Finance: management accounts, annual audit where required, R&D ledger, contracts, invoices and payment evidence.
 
 Four different decisions
@@ -36,3 +38,7 @@ An accelerator's four-week field program
 Week 1: shortlist two districts, one research partner and two operators using sector fit and written eligibility. Week 2: meet the operator and a plausible buyer; inspect facilities. Week 3: define one pilot and a costed evidence plan. Week 4: submit the relevant application or investment pack and record the next decision date. This is an editorial planning model, not an official service promise.
 
 We maintain an application ledger with owner, authority, policy version, evidence period, deadline in China Standard Time, submission receipt, duplicate-funding exclusions, reporting duty and next action. A calendar alert is useful only after the correct deadline and timezone have been confirmed.
+
+`Evidence S130 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest.
+
+`Evidence S131 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知.

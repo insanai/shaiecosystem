@@ -5,6 +5,8 @@ Huangpu ChuangKa
 
 Incubator | Huangpu | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Consumer.
+
 A youth entrepreneurship service route described by Shanghai HRSS, including up to six months of free workstations in the reported offer. Current capacity, applicant eligibility and additional subsidies must be checked separately.
 
 `Evidence S027 <https://rsj.sh.gov.cn/thp_17092/20251209/t0035_1437331.html>`_. 创卡搭子齐发力！黄浦创业服务进校园，书写校地协同新篇章_黄浦_上海市人力资源和社会保障局.

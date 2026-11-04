@@ -5,6 +5,8 @@ ATLATL飞镖张江中心
 
 Incubator | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Health, AI for Science.
+
 A shared research and incubation environment in Zhangjiang Pharma Valley. Laboratory services and its innovation seed-fund relationships are relevant to AI-enabled biology; access and investment are negotiated separately.
 
 `Evidence S007 <https://www.atlatl.center/about/locations/>`_. Locations - ATLATL.

@@ -5,9 +5,13 @@ Shanghai University of Engineering Science
 
 University | Songjiang | Research checked 2026-11-04
 
+Ministry of Education institution code: 4131010856.
+
 Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Engineering, mobility, manufacturing, design. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.
 
-`Evidence S060 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
+`Evidence S086 <https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_. 上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号.
+
+`Evidence S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
 
 Status and support
 ------------------
@@ -19,7 +23,7 @@ No standard cash award, fee waiver or equity percentage is verified for this ent
 Contact and location
 --------------------
 
-Official university website; request the technology-transfer, research cooperation or entrepreneurship office
+SUES university-industry engineering cooperation and entrepreneurship service route
 
 `Official website / intake route <https://www.sues.edu.cn/>`_
 

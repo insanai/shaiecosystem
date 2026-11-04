@@ -5,7 +5,7 @@ Foundation models, chips, biomedicine and advanced manufacturing
 
 2026 AI application call closed on 31 August 2026. The published route covers qualifying 2025 model and agent expenditure; duplicate public funding is excluded.
 
-`Evidence S063 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件.
+`Evidence S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件.
 
 Who receives the inquiry
 ------------------------
@@ -34,48 +34,50 @@ Ask which current notice governs the project, whether registration and actual op
 Local organizations in this atlas
 ---------------------------------
 
-* :doc:`Zhangjiang Model Community </entities/model-community>`
-* :doc:`Zhangjiang Hi-Tech 895 Incubator </entities/895>`
-* :doc:`ATLATL Zhangjiang Center </entities/atlatl>`
-* :doc:`Nest.Bio Shanghai Innovation Platform </entities/nestbio>`
-* :doc:`XNode </entities/xnode>`
-* :doc:`Plug and Play China, Shanghai </entities/plugplay>`
-* :doc:`PwC x Zhangjiang Healthcare Accelerator </entities/pwc>`
-* :doc:`Lin-gang Science and Innovation City </entities/lin-gang>`
-* :doc:`Shanghai IC Design Industrial Park </entities/ic-design>`
-* :doc:`Shanghai Integrated Circuit Technology and Industry Promotion Center </entities/icc>`
-* :doc:`Tongji Autonomous Intelligent Unmanned Systems Center </entities/tongji-autonomy>`
-* :doc:`Roche Accelerator </entities/roche>`
-* :doc:`SAP.iO Foundry Shanghai </entities/sapio>`
-* :doc:`ABB open innovation / Shanghai robotics </entities/abb>`
-* :doc:`DroidUp Ecosystem Accelerator </entities/droidup>`
-* :doc:`Shanghai AI Public Technology Service Platform </entities/paddle>`
-* :doc:`Pudong AI Seed Fund </entities/pudong-seed>`
-* :doc:`Shanghai Embodied AI Fund </entities/embodied-fund>`
-* :doc:`Qiming Venture Partners </entities/qiming>`
-* :doc:`JLABS Shanghai </entities/jlabs>`
-* :doc:`Bayer Co.Lab Shanghai </entities/bayer>`
-* :doc:`Shanghai Maritime University </entities/university-maritime>`
-* :doc:`Shanghai University of Electric Power </entities/university-electric-power>`
-* :doc:`Shanghai University of Medicine and Health Sciences </entities/university-sumhs>`
-* :doc:`Shanghai Ocean University </entities/university-ocean>`
-* :doc:`Shanghai University of Traditional Chinese Medicine </entities/university-tcm>`
-* :doc:`Shanghai Customs University </entities/university-customs>`
-* :doc:`Shanghai Police College </entities/university-police>`
-* :doc:`Shanghai Lixin University of Accounting and Finance </entities/university-lixin>`
-* :doc:`Shanghai DianJi University </entities/university-dianji>`
-* :doc:`Sanda University </entities/university-sanda>`
-* :doc:`Shanghai Polytechnic University </entities/university-polytechnic>`
-* :doc:`Shanghai Jian Qiao University </entities/university-jianqiao>`
-* :doc:`Shanghai Xing Wei College </entities/university-xingwei>`
-* :doc:`ShanghaiTech University </entities/university-shanghaitech>`
-* :doc:`NYU Shanghai </entities/university-nyu>`
+* :doc:`Zhangjiang Model Community </entities/model-community>` (张江模力社区 · Incubator · Software AI, Hardware AI) — A Zhangjiang AI community identified in the municipal AI implementation plan. It links model developers and industry users. Ask the operator for the specific model, data and compute package and its reimbursement rules. [Status: Published entity; intake to confirm]
+* :doc:`Zhangjiang Hi-Tech 895 Incubator </entities/895>` (张江高科895孵化器 · Incubator · Hardware AI, Chips) — A deep-technology incubator with chip-testing and industrialization context in Zhangjiang. Incubation and the associated angel investment pathway must be reviewed as different agreements. [Status: Published entity; intake to confirm]
+* :doc:`ATLATL Zhangjiang Center </entities/atlatl>` (ATLATL飞镖张江中心 · Incubator · Health, AI for Science) — A shared research and incubation environment in Zhangjiang Pharma Valley. Laboratory services and its innovation seed-fund relationships are relevant to AI-enabled biology; access and investment are negotiated separately. [Status: Published entity; intake to confirm]
+* :doc:`Nest.Bio Shanghai Innovation Platform </entities/nestbio>` (巢生上海创新孵化平台 · Incubator · Health, AI for Science) — Recognized in the December 2025 high-quality incubation expansion, with synthetic biology and cell and gene therapy interests. Confirm current Shanghai facilities, admission and laboratory pricing with the operator. [Status: Published entity; intake to confirm]
+* :doc:`XNode </entities/xnode>` (创极无限XNode · Accelerator · Software AI, Industry) — A cross-border innovation operator supporting market entry, corporate partnerships and pilots. Its Shanghai office is a useful intake route for international teams. Scope, fees, deliverables and investment should be stated separately. [Status: Published entity; intake to confirm]
+* :doc:`Plug and Play China, Shanghai </entities/plugplay>` (璞跃中国上海中心 · Accelerator · Software AI, Hardware AI, Mobility) — The operator lists its Yangtze River Delta innovation center at Zhangjiang Guochuang Center. Corporate innovation, office space and venture investment have different admission and commercial terms. [Status: Published entity; intake to confirm]
+* :doc:`PwC x Zhangjiang Healthcare Accelerator </entities/pwc>` (普华永道张江数字医疗加速营 · Accelerator · Health, Software AI) — PwC describes a digital healthcare acceleration initiative supported by Pudong and Zhangjiang. The evidence establishes the initiative; a currently accepting cohort and its commercial terms require confirmation. [Status: Published entity; intake to confirm]
+* :doc:`Lin-gang Science and Innovation City </entities/lin-gang>` (临港科创城 · Technology park · Hardware AI, Chips, Software AI) — The January 2026 plan identifies Dishui Lake AI and IC innovation ports and staged development targets. Lin-gang is a functional area, not Shanghai's seventeenth district. Establish the administering boundary before seeking incentives. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai IC Design Industrial Park </entities/ic-design>` (上海集成电路设计产业园 · Technology park · Chips, Hardware AI) — A Zhangjiang chip design ecosystem connecting design and industrial services. A strong starting point for AI chip teams, with specific EDA, IP, tape-out, packaging and testing access negotiated with providers. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Integrated Circuit Technology and Industry Promotion Center </entities/icc>` (上海集成电路技术与产业促进中心 · Research platform · Chips, Hardware AI) — An IC technical-service entry point that also publishes innovation-voucher guidance. Eligible voucher-covered services are selected on the official platform; a voucher is not a general equipment purchase budget. [Status: Published entity; intake to confirm]
+* :doc:`Tongji Autonomous Intelligent Unmanned Systems Center </entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Research platform · Hardware AI, Mobility) — A research collaboration route for autonomous systems. The published office contact is in Zhangjiang. A technical proposal should identify the platform, experiment, data and proposed industrial partner. [Status: Published entity; intake to confirm]
+* :doc:`Roche Accelerator </entities/roche>` (罗氏加速器 · Corporate program · Health, AI for Science) — Roche describes its Shanghai innovation accelerator for the China ecosystem. Relevant to healthcare and AI-enabled discovery teams. Scientific fit, space, collaboration, funding and IP terms are distinct questions. [Status: Published entity; intake to confirm]
+* :doc:`SAP.iO Foundry Shanghai </entities/sapio>` (SAP.iO上海加速器 · Corporate program · Software AI, Industry) — The 2021 launch described an equity-free intelligent-manufacturing accelerator. It is included as a historical corporate route; the source does not establish a 2026 Shanghai intake. [Status: Historical / confirm continuation]
+* :doc:`ABB open innovation / Shanghai robotics </entities/abb>` (ABB开放创新／上海机器人生态 · Corporate program · Hardware AI, Robotics) — ABB publishes open-innovation and startup collaboration routes. Its May 2025 Shanghai AI event is evidence of ecosystem activity, not an always-open startup accelerator cohort. Propose a measurable robotics use case. [Status: Published entity; intake to confirm]
+* :doc:`DroidUp Ecosystem Accelerator </entities/droidup>` (卓益得生态加速器 · Corporate program · Hardware AI, Robotics) — The December 2025 Zhangjiang Robot Valley account reports the accelerator launch. We include it as a robotics industry route and require direct confirmation of intake, pilot access, investment and hardware resources. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai AI Public Technology Service Platform </entities/paddle>` (上海人工智能公共技术服务平台 · Corporate program · Software AI) — The PaddlePaddle-linked platform publishes AI training and ecosystem resources. Explore its technical services and developer events; confirm whether a specific training or compute offer carries fees. [Status: Published entity; intake to confirm]
+* :doc:`Pudong AI Seed Fund </entities/pudong-seed>` (浦东人工智能种子基金 · Investor · Software AI, Hardware AI) — Announced in July 2025 at a target size of RMB 2 billion and an initial RMB 500 million tranche. The figure is fund scale, not a per-startup cheque. Seek the manager through Pudong's official ecosystem route. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Embodied AI Fund </entities/embodied-fund>` (上海具身智能基金 · Investor · Hardware AI, Robotics, Sensors) — A state-backed embodied-intelligence investment route announced in April 2025, including core components and edge chips. Confirm the current manager and investment mandate; no uniform cheque size or ownership percentage is established here. [Status: Published entity; intake to confirm]
+* :doc:`Qiming Venture Partners </entities/qiming>` (启明创投 · Investor · Software AI, Health, Hardware AI) — A venture-capital contact route with a published Shanghai office. Send a concise investment case and confirm sector and stage fit. The general contact inbox is not a guarantee of an investment review. [Status: Published entity; intake to confirm]
+* :doc:`Zhangjiang AI Innovation Town </entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · Technology park · Software AI, Hardware AI, AI for Science) — A 2-square-kilometer core zone in Zhangjiang Science City with 700,000 sqm of industrial space, spatiotemporal digital infrastructure and linked compute, model and corpus vouchers. Confirm whether the company's registered and operating address falls inside the designated town boundary. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Integrated Circuit R&D Center </entities/icrd>` (上海集成电路研发中心 · Research platform · Chips, Hardware AI) — A shared integrated-circuit research and engineering platform in Zhangjiang supporting process development, device verification and IP testing. Request a technical scoping review and written quotation for wafer or testing runs. [Status: Published entity; intake to confirm]
+* :doc:`JLABS Shanghai </entities/jlabs>` (强生创新JLABS上海 · Corporate program · Health, AI for Science) — An operator-listed life-sciences incubation site in Zhangjiang with an application route. For AI-enabled healthcare, clarify scientific fit, laboratory requirements, residency pricing, IP and any separate challenge or investment terms. [Status: Published entity; intake to confirm]
+* :doc:`Bayer Co.Lab Shanghai </entities/bayer>` (拜耳Co.Lab上海 · Corporate program · Health, AI for Science) — Bayer's September 2024 Shanghai site launch describes shared laboratories and office space for early biotech teams in SH-INNO Park. Confirm available residency and collaboration terms; the historic capacity is not a current vacancy count. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Maritime University </entities/university-maritime>` (上海海事大学 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Shipping, logistics, autonomous maritime systems. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai University of Electric Power </entities/university-electric-power>` (上海电力大学 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Energy systems, grid intelligence, industrial control. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai University of Medicine and Health Sciences </entities/university-sumhs>` (上海健康医学院 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Health devices, diagnostics, clinical applications. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Ocean University </entities/university-ocean>` (上海海洋大学 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Marine science, aquaculture, smart agriculture. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai University of Traditional Chinese Medicine </entities/university-tcm>` (上海中医药大学 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Healthcare, drug discovery, medical data. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Customs University </entities/university-customs>` (上海海关学院 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Customs, trade processes, compliance systems. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Police College </entities/university-police>` (上海公安学院 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Public-safety education; external project access unverified. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Lixin University of Accounting and Finance </entities/university-lixin>` (上海立信会计金融学院 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Accounting systems, fintech, business analytics. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai DianJi University </entities/university-dianji>` (上海电机学院 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Electrical equipment, advanced manufacturing. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Sanda University </entities/university-sanda>` (上海杉达学院 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Applied digital business and talent partnerships. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Polytechnic University </entities/university-polytechnic>` (上海第二工业大学 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Applied engineering, electronics, manufacturing. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Jian Qiao University </entities/university-jianqiao>` (上海建桥学院 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Applied engineering, digital media, business. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Xing Wei College </entities/university-xingwei>` (上海兴伟学院 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Interdisciplinary education and entrepreneurship conversations. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`ShanghaiTech University </entities/university-shanghaitech>` (上海科技大学 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Chips, software AI, scientific instruments, biotech. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
+* :doc:`NYU Shanghai </entities/university-nyu>` (上海纽约大学 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Data science, computation and international research. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
 
 Funding routes
 --------------
 
-* :doc:`Pudong AI model and agent application support, 2026 </funding/pudong-model>`
-* :doc:`Pudong AI Seed Fund </funding/pudong-equity>`
-* :doc:`Zhangjiang AI Town compute, model and corpus support </funding/zhangjiang-ai-vouchers>`
+* :doc:`Pudong AI model and agent application support, 2026 </funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · Reimbursement · No equity) — Support rate and amount subject to applicable implementing rules. Status: Closed. Timing: Closed 31 Aug 2026, 16:00 China Standard Time.
+* :doc:`Pudong AI Seed Fund </funding/pudong-equity>` (浦东人工智能种子基金 · Equity investment · Negotiated equity) — Fund target RMB 2bn; first tranche RMB 500m; individual cheque not established. Status: Fund announced; deal intake to confirm. Timing: Manager-led sourcing and due diligence.
+* :doc:`Zhangjiang AI Town compute, model and corpus support </funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Reimbursement · No equity) — Up to 100% of approved actual cost, capped at RMB 1m in each category; at most one year. Status: Quarterly scheme published; current intake to confirm. Timing: Quarterly claims; confirm the current batch.
 
 :doc:`Also compare citywide funding </funding>`

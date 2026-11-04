@@ -5,6 +5,8 @@ Zhangjiang Chongming Park
 
 Technology park | Chongming | Research checked 2026-11-04
 
+AI and industry focus: Climate, Agriculture.
+
 The 2025-2026 reform plan sets a framework for ecological innovation. We use the district authority for matching smart agriculture, ecological sensing and marine technology projects to a concrete carrier.
 
 `Evidence S025 <https://www.shanghai.gov.cn/nw12344/20250512/98a1bb8a73c54cb785296ad1835845e1.html>`_. 崇明区人民政府关于印发《张江高新区崇明园改革创新发展行动方案（2025-2026年）》的通知.

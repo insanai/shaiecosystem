@@ -5,6 +5,8 @@ Zhangjiang Hongkou Park / Beikechuang
 
 Technology park | Hongkou | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Industry.
+
 The park plan gives Beikechuang a coordinating role in incubation, technology transfer and investment services. Request the relevant sub-park and named operating company for a project-specific response.
 
 `Evidence S026 <https://www.shanghai.gov.cn/tszczq-cxcyqj7/20251119/b3f4914652a443c89bd1d1bd1320021d.html>`_. 虹口区人民政府关于印发 《张江高新区虹口园改革创新发展行动方案（2025—2026年）》的通知.

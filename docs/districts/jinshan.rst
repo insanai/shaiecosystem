@@ -34,12 +34,13 @@ Ask which current notice governs the project, whether registration and actual op
 Local organizations in this atlas
 ---------------------------------
 
-* :doc:`East China UAV Base </entities/uav-base>`
-* :doc:`Jinshan New Materials Incubator </entities/jinshan-materials>`
-* :doc:`Shanghai Zhongqiao Vocational and Technical University </entities/university-zhongqiao>`
+* :doc:`East China UAV Base </entities/uav-base>` (华东无人机基地 · Technology park · Hardware AI, Drones) — The Jinshan park plan includes test-flight services and a low-altitude incubation platform. Airspace, testing and airworthiness services require separate confirmation from physical workspace. [Status: Published entity; intake to confirm]
+* :doc:`Jinshan New Materials Incubator </entities/jinshan-materials>` (金山新材料孵化器 · Incubator · Materials, Hardware AI) — A materials incubation route linked to Carbon Valley Green Bay. Relevant to sensors, electronic materials and manufacturing inputs; specify process equipment and environmental constraints in the inquiry. [Status: Published entity; intake to confirm]
+* :doc:`Shanghai Zhongqiao Vocational and Technical University </entities/university-zhongqiao>` (上海中侨职业技术大学 · University) — Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Vocational undergraduate engineering and applied skills. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding. [Status: Published entity; intake to confirm]
 
 Funding routes
 --------------
 
+* :doc:`Zhangjiang Jinshan Park low-altitude UAV and new materials support </funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Grant / reimbursement · No equity) — Policy-specific R&D, carrier incubation, testing-service and industrialization support under the 2025-2026 park action plan. Status: Policy in force; call not confirmed open. Timing: Policy: 2025 to 2026 action plan; confirm current implementing batch.
 
 :doc:`Also compare citywide funding </funding>`

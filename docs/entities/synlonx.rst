@@ -5,6 +5,8 @@ Synlonx Brain-Computer Interface Incubator
 
 Incubator | Minhang | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Health.
+
 A brain-computer interface incubation platform launched in Huacao. Suitable conversations include electrodes, neural interfaces, sensing, rehabilitation and translational engineering; wet-lab and device requirements need explicit confirmation.
 
 `Evidence S005 <https://www.shanghai.gov.cn/nw15343/20250714/38d480e4573a49778830ea605991e599.html>`_. 脑机接口产业注入新动能，司南脑机智能超级孵化器在闵行华漕镇启动丨投资前湾.

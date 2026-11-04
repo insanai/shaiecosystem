@@ -5,6 +5,8 @@ Fuxing Island maker / OPC communities
 
 Incubator | Yangpu | Research checked 2026-11-04
 
+AI and industry focus: Software AI.
+
 A May 2026 district policy supports AI-enabled independent founders and maker communities. Ask for an approved community operator, the qualifying activity definition, housing conditions and any service or equity agreement.
 
 `Evidence S017 <https://www.shanghai.gov.cn/gwk/search/content/00772935>`_. 关于印发《关于支持打造OPC超级个体社区的若干措施》的通知.

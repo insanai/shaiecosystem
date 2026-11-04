@@ -5,9 +5,11 @@ JLABS Shanghai
 
 Corporate program | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Health, AI for Science.
+
 An operator-listed life-sciences incubation site in Zhangjiang with an application route. For AI-enabled healthcare, clarify scientific fit, laboratory requirements, residency pricing, IP and any separate challenge or investment terms.
 
-`Evidence S053 <https://jnjinnovation.com/locations/jlabs/jlabs-shanghai>`_. Incubator For Life Science Start-Ups, Shanghai, China | JLABS | Johnson & Johnson Innovation.
+`Evidence S070 <https://jnjinnovation.com/locations/jlabs/jlabs-shanghai>`_. Incubator For Life Science Start-Ups, Shanghai, China | JLABS | Johnson & Johnson Innovation.
 
 Status and support
 ------------------

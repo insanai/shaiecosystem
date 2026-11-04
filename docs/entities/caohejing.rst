@@ -5,6 +5,8 @@ Caohejing Development Zone
 
 Technology park | Xuhui | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI, Industry.
+
 The park operator publishes enterprise and intellectual-property service routes. Confirm the specific sub-park and operating address; the Caohejing name covers multiple development locations.
 
 `Evidence S049 <https://chj.shlingang.com/chj/yqfw/sclb/yszx/>`_. 漕河泾开发区.

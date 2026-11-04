@@ -5,6 +5,8 @@ Jinshan New Materials Incubator
 
 Incubator | Jinshan | Research checked 2026-11-04
 
+AI and industry focus: Materials, Hardware AI.
+
 A materials incubation route linked to Carbon Valley Green Bay. Relevant to sensors, electronic materials and manufacturing inputs; specify process equipment and environmental constraints in the inquiry.
 
 `Evidence S023 <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. 金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知.

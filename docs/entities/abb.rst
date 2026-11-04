@@ -5,6 +5,8 @@ ABB开放创新／上海机器人生态
 
 Corporate program | Pudong | Research checked 2026-11-04
 
+AI and industry focus: Hardware AI, Robotics.
+
 ABB publishes open-innovation and startup collaboration routes. Its May 2025 Shanghai AI event is evidence of ecosystem activity, not an always-open startup accelerator cohort. Propose a measurable robotics use case.
 
 `Evidence S036 <https://www.abb.com/global/en/company/innovation/open-innovation>`_. Open innovation | ABB.

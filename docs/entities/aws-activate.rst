@@ -5,6 +5,8 @@ AWS China Activate
 
 Global program | Citywide / global | Research checked 2026-11-04
 
+AI and industry focus: Software AI.
+
 A China-region startup offer with company, customer and participating investor or incubation relationship conditions. Credits offset eligible services; they are not cash and should not be confused with the separate global AWS offer.
 
 `Evidence S042 <https://www.amazonaws.cn/en/activate/>`_. Amazon Web Services Activate-Amazon Web Services China Region.

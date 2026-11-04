@@ -5,6 +5,8 @@ Yangtze River Delta AI+ Joint Innovation Center
 
 Corporate program | Qingpu | Research checked 2026-11-04
 
+AI and industry focus: Software AI, Hardware AI.
+
 An official July 2026 account records the center beginning operations in Qingpu. Confirm the operator, technical scope, Huawei ecosystem interface and actual startup admission before describing a benefit package.
 
 `Evidence S039 <https://english.shanghai.gov.cn/en-YangtzeRiverDeltaintegration/20260730/9bea754d5bbb45ddb5cf59194efffe9f.html>`_. Yangtze River Delta AI+ Joint Innovation Center begins operations_Yangtze River Delta integration: Connect • Innovate • Thrive.

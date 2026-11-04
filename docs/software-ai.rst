@@ -14,6 +14,8 @@ For model engineering and developer connections, begin with Model Speed Space, Z
 
 We treat foundation models, domain models, agents, multimodal systems, industrial software, evaluation, AI security and scientific software as different businesses. An accelerator that can introduce a manufacturer may not supply a regulated financial dataset or an inference contract.
 
+In central and western districts, Jing'an's Shibei Hi-Tech Park and Shutong Valley focus on big-data, blockchain and enterprise AI compliance; Huangpu pairs its five-year fintech clustering policy with the Entrepreneurship Companion mentor network; and Songjiang's 2026 Data Elements Special Fund supports corpus governance and AI data-space applications.
+
 Build the smallest credible pilot
 ---------------------------------
 
@@ -26,4 +28,4 @@ Before public deployment
 
 Define whether the service is an internal tool, a business-facing deployment or a public-facing generative service. Ask the relevant authority and a qualified adviser which model registration, algorithm filing, content labelling, data, sector and network requirements apply. Requirements attach to the actual service, not to an AI label on a pitch deck. This atlas supplies routing questions rather than an exhaustive legal procedure.
 
-`Evidence S079 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知.
+`Evidence S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知.
