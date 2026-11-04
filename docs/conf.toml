@@ -23,7 +23,7 @@ html_show_sphinx = true
 html_copy_source = false
 numfig = true
 pdf_paper_size = "a4"
-pdf_logo = "_static/atlas/shanghai-ink-cover.png"
+pdf_logo = "_static/atlas/shanghai-ink-dawn-book.png"
 pdf_packages = "download"
 pdf_fonts = "system"
 pdf_font_paths = ["_static/fonts", "fonts"]
@@ -34,7 +34,8 @@ accent = "#315b50"
 default_mode = "light"
 
 [html_context]
-assembled_site = true
+assembled_site = false
+atlas_site_url = "https://bettershanghai.com"
 atlas_languages = [
   {code = "en", tag = "en", name = "English", short = "EN", folder = "en"},
   {code = "zh_CN", tag = "zh-CN", name = "简体中文", short = "中文", folder = "zh-CN"},

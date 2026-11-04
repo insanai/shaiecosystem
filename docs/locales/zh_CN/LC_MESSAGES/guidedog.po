@@ -38,7 +38,7 @@ msgid "Incubation"
 msgstr "孵化与园区"
 
 msgid "Funding"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 msgid "How to apply"
 msgstr "申请指南"
@@ -62,7 +62,7 @@ msgid "possibility."
 msgstr "可能。"
 
 msgid "Where Shanghai's 16 administrative districts, 40 undergraduate universities, 125 innovation organizations and 45 funding pathways meet. A white-magnolia and Chinese ink-wash field guide from research to repeatable enterprise."
-msgstr "全覆盖上海16个行政区、40所本科院校、29所专科与12所成人高校、125家创新机构与45条资金路径。以上海市花白玉兰（Yulania denudata）与传统水墨淡彩为视觉灵感的创新生态双栖图谱。"
+msgstr "全覆盖上海16个行政区、40所本科院校、29所专科与12所成人高校、125家创新机构与45条融资与扶持渠道。以上海市花白玉兰（Yulania denudata）与传统水墨淡彩为视觉灵感的创新生态双栖图谱。"
 
 msgid "Shanghai coverage highlights"
 msgstr "上海空间与主题亮点"
@@ -116,7 +116,7 @@ msgid "organization routes"
 msgstr "研究机构与载体档案"
 
 msgid "funding pathways"
-msgstr "市区两级资金路径"
+msgstr "市区两级融资与扶持渠道"
 
 msgid "verified primary sources"
 msgstr "核验官方与机构来源"
@@ -134,7 +134,7 @@ msgid "THE MAGNOLIA PRINT EDITION / COMPLETE ILLUSTRATED PDF BOOK"
 msgstr "白玉兰水墨印刷版 · 免费下载完整PDF图书"
 
 msgid "Typeset in a generous 240 × 300 mm art-book format by Guidedog's embedded Typst engine, the PDF book contains every chapter, vector district map, architecture diagram, 125 organization profiles, 45 funding pathways, 81 higher-education registry entries and 133 cited sources for offline reading and field trips."
-msgstr "本书与网站同源共生，由 Guidedog 内置 Typst 引擎按 240 × 300 毫米大开本艺术图谱排版，完整收录全部章节、16区矢量地图、架构图解、125份机构档案、45条资金路径、81所高等教育机构名录与133项原始文献出处。"
+msgstr "本书与网站同源共生，由 Guidedog 内置 Typst 引擎按 240 × 300 毫米大开本艺术图谱排版，完整收录全部章节、16区矢量地图、架构图解、125份机构档案、45条融资与扶持渠道、81所高等教育机构名录与133项原始文献出处。"
 
 msgid "AUTHOR"
 msgstr "作者"
@@ -268,3 +268,30 @@ msgstr "由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ro
 msgid "Built with Guidedog."
 msgstr "使用 Guidedog 构建。"
 
+
+msgid "A city of possibility."
+msgstr "一座城市，无限可能。"
+
+msgid "Discover Shanghai's universities, AI communities and routes to startup funding."
+msgstr "探索上海的高校、人工智能社区，以及创业融资与扶持渠道。"
+
+msgid "Shanghai at dawn, painted in Chinese ink and color with white magnolias and pearl-like connections across the river."
+msgstr "彩墨描绘的上海晨景：白玉兰盛放，江面上以珍珠般的连线象征创新连接。"
+
+msgid "An illustrated field guide to Shanghai, available in seven languages."
+msgstr "七种语言呈现的上海创新生态插图指南。"
+
+msgid "The complete atlas, ready to take with us."
+msgstr "完整图谱，随时随行。"
+
+msgid "Every chapter, district map, organization profile and funding route, with sources, contacts and application steps for offline reading."
+msgstr "各章内容、行政区地图、机构档案及融资扶持渠道，附资料来源、联系方式与申请步骤，便于离线阅读。"
+
+msgid "Inspired by Shanghai's white magnolia and Chinese ink painting. Informed by official sources."
+msgstr "以市花白玉兰与中国水墨为灵感，以官方资料为依据。"
+
+msgid "Sources & reading room"
+msgstr "资料来源与延伸阅读"
+
+msgid "Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares."
+msgstr "比较补助、资源券、须偿还的贷款、股权投资及可能转股的支持。"

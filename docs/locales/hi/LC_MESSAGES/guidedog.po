@@ -8,10 +8,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Shanghai Ecosystem Atlas — Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog in HTML and PDF."
-msgstr "शंघाई इकोसिस्टम एटलस — Vikrant Rathore द्वारा लिखित, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore और Emily Yue Xu के योगदान के साथ। Guidedog द्वारा HTML और PDF में निर्मित।"
+msgstr "शंघाई इनोवेशन इकोसिस्टम गाइड — Vikrant Rathore द्वारा लिखित, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore और Emily Yue Xu के योगदान के साथ। Guidedog द्वारा HTML और PDF में निर्मित।"
 
 msgid "Shanghai Ecosystem Atlas"
-msgstr "शंघाई इकोसिस्टम एटलस"
+msgstr "शंघाई इनोवेशन इकोसिस्टम गाइड"
 
 msgid "Skip to content"
 msgstr "मुख्य सामग्री पर जाएँ"
@@ -125,7 +125,7 @@ msgid "Download the Complete Illustrated PDF Book"
 msgstr "संपूर्ण सचित्र PDF पुस्तक डाउनलोड करें"
 
 msgid "Shanghai Ecosystem Atlas PDF Book Cover"
-msgstr "शंघाई इकोसिस्टम एटलस PDF पुस्तक आवरण"
+msgstr "शंघाई इनोवेशन इकोसिस्टम गाइड PDF पुस्तक आवरण"
 
 msgid "WHITE MAGNOLIA EDITION"
 msgstr "श्वेत मैग्नोलिया संस्करण"
@@ -191,7 +191,7 @@ msgid "Sixteen districts, sixteen entry routes"
 msgstr "सोलह ज़िले, सोलह प्रवेश मार्ग"
 
 msgid "District-by-district specialization, receiving authorities, local carriers and district funding calls."
-msgstr "प्रत्येक ज़िले की विशेषज्ञता, नोडल प्राधिकरण, स्थानीय कैरियर और ज़िला स्तरीय फंडिंग।"
+msgstr "प्रत्येक ज़िले की विशेषज्ञता, नोडल प्राधिकरण, स्थानीय स्टार्टअप सहायता केंद्र और ज़िला स्तरीय फंडिंग।"
 
 msgid "UNIVERSITIES & LABS"
 msgstr "विश्वविद्यालय और प्रयोगशालाएँ"
@@ -268,3 +268,30 @@ msgstr "Vikrant Rathore द्वारा लिखित, Lauren Zhao, Vicky N
 msgid "Built with Guidedog."
 msgstr "Guidedog से बनाया गया।"
 
+
+msgid "A city of possibility."
+msgstr "एक शहर, अनगिनत संभावनाएँ।"
+
+msgid "Discover Shanghai's universities, AI communities and routes to startup funding."
+msgstr "शंघाई के विश्वविद्यालयों, AI समुदायों और स्टार्टअप के लिए वित्तीय सहायता के विकल्पों को जानें।"
+
+msgid "Shanghai at dawn, painted in Chinese ink and color with white magnolias and pearl-like connections across the river."
+msgstr "चीनी स्याही और रंगों में बना भोर का शंघाई, सफेद मैग्नोलिया और नदी पर मोतियों जैसी जुड़ी रोशनी के साथ।"
+
+msgid "An illustrated field guide to Shanghai, available in seven languages."
+msgstr "सात भाषाओं में उपलब्ध शंघाई की सचित्र मार्गदर्शिका।"
+
+msgid "The complete atlas, ready to take with us."
+msgstr "पूरी गाइड, हर सफ़र में साथ।"
+
+msgid "Every chapter, district map, organization profile and funding route, with sources, contacts and application steps for offline reading."
+msgstr "ऑफ़लाइन पढ़ने के लिए सभी अध्याय, ज़िलों के मानचित्र, संस्थानों की जानकारी और वित्तीय सहायता के विकल्प, स्रोतों, संपर्कों और आवेदन प्रक्रिया के साथ।"
+
+msgid "Inspired by Shanghai's white magnolia and Chinese ink painting. Informed by official sources."
+msgstr "शंघाई के सफेद मैग्नोलिया और चीनी स्याही चित्रकला से प्रेरित। आधिकारिक स्रोतों पर आधारित।"
+
+msgid "Sources & reading room"
+msgstr "स्रोत और आगे की पढ़ाई"
+
+msgid "Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares."
+msgstr "अनुदान, वाउचर, चुकाए जाने वाले ऋण, इक्विटी निवेश और हिस्सेदारी में बदल सकने वाली सहायता की तुलना करें।"

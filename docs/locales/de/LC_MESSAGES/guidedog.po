@@ -268,3 +268,30 @@ msgstr "Verfasst von Vikrant Rathore mit Beiträgen von Lauren Zhao, Vicky Ni, J
 msgid "Built with Guidedog."
 msgstr "Erstellt mit Guidedog."
 
+
+msgid "A city of possibility."
+msgstr "Eine Stadt voller Möglichkeiten."
+
+msgid "Discover Shanghai's universities, AI communities and routes to startup funding."
+msgstr "Shanghais Hochschulen, KI-Communitys und Finanzierungswege für Gründungen entdecken."
+
+msgid "Shanghai at dawn, painted in Chinese ink and color with white magnolias and pearl-like connections across the river."
+msgstr "Shanghai im Morgenlicht, in chinesischer Tusche und Farbe, mit weißen Magnolien und perlenartigen Verbindungen über dem Fluss."
+
+msgid "An illustrated field guide to Shanghai, available in seven languages."
+msgstr "Ein illustrierter Leitfaden zu Shanghai in sieben Sprachen."
+
+msgid "The complete atlas, ready to take with us."
+msgstr "Der vollständige Atlas für unterwegs."
+
+msgid "Every chapter, district map, organization profile and funding route, with sources, contacts and application steps for offline reading."
+msgstr "Alle Kapitel, Bezirkskarten, Organisationsprofile und Finanzierungswege mit Quellen, Kontakten und Antragsschritten zum Offline-Lesen."
+
+msgid "Inspired by Shanghai's white magnolia and Chinese ink painting. Informed by official sources."
+msgstr "Inspiriert von Shanghais weißer Magnolie und chinesischer Tuschemalerei. Gestützt auf offizielle Quellen."
+
+msgid "Sources & reading room"
+msgstr "Quellen und Leseraum"
+
+msgid "Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares."
+msgstr "Zuschüsse, Gutscheine, rückzahlbare Darlehen, Beteiligungen und Förderung mit möglicher Eigenkapitalwandlung vergleichen."

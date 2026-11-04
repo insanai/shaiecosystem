@@ -8,10 +8,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Shanghai Ecosystem Atlas — Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog in HTML and PDF."
-msgstr "上海イノベーション生態系アトラス — 著者：Vikrant Rathore、共同貢献：Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu。GuidedogによりHTMLおよびPDFで構築。"
+msgstr "上海イノベーション・エコシステム図鑑 — 著者：Vikrant Rathore、共同貢献：Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu。GuidedogによりHTMLおよびPDFで構築。"
 
 msgid "Shanghai Ecosystem Atlas"
-msgstr "上海イノベーション生態系アトラス"
+msgstr "上海イノベーション・エコシステム図鑑"
 
 msgid "Skip to content"
 msgstr "本文へスキップ"
@@ -20,7 +20,7 @@ msgid "SHANGHAI"
 msgstr "上海"
 
 msgid "ECOSYSTEM ATLAS"
-msgstr "イノベーション生態系アトラス"
+msgstr "イノベーション図鑑"
 
 msgid "Main navigation"
 msgstr "メインナビゲーション"
@@ -62,7 +62,7 @@ msgid "possibility."
 msgstr "可能性。"
 
 msgid "Where Shanghai's 16 administrative districts, 40 undergraduate universities, 125 innovation organizations and 45 funding pathways meet. A white-magnolia and Chinese ink-wash field guide from research to repeatable enterprise."
-msgstr "上海の全16行政区、40の4年制大学、125のイノベーション機関、45の資金調達ルートが交差する実践的フィールドガイド。上海市花の白玉蘭と伝統的な水墨淡彩画の美学に着想を得ています。"
+msgstr "上海の全16行政区、40の学部課程を持つ大学、125のイノベーション機関、45の資金調達ルートが交差する実践的フィールドガイド。上海市花の白玉蘭と伝統的な水墨淡彩画の美学に着想を得ています。"
 
 msgid "Shanghai coverage highlights"
 msgstr "本アトラスの主な収録範囲"
@@ -110,7 +110,7 @@ msgid "districts, connected"
 msgstr "行政区を完全網羅"
 
 msgid "university profiles (+41 colleges)"
-msgstr "4年制大学（＋41短大・成人大学）"
+msgstr "学部課程を持つ大学（＋41短大・成人大学）"
 
 msgid "organization routes"
 msgstr "機関・拠点プロファイル"
@@ -125,7 +125,7 @@ msgid "Download the Complete Illustrated PDF Book"
 msgstr "完全版イラスト入りPDF書籍をダウンロード"
 
 msgid "Shanghai Ecosystem Atlas PDF Book Cover"
-msgstr "『上海イノベーション生態系アトラス』PDF書籍カバー"
+msgstr "『上海イノベーション・エコシステム図鑑』PDF書籍カバー"
 
 msgid "WHITE MAGNOLIA EDITION"
 msgstr "白玉蘭エディション"
@@ -236,7 +236,7 @@ msgid "Next"
 msgstr "次へ"
 
 msgid "SHANGHAI / ECOSYSTEM ATLAS"
-msgstr "上海 / イノベーション生態系アトラス"
+msgstr "上海 / イノベーション図鑑"
 
 msgid "Inspired by Shanghai's official white magnolia and traditional Chinese ink wash. Grounded in 133 verified sources."
 msgstr "上海市花の白玉蘭と伝統水墨淡彩に着想を得て、133件の検証済み一次情報に基づき編集。"
@@ -268,3 +268,30 @@ msgstr "著者：Vikrant Rathore、共同貢献：Lauren Zhao、Vicky Ni、Jenni
 msgid "Built with Guidedog."
 msgstr "Guidedog で構築。"
 
+
+msgid "A city of possibility."
+msgstr "可能性が広がる街。"
+
+msgid "Discover Shanghai's universities, AI communities and routes to startup funding."
+msgstr "上海の大学、AIコミュニティ、起業資金の調達・支援制度を探る。"
+
+msgid "Shanghai at dawn, painted in Chinese ink and color with white magnolias and pearl-like connections across the river."
+msgstr "白玉蘭と川面をつなぐ真珠のような光を添えた、中国の水墨と彩色による夜明けの上海。"
+
+msgid "An illustrated field guide to Shanghai, available in seven languages."
+msgstr "7言語で読む、上海イノベーションの図解ガイド。"
+
+msgid "The complete atlas, ready to take with us."
+msgstr "上海のすべての情報を、一冊に。"
+
+msgid "Every chapter, district map, organization profile and funding route, with sources, contacts and application steps for offline reading."
+msgstr "各章、行政区マップ、機関情報、資金調達・支援制度を収録。出典、連絡先、申請手順もオフラインで確認できる。"
+
+msgid "Inspired by Shanghai's white magnolia and Chinese ink painting. Informed by official sources."
+msgstr "上海の市花・白玉蘭と中国水墨画に着想を得て、公式情報に基づいて編集。"
+
+msgid "Sources & reading room"
+msgstr "出典・参考資料"
+
+msgid "Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares."
+msgstr "補助金、利用券、返済が必要な融資、株式投資、株式に転換する可能性のある支援を比較する。"

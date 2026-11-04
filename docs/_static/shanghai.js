@@ -259,11 +259,16 @@ document.addEventListener('DOMContentLoaded',()=>{
  const langMenu=document.querySelector('.gd-language');
  if(langMenu){
   const links=Array.from(langMenu.querySelectorAll('a[data-language]'));
-  links.forEach(link=>{
+  const syncLanguageLinks=()=>links.forEach(link=>{
    const url=new URL(link.href,location.href);
    url.search=location.search;
    url.hash=location.hash;
    link.href=url.href;
+  });
+  syncLanguageLinks();
+  // Map filters can change the URL after the initial page load.
+  langMenu.addEventListener('toggle',syncLanguageLinks);
+  links.forEach(link=>{
    link.addEventListener('click',()=>{
     try{localStorage.setItem('shanghai-atlas-language',link.dataset.language);}catch{}
    });
@@ -334,7 +339,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  function capital(e){if(e.type==='Equity investment')return 'equity';if(e.type==='Convertible support')return 'convertible';if(e.type.startsWith('Loan'))return 'debt';if(e.equity.startsWith('No equity')&&!e.equity.includes('repayable'))return 'nonrepayable';return 'other';}
  function updateUrl(){
   const q=new URLSearchParams();for(const k of ['mode','district','q','type','sector','equity'])if(state[k])q.set(k,state[k]);
-  history.replaceState(null,'',location.pathname+(q.size?'?'+q:''));
+   history.replaceState(null,'',location.pathname+(q.size?'?'+q:''));
   const switcher=document.querySelector('.language-switch');if(switcher)switcher.search=q.toString();
   document.querySelectorAll('.gd-language a[data-language]').forEach(a=>{a.search=q.toString();});
  }

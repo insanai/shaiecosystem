@@ -100,27 +100,30 @@ html:lang(hi) {
 .shanghai .button-outline{background:transparent;color:var(--jade);border:1px solid var(--jade)}
 .shanghai .button-outline:hover{background:var(--soft);color:var(--ink)}
 
-/* Hero — Symmetric White Magnolia & Chinese Ink Wash Editorial Theme */
-.hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:56px;align-items:center;max-width:1460px;margin:0 auto;padding:56px 6%;border-bottom:1px solid var(--line);background:linear-gradient(135deg,var(--paper) 0%,#f6f4ec 55%,#efeadd 100%)}
-.hero-copy{padding:28px 34px;background:rgba(255,254,250,.76);border:1px solid var(--line);border-top:3px solid var(--jade);box-shadow:0 16px 40px rgba(38,59,54,.06);display:flex;flex-direction:column;justify-content:space-between;height:100%}
-.eyebrow-row{display:flex;align-items:center;gap:12px;margin-bottom:6px}
-.magnolia-emblem{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:50%;background:var(--panel);border:1px solid var(--gold);flex-shrink:0}
-.eyebrow{font-size:9.5px;letter-spacing:.18em;color:var(--gold);font-weight:600;line-height:1.5;text-transform:uppercase;margin:0}
-.hero h1{font-family:var(--font-serif);font-size:clamp(42px,4.6vw,72px);line-height:1.05;font-weight:400;letter-spacing:-.025em;margin:16px 0 18px;color:var(--ink)}
-.italic{font-style:italic;color:var(--jade)}
-.hero-description{font-size:13.5px;color:var(--muted);line-height:1.8;margin:0 0 18px}
-.hero-highlights{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin:0 0 22px}
-.hero-highlights span{font-size:10.5px;padding:6px 11px;background:var(--panel);border:1px solid var(--line);color:var(--jade);letter-spacing:.02em;text-align:center}
-.hero-actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:0 0 20px}
+/* A single centered composition, with the skyline below the reading area. */
+.hero{isolation:isolate;position:relative;display:flex;flex-direction:column;align-items:center;min-height:clamp(790px,64vw,1060px);margin:0 auto;overflow:hidden;background:#fffaf4;border-bottom:1px solid var(--line)}
+.hero-art{position:absolute;inset:0;z-index:-2;pointer-events:none}
+.hero-art img{display:block;width:100%;height:100%;object-fit:cover;object-position:center bottom}
+.hero::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(255,250,244,.3),transparent 55%,transparent 90%,var(--paper));pointer-events:none}
+.hero-copy{width:min(94%,1040px);padding:64px 24px 300px;text-align:center}
+.eyebrow{font-size:10px;letter-spacing:.16em;color:#83643c;font-weight:600;line-height:1.65;text-transform:uppercase;margin:0}
+.hero h1{font-family:var(--font-serif);font-size:clamp(62px,7.2vw,104px);line-height:1.04;font-weight:400;letter-spacing:-.025em;max-width:14ch;margin:24px auto 22px;color:var(--ink);text-wrap:balance;overflow-wrap:normal}
+.hero-description{font-size:clamp(15px,1.2vw,18px);color:#415a53;line-height:1.7;max-width:48ch;margin:0 auto 28px;text-wrap:balance}
+.hero-actions{display:flex;flex-wrap:wrap;justify-content:center;gap:14px;align-items:center}
+.hero-actions .button{box-shadow:0 3px 14px #fff8}
+.hero-actions .button-book{background:#fffaf4ee}
+.hero-caption{position:absolute;bottom:24px;left:5%;right:5%;text-align:center;font-size:9px;letter-spacing:.13em;color:#3f574f;line-height:1.7;margin:0}
+.publication-byline{max-width:1400px;margin:0 auto;padding:18px 6%;text-align:center;font-size:11px;color:var(--muted)}
+.publication-byline p{margin:0}
 .text-link{font-size:11.5px;border-bottom:1px solid var(--gold);padding:5px 0;color:var(--jade)}
-.hero-credits{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--gold);padding:12px 16px;margin:0 0 14px;font-size:11px;line-height:1.65;color:var(--ink)}
-.hero-credits p{margin:2px 0}
-.hero-credits-sub{font-size:10px;color:var(--muted)}
-.hero-caption{font-size:9.5px;color:var(--muted);line-height:1.65;margin:0}
-.hero-art{position:relative;background:var(--panel);border:1px solid var(--gold);padding:14px 14px 48px;box-shadow:0 18px 44px rgba(38,59,54,.1);display:flex;flex-direction:column;justify-content:center;height:100%}
-.hero-art img{width:100%;aspect-ratio:4/4.3;object-fit:cover;object-position:center 35%;display:block;border:1px solid var(--line)}
-.art-label{position:absolute;bottom:13px;left:18px;right:18px;display:flex;align-items:center;justify-content:center;gap:10px;font-size:8.5px;letter-spacing:.14em;color:#3d4e46;padding:4px 8px;text-align:center}
-.art-seal{display:inline-block;padding:2px 6px;background:#8c3b2b;color:#fffefa;font-size:8px;letter-spacing:.08em}
+.italic{font-style:italic;color:var(--jade)}
+html:lang(zh) .hero h1,html:lang(ja) .hero h1,html:lang(ko) .hero h1{font-size:clamp(44px,5.2vw,76px);line-height:1.4;max-width:15ch;letter-spacing:0}
+html:lang(hi) .hero h1{line-height:1.35;font-size:clamp(46px,6.2vw,88px);max-width:18ch}
+html:lang(de) .hero h1,html:lang(es) .hero h1{max-width:19ch;font-size:clamp(55px,6.5vw,94px)}
+.gd-language a:lang(zh){font-family:'DM Sans','Noto Serif SC',serif}
+.gd-language a:lang(hi){font-family:'Noto Sans Devanagari',sans-serif}
+.gd-language a:lang(ja){font-family:'Noto Serif JP',serif}
+.gd-language a:lang(ko){font-family:'Noto Serif KR',serif}
 
 /* Statistics Bar */
 .statistics{max-width:1460px;margin:0 auto;padding:30px 6%;display:grid;grid-template-columns:repeat(5,1fr);border-bottom:1px solid var(--line);background:var(--panel)}
@@ -273,17 +276,12 @@ html:lang(hi) {
 .shanghai .gd-number{color:var(--gold)}
 
 @media(min-width:1600px){
-  .hero-copy{padding-top:80px}
-  .hero{min-height:780px}
-  .hero-art{min-height:780px}
 }
 @media(max-width:1100px){
   .masthead{gap:16px;padding:16px 4%}
   .main-nav{gap:14px}
   .brand{font-size:17px}
   .masthead-tools{gap:8px}
-  .hero{gap:32px;padding:42px 5%}
-  .hero-copy{padding:24px 26px}
   .reading-layout{grid-template-columns:190px minmax(0,1fr);gap:30px}
   .atlas-layout{display:block}
   .statistics{grid-template-columns:repeat(3,1fr);gap:20px}
@@ -292,26 +290,15 @@ html:lang(hi) {
   .credits-grid{grid-template-columns:1fr;gap:12px}
   .chapter-cards{grid-template-columns:repeat(2,1fr)}
   .map-canvas{height:470px}
-  .hero-actions{gap:12px}
-  .hero-actions .button{padding:12px 16px}
 }
 @media(max-width:760px){
   .masthead{flex-wrap:wrap;padding:14px 5%;gap:12px}
   .brand{font-size:15px}
   .masthead-tools{margin-left:auto;gap:6px}
-  .language-switch{padding:5px 8px;font-size:10px}
   .gd-language summary{padding:6px 8px;font-size:10px}
   .gd-lang-label{display:none}
   .main-nav{order:3;width:100%;justify-content:flex-start;margin:0;font-size:10.5px;gap:10px 14px}
   .button-small{padding:6px 9px!important;font-size:10px!important}
-  .hero{grid-template-columns:1fr;padding:24px 5%;gap:24px;min-height:0}
-  .hero-copy{padding:22px 18px}
-  .hero h1{font-size:clamp(34px,10vw,52px);margin-top:14px}
-  .hero-description{max-width:100%}
-  .hero-highlights{grid-template-columns:1fr}
-  .hero-art{height:auto;min-height:0;padding:10px 10px 42px}
-  .hero-art img{object-position:center center}
-  .hero-caption{margin-bottom:0}
   .statistics{grid-template-columns:1fr 1fr;gap:20px;padding:24px 6%}
   .statistics>div{border:0;padding:0}
   .statistics strong{font-size:32px}
@@ -350,10 +337,38 @@ html:lang(hi) {
   .masthead,.book-nav,.site-footer,.chapter-pager,.atlas-toolbar,.book-showcase{display:none}
   .reading-layout{display:block;padding:0}
   .shanghai{background:white}
-  .hero{min-height:0}
-  .hero-art{height:400px}
   .atlas-results{max-height:none;overflow:visible}
   .atlas-map-panel{position:static}
   .atlas-workspace{display:block}
   .atlas-card{break-inside:avoid}
 }
+
+@media(max-width:1100px){
+ .masthead{flex-wrap:wrap;gap:18px}
+ .main-nav{order:3;flex-basis:100%;justify-content:center}
+ .masthead-tools{margin-left:auto}
+ .hero-copy{padding-top:56px}
+}
+@media(max-width:760px){
+ .hero{min-height:790px}
+ .hero-art img{object-fit:cover;object-position:54% bottom}
+ .hero-copy{width:100%;padding:42px 6% 350px}
+ .hero h1{font-size:64px;max-width:13ch;margin:20px auto}
+ .hero .eyebrow{font-size:9px;max-width:35ch;margin:auto}
+ .hero-description{font-size:15px;max-width:35ch}
+ .hero-actions{gap:10px}
+ .hero-actions .button{font-size:11px;padding:12px 15px;gap:10px}
+ .hero-caption{bottom:20px;font-size:8px}
+ .gd-lang-label{display:inline}
+ .gd-language summary{max-width:170px}
+ .masthead-tools .button-small{display:none}
+ .main-nav{justify-content:center;gap:8px 16px}
+ .publication-byline{font-size:10px;line-height:1.8}
+ html:lang(zh) .hero h1,html:lang(ja) .hero h1,html:lang(ko) .hero h1{font-size:43px}
+ html:lang(hi) .hero h1{font-size:45px}
+ html:lang(de) .hero h1,html:lang(es) .hero h1{font-size:52px}
+}
+@media(prefers-reduced-motion:reduce){.shanghai *{scroll-behavior:auto;transition:none!important}}
+
+@media(max-width:760px){html:lang(ja) .hero h1{font-size:36px}}
+html:lang(ko) .hero h1{word-break:keep-all}

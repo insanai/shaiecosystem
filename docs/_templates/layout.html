@@ -8,7 +8,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#f8f7f2">
 <meta name="author" content="Vikrant Rathore">
-<meta name="description" content="{{ _('Shanghai Ecosystem Atlas — Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog in HTML and PDF.') }}">
+<meta name="description" content="{{ _('An illustrated field guide to Shanghai, available in seven languages.') }}">
+{% if assembled_site|default(false) %}
+{% for ed in atlas_languages %}
+<link rel="alternate" hreflang="{{ ed.tag }}" href="{{ atlas_site_url }}/{{ ed.folder }}/{{ pagename }}.html">
+{% if ed.code == language %}<link rel="canonical" href="{{ atlas_site_url }}/{{ ed.folder }}/{{ pagename }}.html">{% endif %}
+{% endfor %}
+<link rel="alternate" hreflang="x-default" href="{{ atlas_site_url }}/en/{{ pagename }}.html">
+<meta property="og:image" content="{{ atlas_site_url }}/en/_static/atlas/shanghai-ink-dawn-hero.png">
+{% endif %}
 <title>{{ title }} | {{ _('Shanghai Ecosystem Atlas') }}</title>
 {% for f in css_files %}{{ css_tag(f) }}{% endfor %}
 <link rel="icon" href="{{ pathto_root }}_static/atlas/magnolia.svg" type="image/svg+xml">
@@ -16,6 +24,7 @@
 </head>
 <body class="shanghai page-{{ pagename|replace('/', '-') }}" data-theme="light" data-base="{{ pathto_root }}" data-page="{{ pagename }}">
 {% set zh = (language == 'zh_CN' or language == 'zh-CN') %}
+{% set assembled = assembled_site|default(false) %}
 {% set pdf_lang = 'zh_CN' if zh else (language if language in ['hi', 'ja', 'ko', 'de', 'es'] else 'en') %}
 <a class="skip" href="#content">{{ _('Skip to content') }}</a>
 <header class="masthead">
@@ -29,13 +38,13 @@
   <a href="{{ pathto_root }}apply.html">{{ _('How to apply') }}</a>
  </nav>
  <div class="masthead-tools">
-  <a class="language-switch" hreflang="{% if zh %}en{% else %}zh-CN{% endif %}" lang="{% if zh %}en{% else %}zh-CN{% endif %}" href="{{ pathto_root }}../{% if zh %}en{% else %}zh-CN{% endif %}/{{ pagename }}.html">{% if zh %}EN{% else %}简体中文{% endif %}</a>
+  {% if assembled %}
   <details class="gd-language" data-page="{{ pagename }}" data-root="{{ pathto_root }}" data-edition="{{ language }}">
    <summary title="{{ _('Language') }}">
     <svg class="gd-icon" viewBox="0 0 24 24" aria-hidden="true">
      <circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c5 5 5 13 0 18M12 3c-5 5-5 13 0 18"/>
     </svg>
-    <span class="gd-lang-label">{{ _('Language') }}: {{ language|replace('zh_CN', '中文')|upper }} &#9662;</span>
+    <span class="gd-lang-label">{{ _('Language') }}: {% for ed in atlas_languages %}{% if ed.code == language %}{{ ed.name }}{% endif %}{% endfor %} &#9662;</span>
     <span class="gd-sr">{{ _('Language') }}</span>
    </summary>
    <ul aria-label="{{ _('Language') }}">
@@ -44,64 +53,50 @@
     {% endfor %}
    </ul>
   </details>
-  <a class="button button-small" href="{{ pathto_root }}shanghai-ecosystem-atlas-{{ pdf_lang }}.pdf" download>{{ _('Download PDF Book') }} <span aria-hidden="true">&#8595;</span></a>
+  {% endif %}
+  {% if assembled %}<a class="button button-small" href="{{ pathto_root }}shanghai-ecosystem-atlas-{{ pdf_lang }}.pdf" download>{{ _('Download PDF Book') }} <span aria-hidden="true">&#8595;</span></a>{% endif %}
  </div>
 </header>
 {% if pagename == 'index' %}
 <section class="hero" aria-labelledby="hero-title">
+ <div class="hero-art"><img src="{{ pathto_root }}_static/atlas/shanghai-ink-dawn-hero.png" width="1642" height="958" fetchpriority="high" alt="{{ _('Shanghai at dawn, painted in Chinese ink and color with white magnolias and pearl-like connections across the river.') }}"></div>
  <div class="hero-copy">
-  <div class="eyebrow-row">
-   <span class="magnolia-emblem"><img src="{{ pathto_root }}_static/atlas/magnolia.svg" alt="" width="22" height="22"></span>
-   <p class="eyebrow">{{ _('THE PEARL OF THE ORIENT / WHITE MAGNOLIA EDITION 2026') }}</p>
-  </div>
-  <h1 id="hero-title">{{ _('A city.') }}<br>{{ _('A world of') }} <span class="italic">{{ _('possibility.') }}</span></h1>
-  <p class="hero-description">{{ _("Where Shanghai's 16 administrative districts, 40 undergraduate universities, 125 innovation organizations and 45 funding pathways meet. A white-magnolia and Chinese ink-wash field guide from research to repeatable enterprise.") }}</p>
-  <div class="hero-highlights" aria-label="{{ _('Shanghai coverage highlights') }}">
-   <span>{{ _('White Magnolia & Traditional Ink Wash') }}</span>
-   <span>{{ _('All 16 Shanghai Administrative Districts') }}</span>
-   <span>{{ _('40 Universities + 41 Colleges') }}</span>
-   <span>{{ _('Guidedog Native HTML & PDF') }}</span>
-  </div>
+  <p class="eyebrow">{{ _('THE PEARL OF THE ORIENT / WHITE MAGNOLIA EDITION 2026') }}</p>
+  <h1 id="hero-title">{{ _('A city of possibility.') }}</h1>
+  <p class="hero-description">{{ _("Discover Shanghai's universities, AI communities and routes to startup funding.") }}</p>
   <div class="hero-actions">
    <a class="button" href="{{ pathto_root }}atlas.html">{{ _('Explore the ecosystem') }} <span aria-hidden="true">&#8599;</span></a>
-   <a class="button button-book" href="{{ pathto_root }}shanghai-ecosystem-atlas-{{ pdf_lang }}.pdf" download>{{ _('Download PDF Book') }} <span aria-hidden="true">&#8595;</span></a>
-   <a class="text-link" href="#pdf-book-editions">{{ _('All 7 language PDFs') }} <span aria-hidden="true">&#8594;</span></a>
+   {% if assembled %}<a class="button button-book" href="{{ pathto_root }}shanghai-ecosystem-atlas-{{ pdf_lang }}.pdf" download>{{ _('Download PDF Book') }} <span aria-hidden="true">&#8595;</span></a>{% endif %}
   </div>
-  <div class="hero-credits">
-   <p><strong>{{ _('Written by:') }}</strong> Vikrant Rathore &middot; <strong>{{ _('With contributions from:') }}</strong> Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore &amp; Emily Yue Xu</p>
-   <p class="hero-credits-sub">{{ _('Made using Guidedog in HTML and PDF · Available in English, 简体中文, हिन्दी, 日本語, 한국어, Deutsch & Español') }}</p>
-  </div>
-  <p class="hero-caption">{{ _('Inspired by Yulania denudata (White Magnolia), official flower of Shanghai since 1986, and traditional shuimo dan cai ink-wash painting on xuan paper.') }}</p>
  </div>
- <div class="hero-art">
-  <img src="{{ pathto_root }}_static/atlas/shanghai-ink-cover.png" alt="{{ _('Traditional Chinese shuimo ink wash painting of the Shanghai skyline across the misty Huangpu River with blooming white magnolia') }}">
-  <span class="art-label"><span class="art-seal">白玉兰</span> {{ _('SHANGHAI / WHITE MAGNOLIA / CHINESE SHUIMO INK WASH') }}</span>
- </div>
+ <p class="hero-caption">{{ _('SHANGHAI / WHITE MAGNOLIA / CHINESE SHUIMO INK WASH') }}</p>
 </section>
+<div class="publication-byline"><p><strong>{{ _('Written by:') }}</strong> Vikrant Rathore &middot; <strong>{{ _('With contributions from:') }}</strong> Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore &amp; Emily Yue Xu</p></div>
 <section class="statistics" aria-label="{{ _('Atlas coverage') }}">
  <div><strong>16</strong><span>{{ _('districts, connected') }}</span></div>
  <div><strong>40</strong><span>{{ _('university profiles (+41 colleges)') }}</span></div>
- <div><strong data-stat="entities">125</strong><span>{{ _('organization routes') }}</span></div>
- <div><strong data-stat="funding">45</strong><span>{{ _('funding pathways') }}</span></div>
- <div><strong data-stat="sources">133</strong><span>{{ _('verified primary sources') }}</span></div>
+ <div><strong data-stat="entities">131</strong><span>{{ _('organization routes') }}</span></div>
+ <div><strong data-stat="funding">50</strong><span>{{ _('funding pathways') }}</span></div>
+ <div><strong data-stat="sources">140</strong><span>{{ _('verified primary sources') }}</span></div>
 </section>
+{% if assembled %}
 <section class="book-showcase" id="pdf-book-editions" aria-labelledby="book-showcase-title">
  <div class="book-showcase-inner">
   <div class="book-cover-preview">
    <a class="book-cover-frame" href="{{ pathto_root }}shanghai-ecosystem-atlas-{{ pdf_lang }}.pdf" download aria-label="{{ _('Download the Complete Illustrated PDF Book') }}">
-    <img src="{{ pathto_root }}_static/atlas/shanghai-ink-cover.png" alt="{{ _('Shanghai Ecosystem Atlas PDF Book Cover') }}">
+    <img src="{{ pathto_root }}_static/atlas/shanghai-ink-dawn-book.png" alt="{{ _('Shanghai Ecosystem Atlas PDF Book Cover') }}">
     <div class="book-cover-badge">
      <span>{{ _('WHITE MAGNOLIA EDITION') }}</span>
      <strong>{{ _('Shanghai Ecosystem Atlas') }}</strong>
      <small>Vikrant Rathore &middot; Guidedog PDF</small>
     </div>
    </a>
-   <span class="book-format-note">PDF &middot; 240 &times; 300 MM &middot; TYPST</span>
+   <span class="book-format-note">PDF &middot; 240 &times; 300 MM</span>
   </div>
   <div class="book-showcase-copy">
    <p class="eyebrow">{{ _('THE MAGNOLIA PRINT EDITION / COMPLETE ILLUSTRATED PDF BOOK') }}</p>
-   <h2 id="book-showcase-title">{{ _('Download the Complete Illustrated PDF Book') }}</h2>
-   <p class="book-lead">{{ _("Typeset in a generous 240 × 300 mm art-book format by Guidedog's embedded Typst engine, the PDF book contains every chapter, vector district map, architecture diagram, 125 organization profiles, 45 funding pathways, 81 higher-education registry entries and 133 cited sources for offline reading and field trips.") }}</p>
+   <h2 id="book-showcase-title">{{ _('The complete atlas, ready to take with us.') }}</h2>
+   <p class="book-lead">{{ _('Every chapter, district map, organization profile and funding route, with sources, contacts and application steps for offline reading.') }}</p>
    <div class="book-credits-box">
     <div class="credits-grid">
      <div>
@@ -140,10 +135,11 @@
   </div>
  </div>
 </section>
+{% endif %}
 <section class="chapter-cards">
  <a href="{{ pathto_root }}software-ai.html"><span class="eyebrow">01 / {{ _('MODELS & AGENTS') }}</span><h2>{{ _('Intelligence in software') }}</h2><p>{{ _('From Model Speed Space and Zhangjiang Model Community to compute vouchers and pilot deployment.') }}</p><span aria-hidden="true">&#8599;</span></a>
  <a href="{{ pathto_root }}hardware-ai.html"><span class="eyebrow">02 / {{ _('CHIPS & ROBOTS') }}</span><h2>{{ _('Intelligence in the physical world') }}</h2><p>{{ _('Zhangjiang tape-out, Jiading MEMS pilot lines, embodied robotics, Jinshan UAVs and biomanufacturing.') }}</p><span aria-hidden="true">&#8599;</span></a>
- <a href="{{ pathto_root }}funding-guide.html"><span class="eyebrow">03 / {{ _('CAPITAL WITH CONDITIONS') }}</span><h2>{{ _('Know what funding really means') }}</h2><p>{{ _('Compare 45 non-repayable grants, vouchers, interest-free loans, convertible support and state funds.') }}</p><span aria-hidden="true">&#8599;</span></a>
+ <a href="{{ pathto_root }}funding-guide.html"><span class="eyebrow">03 / {{ _('CAPITAL WITH CONDITIONS') }}</span><h2>{{ _('Know what funding really means') }}</h2><p>{{ _('Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares.') }}</p><span aria-hidden="true">&#8599;</span></a>
  <a href="{{ pathto_root }}districts.html"><span class="eyebrow">04 / {{ _('ALL 16 DISTRICTS') }}</span><h2>{{ _('Sixteen districts, sixteen entry routes') }}</h2><p>{{ _('District-by-district specialization, receiving authorities, local carriers and district funding calls.') }}</p><span aria-hidden="true">&#8599;</span></a>
  <a href="{{ pathto_root }}universities.html"><span class="eyebrow">05 / {{ _('UNIVERSITIES & LABS') }}</span><h2>{{ _('Universities & commercialization') }}</h2><p>{{ _('All 40 undergraduate universities, 29 diploma colleges, 12 adult institutions and science parks.') }}</p><span aria-hidden="true">&#8599;</span></a>
  <a href="{{ pathto_root }}apply.html"><span class="eyebrow">06 / {{ _('FIELD EXECUTION') }}</span><h2>{{ _('From introduction to application') }}</h2><p>{{ _('Outreach templates, shared data-room checklist, foreign founder work-permit guide and 4-week plan.') }}</p><span aria-hidden="true">&#8599;</span></a>
@@ -154,12 +150,12 @@
  <aside class="book-nav">
   <p class="eyebrow">{{ _('IN THIS ATLAS') }}</p>
   <nav>{{ toc }}</nav>
-  <div class="sidebar-book-card">
+  {% if assembled %}<div class="sidebar-book-card">
    <strong>{{ _('PDF BOOK EDITION') }}</strong>
    <p>{{ _('Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore & Emily Yue Xu. Built with Guidedog.') }}</p>
    <a class="sidebar-pdf-link" href="{{ pathto_root }}shanghai-ecosystem-atlas-{{ pdf_lang }}.pdf" download>{{ _('Download PDF Book') }} &#8595;</a>
   </div>
-  <a class="source-note" href="{{ pathto_root }}methodology.html">{{ _('Sources, credits & research limits') }}</a>
+  {% endif %}<a class="source-note" href="{{ pathto_root }}methodology.html">{{ _('Sources, credits & research limits') }}</a>
  </aside>
  {% endif %}
  <main id="content" tabindex="-1">
@@ -171,13 +167,13 @@
 <footer class="site-footer">
  <div>
   <span class="footer-wordmark">{{ _('SHANGHAI / ECOSYSTEM ATLAS') }}</span>
-  <p>{{ _("Inspired by Shanghai's official white magnolia and traditional Chinese ink wash. Grounded in 133 verified sources.") }}</p>
+  <p>{{ _("Inspired by Shanghai's white magnolia and Chinese ink painting. Informed by official sources.") }}</p>
   <p class="footer-credits"><strong>{{ _('Written by:') }}</strong> Vikrant Rathore<br><strong>{{ _('With contributions from:') }}</strong> Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore &amp; Emily Yue Xu<br><strong>{{ _('Built with:') }}</strong> {{ _('Guidedog — Native HTML Website & Typst PDF Book across 7 languages') }}</p>
  </div>
  <div>
-  <a href="{{ pathto_root }}shanghai-ecosystem-atlas-{{ pdf_lang }}.pdf" download><strong>{{ _('Download PDF Book') }} ({{ language|replace('zh_CN', '中文')|upper }}) &#8595;</strong></a>
-  <a href="{{ pathto_root }}districts.html">{{ _('All 16 Shanghai districts') }}</a>
-  <a href="{{ pathto_root }}sources.html">{{ _('Sources & reading room (133 sources)') }}</a>
+  {% if assembled %}<a href="{{ pathto_root }}shanghai-ecosystem-atlas-{{ pdf_lang }}.pdf" download><strong>{{ _('Download PDF Book') }} ({{ language|replace('zh_CN', '中文')|upper }}) &#8595;</strong></a>
+  {% endif %}<a href="{{ pathto_root }}districts.html">{{ _('All 16 Shanghai districts') }}</a>
+  <a href="{{ pathto_root }}sources.html">{{ _('Sources & reading room') }}</a>
   <a href="{{ pathto_root }}methodology.html">{{ _('Research methods, gaps & credits') }}</a>
   <a href="{{ pathto_root }}_static/atlas/catalog.json" download>{{ _('Download research dataset (JSON)') }}</a>
  </div>

@@ -8,10 +8,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Shanghai Ecosystem Atlas — Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog in HTML and PDF."
-msgstr "상하이 혁신 생태계 아틀라스 — 저자: Vikrant Rathore, 기여자: Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu. Guidedog를 사용하여 HTML 및 PDF로 제작."
+msgstr "상하이 혁신 생태계 가이드 — 저자: Vikrant Rathore, 기여자: Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu. Guidedog를 사용하여 HTML 및 PDF로 제작."
 
 msgid "Shanghai Ecosystem Atlas"
-msgstr "상하이 혁신 생태계 아틀라스"
+msgstr "상하이 혁신 생태계 가이드"
 
 msgid "Skip to content"
 msgstr "본문으로 건너뛰기"
@@ -65,7 +65,7 @@ msgid "Where Shanghai's 16 administrative districts, 40 undergraduate universiti
 msgstr "상하이의 16개 행정구, 40개 학부 대학, 125개 혁신 기관 및 45개 자금 지원 경로가 만나는 곳. 백목련과 전통 수묵담채화 미학에서 영감을 받은 실전 필드 가이드."
 
 msgid "Shanghai coverage highlights"
-msgstr "상하이 아틀라스 핵심 요약"
+msgstr "상하이 가이드 핵심 요약"
 
 msgid "White Magnolia & Traditional Ink Wash"
 msgstr "시화 백목련 및 전통 수묵담채화"
@@ -125,7 +125,7 @@ msgid "Download the Complete Illustrated PDF Book"
 msgstr "전체 일러스트 PDF 도서 다운로드"
 
 msgid "Shanghai Ecosystem Atlas PDF Book Cover"
-msgstr "상하이 혁신 생태계 아틀라스 PDF 도서 표지"
+msgstr "상하이 혁신 생태계 가이드 PDF 도서 표지"
 
 msgid "WHITE MAGNOLIA EDITION"
 msgstr "백목련 에디션"
@@ -268,3 +268,30 @@ msgstr "Vikrant Rathore 집필, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rath
 msgid "Built with Guidedog."
 msgstr "Guidedog로 제작되었습니다."
 
+
+msgid "A city of possibility."
+msgstr "가능성이 피어나는 도시."
+
+msgid "Discover Shanghai's universities, AI communities and routes to startup funding."
+msgstr "상하이의 대학, AI 커뮤니티, 창업 투자와 지원 제도를 만나보세요."
+
+msgid "Shanghai at dawn, painted in Chinese ink and color with white magnolias and pearl-like connections across the river."
+msgstr "백목련과 강 위에 진주처럼 이어진 빛을 담은 중국 수묵담채풍의 상하이 새벽 풍경."
+
+msgid "An illustrated field guide to Shanghai, available in seven languages."
+msgstr "7개 언어로 만나는 상하이 혁신 생태계 일러스트 가이드."
+
+msgid "The complete atlas, ready to take with us."
+msgstr "상하이 혁신 가이드, 한 권으로 함께하세요."
+
+msgid "Every chapter, district map, organization profile and funding route, with sources, contacts and application steps for offline reading."
+msgstr "모든 장, 행정구 지도, 기관 정보, 자금 조달·지원 경로와 함께 출처, 연락처, 신청 절차를 오프라인으로 확인할 수 있습니다."
+
+msgid "Inspired by Shanghai's white magnolia and Chinese ink painting. Informed by official sources."
+msgstr "상하이의 시화 백목련과 중국 수묵화에서 영감을 얻고 공식 자료를 바탕으로 구성했습니다."
+
+msgid "Sources & reading room"
+msgstr "출처 및 참고 자료"
+
+msgid "Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares."
+msgstr "보조금, 바우처, 상환 의무가 있는 대출, 지분 투자 및 지분 전환 가능 지원을 비교합니다."
