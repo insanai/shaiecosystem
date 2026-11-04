@@ -9,7 +9,7 @@ process.chdir(root);
 // Guidedog validates configured asset folders before every builder, including gettext.
 fs.mkdirSync('docs/downloads',{recursive:true});
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
-const write=(p,s)=>{fs.mkdirSync(path.dirname(p),{recursive:true});fs.writeFileSync(p,s);};
+const write=(p,s)=>{fs.mkdirSync(path.dirname(p),{recursive:true});fs.writeFileSync(p,s.replace(/\n+$/,'\n'));};
 const registry=read('data/university-register.json');
 const adult=read('data/adult-college-register.json');
 const translations=new Map();

@@ -12,11 +12,34 @@ We distinguish closed calls, published policies and opportunities whose current 
 
 ## Build
 
-We need Node.js 22 or later, Guidedog with its embedded Typst and Graphviz backends, and the Noto Sans CJK SC and Noto Serif CJK SC system fonts.
+For native builds, we need Guidedog with its embedded Typst and Graphviz backends, and the Noto Sans CJK SC and Noto Serif CJK SC system fonts.
+The optional publication and content-refresh helpers also need Node.js 22 or later.
 The installed Guidedog version used for this edition is `1.0.0-beta.12`.
 The Typst packages are pinned to CeTZ `0.3.4` and Fletcher `0.5.8`.
-The configuration uses the local Typst package cache.
-If the packages are missing, we can first run `guidedog build html docs -D pdf_packages=download` to populate the native cache.
+Guidedog downloads missing pinned Typst packages on the first build and caches them locally.
+After the cache is populated, we can select offline builds with `-D pdf_packages=offline`.
+
+A fresh checkout contains the native RST sources, Simplified Chinese PO catalogs and required map assets.
+We can preview English directly, without a Node preparation step:
+
+```sh
+guidedog serve docs
+```
+
+We open <http://127.0.0.1:8000/>.
+For a Simplified Chinese preview, we run `guidedog serve docs -D language=zh_CN --port 8001` and open <http://127.0.0.1:8001/>.
+Each native preview serves one edition.
+Language switching and book downloads appear in the assembled bilingual publication below.
+
+We can also build either format directly:
+
+```sh
+guidedog build html docs -W
+guidedog build pdf docs -W
+guidedog build pdf docs -D language=zh_CN -W
+```
+
+To assemble both website editions and both book downloads together, we use:
 
 ```sh
 node tools/build.mjs
@@ -34,31 +57,17 @@ Both books are available from each website edition.
 We can copy that directory to static hosting without a build server.
 No remote publication is configured or performed.
 
-For live source editing, we can also use Guidedog's own preview:
-
-```sh
-node tools/generate.mjs
-node tools/map.mjs
-guidedog serve docs --port 8124
-```
-
-The preparation commands create the native RST sources and map assets in a fresh checkout.
-After preparation, we can use `guidedog build`, `guidedog serve`, `guidedog intl` and `guidedog clean` with `docs/conf.toml`.
+We use `guidedog build`, `guidedog serve`, `guidedog intl` and `guidedog clean` with `docs/conf.toml` to manage the native project.
 
 ## Native publishing steps
 
 `tools/build.mjs` runs these native stages, in order:
 
 ```sh
-node tools/generate.mjs
-node tools/map.mjs
-guidedog build -b gettext docs docs/locales/templates -W
-guidedog intl update -p docs/locales/templates -l zh_CN docs
-node tools/translate.mjs
 guidedog build -b pdf docs docs/_build/pdf/en -D language=en -W --budget=2048
 guidedog build -b pdf docs docs/_build/pdf/zh_CN -D language=zh_CN -W --budget=2048
-guidedog build -b html docs docs/_build/site/en -D language=en -W
-guidedog build -b html docs docs/_build/site/zh-CN -D language=zh_CN -W
+guidedog build -b html docs docs/_build/site/en -D language=en -D html_context.assembled_site=true -W
+guidedog build -b html docs docs/_build/site/zh-CN -D language=zh_CN -D html_context.assembled_site=true -W
 ```
 
 The build script copies the two PDFs into `docs/downloads/` before the HTML builds, so native `html_extra_path` publishes working downloads.
@@ -68,15 +77,24 @@ It also writes a small English-first entry page above the two native editions.
 
 We edit research records in `data/catalog.mjs`, `data/district-funding.mjs`, `data/universities.mjs` and `data/chapters.mjs`.
 The generator writes the RST documents, research JSON and translation pairs from those records.
-We do not edit generated RST or PO text independently of the canonical records.
-Guidedog extracts messages and maintains the native PO catalogs in `docs/locales/zh_CN/LC_MESSAGES/`.
-The translation step fills those catalogs from the paired editorial text and fails when a translation is missing.
+After changing those records, we run the explicit refresh workflow:
 
-We track the research records, source snapshots, templates, diagram sources, cover artwork, fonts and build tools.
-We ignore generated RST, translation catalogs, research exports, reports, PDFs, HTML and Guidedog caches.
-The bilingual data records retain the authored translations, so we can regenerate both editions from the tracked files.
+```sh
+node tools/refresh.mjs
+```
 
-`data/published-sources.json` contains the sources actually cited in the publication.
+It updates the RST documents and map assets, runs Guidedog's gettext and `intl update` commands, and fills the native PO catalogs from the paired editorial translations.
+We review and commit the resulting source changes with the research edits.
+We do not edit the RST or PO snapshots independently of the bilingual records, because a later refresh would overwrite those edits.
+Normal builds read these reviewed publication inputs and do not refresh them.
+
+We track the research records, RST publication sources, PO translations, map assets, source snapshots, templates, diagram sources, cover artwork, fonts and tools.
+We ignore compiled HTML, PDFs and MO catalogs, temporary POT catalogs, intermediate research exports, reports and Guidedog caches.
+The tracked `docs/downloads/.gitkeep` preserves the configured downloads directory without committing generated books.
+The bilingual data records retain the editorial translations, while the native source snapshots let Guidedog build either edition directly from a fresh checkout.
+
+The tracked `docs/_static/atlas/catalog.json` includes the sources actually cited in the publication.
+The refresh helper also writes an ignored intermediate copy to `data/published-sources.json`.
 `data/research-index.json` and `data/extra-sources.json` are discovery indexes and also include leads that were not selected.
 The source workbooks `data/moe-universities-2026.xls` and `data/moe-adult-colleges-2026.xls` come from the Ministry of Education's 18 June 2026 publication.
 The JSON registers preserve the Shanghai institution names and codes from those workbooks.

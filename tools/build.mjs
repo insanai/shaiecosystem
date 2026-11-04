@@ -7,10 +7,7 @@ const run=(program,args,quiet=false)=>{
  const r=spawnSync(program,args,{stdio:quiet?['ignore','pipe','pipe']:'inherit',encoding:'utf8'});
  if(r.status!==0){if(quiet)console.error(r.stdout,r.stderr);throw new Error(`${program} failed (${r.status}): ${r.error||''}`);}
 };
-run('node',['tools/generate.mjs']);run('node',['tools/map.mjs']);
-run('guidedog',['build','-b','gettext','docs','docs/locales/templates','-W']);
-run('guidedog',['intl','update','-p','docs/locales/templates','-l','zh_CN','docs'],true);
-run('node',['tools/translate.mjs']);
+fs.mkdirSync('docs/downloads',{recursive:true});
 for(const lang of ['en','zh_CN']){
  run('guidedog',['build','-b','pdf','docs',`docs/_build/pdf/${lang}`,'-D',`language=${lang}`,'-W','--budget=2048']);
 }
@@ -21,7 +18,7 @@ for(const lang of ['en','zh_CN']){
  fs.copyFileSync(path.join(dir,pdf),`docs/downloads/shanghai-ecosystem-atlas-${lang}.pdf`);
 }
 for(const [lang,folder]of [['en','en'],['zh_CN','zh-CN']]){
- run('guidedog',['build','-b','html','docs',`docs/_build/site/${folder}`,'-D',`language=${lang}`,'-W']);
+ run('guidedog',['build','-b','html','docs',`docs/_build/site/${folder}`,'-D',`language=${lang}`,'-D','html_context.assembled_site=true','-W']);
 }
 fs.writeFileSync('docs/_build/site/index.html','<!doctype html><html lang="en"><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=en/index.html"><title>Shanghai Ecosystem Atlas</title><p><a href="en/index.html">English</a> / <a href="zh-CN/index.html" lang="zh-CN">简体中文</a></p></html>\n');
 console.log('\nBuilt both books and both website editions in docs/_build/.');

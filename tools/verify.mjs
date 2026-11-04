@@ -2,9 +2,19 @@ import fs from 'node:fs';
 import path from 'node:path';
 const root=path.resolve('docs/_build/site');
 const data=JSON.parse(fs.readFileSync('docs/_static/atlas/catalog.json','utf8'));
-const report=JSON.parse(fs.readFileSync('data/translation-report.json','utf8'));
 const failures=[];
 const check=(condition,message)=>{if(!condition)failures.push(message);};
+const walk=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(path.join(dir,e.name)):[path.join(dir,e.name)]);
+const report={translated:0,missing:[]};
+const decode=s=>s.trim().split('\n').map(line=>JSON.parse(line.trim())).join('');
+for(const file of walk('docs/locales/zh_CN/LC_MESSAGES').filter(f=>f.endsWith('.po'))){
+ const catalog=fs.readFileSync(file,'utf8');
+ check(!/^#, .*\bfuzzy\b/m.test(catalog),`Unreviewed fuzzy translation: ${file}`);
+ for(const entry of catalog.matchAll(/msgid ((?:"[^\n]*"\n)+)msgstr ((?:"[^\n]*"(?:\n|$))+)/g)){
+  const id=decode(entry[1]);if(!id)continue;
+  if(decode(entry[2]))report.translated++;else report.missing.push(`${file}: ${id}`);
+ }
+}
 check(data.districts.length===16,'The atlas must include 16 districts.');
 check(data.entities.filter(e=>e.category==='University').length===40,'The undergraduate directory must contain 40 institutions.');
 check(new Set(data.entities.map(e=>e.id)).size===data.entities.length,'Organization IDs must be unique.');
@@ -15,7 +25,6 @@ for(const e of [...data.entities,...data.funding]){
  check(Boolean(e.zh&&e.name),`Missing bilingual name: ${e.id}`);
  check(!e.status.toLowerCase().includes('open now'),`Unverified open status: ${e.id}`);
 }
-const walk=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(path.join(dir,e.name)):[path.join(dir,e.name)]);
 let htmlCount=0,links=0;
 for(const edition of ['en','zh-CN']){
  const directory=path.join(root,edition);
