@@ -1,0 +1,154 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/jingan.rst:1
+msgid "Jing'an"
+msgstr "जिंगआन (Jing'an)"
+
+#: ../../districts/jingan.rst:4
+msgid "Enterprise AI, data services and digital commerce"
+msgstr "एंटरप्राइज AI, डेटा सेवाएं और डिजिटल कॉमर्स"
+
+#: ../../districts/jingan.rst:6
+msgid ""
+"The 2026-2028 AI application demonstration plan focuses on industry "
+"integration and talent. Its stated objectives must be distinguished from "
+"implementing rules and currently accepting applications."
+msgstr "2026-2028 AI अनुप्रयोग प्रदर्शन योजना उद्योग एकीकरण और प्रतिभा पर केंद्रित है। इसके घोषित उद्देश्यों को कार्यान्वयन नियमों और वर्तमान में आवेदन स्वीकार करने वाली योजनाओं से अलग समझा जाना चाहिए।"
+
+#: ../../districts/jingan.rst:8
+msgid ""
+"`Evidence S053 "
+"<https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. "
+"静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+msgstr "`साक्ष्य S053 <https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. 静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+
+#: ../../districts/jingan.rst:10
+msgid "Who receives the inquiry"
+msgstr "पूछताछ कौन प्राप्त करता है"
+
+#: ../../districts/jingan.rst:13
+msgid "Jing'an science and economy authority"
+msgstr "जिंगआन विज्ञान और अर्थव्यवस्था प्राधिकरण"
+
+#: ../../districts/jingan.rst:15
+msgid "`Official district website <https://www.jingan.gov.cn/>`_"
+msgstr "`आधिकारिक जिला वेबसाइट <https://www.jingan.gov.cn/>`_"
+
+#: ../../districts/jingan.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "इस रिकॉर्ड में वर्तमान सीधा कार्यक्रम फोन या ईमेल स्थापित नहीं है। नामित प्राप्तकर्ता टीम का अनुरोध करने के लिए आधिकारिक वेबसाइट का उपयोग करें।"
+
+#: ../../districts/jingan.rst:19
+msgid "Before applying"
+msgstr "आवेदन करने से पहले"
+
+#: ../../districts/jingan.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../districts/jingan.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../districts/jingan.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../districts/jingan.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../districts/jingan.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../districts/jingan.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "पूछें कि कौन सी वर्तमान सूचना परियोजना को नियंत्रित करती है, क्या पंजीकरण और वास्तविक संचालन दोनों जिले में होने चाहिए, कौन सी व्यय अवधि पात्र है, और क्या पिछले नगर निगम या जिला पुरस्कार किसी दावे को बाहर करते हैं। कंपनी को स्थानांतरित करने या लागत उठाने से पहले उत्तर प्राप्त करें।"
+
+#: ../../districts/jingan.rst:34
+msgid "Local organizations in this atlas"
+msgstr "इस एटलस में स्थानीय संगठन"
+
+#: ../../districts/jingan.rst:37
+msgid ""
+":doc:`Shibei Hi-Tech Park / Shutong Valley & Daning Carriers "
+"</entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · Technology park · "
+"Software AI, Industry) — Jing'an's 2026-2028 AI demonstration plan and "
+"district carrier program anchor big-data, blockchain (Shutong Valley), "
+"cloud computing and enterprise AI workspaces across Shibei Hi-Tech Park, "
+"Daning and Suhewan. Confirm the specific carrier operator, "
+"data-compliance services and tenancy terms. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`शिबेई हाई-टेक पार्क / शुतोंग वैली और दनिंग कैरियर्स (Shibei Hi-Tech Park / Shutong Valley) </entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · प्रौद्योगिकी पार्क · सॉफ्टवेयर AI, उद्योग) — जिंगआन की 2026-2028 AI प्रदर्शन योजना और जिला कैरियर कार्यक्रम शिबेई हाई-टेक पार्क, दनिंग और सुहेवान में बिग-डेटा, ब्लॉकचेन (शुतोंग वैली), क्लाउड कंप्यूटिंग और एंटरप्राइज AI कार्यस्थलों को आधार प्रदान करते हैं। विशिष्ट कैरियर संचालक, डेटा-अनुपालन सेवाओं और किरायेदारी शर्तों की पुष्टि करें। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/jingan.rst:38
+msgid ""
+":doc:`Shanghai Theatre Academy </entities/university-theatre>` (上海戏剧学院 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Performance, virtual "
+"production, creative media. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई थिएटर एकेडमी (Shanghai Theatre Academy) </entities/university-theatre>` (上海戏剧学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: प्रदर्शन कला, वर्चुअल प्रोडक्शन, रचनात्मक मीडिया। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/jingan.rst:39
+msgid ""
+":doc:`Shanghai University </entities/university-shu>` (上海大学 · University) "
+"— Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Manufacturing, robotics, materials, "
+"digital media. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई विश्वविद्यालय (Shanghai University) </entities/university-shu>` (上海大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: विनिर्माण, रोबोटिक्स, सामग्री, डिजिटल मीडिया। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/jingan.rst:41
+msgid "Funding routes"
+msgstr "फंडिंग मार्ग"
+
+#: ../../districts/jingan.rst:44
+msgid ""
+":doc:`Jing'an Service Industry Guidance Fund and AI Demonstration "
+"Support, 2026 </funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · "
+"Grant · No equity) — Project-specific support under the district "
+"service-industry guidance fund rules, matched to qualifying project "
+"investment. Status: 2026 call published; deadline check required. Timing: "
+"Second 2026 batch published May 2026; confirm current sub-district "
+"recommending window."
+msgstr ":doc:`जिंगआन सेवा उद्योग मार्गदर्शन फंड और AI प्रदर्शन सहायता, 2026 </funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · अनुदान (Grant) · कोई इक्विटी नहीं) — जिला सेवा-उद्योग मार्गदर्शन फंड नियमों के तहत परियोजना-विशिष्ट सहायता, अर्हकारी परियोजना निवेश से सुमेलित। स्थिति: 2026 कॉल प्रकाशित; समय सीमा की जाँच आवश्यक। समय-सीमा: दूसरा 2026 बैच मई 2026 में प्रकाशित; वर्तमान उप-जिला अनुशंसा विंडो की पुष्टि करें।"
+
+#: ../../districts/jingan.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`शहरव्यापी फंडिंग की भी तुलना करें </funding>`"

@@ -1,0 +1,115 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/ip-finance.rst:1
+msgid "Shanghai IP-backed finance product directory"
+msgstr "상하이시 지식재산권 금융 상품 디렉토리"
+
+#: ../../funding/ip-finance.rst:4
+msgid "Loan / insurance | Citywide / global"
+msgstr "대출 / 보험 | 전시 / 글로벌"
+
+#: ../../funding/ip-finance.rst:6
+msgid "2026 directory published; lender review"
+msgstr "2026년 목록 공시됨; 대출 기관 심사 필요"
+
+#: ../../funding/ip-finance.rst:8
+msgid ""
+"`Evidence S105 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
+"知识产权金融服务平台_上海市知识产权局."
+msgstr "`근거 S105 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
+
+#: ../../funding/ip-finance.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/ip-finance.rst:13
+msgid "Bank and product-specific loan, insurance or trust terms"
+msgstr "특허 및 지식재산권(IP) 담보 평가액 기반 은행 대출, IP 질권 설정 융자 및 평가 수수료·이자 보조"
+
+#: ../../funding/ip-finance.rst:15
+msgid "No equity; product obligations apply"
+msgstr "지분 취득 없음; 제품 관련 의무 적용"
+
+#: ../../funding/ip-finance.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/ip-finance.rst:20
+msgid ""
+"The 2026 IP bureau directory supplies borrower criteria, collateral, "
+"rates, repayment, application steps and contacts by product. IP ownership "
+"and bank assessment matter."
+msgstr "핵심 특허 또는 등록 소프트웨어 저작권을 보유하고 상하이에서 정상 사업을 영위하는 혁신 중소기업."
+
+#: ../../funding/ip-finance.rst:22
+msgid "Product-specific"
+msgstr "제휴 은행 및 지식재산 금융 서비스 창구 상시 접수"
+
+#: ../../funding/ip-finance.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/ip-finance.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+
+#: ../../funding/ip-finance.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/ip-finance.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/ip-finance.rst:33
+msgid ""
+"Select the current bank or public guarantee product and check borrower "
+"eligibility."
+msgstr "현재 취급 중인 은행 또는 공공 신용보증 상품을 선택하고 차주 적격 요건을 심사한다."
+
+#: ../../funding/ip-finance.rst:35
+msgid ""
+"Prepare accounts, cash-flow forecast, ownership and requested security "
+"documents."
+msgstr "재무제표, 현금흐름 전망치, 지분 구조도 및 요구되는 담보 서류를 준비한다."
+
+#: ../../funding/ip-finance.rst:37
+msgid ""
+"Complete lender and guarantee assessment; compare all costs and repayment "
+"terms."
+msgstr "대출 기관 및 보증 기관 심사를 완료하고 총 소요 비용과 상환 일정을 면밀히 비교한다."
+
+#: ../../funding/ip-finance.rst:39
+msgid ""
+"Sign and track debt service; claim interest support only if independently "
+"eligible."
+msgstr "대출 계약을 체결하고 원리금 상환을 관리하며, 이차보전(이자 지원)은 별도 자격을 갖춘 경우에만 신청한다."
+
+#: ../../funding/ip-finance.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

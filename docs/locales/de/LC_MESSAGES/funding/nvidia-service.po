@@ -1,0 +1,109 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/nvidia-service.rst:1
+msgid "NVIDIA Inception"
+msgstr "NVIDIA Inception"
+
+#: ../../funding/nvidia-service.rst:4
+msgid "In-kind services | Citywide / global"
+msgstr "Sach- und Dienstleistungen | Stadtweit / global"
+
+#: ../../funding/nvidia-service.rst:6
+msgid "Program published; eligibility review"
+msgstr "Programm veröffentlicht; Prüfung der Förderfähigkeit erforderlich"
+
+#: ../../funding/nvidia-service.rst:8
+msgid ""
+"`Evidence S040 <https://www.nvidia.com/en-us/startups/>`_. Inception "
+"Program for Startups | NVIDIA."
+msgstr "`Nachweis S040 <https://www.nvidia.com/en-us/startups/>`_. Inception Program for Startups | NVIDIA."
+
+#: ../../funding/nvidia-service.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/nvidia-service.rst:13
+msgid "Free membership; conditional ecosystem benefits, not a cash grant"
+msgstr "Rabatte auf Hardware und Cloud-Computing, DLI-Schulungsguthaben und weltweite Sichtbarkeit"
+
+#: ../../funding/nvidia-service.rst:15
+msgid "No equity"
+msgstr "Ohne Anteilsabgabe"
+
+#: ../../funding/nvidia-service.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/nvidia-service.rst:20
+msgid ""
+"Qualifying AI startups; check incorporation, developer, age and regional "
+"conditions. Product availability and partner credits are separately "
+"governed."
+msgstr "Berechtigte KI-Startups in der Frühphase; Registrierung, Entwicklungsstand, Gründungsdatum und regionale Kriterien werden geprüft. Cloud-Guthaben unterliegen gesonderten Vereinbarungen mit Partnern."
+
+#: ../../funding/nvidia-service.rst:22
+msgid "Online application; regional eligibility review"
+msgstr "Laufende Online-Bewerbung; regionale Prüfung der Förderfähigkeit"
+
+#: ../../funding/nvidia-service.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/nvidia-service.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.nvidia.com/en-us/startups/>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://www.nvidia.com/en-us/startups/>`_"
+
+#: ../../funding/nvidia-service.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "Die verlinkte Behörde bzw. der Träger ist der offizielle Kontaktweg. Ein direkter Programm-Ansprechpartner ist in diesem Profil nicht hinterlegt."
+
+#: ../../funding/nvidia-service.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/nvidia-service.rst:33
+msgid ""
+"Check incorporation, company age, account region and existing benefits."
+msgstr "Handelsregistereintrag, Unternehmensalter, Kontoregion und bereits bezogene Vergünstigungen überprüfen."
+
+#: ../../funding/nvidia-service.rst:35
+msgid "Apply through the official program form or qualifying partner route."
+msgstr "Den Antrag über das offizielle Programmformular oder den autorisierten Partnerkanal stellen."
+
+#: ../../funding/nvidia-service.rst:37
+msgid ""
+"Confirm covered services, expiry, fees, usage limits and overage billing."
+msgstr "Unterstützte Dienste, Gültigkeitsdauer, Gebühren, Verbrauchslimits und Abrechnung von Mehrverbrauch verifizieren."
+
+#: ../../funding/nvidia-service.rst:39
+msgid "Keep usage records and do not describe credits as unrestricted cash."
+msgstr "Nutzungsprotokolle lückenlos archivieren und Guthaben nicht als freie Barmittel deklarieren."
+
+#: ../../funding/nvidia-service.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

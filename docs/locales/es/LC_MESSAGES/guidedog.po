@@ -1,0 +1,270 @@
+# Shanghai Ecosystem Atlas UI layout strings (_templates/layout.html)
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Shanghai Ecosystem Atlas — Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog in HTML and PDF."
+msgstr "Atlas del Ecosistema de Shanghái — Escrito por Vikrant Rathore con contribuciones de Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu. Creado con Guidedog en HTML y PDF."
+
+msgid "Shanghai Ecosystem Atlas"
+msgstr "Atlas del Ecosistema de Shanghái"
+
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+msgid "SHANGHAI"
+msgstr "SHANGHÁI"
+
+msgid "ECOSYSTEM ATLAS"
+msgstr "ATLAS DEL ECOSISTEMA"
+
+msgid "Main navigation"
+msgstr "Navegación principal"
+
+msgid "Explore the map"
+msgstr "Explorar el mapa"
+
+msgid "16 Districts"
+msgstr "16 distritos"
+
+msgid "Universities"
+msgstr "Universidades"
+
+msgid "Incubation"
+msgstr "Incubación"
+
+msgid "Funding"
+msgstr "Financiación"
+
+msgid "How to apply"
+msgstr "Cómo postular"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Download PDF Book"
+msgstr "Descargar libro PDF"
+
+msgid "THE PEARL OF THE ORIENT / WHITE MAGNOLIA EDITION 2026"
+msgstr "LA PERLA DE ORIENTE / EDICIÓN MAGNOLIA BLANCA 2026"
+
+msgid "A city."
+msgstr "Una ciudad."
+
+msgid "A world of"
+msgstr "Un mundo de"
+
+msgid "possibility."
+msgstr "posibilidades."
+
+msgid "Where Shanghai's 16 administrative districts, 40 undergraduate universities, 125 innovation organizations and 45 funding pathways meet. A white-magnolia and Chinese ink-wash field guide from research to repeatable enterprise."
+msgstr "Donde convergen los 16 distritos administrativos de Shanghái, 40 universidades de grado, 125 organizaciones de innovación y 45 vías de financiación. Una guía práctica inspirada en la magnolia blanca y la pintura tradicional en tinta china."
+
+msgid "Shanghai coverage highlights"
+msgstr "Aspectos destacados de la cobertura de Shanghái"
+
+msgid "White Magnolia & Traditional Ink Wash"
+msgstr "Magnolia Blanca y Tinta China Tradicional"
+
+msgid "All 16 Shanghai Administrative Districts"
+msgstr "Los 16 distritos administrativos de Shanghái"
+
+msgid "40 Universities + 41 Colleges"
+msgstr "40 universidades + 41 institutos superiores"
+
+msgid "Guidedog Native HTML & PDF"
+msgstr "HTML y PDF nativos con Guidedog"
+
+msgid "Explore the ecosystem"
+msgstr "Explorar el ecosistema"
+
+msgid "All 7 language PDFs"
+msgstr "Los 7 libros PDF por idioma"
+
+msgid "Written by:"
+msgstr "Escrito por:"
+
+msgid "With contributions from:"
+msgstr "Con contribuciones de:"
+
+msgid "Made using Guidedog in HTML and PDF · Available in English, 简体中文, हिन्दी, 日本語, 한국어, Deutsch & Español"
+msgstr "Creado con Guidedog en HTML y PDF · Disponible en inglés, chino simplificado, hindi, japonés, coreano, alemán y español"
+
+msgid "Inspired by Yulania denudata (White Magnolia), official flower of Shanghai since 1986, and traditional shuimo dan cai ink-wash painting on xuan paper."
+msgstr "Inspirado en Yulania denudata (magnolia blanca), flor oficial de Shanghái desde 1986, y en la pintura tradicional shuimo dan cai sobre papel xuan."
+
+msgid "Traditional Chinese shuimo ink wash painting of the Shanghai skyline across the misty Huangpu River with blooming white magnolia"
+msgstr "Pintura tradicional china en tinta shuimo del horizonte de Shanghái sobre el río Huangpu entre la niebla con magnolias blancas en flor"
+
+msgid "SHANGHAI / WHITE MAGNOLIA / CHINESE SHUIMO INK WASH"
+msgstr "SHANGHÁI / MAGNOLIA BLANCA / TINTA CHINA SHUIMO"
+
+msgid "Atlas coverage"
+msgstr "Cobertura del atlas"
+
+msgid "districts, connected"
+msgstr "distritos conectados"
+
+msgid "university profiles (+41 colleges)"
+msgstr "perfiles universitarios (+41 institutos)"
+
+msgid "organization routes"
+msgstr "perfiles de organizaciones"
+
+msgid "funding pathways"
+msgstr "vías de financiación"
+
+msgid "verified primary sources"
+msgstr "fuentes primarias verificadas"
+
+msgid "Download the Complete Illustrated PDF Book"
+msgstr "Descargar el libro PDF ilustrado completo"
+
+msgid "Shanghai Ecosystem Atlas PDF Book Cover"
+msgstr "Portada del libro PDF del Atlas del Ecosistema de Shanghái"
+
+msgid "WHITE MAGNOLIA EDITION"
+msgstr "EDICIÓN MAGNOLIA BLANCA"
+
+msgid "THE MAGNOLIA PRINT EDITION / COMPLETE ILLUSTRATED PDF BOOK"
+msgstr "EDICIÓN IMPRESA MAGNOLIA / LIBRO PDF ILUSTRADO COMPLETO"
+
+msgid "Typeset in a generous 240 × 300 mm art-book format by Guidedog's embedded Typst engine, the PDF book contains every chapter, vector district map, architecture diagram, 125 organization profiles, 45 funding pathways, 81 higher-education registry entries and 133 cited sources for offline reading and field trips."
+msgstr "Maquetado en un amplio formato de libro de arte de 240 × 300 mm mediante el motor Typst integrado en Guidedog, el libro PDF reúne todos los capítulos, mapas vectoriales de los 16 distritos, diagramas de arquitectura, 125 perfiles de organizaciones, 45 vías de financiación, 81 instituciones de educación superior y 133 fuentes verificadas."
+
+msgid "AUTHOR"
+msgstr "AUTOR"
+
+msgid "Lead author & ecosystem architecture"
+msgstr "Autor principal y arquitectura del ecosistema"
+
+msgid "CONTRIBUTORS"
+msgstr "COLABORADORES"
+
+msgid "PUBLICATION ENGINE"
+msgstr "MOTOR DE PUBLICACIÓN"
+
+msgid "Single-source RST, native PO localization & Typst book typesetting"
+msgstr "RST de fuente única, localización PO nativa y composición tipográfica Typst"
+
+msgid "Browse all 16 district chapters"
+msgstr "Explorar los 16 capítulos distritales"
+
+msgid "DOWNLOAD PDF BOOK IN ALL 7 LANGUAGES"
+msgstr "DESCARGAR EL LIBRO PDF EN LOS 7 IDIOMAS"
+
+msgid "MODELS & AGENTS"
+msgstr "MODELOS Y AGENTES"
+
+msgid "Intelligence in software"
+msgstr "Inteligencia en el software"
+
+msgid "From Model Speed Space and Zhangjiang Model Community to compute vouchers and pilot deployment."
+msgstr "Desde Model Speed Space y la Comunidad de Modelos de Zhangjiang hasta bonos de cómputo y despliegues piloto."
+
+msgid "CHIPS & ROBOTS"
+msgstr "CHIPS Y ROBÓTICA"
+
+msgid "Intelligence in the physical world"
+msgstr "Inteligencia en el mundo físico"
+
+msgid "Zhangjiang tape-out, Jiading MEMS pilot lines, embodied robotics, Jinshan UAVs and biomanufacturing."
+msgstr "Tape-out en Zhangjiang, líneas piloto MEMS en Jiading, robótica corporeizada, drones en Jinshan y biofabricación."
+
+msgid "CAPITAL WITH CONDITIONS"
+msgstr "CAPITAL CON CONDICIONES"
+
+msgid "Know what funding really means"
+msgstr "Comprender qué implica cada financiación"
+
+msgid "Compare 45 non-repayable grants, vouchers, interest-free loans, convertible support and state funds."
+msgstr "Compare 45 subvenciones a fondo perdido, bonos, préstamos sin intereses, apoyo convertible y fondos públicos."
+
+msgid "ALL 16 DISTRICTS"
+msgstr "LOS 16 DISTRITOS"
+
+msgid "Sixteen districts, sixteen entry routes"
+msgstr "Dieciséis distritos, dieciséis vías de acceso"
+
+msgid "District-by-district specialization, receiving authorities, local carriers and district funding calls."
+msgstr "Especialización por distrito, autoridades receptoras, operadores locales y convocatorias distritales."
+
+msgid "UNIVERSITIES & LABS"
+msgstr "UNIVERSIDADES Y LABORATORIOS"
+
+msgid "Universities & commercialization"
+msgstr "Universidades y transferencia tecnológica"
+
+msgid "All 40 undergraduate universities, 29 diploma colleges, 12 adult institutions and science parks."
+msgstr "Las 40 universidades de grado, 29 institutos superiores, 12 centros para adultos y parques científicos."
+
+msgid "FIELD EXECUTION"
+msgstr "EJECUCIÓN SOBRE EL TERRENO"
+
+msgid "From introduction to application"
+msgstr "Del primer contacto a la solicitud formal"
+
+msgid "Outreach templates, shared data-room checklist, foreign founder work-permit guide and 4-week plan."
+msgstr "Plantillas de contacto, lista de sala de datos, guía de permisos para fundadores extranjeros y plan de 4 semanas."
+
+msgid "IN THIS ATLAS"
+msgstr "EN ESTE ATLAS"
+
+msgid "PDF BOOK EDITION"
+msgstr "EDICIÓN EN LIBRO PDF"
+
+msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore & Emily Yue Xu. Built with Guidedog."
+msgstr "Escrito por Vikrant Rathore con contribuciones de Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu. Creado con Guidedog."
+
+msgid "Sources, credits & research limits"
+msgstr "Fuentes, créditos y límites de la investigación"
+
+msgid "Atlas"
+msgstr "Atlas"
+
+msgid "Navigation"
+msgstr "Navegación"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "SHANGHAI / ECOSYSTEM ATLAS"
+msgstr "SHANGHÁI / ATLAS DEL ECOSISTEMA"
+
+msgid "Inspired by Shanghai's official white magnolia and traditional Chinese ink wash. Grounded in 133 verified sources."
+msgstr "Inspirado en la magnolia blanca oficial de Shanghái y en la pintura tradicional en tinta china. Basado en 133 fuentes verificadas."
+
+msgid "Built with:"
+msgstr "Creado con:"
+
+msgid "Guidedog — Native HTML Website & Typst PDF Book across 7 languages"
+msgstr "Guidedog — Sitio web HTML nativo y libro PDF Typst en 7 idiomas"
+
+msgid "All 16 Shanghai districts"
+msgstr "Los 16 distritos de Shanghái"
+
+msgid "Sources & reading room (133 sources)"
+msgstr "Fuentes y sala de lectura (133 fuentes)"
+
+msgid "Research methods, gaps & credits"
+msgstr "Metodología, brechas y créditos"
+
+msgid "Download research dataset (JSON)"
+msgstr "Descargar conjunto de datos (JSON)"
+
+msgid "Research checked 2026-11-04. Current official notices govern."
+msgstr "Investigación verificada el 04-11-2026. Rigen las convocatorias oficiales vigentes."
+
+msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu."
+msgstr "Escrito por Vikrant Rathore con contribuciones de Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu."
+
+msgid "Built with Guidedog."
+msgstr "Creado con Guidedog."
+

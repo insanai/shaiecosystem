@@ -1,0 +1,154 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/jingan.rst:1
+msgid "Jing'an"
+msgstr "Distrito de Jing'an"
+
+#: ../../districts/jingan.rst:4
+msgid "Enterprise AI, data services and digital commerce"
+msgstr "IA empresarial, servicios de datos y comercio digital"
+
+#: ../../districts/jingan.rst:6
+msgid ""
+"The 2026-2028 AI application demonstration plan focuses on industry "
+"integration and talent. Its stated objectives must be distinguished from "
+"implementing rules and currently accepting applications."
+msgstr "El plan de demostración de aplicaciones de IA 2026-2028 se centra en la integración industrial y el talento. Sus objetivos estratégicos deben distinguirse de las normas de ejecución y de las convocatorias con admisión actualmente abierta."
+
+#: ../../districts/jingan.rst:8
+msgid ""
+"`Evidence S053 "
+"<https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. "
+"静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+msgstr "`Evidencia S053 <https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. 静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+
+#: ../../districts/jingan.rst:10
+msgid "Who receives the inquiry"
+msgstr "Quién recibe la consulta"
+
+#: ../../districts/jingan.rst:13
+msgid "Jing'an science and economy authority"
+msgstr "Comisión de Ciencia y Economía de Jing'an"
+
+#: ../../districts/jingan.rst:15
+msgid "`Official district website <https://www.jingan.gov.cn/>`_"
+msgstr "`Sitio web oficial del distrito <https://www.jingan.gov.cn/>`_"
+
+#: ../../districts/jingan.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "En este registro no consta un teléfono ni correo electrónico directo vigente para el programa. Utilice el sitio web oficial para solicitar los datos del equipo receptor responsable."
+
+#: ../../districts/jingan.rst:19
+msgid "Before applying"
+msgstr "Antes de presentar la solicitud"
+
+#: ../../districts/jingan.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../districts/jingan.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../districts/jingan.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../districts/jingan.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../districts/jingan.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../districts/jingan.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Consulte qué convocatoria vigente rige el proyecto, si tanto el domicilio social como las operaciones reales deben radicar en el distrito, qué período de gasto resulta elegible y si la obtención previa de ayudas municipales o distritales excluye una nueva solicitud. Obtenga respuesta antes de trasladar una empresa o incurrir en costes."
+
+#: ../../districts/jingan.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Organizaciones locales incluidas en este atlas"
+
+#: ../../districts/jingan.rst:37
+msgid ""
+":doc:`Shibei Hi-Tech Park / Shutong Valley & Daning Carriers "
+"</entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · Technology park · "
+"Software AI, Industry) — Jing'an's 2026-2028 AI demonstration plan and "
+"district carrier program anchor big-data, blockchain (Shutong Valley), "
+"cloud computing and enterprise AI workspaces across Shibei Hi-Tech Park, "
+"Daning and Suhewan. Confirm the specific carrier operator, "
+"data-compliance services and tenancy terms. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Parque de Alta Tecnología de Shibei / Shutong Valley y Centros de Daning </entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · Parque tecnológico · IA de software, Industria) — El plan de demostración de IA 2026-2028 de Jing'an y su programa distrital de centros articulan espacios de trabajo para macrodatos, blockchain (Shutong Valley), computación en la nube e IA empresarial entre el Parque de Alta Tecnología de Shibei, Daning y Suhewan. Confirme el operador específico, los servicios de cumplimiento de datos y las condiciones de arrendamiento. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/jingan.rst:38
+msgid ""
+":doc:`Shanghai Theatre Academy </entities/university-theatre>` (上海戏剧学院 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Performance, virtual "
+"production, creative media. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Academia de Teatro de Shanghái </entities/university-theatre>` (上海戏剧学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Artes escénicas, producción virtual, medios creativos. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/jingan.rst:39
+msgid ""
+":doc:`Shanghai University </entities/university-shu>` (上海大学 · University) "
+"— Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Manufacturing, robotics, materials, "
+"digital media. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Universidad de Shanghái </entities/university-shu>` (上海大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Fabricación, robótica, materiales, medios digitales. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/jingan.rst:41
+msgid "Funding routes"
+msgstr "Vías de financiación"
+
+#: ../../districts/jingan.rst:44
+msgid ""
+":doc:`Jing'an Service Industry Guidance Fund and AI Demonstration "
+"Support, 2026 </funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · "
+"Grant · No equity) — Project-specific support under the district "
+"service-industry guidance fund rules, matched to qualifying project "
+"investment. Status: 2026 call published; deadline check required. Timing: "
+"Second 2026 batch published May 2026; confirm current sub-district "
+"recommending window."
+msgstr ":doc:`Fondo Guía para el Desarrollo del Sector Servicios y Apoyo a la Demostración de IA de Jing'an, 2026 </funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Apoyo específico por proyecto conforme al reglamento del fondo guía del sector servicios del distrito, ajustado a la inversión total elegible. Estado: Convocatoria 2026 publicada; verificar fecha límite. Plazo: Convocatoria del segundo lote de 2026 publicada en mayo de 2026; confirmar la ventana actual de recomendación del subdistrito o zona funcional."
+
+#: ../../districts/jingan.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Compare también las vías de financiación de ámbito municipal </funding>`"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -29,83 +29,87 @@ msgid "Investor | Pudong | Research checked 2026-11-04"
 msgstr "投资机构｜浦东新区｜研究核对日期 2026-11-04"
 
 #: ../../entities/pudong-seed.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI."
+msgstr "人工智能与产业方向：软件人工智能、硬件人工智能。"
+
+#: ../../entities/pudong-seed.rst:10
 msgid ""
 "Announced in July 2025 at a target size of RMB 2 billion and an initial "
 "RMB 500 million tranche. The figure is fund scale, not a per-startup "
 "cheque. Seek the manager through Pudong's official ecosystem route."
 msgstr "2025年7月公布总规模20亿元、首期5亿元。该数字为基金规模，并非每家企业投资额。可经浦东官方生态渠道确认管理人。"
 
-#: ../../entities/pudong-seed.rst:10
+#: ../../entities/pudong-seed.rst:12
 msgid ""
 "`Evidence S045 "
 "<https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong "
 "launches fund to boost AI industry."
 msgstr "`证据 S045 <https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong launches fund to boost AI industry."
 
-#: ../../entities/pudong-seed.rst:12
+#: ../../entities/pudong-seed.rst:14
 msgid "Status and support"
 msgstr "状态与支持"
 
-#: ../../entities/pudong-seed.rst:15
+#: ../../entities/pudong-seed.rst:17
 msgid "Published entity; intake to confirm"
 msgstr "机构有来源，招募待确认"
 
-#: ../../entities/pudong-seed.rst:17
+#: ../../entities/pudong-seed.rst:19
 msgid "Funding mechanism: Equity investment."
 msgstr "支持机制：股权投资。"
 
-#: ../../entities/pudong-seed.rst:19
+#: ../../entities/pudong-seed.rst:21
 msgid "Contact and location"
 msgstr "联系与位置"
 
-#: ../../entities/pudong-seed.rst:22
+#: ../../entities/pudong-seed.rst:24
 msgid ""
 "`Official evidence and authority route "
 "<https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_"
 msgstr "`官方来源与主管部门入口 <https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_"
 
-#: ../../entities/pudong-seed.rst:24
+#: ../../entities/pudong-seed.rst:26
 msgid ""
 "A direct program phone or email is not verified here. Use the official "
 "route and request the responsible team; no contact has been invented."
 msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
 
-#: ../../entities/pudong-seed.rst:26
+#: ../../entities/pudong-seed.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
 msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
 
-#: ../../entities/pudong-seed.rst:28
+#: ../../entities/pudong-seed.rst:30
 msgid "Application workflow"
 msgstr "申请流程"
 
-#: ../../entities/pudong-seed.rst:31
+#: ../../entities/pudong-seed.rst:33
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
 
-#: ../../entities/pudong-seed.rst:33
+#: ../../entities/pudong-seed.rst:35
 msgid "Confirm the manager, sector, stage and legal-entity fit."
 msgstr "确认管理人、行业、阶段及主体匹配。"
 
-#: ../../entities/pudong-seed.rst:35
+#: ../../entities/pudong-seed.rst:37
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
 msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
 
-#: ../../entities/pudong-seed.rst:37
+#: ../../entities/pudong-seed.rst:39
 msgid "Complete commercial, financial, technical and legal due diligence."
 msgstr "完成商业、财务、技术及法律尽职调查。"
 
-#: ../../entities/pudong-seed.rst:39
+#: ../../entities/pudong-seed.rst:41
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
 msgstr "审核条款书、投委会条件及正式协议。"
 
-#: ../../entities/pudong-seed.rst:41
+#: ../../entities/pudong-seed.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"

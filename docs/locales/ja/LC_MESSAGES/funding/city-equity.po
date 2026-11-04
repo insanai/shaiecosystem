@@ -1,0 +1,108 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/city-equity.rst:1
+msgid "Leading-industry and specialist AI funds"
+msgstr "先導産業・AI特化型国有投資ファンド"
+
+#: ../../funding/city-equity.rst:4
+msgid "Equity investment | Citywide / global"
+msgstr "株式投資・出資 | 全市／グローバル"
+
+#: ../../funding/city-equity.rst:6
+msgid "Published investment platform; deal review"
+msgstr "公表済み投資プラットフォーム（案件審査要）"
+
+#: ../../funding/city-equity.rst:8
+msgid "`Evidence S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+msgstr "`出典 S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+
+#: ../../funding/city-equity.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/city-equity.rst:13
+msgid "Vehicle-specific investment; fund size is not startup funding"
+msgstr "個別ファンドごとの出資案件により決定（ファンド総規模は個別企業の資金調達額ではない）"
+
+#: ../../funding/city-equity.rst:15
+msgid "Negotiated equity"
+msgstr "個別協議による株式取得"
+
+#: ../../funding/city-equity.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/city-equity.rst:20
+msgid ""
+"AI, chip, healthcare and other mandate-compatible companies. Identify the "
+"direct-investment or subfund manager and review stage, domicile, return "
+"and ownership terms."
+msgstr "AI、半導体チップ、ライフサイエンス等、ファンドの投資対象方針に合致する企業。直接投資または子ファンドの運用会社を特定し、ステージ、登記地、期待リターン、持株比率の条件を精査すること。"
+
+#: ../../funding/city-equity.rst:22
+msgid "Investment committee process; no guaranteed award"
+msgstr "投資委員会の審査プロセスに従う（採択を確約する助成制度ではない）"
+
+#: ../../funding/city-equity.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/city-equity.rst:27
+msgid ""
+"`Official application / policy route <https://www.ssci-leadingfund.com/>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.ssci-leadingfund.com/>`_"
+
+#: ../../funding/city-equity.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/city-equity.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/city-equity.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "ファンド運用者、投資対象セクター、ステージ、および法人格の適格性を確認する。"
+
+#: ../../funding/city-equity.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "ピッチ資料、資本政策表（キャップテーブル）、技術的実証データ、事業進捗実績（トラクション）、および資金調達計画を提出する。"
+
+#: ../../funding/city-equity.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "ビジネス、財務、技術、および法務のデューデリジェンスを完了する。"
+
+#: ../../funding/city-equity.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "投資条件概要書（タームシート）、投資委員会の決議条件、および最終投資契約書を精査する。"
+
+#: ../../funding/city-equity.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

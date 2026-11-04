@@ -1,0 +1,112 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/stvc.rst:1
+msgid "Shanghai STVC Group"
+msgstr "शंघाई STVC ग्रुप (Shanghai STVC Group)"
+
+#: ../../entities/stvc.rst:4
+msgid "上海科技创业投资集团"
+msgstr "上海科技创业投资集团"
+
+#: ../../entities/stvc.rst:6
+msgid "Investor | Citywide / global | Research checked 2026-11-04"
+msgstr "निवेशक | शहर-व्यापी / वैश्विक | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/stvc.rst:8
+msgid "AI and industry focus: Chips, Health, Software AI."
+msgstr "एआई और उद्योग फोकस: चिप्स, स्वास्थ्य, सॉफ्टवेयर AI।"
+
+#: ../../entities/stvc.rst:10
+msgid ""
+"An established science and technology investment group within Shanghai's "
+"state-capital ecosystem. Use its official portfolio and manager "
+"information to identify the appropriate investment vehicle and stage."
+msgstr "शंघाई के राज्य-पूंजी इकोसिस्टम के भीतर एक स्थापित विज्ञान और प्रौद्योगिकी निवेश समूह। उपयुक्त निवेश साधन और चरण की पहचान करने के लिए इसके आधिकारिक पोर्टफोलियो और प्रबंधक जानकारी का उपयोग करें।"
+
+#: ../../entities/stvc.rst:12
+msgid ""
+"`Evidence S047 <https://www.shstvc.com.cn/en/>`_. Shanghai Science & "
+"Technology Venture Capital (Group) Co., Ltd.."
+msgstr "`साक्ष्य S047 <https://www.shstvc.com.cn/en/>`_. Shanghai Science & Technology Venture Capital (Group) Co., Ltd.."
+
+#: ../../entities/stvc.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/stvc.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/stvc.rst:19
+msgid "Funding mechanism: Equity investment."
+msgstr "वित्तपोषण तंत्र: इक्विटी निवेश।"
+
+#: ../../entities/stvc.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/stvc.rst:24
+msgid "`Official website / intake route <https://www.shstvc.com.cn/en/>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://www.shstvc.com.cn/en/>`_"
+
+#: ../../entities/stvc.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/stvc.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/stvc.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/stvc.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/stvc.rst:35
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "प्रबंधक, क्षेत्र, चरण और कानूनी-इकाई की उपयुक्तता की पुष्टि करें।"
+
+#: ../../entities/stvc.rst:37
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "डेक, कैप टेबल, प्रौद्योगिकी साक्ष्य, प्रगति (traction) और वित्तपोषण योजना जमा करें।"
+
+#: ../../entities/stvc.rst:39
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "वाणिज्यिक, वित्तीय, तकनीकी और कानूनी ड्यू डिलिजेंस पूरा करें।"
+
+#: ../../entities/stvc.rst:41
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "टर्म शीट, निवेश समिति की शर्तों और अंतिम समझौतों की समीक्षा करें।"
+
+#: ../../entities/stvc.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`शहर-व्यापी / वैश्विक ज़िला मार्ग </funding>`"

@@ -1,0 +1,120 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/shlab.rst:1
+msgid "Shanghai Artificial Intelligence Laboratory"
+msgstr "上海人工知能実験室（Shanghai AI Lab）"
+
+#: ../../entities/shlab.rst:4
+msgid "上海人工智能实验室"
+msgstr "上海人工智能实验室"
+
+#: ../../entities/shlab.rst:6
+msgid "Research platform | Xuhui | Research checked 2026-11-04"
+msgstr "研究プラットフォーム｜徐匯区｜調査確認日 2026-11-04"
+
+#: ../../entities/shlab.rst:8
+msgid "AI and industry focus: Software AI, AI for Science."
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、科学知能（AI for Science）。"
+
+#: ../../entities/shlab.rst:10
+msgid ""
+"A research institution for foundational and applied AI. Its published "
+"general contact supports initial routing; open-source resources, "
+"collaboration and recruitment are separate pathways, not a generic "
+"startup grant."
+msgstr "基礎研究および応用AI研究を担う国家級研究所。公表されている代表連絡先から初期照会が可能。オープンソース資源の利用、共同研究、人材採用はそれぞれ独立した窓口であり、一般的な起業補助金ではない。"
+
+#: ../../entities/shlab.rst:12
+msgid ""
+"`Evidence S031 <https://www.shlab.org.cn/aboutus>`_. 关于我们 - 上海人工智能实验室."
+msgstr "`出典 S031 <https://www.shlab.org.cn/aboutus>`_. 关于我们 - 上海人工智能实验室."
+
+#: ../../entities/shlab.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/shlab.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/shlab.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/shlab.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/shlab.rst:24
+msgid ""
+"`Official website / intake route <https://www.shlab.org.cn/aboutus>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://www.shlab.org.cn/aboutus>`_"
+
+#: ../../entities/shlab.rst:26
+msgid "`Email: comm@pjlab.org.cn <mailto:comm@pjlab.org.cn>`_"
+msgstr "`メール：comm@pjlab.org.cn <mailto:comm@pjlab.org.cn>`_"
+
+#: ../../entities/shlab.rst:28
+msgid ""
+"Published address: L1, International Media Port, 129 Longwen Road, Xuhui."
+msgstr "公開所在地：徐匯区龍文路129号国際伝媒港L1階。"
+
+#: ../../entities/shlab.rst:30
+msgid ""
+"Map point is approximate, based on the published street context; it is "
+"not an entrance or navigation coordinate."
+msgstr "地図上の地点は公開されている街区情報に基づく概略位置であり、施設の入口やナビゲーション用座標を示すものではありません。"
+
+#: ../../entities/shlab.rst:32
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/shlab.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/shlab.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "関連する研究グループを特定し、解決すべき学術的または産業的課題を明確にする。"
+
+#: ../../entities/shlab.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "データ、設備、研究成果、必要予算、およびタイムラインを網羅した簡潔な共同研究提案書を送付する。"
+
+#: ../../entities/shlab.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "連携スキーム、論文発表、知的財産の帰属、および所属機関の承認手続きについて合意する。"
+
+#: ../../entities/shlab.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "研究業務を開始する前に、書面による施設利用許可またはプロジェクト承認を取得する。"
+
+#: ../../entities/shlab.rst:45
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`徐匯区の案内ルート </districts/xuhui>`"

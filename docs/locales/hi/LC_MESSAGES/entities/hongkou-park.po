@@ -1,0 +1,118 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/hongkou-park.rst:1
+msgid "Zhangjiang Hongkou Park / Beikechuang"
+msgstr "झांगजियांग होंगकोउ पार्क / बेइकेचुआंग (Zhangjiang Hongkou Park / Beikechuang)"
+
+#: ../../entities/hongkou-park.rst:4
+msgid "张江虹口园／北科创"
+msgstr "张江虹口园／北科创"
+
+#: ../../entities/hongkou-park.rst:6
+msgid "Technology park | Hongkou | Research checked 2026-11-04"
+msgstr "प्रौद्योगिकी पार्क | होंगकोउ (Hongkou) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/hongkou-park.rst:8
+msgid "AI and industry focus: Software AI, Industry."
+msgstr "एआई और उद्योग फोकस: सॉफ्टवेयर AI, उद्योग।"
+
+#: ../../entities/hongkou-park.rst:10
+msgid ""
+"The park plan gives Beikechuang a coordinating role in incubation, "
+"technology transfer and investment services. Request the relevant "
+"sub-park and named operating company for a project-specific response."
+msgstr "पार्क योजना बेइकेचुआंग को इनक्यूबेशन, प्रौद्योगिकी हस्तांतरण और निवेश सेवाओं में समन्वयकारी भूमिका देती है। परियोजना-विशिष्ट प्रतिक्रिया के लिए प्रासंगिक सब-पार्क और नामित परिचालन कंपनी का अनुरोध करें।"
+
+#: ../../entities/hongkou-park.rst:12
+msgid ""
+"`Evidence S026 "
+"<https://www.shanghai.gov.cn/tszczq-cxcyqj7/20251119/b3f4914652a443c89bd1d1bd1320021d.html>`_. "
+"虹口区人民政府关于印发 《张江高新区虹口园改革创新发展行动方案（2025—2026年）》的通知."
+msgstr "`साक्ष्य S026 <https://www.shanghai.gov.cn/tszczq-cxcyqj7/20251119/b3f4914652a443c89bd1d1bd1320021d.html>`_. 虹口区人民政府关于印发 《张江高新区虹口园改革创新发展行动方案（2025—2026年）》的通知."
+
+#: ../../entities/hongkou-park.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/hongkou-park.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/hongkou-park.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/hongkou-park.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/hongkou-park.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/tszczq-cxcyqj7/20251119/b3f4914652a443c89bd1d1bd1320021d.html>`_"
+msgstr "`आधिकारिक साक्ष्य और प्राधिकरण मार्ग <https://www.shanghai.gov.cn/tszczq-cxcyqj7/20251119/b3f4914652a443c89bd1d1bd1320021d.html>`_"
+
+#: ../../entities/hongkou-park.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/hongkou-park.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/hongkou-park.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/hongkou-park.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/hongkou-park.rst:35
+msgid "Send a project brief and request the current admission checklist."
+msgstr "परियोजना का संक्षिप्त विवरण भेजें और वर्तमान प्रवेश चेकलिस्ट का अनुरोध करें।"
+
+#: ../../entities/hongkou-park.rst:37
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "संचालक की पात्रता और तकनीकी या वाणिज्यिक समीक्षा पूरी करें।"
+
+#: ../../entities/hongkou-park.rst:39
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "किराया, सेवा शुल्क, IP, कंप्यूट मूल्य निर्धारण और किसी भी इक्विटी अधिकार की लिखित रूप में पुष्टि करें।"
+
+#: ../../entities/hongkou-park.rst:41
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "सहमत प्रवेश दस्तावेजों पर हस्ताक्षर करें और मील के पत्थर तथा सहायता प्रभारियों को दर्ज करें।"
+
+#: ../../entities/hongkou-park.rst:43
+msgid ":doc:`Hongkou district route </districts/hongkou>`"
+msgstr ":doc:`होंगकोउ (Hongkou) ज़िला मार्ग </districts/hongkou>`"

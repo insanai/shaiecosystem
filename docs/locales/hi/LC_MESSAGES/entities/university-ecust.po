@@ -1,0 +1,139 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/university-ecust.rst:1
+msgid "East China University of Science and Technology"
+msgstr "ईस्ट चाइना यूनिवर्सिटी ऑफ साइंस एंड टेक्नोलॉजी (ECUST)"
+
+#: ../../entities/university-ecust.rst:4
+msgid "华东理工大学"
+msgstr "华东理工大学"
+
+#: ../../entities/university-ecust.rst:6
+msgid "University | Xuhui | Research checked 2026-11-04"
+msgstr "विश्वविद्यालय | शुहुई (Xuhui) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/university-ecust.rst:8
+msgid "Ministry of Education institution code: 4131010251."
+msgstr "शिक्षा मंत्रालय संस्थान कोड: 4131010251।"
+
+#: ../../entities/university-ecust.rst:10
+msgid ""
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Materials, chemistry, bioprocessing, AI "
+"for Science. These themes are editorial routing guidance, not a verified "
+"offer of laboratory access or startup funding."
+msgstr "जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सामग्री, रसायन विज्ञान, बायोप्रोसेसिंग, विज्ञान के लिए AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव।"
+
+#: ../../entities/university-ecust.rst:12
+msgid "`Evidence S080 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园."
+msgstr "`साक्ष्य S080 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园."
+
+#: ../../entities/university-ecust.rst:14
+msgid "`Evidence S081 <https://www.ecustpark.com/1001370>`_. 创业服务."
+msgstr "`साक्ष्य S081 <https://www.ecustpark.com/1001370>`_. 创业服务."
+
+#: ../../entities/university-ecust.rst:16
+msgid ""
+"`Evidence S076 "
+"<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+"全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`साक्ष्य S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+
+#: ../../entities/university-ecust.rst:18
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/university-ecust.rst:21
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/university-ecust.rst:23
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/university-ecust.rst:25
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/university-ecust.rst:28
+msgid ""
+"ECUST National University Science Park entrepreneurship service route"
+msgstr "ECUST राष्ट्रीय विश्वविद्यालय विज्ञान पार्क उद्यमिता सेवा मार्ग"
+
+#: ../../entities/university-ecust.rst:30
+msgid "`Official website / intake route <https://www.ecustpark.com/>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://www.ecustpark.com/>`_"
+
+#: ../../entities/university-ecust.rst:32
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/university-ecust.rst:34
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/university-ecust.rst:36
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/university-ecust.rst:39
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/university-ecust.rst:41
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "प्रासंगिक अनुसंधान समूह खोजें और वैज्ञानिक या औद्योगिक समस्या बताएं।"
+
+#: ../../entities/university-ecust.rst:43
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "डेटा, उपकरण, आउटपुट, फंडिंग और समय-सीमा को कवर करने वाला एक संक्षिप्त प्रस्ताव भेजें।"
+
+#: ../../entities/university-ecust.rst:45
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "सहयोग मार्ग, प्रकाशन, IP और संस्थागत प्राधिकरण पर सहमति बनाएं।"
+
+#: ../../entities/university-ecust.rst:47
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "काम शुरू करने से पहले लिखित पहुंच या परियोजना अनुमोदन प्राप्त करें।"
+
+#: ../../entities/university-ecust.rst:49
+msgid ""
+"Confirm whether external founders can apply, whether student or alumni "
+"status is required, who owns the research IP, and whether support is a "
+"service, a loan, a grant or equity. The thematic match in this profile is "
+"editorial guidance."
+msgstr "पुष्टि करें कि क्या बाहरी संस्थापक आवेदन कर सकते हैं, क्या छात्र या पूर्व छात्र (alumni) स्थिति आवश्यक है, अनुसंधान IP का स्वामी कौन है, और क्या सहायता एक सेवा, ऋण, अनुदान या इक्विटी है। इस प्रोफाइल में विषयगत मिलान संपादकीय मार्गदर्शन है।"
+
+#: ../../entities/university-ecust.rst:51
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`शुहुई (Xuhui) ज़िला मार्ग </districts/xuhui>`"

@@ -1,0 +1,115 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/minhang-conversion.rst:1
+msgid "Minhang research commercialization support"
+msgstr "閔行区科学技術成果実用化・事業化支援"
+
+#: ../../funding/minhang-conversion.rst:4
+msgid "Grant | Minhang"
+msgstr "助成金・補助金 | 閔行区"
+
+#: ../../funding/minhang-conversion.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "政策有効（公募開始は未確認）"
+
+#: ../../funding/minhang-conversion.rst:8
+msgid ""
+"`Evidence S091 "
+"<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
+"Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`出典 S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+
+#: ../../funding/minhang-conversion.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/minhang-conversion.rst:13
+msgid ""
+"New conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three "
+"years; up to 50% of investment"
+msgstr "新設の成果事業化企業に対して年間最大50万元、3年間累計最大150万元（事業化投資額の最大50％まで）"
+
+#: ../../funding/minhang-conversion.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/minhang-conversion.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/minhang-conversion.rst:20
+msgid ""
+"Qualifying research-result conversion in Minhang. Registration, eligible "
+"expenditure, audit and annual notice conditions must be confirmed."
+msgstr "閔行区内で研究開発成果の事業化を行う適格プロジェクト。法人設立地、適格支出、会計監査、および年度公募通知の要件を満たす必要がある。"
+
+#: ../../funding/minhang-conversion.rst:22
+msgid "Policy: 1 Sep 2025 to 31 Aug 2030"
+msgstr "政策有効期間：2025年9月1日〜2030年8月31日"
+
+#: ../../funding/minhang-conversion.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/minhang-conversion.rst:27
+msgid "`Official application / policy route <https://www.shmh.gov.cn/>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.shmh.gov.cn/>`_"
+
+#: ../../funding/minhang-conversion.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/minhang-conversion.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/minhang-conversion.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/minhang-conversion.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/minhang-conversion.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/minhang-conversion.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/minhang-conversion.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

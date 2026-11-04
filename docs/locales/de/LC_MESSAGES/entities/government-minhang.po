@@ -1,0 +1,116 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/government-minhang.rst:1
+msgid "Minhang science and technology authority"
+msgstr "Behörde für Wissenschaft und Technologie von Minhang"
+
+#: ../../entities/government-minhang.rst:4
+msgid "闵行区科技主管部门"
+msgstr "闵行区科技主管部门"
+
+#: ../../entities/government-minhang.rst:6
+msgid "Government | Minhang | Research checked 2026-11-04"
+msgstr "Behörde | Bezirk Minhang | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/government-minhang.rst:8
+msgid ""
+"The enterprise innovation policy runs from 1 September 2025 to 31 August "
+"2030. New conversion enterprises may qualify for up to RMB 500,000 "
+"annually, capped at RMB 1.5 million over three years and 50% of eligible "
+"investment."
+msgstr "Die Förderrichtlinie für Unternehmenssinnovation gilt vom 1. September 2025 bis zum 31. August 2030. Neu gegründete Transferunternehmen können bis zu 500.000 RMB jährlich erhalten, gedeckelt auf maximal 1,5 Millionen RMB über drei Jahre und 50 % der förderfähigen Investitionen."
+
+#: ../../entities/government-minhang.rst:10
+msgid ""
+"`Evidence S091 "
+"<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
+"Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`Nachweis S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+
+#: ../../entities/government-minhang.rst:12
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/government-minhang.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/government-minhang.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/government-minhang.rst:19
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/government-minhang.rst:22
+msgid "`Official website / intake route <https://www.shmh.gov.cn/>`_"
+msgstr "`Offizielle Website / Bewerbungszugang <https://www.shmh.gov.cn/>`_"
+
+#: ../../entities/government-minhang.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+
+#: ../../entities/government-minhang.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/government-minhang.rst:28
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/government-minhang.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/government-minhang.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../entities/government-minhang.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../entities/government-minhang.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../entities/government-minhang.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../entities/government-minhang.rst:41
+msgid ":doc:`Minhang district route </districts/minhang>`"
+msgstr ":doc:`Bezirksroute Bezirk Minhang </districts/minhang>`"

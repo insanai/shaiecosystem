@@ -1,0 +1,121 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/jlabs.rst:1
+msgid "JLABS Shanghai"
+msgstr "JLABS Shanghái (Johnson & Johnson Innovation)"
+
+#: ../../entities/jlabs.rst:4
+msgid "强生创新JLABS上海"
+msgstr "强生创新JLABS上海"
+
+#: ../../entities/jlabs.rst:6
+msgid "Corporate program | Pudong | Research checked 2026-11-04"
+msgstr "Programa de innovación corporativa | Nueva Área de Pudong | Investigación verificada el 2026-11-04"
+
+#: ../../entities/jlabs.rst:8
+msgid "AI and industry focus: Health, AI for Science."
+msgstr "Enfoque de IA e industria: Salud y biomedicina, IA para la Ciencia."
+
+#: ../../entities/jlabs.rst:10
+msgid ""
+"An operator-listed life-sciences incubation site in Zhangjiang with an "
+"application route. For AI-enabled healthcare, clarify scientific fit, "
+"laboratory requirements, residency pricing, IP and any separate challenge "
+"or investment terms."
+msgstr "Centro de incubación en ciencias de la vida listado por el operador en Zhangjiang con vía de solicitud abierta. Para proyectos de salud asistidos por IA, aclare el encaje científico, los requisitos de laboratorio, las tarifas de residencia, la propiedad intelectual y cualesquiera términos independientes de retos o inversión."
+
+#: ../../entities/jlabs.rst:12
+msgid ""
+"`Evidence S070 "
+"<https://jnjinnovation.com/locations/jlabs/jlabs-shanghai>`_. Incubator "
+"For Life Science Start-Ups, Shanghai, China | JLABS | Johnson & Johnson "
+"Innovation."
+msgstr "`Evidencia S070 <https://jnjinnovation.com/locations/jlabs/jlabs-shanghai>`_. Incubator For Life Science Start-Ups, Shanghai, China | JLABS | Johnson & Johnson Innovation."
+
+#: ../../entities/jlabs.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/jlabs.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/jlabs.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/jlabs.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/jlabs.rst:24
+msgid ""
+"`Official website / intake route "
+"<https://jnjinnovation.com/locations/jlabs/jlabs-shanghai>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://jnjinnovation.com/locations/jlabs/jlabs-shanghai>`_"
+
+#: ../../entities/jlabs.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/jlabs.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/jlabs.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/jlabs.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/jlabs.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "Identificar al responsable de la unidad de negocio corporativa y definir un caso de uso medible."
+
+#: ../../entities/jlabs.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "Presentar el resumen del producto, la evidencia de pilotos previos y los requisitos técnicos pertinentes."
+
+#: ../../entities/jlabs.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "Confirmar la disponibilidad de una cohorte abierta o acordar un piloto acotado, los derechos sobre los datos y los términos de propiedad intelectual."
+
+#: ../../entities/jlabs.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "Revisar por separado los procesos de compras, condiciones de pago, criterios de aceptación y la decisión de paso a producción."
+
+#: ../../entities/jlabs.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Ruta del distrito de Nueva Área de Pudong </districts/pudong>`"

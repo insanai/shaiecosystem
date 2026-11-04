@@ -1,0 +1,119 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/songjiang-data-2026.rst:1
+msgid "Songjiang Data Elements Special Fund, second 2026 batch"
+msgstr "Fondo Especial de Elementos de Datos de Songjiang, segundo lote de 2026"
+
+#: ../../funding/songjiang-data-2026.rst:4
+msgid "Grant / reimbursement | Songjiang"
+msgstr "Subvención / reembolso | Distrito de Songjiang"
+
+#: ../../funding/songjiang-data-2026.rst:6
+msgid "2026 call published; deadline check required"
+msgstr "Convocatoria 2026 publicada; verificar fecha límite"
+
+#: ../../funding/songjiang-data-2026.rst:8
+msgid ""
+"`Evidence S124 "
+"<https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. "
+"关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
+msgstr "`Evidencia S124 <https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. 关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
+
+#: ../../funding/songjiang-data-2026.rst:10
+msgid "Amount and mechanism"
+msgstr "Importe y mecanismo"
+
+#: ../../funding/songjiang-data-2026.rst:13
+msgid ""
+"Project-specific support under the district data-elements special fund "
+"rules"
+msgstr "Apoyo específico por proyecto conforme a las bases reguladoras del fondo especial de elementos de datos del distrito"
+
+#: ../../funding/songjiang-data-2026.rst:15
+msgid "No equity"
+msgstr "Sin cesión de capital (No equity)"
+
+#: ../../funding/songjiang-data-2026.rst:17
+msgid "Eligibility and timing"
+msgstr "Elegibilidad y plazos"
+
+#: ../../funding/songjiang-data-2026.rst:20
+msgid ""
+"Lawfully operating Songjiang organizations developing high-quality "
+"datasets, corpus governance, data-product listings or AI data-space "
+"applications."
+msgstr "Organizaciones que operen legalmente en Songjiang y desarrollen conjuntos de datos de alta calidad, gobernanza de corpus, registro de productos de datos en mercados oficiales o aplicaciones en espacios de datos de IA."
+
+#: ../../funding/songjiang-data-2026.rst:22
+msgid ""
+"Second 2026 batch notice issued August 2026; confirm current acceptance "
+"status"
+msgstr "Convocatoria del segundo lote de 2026 publicada en agosto de 2026; confirmar el estado actual de recepción de solicitudes"
+
+#: ../../funding/songjiang-data-2026.rst:24
+msgid "Contact and application"
+msgstr "Contacto y solicitud"
+
+#: ../../funding/songjiang-data-2026.rst:27
+msgid ""
+"`Official application / policy route <https://www.songjiang.gov.cn/>`_"
+msgstr "`Vía oficial de solicitud / normativa <https://www.songjiang.gov.cn/>`_"
+
+#: ../../funding/songjiang-data-2026.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "La autoridad u operador enlazado constituye la vía de contacto. En este perfil no consta un contacto directo vigente para el programa."
+
+#: ../../funding/songjiang-data-2026.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../funding/songjiang-data-2026.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../funding/songjiang-data-2026.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../funding/songjiang-data-2026.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../funding/songjiang-data-2026.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../funding/songjiang-data-2026.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "El importe máximo publicado es un techo presupuestario, no un derecho adquirido. Verifique la convocatoria aplicable, el período de gastos elegibles, la compatibilidad con otras ayudas públicas y las condiciones de desembolso por escrito."

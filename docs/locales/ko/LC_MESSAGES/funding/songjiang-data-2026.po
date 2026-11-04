@@ -1,0 +1,119 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/songjiang-data-2026.rst:1
+msgid "Songjiang Data Elements Special Fund, second 2026 batch"
+msgstr "2026년 쑹장구 데이터 요소 전용 자금 제2차"
+
+#: ../../funding/songjiang-data-2026.rst:4
+msgid "Grant / reimbursement | Songjiang"
+msgstr "보조금 / 비용 환급 | 쑹장구"
+
+#: ../../funding/songjiang-data-2026.rst:6
+msgid "2026 call published; deadline check required"
+msgstr "2026년 공고 발표됨; 마감일 확인 필요"
+
+#: ../../funding/songjiang-data-2026.rst:8
+msgid ""
+"`Evidence S124 "
+"<https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. "
+"关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
+msgstr "`근거 S124 <https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. 关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
+
+#: ../../funding/songjiang-data-2026.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/songjiang-data-2026.rst:13
+msgid ""
+"Project-specific support under the district data-elements special fund "
+"rules"
+msgstr "쑹장구 데이터 요소 전용 자금 관리 규정에 따라 심의 승인된 프로젝트별 자금 지원"
+
+#: ../../funding/songjiang-data-2026.rst:15
+msgid "No equity"
+msgstr "지분 취득 없음"
+
+#: ../../funding/songjiang-data-2026.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/songjiang-data-2026.rst:20
+msgid ""
+"Lawfully operating Songjiang organizations developing high-quality "
+"datasets, corpus governance, data-product listings or AI data-space "
+"applications."
+msgstr "쑹장구 내에서 법률에 따라 등록·운영되며 고품질 데이터셋 구축, 코퍼스 거버넌스, 데이터 상품 거래소 상장 또는 AI 데이터 스페이스 응용을 수행하는 기관."
+
+#: ../../funding/songjiang-data-2026.rst:22
+msgid ""
+"Second 2026 batch notice issued August 2026; confirm current acceptance "
+"status"
+msgstr "2026년 제2차 공고(8월 발표) 기준; 현재 접수 현황 확인 필요"
+
+#: ../../funding/songjiang-data-2026.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/songjiang-data-2026.rst:27
+msgid ""
+"`Official application / policy route <https://www.songjiang.gov.cn/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://www.songjiang.gov.cn/>`_"
+
+#: ../../funding/songjiang-data-2026.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/songjiang-data-2026.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/songjiang-data-2026.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../funding/songjiang-data-2026.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../funding/songjiang-data-2026.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../funding/songjiang-data-2026.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../funding/songjiang-data-2026.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

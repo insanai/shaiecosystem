@@ -1,0 +1,120 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/siemens.rst:1
+msgid "Siemens startup / Xcelerator ecosystem"
+msgstr "Ecosistema para startups Siemens Xcelerator"
+
+#: ../../entities/siemens.rst:4
+msgid "西门子初创企业与Xcelerator生态"
+msgstr "西门子初创企业与Xcelerator生态"
+
+#: ../../entities/siemens.rst:6
+msgid "Global program | Citywide / global | Research checked 2026-11-04"
+msgstr "Programa global | Toda la ciudad / global | Investigación verificada el 2026-11-04"
+
+#: ../../entities/siemens.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Industry."
+msgstr "Enfoque de IA e industria: IA de software, IA de hardware, Industria."
+
+#: ../../entities/siemens.rst:10
+msgid ""
+"Siemens publishes a startup connection and marketplace route for "
+"industrial solutions, with a separate China Xcelerator platform. "
+"Marketplace onboarding and industrial partnerships are distinct from a "
+"funding award."
+msgstr "Siemens publica una vía de conexión para startups y un mercado digital (marketplace) de soluciones industriales, contando además con una plataforma específica de Xcelerator en China. La incorporación al catálogo digital y las alianzas industriales son procesos distintos de una concesión de financiación."
+
+#: ../../entities/siemens.rst:12
+msgid ""
+"`Evidence S072 "
+"<https://www.siemens.com/zh-cn/company/innovation/startups/connect/>`_. "
+"Connect 计划 | Siemens."
+msgstr "`Evidencia S072 <https://www.siemens.com/zh-cn/company/innovation/startups/connect/>`_. Connect 计划 | Siemens."
+
+#: ../../entities/siemens.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/siemens.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/siemens.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/siemens.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/siemens.rst:24
+msgid ""
+"`Official website / intake route "
+"<https://www.siemens.com/zh-cn/company/innovation/startups/connect/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.siemens.com/zh-cn/company/innovation/startups/connect/>`_"
+
+#: ../../entities/siemens.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/siemens.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/siemens.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/siemens.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/siemens.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "Identificar al responsable de la unidad de negocio corporativa y definir un caso de uso medible."
+
+#: ../../entities/siemens.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "Presentar el resumen del producto, la evidencia de pilotos previos y los requisitos técnicos pertinentes."
+
+#: ../../entities/siemens.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "Confirmar la disponibilidad de una cohorte abierta o acordar un piloto acotado, los derechos sobre los datos y los términos de propiedad intelectual."
+
+#: ../../entities/siemens.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "Revisar por separado los procesos de compras, condiciones de pago, criterios de aceptación y la decisión de paso a producción."
+
+#: ../../entities/siemens.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`Ruta del distrito de Toda la ciudad / global </funding>`"

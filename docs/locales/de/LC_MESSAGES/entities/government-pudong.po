@@ -1,0 +1,113 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/government-pudong.rst:1
+msgid "Pudong Science, Technology and Economy Commission"
+msgstr "Kommission für Wissenschaft, Technologie und Wirtschaft von Pudong"
+
+#: ../../entities/government-pudong.rst:4
+msgid "浦东新区科技和经济委员会"
+msgstr "浦东新区科技和经济委员会"
+
+#: ../../entities/government-pudong.rst:6
+msgid "Government | Pudong | Research checked 2026-11-04"
+msgstr "Behörde | Neuer Stadtbezirk Pudong | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/government-pudong.rst:8
+msgid ""
+"2026 AI application call closed on 31 August 2026. The published route "
+"covers qualifying 2025 model and agent expenditure; duplicate public "
+"funding is excluded."
+msgstr "Die Ausschreibung für KI-Anwendungen 2026 endete am 31. August 2026. Das Programm bezog sich auf förderfähige Ausgaben für Modelle und Agenten aus dem Jahr 2025; Doppelförderungen aus anderen öffentlichen Kassen sind ausgeschlossen."
+
+#: ../../entities/government-pudong.rst:10
+msgid ""
+"`Evidence S089 "
+"<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
+"关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`Nachweis S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+
+#: ../../entities/government-pudong.rst:12
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/government-pudong.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/government-pudong.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/government-pudong.rst:19
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/government-pudong.rst:22
+msgid "`Official website / intake route <https://www.pudong.gov.cn/>`_"
+msgstr "`Offizielle Website / Bewerbungszugang <https://www.pudong.gov.cn/>`_"
+
+#: ../../entities/government-pudong.rst:24
+msgid "Telephone: +86 21 68811090."
+msgstr "Telefon: +86 21 68811090."
+
+#: ../../entities/government-pudong.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/government-pudong.rst:28
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/government-pudong.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/government-pudong.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../entities/government-pudong.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../entities/government-pudong.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../entities/government-pudong.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../entities/government-pudong.rst:41
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Bezirksroute Neuer Stadtbezirk Pudong </districts/pudong>`"

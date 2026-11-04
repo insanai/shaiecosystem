@@ -1,0 +1,119 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/xicen.rst:1
+msgid "Xicen Science and Innovation Center"
+msgstr "西岑科学イノベーションセンター（Xicen Science and Innovation Center）"
+
+#: ../../entities/xicen.rst:4
+msgid "西岑科创中心"
+msgstr "西岑科创中心"
+
+#: ../../entities/xicen.rst:6
+msgid "Technology park | Qingpu | Research checked 2026-11-04"
+msgstr "テクノロジーパーク｜青浦区｜調査確認日 2026-11-04"
+
+#: ../../entities/xicen.rst:8
+msgid "AI and industry focus: Hardware AI, Software AI."
+msgstr "AIおよび産業フォーカス：ハードウェアAI、ソフトウェアAI。"
+
+#: ../../entities/xicen.rst:10
+msgid ""
+"A Qingpu innovation area centered on Huawei Lianqiu Lake and Xicen "
+"development. It offers an ecosystem connection, not automatic access to "
+"Huawei laboratories, procurement or investment."
+msgstr "ファーウェイ（華為）練秋湖研究開発拠点および西岑開発エリアを中心とする青浦区のイノベーション集積地。エコシステム連携の機会を提供するが、ファーウェイのラボ利用、製品調達、出資が自動的に確約されるわけではない。"
+
+#: ../../entities/xicen.rst:12
+msgid ""
+"`Evidence S022 "
+"<https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. "
+"对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+msgstr "`出典 S022 <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. 对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+
+#: ../../entities/xicen.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/xicen.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/xicen.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/xicen.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/xicen.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_"
+msgstr "`公式エビデンス（典拠）および主管機関窓口 <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_"
+
+#: ../../entities/xicen.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/xicen.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/xicen.rst:30
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/xicen.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/xicen.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "企業の事業責任者と、測定可能な具体的なユースケースを1件特定する。"
+
+#: ../../entities/xicen.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "製品概要、パイロット検証の実証データ、および関連する技術要件を提出する。"
+
+#: ../../entities/xicen.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "募集バッチの空き状況を確認するか、または検証スコープ、データ権利、知的財産権の諸条件に合意する。"
+
+#: ../../entities/xicen.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "調達プロセス、支払い条件、検収、および本番導入（商用化）の判断基準を個別に確認する。"
+
+#: ../../entities/xicen.rst:43
+msgid ":doc:`Qingpu district route </districts/qingpu>`"
+msgstr ":doc:`青浦区の案内ルート </districts/qingpu>`"

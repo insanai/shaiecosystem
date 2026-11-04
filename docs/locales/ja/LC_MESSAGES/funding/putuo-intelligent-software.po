@@ -1,0 +1,117 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/putuo-intelligent-software.rst:1
+msgid "Putuo intelligent software industry support, 2026"
+msgstr "2026年普陀区スマートソフトウェア産業特別資金"
+
+#: ../../funding/putuo-intelligent-software.rst:4
+msgid "Grant / reimbursement | Putuo"
+msgstr "助成金・事後精算補助 | 普陀区"
+
+#: ../../funding/putuo-intelligent-software.rst:6
+msgid "Closed"
+msgstr "受付終了"
+
+#: ../../funding/putuo-intelligent-software.rst:8
+msgid ""
+"`Evidence S110 "
+"<https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. "
+"关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
+msgstr "`出典 S110 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. 关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
+
+#: ../../funding/putuo-intelligent-software.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/putuo-intelligent-software.rst:13
+msgid ""
+"Direction-specific R&D, compute, first-product matching and related "
+"support"
+msgstr "研究開発、計算資源利用、首台套・首版次マッチング支援など、各支援区分に応じた助成"
+
+#: ../../funding/putuo-intelligent-software.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/putuo-intelligent-software.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/putuo-intelligent-software.rst:20
+msgid ""
+"Good-credit legal or non-legal-person organizations. The call "
+"distinguishes R&D collaboration, compute use for models and agents, "
+"recognized technical breakthroughs and other directions; approval and "
+"eligible periods differ."
+msgstr "良好な信用状態にある法人または非法人組織。産学連携、AIモデル／エージェント用計算資源利用、認定先端技術ブレークスルーなどの各枠が設けられ、承認基準や適格支出期間が異なる。"
+
+#: ../../funding/putuo-intelligent-software.rst:22
+msgid "Closed 26 June 2026"
+msgstr "2026年6月26日に公募終了"
+
+#: ../../funding/putuo-intelligent-software.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/putuo-intelligent-software.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+msgstr "`公式申請窓口／政策ポータル <https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+
+#: ../../funding/putuo-intelligent-software.rst:29
+msgid "Published consultation: +86 21 52564588 ext. 7166."
+msgstr "公開相談電話：+86 21 52564588 ext. 7166。"
+
+#: ../../funding/putuo-intelligent-software.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/putuo-intelligent-software.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/putuo-intelligent-software.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/putuo-intelligent-software.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/putuo-intelligent-software.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/putuo-intelligent-software.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

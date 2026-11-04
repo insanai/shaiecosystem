@@ -1,0 +1,119 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/fengxian-jiebang-2026.rst:1
+msgid ""
+"Fengxian South Shanghai Sci-Tech Center \"Open Competition\" R&D "
+"Projects, 2026"
+msgstr "Kooperationsprojekte im offenen F&E-Wettbewerb („Jiebang Guashuai“) des Wissenschaftszentrums Süd-Shanghai in Fengxian 2026"
+
+#: ../../funding/fengxian-jiebang-2026.rst:4
+msgid "Grant | Fengxian"
+msgstr "Zuschuss | Bezirk Fengxian"
+
+#: ../../funding/fengxian-jiebang-2026.rst:6
+msgid "2026 call published; deadline check required"
+msgstr "Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen"
+
+#: ../../funding/fengxian-jiebang-2026.rst:8
+msgid ""
+"`Evidence S126 "
+"<https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_. "
+"奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告."
+msgstr "`Nachweis S126 <https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告."
+
+#: ../../funding/fengxian-jiebang-2026.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/fengxian-jiebang-2026.rst:13
+msgid ""
+"Milestone-based R&D grant matched to technical challenge contract value"
+msgstr "Meilensteinbasierte Forschungszuschüsse, gekoppelt an den Vertragswert der technischen Problemlösung"
+
+#: ../../funding/fengxian-jiebang-2026.rst:15
+msgid "No equity"
+msgstr "Ohne Anteilsabgabe"
+
+#: ../../funding/fengxian-jiebang-2026.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/fengxian-jiebang-2026.rst:20
+msgid ""
+"Enterprises, universities and research institutes jointly tackling "
+"published core technical bottlenecks in robotics, biomedicine, new "
+"materials or green chemistry in Fengxian."
+msgstr "Unternehmen, Universitäten und Forschungsinstitute, die gemeinsam ausgeschriebene Kernengpässe in Robotik, Biomedizin, neuen Materialien oder grüner Chemie in Fengxian lösen."
+
+#: ../../funding/fengxian-jiebang-2026.rst:22
+msgid "2026 guide published May 2026; confirm current project batch"
+msgstr "Der Leitfaden 2026 wurde im Mai veröffentlicht; aktuelle Tranchenfristen prüfen"
+
+#: ../../funding/fengxian-jiebang-2026.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/fengxian-jiebang-2026.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_"
+
+#: ../../funding/fengxian-jiebang-2026.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "Die verlinkte Behörde bzw. der Träger ist der offizielle Kontaktweg. Ein direkter Programm-Ansprechpartner ist in diesem Profil nicht hinterlegt."
+
+#: ../../funding/fengxian-jiebang-2026.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/fengxian-jiebang-2026.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../funding/fengxian-jiebang-2026.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../funding/fengxian-jiebang-2026.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../funding/fengxian-jiebang-2026.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../funding/fengxian-jiebang-2026.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

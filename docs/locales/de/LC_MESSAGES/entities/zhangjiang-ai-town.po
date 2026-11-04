@@ -1,0 +1,127 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/zhangjiang-ai-town.rst:1
+msgid "Zhangjiang AI Innovation Town"
+msgstr "Zhangjiang KI-Innovationsstadt (AI Town)"
+
+#: ../../entities/zhangjiang-ai-town.rst:4
+msgid "张江人工智能创新小镇"
+msgstr "张江人工智能创新小镇"
+
+#: ../../entities/zhangjiang-ai-town.rst:6
+msgid "Technology park | Pudong | Research checked 2026-11-04"
+msgstr "Technologiepark | Neuer Stadtbezirk Pudong | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/zhangjiang-ai-town.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, AI for Science."
+msgstr "KI- und Branchenfokus: Software-KI, Hardware-KI, KI in der Wissenschaft (AI for Science)."
+
+#: ../../entities/zhangjiang-ai-town.rst:10
+msgid ""
+"A 2-square-kilometer core zone in Zhangjiang Science City with 700,000 "
+"sqm of industrial space, spatiotemporal digital infrastructure and linked "
+"compute, model and corpus vouchers. Confirm whether the company's "
+"registered and operating address falls inside the designated town "
+"boundary."
+msgstr "Ein 2 Quadratkilometer großes Schwerpunktgebiet in Zhangjiang, das Modellentwickler und KI-Infrastrukturunternehmen konzentriert. Hier stehen spezielle Gutscheine für Rechenleistung, Modelle und Sprachdatenkorpora bereit."
+
+#: ../../entities/zhangjiang-ai-town.rst:12
+msgid ""
+"`Evidence S056 "
+"<https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_. "
+"〖解放日报头版〗打造“全球AI逐梦者的家园”！张江人工智能创新小镇揭幕，到后年将新集聚500家以上企业_重点工作."
+msgstr "`Nachweis S056 <https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_. 〖解放日报头版〗打造“全球AI逐梦者的家园”！张江人工智能创新小镇揭幕，到后年将新集聚500家以上企业_重点工作."
+
+#: ../../entities/zhangjiang-ai-town.rst:14
+msgid ""
+"`Evidence S057 "
+"<https://www.pudong.gov.cn/zwgk/zwgk_zfxxgkml_atc_pf/2026/287/362043.html>`_. "
+"关于张江AI小镇时空量子城市数字底座及首期场景建设项目建设方案的批复_批复."
+msgstr "`Nachweis S057 <https://www.pudong.gov.cn/zwgk/zwgk_zfxxgkml_atc_pf/2026/287/362043.html>`_. 关于张江AI小镇时空量子城市数字底座及首期场景建设项目建设方案的批复_批复."
+
+#: ../../entities/zhangjiang-ai-town.rst:16
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/zhangjiang-ai-town.rst:19
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/zhangjiang-ai-town.rst:21
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/zhangjiang-ai-town.rst:23
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/zhangjiang-ai-town.rst:26
+msgid ""
+"`Official evidence and authority route "
+"<https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_"
+msgstr "`Offizieller Nachweis und Behördenweg <https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_"
+
+#: ../../entities/zhangjiang-ai-town.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+
+#: ../../entities/zhangjiang-ai-town.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/zhangjiang-ai-town.rst:32
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/zhangjiang-ai-town.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/zhangjiang-ai-town.rst:37
+msgid "Send a project brief and request the current admission checklist."
+msgstr "Ein Projekt-Exposé einreichen und die aktuelle Aufnahme-Checkliste anfordern."
+
+#: ../../entities/zhangjiang-ai-town.rst:39
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "Die Förderfähigkeits- sowie die technische oder kaufmännische Prüfung des Betreibers durchlaufen."
+
+#: ../../entities/zhangjiang-ai-town.rst:41
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "Mietkosten, Servicegebühren, IP-Rechte, Rechenleistungspreise und etwaige Beteiligungsansprüche schriftlich vereinbaren."
+
+#: ../../entities/zhangjiang-ai-town.rst:43
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "Die vereinbarten Aufnahmeverträge unterzeichnen sowie Meilensteine und zuständige Betreuer festhalten."
+
+#: ../../entities/zhangjiang-ai-town.rst:45
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Bezirksroute Neuer Stadtbezirk Pudong </districts/pudong>`"

@@ -1,0 +1,120 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/oriental-beauty.rst:1
+msgid "Oriental Beauty Valley"
+msgstr "Oriental Beauty Valley (Dongfang Meigu)"
+
+#: ../../entities/oriental-beauty.rst:4
+msgid "东方美谷"
+msgstr "东方美谷"
+
+#: ../../entities/oriental-beauty.rst:6
+msgid "Technology park | Fengxian | Research checked 2026-11-04"
+msgstr "Technologiepark | Bezirk Fengxian | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/oriental-beauty.rst:8
+msgid "AI and industry focus: Health, Industry."
+msgstr "KI- und Branchenfokus: Gesundheit & Life Sciences, Industrie."
+
+#: ../../entities/oriental-beauty.rst:10
+msgid ""
+"A Fengxian beauty and health industry ecosystem. Relevant AI applications "
+"include formulation research, inspection, consumer analysis and "
+"supply-chain tools; clinical or laboratory access is a separate "
+"arrangement."
+msgstr "Ein umfassendes Branchenökosystem in Fengxian für Kosmetik-, Schönheits- und Gesundheitstechnologien. Relevante KI-Felder umfassen Rezepturforschung, Qualitätsprüfung, Konsumentenanalytik und Logistik; Labor- und Klinikzugänge bedürfen gesonderter Vereinbarungen."
+
+#: ../../entities/oriental-beauty.rst:12
+msgid ""
+"`Evidence S024 "
+"<https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_. "
+"奉贤区领导调研东方美谷集团、临港南桥科技城."
+msgstr "`Nachweis S024 <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_. 奉贤区领导调研东方美谷集团、临港南桥科技城."
+
+#: ../../entities/oriental-beauty.rst:14
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/oriental-beauty.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/oriental-beauty.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/oriental-beauty.rst:21
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/oriental-beauty.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_"
+msgstr "`Offizieller Nachweis und Behördenweg <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_"
+
+#: ../../entities/oriental-beauty.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+
+#: ../../entities/oriental-beauty.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/oriental-beauty.rst:30
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/oriental-beauty.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/oriental-beauty.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "Den internen Projektverantwortlichen im Konzern und einen klar messbaren Anwendungsfall identifizieren."
+
+#: ../../entities/oriental-beauty.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "Produktübersicht, Nachweise aus Pilottests und relevante technische Spezifikationen einreichen."
+
+#: ../../entities/oriental-beauty.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "Verfügbarkeit von Aufnahmeplätzen klären oder Pilotumfang, Datenrechte und IP-Klauseln verbindlich vereinbaren."
+
+#: ../../entities/oriental-beauty.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "Einkaufsprozesse, Zahlungsmeilensteine, Abnahme und Serienentscheidung als eigenständige Schritte behandeln."
+
+#: ../../entities/oriental-beauty.rst:43
+msgid ":doc:`Fengxian district route </districts/fengxian>`"
+msgstr ":doc:`Bezirksroute Bezirk Fengxian </districts/fengxian>`"

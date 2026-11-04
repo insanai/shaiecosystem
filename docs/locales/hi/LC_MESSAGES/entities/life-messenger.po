@@ -1,0 +1,118 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/life-messenger.rst:1
+msgid "Oriental Beauty Valley Life Messenger Gene Drug Base"
+msgstr "ओरिएंटल ब्यूटी वैली लाइफ मैसेंजर जीन ड्रग बेस (Life Messenger Gene Drug Base)"
+
+#: ../../entities/life-messenger.rst:4
+msgid "东方美谷·生命信使基因药物创新产业基地"
+msgstr "东方美谷·生命信使基因药物创新产业基地"
+
+#: ../../entities/life-messenger.rst:6
+msgid "Incubator | Fengxian | Research checked 2026-11-04"
+msgstr "इनक्यूबेटर | फेंगशियान (Fengxian) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/life-messenger.rst:8
+msgid "AI and industry focus: Health, AI for Science."
+msgstr "एआई और उद्योग फोकस: स्वास्थ्य, विज्ञान के लिए AI।"
+
+#: ../../entities/life-messenger.rst:10
+msgid ""
+"Opened in April 2025 in Fengxian to connect gene and nucleic-acid drug "
+"R&D, AI-assisted molecular design, shared laboratories and pilot "
+"manufacturing. Confirm biosafety level, cleanroom specs and admission "
+"terms."
+msgstr "जीन और न्यूक्लिक-एसिड ड्रग R&D, AI-सहायता प्राप्त आणविक डिज़ाइन, साझा प्रयोगशालाओं और पायलट विनिर्माण को जोड़ने के लिए अप्रैल 2025 में फेंगशियान में खोला गया। जैव सुरक्षा स्तर, क्लीनरूम विनिर्देशों और प्रवेश शर्तों की पुष्टि करें।"
+
+#: ../../entities/life-messenger.rst:12
+msgid ""
+"`Evidence S062 "
+"<https://www.fengxian.gov.cn/dfmg/20250410/731cb4b3ce5644c6b657aa636cf0d4e6.html>`_. "
+"“东方美谷·生命信使”基因药物创新产业基地今天正式开园_东方美谷."
+msgstr "`साक्ष्य S062 <https://www.fengxian.gov.cn/dfmg/20250410/731cb4b3ce5644c6b657aa636cf0d4e6.html>`_. “东方美谷·生命信使”基因药物创新产业基地今天正式开园_东方美谷."
+
+#: ../../entities/life-messenger.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/life-messenger.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/life-messenger.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/life-messenger.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/life-messenger.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.fengxian.gov.cn/dfmg/20250410/731cb4b3ce5644c6b657aa636cf0d4e6.html>`_"
+msgstr "`आधिकारिक साक्ष्य और प्राधिकरण मार्ग <https://www.fengxian.gov.cn/dfmg/20250410/731cb4b3ce5644c6b657aa636cf0d4e6.html>`_"
+
+#: ../../entities/life-messenger.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/life-messenger.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/life-messenger.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/life-messenger.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/life-messenger.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "प्रोटोटाइप, आवश्यक उपकरण, प्रक्रिया और परीक्षण आवश्यकताओं का वर्णन करें।"
+
+#: ../../entities/life-messenger.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "तकनीकी समीक्षा, सुविधा के दौरे और मदवार कोटेशन के लिए पूछें।"
+
+#: ../../entities/life-messenger.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "पहुंच, सुरक्षा, नमूना और IP स्वामित्व, परीक्षण दायरे और स्वीकृति पर सहमति बनाएं।"
+
+#: ../../entities/life-messenger.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "सुविधा अनुबंध को निवेश या सार्वजनिक-फंडिंग आवेदनों से अलग रखें।"
+
+#: ../../entities/life-messenger.rst:43
+msgid ":doc:`Fengxian district route </districts/fengxian>`"
+msgstr ":doc:`फेंगशियान (Fengxian) ज़िला मार्ग </districts/fengxian>`"

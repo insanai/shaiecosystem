@@ -1,0 +1,189 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../government.rst:1
+msgid "Government entry points"
+msgstr "政府・行政の公式相談窓口"
+
+#: ../../government.rst:4
+msgid ""
+"16 profiles with evidence, contact routes and an application checklist. "
+"Published existence is distinguished from current intake."
+msgstr "出典、連絡ルート、申請チェックリスト付きの 16 件のプロファイル。機関の存在と現在の募集状況は区別して記載しています。"
+
+#: ../../government.rst:8
+msgid "Complete directory summary"
+msgstr "組織ディレクトリの完全サマリー"
+
+#: ../../government.rst:11
+msgid ""
+":doc:`Pudong Science, Technology and Economy Commission "
+"<entities/government-pudong>` (浦东新区科技和经济委员会 · Government · Pudong) — 2026 "
+"AI application call closed on 31 August 2026. The published route covers "
+"qualifying 2025 model and agent expenditure; duplicate public funding is "
+"excluded. Tel: +86 21 68811090. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`浦東新区科学技術・経済委員会 <entities/government-pudong>` (浦东新区科技和经济委员会 · 政府機関・行政部門 · 浦東新区) — 2026年のAI応用プロジェクト公募は2026年8月31日に締め切られた。公開された公募要件は2025年に発生した適格なモデル・エージェント支出を対象としており、他の公的資金との重複助成は対象外となる。 Tel: +86 21 68811090. [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:12
+msgid ""
+":doc:`Xuhui industry development authority <entities/government-xuhui>` "
+"(徐汇区产业主管部门 · Government · Xuhui) — The embodied AI policy identifies "
+"robot models, algorithms, data and operating systems. Its evaluated "
+"support ceilings are not automatic startup awards. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`徐匯区産業発展主管部門 <entities/government-xuhui>` (徐汇区产业主管部门 · 政府機関・行政部門 · 徐匯区) — 身体性AI政策ではロボット基盤モデル、アルゴリズム、データセット、OSが対象として明記されている。審査に基づく助成上限額は、スタートアップに一律自動給付されるものではない。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:13
+msgid ""
+":doc:`Yangpu science and technology authority "
+"<entities/government-yangpu>` (杨浦区科技主管部门 · Government · Yangpu) — "
+"Brain-inspired AI policy names Changyang Campus and Bay Valley. A "
+"separate May 2026 OPC policy supports communities around Fuxing Island; "
+"an action plan does not itself constitute a cash award. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`楊浦区科学技術主管部門 <entities/government-yangpu>` (杨浦区科技主管部门 · 政府機関・行政部門 · 楊浦区) — 脳型AI行動計画では長陽創谷（Changyang Campus）と湾谷科技園（Bay Valley）の拠点が明記されている。2026年5月の個別OPC政策は復興島周辺の個人起業家コミュニティを支援しているが、行動計画自体は現金助成の給付を意味しない。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:14
+msgid ""
+":doc:`Minhang science and technology authority "
+"<entities/government-minhang>` (闵行区科技主管部门 · Government · Minhang) — The "
+"enterprise innovation policy runs from 1 September 2025 to 31 August "
+"2030. New conversion enterprises may qualify for up to RMB 500,000 "
+"annually, capped at RMB 1.5 million over three years and 50% of eligible "
+"investment. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`閔行区科学技術主管部門 <entities/government-minhang>` (闵行区科技主管部门 · 政府機関・行政部門 · 閔行区) — 企業技術革新政策の有効期間は2025年9月1日から2030年8月31日までである。新規設立された技術成果転換企業は、適格投資額の50%を上限として年間最大50万元、3年間で累計最大150万元の助成を受けられる場合がある。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:15
+msgid ""
+":doc:`Jiading science and technology authority "
+"<entities/government-jiading>` (嘉定区科技主管部门 · Government · Jiading) — The "
+"municipal science commission documents the joint role of SITRI and "
+"InnoSpring in connecting research, pilot production and incubation. The "
+"2026 district service program provides policy interpretation and project "
+"coordination. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`嘉定区科学技術主管部門 <entities/government-jiading>` (嘉定区科技主管部门 · 政府機関・行政部門 · 嘉定区) — 上海市科学技術委員会は、上海微技術工業研究院（SITRI）と新微創源（InnoSpring）が研究、中試（パイロット生産）、インキュベーションをつなぐ連携の役割を記録している。2026年の区企業サービスプログラムにより政策解説とプロジェクト調整が提供されている。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:16
+msgid ""
+":doc:`Baoshan industry and science authorities "
+"<entities/government-baoshan>` (宝山区产业与科技主管部门 · Government · Baoshan) — "
+"The district is developing a robotics and advanced equipment cluster. "
+"Separate industrial-park admission and district support reviews are "
+"needed; a factory demonstration is not a startup funding call. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`宝山区産業・科学技術主管部門 <entities/government-baoshan>` (宝山区产业与科技主管部门 · 政府機関・行政部門 · 宝山区) — 区全域でロボットおよび先端機器の産業クラスターを開発中である。工業団地への入居審査と区の政策助成審査は別個に行う必要がある。工場での実証展示はスタートアップ向け資金助成の公募とは異なる。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:17
+msgid ""
+":doc:`Putuo science and technology authority <entities/government-putuo>` "
+"(普陀区科技主管部门 · Government · Putuo) — Wuning Science Park connects "
+"industrial research, testing and technology transfer. The district "
+"incubator register also lists the China-Israel Innovation Hub; tenancy "
+"and investment require separate terms. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`普陀区科学技術主管部門 <entities/government-putuo>` (普陀区科技主管部门 · 政府機関・行政部門 · 普陀区) — 武寧科技園は産業研究、試験検査、技術移転を結びつけている。区のインキュベーター名簿には中以（上海）創新園も掲載されている。入居と投資はそれぞれ個別の条件確認を要する。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:18
+msgid ""
+":doc:`Changning science and technology authority "
+"<entities/government-changning>` (长宁区科技主管部门 · Government · Changning) — "
+"The August 2026 district account identifies Digital Silicon Alley, "
+"Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
+"MAKE021 as parts of its incubation landscape. Confirm the correct "
+"operator before submitting. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`長寧区科学技術主管部門 <entities/government-changning>` (长宁区科技主管部门 · 政府機関・行政部門 · 長寧区) — 2026年8月の区の広報報道では、数字硅巷（デジタルシリコンアレイ）、虹橋智域、東虹橋国際青年科創センター、MAKE021（マーク上海）などがインキュベーション拠点として挙げられている。申請に先立ち、具体的な運営事業者を確認する必要がある。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:19
+msgid ""
+":doc:`Jing'an science and economy authority <entities/government-jingan>` "
+"(静安区科技和经济委员会 · Government · Jing'an) — The 2026-2028 AI application "
+"demonstration plan focuses on industry integration and talent. Its stated "
+"objectives must be distinguished from implementing rules and currently "
+"accepting applications. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`静安区科学技術・経済委員会 <entities/government-jingan>` (静安区科技和经济委员会 · 政府機関・行政部門 · 静安区) — 2026〜2028年のAIイノベーション応用模範区実施プランは産業融合と人材育成に重点を置いている。計画に掲げられた目標値と、具体的な実施細則や現在受付中の公募申請とは区別して認識する必要がある。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:20
+msgid ""
+":doc:`Huangpu science and entrepreneurship services "
+"<entities/government-huangpu>` (黄浦区科技与创业服务部门 · Government · Huangpu) — "
+"The 2025-2026 Zhangjiang Huangpu Park plan emphasizes fintech and "
+"clinical research services. Huangpu ChuangKa is a separate youth "
+"entrepreneurship support route; check eligibility and current workstation "
+"availability. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`黄浦区科学技術・創業サービス部門 <entities/government-huangpu>` (黄浦区科技与创业服务部门 · 政府機関・行政部門 · 黄浦区) — 2025〜2026年の張江黄浦園計画はフィンテックと臨床研究サービスに重点を置いている。「黄浦創卡（Huangpu ChuangKa）」は別途実施されている若手起業家支援ルートであり、申請資格と現時点での席・ワークステーションの空き状況を確認する必要がある。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:21
+msgid ""
+":doc:`Hongkou science and economy authority "
+"<entities/government-hongkou>` (虹口区科技和经济委员会 · Government · Hongkou) — The "
+"2025-2026 Hongkou Park plan assigns a coordinated incubation and "
+"investment role to the district state-owned Beikechuang group. Ask for "
+"the operating carrier and current application notice, rather than relying "
+"on older subsidy summaries. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`虹口区科学技術・経済委員会 <entities/government-hongkou>` (虹口区科技和经济委员会 · 政府機関・行政部門 · 虹口区) — 2025〜2026年虹口園計画では、区国有企業の北科創グループにインキュベーションと投資の統括機能が与えられている。古い助成金要約に依存せず、具体的な運営事業者と現行の公募通知を確認する必要がある。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:22
+msgid ""
+":doc:`Songjiang G60 innovation services <entities/government-songjiang>` "
+"(松江区G60科创服务部门 · Government · Songjiang) — The G60 Sci-Tech Innovation "
+"Valley publishes innovation and resource-matching initiatives. We "
+"distinguish the nine-city corridor from Shanghai district eligibility: a "
+"partner elsewhere in the corridor does not establish Songjiang "
+"qualification. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`松江区G60科創イノベーションサービス部門 <entities/government-songjiang>` (松江区G60科创服务部门 · 政府機関・行政部門 · 松江区) — 長江デルタG60科学イノベーション回廊はイノベーション創出とリソースマッチング施策を公開している。同回廊の9都市連携枠組みと上海市の区レベルの助成資格は別個であり、回廊内の他都市のパートナーであっても松江区の助成資格は得られない。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:23
+msgid ""
+":doc:`Qingpu science and technology authority "
+"<entities/government-qingpu>` (青浦区科学技术委员会 · Government · Qingpu) — Xicen "
+"links the Lianqiu Lake research center with an emerging innovation "
+"district. The official 2025 reply discusses early investment and "
+"technology transfer, but proposed funds are not treated here as open "
+"startup applications. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`青浦区科学技術委員会 <entities/government-qingpu>` (青浦区科学技术委员会 · 政府機関・行政部門 · 青浦区) — 西岑エリアは練秋湖研究開発センターと新興イノベーション地区をつないでいる。2025年の公式回答では初期投資や技術移転について言及されているが、設立検討中のファンドを現在受付中の公募として扱うことはできない。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:24
+msgid ""
+":doc:`Jinshan science and technology authority "
+"<entities/government-jinshan>` (金山区科技主管部门 · Government · Jinshan) — The "
+"2025-2026 park plan names Jinshan New Materials Incubator, East China UAV "
+"Base and Bay Area incubation carriers. It connects testing and "
+"industrialization, subject to park admission and the applicable aviation "
+"permissions. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`金山区科学技術主管部門 <entities/government-jinshan>` (金山区科技主管部门 · 政府機関・行政部門 · 金山区) — 2025〜2026年パーク計画には、金山新材料インキュベーター、華東無人機基地、湾区インキュベーション拠点が列挙されている。検査・テストと産業化を結びつけているが、パーク入居手続きおよび所定の航空飛行許認可の取得が前提となる。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:25
+msgid ""
+":doc:`Fengxian economic commission <entities/government-fengxian>` "
+"(奉贤区经济委员会 · Government · Fengxian) — The robot industry measures cover "
+"qualifying registered companies working on intelligent robots. Oriental "
+"Beauty Valley provides a separate beauty and health industry context. "
+"Match the project to the correct policy owner and application batch. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`奉賢区経済委員会 <entities/government-fengxian>` (奉贤区经济委员会 · 政府機関・行政部門 · 奉賢区) — ロボット産業施策はスマートロボットを手がける適格な区内登録企業を対象としている。東方美谷はビューティー・ヘルスケア分野の別枠拠点を構成している。プロジェクトに応じた正確な主管部門と申請バッチのマッチングが不可欠である。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../government.rst:26
+msgid ""
+":doc:`Chongming science and technology authority "
+"<entities/government-chongming>` (崇明区科学技术委员会 · Government · Chongming) — "
+"The 2025-2026 Chongming Park plan supplies current strategic context. The "
+"separate 2024 science innovation subsidy measures expired on 31 December "
+"2025; we do not present those ceilings as current entitlements. Tel: +86 "
+"21 69695910. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`崇明区科学技術委員会 <entities/government-chongming>` (崇明区科学技术委员会 · 政府機関・行政部門 · 崇明区) — 2025〜2026年崇明園計画は現行の戦略方針を示している。なお、2024年科技創新助成措置は2025年12月31日に失効しており、本ガイドではその旧上限額を現行の受給権として提示していない。 Tel: +86 21 69695910. [公表済み組織（公募状況の確認要）]"

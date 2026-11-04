@@ -1,0 +1,117 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/putuo-intelligent-software.rst:1
+msgid "Putuo intelligent software industry support, 2026"
+msgstr "Sonderprogramm für intelligente Softwareindustrie Putuo 2026"
+
+#: ../../funding/putuo-intelligent-software.rst:4
+msgid "Grant / reimbursement | Putuo"
+msgstr "Zuschuss / Kostenerstattung | Bezirk Putuo"
+
+#: ../../funding/putuo-intelligent-software.rst:6
+msgid "Closed"
+msgstr "Geschlossen"
+
+#: ../../funding/putuo-intelligent-software.rst:8
+msgid ""
+"`Evidence S110 "
+"<https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. "
+"关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
+msgstr "`Nachweis S110 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. 关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
+
+#: ../../funding/putuo-intelligent-software.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/putuo-intelligent-software.rst:13
+msgid ""
+"Direction-specific R&D, compute, first-product matching and related "
+"support"
+msgstr "Richtungsspezifische Zuschüsse für F&E, Rechenleistung, Ergänzung von Erstprodukten und technologische Durchbrüche"
+
+#: ../../funding/putuo-intelligent-software.rst:15
+msgid "No equity"
+msgstr "Ohne Anteilsabgabe"
+
+#: ../../funding/putuo-intelligent-software.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/putuo-intelligent-software.rst:20
+msgid ""
+"Good-credit legal or non-legal-person organizations. The call "
+"distinguishes R&D collaboration, compute use for models and agents, "
+"recognized technical breakthroughs and other directions; approval and "
+"eligible periods differ."
+msgstr "Organisationen mit guter Bonität. Die Ausschreibung unterscheidet zwischen F&E-Kooperationen, Rechenleistungsnutzung für Modelle und Agenten sowie zertifizierten technologischen Durchbrüchen; Bewilligungskriterien und förderfähige Zeiträume variieren."
+
+#: ../../funding/putuo-intelligent-software.rst:22
+msgid "Closed 26 June 2026"
+msgstr "Bewerbungsschluss war der 26. Juni 2026"
+
+#: ../../funding/putuo-intelligent-software.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/putuo-intelligent-software.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+
+#: ../../funding/putuo-intelligent-software.rst:29
+msgid "Published consultation: +86 21 52564588 ext. 7166."
+msgstr "Veröffentlichte Beratungstelefonnummer: +86 21 52564588 ext. 7166."
+
+#: ../../funding/putuo-intelligent-software.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/putuo-intelligent-software.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../funding/putuo-intelligent-software.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../funding/putuo-intelligent-software.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../funding/putuo-intelligent-software.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../funding/putuo-intelligent-software.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

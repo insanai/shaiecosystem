@@ -1,0 +1,114 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/pujiang.rst:1
+msgid "Magnolia Talent Plan, Pujiang Project 2026"
+msgstr "2026年白玉蘭人材計画・浦江プロジェクト"
+
+#: ../../funding/pujiang.rst:4
+msgid "Grant | Citywide / global"
+msgstr "助成金・補助金 | 全市／グローバル"
+
+#: ../../funding/pujiang.rst:6
+msgid "2026 call published; not confirmed open"
+msgstr "2026年公募公表済み（受付開始は未確認）"
+
+#: ../../funding/pujiang.rst:8
+msgid ""
+"`Evidence S102 "
+"<https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_. "
+"关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会."
+msgstr "`出典 S102 <https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_. 关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会."
+
+#: ../../funding/pujiang.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/pujiang.rst:13
+msgid "Category-specific support; consult the actual 2026 category"
+msgstr "申請カテゴリ別の助成金額（2026年度の具体的募集区分を参照）"
+
+#: ../../funding/pujiang.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/pujiang.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/pujiang.rst:20
+msgid ""
+"The July 2026 guide supports eligible overseas returnees through distinct "
+"categories. Scientific research and entrepreneurial routes must not be "
+"confused; host endorsement may be required."
+msgstr "海外留学等からの帰国人材を対象とする2026年7月の募集要領に基づく。自然科学研究枠と起業枠は厳格に区別され、受入機関（ホスト組織）の推薦・承認が必要な場合がある。"
+
+#: ../../funding/pujiang.rst:22
+msgid "Confirm category deadline and host review"
+msgstr "申請カテゴリの締切日および受入機関の審査スケジュールを確認のこと"
+
+#: ../../funding/pujiang.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/pujiang.rst:27
+msgid "`Official application / policy route <https://stcsm.sh.gov.cn/>`_"
+msgstr "`公式申請窓口／政策ポータル <https://stcsm.sh.gov.cn/>`_"
+
+#: ../../funding/pujiang.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/pujiang.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/pujiang.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/pujiang.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/pujiang.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/pujiang.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/pujiang.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

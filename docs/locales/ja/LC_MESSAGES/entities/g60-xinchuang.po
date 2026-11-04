@@ -1,0 +1,118 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/g60-xinchuang.rst:1
+msgid "G60 Songjiang Xinchuang Industrial Park"
+msgstr "G60松江信創（情報技術応用イノベーション）産業園"
+
+#: ../../entities/g60-xinchuang.rst:4
+msgid "G60松江信创产业园"
+msgstr "G60松江信创产业园"
+
+#: ../../entities/g60-xinchuang.rst:6
+msgid "Technology park | Songjiang | Research checked 2026-11-04"
+msgstr "テクノロジーパーク｜松江区｜調査確認日 2026-11-04"
+
+#: ../../entities/g60-xinchuang.rst:8
+msgid "AI and industry focus: Software AI, Chips."
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、半導体・チップ。"
+
+#: ../../entities/g60-xinchuang.rst:10
+msgid ""
+"An officially profiled industrial park for domestic "
+"information-technology innovation. For an AI infrastructure team, "
+"establish compatibility requirements, lab access and real customer demand "
+"before choosing space."
+msgstr "国家・地方の信創（IT基盤国産化・独自イノベーション）政策に準拠した公式産業パーク。AIインフラチームは、入居スペース決定前に互換性要件、検証ラボの利用環境、実顧客の需要を明確にする必要がある。"
+
+#: ../../entities/g60-xinchuang.rst:12
+msgid ""
+"`Evidence S021 "
+"<https://english.shanghai.gov.cn/en-SpecialIndustrialParks/20240202/1367184b6c5547f0a5cd0572f3951b9b.html>`_. "
+"G60 Songjiang Xinchuang Industrial Park."
+msgstr "`出典 S021 <https://english.shanghai.gov.cn/en-SpecialIndustrialParks/20240202/1367184b6c5547f0a5cd0572f3951b9b.html>`_. G60 Songjiang Xinchuang Industrial Park."
+
+#: ../../entities/g60-xinchuang.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/g60-xinchuang.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/g60-xinchuang.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/g60-xinchuang.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/g60-xinchuang.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://english.shanghai.gov.cn/en-SpecialIndustrialParks/20240202/1367184b6c5547f0a5cd0572f3951b9b.html>`_"
+msgstr "`公式エビデンス（典拠）および主管機関窓口 <https://english.shanghai.gov.cn/en-SpecialIndustrialParks/20240202/1367184b6c5547f0a5cd0572f3951b9b.html>`_"
+
+#: ../../entities/g60-xinchuang.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/g60-xinchuang.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/g60-xinchuang.rst:30
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/g60-xinchuang.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/g60-xinchuang.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "プロトタイプ、必要な設備機器、製造プロセス、および試験・評価要件を明記する。"
+
+#: ../../entities/g60-xinchuang.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "技術審査、施設の見学、および項目別の詳細見積もりを依頼する。"
+
+#: ../../entities/g60-xinchuang.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "施設利用条件、安全基準、試作品・サンプルの知的財産権の帰属、テスト範囲および検収基準について合意する。"
+
+#: ../../entities/g60-xinchuang.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "施設利用契約は、投資誘致や公的資金補助の申請とは切り離して個別に進める。"
+
+#: ../../entities/g60-xinchuang.rst:43
+msgid ":doc:`Songjiang district route </districts/songjiang>`"
+msgstr ":doc:`松江区の案内ルート </districts/songjiang>`"

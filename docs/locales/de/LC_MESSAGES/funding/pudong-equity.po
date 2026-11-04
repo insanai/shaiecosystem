@@ -1,0 +1,112 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/pudong-equity.rst:1
+msgid "Pudong AI Seed Fund"
+msgstr "KI-Seed-Fonds Pudong"
+
+#: ../../funding/pudong-equity.rst:4
+msgid "Equity investment | Pudong"
+msgstr "Eigenkapitalinvestition | Neuer Stadtbezirk Pudong"
+
+#: ../../funding/pudong-equity.rst:6
+msgid "Fund announced; deal intake to confirm"
+msgstr "Fonds angekündigt; Dealflow-Aufnahme zu bestätigen"
+
+#: ../../funding/pudong-equity.rst:8
+msgid ""
+"`Evidence S045 "
+"<https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong "
+"launches fund to boost AI industry."
+msgstr "`Nachweis S045 <https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong launches fund to boost AI industry."
+
+#: ../../funding/pudong-equity.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/pudong-equity.rst:13
+msgid ""
+"Fund target RMB 2bn; first tranche RMB 500m; individual cheque not "
+"established"
+msgstr "Fondszielvolumen: 2 Mrd. RMB; Ersttranche: 500 Mio. RMB; Ticketgröße pro Startup wird im Einzelfall verhandelt"
+
+#: ../../funding/pudong-equity.rst:15
+msgid "Negotiated equity"
+msgstr "Verhandlungsbasierte Beteiligung"
+
+#: ../../funding/pudong-equity.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/pudong-equity.rst:20
+msgid ""
+"Seed-stage AI projects fitting the manager's mandate. The public launch "
+"does not establish a universal application form, valuation or "
+"shareholding percentage."
+msgstr "KI-Projekte im Seed-Stadium, die den Kriterien und Vorgaben der Fondsmanager entsprechen. Die öffentliche Ankündigung begründet keinen automatischen Anspruch auf Investition, Bewertung oder Beteiligungshöhe."
+
+#: ../../funding/pudong-equity.rst:22
+msgid "Manager-led sourcing and due diligence"
+msgstr "Projektakquise und Due-Diligence-Prüfung erfolgen fortlaufend durch das Fondsmanagement"
+
+#: ../../funding/pudong-equity.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/pudong-equity.rst:27
+msgid "`Official application / policy route <https://www.pudong.gov.cn/>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://www.pudong.gov.cn/>`_"
+
+#: ../../funding/pudong-equity.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "Die verlinkte Behörde bzw. der Träger ist der offizielle Kontaktweg. Ein direkter Programm-Ansprechpartner ist in diesem Profil nicht hinterlegt."
+
+#: ../../funding/pudong-equity.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/pudong-equity.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "Fondsmanager, Branchenfokus, Reifegrad und Eignung der Unternehmensstruktur abgleichen."
+
+#: ../../funding/pudong-equity.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "Pitchdeck, Gesellschafterliste (Cap Table), Technologiebelege, Markttraktion und Finanzierungsplan vorlegen."
+
+#: ../../funding/pudong-equity.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "Die kaufmännische, finanzielle, technische und rechtliche Due-Diligence-Prüfung durchlaufen."
+
+#: ../../funding/pudong-equity.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "Term Sheet, Auflagen des Investitionskomitees und finale Beteiligungsverträge verhandeln."
+
+#: ../../funding/pudong-equity.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

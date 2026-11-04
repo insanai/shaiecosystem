@@ -1,0 +1,119 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/baoshan-industrial.rst:1
+msgid "Baoshan Industrial Park"
+msgstr "宝山工業園区"
+
+#: ../../entities/baoshan-industrial.rst:4
+msgid "宝山工业园区"
+msgstr "宝山工业园区"
+
+#: ../../entities/baoshan-industrial.rst:6
+msgid "Technology park | Baoshan | Research checked 2026-11-04"
+msgstr "テクノロジーパーク｜宝山区｜調査確認日 2026-11-04"
+
+#: ../../entities/baoshan-industrial.rst:8
+msgid "AI and industry focus: Industry, Hardware AI."
+msgstr "AIおよび産業フォーカス：産業・インダストリー、ハードウェアAI。"
+
+#: ../../entities/baoshan-industrial.rst:10
+msgid ""
+"The park committee publishes an official contact and provides industrial "
+"admission, project attraction, policy coordination and business services. "
+"This is a separate park from the Gucun robot industrial park."
+msgstr "園区管理委員会が公式窓口を設置し、産業参入審査、プロジェクト誘致、政策調整、企業支援サービスを提供する。顧村のロボット産業園とは独立した別個の園区。"
+
+#: ../../entities/baoshan-industrial.rst:12
+msgid ""
+"`Evidence S020 "
+"<https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. "
+"信息公开机构_上海市宝山区人民政府门户网站."
+msgstr "`出典 S020 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. 信息公开机构_上海市宝山区人民政府门户网站."
+
+#: ../../entities/baoshan-industrial.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/baoshan-industrial.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/baoshan-industrial.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/baoshan-industrial.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/baoshan-industrial.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
+msgstr "`公式エビデンス（典拠）および主管機関窓口 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
+
+#: ../../entities/baoshan-industrial.rst:26
+msgid "Telephone: +86 21 66879800."
+msgstr "電話：+86 21 66879800。"
+
+#: ../../entities/baoshan-industrial.rst:28
+msgid "Published address: 1688 Jinshi Road, Baoshan."
+msgstr "公開所在地：宝山区金石路1688号。"
+
+#: ../../entities/baoshan-industrial.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/baoshan-industrial.rst:32
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/baoshan-industrial.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/baoshan-industrial.rst:37
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "プロトタイプ、必要な設備機器、製造プロセス、および試験・評価要件を明記する。"
+
+#: ../../entities/baoshan-industrial.rst:39
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "技術審査、施設の見学、および項目別の詳細見積もりを依頼する。"
+
+#: ../../entities/baoshan-industrial.rst:41
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "施設利用条件、安全基準、試作品・サンプルの知的財産権の帰属、テスト範囲および検収基準について合意する。"
+
+#: ../../entities/baoshan-industrial.rst:43
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "施設利用契約は、投資誘致や公的資金補助の申請とは切り離して個別に進める。"
+
+#: ../../entities/baoshan-industrial.rst:45
+msgid ":doc:`Baoshan district route </districts/baoshan>`"
+msgstr ":doc:`宝山区の案内ルート </districts/baoshan>`"

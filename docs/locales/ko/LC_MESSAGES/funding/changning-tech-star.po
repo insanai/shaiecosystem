@@ -1,0 +1,114 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/changning-tech-star.rst:1
+msgid "Changning Technology Star Teams, 2026"
+msgstr "2026년 창닝구 과학기술 스타팀"
+
+#: ../../funding/changning-tech-star.rst:4
+msgid "Grant | Changning"
+msgstr "보조금 | 창닝구"
+
+#: ../../funding/changning-tech-star.rst:6
+msgid "Closed"
+msgstr "모집 마감"
+
+#: ../../funding/changning-tech-star.rst:8
+msgid ""
+"`Evidence S108 "
+"<https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_. "
+"上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知."
+msgstr "`근거 S108 <https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_. 上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知."
+
+#: ../../funding/changning-tech-star.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/changning-tech-star.rst:13
+msgid ""
+"Funding for assessed and recognized teams under the district talent fund "
+"plan"
+msgstr "우수 기술 혁신 및 산업화 팀 대상 장려금 및 R&D 프로젝트 지원금"
+
+#: ../../funding/changning-tech-star.rst:15
+msgid "No equity"
+msgstr "지분 취득 없음"
+
+#: ../../funding/changning-tech-star.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/changning-tech-star.rst:20
+msgid ""
+"Eligible teams in AI, industrial internet and biomedicine at "
+"organizations established or operating lawfully in Changning. Required "
+"evidence includes research outcomes, employment contracts and commitments."
+msgstr "창닝구 내 핵심 기술 과제를 수행하고 구의 전략 산업에 기여하는 산학연 우수 연구개발팀."
+
+#: ../../funding/changning-tech-star.rst:22
+msgid "Closed 26 June 2026"
+msgstr "2026년도 창닝구 인재 및 과기 공고 일정 확인 필요"
+
+#: ../../funding/changning-tech-star.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/changning-tech-star.rst:27
+msgid "`Official application / policy route <https://zwdt.sh.gov.cn/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://zwdt.sh.gov.cn/>`_"
+
+#: ../../funding/changning-tech-star.rst:29
+msgid "Published consultation: +86 21 22050986."
+msgstr "공개 상담 전화: +86 21 22050986."
+
+#: ../../funding/changning-tech-star.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/changning-tech-star.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../funding/changning-tech-star.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../funding/changning-tech-star.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../funding/changning-tech-star.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../funding/changning-tech-star.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

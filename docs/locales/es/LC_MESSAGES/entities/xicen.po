@@ -1,0 +1,119 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/xicen.rst:1
+msgid "Xicen Science and Innovation Center"
+msgstr "Centro de Ciencia e Innovación de Xicen"
+
+#: ../../entities/xicen.rst:4
+msgid "西岑科创中心"
+msgstr "西岑科创中心"
+
+#: ../../entities/xicen.rst:6
+msgid "Technology park | Qingpu | Research checked 2026-11-04"
+msgstr "Parque tecnológico | Distrito de Qingpu | Investigación verificada el 2026-11-04"
+
+#: ../../entities/xicen.rst:8
+msgid "AI and industry focus: Hardware AI, Software AI."
+msgstr "Enfoque de IA e industria: IA de hardware, IA de software."
+
+#: ../../entities/xicen.rst:10
+msgid ""
+"A Qingpu innovation area centered on Huawei Lianqiu Lake and Xicen "
+"development. It offers an ecosystem connection, not automatic access to "
+"Huawei laboratories, procurement or investment."
+msgstr "Área de innovación en Qingpu articulada en torno al centro de Huawei en el lago Lianqiu y al desarrollo de Xicen. Ofrece conexión con el ecosistema regional, pero no acceso automático a los laboratorios, compras ni inversiones de Huawei."
+
+#: ../../entities/xicen.rst:12
+msgid ""
+"`Evidence S022 "
+"<https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. "
+"对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+msgstr "`Evidencia S022 <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. 对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+
+#: ../../entities/xicen.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/xicen.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/xicen.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/xicen.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/xicen.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_"
+msgstr "`Fuente oficial y vía de la autoridad competente <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_"
+
+#: ../../entities/xicen.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/xicen.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/xicen.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/xicen.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/xicen.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "Identificar al responsable de la unidad de negocio corporativa y definir un caso de uso medible."
+
+#: ../../entities/xicen.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "Presentar el resumen del producto, la evidencia de pilotos previos y los requisitos técnicos pertinentes."
+
+#: ../../entities/xicen.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "Confirmar la disponibilidad de una cohorte abierta o acordar un piloto acotado, los derechos sobre los datos y los términos de propiedad intelectual."
+
+#: ../../entities/xicen.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "Revisar por separado los procesos de compras, condiciones de pago, criterios de aceptación y la decisión de paso a producción."
+
+#: ../../entities/xicen.rst:43
+msgid ":doc:`Qingpu district route </districts/qingpu>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Qingpu </districts/qingpu>`"

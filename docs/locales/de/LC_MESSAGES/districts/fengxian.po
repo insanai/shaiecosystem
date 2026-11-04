@@ -1,0 +1,180 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/fengxian.rst:1
+msgid "Fengxian"
+msgstr "Bezirk Fengxian"
+
+#: ../../districts/fengxian.rst:4
+msgid "Robotics, beauty and health technology, advanced manufacturing"
+msgstr "Robotik, Kosmetik- und Gesundheitstechnologie, moderne Fertigung"
+
+#: ../../districts/fengxian.rst:6
+msgid ""
+"The robot industry measures cover qualifying registered companies working "
+"on intelligent robots. Oriental Beauty Valley provides a separate beauty "
+"and health industry context. Match the project to the correct policy "
+"owner and application batch."
+msgstr "Die Fördermaßnahmen für die Robotikindustrie richten sich an förderfähige, im Bezirk registrierte Unternehmen im Bereich intelligenter Roboter. Das Oriental Beauty Valley bildet ein eigenständiges Umfeld für Kosmetik und Gesundheit. Ordnen Sie Ihr Projekt der richtigen Fachbehörde und Ausschreibungsrunde zu."
+
+#: ../../districts/fengxian.rst:8
+msgid ""
+"`Evidence S095 "
+"<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
+"奉贤区促进智能机器人产业创新发展若干政策措施."
+msgstr "`Nachweis S095 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
+
+#: ../../districts/fengxian.rst:10
+msgid "Who receives the inquiry"
+msgstr "Zuständige Anlaufstelle für Anfragen"
+
+#: ../../districts/fengxian.rst:13
+msgid "Fengxian economic commission"
+msgstr "Wirtschaftskommission von Fengxian"
+
+#: ../../districts/fengxian.rst:15
+msgid "`Official district website <https://www.fengxian.gov.cn/>`_"
+msgstr "`Offizielle Website des Bezirks <https://www.fengxian.gov.cn/>`_"
+
+#: ../../districts/fengxian.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "In diesem Datensatz ist keine direkte Telefondurchwahl oder E-Mail-Adresse hinterlegt. Bitte erfragen Sie das zuständige Fachteam über das offizielle Webportal."
+
+#: ../../districts/fengxian.rst:19
+msgid "Before applying"
+msgstr "Vor der Antragstellung"
+
+#: ../../districts/fengxian.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../districts/fengxian.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../districts/fengxian.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../districts/fengxian.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../districts/fengxian.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../districts/fengxian.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Bringen Sie in Erfahrung, welche Richtlinienfassung maßgeblich ist, ob Firmensitz und tatsächlicher Betrieb beide im Bezirk liegen müssen, welcher Ausgabenzeitraum anerkannt wird und ob bereits erhaltene städtische oder bezirkliche Fördermittel eine Bewilligung ausschließen. Klären Sie dies verbindlich, bevor Sie den Firmensitz verlegen oder Kosten auslösen."
+
+#: ../../districts/fengxian.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Lokale Institutionen in diesem Atlas"
+
+#: ../../districts/fengxian.rst:37
+msgid ""
+":doc:`Oriental Beauty Valley </entities/oriental-beauty>` (东方美谷 · "
+"Technology park · Health, Industry) — A Fengxian beauty and health "
+"industry ecosystem. Relevant AI applications include formulation "
+"research, inspection, consumer analysis and supply-chain tools; clinical "
+"or laboratory access is a separate arrangement. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`Oriental Beauty Valley (Dongfang Meigu) </entities/oriental-beauty>` (东方美谷 · Technologiepark · Gesundheit & Life Sciences, Industrie) — Ein umfassendes Branchenökosystem in Fengxian für Kosmetik-, Schönheits- und Gesundheitstechnologien. Relevante KI-Felder umfassen Rezepturforschung, Qualitätsprüfung, Konsumentenanalytik und Logistik; Labor- und Klinikzugänge bedürfen gesonderter Vereinbarungen. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/fengxian.rst:38
+msgid ""
+":doc:`Oriental Beauty Valley Life Messenger Gene Drug Base "
+"</entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · Incubator · Health, AI "
+"for Science) — Opened in April 2025 in Fengxian to connect gene and "
+"nucleic-acid drug R&D, AI-assisted molecular design, shared laboratories "
+"and pilot manufacturing. Confirm biosafety level, cleanroom specs and "
+"admission terms. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Life Messenger Genmedikamente-Innovationsbasis (Oriental Beauty Valley) </entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · Inkubator · Gesundheit & Life Sciences, KI in der Wissenschaft (AI for Science)) — Ein spezialisierter Industriekomplex im Oriental Beauty Valley für mRNA-Technologien, Gentherapien, nukleinsäurebasierte Wirkstoffe und KI-gestützte Wirkstoffforschung. Reinraumstandards und GMP-Bedingungen sind vorab zu spezifizieren. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/fengxian.rst:39
+msgid ""
+":doc:`Shanghai Institute of Technology </entities/university-sit>` "
+"(上海应用技术大学 · University) — Institutional entry in the June 2026 Ministry "
+"of Education register. Suggested collaboration themes: Applied "
+"engineering, materials, industrial AI. These themes are editorial routing "
+"guidance, not a verified offer of laboratory access or startup funding. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Hochschule für Angewandte Wissenschaften Shanghai (Shanghai Institute of Technology) </entities/university-sit>` (上海应用技术大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte Ingenieurwissenschaften, Materialforschung, industrielle KI. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/fengxian.rst:40
+msgid ""
+":doc:`Shanghai Business School </entities/university-business>` (上海商学院 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Digital retail, commerce, "
+"service innovation. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Wirtschaftshochschule Shanghai (Shanghai Business School) </entities/university-business>` (上海商学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Digitaler Einzelhandel, E-Commerce, Dienstleistungsinnovation. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/fengxian.rst:42
+msgid "Funding routes"
+msgstr "Finanzierungs- und Förderwege"
+
+#: ../../districts/fengxian.rst:45
+msgid ""
+":doc:`Fengxian R&D expenditure increase reimbursement, 2026 "
+"</funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Reimbursement · No "
+"equity) — 30% of the qualifying annual R&D net increase, capped at RMB 1 "
+"million. Status: Closed. Timing: Online closed 17 June 2026, 17:00; paper "
+"closed 30 June 2026, 17:00 China Standard Time."
+msgstr ":doc:`Zuschuss für F&E-Aufwandssteigerung Fengxian 2026 </funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Kostenerstattung · Ohne Anteilsabgabe) — Staffelung nach dem tatsächlichen Zuwachs der F&E-Ausgaben im Jahresvergleich; Festlegung gemäß Bezirksrichtlinie. Status: Geschlossen. Zeitrahmen: Einreichungsfenster der Jahresbekanntmachung 2026 beachten."
+
+#: ../../districts/fengxian.rst:46
+msgid ""
+":doc:`Fengxian SME Technology Innovation Key Projects, 2026 "
+"</funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Grant · No "
+"equity) — Up to RMB 250,000; generally two installments, final settlement "
+"after acceptance. Status: Closed. Timing: Online closed 21 June 2026; "
+"paper closed 30 June 2026."
+msgstr ":doc:`Schwerpunktprojekte des Technologiefonds für KMU Fengxian 2026 </funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Zuschuss · Ohne Anteilsabgabe) — Bezirkliche Sonderzuschüsse für herausragende Vorhaben technologiebasierter KMU. Status: Geschlossen. Zeitrahmen: Fristen der bezirklichen Wissenschaftskommission für das laufende Antragsjahr beachten."
+
+#: ../../districts/fengxian.rst:47
+msgid ""
+":doc:`Fengxian South Shanghai Sci-Tech Center \"Open Competition\" R&D "
+"Projects, 2026 </funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 "
+"· Grant · No equity) — Milestone-based R&D grant matched to technical "
+"challenge contract value. Status: 2026 call published; deadline check "
+"required. Timing: 2026 guide published May 2026; confirm current project "
+"batch."
+msgstr ":doc:`Kooperationsprojekte im offenen F&E-Wettbewerb („Jiebang Guashuai“) des Wissenschaftszentrums Süd-Shanghai in Fengxian 2026 </funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 · Zuschuss · Ohne Anteilsabgabe) — Meilensteinbasierte Forschungszuschüsse, gekoppelt an den Vertragswert der technischen Problemlösung. Status: Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen. Zeitrahmen: Der Leitfaden 2026 wurde im Mai veröffentlicht; aktuelle Tranchenfristen prüfen."
+
+#: ../../districts/fengxian.rst:49
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Auch stadtweite Förderprogramme vergleichen </funding>`"

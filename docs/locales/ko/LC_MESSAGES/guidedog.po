@@ -1,0 +1,270 @@
+# Shanghai Ecosystem Atlas UI layout strings (_templates/layout.html)
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Shanghai Ecosystem Atlas — Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog in HTML and PDF."
+msgstr "상하이 혁신 생태계 아틀라스 — 저자: Vikrant Rathore, 기여자: Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu. Guidedog를 사용하여 HTML 및 PDF로 제작."
+
+msgid "Shanghai Ecosystem Atlas"
+msgstr "상하이 혁신 생태계 아틀라스"
+
+msgid "Skip to content"
+msgstr "본문으로 건너뛰기"
+
+msgid "SHANGHAI"
+msgstr "상하이"
+
+msgid "ECOSYSTEM ATLAS"
+msgstr "혁신 생태계 아틀라스"
+
+msgid "Main navigation"
+msgstr "주요 탐색"
+
+msgid "Explore the map"
+msgstr "지도 탐색"
+
+msgid "16 Districts"
+msgstr "16개 행정구"
+
+msgid "Universities"
+msgstr "대학·연구"
+
+msgid "Incubation"
+msgstr "인큐베이션"
+
+msgid "Funding"
+msgstr "자금 경로"
+
+msgid "How to apply"
+msgstr "신청 가이드"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Download PDF Book"
+msgstr "PDF 도서 다운로드"
+
+msgid "THE PEARL OF THE ORIENT / WHITE MAGNOLIA EDITION 2026"
+msgstr "동양의 진주 · 상하이 시화 백목련 에디션 2026"
+
+msgid "A city."
+msgstr "하나의 도시."
+
+msgid "A world of"
+msgstr "무한한"
+
+msgid "possibility."
+msgstr "가능성의 세계."
+
+msgid "Where Shanghai's 16 administrative districts, 40 undergraduate universities, 125 innovation organizations and 45 funding pathways meet. A white-magnolia and Chinese ink-wash field guide from research to repeatable enterprise."
+msgstr "상하이의 16개 행정구, 40개 학부 대학, 125개 혁신 기관 및 45개 자금 지원 경로가 만나는 곳. 백목련과 전통 수묵담채화 미학에서 영감을 받은 실전 필드 가이드."
+
+msgid "Shanghai coverage highlights"
+msgstr "상하이 아틀라스 핵심 요약"
+
+msgid "White Magnolia & Traditional Ink Wash"
+msgstr "시화 백목련 및 전통 수묵담채화"
+
+msgid "All 16 Shanghai Administrative Districts"
+msgstr "상하이 16개 전 행정구 완벽 수록"
+
+msgid "40 Universities + 41 Colleges"
+msgstr "40개 학부 대학 + 41개 전문·성인대학"
+
+msgid "Guidedog Native HTML & PDF"
+msgstr "Guidedog 네이티브 HTML & PDF"
+
+msgid "Explore the ecosystem"
+msgstr "생태계 탐색하기"
+
+msgid "All 7 language PDFs"
+msgstr "7개 국어 PDF 도서 전체 보기"
+
+msgid "Written by:"
+msgstr "저자:"
+
+msgid "With contributions from:"
+msgstr "공동 기여:"
+
+msgid "Made using Guidedog in HTML and PDF · Available in English, 简体中文, हिन्दी, 日本語, 한국어, Deutsch & Español"
+msgstr "Guidedog로 제작된 HTML 웹사이트 및 PDF 도서 · 영어, 중국어, 힌디어, 일본어, 한국어, 독일어, 스페인어 7개 국어 제공"
+
+msgid "Inspired by Yulania denudata (White Magnolia), official flower of Shanghai since 1986, and traditional shuimo dan cai ink-wash painting on xuan paper."
+msgstr "1986년 지정된 상하이 시화 백목련(Yulania denudata)과 선지 위의 전통 수묵담채화에서 영감을 받았습니다."
+
+msgid "Traditional Chinese shuimo ink wash painting of the Shanghai skyline across the misty Huangpu River with blooming white magnolia"
+msgstr "안개 낀 황푸강 너머 상하이 스카이라인과 만개한 백목련을 그린 전통 수묵담채화"
+
+msgid "SHANGHAI / WHITE MAGNOLIA / CHINESE SHUIMO INK WASH"
+msgstr "상하이 / 백목련 / 전통 수묵담채화"
+
+msgid "Atlas coverage"
+msgstr "아틀라스 수록 규모"
+
+msgid "districts, connected"
+msgstr "연결된 행정구"
+
+msgid "university profiles (+41 colleges)"
+msgstr "대학 프로필 (+41개 전문·성인대학)"
+
+msgid "organization routes"
+msgstr "혁신 기관 및 거점 경로"
+
+msgid "funding pathways"
+msgstr "자금 지원 경로"
+
+msgid "verified primary sources"
+msgstr "검증된 공식 1차 출처"
+
+msgid "Download the Complete Illustrated PDF Book"
+msgstr "전체 일러스트 PDF 도서 다운로드"
+
+msgid "Shanghai Ecosystem Atlas PDF Book Cover"
+msgstr "상하이 혁신 생태계 아틀라스 PDF 도서 표지"
+
+msgid "WHITE MAGNOLIA EDITION"
+msgstr "백목련 에디션"
+
+msgid "THE MAGNOLIA PRINT EDITION / COMPLETE ILLUSTRATED PDF BOOK"
+msgstr "백목련 인쇄판 에디션 / 전체 일러스트 PDF 도서"
+
+msgid "Typeset in a generous 240 × 300 mm art-book format by Guidedog's embedded Typst engine, the PDF book contains every chapter, vector district map, architecture diagram, 125 organization profiles, 45 funding pathways, 81 higher-education registry entries and 133 cited sources for offline reading and field trips."
+msgstr "Guidedog의 내장 Typst 엔진으로 240 × 300 mm 대형 아트북 판형에 맞춰 조판된 PDF 도서입니다. 모든 챕터, 16개 행정구 벡터 지도, 아키텍처 다이어그램, 125개 기관 프로필, 45개 자금 경로, 81개 고등교육기관 명부 및 133개 출처를 모두 담았습니다."
+
+msgid "AUTHOR"
+msgstr "저자"
+
+msgid "Lead author & ecosystem architecture"
+msgstr "주저자 및 생태계 아키텍처 설계"
+
+msgid "CONTRIBUTORS"
+msgstr "공동 기여자"
+
+msgid "PUBLICATION ENGINE"
+msgstr "출판 엔진"
+
+msgid "Single-source RST, native PO localization & Typst book typesetting"
+msgstr "단일 소스 RST, 네이티브 PO 다국어 현지화 및 Typst 도서 조판"
+
+msgid "Browse all 16 district chapters"
+msgstr "16개 행정구 챕터 전체 보기"
+
+msgid "DOWNLOAD PDF BOOK IN ALL 7 LANGUAGES"
+msgstr "7개 국어 버전 PDF 도서 다운로드"
+
+msgid "MODELS & AGENTS"
+msgstr "모델 및 에이전트"
+
+msgid "Intelligence in software"
+msgstr "소프트웨어 속 지능"
+
+msgid "From Model Speed Space and Zhangjiang Model Community to compute vouchers and pilot deployment."
+msgstr "모수공간(模速空间)과 장장 모델 커뮤니티부터 연산 바우처 및 파일럿 배포까지."
+
+msgid "CHIPS & ROBOTS"
+msgstr "칩 및 로보틱스"
+
+msgid "Intelligence in the physical world"
+msgstr "물리적 세계의 지능"
+
+msgid "Zhangjiang tape-out, Jiading MEMS pilot lines, embodied robotics, Jinshan UAVs and biomanufacturing."
+msgstr "장장 칩 테이프아웃, 자딩 MEMS 파일럿 라인, 임바디드 로보틱스, 진산 드론 및 바이오 제조."
+
+msgid "CAPITAL WITH CONDITIONS"
+msgstr "조건이 수반된 자본"
+
+msgid "Know what funding really means"
+msgstr "자금 지원 메커니즘 정확히 이해하기"
+
+msgid "Compare 45 non-repayable grants, vouchers, interest-free loans, convertible support and state funds."
+msgstr "45개 무상 보조금, 바우처, 무이자 대출, 전환형 지원 및 국유 모펀드 비교."
+
+msgid "ALL 16 DISTRICTS"
+msgstr "전체 16개 행정구"
+
+msgid "Sixteen districts, sixteen entry routes"
+msgstr "16개 행정구, 16개 진입 경로"
+
+msgid "District-by-district specialization, receiving authorities, local carriers and district funding calls."
+msgstr "구별 특화 산업, 담당 주관 부처, 로컬 인큐베이터 및 구 단위 자금 공고."
+
+msgid "UNIVERSITIES & LABS"
+msgstr "대학 및 연구소"
+
+msgid "Universities & commercialization"
+msgstr "대학 및 기술사업화"
+
+msgid "All 40 undergraduate universities, 29 diploma colleges, 12 adult institutions and science parks."
+msgstr "상하이 40개 학부 대학, 29개 전문대학, 12개 성인대학 및 대학 과학기술단지."
+
+msgid "FIELD EXECUTION"
+msgstr "현장 실행 가이드"
+
+msgid "From introduction to application"
+msgstr "첫 연락부터 정식 신청까지"
+
+msgid "Outreach templates, shared data-room checklist, foreign founder work-permit guide and 4-week plan."
+msgstr "연락 템플릿, 공용 데이터룸 체크리스트, 외국인 창업자 취업허가 가이드 및 4주 실행 계획."
+
+msgid "IN THIS ATLAS"
+msgstr "아틀라스 목차"
+
+msgid "PDF BOOK EDITION"
+msgstr "PDF 도서 에디션"
+
+msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore & Emily Yue Xu. Built with Guidedog."
+msgstr "Vikrant Rathore 집필, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu 공동 기여. Guidedog로 제작."
+
+msgid "Sources, credits & research limits"
+msgstr "출처, 크레딧 및 연구 한계"
+
+msgid "Atlas"
+msgstr "아틀라스 홈"
+
+msgid "Navigation"
+msgstr "탐색"
+
+msgid "Previous"
+msgstr "이전"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "SHANGHAI / ECOSYSTEM ATLAS"
+msgstr "상하이 / 혁신 생태계 아틀라스"
+
+msgid "Inspired by Shanghai's official white magnolia and traditional Chinese ink wash. Grounded in 133 verified sources."
+msgstr "상하이 시화 백목련과 전통 수묵담채화에서 영감을 받아 133개 검증된 출처를 바탕으로 제작되었습니다."
+
+msgid "Built with:"
+msgstr "제작 도구:"
+
+msgid "Guidedog — Native HTML Website & Typst PDF Book across 7 languages"
+msgstr "Guidedog — 7개 국어 네이티브 HTML 웹사이트 및 Typst PDF 도서"
+
+msgid "All 16 Shanghai districts"
+msgstr "상하이 16개 전 행정구"
+
+msgid "Sources & reading room (133 sources)"
+msgstr "출처 및 열람실 (133개 출처)"
+
+msgid "Research methods, gaps & credits"
+msgstr "연구 방법론, 한계 및 크레딧"
+
+msgid "Download research dataset (JSON)"
+msgstr "연구 데이터셋 다운로드 (JSON)"
+
+msgid "Research checked 2026-11-04. Current official notices govern."
+msgstr "2026-11-04 기준 연구 검증. 실제 신청은 현행 공식 공고를 따릅니다."
+
+msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu."
+msgstr "Vikrant Rathore 집필, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu 공동 기여."
+
+msgid "Built with Guidedog."
+msgstr "Guidedog로 제작되었습니다."
+

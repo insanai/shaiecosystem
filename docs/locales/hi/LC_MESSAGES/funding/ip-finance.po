@@ -1,0 +1,115 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/ip-finance.rst:1
+msgid "Shanghai IP-backed finance product directory"
+msgstr "शंघाई IP-समर्थित वित्त उत्पाद निर्देशिका"
+
+#: ../../funding/ip-finance.rst:4
+msgid "Loan / insurance | Citywide / global"
+msgstr "ऋण / बीमा | शहर-व्यापी / वैश्विक"
+
+#: ../../funding/ip-finance.rst:6
+msgid "2026 directory published; lender review"
+msgstr "2026 निर्देशिका प्रकाशित; ऋणदाता समीक्षा"
+
+#: ../../funding/ip-finance.rst:8
+msgid ""
+"`Evidence S105 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
+"知识产权金融服务平台_上海市知识产权局."
+msgstr "`साक्ष्य S105 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
+
+#: ../../funding/ip-finance.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/ip-finance.rst:13
+msgid "Bank and product-specific loan, insurance or trust terms"
+msgstr "बैंक और उत्पाद-विशिष्ट ऋण, बीमा या ट्रस्ट शर्तें"
+
+#: ../../funding/ip-finance.rst:15
+msgid "No equity; product obligations apply"
+msgstr "कोई इक्विटी नहीं; उत्पाद दायित्व लागू होते हैं"
+
+#: ../../funding/ip-finance.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/ip-finance.rst:20
+msgid ""
+"The 2026 IP bureau directory supplies borrower criteria, collateral, "
+"rates, repayment, application steps and contacts by product. IP ownership "
+"and bank assessment matter."
+msgstr "2026 IP ब्यूरो निर्देशिका उत्पाद के अनुसार उधारकर्ता मानदंड, संपार्श्विक, दरें, पुनर्भुगतान, आवेदन चरण और संपर्क प्रदान करती है। IP स्वामित्व और बैंक मूल्यांकन मायने रखते हैं।"
+
+#: ../../funding/ip-finance.rst:22
+msgid "Product-specific"
+msgstr "उत्पाद-विशिष्ट"
+
+#: ../../funding/ip-finance.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/ip-finance.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+
+#: ../../funding/ip-finance.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/ip-finance.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/ip-finance.rst:33
+msgid ""
+"Select the current bank or public guarantee product and check borrower "
+"eligibility."
+msgstr "वर्तमान बैंक या सार्वजनिक गारंटी उत्पाद चुनें और उधारकर्ता पात्रता की जाँच करें।"
+
+#: ../../funding/ip-finance.rst:35
+msgid ""
+"Prepare accounts, cash-flow forecast, ownership and requested security "
+"documents."
+msgstr "खाते, नकदी-प्रवाह पूर्वानुमान, स्वामित्व और मांगे गए सुरक्षा दस्तावेज तैयार करें।"
+
+#: ../../funding/ip-finance.rst:37
+msgid ""
+"Complete lender and guarantee assessment; compare all costs and repayment "
+"terms."
+msgstr "ऋणदाता और गारंटी मूल्यांकन पूरा करें; सभी लागतों और पुनर्भुगतान शर्तों की तुलना करें।"
+
+#: ../../funding/ip-finance.rst:39
+msgid ""
+"Sign and track debt service; claim interest support only if independently "
+"eligible."
+msgstr "हस्ताक्षर करें और ऋण सेवा को ट्रैक करें; ब्याज सहायता का दावा तभी करें जब स्वतंत्र रूप से पात्र हों।"
+
+#: ../../funding/ip-finance.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

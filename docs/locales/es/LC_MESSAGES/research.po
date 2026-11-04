@@ -1,0 +1,120 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../research.rst:1
+msgid "Research and technical platforms"
+msgstr "Plataformas de investigación y servicios técnicos"
+
+#: ../../research.rst:4
+msgid ""
+"8 profiles with evidence, contact routes and an application checklist. "
+"Published existence is distinguished from current intake."
+msgstr "8 perfiles con evidencia, vías de contacto y lista de verificación de solicitud. La existencia publicada se distingue de la recepción activa de candidaturas."
+
+#: ../../research.rst:8
+msgid "Complete directory summary"
+msgstr "Resumen completo del directorio de organizaciones"
+
+#: ../../research.rst:11
+msgid ""
+":doc:`Shanghai Integrated Circuit Technology and Industry Promotion "
+"Center <entities/icc>` (上海集成电路技术与产业促进中心 · Research platform · Pudong · "
+"Focus: Chips, Hardware AI) — An IC technical-service entry point that "
+"also publishes innovation-voucher guidance. Eligible voucher-covered "
+"services are selected on the official platform; a voucher is not a "
+"general equipment purchase budget. Tel: +86 21 61609878 ext. 217 | Email: "
+"fhan@icc.sh.cn. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Centro de Promoción Tecnológica e Industrial de Circuitos Integrados de Shanghái (ICC) <entities/icc>` (上海集成电路技术与产业促进中心 · Plataforma de investigación · Nueva Área de Pudong · Chips y semiconductores, IA de hardware) — Punto de entrada para servicios técnicos de semiconductores que también publica directrices sobre bonos de innovación. Los servicios elegibles cubiertos por bonos se seleccionan en la plataforma oficial; un bono no constituye un presupuesto general para la compra de equipos. Tel: +86 21 61609878 ext. 217 | Email: fhan@icc.sh.cn. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../research.rst:12
+msgid ""
+":doc:`Shanghai Artificial Intelligence Laboratory <entities/shlab>` "
+"(上海人工智能实验室 · Research platform · Xuhui · Focus: Software AI, AI for "
+"Science) — A research institution for foundational and applied AI. Its "
+"published general contact supports initial routing; open-source "
+"resources, collaboration and recruitment are separate pathways, not a "
+"generic startup grant. Address: L1, International Media Port, 129 Longwen "
+"Road, Xuhui | Email: comm@pjlab.org.cn. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`Laboratorio de Inteligencia Artificial de Shanghái <entities/shlab>` (上海人工智能实验室 · Plataforma de investigación · Distrito de Xuhui · IA de software, IA para la Ciencia) — Institución de investigación dedicada a la IA fundacional y aplicada. Su contacto general publicado sirve para la orientación inicial; los recursos de código abierto, la colaboración científica y la contratación de talento son vías independientes, no una subvención genérica para startups. Planta L1, Puerto Internacional de Medios, Calle Longwen 129, Distrito de Xuhui | Email: comm@pjlab.org.cn. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../research.rst:13
+msgid ""
+":doc:`Tongji Autonomous Intelligent Unmanned Systems Center "
+"<entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Research platform · "
+"Pudong · Focus: Hardware AI, Mobility) — A research collaboration route "
+"for autonomous systems. The published office contact is in Zhangjiang. A "
+"technical proposal should identify the platform, experiment, data and "
+"proposed industrial partner. Address: 3F, Building 2, Tongji Zhangjiang "
+"Base, 398 Lianchuang Road | Email: srias@tongji.edu.cn. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Centro Científico de Sistemas Autónomos Inteligentes No Tripulados de la Universidad de Tongji <entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Plataforma de investigación · Nueva Área de Pudong · IA de hardware, Movilidad) — Vía de colaboración científica en sistemas autónomos. El contacto de oficina publicado se encuentra en Zhangjiang. Toda propuesta técnica debe especificar la plataforma, el experimento previsto, los datos y el socio industrial propuesto. Planta 3, Edificio 2, Base Zhangjiang de Tongji, Calle Lianchuang 398, Pudong | Email: srias@tongji.edu.cn. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../research.rst:14
+msgid ""
+":doc:`Tongji PAI Research Center <entities/tongji-pai>` (同济大学PAI研究中心 · "
+"Research platform · Jiading · Focus: Hardware AI, Sensors) — The center "
+"publishes an industry collaboration entry for localization, sensing, "
+"communication and trusted coordination. We use its cooperation contact "
+"rather than assuming access through general university admissions. "
+"Address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan Highway | "
+"Email: lingtang@tongji.edu.cn. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`Centro de Investigación PAI de la Universidad de Tongji <entities/tongji-pai>` (同济大学PAI研究中心 · Plataforma de investigación · Distrito de Jiading · IA de hardware, Sensores) — El centro publica una vía de colaboración industrial en localización, detección, comunicaciones y coordinación fiable. Utilizamos su canal de cooperación empresarial en lugar de asumir el acceso a través de la oficina general de admisiones universitarias. Edificio Zhixin, Campus Jiading de la Universidad de Tongji, Carretera Cao'an 4800, Jiading | Email: lingtang@tongji.edu.cn. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../research.rst:15
+msgid ""
+":doc:`Shanghai Integrated Circuit R&D Center <entities/icrd>` (上海集成电路研发中心 "
+"· Research platform · Pudong · Focus: Chips, Hardware AI) — A shared "
+"integrated-circuit research and engineering platform in Zhangjiang "
+"supporting process development, device verification and IP testing. "
+"Request a technical scoping review and written quotation for wafer or "
+"testing runs. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Centro de Investigación y Desarrollo de Circuitos Integrados de Shanghái (ICRD) <entities/icrd>` (上海集成电路研发中心 · Plataforma de investigación · Nueva Área de Pudong · Chips y semiconductores, IA de hardware) — Plataforma compartida de investigación e ingeniería en circuitos integrados situada en Zhangjiang que respalda el desarrollo de procesos, la verificación de dispositivos y el ensayo de IP. Solicite una evaluación del alcance técnico y un presupuesto por escrito para lotes de obleas o pruebas. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../research.rst:16
+msgid ""
+":doc:`Shanghai Technology Innovation Center <entities/shtic>` (上海市科技创业中心 "
+"· Research platform · Xuhui · Focus: Software AI, Hardware AI, Industry) "
+"— The municipal science-and-technology entrepreneurship service "
+"institution coordinating Shanghai's high-quality incubator cultivation "
+"system, innovation vouchers, technology SME filings and the Startup in "
+"Shanghai portal. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Centro de Innovación Tecnológica de Shanghái (SHTIC) <entities/shtic>` (上海市科技创业中心 · Plataforma de investigación · Distrito de Xuhui · IA de software, IA de hardware, Industria) — Institución municipal de servicios al emprendimiento científico y tecnológico que coordina el sistema de cultivo de incubadoras de alta calidad de Shanghái, los bonos de innovación, el registro de pymes tecnológicas y el portal Startup in Shanghai. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../research.rst:17
+msgid ""
+":doc:`Shanghai Tsinghua International Innovation Center "
+"<entities/tsinghua-shanghai>` (上海清华国际创新中心 · Research platform · Putuo · "
+"Focus: Software AI, Hardware AI, Chips) — A strategic research and "
+"technology-transfer platform in Putuo's \"One Axis, One Park, One "
+"Center\" layout, connecting university engineering laboratories with "
+"Yangtze River Delta industrial applications. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Centro Internacional de Innovación Tsinghua de Shanghái <entities/tsinghua-shanghai>` (上海清华国际创新中心 · Plataforma de investigación · Distrito de Putuo · IA de software, IA de hardware, Chips y semiconductores) — Plataforma estratégica de investigación y transferencia tecnológica dentro del esquema «Un Eje, Un Parque, Un Centro» de Putuo, que conecta los laboratorios de ingeniería universitaria con aplicaciones industriales en el delta del río Yangtsé. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../research.rst:18
+msgid ""
+":doc:`Chongming Enterprise Technology Center & Eco-Innovation Route "
+"<entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Research platform · "
+"Chongming · Focus: Climate, Agriculture, Industry) — Coordinated by the "
+"Chongming Economic Commission (14th batch call issued in May 2026) "
+"alongside district science authorities to support enterprise R&D centers "
+"in ecological tech, green manufacturing and smart agriculture. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Centro de Tecnología Empresarial y Ruta de Ecoinnovación de Chongming <entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Plataforma de investigación · Distrito de Chongming · Clima y sostenibilidad, Agricultura, Industria) — Coordinada por la Comisión Económica de Chongming (convocatoria del 14.º lote publicada en mayo de 2026) junto con las autoridades científicas distritales para respaldar centros empresariales de I+D en tecnología ecológica, fabricación verde y agricultura inteligente. [Entidad documentada; admisión pendiente de confirmar]"

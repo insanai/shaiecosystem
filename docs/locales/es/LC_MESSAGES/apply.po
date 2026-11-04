@@ -1,0 +1,157 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../apply.rst:1
+msgid "From introduction to application"
+msgstr "De la presentación inicial a la solicitud formal"
+
+#: ../../apply.rst:4
+msgid ""
+"A useful application starts with a fit check and ends with an evidence "
+"trail. We keep one company data room, then adapt it to an incubation "
+"review, a public funding call, a corporate pilot or an investment process."
+msgstr "Una solicitud eficaz comienza con una verificación de encaje y culmina con un rastro documental verificable. Mantenemos un único cuarto de datos (data room) de la empresa y lo adaptamos para una evaluación de incubación, una convocatoria pública de financiación, un piloto corporativo o un proceso de inversión."
+
+#: ../../apply.rst:7
+msgid ""
+"A clear application separates eligibility, evidence and the decision."
+msgstr "Una solicitud clara distingue entre los requisitos de elegibilidad, las evidencias aportadas y la decisión final."
+
+#: ../../apply.rst:10
+msgid "The first conversation"
+msgstr "La primera conversación"
+
+#: ../../apply.rst:13
+msgid ""
+"We send a one-page introduction in English and Simplified Chinese: "
+"company and team, customer problem, product, evidence, current stage, "
+"Shanghai presence and the exact resource requested. We ask for the named "
+"receiving team and written current terms. A first message should be small "
+"enough to forward to the right person."
+msgstr "Enviamos una presentación de una página en inglés y chino simplificado: empresa y equipo, problema del cliente, producto, evidencia técnica o comercial, etapa actual, presencia en Shanghái y el recurso exacto solicitado. Pedimos que se nos indique el equipo receptor asignado y las condiciones vigentes por escrito. Un primer mensaje debe ser lo bastante conciso como para reenviarse fácilmente a la persona adecuada."
+
+#: ../../apply.rst:15
+msgid ""
+"Suggested subject: Shanghai ecosystem inquiry / project name / "
+"incubation, pilot or funding. Suggested request: We are developing "
+"[product] for [customer]. Our evidence is [metric or prototype]. We seek "
+"[specific resource] during [period]. Please confirm eligibility, intake "
+"dates, the application checklist, fees or equity terms, and the "
+"responsible contact."
+msgstr "Asunto sugerido: Consulta ecosistema de Shanghái / nombre del proyecto / incubación, piloto o financiación. Solicitud sugerida: Estamos desarrollando [producto] para [cliente]. Nuestra evidencia actual es [métrica o prototipo]. Buscamos [recurso específico] durante [período]. Rogamos confirmen los requisitos de elegibilidad, las fechas de admisión, la lista de documentos de solicitud, las tarifas o condiciones de capital y la persona de contacto responsable."
+
+#: ../../apply.rst:17
+msgid "The shared data room"
+msgstr "El cuarto de datos compartido"
+
+#: ../../apply.rst:20
+msgid ""
+"Company: business licence, unified social credit code, articles, cap "
+"table, beneficial ownership, bank details, registered and operating "
+"addresses, prior public awards and related-party list. Team: founder "
+"roles, full-time commitment, relevant education, eligibility evidence and "
+"lawful work status where required."
+msgstr "Empresa: licencia comercial, código unificado de crédito social, estatutos sociales, tabla de capitalización (cap table), titularidad real (beneficial ownership), datos bancarios, domicilio registrado y operativo, subvenciones públicas previas y lista de partes vinculadas. Equipo: funciones de los fundadores, dedicación a tiempo completo, formación académica relevante, pruebas de elegibilidad y situación legal de permiso de trabajo cuando corresponda."
+
+#: ../../apply.rst:22
+msgid ""
+"For international founders and overseas returnees, Shanghai publishes "
+"dedicated guidance for Foreigner's Work Permit (Category A/B) "
+"applications during the startup phase, Overseas Talent Residence Permits, "
+"and the 2026 Regulations Encouraging Overseas Returnees to Work and Start "
+"Businesses in Shanghai. Confirm host-park endorsement and immigration "
+"requirements separately from grant eligibility."
+msgstr "Para fundadores internacionales y talentos retornados del extranjero, Shanghái publica directrices específicas para la solicitud del Permiso de Trabajo para Extranjeros (Categorías A/B) durante la fase de creación de la startup, Permisos de Residencia para Talento Extranjero y el Reglamento de 2026 para Fomentar que el Talento Retornado del Extranjero Trabaje y Emprenda en Shanghái. Confirme el aval del parque tecnológico de acogida y los requisitos migratorios por separado de la elegibilidad para subvenciones."
+
+#: ../../apply.rst:24
+msgid ""
+"Technology: product note, demo, evaluation, IP ownership and licences, "
+"patent and software records, data rights, security controls and sector "
+"approvals where applicable. Commercial: pilot evidence, customer "
+"references, pricing, procurement path and unit economics. Finance: "
+"management accounts, annual audit where required, R&D ledger, contracts, "
+"invoices and payment evidence."
+msgstr "Tecnología: nota técnica del producto, demostración, resultados de evaluación, titularidad y licencias de propiedad intelectual, registros de patentes y software, derechos sobre los datos, controles de seguridad y autorizaciones sectoriales aplicables. Comercial: evidencias de pilotos, referencias de clientes, estructura de precios, vía de contratación y economía unitaria. Finanzas: cuentas de gestión, auditoría anual cuando sea exigible, libro mayor de I+D, contratos, facturas y justificantes de pago."
+
+#: ../../apply.rst:26
+msgid "Four different decisions"
+msgstr "Cuatro decisiones distintas"
+
+#: ../../apply.rst:29
+msgid ""
+"Incubation: fit inquiry, application pack, technical or commercial "
+"review, written service and space terms, admission and onboarding. "
+"Confirm workspace rent, service fee, compute price, access restrictions, "
+"IP and any investment rights before signing."
+msgstr "Incubación: consulta de encaje, expediente de solicitud, revisión técnica o comercial, condiciones escritas de servicios y espacio, admisión e incorporación. Antes de firmar, confirme el alquiler del espacio de trabajo, las tarifas de servicio, el precio de cómputo, las restricciones de acceso, la propiedad intelectual y cualquier derecho de inversión."
+
+#: ../../apply.rst:31
+msgid ""
+"Public grant or reimbursement: current notice, eligibility check, "
+"platform account, legal-entity authorization, evidence submission, "
+"district or host review, expert review, award or contract, reporting, "
+"acceptance and payment. This sequence is a general guide; the linked "
+"notice governs the actual workflow."
+msgstr "Subvención pública o reembolso: convocatoria vigente, verificación de elegibilidad, cuenta en la plataforma oficial, autorización de la entidad jurídica, presentación de evidencias, revisión del distrito o entidad de acogida, evaluación por comité de expertos, adjudicación o contrato, informes de seguimiento, aceptación final y desembolso. Esta secuencia es una guía general; la convocatoria oficial enlazada rige el procedimiento real."
+
+#: ../../apply.rst:33
+msgid ""
+"Corporate pilot: business owner, problem definition, data and IP "
+"agreement, scoped pilot, procurement and legal review, acceptance, "
+"production decision. Investment: manager fit, deck, meeting, diligence, "
+"term sheet, investment committee, definitive agreements and closing. "
+"Neither begins with a guaranteed outcome."
+msgstr "Piloto corporativo: responsable de negocio, definición del problema, acuerdo de datos y propiedad intelectual, piloto acotado, revisión de compras y legal, aceptación y decisión de paso a producción. Inversión: encaje con la gestora, presentación (deck), reunión, due diligence, carta de intenciones (term sheet), comité de inversiones, contratos definitivos y cierre. Ninguno de los dos procesos comienza con un resultado garantizado."
+
+#: ../../apply.rst:35
+msgid "An accelerator's four-week field program"
+msgstr "Programa de campo de cuatro semanas para aceleradoras"
+
+#: ../../apply.rst:38
+msgid ""
+"Week 1: shortlist two districts, one research partner and two operators "
+"using sector fit and written eligibility. Week 2: meet the operator and a "
+"plausible buyer; inspect facilities. Week 3: define one pilot and a "
+"costed evidence plan. Week 4: submit the relevant application or "
+"investment pack and record the next decision date. This is an editorial "
+"planning model, not an official service promise."
+msgstr "Semana 1: preseleccionar dos distritos, un socio de investigación y dos operadores basándose en el encaje sectorial y los requisitos de elegibilidad escritos. Semana 2: reunirse con el operador y un comprador potencial verosímil; inspeccionar las instalaciones. Semana 3: definir un piloto y un plan de evidencias presupuestado. Semana 4: presentar la solicitud o el dossier de inversión correspondiente y registrar la próxima fecha de decisión. Este esquema es un modelo de planificación editorial, no una promesa oficial de plazos de servicio."
+
+#: ../../apply.rst:40
+msgid ""
+"We maintain an application ledger with owner, authority, policy version, "
+"evidence period, deadline in China Standard Time, submission receipt, "
+"duplicate-funding exclusions, reporting duty and next action. A calendar "
+"alert is useful only after the correct deadline and timezone have been "
+"confirmed."
+msgstr "Mantenemos un registro de seguimiento de solicitudes con el responsable interno, la autoridad competente, la versión de la política, el período de gasto elegible, la fecha límite en la hora estándar de China (CST), el acuse de recibo de presentación, las exclusiones por doble financiación, las obligaciones de información y el siguiente paso. Una alerta en el calendario solo resulta útil tras haber confirmado la fecha límite exacta y la zona horaria."
+
+#: ../../apply.rst:42
+msgid ""
+"`Evidence S130 "
+"<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
+"Guide for foreign talent and team members (Category A/B) applying for a "
+"Foreigner's Work Permit during the startup phase_Latest."
+msgstr "`Evidencia S130 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest."
+
+#: ../../apply.rst:44
+msgid ""
+"`Evidence S131 "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. "
+"上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+msgstr "`Evidencia S131 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."

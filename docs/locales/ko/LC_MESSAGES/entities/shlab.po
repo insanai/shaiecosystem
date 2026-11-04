@@ -1,0 +1,120 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/shlab.rst:1
+msgid "Shanghai Artificial Intelligence Laboratory"
+msgstr "상하이 인공지능 연구소"
+
+#: ../../entities/shlab.rst:4
+msgid "上海人工智能实验室"
+msgstr "上海人工智能实验室"
+
+#: ../../entities/shlab.rst:6
+msgid "Research platform | Xuhui | Research checked 2026-11-04"
+msgstr "연구 플랫폼 | 쉬후이구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/shlab.rst:8
+msgid "AI and industry focus: Software AI, AI for Science."
+msgstr "AI 및 산업 분야: 소프트웨어 AI, 과학을 위한 AI (AI for Science)."
+
+#: ../../entities/shlab.rst:10
+msgid ""
+"A research institution for foundational and applied AI. Its published "
+"general contact supports initial routing; open-source resources, "
+"collaboration and recruitment are separate pathways, not a generic "
+"startup grant."
+msgstr "인공지능 기초 이론 및 응용 연구를 수행하는 국립 연구기관입니다. 공개 대표 연락처를 통해 초기 문의가 가능하며, 오픈소스 자원 활용, 연구 협력, 인재 채용은 일반 창업 보조금과 별개로 운영됩니다."
+
+#: ../../entities/shlab.rst:12
+msgid ""
+"`Evidence S031 <https://www.shlab.org.cn/aboutus>`_. 关于我们 - 上海人工智能实验室."
+msgstr "`근거 S031 <https://www.shlab.org.cn/aboutus>`_. 关于我们 - 上海人工智能实验室."
+
+#: ../../entities/shlab.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/shlab.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/shlab.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/shlab.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/shlab.rst:24
+msgid ""
+"`Official website / intake route <https://www.shlab.org.cn/aboutus>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.shlab.org.cn/aboutus>`_"
+
+#: ../../entities/shlab.rst:26
+msgid "`Email: comm@pjlab.org.cn <mailto:comm@pjlab.org.cn>`_"
+msgstr "`이메일: comm@pjlab.org.cn <mailto:comm@pjlab.org.cn>`_"
+
+#: ../../entities/shlab.rst:28
+msgid ""
+"Published address: L1, International Media Port, 129 Longwen Road, Xuhui."
+msgstr "공개 주소: 쉬후이구 룽원루 129호 국제미디어포트 L1층."
+
+#: ../../entities/shlab.rst:30
+msgid ""
+"Map point is approximate, based on the published street context; it is "
+"not an entrance or navigation coordinate."
+msgstr "지도상 위치는 공시된 도로 정보를 바탕으로 한 근사치이며, 실제 출입구나 내비게이션용 좌표가 아닙니다."
+
+#: ../../entities/shlab.rst:32
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/shlab.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/shlab.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "연관 연구진을 발굴하고 해결하고자 하는 과학적 또는 산업적 과제를 명확히 제시한다."
+
+#: ../../entities/shlab.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "필요 데이터, 연구 장비, 기대 성과, 소요 예산, 추진 일정을 담은 간결한 연구 제안서를 송부한다."
+
+#: ../../entities/shlab.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "산학협력 추진 방식, 논문 발표 범위, 지식재산권(IP) 귀속 및 기관 차원의 공식 승인 조건을 합의한다."
+
+#: ../../entities/shlab.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "연구에 착수하기 전 서면 입주 허가서 또는 공식 프로젝트 승인 문서를 확보한다."
+
+#: ../../entities/shlab.rst:45
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`쉬후이구 경로 안내 </districts/xuhui>`"

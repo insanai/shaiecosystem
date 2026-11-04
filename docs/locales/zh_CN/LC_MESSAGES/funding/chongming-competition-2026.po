@@ -1,0 +1,115 @@
+# zh_CN translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/chongming-competition-2026.rst:1
+msgid ""
+"Chongming Entrepreneurship and Innovation Competition & Policy Support, "
+"2026"
+msgstr "2026崇明区创业创新大赛与联动扶持"
+
+#: ../../funding/chongming-competition-2026.rst:4
+msgid "Competition | Chongming"
+msgstr "比赛｜崇明区"
+
+#: ../../funding/chongming-competition-2026.rst:6
+msgid "2026 competition published; track intake to confirm"
+msgstr "2026赛事已公布，赛道受理待确认"
+
+#: ../../funding/chongming-competition-2026.rst:8
+msgid ""
+"`Evidence S127 "
+"<https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_. "
+"关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府."
+msgstr "`证据 S127 <https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_. 关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府."
+
+#: ../../funding/chongming-competition-2026.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/chongming-competition-2026.rst:13
+msgid ""
+"Competition awards plus priority routing to district startup subsidies, "
+"carrier incubation and guaranteed loans"
+msgstr "赛事奖金及优先对接区初创补贴、孵化载体与创业担保贷款"
+
+#: ../../funding/chongming-competition-2026.rst:15
+msgid "Award / investment terms vary"
+msgstr "奖励与投资条款各异"
+
+#: ../../funding/chongming-competition-2026.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/chongming-competition-2026.rst:20
+msgid ""
+"Startup teams and early-stage enterprises aligned with Chongming "
+"ecological tech, smart agriculture, marine equipment, green energy and "
+"digital economy."
+msgstr "符合崇明生态科技、智慧农业、海洋装备、绿色能源及数字经济方向的创业团队与初创企业。"
+
+#: ../../funding/chongming-competition-2026.rst:22
+msgid "Implementation plan issued 20 August 2026; check track schedule"
+msgstr "实施方案于2026年8月20日印发，须核验赛程安排"
+
+#: ../../funding/chongming-competition-2026.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/chongming-competition-2026.rst:27
+msgid "`Official application / policy route <https://www.shcm.gov.cn/>`_"
+msgstr "`官方申请／政策入口 <https://www.shcm.gov.cn/>`_"
+
+#: ../../funding/chongming-competition-2026.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/chongming-competition-2026.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/chongming-competition-2026.rst:33
+msgid "Choose the correct competition track, region and applicant category."
+msgstr "选择正确赛道、地区及申请类别。"
+
+#: ../../funding/chongming-competition-2026.rst:35
+msgid ""
+"Read the rules and submit the required project, team and IP evidence."
+msgstr "阅读规则，提交所需项目、团队及知识产权证据。"
+
+#: ../../funding/chongming-competition-2026.rst:37
+msgid ""
+"Complete selection or pitching; confirm prize and service conditions in "
+"writing."
+msgstr "完成选拔或路演，书面确认奖励及服务条件。"
+
+#: ../../funding/chongming-competition-2026.rst:39
+msgid ""
+"Treat investor introductions and district funding as separate follow-up "
+"decisions."
+msgstr "将投资对接及区级资助视为后续独立决策。"
+
+#: ../../funding/chongming-competition-2026.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

@@ -1,0 +1,112 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/stvc.rst:1
+msgid "Shanghai STVC Group"
+msgstr "Grupo de Inversión en Ciencia y Tecnología de Shanghái (STVC)"
+
+#: ../../entities/stvc.rst:4
+msgid "上海科技创业投资集团"
+msgstr "上海科技创业投资集团"
+
+#: ../../entities/stvc.rst:6
+msgid "Investor | Citywide / global | Research checked 2026-11-04"
+msgstr "Inversor | Toda la ciudad / global | Investigación verificada el 2026-11-04"
+
+#: ../../entities/stvc.rst:8
+msgid "AI and industry focus: Chips, Health, Software AI."
+msgstr "Enfoque de IA e industria: Chips y semiconductores, Salud y biomedicina, IA de software."
+
+#: ../../entities/stvc.rst:10
+msgid ""
+"An established science and technology investment group within Shanghai's "
+"state-capital ecosystem. Use its official portfolio and manager "
+"information to identify the appropriate investment vehicle and stage."
+msgstr "Consolidado grupo inversor en ciencia y tecnología dentro del ecosistema de capital público de Shanghái. Consulte la información oficial de su cartera y sus gestoras para identificar el vehículo de inversión y la etapa adecuados."
+
+#: ../../entities/stvc.rst:12
+msgid ""
+"`Evidence S047 <https://www.shstvc.com.cn/en/>`_. Shanghai Science & "
+"Technology Venture Capital (Group) Co., Ltd.."
+msgstr "`Evidencia S047 <https://www.shstvc.com.cn/en/>`_. Shanghai Science & Technology Venture Capital (Group) Co., Ltd.."
+
+#: ../../entities/stvc.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/stvc.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/stvc.rst:19
+msgid "Funding mechanism: Equity investment."
+msgstr "Mecanismo de financiación: Inversión en capital (Equity)."
+
+#: ../../entities/stvc.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/stvc.rst:24
+msgid "`Official website / intake route <https://www.shstvc.com.cn/en/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.shstvc.com.cn/en/>`_"
+
+#: ../../entities/stvc.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/stvc.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/stvc.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/stvc.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/stvc.rst:35
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "Confirmar el encaje con la gestora en cuanto a sector, etapa de desarrollo y estructura societaria."
+
+#: ../../entities/stvc.rst:37
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "Presentar el deck de inversión, la tabla de capitalización, la evidencia tecnológica, las métricas de tracción y el plan de financiación."
+
+#: ../../entities/stvc.rst:39
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "Completar los procesos de due diligence comercial, financiera, técnica y legal."
+
+#: ../../entities/stvc.rst:41
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "Revisar la carta de intenciones (term sheet), las condiciones del comité de inversión y los contratos societarios definitivos."
+
+#: ../../entities/stvc.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`Ruta del distrito de Toda la ciudad / global </funding>`"

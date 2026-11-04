@@ -1,0 +1,188 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/minhang.rst:1
+msgid "Minhang"
+msgstr "閔行区"
+
+#: ../../districts/minhang.rst:4
+msgid "University commercialization, robotics, BCI and engineering"
+msgstr "大学発成果の産業化、ロボティクス、BCI（脳機インタフェース）、エンジニアリング"
+
+#: ../../districts/minhang.rst:6
+msgid ""
+"The enterprise innovation policy runs from 1 September 2025 to 31 August "
+"2030. New conversion enterprises may qualify for up to RMB 500,000 "
+"annually, capped at RMB 1.5 million over three years and 50% of eligible "
+"investment."
+msgstr "企業技術革新政策の有効期間は2025年9月1日から2030年8月31日までである。新規設立された技術成果転換企業は、適格投資額の50%を上限として年間最大50万元、3年間で累計最大150万元の助成を受けられる場合がある。"
+
+#: ../../districts/minhang.rst:8
+msgid ""
+"`Evidence S091 "
+"<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
+"Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`出典 S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+
+#: ../../districts/minhang.rst:10
+msgid "Who receives the inquiry"
+msgstr "受付・問い合わせ窓口"
+
+#: ../../districts/minhang.rst:13
+msgid "Minhang science and technology authority"
+msgstr "閔行区科学技術主管部門"
+
+#: ../../districts/minhang.rst:15
+msgid "`Official district website <https://www.shmh.gov.cn/>`_"
+msgstr "`区人民政府公式サイト <https://www.shmh.gov.cn/>`_"
+
+#: ../../districts/minhang.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "本記録では現行の直接電話番号やメールアドレスは確認されていません。公式サイトを通じて担当の受付部署にお問い合わせください。"
+
+#: ../../districts/minhang.rst:19
+msgid "Before applying"
+msgstr "申請前の確認事項"
+
+#: ../../districts/minhang.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../districts/minhang.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../districts/minhang.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../districts/minhang.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../districts/minhang.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../districts/minhang.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "どの現行通知がプロジェクトに適用されるか、法人登記と実際の事業活動の双方が区内にある必要があるか、どの経費支出期間が対象となるか、また過去の市・区レベルの受給実績が今回の申請を排除しないかを確認してください。企業の移転や費用の発生に先立ち、回答を得ておく必要があります。"
+
+#: ../../districts/minhang.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本アトラスに収録されている区内組織"
+
+#: ../../districts/minhang.rst:37
+msgid ""
+":doc:`Grand neoBay / Zero Kilometer Incubator </entities/neobay>` "
+"(大零号湾／零公里孵化器 · Incubator · Hardware AI, Software AI) — A "
+"university-linked commercialization route connecting early technology "
+"projects with incubation. SJTU documents the Zero Kilometer launch and "
+"its AI, integrated-circuit, manufacturing and low-carbon participants. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`大零号湾／零公里インキュベーター </entities/neobay>` （大零号湾／零公里孵化器 · インキュベーター · ハードウェアAI、ソフトウェアAI）— 大学連携型の研究成果産業化・技術移転ルートであり、初期段階の技術プロジェクトとインキュベーション資源を接続する。上海交通大学の公開記録では、零公里インキュベーターの立ち上げと、AI、集積回路、製造、低炭素分野の参加実績が示されている。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/minhang.rst:38
+msgid ""
+":doc:`Synlonx Brain-Computer Interface Incubator </entities/synlonx>` "
+"(司南脑机智能孵化器 · Incubator · Hardware AI, Health) — A brain-computer "
+"interface incubation platform launched in Huacao. Suitable conversations "
+"include electrodes, neural interfaces, sensing, rehabilitation and "
+"translational engineering; wet-lab and device requirements need explicit "
+"confirmation. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`司南ブレイン・コンピュータ・インタフェース（BCI）知能インキュベーター </entities/synlonx>` （司南脑机智能孵化器 · インキュベーター · ハードウェアAI、ヘルスケア・医療）— 華漕エリアで開設されたブレイン・コンピュータ・インタフェース（BCI）インキュベーションプラットフォーム。電極、神経インターフェース、センシング、リハビリテーション、トランスレーショナルエンジニアリングなどの連携に適する。ウェットラボや医療機器要件は事前に明確な確認が必要。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/minhang.rst:39
+msgid ""
+":doc:`Maqiao AI Innovation Zone </entities/maqiao>` (马桥人工智能创新试验区 · "
+"Technology park · Hardware AI, Robotics) — The Minhang 2025-2026 park "
+"plan links Grand neoBay R&D with Maqiao manufacturing. A useful pathway "
+"from a robot prototype to supply-chain and production conversations. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`馬橋人工知能イノベーション実証区 </entities/maqiao>` （马桥人工智能创新试验区 · テクノロジーパーク · ハードウェアAI、ロボティクス）— 閔行区の2025〜2026年パーク発展計画において、大零号湾の研究開発機能と馬橋の製造機能を連結する。ロボット試作機からサプライチェーンや量産製造への対話を進める実践的なルートとなる。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/minhang.rst:40
+msgid ""
+":doc:`Zizhu National Hi-Tech Park / ET Space </entities/zizhu>` "
+"(紫竹国家高新区／创业孵化器ET空间 · Incubator · Software AI, Hardware AI, Industry) — "
+"The park-owned incubator connects startups with the software, avionics "
+"and manufacturing ecosystem. Its operator describes industry challenges "
+"and collaborative innovation; current admission, space and fees require "
+"an intake discussion. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`紫竹国家ハイテク産業開発区／創業インキュベーターET空間 </entities/zizhu>` （紫竹国家高新区／创业孵化器ET空间 · インキュベーター · ソフトウェアAI、ハードウェアAI、産業・インダストリー）— 開発区直営のインキュベーターとして、ソフトウェア、航空電子（アビオニクス）、先端製造エコシステムとスタートアップを結ぶ。産業課題の共創に取り組むが、現行の入居条件、利用可能スペース、費用は窓口への相談を要する。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/minhang.rst:41
+msgid ""
+":doc:`Hongqiao International Youth Innovation Hub "
+"</entities/hongqiao-youth>` (虹桥国际青年创业港 · Incubator · Software AI, "
+"Industry) — Opened in July 2026 as a youth innovation and "
+"business-service hub in Hongqiao. The reported workstation offer depends "
+"on qualification and available space, not simply arrival at the transport "
+"hub. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`虹橋国際青年創業ポート </entities/hongqiao-youth>` （虹桥国际青年创业港 · インキュベーター · ソフトウェアAI、産業・インダストリー）— 2026年7月に虹橋エリアで開設された青年起業家・企業向けサービス拠点。報道されたワークスペース提供特典は、資格審査および空き状況に依存し、交通結節点への到着のみで自動付与されるものではない。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/minhang.rst:42
+msgid ""
+":doc:`Shanghai Jiao Tong University </entities/university-sjtu>` (上海交通大学 "
+"· University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Robotics, chips, "
+"engineering, medical AI. These themes are editorial routing guidance, not "
+"a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海交通大学 </entities/university-sjtu>` （上海交通大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：ロボティクス、半導体チップ、先端エンジニアリング、医療AI。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/minhang.rst:44
+msgid "Funding routes"
+msgstr "資金調達ルート"
+
+#: ../../districts/minhang.rst:47
+msgid ""
+":doc:`Minhang research commercialization support "
+"</funding/minhang-conversion>` (闵行科技成果转化支持 · Grant · No equity) — New "
+"conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; "
+"up to 50% of investment. Status: Policy in force; call not confirmed "
+"open. Timing: Policy: 1 Sep 2025 to 31 Aug 2030."
+msgstr ":doc:`閔行区科学技術成果実用化・事業化支援 </funding/minhang-conversion>` （闵行科技成果转化支持 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 新設の成果事業化企業に対して年間最大50万元、3年間累計最大150万元（事業化投資額の最大50％まで）。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2025年9月1日〜2030年8月31日。"
+
+#: ../../districts/minhang.rst:48
+msgid ""
+":doc:`Minhang core technology R&D projects </funding/minhang-rd>` "
+"(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
+"R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
+"confirmed open. Timing: Policy through 31 Aug 2030."
+msgstr ":doc:`閔行区基幹コア技術研究開発プロジェクト </funding/minhang-rd>` （闵行关键核心技术攻关 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 一般プロジェクト：研究開発費の最大30％（最大300万元まで）。重点・重大プロジェクト：最大50％（最大1,000万元まで）。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2030年8月31日まで有効。"
+
+#: ../../districts/minhang.rst:50
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`上海全市レベルの資金調達ルートとの比較 </funding>`"

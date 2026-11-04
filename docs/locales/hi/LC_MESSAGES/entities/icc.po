@@ -1,0 +1,116 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/icc.rst:1
+msgid "Shanghai Integrated Circuit Technology and Industry Promotion Center"
+msgstr "शंघाई इंटीग्रेटेड सर्किट टेक्नोलॉजी एंड इंडस्ट्री प्रमोशन सेंटर (ICC)"
+
+#: ../../entities/icc.rst:4
+msgid "上海集成电路技术与产业促进中心"
+msgstr "上海集成电路技术与产业促进中心"
+
+#: ../../entities/icc.rst:6
+msgid "Research platform | Pudong | Research checked 2026-11-04"
+msgstr "अनुसंधान प्लेटफॉर्म | पुडोंग (Pudong) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/icc.rst:8
+msgid "AI and industry focus: Chips, Hardware AI."
+msgstr "एआई और उद्योग फोकस: चिप्स, हार्डवेयर AI।"
+
+#: ../../entities/icc.rst:10
+msgid ""
+"An IC technical-service entry point that also publishes "
+"innovation-voucher guidance. Eligible voucher-covered services are "
+"selected on the official platform; a voucher is not a general equipment "
+"purchase budget."
+msgstr "एक IC तकनीकी-सेवा प्रवेश बिंदु जो इनोवेशन-वाउचर मार्गदर्शन भी प्रकाशित करता है। वाउचर द्वारा कवर की जाने वाली पात्र सेवाएं आधिकारिक प्लेटफॉर्म पर चुनी जाती हैं; वाउचर कोई सामान्य उपकरण खरीद बजट नहीं है।"
+
+#: ../../entities/icc.rst:12
+msgid ""
+"`Evidence S030 <https://www.icc.sh.cn/list_32/>`_. 科技创新券-上海集成电路技术与产业促进中心."
+msgstr "`साक्ष्य S030 <https://www.icc.sh.cn/list_32/>`_. 科技创新券-上海集成电路技术与产业促进中心."
+
+#: ../../entities/icc.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/icc.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/icc.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/icc.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/icc.rst:24
+msgid "`Official website / intake route <https://www.icc.sh.cn/list_32/>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://www.icc.sh.cn/list_32/>`_"
+
+#: ../../entities/icc.rst:26
+msgid "Telephone: +86 21 61609878 ext. 217."
+msgstr "टेलीफ़ोन: +86 21 61609878 ext. 217।"
+
+#: ../../entities/icc.rst:28
+msgid "`Email: fhan@icc.sh.cn <mailto:fhan@icc.sh.cn>`_"
+msgstr "`ईमेल: fhan@icc.sh.cn <mailto:fhan@icc.sh.cn>`_"
+
+#: ../../entities/icc.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/icc.rst:32
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/icc.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/icc.rst:37
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "प्रोटोटाइप, आवश्यक उपकरण, प्रक्रिया और परीक्षण आवश्यकताओं का वर्णन करें।"
+
+#: ../../entities/icc.rst:39
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "तकनीकी समीक्षा, सुविधा के दौरे और मदवार कोटेशन के लिए पूछें।"
+
+#: ../../entities/icc.rst:41
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "पहुंच, सुरक्षा, नमूना और IP स्वामित्व, परीक्षण दायरे और स्वीकृति पर सहमति बनाएं।"
+
+#: ../../entities/icc.rst:43
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "सुविधा अनुबंध को निवेश या सार्वजनिक-फंडिंग आवेदनों से अलग रखें।"
+
+#: ../../entities/icc.rst:45
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`पुडोंग (Pudong) ज़िला मार्ग </districts/pudong>`"

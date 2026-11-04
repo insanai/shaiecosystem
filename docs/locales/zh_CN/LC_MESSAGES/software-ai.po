@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -55,10 +55,20 @@ msgid ""
 msgstr "我们区分基础模型、垂类模型、智能体、多模态系统、工业软件、评测、人工智能安全与科学软件。能够介绍制造商的加速器未必能提供受监管金融数据或推理服务合同。"
 
 #: ../../software-ai.rst:17
+msgid ""
+"In central and western districts, Jing'an's Shibei Hi-Tech Park and "
+"Shutong Valley focus on big-data, blockchain and enterprise AI "
+"compliance; Huangpu pairs its five-year fintech clustering policy with "
+"the Entrepreneurship Companion mentor network; and Songjiang's 2026 Data "
+"Elements Special Fund supports corpus governance and AI data-space "
+"applications."
+msgstr "在中心城区与西部走廊，静安市北高新与数通链谷聚焦大数据、区块链及企业级AI合规；黄浦将未来五年金融科技集聚导向与“创业陪跑计划”结合；松江则通过2026年数据要素专项资金支持语料治理与AI数据空间应用。"
+
+#: ../../software-ai.rst:19
 msgid "Build the smallest credible pilot"
 msgstr "构建最小可信试点"
 
-#: ../../software-ai.rst:20
+#: ../../software-ai.rst:22
 msgid ""
 "Prepare one task, a baseline, a held-out evaluation set and a target "
 "metric. State cost per completed task, latency, error handling and human "
@@ -67,7 +77,7 @@ msgid ""
 "to a production contract."
 msgstr "准备单一任务、基线、独立评测集与目标指标，说明每次任务成本、延迟、异常处理及人工复核，并明确数据权利人、部署环境与负责采购方。试点需要负责人、预算、验收标准及转生产合同路径。"
 
-#: ../../software-ai.rst:22
+#: ../../software-ai.rst:24
 msgid ""
 "Budget training, fine-tuning, inference, retrieval, storage, networking, "
 "annotation and evaluation separately. A compute reimbursement may exclude "
@@ -76,11 +86,11 @@ msgid ""
 "logs, invoices, contracts and payment records from the beginning."
 msgstr "训练、微调、推理、检索、存储、网络、标注及评测须分别预算。算力补贴可能不含存储或网络，模型及语料券可能限定供应商和支出期间。应从项目开始保存使用日志、发票、合同及付款记录。"
 
-#: ../../software-ai.rst:24
+#: ../../software-ai.rst:26
 msgid "Before public deployment"
 msgstr "公开部署之前"
 
-#: ../../software-ai.rst:27
+#: ../../software-ai.rst:29
 msgid ""
 "Define whether the service is an internal tool, a business-facing "
 "deployment or a public-facing generative service. Ask the relevant "
@@ -91,9 +101,9 @@ msgid ""
 "legal procedure."
 msgstr "先定义服务属于内部工具、企业部署还是面向公众的生成式服务，再向主管部门与专业顾问核实模型登记、算法备案、内容标识、数据、行业及网络要求。要求取决于实际服务，而非路演材料中的人工智能标签。本图谱提供对接问题，不代替完整法律程序。"
 
-#: ../../software-ai.rst:29
+#: ../../software-ai.rst:31
 msgid ""
-"`Evidence S079 "
+"`Evidence S104 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
 "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
-msgstr "`证据 S079 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`证据 S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."

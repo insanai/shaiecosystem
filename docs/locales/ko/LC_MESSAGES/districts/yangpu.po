@@ -1,0 +1,227 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/yangpu.rst:1
+msgid "Yangpu"
+msgstr "양푸구"
+
+#: ../../districts/yangpu.rst:4
+msgid "University spinouts, brain-inspired AI and independent AI founders"
+msgstr "대학 스핀오프 기업, 뇌 모방 인공지능 및 독립 AI 창업가"
+
+#: ../../districts/yangpu.rst:6
+msgid ""
+"Brain-inspired AI policy names Changyang Campus and Bay Valley. A "
+"separate May 2026 OPC policy supports communities around Fuxing Island; "
+"an action plan does not itself constitute a cash award."
+msgstr "뇌 모방 인공지능 육성 정책은 창양창구(Changyang Campus) 및 만구과기원(Bay Valley)을 거점으로 명시합니다. 별도의 2026년 5월 OPC 정책은 푸싱섬 주변 커뮤니티를 지원하며, 실행 계획 발표 자체가 곧바로 현금 보조금 지급을 의미하는 것은 아닙니다."
+
+#: ../../districts/yangpu.rst:8
+msgid ""
+"`Evidence S016 "
+"<https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. "
+"关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
+msgstr "`근거 S016 <https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. 关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
+
+#: ../../districts/yangpu.rst:10
+msgid "Who receives the inquiry"
+msgstr "문의 접수 부처"
+
+#: ../../districts/yangpu.rst:13
+msgid "Yangpu science and technology authority"
+msgstr "양푸구 과학기술위원회"
+
+#: ../../districts/yangpu.rst:15
+msgid "`Official district website <https://www.shyp.gov.cn/>`_"
+msgstr "`구청 공식 웹사이트 <https://www.shyp.gov.cn/>`_"
+
+#: ../../districts/yangpu.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "본 자료에는 해당 프로그램의 직통 전화나 이메일이 기재되어 있지 않습니다. 공식 웹사이트를 통해 담당 접수팀을 문의하십시오."
+
+#: ../../districts/yangpu.rst:19
+msgid "Before applying"
+msgstr "신청 전 확인 사항"
+
+#: ../../districts/yangpu.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../districts/yangpu.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../districts/yangpu.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../districts/yangpu.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../districts/yangpu.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../districts/yangpu.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "어느 최신 공고가 프로젝트에 적용되는지, 법인 등록지와 실제 사업장 모두 관할 구 내에 있어야 하는지, 인정되는 지출 대상 기간은 언제인지, 기존 시·구 단위 지원금 수혜 이력이 신청을 배제하는지 반드시 문의하십시오. 법인을 이전하거나 비용을 지출하기 전에 공식 답변을 확인해야 합니다."
+
+#: ../../districts/yangpu.rst:34
+msgid "Local organizations in this atlas"
+msgstr "본 도감에 수록된 관내 기관"
+
+#: ../../districts/yangpu.rst:37
+msgid ""
+":doc:`InnoSpace </entities/innospace>` (创智空间InnoSpace · Accelerator · "
+"Software AI, Industry) — An innovation service organization focused on "
+"corporate open innovation and startup incubation and acceleration. Bring "
+"a concrete industrial use case; program participation does not imply a "
+"corporate purchase order. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`이노스페이스(InnoSpace) </entities/innospace>` (创智空间InnoSpace · 액셀러레이터 · 소프트웨어 AI, 산업) — 대기업 오픈 이노베이션과 스타트업 인큐베이션 및 액셀러레이팅에 특화된 혁신 서비스 기관입니다. 구체적인 산업 적용 사례를 제시해야 하며, 프로그램 참여가 기업의 구매 발주를 보장하지는 않습니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/yangpu.rst:38
+msgid ""
+":doc:`Changyang Campus </entities/changyang>` (长阳创谷 · Technology park · "
+"Software AI, Hardware AI) — The Yangpu brain-inspired intelligence plan "
+"identifies Changyang Campus as a southern core, paired with Bay Valley in "
+"the north. Suitable for neuromorphic computing and commercial AI "
+"collaborations. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`창양창구(Changyang Campus) </entities/changyang>` (长阳创谷 · 과학기술단지 · 소프트웨어 AI, 하드웨어 AI) — 양푸구 뇌신경 모사 지능 발전 방안에서 남부 핵심 거점으로 지정되어 북부 완구(Bay Valley) 과기원과 연계됩니다. 뉴로모픽 컴퓨팅 및 상업용 AI 협력에 적합합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/yangpu.rst:39
+msgid ""
+":doc:`Fuxing Island maker / OPC communities </entities/fuxing>` "
+"(复兴岛创客与OPC社区 · Incubator · Software AI) — A May 2026 district policy "
+"supports AI-enabled independent founders and maker communities. Ask for "
+"an approved community operator, the qualifying activity definition, "
+"housing conditions and any service or equity agreement. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`푸싱섬 메이커 및 OPC 커뮤니티 </entities/fuxing>` (复兴岛创客与OPC社区 · 인큐베이터 · 소프트웨어 AI) — 2026년 5월 구 단위 정책으로 AI 기반 1인 창업가(OPC)와 메이커 커뮤니티를 지원합니다. 공인 커뮤니티 운영사, 적격 활동 인정 기준, 주거 지원 조건 및 서비스·지분 계약 조건을 확인해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/yangpu.rst:40
+msgid ""
+":doc:`STEFG Angel Fund </entities/stefg>` (上海市大学生科技创业基金会天使基金 · Investor · "
+"Software AI, Hardware AI, Industry) — The foundation offers distinct "
+"interest-free loan and temporary equity support routes for eligible "
+"Chinese university entrepreneurs. Nationality, age, ownership, full-time "
+"work and company age conditions apply. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`상하이시 대학생 과학기술 창업기금회 엔젤펀드 </entities/stefg>` (上海市大学生科技创业基金会天使基金 · 투자 기관 · 소프트웨어 AI, 하드웨어 AI, 산업) — 적격 중국 국적 대학생 및 청년 창업가를 위해 무이자 대출(츠잉 계획)과 한시적 지분 투자(슝잉 계획) 경로를 제공합니다. 국적, 연령(40세 이하), 지분율, 전업 창업 여부, 회사 업력 요건이 적용됩니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/yangpu.rst:41
+msgid ""
+":doc:`China (Shanghai) Public Practicing Base for Entrepreneurs "
+"</entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Incubator · Software "
+"AI, Hardware AI, Industry) — A municipal HRSS-backed public "
+"entrepreneurship training, prototyping and incubation base in Yangpu "
+"linking founder skills training, product trial spaces and startup service "
+"agencies. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`중국 (상하이) 창업자 공공실훈기지 </entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · 인큐베이터 · 소프트웨어 AI, 하드웨어 AI, 산업) — 상하이시 인력자원사회보장국이 지원하는 양푸구 공공 창업 실습·시제품 제작 및 인큐베이션 기지로 창업 역량 교육, 시제품 시험 제작 공간, 창업 전문 서비스 기관을 연결합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/yangpu.rst:42
+msgid ""
+":doc:`Fudan University </entities/university-fudan>` (复旦大学 · University) "
+"— Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Software AI, chips, AI for Science. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`푸단대학교 </entities/university-fudan>` (复旦大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 소프트웨어 AI, 반도체 칩, 과학을 위한 AI(AI for Science). 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/yangpu.rst:43
+msgid ""
+":doc:`Tongji University </entities/university-tongji>` (同济大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Autonomous systems, mobility, "
+"robotics, built environment. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`퉁지대학교 </entities/university-tongji>` (同济大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 자율주행 시스템, 모빌리티, 로봇 공학, 건축 및 도시환경. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/yangpu.rst:44
+msgid ""
+":doc:`University of Shanghai for Science and Technology "
+"</entities/university-usst>` (上海理工大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Optics, medical devices, sensors, advanced equipment. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`상하이이공대학교 </entities/university-usst>` (上海理工大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 광학 기술, 의료기기, 스마트 센서, 첨단 산업장비. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/yangpu.rst:45
+msgid ""
+":doc:`Shanghai University of Finance and Economics "
+"</entities/university-sufe>` (上海财经大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Fintech, analytics, business models. These themes are editorial "
+"routing guidance, not a verified offer of laboratory access or startup "
+"funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`상하이재경대학교 </entities/university-sufe>` (上海财经大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 핀테크, 금융 데이터 분석, 디지털 비즈니스 모델. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/yangpu.rst:46
+msgid ""
+":doc:`Shanghai University of Sport </entities/university-sport>` (上海体育大学 "
+"· University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Sports science, "
+"motion analysis, wearables. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`상하이체육대학교 </entities/university-sport>` (上海体育大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 스포츠 과학, 모션 분석, 스포츠 웨어러블 디바이스. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/yangpu.rst:48
+msgid "Funding routes"
+msgstr "자금 지원 경로"
+
+#: ../../districts/yangpu.rst:51
+msgid ""
+":doc:`Yangpu financing and credit service platform "
+"</funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Loan · No equity; "
+"repayable) — Product-specific technology credit and IP finance; no "
+"universal ceiling. Status: Published directory; lender review. Timing: "
+"Product-specific; confirm current lender terms."
+msgstr ":doc:`양푸구 융자 신용 서비스 플랫폼 </funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · 대출 · 지분 취득 없음; 상환 의무 있음) — 기업 신용 평가 기반의 간편 저금리 대출, 정책형 금융 보증 및 이차보전 지원. 상태: 공시된 목록; 대출 기관 심사 필요. 일정: 양푸구 공식 온라인 신용 플랫폼 상시 접수."
+
+#: ../../districts/yangpu.rst:52
+msgid ""
+":doc:`Yangpu Dream Start Angel Co-investment Fund "
+"</funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Equity investment · "
+"Negotiated equity) — District state-backed early-stage equity "
+"co-investment; individual cheque subject to investment committee review. "
+"Status: Published investment platform; deal review. Timing: Manager-led "
+"sourcing and due diligence."
+msgstr ":doc:`양푸 멍샹치항(Dream Start) 엔젤 공동투자 펀드 </funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · 지분 투자 · 협의 지분율 적용) — 구 국유 자본 기반의 초기 지분 공동투자 펀드; 건당 투자액은 투자심의위원회 심의를 통해 결정. 상태: 공시된 투자 플랫폼; 투자 적격 심사 필요. 일정: 전문 운용사 중심의 프로젝트 선별 및 실사 상시 진행."
+
+#: ../../districts/yangpu.rst:54
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`상하이 시 전역 지원 경로와 함께 비교 </funding>`"

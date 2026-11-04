@@ -1,0 +1,115 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/government-jingan.rst:1
+msgid "Jing'an science and economy authority"
+msgstr "징안구 과학기술경제위원회"
+
+#: ../../entities/government-jingan.rst:4
+msgid "静安区科技和经济委员会"
+msgstr "静安区科技和经济委员会"
+
+#: ../../entities/government-jingan.rst:6
+msgid "Government | Jing'an | Research checked 2026-11-04"
+msgstr "정부 기관 | 징안구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/government-jingan.rst:8
+msgid ""
+"The 2026-2028 AI application demonstration plan focuses on industry "
+"integration and talent. Its stated objectives must be distinguished from "
+"implementing rules and currently accepting applications."
+msgstr "2026~2028년 AI 응용 실증 지구 추진 계획은 산업 융합과 인재 유치에 중점을 둡니다. 계획에 명시된 정책 목표는 세부 시행 규칙 및 실제 접수 중인 지원 사업과 명확히 구분되어야 합니다."
+
+#: ../../entities/government-jingan.rst:10
+msgid ""
+"`Evidence S053 "
+"<https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. "
+"静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+msgstr "`근거 S053 <https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. 静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+
+#: ../../entities/government-jingan.rst:12
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/government-jingan.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/government-jingan.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/government-jingan.rst:19
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/government-jingan.rst:22
+msgid "`Official website / intake route <https://www.jingan.gov.cn/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.jingan.gov.cn/>`_"
+
+#: ../../entities/government-jingan.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/government-jingan.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/government-jingan.rst:28
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/government-jingan.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/government-jingan.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../entities/government-jingan.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../entities/government-jingan.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../entities/government-jingan.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../entities/government-jingan.rst:41
+msgid ":doc:`Jing'an district route </districts/jingan>`"
+msgstr ":doc:`징안구 경로 안내 </districts/jingan>`"

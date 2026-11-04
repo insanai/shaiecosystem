@@ -1,0 +1,119 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/baoshan-industrial.rst:1
+msgid "Baoshan Industrial Park"
+msgstr "Parque Industrial de Baoshan"
+
+#: ../../entities/baoshan-industrial.rst:4
+msgid "宝山工业园区"
+msgstr "宝山工业园区"
+
+#: ../../entities/baoshan-industrial.rst:6
+msgid "Technology park | Baoshan | Research checked 2026-11-04"
+msgstr "Parque tecnológico | Distrito de Baoshan | Investigación verificada el 2026-11-04"
+
+#: ../../entities/baoshan-industrial.rst:8
+msgid "AI and industry focus: Industry, Hardware AI."
+msgstr "Enfoque de IA e industria: Industria, IA de hardware."
+
+#: ../../entities/baoshan-industrial.rst:10
+msgid ""
+"The park committee publishes an official contact and provides industrial "
+"admission, project attraction, policy coordination and business services. "
+"This is a separate park from the Gucun robot industrial park."
+msgstr "El comité de gestión del parque publica un contacto oficial y gestiona la admisión industrial, la atracción de proyectos, la coordinación de políticas y los servicios empresariales. Es un recinto distinto del parque industrial robótico de Gucun."
+
+#: ../../entities/baoshan-industrial.rst:12
+msgid ""
+"`Evidence S020 "
+"<https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. "
+"信息公开机构_上海市宝山区人民政府门户网站."
+msgstr "`Evidencia S020 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. 信息公开机构_上海市宝山区人民政府门户网站."
+
+#: ../../entities/baoshan-industrial.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/baoshan-industrial.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/baoshan-industrial.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/baoshan-industrial.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/baoshan-industrial.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
+msgstr "`Fuente oficial y vía de la autoridad competente <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
+
+#: ../../entities/baoshan-industrial.rst:26
+msgid "Telephone: +86 21 66879800."
+msgstr "Teléfono: +86 21 66879800."
+
+#: ../../entities/baoshan-industrial.rst:28
+msgid "Published address: 1688 Jinshi Road, Baoshan."
+msgstr "Dirección publicada: Calle Jinshi 1688, Distrito de Baoshan."
+
+#: ../../entities/baoshan-industrial.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/baoshan-industrial.rst:32
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/baoshan-industrial.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/baoshan-industrial.rst:37
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "Describir el prototipo, el equipamiento requerido, el proceso de fabricación y las necesidades de ensayo."
+
+#: ../../entities/baoshan-industrial.rst:39
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "Solicitar una revisión técnica, una visita a las instalaciones y un presupuesto desglosado por partidas."
+
+#: ../../entities/baoshan-industrial.rst:41
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "Acordar las condiciones de acceso, seguridad, titularidad de muestras y propiedad intelectual, alcance de las pruebas y criterios de aceptación."
+
+#: ../../entities/baoshan-industrial.rst:43
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "Separar el contrato de uso de instalaciones de las solicitudes de inversión o de financiación pública."
+
+#: ../../entities/baoshan-industrial.rst:45
+msgid ":doc:`Baoshan district route </districts/baoshan>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Baoshan </districts/baoshan>`"

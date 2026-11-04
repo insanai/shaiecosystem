@@ -1,0 +1,120 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/oriental-beauty.rst:1
+msgid "Oriental Beauty Valley"
+msgstr "ओरिएंटल ब्यूटी वैली (Oriental Beauty Valley)"
+
+#: ../../entities/oriental-beauty.rst:4
+msgid "东方美谷"
+msgstr "东方美谷"
+
+#: ../../entities/oriental-beauty.rst:6
+msgid "Technology park | Fengxian | Research checked 2026-11-04"
+msgstr "प्रौद्योगिकी पार्क | फेंगशियान (Fengxian) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/oriental-beauty.rst:8
+msgid "AI and industry focus: Health, Industry."
+msgstr "एआई और उद्योग फोकस: स्वास्थ्य, उद्योग।"
+
+#: ../../entities/oriental-beauty.rst:10
+msgid ""
+"A Fengxian beauty and health industry ecosystem. Relevant AI applications "
+"include formulation research, inspection, consumer analysis and "
+"supply-chain tools; clinical or laboratory access is a separate "
+"arrangement."
+msgstr "फेंगशियान का एक सौंदर्य और स्वास्थ्य उद्योग इकोसिस्टम। प्रासंगिक AI अनुप्रयोगों में फॉर्मूलेशन अनुसंधान, निरीक्षण, उपभोक्ता विश्लेषण और आपूर्ति-श्रृंखला उपकरण शामिल हैं; क्लिनिकल या प्रयोगशाला पहुंच एक अलग व्यवस्था है।"
+
+#: ../../entities/oriental-beauty.rst:12
+msgid ""
+"`Evidence S024 "
+"<https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_. "
+"奉贤区领导调研东方美谷集团、临港南桥科技城."
+msgstr "`साक्ष्य S024 <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_. 奉贤区领导调研东方美谷集团、临港南桥科技城."
+
+#: ../../entities/oriental-beauty.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/oriental-beauty.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/oriental-beauty.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/oriental-beauty.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/oriental-beauty.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_"
+msgstr "`आधिकारिक साक्ष्य और प्राधिकरण मार्ग <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_"
+
+#: ../../entities/oriental-beauty.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/oriental-beauty.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/oriental-beauty.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/oriental-beauty.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/oriental-beauty.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "कॉर्पोरेट व्यवसाय स्वामी और एक मापने योग्य उपयोग परिदृश्य (use case) की पहचान करें।"
+
+#: ../../entities/oriental-beauty.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "उत्पाद विवरण, पायलट साक्ष्य और प्रासंगिक तकनीकी आवश्यकताएं जमा करें।"
+
+#: ../../entities/oriental-beauty.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "बैच (cohort) की उपलब्धता की पुष्टि करें या निर्धारित पायलट, डेटा अधिकारों और IP शर्तों पर सहमति बनाएं।"
+
+#: ../../entities/oriental-beauty.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "खरीद, भुगतान, स्वीकृति और उत्पादन निर्णय की अलग से समीक्षा करें।"
+
+#: ../../entities/oriental-beauty.rst:43
+msgid ":doc:`Fengxian district route </districts/fengxian>`"
+msgstr ":doc:`फेंगशियान (Fengxian) ज़िला मार्ग </districts/fengxian>`"

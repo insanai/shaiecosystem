@@ -1,0 +1,152 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/jinshan.rst:1
+msgid "Jinshan"
+msgstr "Bezirk Jinshan"
+
+#: ../../districts/jinshan.rst:4
+msgid "Drones, new materials and low-altitude systems"
+msgstr "Drohnentechnologie, neue Werkstoffe und Tiefflugsysteme"
+
+#: ../../districts/jinshan.rst:6
+msgid ""
+"The 2025-2026 park plan names Jinshan New Materials Incubator, East China "
+"UAV Base and Bay Area incubation carriers. It connects testing and "
+"industrialization, subject to park admission and the applicable aviation "
+"permissions."
+msgstr "Der Parkentwicklungsplan 2025–2026 nennt den Inkubator für neue Werkstoffe in Jinshan, die Drohnenbasis Ostchina und die Bay-Area-Inkubationszentren. Er verknüpft Tests und Industrialisierung, vorbehaltlich der Parkaufnahme und geltender luftfahrtrechtlicher Genehmigungen."
+
+#: ../../districts/jinshan.rst:8
+msgid ""
+"`Evidence S023 "
+"<https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. "
+"金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+msgstr "`Nachweis S023 <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. 金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+
+#: ../../districts/jinshan.rst:10
+msgid "Who receives the inquiry"
+msgstr "Zuständige Anlaufstelle für Anfragen"
+
+#: ../../districts/jinshan.rst:13
+msgid "Jinshan science and technology authority"
+msgstr "Behörde für Wissenschaft und Technologie von Jinshan"
+
+#: ../../districts/jinshan.rst:15
+msgid "`Official district website <https://www.jinshan.gov.cn/>`_"
+msgstr "`Offizielle Website des Bezirks <https://www.jinshan.gov.cn/>`_"
+
+#: ../../districts/jinshan.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "In diesem Datensatz ist keine direkte Telefondurchwahl oder E-Mail-Adresse hinterlegt. Bitte erfragen Sie das zuständige Fachteam über das offizielle Webportal."
+
+#: ../../districts/jinshan.rst:19
+msgid "Before applying"
+msgstr "Vor der Antragstellung"
+
+#: ../../districts/jinshan.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../districts/jinshan.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../districts/jinshan.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../districts/jinshan.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../districts/jinshan.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../districts/jinshan.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Bringen Sie in Erfahrung, welche Richtlinienfassung maßgeblich ist, ob Firmensitz und tatsächlicher Betrieb beide im Bezirk liegen müssen, welcher Ausgabenzeitraum anerkannt wird und ob bereits erhaltene städtische oder bezirkliche Fördermittel eine Bewilligung ausschließen. Klären Sie dies verbindlich, bevor Sie den Firmensitz verlegen oder Kosten auslösen."
+
+#: ../../districts/jinshan.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Lokale Institutionen in diesem Atlas"
+
+#: ../../districts/jinshan.rst:37
+msgid ""
+":doc:`East China UAV Base </entities/uav-base>` (华东无人机基地 · Technology "
+"park · Hardware AI, Drones) — The Jinshan park plan includes test-flight "
+"services and a low-altitude incubation platform. Airspace, testing and "
+"airworthiness services require separate confirmation from physical "
+"workspace. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Drohnenbasis Ostchina (UAV-Basis) </entities/uav-base>` (华东无人机基地 · Technologiepark · Hardware-KI, Drohnen & Tiefflugsysteme) — Das Parkkonzept in Jinshan umfasst Testflugservices und eine Inkubationsplattform für die Tiefflugökonomie. Luftraumnutzung, Prüfstände und Lufttüchtigkeitszertifizierungen müssen unabhängig von den reinen Büroflächen vereinbart werden. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/jinshan.rst:38
+msgid ""
+":doc:`Jinshan New Materials Incubator </entities/jinshan-materials>` "
+"(金山新材料孵化器 · Incubator · Materials, Hardware AI) — A materials incubation "
+"route linked to Carbon Valley Green Bay. Relevant to sensors, electronic "
+"materials and manufacturing inputs; specify process equipment and "
+"environmental constraints in the inquiry. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Inkubator für neue Werkstoffe Jinshan </entities/jinshan-materials>` (金山新材料孵化器 · Inkubator · Werkstoffe & Materialien, Hardware-KI) — Ein spezialisierter Werkstoffinkubator mit Anbindung an Carbon Valley Green Bay. Relevant für Sensorwerkstoffe, elektronische Materialien und Vorprodukte; Prozessanlagen und Umweltvorgaben sind detailliert anzufragen. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/jinshan.rst:39
+msgid ""
+":doc:`Shanghai Zhongqiao Vocational and Technical University "
+"</entities/university-zhongqiao>` (上海中侨职业技术大学 · University) — "
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Vocational undergraduate engineering and "
+"applied skills. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Berufliche und Technische Universität Shanghai Zhongqiao </entities/university-zhongqiao>` (上海中侨职业技术大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Berufsbildende Ingenieurstudiengänge und angewandte Fachkompetenzen. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/jinshan.rst:41
+msgid "Funding routes"
+msgstr "Finanzierungs- und Förderwege"
+
+#: ../../districts/jinshan.rst:44
+msgid ""
+":doc:`Zhangjiang Jinshan Park low-altitude UAV and new materials support "
+"</funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Grant / reimbursement "
+"· No equity) — Policy-specific R&D, carrier incubation, testing-service "
+"and industrialization support under the 2025-2026 park action plan. "
+"Status: Policy in force; call not confirmed open. Timing: Policy: 2025 to "
+"2026 action plan; confirm current implementing batch."
+msgstr ":doc:`Innovationsförderung für Tiefflug-Drohnen und neue Werkstoffe im Zhangjiang-Park Jinshan </funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Zuschuss / Kostenerstattung · Ohne Anteilsabgabe) — Förderung von F&E, Inkubationsträgern, Prüfdienstleistungen und Industrialisierungsvorhaben gemäß dem Aktionsplan 2025–2026. Status: Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet. Zeitrahmen: Aktionsplan 2025–2026 in Kraft; aktuelle Antragsfenster der Tranchen prüfen."
+
+#: ../../districts/jinshan.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Auch stadtweite Förderprogramme vergleichen </funding>`"

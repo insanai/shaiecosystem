@@ -1,0 +1,123 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/china-israel.rst:1
+msgid "China-Israel Innovation Hub, Shanghai"
+msgstr "Chinesisch-Israelischer Innovationspark Shanghai"
+
+#: ../../entities/china-israel.rst:4
+msgid "中以（上海）创新园"
+msgstr "中以（上海）创新园"
+
+#: ../../entities/china-israel.rst:6
+msgid "Technology park | Putuo | Research checked 2026-11-04"
+msgstr "Technologiepark | Bezirk Putuo | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/china-israel.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI."
+msgstr "KI- und Branchenfokus: Software-KI, Hardware-KI."
+
+#: ../../entities/china-israel.rst:10
+msgid ""
+"A district-listed carrier for international collaboration in intelligent "
+"manufacturing, AI, robotics and information technology. It supports "
+"market, capital and industrial connections; the listing does not "
+"guarantee cash support."
+msgstr "Ein bilateraler Innovationshub in Taopu (Putuo), spezialisiert auf KI, Robotik, Medizintechnik und geistiges Eigentum. Prüfen Sie die spezifischen Kriterien für bilaterale Zuschüsse und Ansiedlungsprämien."
+
+#: ../../entities/china-israel.rst:12
+msgid ""
+"`Evidence S014 "
+"<https://www.shpt.gov.cn/zhengwu/jjfz-czzzdgz/2024/106/170391.html>`_. "
+"普陀区区级创业孵化基地基本情况汇总表-上海普陀."
+msgstr "`Nachweis S014 <https://www.shpt.gov.cn/zhengwu/jjfz-czzzdgz/2024/106/170391.html>`_. 普陀区区级创业孵化基地基本情况汇总表-上海普陀."
+
+#: ../../entities/china-israel.rst:14
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/china-israel.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/china-israel.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/china-israel.rst:21
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/china-israel.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shpt.gov.cn/zhengwu/jjfz-czzzdgz/2024/106/170391.html>`_"
+msgstr "`Offizieller Nachweis und Behördenweg <https://www.shpt.gov.cn/zhengwu/jjfz-czzzdgz/2024/106/170391.html>`_"
+
+#: ../../entities/china-israel.rst:26
+msgid "Published address: Lane 111, Qilianshan Road, Putuo."
+msgstr "Veröffentlichte Adresse: Gasse 111, Qilianshan-Straße, Bezirk Putuo."
+
+#: ../../entities/china-israel.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+
+#: ../../entities/china-israel.rst:30
+msgid ""
+"Map point is approximate, based on the published street context; it is "
+"not an entrance or navigation coordinate."
+msgstr "Der Kartenpunkt ist eine Näherung anhand der veröffentlichten Straßenangabe; er stellt keine Gebäude- oder Navigationskoordinate dar."
+
+#: ../../entities/china-israel.rst:32
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/china-israel.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/china-israel.rst:37
+msgid "Send a project brief and request the current admission checklist."
+msgstr "Ein Projekt-Exposé einreichen und die aktuelle Aufnahme-Checkliste anfordern."
+
+#: ../../entities/china-israel.rst:39
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "Die Förderfähigkeits- sowie die technische oder kaufmännische Prüfung des Betreibers durchlaufen."
+
+#: ../../entities/china-israel.rst:41
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "Mietkosten, Servicegebühren, IP-Rechte, Rechenleistungspreise und etwaige Beteiligungsansprüche schriftlich vereinbaren."
+
+#: ../../entities/china-israel.rst:43
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "Die vereinbarten Aufnahmeverträge unterzeichnen sowie Meilensteine und zuständige Betreuer festhalten."
+
+#: ../../entities/china-israel.rst:45
+msgid ":doc:`Putuo district route </districts/putuo>`"
+msgstr ":doc:`Bezirksroute Bezirk Putuo </districts/putuo>`"

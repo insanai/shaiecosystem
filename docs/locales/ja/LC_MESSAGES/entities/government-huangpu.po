@@ -1,0 +1,116 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/government-huangpu.rst:1
+msgid "Huangpu science and entrepreneurship services"
+msgstr "黄浦区科学技術・創業サービス部門"
+
+#: ../../entities/government-huangpu.rst:4
+msgid "黄浦区科技与创业服务部门"
+msgstr "黄浦区科技与创业服务部门"
+
+#: ../../entities/government-huangpu.rst:6
+msgid "Government | Huangpu | Research checked 2026-11-04"
+msgstr "政府機関・行政部門｜黄浦区｜調査確認日 2026-11-04"
+
+#: ../../entities/government-huangpu.rst:8
+msgid ""
+"The 2025-2026 Zhangjiang Huangpu Park plan emphasizes fintech and "
+"clinical research services. Huangpu ChuangKa is a separate youth "
+"entrepreneurship support route; check eligibility and current workstation "
+"availability."
+msgstr "2025〜2026年の張江黄浦園計画はフィンテックと臨床研究サービスに重点を置いている。「黄浦創卡（Huangpu ChuangKa）」は別途実施されている若手起業家支援ルートであり、申請資格と現時点での席・ワークステーションの空き状況を確認する必要がある。"
+
+#: ../../entities/government-huangpu.rst:10
+msgid ""
+"`Evidence S093 "
+"<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
+"黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`出典 S093 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
+
+#: ../../entities/government-huangpu.rst:12
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/government-huangpu.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/government-huangpu.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/government-huangpu.rst:19
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/government-huangpu.rst:22
+msgid "`Official website / intake route <https://www.shhuangpu.gov.cn/>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://www.shhuangpu.gov.cn/>`_"
+
+#: ../../entities/government-huangpu.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/government-huangpu.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/government-huangpu.rst:28
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/government-huangpu.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/government-huangpu.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../entities/government-huangpu.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../entities/government-huangpu.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../entities/government-huangpu.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../entities/government-huangpu.rst:41
+msgid ":doc:`Huangpu district route </districts/huangpu>`"
+msgstr ":doc:`黄浦区の案内ルート </districts/huangpu>`"

@@ -1,0 +1,139 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/university-sues.rst:1
+msgid "Shanghai University of Engineering Science"
+msgstr "상하이공정기술대학교"
+
+#: ../../entities/university-sues.rst:4
+msgid "上海工程技术大学"
+msgstr "上海工程技术大学"
+
+#: ../../entities/university-sues.rst:6
+msgid "University | Songjiang | Research checked 2026-11-04"
+msgstr "대학 | 쑹장구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/university-sues.rst:8
+msgid "Ministry of Education institution code: 4131010856."
+msgstr "교육부 학교 식별 코드: 4131010856."
+
+#: ../../entities/university-sues.rst:10
+msgid ""
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Engineering, mobility, manufacturing, "
+"design. These themes are editorial routing guidance, not a verified offer "
+"of laboratory access or startup funding."
+msgstr "2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 산업 엔지니어링, 스마트 모빌리티, 첨단 제조, 산업 디자인. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다."
+
+#: ../../entities/university-sues.rst:12
+msgid ""
+"`Evidence S086 "
+"<https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_. "
+"上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号."
+msgstr "`근거 S086 <https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_. 上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号."
+
+#: ../../entities/university-sues.rst:14
+msgid ""
+"`Evidence S076 "
+"<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+"全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`근거 S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+
+#: ../../entities/university-sues.rst:16
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/university-sues.rst:19
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/university-sues.rst:21
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/university-sues.rst:23
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/university-sues.rst:26
+msgid ""
+"SUES university-industry engineering cooperation and entrepreneurship "
+"service route"
+msgstr "상하이공정기술대학교 산학협력처 및 창업지원센터"
+
+#: ../../entities/university-sues.rst:28
+msgid "`Official website / intake route <https://www.sues.edu.cn/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.sues.edu.cn/>`_"
+
+#: ../../entities/university-sues.rst:30
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/university-sues.rst:32
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/university-sues.rst:34
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/university-sues.rst:37
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/university-sues.rst:39
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "연관 연구진을 발굴하고 해결하고자 하는 과학적 또는 산업적 과제를 명확히 제시한다."
+
+#: ../../entities/university-sues.rst:41
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "필요 데이터, 연구 장비, 기대 성과, 소요 예산, 추진 일정을 담은 간결한 연구 제안서를 송부한다."
+
+#: ../../entities/university-sues.rst:43
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "산학협력 추진 방식, 논문 발표 범위, 지식재산권(IP) 귀속 및 기관 차원의 공식 승인 조건을 합의한다."
+
+#: ../../entities/university-sues.rst:45
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "연구에 착수하기 전 서면 입주 허가서 또는 공식 프로젝트 승인 문서를 확보한다."
+
+#: ../../entities/university-sues.rst:47
+msgid ""
+"Confirm whether external founders can apply, whether student or alumni "
+"status is required, who owns the research IP, and whether support is a "
+"service, a loan, a grant or equity. The thematic match in this profile is "
+"editorial guidance."
+msgstr "외부 창업자의 지원 가능 여부, 재학생 또는 동문 신분이 필수인지, 연구 지식재산권(IP)의 귀속 주체가 누구인지, 지원 형태가 서비스·대출·보조금·지분 투자 중 무엇인지 확인하십시오. 본 프로필의 산업 분야 매칭은 편집상 가이드라인입니다."
+
+#: ../../entities/university-sues.rst:49
+msgid ":doc:`Songjiang district route </districts/songjiang>`"
+msgstr ":doc:`쑹장구 경로 안내 </districts/songjiang>`"

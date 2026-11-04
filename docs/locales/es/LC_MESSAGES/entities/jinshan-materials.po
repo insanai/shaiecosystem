@@ -1,0 +1,117 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/jinshan-materials.rst:1
+msgid "Jinshan New Materials Incubator"
+msgstr "Incubadora de Nuevos Materiales de Jinshan"
+
+#: ../../entities/jinshan-materials.rst:4
+msgid "金山新材料孵化器"
+msgstr "金山新材料孵化器"
+
+#: ../../entities/jinshan-materials.rst:6
+msgid "Incubator | Jinshan | Research checked 2026-11-04"
+msgstr "Incubadora | Distrito de Jinshan | Investigación verificada el 2026-11-04"
+
+#: ../../entities/jinshan-materials.rst:8
+msgid "AI and industry focus: Materials, Hardware AI."
+msgstr "Enfoque de IA e industria: Materiales, IA de hardware."
+
+#: ../../entities/jinshan-materials.rst:10
+msgid ""
+"A materials incubation route linked to Carbon Valley Green Bay. Relevant "
+"to sensors, electronic materials and manufacturing inputs; specify "
+"process equipment and environmental constraints in the inquiry."
+msgstr "Vía de incubación especializada en materiales vinculada a Carbon Valley Green Bay. Relevante para sensores, materiales electrónicos e insumos de fabricación; especifique en su consulta el equipamiento de proceso y los requisitos medioambientales."
+
+#: ../../entities/jinshan-materials.rst:12
+msgid ""
+"`Evidence S023 "
+"<https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. "
+"金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+msgstr "`Evidencia S023 <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. 金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+
+#: ../../entities/jinshan-materials.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/jinshan-materials.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/jinshan-materials.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/jinshan-materials.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/jinshan-materials.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_"
+msgstr "`Fuente oficial y vía de la autoridad competente <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_"
+
+#: ../../entities/jinshan-materials.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/jinshan-materials.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/jinshan-materials.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/jinshan-materials.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/jinshan-materials.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "Describir el prototipo, el equipamiento requerido, el proceso de fabricación y las necesidades de ensayo."
+
+#: ../../entities/jinshan-materials.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "Solicitar una revisión técnica, una visita a las instalaciones y un presupuesto desglosado por partidas."
+
+#: ../../entities/jinshan-materials.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "Acordar las condiciones de acceso, seguridad, titularidad de muestras y propiedad intelectual, alcance de las pruebas y criterios de aceptación."
+
+#: ../../entities/jinshan-materials.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "Separar el contrato de uso de instalaciones de las solicitudes de inversión o de financiación pública."
+
+#: ../../entities/jinshan-materials.rst:43
+msgid ":doc:`Jinshan district route </districts/jinshan>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Jinshan </districts/jinshan>`"

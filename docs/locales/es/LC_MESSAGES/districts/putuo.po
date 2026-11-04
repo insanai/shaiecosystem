@@ -1,0 +1,176 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/putuo.rst:1
+msgid "Putuo"
+msgstr "Distrito de Putuo"
+
+#: ../../districts/putuo.rst:4
+msgid ""
+"Industrial testing, intelligent software and international innovation"
+msgstr "Ensayos industriales, software inteligente e innovación internacional"
+
+#: ../../districts/putuo.rst:6
+msgid ""
+"Wuning Science Park connects industrial research, testing and technology "
+"transfer. The district incubator register also lists the China-Israel "
+"Innovation Hub; tenancy and investment require separate terms."
+msgstr "El Parque Científico de Wuning conecta la investigación industrial, los ensayos y la transferencia tecnológica. El registro distrital de incubadoras también incluye el Centro de Innovación China-Israel; el arrendamiento y la inversión requieren acuerdos separados."
+
+#: ../../districts/putuo.rst:8
+msgid ""
+"`Evidence S013 <https://www.shpt.gov.cn/ys-cyyq/20260430/969703.html>`_. "
+"上海武宁科技园_创业园区_上海市普陀区人民政府."
+msgstr "`Evidencia S013 <https://www.shpt.gov.cn/ys-cyyq/20260430/969703.html>`_. 上海武宁科技园_创业园区_上海市普陀区人民政府."
+
+#: ../../districts/putuo.rst:10
+msgid "Who receives the inquiry"
+msgstr "Quién recibe la consulta"
+
+#: ../../districts/putuo.rst:13
+msgid "Putuo science and technology authority"
+msgstr "Autoridad de ciencia y tecnología de Putuo"
+
+#: ../../districts/putuo.rst:15
+msgid "`Official district website <https://www.shpt.gov.cn/>`_"
+msgstr "`Sitio web oficial del distrito <https://www.shpt.gov.cn/>`_"
+
+#: ../../districts/putuo.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "En este registro no consta un teléfono ni correo electrónico directo vigente para el programa. Utilice el sitio web oficial para solicitar los datos del equipo receptor responsable."
+
+#: ../../districts/putuo.rst:19
+msgid "Before applying"
+msgstr "Antes de presentar la solicitud"
+
+#: ../../districts/putuo.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../districts/putuo.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../districts/putuo.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../districts/putuo.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../districts/putuo.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../districts/putuo.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Consulte qué convocatoria vigente rige el proyecto, si tanto el domicilio social como las operaciones reales deben radicar en el distrito, qué período de gasto resulta elegible y si la obtención previa de ayudas municipales o distritales excluye una nueva solicitud. Obtenga respuesta antes de trasladar una empresa o incurrir en costes."
+
+#: ../../districts/putuo.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Organizaciones locales incluidas en este atlas"
+
+#: ../../districts/putuo.rst:37
+msgid ""
+":doc:`Wuning Science Park </entities/wuning>` (上海武宁科技园 · Technology park "
+"· Hardware AI, Industry) — An industrial research and testing environment "
+"operated by the Shanghai Electrical Apparatus Research Institute group. "
+"Robot and industrial-internet testing are useful entry points for "
+"hardware validation. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Parque Científico de Wuning </entities/wuning>` (上海武宁科技园 · Parque tecnológico · IA de hardware, Industria) — Entorno de investigación y ensayos industriales operado por el grupo del Instituto de Investigación de Aparatos Eléctricos de Shanghái. Las pruebas de robótica e internet industrial constituyen puntos de entrada útiles para la validación de hardware. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/putuo.rst:38
+msgid ""
+":doc:`China-Israel Innovation Hub, Shanghai </entities/china-israel>` "
+"(中以（上海）创新园 · Technology park · Software AI, Hardware AI) — A "
+"district-listed carrier for international collaboration in intelligent "
+"manufacturing, AI, robotics and information technology. It supports "
+"market, capital and industrial connections; the listing does not "
+"guarantee cash support. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Centro de Innovación China-Israel, Shanghái </entities/china-israel>` (中以（上海）创新园 · Parque tecnológico · IA de software, IA de hardware) — Centro incluido en el catálogo distrital para la colaboración internacional en fabricación inteligente, IA, robótica y tecnologías de la información. Facilita conexiones de mercado, capital e industria; figurar en el catálogo no garantiza subvenciones en efectivo. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/putuo.rst:39
+msgid ""
+":doc:`Shanghai Tsinghua International Innovation Center "
+"</entities/tsinghua-shanghai>` (上海清华国际创新中心 · Research platform · Software "
+"AI, Hardware AI, Chips) — A strategic research and technology-transfer "
+"platform in Putuo's \"One Axis, One Park, One Center\" layout, connecting "
+"university engineering laboratories with Yangtze River Delta industrial "
+"applications. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Centro Internacional de Innovación Tsinghua de Shanghái </entities/tsinghua-shanghai>` (上海清华国际创新中心 · Plataforma de investigación · IA de software, IA de hardware, Chips y semiconductores) — Plataforma estratégica de investigación y transferencia tecnológica dentro del esquema «Un Eje, Un Parque, Un Centro» de Putuo, que conecta los laboratorios de ingeniería universitaria con aplicaciones industriales en el delta del río Yangtsé. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/putuo.rst:40
+msgid ""
+":doc:`East China Normal University </entities/university-ecnu>` (华东师范大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Software, education AI, data "
+"science, microelectronics. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Universidad Normal del Este de China (ECNU) </entities/university-ecnu>` (华东师范大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Software, IA educativa, ciencia de datos, microelectrónica. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/putuo.rst:42
+msgid "Funding routes"
+msgstr "Vías de financiación"
+
+#: ../../districts/putuo.rst:45
+msgid ""
+":doc:`Putuo Technology Enterprise Seed Plan, second 2026 batch "
+"</funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Grant · No equity) — RMB "
+"300,000 per selected company; 50% initially, remainder after one-year "
+"development review. Status: Closed. Timing: Closed 31 August 2026."
+msgstr ":doc:`Plan Semilla de Empresas Tecnológicas de Putuo, segundo lote de 2026 </funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — 300.000 RMB por empresa seleccionada; 50 % inicial y el resto tras superar la evaluación de desarrollo al cabo de un año. Estado: Plazo cerrado. Plazo: Cerrada el 31 de agosto de 2026."
+
+#: ../../districts/putuo.rst:46
+msgid ""
+":doc:`Putuo intelligent software industry support, 2026 "
+"</funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Grant / "
+"reimbursement · No equity) — Direction-specific R&D, compute, "
+"first-product matching and related support. Status: Closed. Timing: "
+"Closed 26 June 2026."
+msgstr ":doc:`Programa especial para la industria de software inteligente de Putuo, 2026 </funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Subvención / reembolso · Sin cesión de capital (No equity)) — Apoyo específico según la línea en I+D, cómputo, cofinanciación de primeros productos y ámbitos conexos. Estado: Plazo cerrado. Plazo: Cerrada el 26 de junio de 2026."
+
+#: ../../districts/putuo.rst:47
+msgid ""
+":doc:`Putuo R&D Platform Projects, 2026 </funding/putuo-rd-platform>` "
+"(2026普陀科技研发平台项目 · Grant · No equity) — Up to RMB 2 million; first payment "
+"at most 50%, balance subject to acceptance. Status: 2026 call published; "
+"not confirmed open. Timing: Confirm the deadline in the September 2026 "
+"notice."
+msgstr ":doc:`Proyectos de Plataformas de I+D de Putuo, 2026 </funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Hasta 2 millones de RMB; primer desembolso de hasta el 50 % y saldo restante sujeto a auditoría de aceptación. Estado: Convocatoria 2026 publicada; no confirmada como abierta. Plazo: Confirmar la fecha límite exacta en la convocatoria de septiembre de 2026."
+
+#: ../../districts/putuo.rst:49
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Compare también las vías de financiación de ámbito municipal </funding>`"

@@ -1,0 +1,115 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:1
+msgid "Zhangjiang AI Town compute, model and corpus support"
+msgstr "झांगजियांग AI टाउन कंप्यूट, मॉडल और कॉर्पस सहायता"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "प्रतिपूर्ति (Reimbursement) | पुडोंग (Pudong)"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:6
+msgid "Quarterly scheme published; current intake to confirm"
+msgstr "तिमाही योजना प्रकाशित; वर्तमान प्रवेश की पुष्टि शेष"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:8
+msgid ""
+"`Evidence S103 "
+"<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
+"浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
+msgstr "`साक्ष्य S103 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. 浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:13
+msgid ""
+"Up to 100% of approved actual cost, capped at RMB 1m in each category; at "
+"most one year"
+msgstr "स्वीकृत वास्तविक लागत का 100% तक, प्रत्येक श्रेणी में RMB 1m की सीमा; अधिकतम एक वर्ष"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:15
+msgid "No equity"
+msgstr "कोई इक्विटी नहीं"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:20
+msgid ""
+"AI companies registered and operating inside the specified town boundary, "
+"established or moved there no earlier than 1 Jan 2025. Expenses must be "
+"for qualifying model R&D or deployment; review the current quarterly "
+"guide."
+msgstr "निर्दिष्ट टाउन सीमा के भीतर पंजीकृत और संचालित AI कंपनियां, जो 1 जनवरी 2025 को या उसके बाद स्थापित या वहां स्थानांतरित हुई हों। व्यय अर्हकारी मॉडल R&D या परिनियोजन के लिए होना चाहिए; वर्तमान तिमाही मार्गदर्शिका की समीक्षा करें।"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:22
+msgid "Quarterly claims; confirm the current batch"
+msgstr "तिमाही दावे; वर्तमान बैच की पुष्टि करें"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:27
+msgid "`Official application / policy route <https://pyd.pudong.gov.cn/>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://pyd.pudong.gov.cn/>`_"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:29
+msgid "Published consultation: +86 21 58811024 ext. 5091."
+msgstr "प्रकाशित परामर्श फ़ोन: +86 21 58811024 ext. 5091।"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "वास्तविक श्रेणी, क्षेत्र सीमा, आपूर्तिकर्ता और पात्र व्यय अवधि की पुष्टि करें।"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "सेवा अनुबंध, चालान, भुगतान साक्ष्य और मदवार उपयोग लॉग रखें।"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "नामित प्लेटफॉर्म और वर्तमान बैच का उपयोग करें; आवश्यक जिला या संचालक समीक्षा प्राप्त करें।"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "स्वीकृत राशि, दोहरे-फंडिंग बहिष्करण और भुगतान शर्तों की जाँच करें।"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

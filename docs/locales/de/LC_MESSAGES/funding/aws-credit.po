@@ -1,0 +1,109 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/aws-credit.rst:1
+msgid "AWS China Activate credits"
+msgstr "AWS China Activate Guthaben"
+
+#: ../../funding/aws-credit.rst:4
+msgid "Cloud credits | Citywide / global"
+msgstr "Cloud-Guthaben | Stadtweit / global"
+
+#: ../../funding/aws-credit.rst:6
+msgid "Regional eligibility to confirm"
+msgstr "Regionale Förderfähigkeit zu bestätigen"
+
+#: ../../funding/aws-credit.rst:8
+msgid ""
+"`Evidence S042 <https://www.amazonaws.cn/en/activate/>`_. Amazon Web "
+"Services Activate-Amazon Web Services China Region."
+msgstr "`Nachweis S042 <https://www.amazonaws.cn/en/activate/>`_. Amazon Web Services Activate-Amazon Web Services China Region."
+
+#: ../../funding/aws-credit.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/aws-credit.rst:13
+msgid "Package-specific promotional credits for eligible China services"
+msgstr "Paketspezifische Aktionsguthaben für berechtigte chinesische Cloud-Dienste"
+
+#: ../../funding/aws-credit.rst:15
+msgid "No equity stated in offer; verify terms"
+msgstr "Keine Anteilsabgabe im Angebot ausgewiesen; Konditionen prüfen"
+
+#: ../../funding/aws-credit.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/aws-credit.rst:20
+msgid ""
+"China-established unlisted startup and qualifying new-customer / "
+"participating partner relationship. Do not substitute global AWS account "
+"rules or credit ceilings."
+msgstr "In China gegründete, nicht börsennotierte Startups mit qualifiziertem Neukundenstatus oder Anbindung an anerkannte Risikokapitalgeber und Akzeleratoren. Die Regeln globaler AWS-Konten sind nicht übertragbar."
+
+#: ../../funding/aws-credit.rst:22
+msgid "Confirm current package and expiration"
+msgstr "Aktuelle Paketbedingungen und Gültigkeitsfristen beachten"
+
+#: ../../funding/aws-credit.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/aws-credit.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.amazonaws.cn/en/activate/>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://www.amazonaws.cn/en/activate/>`_"
+
+#: ../../funding/aws-credit.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "Die verlinkte Behörde bzw. der Träger ist der offizielle Kontaktweg. Ein direkter Programm-Ansprechpartner ist in diesem Profil nicht hinterlegt."
+
+#: ../../funding/aws-credit.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/aws-credit.rst:33
+msgid ""
+"Check incorporation, company age, account region and existing benefits."
+msgstr "Handelsregistereintrag, Unternehmensalter, Kontoregion und bereits bezogene Vergünstigungen überprüfen."
+
+#: ../../funding/aws-credit.rst:35
+msgid "Apply through the official program form or qualifying partner route."
+msgstr "Den Antrag über das offizielle Programmformular oder den autorisierten Partnerkanal stellen."
+
+#: ../../funding/aws-credit.rst:37
+msgid ""
+"Confirm covered services, expiry, fees, usage limits and overage billing."
+msgstr "Unterstützte Dienste, Gültigkeitsdauer, Gebühren, Verbrauchslimits und Abrechnung von Mehrverbrauch verifizieren."
+
+#: ../../funding/aws-credit.rst:39
+msgid "Keep usage records and do not describe credits as unrestricted cash."
+msgstr "Nutzungsprotokolle lückenlos archivieren und Guthaben nicht als freie Barmittel deklarieren."
+
+#: ../../funding/aws-credit.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

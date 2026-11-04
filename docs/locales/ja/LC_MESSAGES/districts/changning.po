@@ -1,0 +1,147 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/changning.rst:1
+msgid "Changning"
+msgstr "長寧区"
+
+#: ../../districts/changning.rst:4
+msgid "Digital business, AI applications and cross-border services"
+msgstr "デジタルコマース、AI応用、クロスボーダーサービス"
+
+#: ../../districts/changning.rst:6
+msgid ""
+"The August 2026 district account identifies Digital Silicon Alley, "
+"Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
+"MAKE021 as parts of its incubation landscape. Confirm the correct "
+"operator before submitting."
+msgstr "2026年8月の区の広報報道では、数字硅巷（デジタルシリコンアレイ）、虹橋智域、東虹橋国際青年科創センター、MAKE021（マーク上海）などがインキュベーション拠点として挙げられている。申請に先立ち、具体的な運営事業者を確認する必要がある。"
+
+#: ../../districts/changning.rst:8
+msgid ""
+"`Evidence S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. "
+"上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+msgstr "`出典 S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. 上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+
+#: ../../districts/changning.rst:10
+msgid "Who receives the inquiry"
+msgstr "受付・問い合わせ窓口"
+
+#: ../../districts/changning.rst:13
+msgid "Changning science and technology authority"
+msgstr "長寧区科学技術主管部門"
+
+#: ../../districts/changning.rst:15
+msgid "`Official district website <https://www.shcn.gov.cn/>`_"
+msgstr "`区人民政府公式サイト <https://www.shcn.gov.cn/>`_"
+
+#: ../../districts/changning.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "本記録では現行の直接電話番号やメールアドレスは確認されていません。公式サイトを通じて担当の受付部署にお問い合わせください。"
+
+#: ../../districts/changning.rst:19
+msgid "Before applying"
+msgstr "申請前の確認事項"
+
+#: ../../districts/changning.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../districts/changning.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../districts/changning.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../districts/changning.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../districts/changning.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../districts/changning.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "どの現行通知がプロジェクトに適用されるか、法人登記と実際の事業活動の双方が区内にある必要があるか、どの経費支出期間が対象となるか、また過去の市・区レベルの受給実績が今回の申請を排除しないかを確認してください。企業の移転や費用の発生に先立ち、回答を得ておく必要があります。"
+
+#: ../../districts/changning.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本アトラスに収録されている区内組織"
+
+#: ../../districts/changning.rst:37
+msgid ""
+":doc:`Digital Silicon Alley / Hongqiao innovation carriers "
+"</entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Incubator · Software AI) — "
+"Changning identifies a layered group of digital incubation and OPC "
+"communities. We treat this record as a district routing entry, not a "
+"single interchangeable operator or a guaranteed free-workspace offer. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`デジタル・シリコンアレイ／虹橋イノベーションキャリア </entities/digital-silicon>` （数字硅巷／虹桥创新载体 · インキュベーター · ソフトウェアAI）— 長寧区が整備する階層的なデジタルインキュベーションおよびスーパーインディビジュアル（OPC／一人起業家）向けコミュニティ群。本項目は区の総合窓口案内であり、各運営主体を一括りにしたり無償デスクを保証したりするものではない。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/changning.rst:38
+msgid ""
+":doc:`East Hongqiao International Youth Innovation Center "
+"</entities/east-hongqiao>` (东虹桥国际青年科创中心 · Incubator · Software AI) — "
+"Changning's official May 2026 account describes a hub for AI-enabled "
+"independent founders, combining incubation, AI services, talent support "
+"and global business resources. Confirm the current operator's selection "
+"and service terms. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`東虹橋国際青年科学イノベーションセンター </entities/east-hongqiao>` （东虹桥国际青年科创中心 · インキュベーター · ソフトウェアAI）— 長寧区の2026年5月公式発表で紹介されたAIスーパーインディビジュアル（一人起業家）特化型ハブ。インキュベーション、AI基盤サービス、人材優遇、グローバル展開支援を融合。現行運営者の選考基準とサービス条件を確認のこと。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/changning.rst:40
+msgid "Funding routes"
+msgstr "資金調達ルート"
+
+#: ../../districts/changning.rst:43
+msgid ""
+":doc:`Changning AI Industry Projects, 2026 </funding/changning-ai-2026>` "
+"(2026长宁人工智能产业项目 · Grant · No equity) — Project-specific support after "
+"assessment; no common ceiling established. Status: Closed. Timing: Closed "
+"30 June 2026."
+msgstr ":doc:`2026年長寧区AI・テクノロジーイノベーション特別資金（第1期） </funding/changning-ai-2026>` （2026长宁人工智能产业项目 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 方向別の助成。研究開発連携は最大100万元、計算資源補助は最大50万元、専精特新企業向け信用保証支援は最大15万元など。ステータス：受付終了。時期：2026年6月30日に公募終了。"
+
+#: ../../districts/changning.rst:44
+msgid ""
+":doc:`Changning Technology Star Teams, 2026 "
+"</funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · No equity) — "
+"Funding for assessed and recognized teams under the district talent fund "
+"plan. Status: Closed. Timing: Closed 26 June 2026."
+msgstr ":doc:`2026年長寧区テクノロジースターチーム（科技之星） </funding/changning-tech-star>` （2026长宁科技之星团队 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 区人材特別資金計画に基づき、評価・認定された優秀チームに対して資金支援。ステータス：受付終了。時期：2026年6月26日に公募終了。"
+
+#: ../../districts/changning.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`上海全市レベルの資金調達ルートとの比較 </funding>`"

@@ -1,0 +1,122 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/plugplay.rst:1
+msgid "Plug and Play China, Shanghai"
+msgstr "プラグ・アンド・プレイ中国（Plug and Play China）上海センター"
+
+#: ../../entities/plugplay.rst:4
+msgid "璞跃中国上海中心"
+msgstr "璞跃中国上海中心"
+
+#: ../../entities/plugplay.rst:6
+msgid "Accelerator | Pudong | Research checked 2026-11-04"
+msgstr "アクセラレーター｜浦東新区｜調査確認日 2026-11-04"
+
+#: ../../entities/plugplay.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Mobility."
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI、モビリティ・交通。"
+
+#: ../../entities/plugplay.rst:10
+msgid ""
+"The operator lists its Yangtze River Delta innovation center at "
+"Zhangjiang Guochuang Center. Corporate innovation, office space and "
+"venture investment have different admission and commercial terms."
+msgstr "運営会社が公表している長江デルタ地域イノベーションセンターは張江国創センター内に位置する。大企業オープンイノベーション、オフィススペース、ベンチャー投資では、入居条件や商業条件がそれぞれ異なる。"
+
+#: ../../entities/plugplay.rst:12
+msgid ""
+"`Evidence S011 <https://admin.pnpchina.com/about/office-space/>`_. Plug "
+"and Play 中国—科技创新加速器与投资机构，专注创新生态服务和开放式创新."
+msgstr "`出典 S011 <https://admin.pnpchina.com/about/office-space/>`_. Plug and Play 中国—科技创新加速器与投资机构，专注创新生态服务和开放式创新."
+
+#: ../../entities/plugplay.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/plugplay.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/plugplay.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/plugplay.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/plugplay.rst:24
+msgid "`Official website / intake route <https://www.pnpchina.com/>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://www.pnpchina.com/>`_"
+
+#: ../../entities/plugplay.rst:26
+msgid ""
+"Published address: 2F, Building 1, Phase II, Zhangjiang Guochuang Center, "
+"899 Dangui Road."
+msgstr "公開所在地：浦東新区丹桂路899号張江国創センター2期1棟2階。"
+
+#: ../../entities/plugplay.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/plugplay.rst:30
+msgid ""
+"Map point is approximate, based on the published street context; it is "
+"not an entrance or navigation coordinate."
+msgstr "地図上の地点は公開されている街区情報に基づく概略位置であり、施設の入口やナビゲーション用座標を示すものではありません。"
+
+#: ../../entities/plugplay.rst:32
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/plugplay.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/plugplay.rst:37
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "企業の事業責任者と、測定可能な具体的なユースケースを1件特定する。"
+
+#: ../../entities/plugplay.rst:39
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "製品概要、パイロット検証の実証データ、および関連する技術要件を提出する。"
+
+#: ../../entities/plugplay.rst:41
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "募集バッチの空き状況を確認するか、または検証スコープ、データ権利、知的財産権の諸条件に合意する。"
+
+#: ../../entities/plugplay.rst:43
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "調達プロセス、支払い条件、検収、および本番導入（商用化）の判断基準を個別に確認する。"
+
+#: ../../entities/plugplay.rst:45
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`浦東新区の案内ルート </districts/pudong>`"

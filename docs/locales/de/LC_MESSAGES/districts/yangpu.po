@@ -1,0 +1,227 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/yangpu.rst:1
+msgid "Yangpu"
+msgstr "Bezirk Yangpu"
+
+#: ../../districts/yangpu.rst:4
+msgid "University spinouts, brain-inspired AI and independent AI founders"
+msgstr "Universitäre Ausgründungen, hirninspirierte KI und unabhängige KI-Gründer"
+
+#: ../../districts/yangpu.rst:6
+msgid ""
+"Brain-inspired AI policy names Changyang Campus and Bay Valley. A "
+"separate May 2026 OPC policy supports communities around Fuxing Island; "
+"an action plan does not itself constitute a cash award."
+msgstr "Die Richtlinie für hirninspirierte KI benennt den Changyang Campus und das Bay Valley. Eine gesonderte OPC-Richtlinie vom Mai 2026 unterstützt Gründer-Communitys rund um die Insel Fuxing; ein Aktionsplan begründet für sich genommen keinen Anspruch auf Barzuschüsse."
+
+#: ../../districts/yangpu.rst:8
+msgid ""
+"`Evidence S016 "
+"<https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. "
+"关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
+msgstr "`Nachweis S016 <https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. 关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
+
+#: ../../districts/yangpu.rst:10
+msgid "Who receives the inquiry"
+msgstr "Zuständige Anlaufstelle für Anfragen"
+
+#: ../../districts/yangpu.rst:13
+msgid "Yangpu science and technology authority"
+msgstr "Behörde für Wissenschaft und Technologie von Yangpu"
+
+#: ../../districts/yangpu.rst:15
+msgid "`Official district website <https://www.shyp.gov.cn/>`_"
+msgstr "`Offizielle Website des Bezirks <https://www.shyp.gov.cn/>`_"
+
+#: ../../districts/yangpu.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "In diesem Datensatz ist keine direkte Telefondurchwahl oder E-Mail-Adresse hinterlegt. Bitte erfragen Sie das zuständige Fachteam über das offizielle Webportal."
+
+#: ../../districts/yangpu.rst:19
+msgid "Before applying"
+msgstr "Vor der Antragstellung"
+
+#: ../../districts/yangpu.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../districts/yangpu.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../districts/yangpu.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../districts/yangpu.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../districts/yangpu.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../districts/yangpu.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Bringen Sie in Erfahrung, welche Richtlinienfassung maßgeblich ist, ob Firmensitz und tatsächlicher Betrieb beide im Bezirk liegen müssen, welcher Ausgabenzeitraum anerkannt wird und ob bereits erhaltene städtische oder bezirkliche Fördermittel eine Bewilligung ausschließen. Klären Sie dies verbindlich, bevor Sie den Firmensitz verlegen oder Kosten auslösen."
+
+#: ../../districts/yangpu.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Lokale Institutionen in diesem Atlas"
+
+#: ../../districts/yangpu.rst:37
+msgid ""
+":doc:`InnoSpace </entities/innospace>` (创智空间InnoSpace · Accelerator · "
+"Software AI, Industry) — An innovation service organization focused on "
+"corporate open innovation and startup incubation and acceleration. Bring "
+"a concrete industrial use case; program participation does not imply a "
+"corporate purchase order. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`InnoSpace Shanghai </entities/innospace>` (创智空间InnoSpace · Accelerator · Software-KI, Industrie) — Ein erfahrener Technologie-Inkubator am KIC in Yangpu, der Raum-, Netzwerk- und Förderprogramme anbietet. Klären Sie, welche Mentoring- und Beschleunigungsprogramme derzeit aktiv neue Kohorten aufnehmen. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/yangpu.rst:38
+msgid ""
+":doc:`Changyang Campus </entities/changyang>` (长阳创谷 · Technology park · "
+"Software AI, Hardware AI) — The Yangpu brain-inspired intelligence plan "
+"identifies Changyang Campus as a southern core, paired with Bay Valley in "
+"the north. Suitable for neuromorphic computing and commercial AI "
+"collaborations. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Changyang Campus (Changyang Chuanggu) </entities/changyang>` (长阳创谷 · Technologiepark · Software-KI, Hardware-KI) — Ein weitläufiger Innovationscampus in Yangpu, entstanden auf einem ehemaligen Textilfabrikgelände. Er beherbergt führende Technologie- und Plattformunternehmen; Büroflächenvergabe und kommunale Fördermittel werden getrennt verhandelt. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/yangpu.rst:39
+msgid ""
+":doc:`Fuxing Island maker / OPC communities </entities/fuxing>` "
+"(复兴岛创客与OPC社区 · Incubator · Software AI) — A May 2026 district policy "
+"supports AI-enabled independent founders and maker communities. Ask for "
+"an approved community operator, the qualifying activity definition, "
+"housing conditions and any service or equity agreement. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Maker- und OPC-Gemeinschaften der Insel Fuxing </entities/fuxing>` (复兴岛创客与OPC社区 · Inkubator · Software-KI) — Eine zukunftsorientierte Modellzone in Yangpu für Maker, Open-Source-Hardware und One-Person-Companies (OPC). Pilotprojekte und Raumnutzungen unterliegen den jeweils aktuellen Entwicklungsplänen des Bezirks. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/yangpu.rst:40
+msgid ""
+":doc:`STEFG Angel Fund </entities/stefg>` (上海市大学生科技创业基金会天使基金 · Investor · "
+"Software AI, Hardware AI, Industry) — The foundation offers distinct "
+"interest-free loan and temporary equity support routes for eligible "
+"Chinese university entrepreneurs. Nationality, age, ownership, full-time "
+"work and company age conditions apply. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`STEFG Angel-Fonds (Shanghai EFGF) </entities/stefg>` (上海市大学生科技创业基金会天使基金 · Investor · Software-KI, Hardware-KI, Industrie) — Der Angel-Fonds der Shanghaier Stiftung für studentische Technologiegründungen. Er bietet zinslose Darlehen („Jungadler“) und Eigenkapitalbeteiligungen („Adler“) für berechtigte Hochschulabsolventen und Studierende in Shanghai. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/yangpu.rst:41
+msgid ""
+":doc:`China (Shanghai) Public Practicing Base for Entrepreneurs "
+"</entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Incubator · Software "
+"AI, Hardware AI, Industry) — A municipal HRSS-backed public "
+"entrepreneurship training, prototyping and incubation base in Yangpu "
+"linking founder skills training, product trial spaces and startup service "
+"agencies. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Öffentliche Praxistrainingsbasis für Gründer China (Shanghai) </entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Inkubator · Software-KI, Hardware-KI, Industrie) — Eine städtische öffentliche Ausbildungseinrichtung in Yangpu mit Versuchswerkstätten, Prototypenbau, Laborgeräten und Gründungsbegleitung für angehende Unternehmer und studentische Teams. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/yangpu.rst:42
+msgid ""
+":doc:`Fudan University </entities/university-fudan>` (复旦大学 · University) "
+"— Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Software AI, chips, AI for Science. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Fudan-Universität (Fudan University) </entities/university-fudan>` (复旦大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Software-KI, Halbleiter / Chips, KI für die Wissenschaft (AI for Science). Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/yangpu.rst:43
+msgid ""
+":doc:`Tongji University </entities/university-tongji>` (同济大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Autonomous systems, mobility, "
+"robotics, built environment. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Tongji-Universität (Tongji University) </entities/university-tongji>` (同济大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Autonome Systeme, Mobilität, Robotik, gebaute Umwelt. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/yangpu.rst:44
+msgid ""
+":doc:`University of Shanghai for Science and Technology "
+"</entities/university-usst>` (上海理工大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Optics, medical devices, sensors, advanced equipment. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Universität Shanghai für Wissenschaft und Technik (USST) </entities/university-usst>` (上海理工大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Optik, Medizintechnik, Sensoren, fortschrittliche Ausrüstung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/yangpu.rst:45
+msgid ""
+":doc:`Shanghai University of Finance and Economics "
+"</entities/university-sufe>` (上海财经大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Fintech, analytics, business models. These themes are editorial "
+"routing guidance, not a verified offer of laboratory access or startup "
+"funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Finanz- und Wirtschaftsuniversität Shanghai (SUFE) </entities/university-sufe>` (上海财经大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Finanztechnologie (Fintech), quantitative Finanzen, Unternehmensdaten, Wirtschaftsmodellierung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/yangpu.rst:46
+msgid ""
+":doc:`Shanghai University of Sport </entities/university-sport>` (上海体育大学 "
+"· University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Sports science, "
+"motion analysis, wearables. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Sportuniversität Shanghai (Shanghai University of Sport) </entities/university-sport>` (上海体育大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Sporttechnologie, Biomechanik, Rehabilitation, Sensorik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/yangpu.rst:48
+msgid "Funding routes"
+msgstr "Finanzierungs- und Förderwege"
+
+#: ../../districts/yangpu.rst:51
+msgid ""
+":doc:`Yangpu financing and credit service platform "
+"</funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Loan · No equity; "
+"repayable) — Product-specific technology credit and IP finance; no "
+"universal ceiling. Status: Published directory; lender review. Timing: "
+"Product-specific; confirm current lender terms."
+msgstr ":doc:`Dienstleistungsplattform für Finanzierungs- und Kreditprodukte Yangpu </funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Darlehen · Ohne Anteilsabgabe; rückzahlungspflichtig) — Maßgeschneiderte Darlehensprodukte, Technologiedarlehen und IP-besicherte Kredite mit bezirklichen Zinszuschüssen. Status: Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich. Zeitrahmen: Fortlaufende Antragsmöglichkeit über die Online-Kreditplattform von Yangpu."
+
+#: ../../districts/yangpu.rst:52
+msgid ""
+":doc:`Yangpu Dream Start Angel Co-investment Fund "
+"</funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Equity investment · "
+"Negotiated equity) — District state-backed early-stage equity "
+"co-investment; individual cheque subject to investment committee review. "
+"Status: Published investment platform; deal review. Timing: Manager-led "
+"sourcing and due diligence."
+msgstr ":doc:`Angel-Koinvestitionsfonds „Dream Start“ Yangpu </funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Eigenkapitalinvestition · Verhandlungsbasierte Beteiligung) — Bezirkliche staatliche Co-Investitionen für die Frühphase; Einzelbeteiligungen nach Begutachtung durch den Investitionsausschuss. Status: Investitionsplattform veröffentlicht; Projektprüfung erforderlich. Zeitrahmen: Fortlaufendes Deal-Sourcing und Due-Diligence durch den Fondsmanager."
+
+#: ../../districts/yangpu.rst:54
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Auch stadtweite Förderprogramme vergleichen </funding>`"

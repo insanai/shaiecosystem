@@ -1,0 +1,96 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding-guide.rst:1
+msgid "Capital, with its conditions attached"
+msgstr "Kapital und seine Bedingungen"
+
+#: ../../funding-guide.rst:4
+msgid ""
+"We compare what a program pays for, when value arrives, what must be "
+"repaid and whether ownership changes. The label \"equity-free\" alone "
+"answers too little."
+msgstr "Wir stellen gegenüber, welche Kosten ein Förderprogramm übernimmt, wann Mittel tatsächlich zufließen, was zurückgezahlt werden muss und ob sich die Eigentumsverhältnisse verändern. Das Schlagwort „ohne Anteilsabgabe“ (equity-free) greift allein viel zu kurz."
+
+#: ../../funding-guide.rst:7
+msgid "Match the resource need to the financing mechanism."
+msgstr "Stimmen Sie Ihren Ressourcenbedarf exakt auf das passende Finanzierungsinstrument ab."
+
+#: ../../funding-guide.rst:10
+msgid "Six mechanisms"
+msgstr "Sechs Finanzierungsmechanismen"
+
+#: ../../funding-guide.rst:13
+msgid ""
+"A grant is conditional public or philanthropic support. A reimbursement "
+"pays against approved expenditure, often after spending. A voucher or "
+"credit can offset only eligible services. A loan must be repaid. A tax "
+"benefit changes a tax calculation. Equity investment exchanges capital "
+"for ownership or related contractual rights."
+msgstr "Ein Zuschuss ist eine zweckgebundene öffentliche oder philanthropische Zuwendung. Eine Kostenerstattung gleicht genehmigte Ausgaben aus – meist erst nach deren Anfall. Ein Gutschein oder Guthaben kann nur mit förderfähigen Dienstleistungen verrechnet werden. Ein Darlehen muss getilgt werden. Eine Steuervergünstigung modifiziert die steuerliche Bemessungsgrundlage. Eigenkapitalinvestitionen tauschen Kapital gegen Anteile oder damit verbundene gesellschaftsrechtliche Kontrollrechte."
+
+#: ../../funding-guide.rst:15
+msgid ""
+"A competition may combine prizes, services and investment introductions, "
+"each with separate conditions. A subsidized desk is an in-kind benefit, "
+"not unrestricted cash. A government-backed fund is still an investment "
+"vehicle when it takes equity. An interest-free loan remains debt."
+msgstr "Wettbewerbe verknüpfen oft Preisgelder, Sachleistungen und Investorenkontakte – jeweils mit separaten Bedingungen. Ein subventionierter Schreibtisch ist eine Sachleistung, keine frei verfügbare Liquidität. Ein staatlicher Fonds agiert als klassischer Investor, wenn er Unternehmensanteile übernimmt. Auch ein zinsloses Darlehen bleibt eine Verbindlichkeit."
+
+#: ../../funding-guide.rst:17
+msgid "Build a layered funding plan"
+msgstr "Einen mehrstufigen Finanzierungsplan aufbauen"
+
+#: ../../funding-guide.rst:20
+msgid ""
+"Before registration, check whether team-level vouchers, university "
+"proof-of-concept support or competition routes accept the actual "
+"applicant. After incorporation, compare the company's district and "
+"activity with public calls. For a prototype, prioritize real lab, compute "
+"or customer needs. For expansion, match the amount and timing to investor "
+"or bank criteria."
+msgstr "Prüfen Sie vor der Firmengründung, ob Gutscheine auf Teamebene, universitäre Proof-of-Concept-Förderungen oder Wettbewerbe für die Gründerperson zugänglich sind. Gleichen Sie nach der Registereintragung den Sitzbezirk und den Unternehmensgegenstand mit öffentlichen Ausschreibungen ab. Konzentrieren Sie sich beim Bau eines Prototyps auf echten Laborbedarf, Rechenkapazitäten oder Kundenfeedback. Richten Sie für die Skalierungsphase Fördersummen und Zeitpläne an den Maßstäben von Wagniskapitalgebern oder Banken aus."
+
+#: ../../funding-guide.rst:22
+msgid ""
+"We never add overlapping headline awards into a promised total. Programs "
+"can exclude duplicated spending, restrict related suppliers, require "
+"local operations, demand matching funds or pay only after acceptance. A "
+"company needs working capital for costs that arrive before reimbursement."
+msgstr "Wir addieren niemals sich überschneidende Förderhöchstbeträge zu einer vermeintlichen Gesamtförderung. Richtlinien schließen Doppelförderungen häufig aus, verbieten Geschäfte mit verbundenen Dienstleistern, fordern lokale Betriebsstätten, verlangen Eigenanteile (Matching Funds) oder zahlen erst nach formeller Endabnahme aus. Ein Startup benötigt ausreichendes Umlaufvermögen für Ausgaben, die weit vor der Erstattung anfallen."
+
+#: ../../funding-guide.rst:24
+msgid "Compare the real cost"
+msgstr "Die tatsächlichen Kosten vergleichen"
+
+#: ../../funding-guide.rst:27
+msgid ""
+"For public support, compare eligible expense period, matching ratio, "
+"audit cost, tax treatment, reporting and clawback. For equity, compare "
+"valuation, ownership, liquidation preference, board rights, follow-on "
+"rights and exit terms. For debt, compare principal, interest, fees, "
+"guarantee or collateral, repayment schedule and default obligations."
+msgstr "Vergleichen Sie bei öffentlichen Fördermitteln den förderfähigen Kostenzeitraum, die Kofinanzierungsquote, Prüfungskosten, steuerliche Behandlung, Berichtspflichten und Rückforderungsklauseln. Wägen Sie bei Eigenkapital Bewertung, Verwässerung, Liquidationspräferenzen, Beiratsrechte, Informationsrechte und Exit-Bestimmungen ab. Analysieren Sie bei Fremdkapital Kreditsumme, Effektivzins, Gebühren, Bürgschaften oder Sicherheiten, Tilgungspläne und Verzugsfolgen."
+
+#: ../../funding-guide.rst:29
+msgid ""
+"For cloud benefits, check account region, supported services, expiry, "
+"existing credits and overage billing. China-region and global offers may "
+"use different operators and accounts. Free membership in a technology "
+"ecosystem does not guarantee hardware supply, credits or investment."
+msgstr "Prüfen Sie bei Cloud-Credits Kontoregion, nutzbare Dienste, Verfallsdaten, bestehende Guthaben und Abrechnungsregeln bei Überschreitung. Angebote für Festlandchina und globale Programme werden oft über getrennte Betreibergesellschaften und Konten abgewickelt. Eine kostenlose Aufnahme in ein Partnernetzwerk garantiert weder Hardwarelieferungen noch Rechenguthaben oder Beteiligungskapital."

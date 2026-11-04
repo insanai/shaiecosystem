@@ -1,0 +1,112 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/stefg-equity.rst:1
+msgid "STEFG Eagle Plan"
+msgstr "STEFG ईगल प्लान (Eagle Plan)"
+
+#: ../../funding/stefg-equity.rst:4
+msgid "Equity investment | Citywide / global"
+msgstr "इक्विटी निवेश | शहर-व्यापी / वैश्विक"
+
+#: ../../funding/stefg-equity.rst:6
+msgid "Program published; eligibility review"
+msgstr "कार्यक्रम प्रकाशित; पात्रता समीक्षा"
+
+#: ../../funding/stefg-equity.rst:8
+msgid "`Evidence S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
+msgstr "`साक्ष्य S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
+
+#: ../../funding/stefg-equity.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/stefg-equity.rst:13
+msgid ""
+"Up to RMB 800,000 for 3 years; no dividend participation; exit at "
+"original price"
+msgstr "3 वर्षों के लिए RMB 800,000 तक; कोई लाभांश भागीदारी नहीं; मूल मूल्य पर एग्जिट"
+
+#: ../../funding/stefg-equity.rst:15
+msgid "Temporary equity; original-price exit"
+msgstr "अस्थायी इक्विटी; मूल-मूल्य पर एग्जिट"
+
+#: ../../funding/stefg-equity.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/stefg-equity.rst:20
+msgid ""
+"Eligible technology entrepreneurs meeting the foundation rules; founder "
+"cash funding must exceed the foundation contribution. Review nominee "
+"ownership, exit obligation and documents."
+msgstr "फाउंडेशन के नियमों को पूरा करने वाले पात्र प्रौद्योगिकी उद्यमी; संस्थापक की नकद फंडिंग फाउंडेशन के योगदान से अधिक होनी चाहिए। नॉमिनी स्वामित्व, एग्जिट दायित्व और दस्तावेजों की समीक्षा करें।"
+
+#: ../../funding/stefg-equity.rst:22
+msgid "Confirm branch intake and review schedule"
+msgstr "शाखा प्रवेश और समीक्षा कार्यक्रम की पुष्टि करें"
+
+#: ../../funding/stefg-equity.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/stefg-equity.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://fund.stefg.org/Angel/Intro.aspx>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://fund.stefg.org/Angel/Intro.aspx>`_"
+
+#: ../../funding/stefg-equity.rst:29
+msgid "Published consultation: +86 21 55231818."
+msgstr "प्रकाशित परामर्श फ़ोन: +86 21 55231818।"
+
+#: ../../funding/stefg-equity.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/stefg-equity.rst:33
+msgid ""
+"Read the foundation's current eligibility rules and choose loan or "
+"temporary equity."
+msgstr "फाउंडेशन के वर्तमान पात्रता नियम पढ़ें और ऋण या अस्थायी इक्विटी चुनें।"
+
+#: ../../funding/stefg-equity.rst:35
+msgid ""
+"Identify a receiving branch and submit the prescribed founder and project "
+"documents."
+msgstr "प्राप्तकर्ता शाखा की पहचान करें और निर्धारित संस्थापक तथा परियोजना दस्तावेज जमा करें।"
+
+#: ../../funding/stefg-equity.rst:37
+msgid ""
+"Complete review and examine repayment, founder funding and exit "
+"obligations."
+msgstr "समीक्षा पूरी करें और पुनर्भुगतान, संस्थापक फंडिंग तथा एग्जिट दायित्वों की जाँच करें।"
+
+#: ../../funding/stefg-equity.rst:39
+msgid ""
+"Sign the correct agreement and track the full three-year obligations."
+msgstr "सही समझौते पर हस्ताक्षर करें और पूरे तीन-वर्षीय दायित्वों को ट्रैक करें।"
+
+#: ../../funding/stefg-equity.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

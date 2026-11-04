@@ -1,0 +1,113 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/yangpu-credit-directory.rst:1
+msgid "Yangpu financing and credit service platform"
+msgstr "楊浦区融資信用サービスプラットフォーム"
+
+#: ../../funding/yangpu-credit-directory.rst:4
+msgid "Loan | Yangpu"
+msgstr "融資・ローン | 楊浦区"
+
+#: ../../funding/yangpu-credit-directory.rst:6
+msgid "Published directory; lender review"
+msgstr "公表名簿掲載（融資機関による審査要）"
+
+#: ../../funding/yangpu-credit-directory.rst:8
+msgid "`Evidence S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+msgstr "`出典 S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+
+#: ../../funding/yangpu-credit-directory.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/yangpu-credit-directory.rst:13
+msgid ""
+"Product-specific technology credit and IP finance; no universal ceiling"
+msgstr "テクノロジー信用融資および知財ファイナンス商品ごとに規定（一律の上限額はなし）"
+
+#: ../../funding/yangpu-credit-directory.rst:15
+msgid "No equity; repayable"
+msgstr "株式希薄化なし（要返済）"
+
+#: ../../funding/yangpu-credit-directory.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/yangpu-credit-directory.rst:20
+msgid ""
+"Use the district platform to identify an actual lender and product. "
+"Technology performance-guarantee lending, IP-backed products and "
+"guarantees have different duties and underwriting conditions."
+msgstr "区プラットフォームを通じて金融機関と商品を特定。テクノロジー履行保証融資、知的財産担保商品、信用保証商品によって、課される義務や与信審査条件が異なる。"
+
+#: ../../funding/yangpu-credit-directory.rst:22
+msgid "Product-specific; confirm current lender terms"
+msgstr "商品ごとに異なる（各金融機関の現行条件を確認のこと）"
+
+#: ../../funding/yangpu-credit-directory.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/yangpu-credit-directory.rst:27
+msgid ""
+"`Official application / policy route <https://xyd.shyp.gov.cn/finance>`_"
+msgstr "`公式申請窓口／政策ポータル <https://xyd.shyp.gov.cn/finance>`_"
+
+#: ../../funding/yangpu-credit-directory.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/yangpu-credit-directory.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/yangpu-credit-directory.rst:33
+msgid ""
+"Select the current bank or public guarantee product and check borrower "
+"eligibility."
+msgstr "利用可能な銀行融資または公的保証商品を選定し、借入適格要件を確認する。"
+
+#: ../../funding/yangpu-credit-directory.rst:35
+msgid ""
+"Prepare accounts, cash-flow forecast, ownership and requested security "
+"documents."
+msgstr "決算書、資金繰り予想表、株主構成図、および要求される担保・保証書類を準備する。"
+
+#: ../../funding/yangpu-credit-directory.rst:37
+msgid ""
+"Complete lender and guarantee assessment; compare all costs and repayment "
+"terms."
+msgstr "金融機関および保証機関による審査を受け、総調達コストと返済条件を総合的に比較する。"
+
+#: ../../funding/yangpu-credit-directory.rst:39
+msgid ""
+"Sign and track debt service; claim interest support only if independently "
+"eligible."
+msgstr "融資契約を締結して元利返済を管理する。利子補給（金利優遇補助）は別途資格を満たす場合のみ申請する。"
+
+#: ../../funding/yangpu-credit-directory.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

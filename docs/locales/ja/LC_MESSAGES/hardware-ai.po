@@ -1,0 +1,116 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../hardware-ai.rst:1
+msgid "Intelligence in the physical world"
+msgstr "物理世界における知能"
+
+#: ../../hardware-ai.rst:4
+msgid ""
+"Hardware joins algorithms to materials, manufacturing tolerances, "
+"reliability and service. A beautiful prototype is the beginning of a "
+"supply chain. We follow chips, sensors, robots and autonomous systems "
+"through the facilities they need."
+msgstr "ハードウェアは、アルゴリズムを物質、製造公差、信頼性、そして保守サービスと結びつける。完成度の高いプロトタイプであっても、それはサプライチェーンの入り口に過ぎない。半導体チップ、センサー、ロボット、自律システムを、それらが必要とする設備・ファシリティの観点から追跡する。"
+
+#: ../../hardware-ai.rst:7
+msgid "Engineering gates from research to repeatable production."
+msgstr "研究段階から再現可能な量産・生産へと至るエンジニアリングゲート。"
+
+#: ../../hardware-ai.rst:10
+msgid "Chips and sensing"
+msgstr "半導体チップとセンシング"
+
+#: ../../hardware-ai.rst:13
+msgid ""
+"For an AI chip project, prepare the architecture, workload, process "
+"choice, toolchain, IP dependencies and software support plan. Separate "
+"EDA access, licensed IP, multi-project wafer participation, full mask "
+"sets, packaging, testing and characterization. A shared lab or incubator "
+"does not automatically pay for a tape-out."
+msgstr "AI半導体プロジェクトでは、回路アーキテクチャ、処理ワークロード、プロセス微細度の選定、ツールチェーン、IP依存関係、およびソフトウェアサポート計画を策定しておく必要がある。EDAツールの利用環境、ライセンス供与IP、マルチプロジェクトウェーハ（MPW）の相乗り試作、フルマスクセット、パッケージング、テスト、および電気的特性評価は個別に区分して検討する。共有研究室やインキュベーターに入居したからといって、テープアウト（試作・製造受託）費用が自動的に支払われるわけではない。"
+
+#: ../../hardware-ai.rst:15
+msgid ""
+"Zhangjiang IC Design Industrial Park and the IC promotion center are "
+"initial service routes. In Jiading, the documented SITRI and InnoSpring "
+"relationship is relevant to beyond-Moore devices, sensors and pilot "
+"production. We ask for equipment, process capability, queue time, sample "
+"ownership and a written quotation."
+msgstr "張江集積回路設計産業園および集積回路促進センターが初期の相談窓口となる。嘉定区では、上海微技術工業研究院（SITRI）と新微創源（InnoSpring）の連携が、モア・ザン・ムーア（More-than-Moore）デバイス、センサー、およびパイロット量産において極めて有用である。保有設備、プロセス対応能力、製造待ち期間、サンプルの所有権、および書面による見積もりを事前に確認する。"
+
+#: ../../hardware-ai.rst:17
+msgid ""
+"Shanghai Integrated Circuit R&D Center (ICRD) in Zhangjiang supports "
+"shared process development and device verification, while Xihe Optic "
+"Valley in Jiading incubates scientist-founded optoelectronics, laser and "
+"photonic sensing teams. In Fengxian, the Oriental Beauty Valley Life "
+"Messenger Gene Drug Base opened in April 2025 to link AI-assisted "
+"molecular design with shared wet labs and pilot manufacturing."
+msgstr "張江の上海集積回路研究開発センター（ICRD）は共用プロセス開発とデバイス検証を支援し、嘉定区の羲和光谷（Xihe Optic Valley）は科学者・研究者創業チームによる光エレクトロニクス、レーザー、フォトニックセンシングのインキュベーションを担っている。奉賢区では、2025年4月に開園した「東方美谷・生命信使（Life Messenger）」遺伝子医薬基地が、AIを活用した分子設計と共有ウェットラボおよびパイロット生産施設とを直結させている。"
+
+#: ../../hardware-ai.rst:19
+msgid "Robots and embodied AI"
+msgstr "ロボットと身体性AI（具身知能）"
+
+#: ../../hardware-ai.rst:22
+msgid ""
+"Separate the robot foundation model, perception, planning, control and "
+"safety architecture from motors, transmissions, tactile sensing, "
+"batteries and the mechanical platform. Test the complete system against a "
+"named use case. Demonstrations should state payload, cycle time, failure "
+"conditions, human intervention and maintenance cost."
+msgstr "ロボット用基盤モデル、知覚、行動計画、制御、および安全アーキテクチャを、モーター、減速機・伝達機構、触覚センシング、バッテリー、および機械プラットフォームから切り離して個別に分析する。その上で、具体的なユースケースに沿ってシステム全体の実機検証を行う。実証デモでは、可搬重量（ペイロード）、サイクルタイム、フェイルセーフ・エラー発生条件、人的介入の頻度、およびメンテナンスコストを明示する必要がある。"
+
+#: ../../hardware-ai.rst:24
+msgid ""
+"Compare Minhang's research-to-manufacturing connection, Baoshan's robot "
+"industry, Wuning's testing services and Zhangjiang's robotics ecosystem. "
+"Corporate programs can provide a deployment conversation. They do not "
+"replace production qualification, applicable certification or a customer "
+"acceptance plan."
+msgstr "閔行区の研究から製造への連携力、宝山区のロボット産業集積、武寧の試験検査サービス、張江のロボティクスエコシステムをそれぞれ比較検討する。大企業のオープンイノベーションプログラムは実証の対話を開く契機となるが、製造適格性審査、各種法定認証、または顧客の検収基準に代わるものではない。"
+
+#: ../../hardware-ai.rst:26
+msgid "Other physical frontiers"
+msgstr "その他の物理フロンティア"
+
+#: ../../hardware-ai.rst:29
+msgid ""
+"For drones, begin with a real operating scenario and ask Jinshan's UAV "
+"route about test services and applicable operating permissions. For "
+"brain-computer interfaces and medical devices, separate exploratory "
+"research from regulated product development. For AI-enabled biology, "
+"confirm biosafety, instrument availability, sample handling and clinical "
+"access before renting a lab."
+msgstr "ドローンや低空飛行システムでは、実際の運用飛行シナリオから出発し、金山区の無人機（UAV）基地ルートを通じて飛行テストサービスや適用される空域・運航許認可を確認する。ブレイン・コンピュータ・インタフェース（BCI）や高度医療機器では、基礎的な探索研究と法規制の対象となる製品開発プロセスとを厳格に区別する。AI創薬やバイオテック領域では、ウェットラボを契約する前に、バイオセーフティ基準、共用機器の稼働状況、検体・サンプルの取扱い規則、および臨床提携ルートを確認しておく必要がある。"
+
+#: ../../hardware-ai.rst:31
+msgid ""
+"Our hardware application pack adds a bill of materials, costed "
+"engineering milestones, manufacturing partner plan, test fixtures, "
+"reliability plan and a working demonstration. We identify what the "
+"incubator can actually supply and what the team must buy elsewhere."
+msgstr "ハードウェアプロジェクトの申請書類には、部品表（BOM）、コスト試算付きのエンジニアリングマイルストーン、製造パートナーの選定計画、テスト用治具、信頼性試験計画、および実際に稼働する実機デモを盛り込む。インキュベーターが実際に提供できる支援範囲と、チーム自らが外部から調達すべき要素とを明確に切り分けることが肝要である。"
+
+#: ../../hardware-ai.rst:33
+msgid ""
+"`Evidence S006 "
+"<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "
+"市科委、嘉定区联合调研高质量孵化器建设工作."
+msgstr "`出典 S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."

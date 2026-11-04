@@ -1,0 +1,115 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:1
+msgid "Zhangjiang AI Town compute, model and corpus support"
+msgstr "張江AIイノベーションタウン計算資源券・モデル券・コーパス券"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "事後精算・費用補助 | 浦東新区"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:6
+msgid "Quarterly scheme published; current intake to confirm"
+msgstr "四半期スキーム公表済み（現行募集枠の確認要）"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:8
+msgid ""
+"`Evidence S103 "
+"<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
+"浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
+msgstr "`出典 S103 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. 浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:13
+msgid ""
+"Up to 100% of approved actual cost, capped at RMB 1m in each category; at "
+"most one year"
+msgstr "認定された実支出の最大100％を補助、各カテゴリ上限100万元、1社につき最長1年間の支援"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:20
+msgid ""
+"AI companies registered and operating inside the specified town boundary, "
+"established or moved there no earlier than 1 Jan 2025. Expenses must be "
+"for qualifying model R&D or deployment; review the current quarterly "
+"guide."
+msgstr "指定された小鎮境界内に登記・実活動拠点を持ち、2025年1月1日以降に設立または転入したAI企業。費用支出は適格なモデル開発・応用に供されたものであること。四半期ごとの申請指引を確認すること。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:22
+msgid "Quarterly claims; confirm the current batch"
+msgstr "四半期ごとの精算申請（最新バッチの受付期間を確認のこと）"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:27
+msgid "`Official application / policy route <https://pyd.pudong.gov.cn/>`_"
+msgstr "`公式申請窓口／政策ポータル <https://pyd.pudong.gov.cn/>`_"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:29
+msgid "Published consultation: +86 21 58811024 ext. 5091."
+msgstr "公開相談電話：+86 21 58811024 ext. 5091。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "バウチャーの対象区分、適用地域境界、指定サプライヤー、および対象経費の支出期間を確認する。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "サービス契約書、発票（公式領収証）、支払い証明、および項目別利用ログを保存する。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "指定プラットフォームの該当募集枠を利用し、所定の区または運営主体による審査を受ける。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "承認金額、他公的補助との重複受給排除規程、および還付・交付条件を確認する。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

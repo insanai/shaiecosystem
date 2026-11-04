@@ -1,0 +1,147 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/changning.rst:1
+msgid "Changning"
+msgstr "चांगनिंग (Changning)"
+
+#: ../../districts/changning.rst:4
+msgid "Digital business, AI applications and cross-border services"
+msgstr "डिजिटल व्यवसाय, AI अनुप्रयोग और सीमा-पार सेवाएं"
+
+#: ../../districts/changning.rst:6
+msgid ""
+"The August 2026 district account identifies Digital Silicon Alley, "
+"Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
+"MAKE021 as parts of its incubation landscape. Confirm the correct "
+"operator before submitting."
+msgstr "अगस्त 2026 के जिला विवरण में डिजिटल सिलिकॉन एली, होंगकियाओ झियू, ईस्ट होंगकियाओ इंटरनेशनल यूथ इनोवेशन सेंटर और MAKE021 को इसके इनक्यूबेशन परिदृश्य के हिस्सों के रूप में पहचाना गया है। जमा करने से पहले सही संचालक की पुष्टि करें।"
+
+#: ../../districts/changning.rst:8
+msgid ""
+"`Evidence S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. "
+"上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+msgstr "`साक्ष्य S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. 上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+
+#: ../../districts/changning.rst:10
+msgid "Who receives the inquiry"
+msgstr "पूछताछ कौन प्राप्त करता है"
+
+#: ../../districts/changning.rst:13
+msgid "Changning science and technology authority"
+msgstr "चांगनिंग विज्ञान और प्रौद्योगिकी प्राधिकरण"
+
+#: ../../districts/changning.rst:15
+msgid "`Official district website <https://www.shcn.gov.cn/>`_"
+msgstr "`आधिकारिक जिला वेबसाइट <https://www.shcn.gov.cn/>`_"
+
+#: ../../districts/changning.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "इस रिकॉर्ड में वर्तमान सीधा कार्यक्रम फोन या ईमेल स्थापित नहीं है। नामित प्राप्तकर्ता टीम का अनुरोध करने के लिए आधिकारिक वेबसाइट का उपयोग करें।"
+
+#: ../../districts/changning.rst:19
+msgid "Before applying"
+msgstr "आवेदन करने से पहले"
+
+#: ../../districts/changning.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../districts/changning.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../districts/changning.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../districts/changning.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../districts/changning.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../districts/changning.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "पूछें कि कौन सी वर्तमान सूचना परियोजना को नियंत्रित करती है, क्या पंजीकरण और वास्तविक संचालन दोनों जिले में होने चाहिए, कौन सी व्यय अवधि पात्र है, और क्या पिछले नगर निगम या जिला पुरस्कार किसी दावे को बाहर करते हैं। कंपनी को स्थानांतरित करने या लागत उठाने से पहले उत्तर प्राप्त करें।"
+
+#: ../../districts/changning.rst:34
+msgid "Local organizations in this atlas"
+msgstr "इस एटलस में स्थानीय संगठन"
+
+#: ../../districts/changning.rst:37
+msgid ""
+":doc:`Digital Silicon Alley / Hongqiao innovation carriers "
+"</entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Incubator · Software AI) — "
+"Changning identifies a layered group of digital incubation and OPC "
+"communities. We treat this record as a district routing entry, not a "
+"single interchangeable operator or a guaranteed free-workspace offer. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`डिजिटल सिलिकॉन एली / होंगकियाओ इनोवेशन कैरियर्स (Digital Silicon Alley) </entities/digital-silicon>` (数字硅巷／虹桥创新载体 · इनक्यूबेटर · सॉफ्टवेयर AI) — चांगनिंग डिजिटल इनक्यूबेशन और OPC समुदायों के एक स्तरित समूह की पहचान करता है। हम इस रिकॉर्ड को एक जिला मार्गदर्शन प्रविष्टि के रूप में मानते हैं, न कि किसी एकल विनिमेय संचालक या गारंटीकृत निःशुल्क-कार्यस्थल ऑफ़र के रूप में। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/changning.rst:38
+msgid ""
+":doc:`East Hongqiao International Youth Innovation Center "
+"</entities/east-hongqiao>` (东虹桥国际青年科创中心 · Incubator · Software AI) — "
+"Changning's official May 2026 account describes a hub for AI-enabled "
+"independent founders, combining incubation, AI services, talent support "
+"and global business resources. Confirm the current operator's selection "
+"and service terms. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`ईस्ट होंगकियाओ इंटरनेशनल यूथ इनोवेशन सेंटर (East Hongqiao Youth Innovation Center) </entities/east-hongqiao>` (东虹桥国际青年科创中心 · इनक्यूबेटर · सॉफ्टवेयर AI) — चांगनिंग का मई 2026 का आधिकारिक विवरण AI-सक्षम स्वतंत्र संस्थापकों के लिए एक हब का वर्णन करता है, जो इनक्यूबेशन, AI सेवाओं, प्रतिभा सहायता और वैश्विक व्यावसायिक संसाधनों को जोड़ता है। वर्तमान संचालक के चयन और सेवा शर्तों की पुष्टि करें। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/changning.rst:40
+msgid "Funding routes"
+msgstr "फंडिंग मार्ग"
+
+#: ../../districts/changning.rst:43
+msgid ""
+":doc:`Changning AI Industry Projects, 2026 </funding/changning-ai-2026>` "
+"(2026长宁人工智能产业项目 · Grant · No equity) — Project-specific support after "
+"assessment; no common ceiling established. Status: Closed. Timing: Closed "
+"30 June 2026."
+msgstr ":doc:`चांगनिंग AI उद्योग परियोजनाएं, 2026 </funding/changning-ai-2026>` (2026长宁人工智能产业项目 · अनुदान (Grant) · कोई इक्विटी नहीं) — मूल्यांकन के बाद परियोजना-विशिष्ट सहायता; कोई सामान्य सीमा स्थापित नहीं। स्थिति: बंद हो चुका है। समय-सीमा: 30 जून 2026 को बंद।"
+
+#: ../../districts/changning.rst:44
+msgid ""
+":doc:`Changning Technology Star Teams, 2026 "
+"</funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · No equity) — "
+"Funding for assessed and recognized teams under the district talent fund "
+"plan. Status: Closed. Timing: Closed 26 June 2026."
+msgstr ":doc:`चांगनिंग टेक्नोलॉजी स्टार टीमें, 2026 </funding/changning-tech-star>` (2026长宁科技之星团队 · अनुदान (Grant) · कोई इक्विटी नहीं) — जिला प्रतिभा फंड योजना के तहत मूल्यांकित और मान्यता प्राप्त टीमों के लिए फंडिंग। स्थिति: बंद हो चुका है। समय-सीमा: 26 जून 2026 को बंद।"
+
+#: ../../districts/changning.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`शहरव्यापी फंडिंग की भी तुलना करें </funding>`"

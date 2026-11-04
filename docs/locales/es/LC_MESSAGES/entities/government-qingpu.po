@@ -1,0 +1,116 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/government-qingpu.rst:1
+msgid "Qingpu science and technology authority"
+msgstr "Comisión de Ciencia y Tecnología de Qingpu"
+
+#: ../../entities/government-qingpu.rst:4
+msgid "青浦区科学技术委员会"
+msgstr "青浦区科学技术委员会"
+
+#: ../../entities/government-qingpu.rst:6
+msgid "Government | Qingpu | Research checked 2026-11-04"
+msgstr "Organismo gubernamental | Distrito de Qingpu | Investigación verificada el 2026-11-04"
+
+#: ../../entities/government-qingpu.rst:8
+msgid ""
+"Xicen links the Lianqiu Lake research center with an emerging innovation "
+"district. The official 2025 reply discusses early investment and "
+"technology transfer, but proposed funds are not treated here as open "
+"startup applications."
+msgstr "Xicen enlaza el centro de investigación del lago Lianqiu con un distrito de innovación emergente. La respuesta oficial de 2025 aborda la inversión temprana y la transferencia tecnológica, pero los fondos en fase de propuesta no se tratan aquí como convocatorias abiertas para startups."
+
+#: ../../entities/government-qingpu.rst:10
+msgid ""
+"`Evidence S022 "
+"<https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. "
+"对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+msgstr "`Evidencia S022 <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. 对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+
+#: ../../entities/government-qingpu.rst:12
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/government-qingpu.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/government-qingpu.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/government-qingpu.rst:19
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/government-qingpu.rst:22
+msgid "`Official website / intake route <https://www.shqp.gov.cn/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.shqp.gov.cn/>`_"
+
+#: ../../entities/government-qingpu.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/government-qingpu.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/government-qingpu.rst:28
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/government-qingpu.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/government-qingpu.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../entities/government-qingpu.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../entities/government-qingpu.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../entities/government-qingpu.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../entities/government-qingpu.rst:41
+msgid ":doc:`Qingpu district route </districts/qingpu>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Qingpu </districts/qingpu>`"

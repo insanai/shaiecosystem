@@ -1,0 +1,112 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/aws-activate.rst:1
+msgid "AWS China Activate"
+msgstr "AWS China Activate (Programa de créditos en la nube)"
+
+#: ../../entities/aws-activate.rst:4
+msgid "亚马逊云科技中国区Activate"
+msgstr "亚马逊云科技中国区Activate"
+
+#: ../../entities/aws-activate.rst:6
+msgid "Global program | Citywide / global | Research checked 2026-11-04"
+msgstr "Programa global | Toda la ciudad / global | Investigación verificada el 2026-11-04"
+
+#: ../../entities/aws-activate.rst:8
+msgid "AI and industry focus: Software AI."
+msgstr "Enfoque de IA e industria: IA de software."
+
+#: ../../entities/aws-activate.rst:10
+msgid ""
+"A China-region startup offer with company, customer and participating "
+"investor or incubation relationship conditions. Credits offset eligible "
+"services; they are not cash and should not be confused with the separate "
+"global AWS offer."
+msgstr "Oferta para startups en la región de China sujeta a condiciones relativas a la empresa, al estado como nuevo cliente y a la vinculación con inversores o incubadoras participantes. Los créditos compensan servicios elegibles; no son dinero en efectivo y no deben confundirse con la oferta global independiente de AWS."
+
+#: ../../entities/aws-activate.rst:12
+msgid ""
+"`Evidence S042 <https://www.amazonaws.cn/en/activate/>`_. Amazon Web "
+"Services Activate-Amazon Web Services China Region."
+msgstr "`Evidencia S042 <https://www.amazonaws.cn/en/activate/>`_. Amazon Web Services Activate-Amazon Web Services China Region."
+
+#: ../../entities/aws-activate.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/aws-activate.rst:17
+msgid "Regional eligibility to confirm"
+msgstr "Elegibilidad regional pendiente de confirmar"
+
+#: ../../entities/aws-activate.rst:19
+msgid "Funding mechanism: Cloud credits."
+msgstr "Mecanismo de financiación: Créditos en la nube."
+
+#: ../../entities/aws-activate.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/aws-activate.rst:24
+msgid ""
+"`Official website / intake route <https://www.amazonaws.cn/en/activate/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.amazonaws.cn/en/activate/>`_"
+
+#: ../../entities/aws-activate.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/aws-activate.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/aws-activate.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/aws-activate.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/aws-activate.rst:35
+msgid ""
+"Check incorporation, company age, account region and existing benefits."
+msgstr "Verificar el estado de constitución societaria, la antigüedad de la empresa, la región de la cuenta y los beneficios disfrutados previamente."
+
+#: ../../entities/aws-activate.rst:37
+msgid "Apply through the official program form or qualifying partner route."
+msgstr "Presentar la solicitud mediante el formulario oficial del programa o a través de un socio colaborador homologado."
+
+#: ../../entities/aws-activate.rst:39
+msgid ""
+"Confirm covered services, expiry, fees, usage limits and overage billing."
+msgstr "Confirmar los servicios cubiertos, la fecha de caducidad, las tarifas aplicables, los límites de uso y la facturación por consumo excedente."
+
+#: ../../entities/aws-activate.rst:41
+msgid "Keep usage records and do not describe credits as unrestricted cash."
+msgstr "Conservar los registros de consumo y no contabilizar los créditos en la nube como efectivo de libre disposición."
+
+#: ../../entities/aws-activate.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`Ruta del distrito de Toda la ciudad / global </funding>`"

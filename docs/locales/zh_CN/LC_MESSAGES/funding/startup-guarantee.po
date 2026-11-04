@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -30,11 +30,11 @@ msgstr "服务已公布，现行条款待确认"
 
 #: ../../funding/startup-guarantee.rst:8
 msgid ""
-"`Evidence S073 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. "
 "Shanghai's guaranteed start-up loans top 1.3 billion yuan this "
 "year_Editor's Pick."
-msgstr "`证据 S073 <https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. Shanghai's guaranteed start-up loans top 1.3 billion yuan this year_Editor's Pick."
+msgstr "`证据 S098 <https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. Shanghai's guaranteed start-up loans top 1.3 billion yuan this year_Editor's Pick."
 
 #: ../../funding/startup-guarantee.rst:10
 msgid "Amount and mechanism"

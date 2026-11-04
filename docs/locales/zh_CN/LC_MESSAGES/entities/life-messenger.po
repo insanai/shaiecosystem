@@ -1,0 +1,118 @@
+# zh_CN translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/life-messenger.rst:1
+msgid "Oriental Beauty Valley Life Messenger Gene Drug Base"
+msgstr "东方美谷·生命信使基因药物创新产业基地"
+
+#: ../../entities/life-messenger.rst:4
+msgid "东方美谷·生命信使基因药物创新产业基地"
+msgstr "东方美谷·生命信使基因药物创新产业基地"
+
+#: ../../entities/life-messenger.rst:6
+msgid "Incubator | Fengxian | Research checked 2026-11-04"
+msgstr "孵化器｜奉贤区｜研究核对日期 2026-11-04"
+
+#: ../../entities/life-messenger.rst:8
+msgid "AI and industry focus: Health, AI for Science."
+msgstr "人工智能与产业方向：健康、科学智能。"
+
+#: ../../entities/life-messenger.rst:10
+msgid ""
+"Opened in April 2025 in Fengxian to connect gene and nucleic-acid drug "
+"R&D, AI-assisted molecular design, shared laboratories and pilot "
+"manufacturing. Confirm biosafety level, cleanroom specs and admission "
+"terms."
+msgstr "2025年4月在奉贤开园的基因与核酸药物创新基地，衔接AI辅助分子设计、共享实验室与中试生产。入驻前应确认生物安全等级、洁净室规格及服务条款。"
+
+#: ../../entities/life-messenger.rst:12
+msgid ""
+"`Evidence S062 "
+"<https://www.fengxian.gov.cn/dfmg/20250410/731cb4b3ce5644c6b657aa636cf0d4e6.html>`_. "
+"“东方美谷·生命信使”基因药物创新产业基地今天正式开园_东方美谷."
+msgstr "`证据 S062 <https://www.fengxian.gov.cn/dfmg/20250410/731cb4b3ce5644c6b657aa636cf0d4e6.html>`_. “东方美谷·生命信使”基因药物创新产业基地今天正式开园_东方美谷."
+
+#: ../../entities/life-messenger.rst:14
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/life-messenger.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/life-messenger.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/life-messenger.rst:21
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/life-messenger.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.fengxian.gov.cn/dfmg/20250410/731cb4b3ce5644c6b657aa636cf0d4e6.html>`_"
+msgstr "`官方来源与主管部门入口 <https://www.fengxian.gov.cn/dfmg/20250410/731cb4b3ce5644c6b657aa636cf0d4e6.html>`_"
+
+#: ../../entities/life-messenger.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/life-messenger.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/life-messenger.rst:30
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/life-messenger.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/life-messenger.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "说明样机、所需设备、工艺与测试需求。"
+
+#: ../../entities/life-messenger.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "申请技术审核、设施参观及逐项报价。"
+
+#: ../../entities/life-messenger.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "约定准入、安全、样本与知识产权、测试范围及验收。"
+
+#: ../../entities/life-messenger.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "设施合同与投资或财政资助分别申请。"
+
+#: ../../entities/life-messenger.rst:43
+msgid ":doc:`Fengxian district route </districts/fengxian>`"
+msgstr ":doc:`奉贤区对接路径 </districts/fengxian>`"

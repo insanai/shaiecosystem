@@ -1,0 +1,114 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/icrd.rst:1
+msgid "Shanghai Integrated Circuit R&D Center"
+msgstr "शंघाई इंटीग्रेटेड सर्किट R&D सेंटर (Shanghai IC R&D Center)"
+
+#: ../../entities/icrd.rst:4
+msgid "上海集成电路研发中心"
+msgstr "上海集成电路研发中心"
+
+#: ../../entities/icrd.rst:6
+msgid "Research platform | Pudong | Research checked 2026-11-04"
+msgstr "अनुसंधान प्लेटफॉर्म | पुडोंग (Pudong) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/icrd.rst:8
+msgid "AI and industry focus: Chips, Hardware AI."
+msgstr "एआई और उद्योग फोकस: चिप्स, हार्डवेयर AI।"
+
+#: ../../entities/icrd.rst:10
+msgid ""
+"A shared integrated-circuit research and engineering platform in "
+"Zhangjiang supporting process development, device verification and IP "
+"testing. Request a technical scoping review and written quotation for "
+"wafer or testing runs."
+msgstr "प्रोसेस विकास, डिवाइस सत्यापन और IP परीक्षण का समर्थन करने वाला झांगजियांग में एक साझा इंटीग्रेटेड-सर्किट अनुसंधान और इंजीनियरिंग प्लेटफॉर्म। वेफर या परीक्षण रन के लिए तकनीकी स्कोपिंग समीक्षा और लिखित कोटेशन का अनुरोध करें।"
+
+#: ../../entities/icrd.rst:12
+msgid "`Evidence S058 <https://www.icrd.com.cn/contact.aspx>`_. 上海集成电路研发中心."
+msgstr "`साक्ष्य S058 <https://www.icrd.com.cn/contact.aspx>`_. 上海集成电路研发中心."
+
+#: ../../entities/icrd.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/icrd.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/icrd.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/icrd.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/icrd.rst:24
+msgid ""
+"`Official website / intake route <https://www.icrd.com.cn/contact.aspx>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://www.icrd.com.cn/contact.aspx>`_"
+
+#: ../../entities/icrd.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/icrd.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/icrd.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/icrd.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/icrd.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "प्रोटोटाइप, आवश्यक उपकरण, प्रक्रिया और परीक्षण आवश्यकताओं का वर्णन करें।"
+
+#: ../../entities/icrd.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "तकनीकी समीक्षा, सुविधा के दौरे और मदवार कोटेशन के लिए पूछें।"
+
+#: ../../entities/icrd.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "पहुंच, सुरक्षा, नमूना और IP स्वामित्व, परीक्षण दायरे और स्वीकृति पर सहमति बनाएं।"
+
+#: ../../entities/icrd.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "सुविधा अनुबंध को निवेश या सार्वजनिक-फंडिंग आवेदनों से अलग रखें।"
+
+#: ../../entities/icrd.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`पुडोंग (Pudong) ज़िला मार्ग </districts/pudong>`"

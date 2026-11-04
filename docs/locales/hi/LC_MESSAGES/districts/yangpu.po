@@ -1,0 +1,227 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/yangpu.rst:1
+msgid "Yangpu"
+msgstr "यांगपू (Yangpu)"
+
+#: ../../districts/yangpu.rst:4
+msgid "University spinouts, brain-inspired AI and independent AI founders"
+msgstr "विश्वविद्यालय स्पिनआउट, मस्तिष्क-प्रेरित (brain-inspired) AI और स्वतंत्र AI संस्थापक"
+
+#: ../../districts/yangpu.rst:6
+msgid ""
+"Brain-inspired AI policy names Changyang Campus and Bay Valley. A "
+"separate May 2026 OPC policy supports communities around Fuxing Island; "
+"an action plan does not itself constitute a cash award."
+msgstr "मस्तिष्क-प्रेरित AI नीति चांगयांग कैंपस और बे वैली का नाम लेती है। मई 2026 की एक अलग OPC नीति फुशिंग द्वीप के आसपास के समुदायों का समर्थन करती है; कोई कार्य योजना अपने आप में नकद पुरस्कार नहीं होती है।"
+
+#: ../../districts/yangpu.rst:8
+msgid ""
+"`Evidence S016 "
+"<https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. "
+"关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
+msgstr "`साक्ष्य S016 <https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. 关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
+
+#: ../../districts/yangpu.rst:10
+msgid "Who receives the inquiry"
+msgstr "पूछताछ कौन प्राप्त करता है"
+
+#: ../../districts/yangpu.rst:13
+msgid "Yangpu science and technology authority"
+msgstr "यांगपू विज्ञान और प्रौद्योगिकी प्राधिकरण"
+
+#: ../../districts/yangpu.rst:15
+msgid "`Official district website <https://www.shyp.gov.cn/>`_"
+msgstr "`आधिकारिक जिला वेबसाइट <https://www.shyp.gov.cn/>`_"
+
+#: ../../districts/yangpu.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "इस रिकॉर्ड में वर्तमान सीधा कार्यक्रम फोन या ईमेल स्थापित नहीं है। नामित प्राप्तकर्ता टीम का अनुरोध करने के लिए आधिकारिक वेबसाइट का उपयोग करें।"
+
+#: ../../districts/yangpu.rst:19
+msgid "Before applying"
+msgstr "आवेदन करने से पहले"
+
+#: ../../districts/yangpu.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../districts/yangpu.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../districts/yangpu.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../districts/yangpu.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../districts/yangpu.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../districts/yangpu.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "पूछें कि कौन सी वर्तमान सूचना परियोजना को नियंत्रित करती है, क्या पंजीकरण और वास्तविक संचालन दोनों जिले में होने चाहिए, कौन सी व्यय अवधि पात्र है, और क्या पिछले नगर निगम या जिला पुरस्कार किसी दावे को बाहर करते हैं। कंपनी को स्थानांतरित करने या लागत उठाने से पहले उत्तर प्राप्त करें।"
+
+#: ../../districts/yangpu.rst:34
+msgid "Local organizations in this atlas"
+msgstr "इस एटलस में स्थानीय संगठन"
+
+#: ../../districts/yangpu.rst:37
+msgid ""
+":doc:`InnoSpace </entities/innospace>` (创智空间InnoSpace · Accelerator · "
+"Software AI, Industry) — An innovation service organization focused on "
+"corporate open innovation and startup incubation and acceleration. Bring "
+"a concrete industrial use case; program participation does not imply a "
+"corporate purchase order. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`इनोस्पेस (InnoSpace) </entities/innospace>` (创智空间InnoSpace · एक्सेलेरेटर · सॉफ्टवेयर AI, उद्योग) — कॉर्पोरेट ओपन इनोवेशन और स्टार्टअप इनक्यूबेशन तथा एक्सेलेरेशन पर केंद्रित एक नवाचार सेवा संगठन। एक ठोस औद्योगिक उपयोग परिदृश्य साथ लाएं; कार्यक्रम में भागीदारी का अर्थ कॉर्पोरेट खरीद आदेश (purchase order) नहीं है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/yangpu.rst:38
+msgid ""
+":doc:`Changyang Campus </entities/changyang>` (长阳创谷 · Technology park · "
+"Software AI, Hardware AI) — The Yangpu brain-inspired intelligence plan "
+"identifies Changyang Campus as a southern core, paired with Bay Valley in "
+"the north. Suitable for neuromorphic computing and commercial AI "
+"collaborations. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`चांगयांग कैंपस (Changyang Campus) </entities/changyang>` (长阳创谷 · प्रौद्योगिकी पार्क · सॉफ्टवेयर AI, हार्डवेयर AI) — यांगपू की मस्तिष्क-प्रेरित बुद्धिमत्ता योजना उत्तर में बे वैली के साथ जोड़े गए दक्षिणी केंद्र के रूप में चांगयांग कैंपस की पहचान करती है। न्यूरोमॉर्फिक कंप्यूटिंग और वाणिज्यिक AI सहयोग के लिए उपयुक्त। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/yangpu.rst:39
+msgid ""
+":doc:`Fuxing Island maker / OPC communities </entities/fuxing>` "
+"(复兴岛创客与OPC社区 · Incubator · Software AI) — A May 2026 district policy "
+"supports AI-enabled independent founders and maker communities. Ask for "
+"an approved community operator, the qualifying activity definition, "
+"housing conditions and any service or equity agreement. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`फुशिंग द्वीप मेकर / OPC समुदाय (Fuxing Island maker / OPC communities) </entities/fuxing>` (复兴岛创客与OPC社区 · इनक्यूबेटर · सॉफ्टवेयर AI) — मई 2026 की जिला नीति AI-सक्षम स्वतंत्र संस्थापकों और मेकर समुदायों का समर्थन करती है। अनुमोदित समुदाय संचालक, अर्हकारी गतिविधि परिभाषा, आवास शर्तों और किसी भी सेवा या इक्विटी समझौते के बारे में पूछें। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/yangpu.rst:40
+msgid ""
+":doc:`STEFG Angel Fund </entities/stefg>` (上海市大学生科技创业基金会天使基金 · Investor · "
+"Software AI, Hardware AI, Industry) — The foundation offers distinct "
+"interest-free loan and temporary equity support routes for eligible "
+"Chinese university entrepreneurs. Nationality, age, ownership, full-time "
+"work and company age conditions apply. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`STEFG एंजेल फंड (STEFG Angel Fund) </entities/stefg>` (上海市大学生科技创业基金会天使基金 · निवेशक · सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग) — फाउंडेशन पात्र चीनी विश्वविद्यालय उद्यमियों के लिए अलग-अलग ब्याज-मुक्त ऋण और अस्थायी इक्विटी सहायता मार्ग प्रदान करता है। राष्ट्रीयता, आयु, स्वामित्व, पूर्णकालिक कार्य और कंपनी की आयु की शर्तें लागू होती हैं। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/yangpu.rst:41
+msgid ""
+":doc:`China (Shanghai) Public Practicing Base for Entrepreneurs "
+"</entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Incubator · Software "
+"AI, Hardware AI, Industry) — A municipal HRSS-backed public "
+"entrepreneurship training, prototyping and incubation base in Yangpu "
+"linking founder skills training, product trial spaces and startup service "
+"agencies. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`चाइना (शंघाई) पब्लिक प्रैक्टिसिंग बेस फॉर एंटरप्रेन्योर्स (Public Practicing Base for Entrepreneurs) </entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · इनक्यूबेटर · सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग) — संस्थापक कौशल प्रशिक्षण, उत्पाद परीक्षण स्थानों और स्टार्टअप सेवा एजेंसियों को जोड़ने वाला यांगपू में नगर HRSS-समर्थित सार्वजनिक उद्यमिता प्रशिक्षण, प्रोटोटाइपिंग और इनक्यूबेशन बेस। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/yangpu.rst:42
+msgid ""
+":doc:`Fudan University </entities/university-fudan>` (复旦大学 · University) "
+"— Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Software AI, chips, AI for Science. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`फुदान विश्वविद्यालय (Fudan University) </entities/university-fudan>` (复旦大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सॉफ्टवेयर AI, चिप्स, विज्ञान के लिए AI (AI for Science)। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/yangpu.rst:43
+msgid ""
+":doc:`Tongji University </entities/university-tongji>` (同济大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Autonomous systems, mobility, "
+"robotics, built environment. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`तोंगजी विश्वविद्यालय (Tongji University) </entities/university-tongji>` (同济大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: स्वायत्त प्रणालियां, गतिशीलता (mobility), रोबोटिक्स, निर्मित वातावरण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/yangpu.rst:44
+msgid ""
+":doc:`University of Shanghai for Science and Technology "
+"</entities/university-usst>` (上海理工大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Optics, medical devices, sensors, advanced equipment. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`यूनिवर्सिटी ऑफ शंघाई फॉर साइंस एंड टेक्नोलॉजी (USST) </entities/university-usst>` (上海理工大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: ऑप्टिक्स, चिकित्सा उपकरण, सेंसर, उन्नत उपकरण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/yangpu.rst:45
+msgid ""
+":doc:`Shanghai University of Finance and Economics "
+"</entities/university-sufe>` (上海财经大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Fintech, analytics, business models. These themes are editorial "
+"routing guidance, not a verified offer of laboratory access or startup "
+"funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ फाइनेंस एंड इकोनॉमिक्स (SUFE) </entities/university-sufe>` (上海财经大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: फिनटेक, एनालिटिक्स, व्यावसायिक मॉडल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/yangpu.rst:46
+msgid ""
+":doc:`Shanghai University of Sport </entities/university-sport>` (上海体育大学 "
+"· University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Sports science, "
+"motion analysis, wearables. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ स्पोर्ट (Shanghai University of Sport) </entities/university-sport>` (上海体育大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: खेल विज्ञान, गति विश्लेषण (motion analysis), वियरेबल्स। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/yangpu.rst:48
+msgid "Funding routes"
+msgstr "फंडिंग मार्ग"
+
+#: ../../districts/yangpu.rst:51
+msgid ""
+":doc:`Yangpu financing and credit service platform "
+"</funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Loan · No equity; "
+"repayable) — Product-specific technology credit and IP finance; no "
+"universal ceiling. Status: Published directory; lender review. Timing: "
+"Product-specific; confirm current lender terms."
+msgstr ":doc:`यांगपू वित्तपोषण और क्रेडिट सेवा प्लेटफॉर्म </funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · ऋण (Loan) · कोई इक्विटी नहीं; पुनर्भुगतान योग्य) — उत्पाद-विशिष्ट प्रौद्योगिकी क्रेडिट और IP वित्त; कोई सार्वभौमिक सीमा नहीं। स्थिति: प्रकाशित निर्देशिका; ऋणदाता समीक्षा। समय-सीमा: उत्पाद-विशिष्ट; वर्तमान ऋणदाता शर्तों की पुष्टि करें।"
+
+#: ../../districts/yangpu.rst:52
+msgid ""
+":doc:`Yangpu Dream Start Angel Co-investment Fund "
+"</funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Equity investment · "
+"Negotiated equity) — District state-backed early-stage equity "
+"co-investment; individual cheque subject to investment committee review. "
+"Status: Published investment platform; deal review. Timing: Manager-led "
+"sourcing and due diligence."
+msgstr ":doc:`यांगपू ड्रीम स्टार्ट एंजेल सह-निवेश फंड </funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · इक्विटी निवेश · बातचीत के अधीन इक्विटी) — जिला राज्य-समर्थित प्रारंभिक-चरण इक्विटी सह-निवेश; व्यक्तिगत चेक निवेश समिति की समीक्षा के अधीन। स्थिति: प्रकाशित निवेश प्लेटफॉर्म; डील समीक्षा। समय-सीमा: प्रबंधक-नेतृत्व वाली सोर्सिंग और ड्यू डिलिजेंस।"
+
+#: ../../districts/yangpu.rst:54
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`शहरव्यापी फंडिंग की भी तुलना करें </funding>`"

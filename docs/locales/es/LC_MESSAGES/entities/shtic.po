@@ -1,0 +1,124 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/shtic.rst:1
+msgid "Shanghai Technology Innovation Center"
+msgstr "Centro de Innovación Tecnológica de Shanghái (SHTIC)"
+
+#: ../../entities/shtic.rst:4
+msgid "上海市科技创业中心"
+msgstr "上海市科技创业中心"
+
+#: ../../entities/shtic.rst:6
+msgid "Research platform | Xuhui | Research checked 2026-11-04"
+msgstr "Plataforma de investigación | Distrito de Xuhui | Investigación verificada el 2026-11-04"
+
+#: ../../entities/shtic.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Industry."
+msgstr "Enfoque de IA e industria: IA de software, IA de hardware, Industria."
+
+#: ../../entities/shtic.rst:10
+msgid ""
+"The municipal science-and-technology entrepreneurship service institution "
+"coordinating Shanghai's high-quality incubator cultivation system, "
+"innovation vouchers, technology SME filings and the Startup in Shanghai "
+"portal."
+msgstr "Institución municipal de servicios al emprendimiento científico y tecnológico que coordina el sistema de cultivo de incubadoras de alta calidad de Shanghái, los bonos de innovación, el registro de pymes tecnológicas y el portal Startup in Shanghai."
+
+#: ../../entities/shtic.rst:12
+msgid "`Evidence S059 <https://shtic.com/>`_. 上海市科技创业中心."
+msgstr "`Evidencia S059 <https://shtic.com/>`_. 上海市科技创业中心."
+
+#: ../../entities/shtic.rst:14
+msgid ""
+"`Evidence S060 "
+"<https://stcsm.sh.gov.cn/zwgk/tzgs/gsgg/zhgsgg/20250721/5376ca63676c438dac68a2f1b6313366.html>`_. "
+"关于公布纳入2025年上海市科技创新创业载体培育体系载体的通知_业务公示公告_上海市科学技术委员会."
+msgstr "`Evidencia S060 <https://stcsm.sh.gov.cn/zwgk/tzgs/gsgg/zhgsgg/20250721/5376ca63676c438dac68a2f1b6313366.html>`_. 关于公布纳入2025年上海市科技创新创业载体培育体系载体的通知_业务公示公告_上海市科学技术委员会."
+
+#: ../../entities/shtic.rst:16
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/shtic.rst:19
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/shtic.rst:21
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/shtic.rst:23
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/shtic.rst:26
+msgid "`Official website / intake route <https://shtic.com/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://shtic.com/>`_"
+
+#: ../../entities/shtic.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/shtic.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/shtic.rst:32
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/shtic.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/shtic.rst:37
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../entities/shtic.rst:39
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../entities/shtic.rst:41
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../entities/shtic.rst:43
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../entities/shtic.rst:45
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Xuhui </districts/xuhui>`"

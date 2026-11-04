@@ -1,0 +1,118 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/chongming-park.rst:1
+msgid "Zhangjiang Chongming Park"
+msgstr "Zhangjiang Chongming-Park"
+
+#: ../../entities/chongming-park.rst:4
+msgid "张江高新区崇明园"
+msgstr "张江高新区崇明园"
+
+#: ../../entities/chongming-park.rst:6
+msgid "Technology park | Chongming | Research checked 2026-11-04"
+msgstr "Technologiepark | Bezirk Chongming | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/chongming-park.rst:8
+msgid "AI and industry focus: Climate, Agriculture."
+msgstr "KI- und Branchenfokus: Klima & Umwelt, Agrartechnologie."
+
+#: ../../entities/chongming-park.rst:10
+msgid ""
+"The 2025-2026 reform plan sets a framework for ecological innovation. We "
+"use the district authority for matching smart agriculture, ecological "
+"sensing and marine technology projects to a concrete carrier."
+msgstr "Der Reformplan 2025–2026 schafft den Rahmen für ökologische Innovationen. Smarte Landwirtschaft, Umweltsensorik und Meerestechnik können über die Bezirksbehörden an konkrete Träger und Versuchsflächen angebunden werden."
+
+#: ../../entities/chongming-park.rst:12
+msgid ""
+"`Evidence S025 "
+"<https://www.shanghai.gov.cn/nw12344/20250512/98a1bb8a73c54cb785296ad1835845e1.html>`_. "
+"崇明区人民政府关于印发《张江高新区崇明园改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`Nachweis S025 <https://www.shanghai.gov.cn/nw12344/20250512/98a1bb8a73c54cb785296ad1835845e1.html>`_. 崇明区人民政府关于印发《张江高新区崇明园改革创新发展行动方案（2025-2026年）》的通知."
+
+#: ../../entities/chongming-park.rst:14
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/chongming-park.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/chongming-park.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/chongming-park.rst:21
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/chongming-park.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw12344/20250512/98a1bb8a73c54cb785296ad1835845e1.html>`_"
+msgstr "`Offizieller Nachweis und Behördenweg <https://www.shanghai.gov.cn/nw12344/20250512/98a1bb8a73c54cb785296ad1835845e1.html>`_"
+
+#: ../../entities/chongming-park.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+
+#: ../../entities/chongming-park.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/chongming-park.rst:30
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/chongming-park.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/chongming-park.rst:35
+msgid "Send a project brief and request the current admission checklist."
+msgstr "Ein Projekt-Exposé einreichen und die aktuelle Aufnahme-Checkliste anfordern."
+
+#: ../../entities/chongming-park.rst:37
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "Die Förderfähigkeits- sowie die technische oder kaufmännische Prüfung des Betreibers durchlaufen."
+
+#: ../../entities/chongming-park.rst:39
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "Mietkosten, Servicegebühren, IP-Rechte, Rechenleistungspreise und etwaige Beteiligungsansprüche schriftlich vereinbaren."
+
+#: ../../entities/chongming-park.rst:41
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "Die vereinbarten Aufnahmeverträge unterzeichnen sowie Meilensteine und zuständige Betreuer festhalten."
+
+#: ../../entities/chongming-park.rst:43
+msgid ":doc:`Chongming district route </districts/chongming>`"
+msgstr ":doc:`Bezirksroute Bezirk Chongming </districts/chongming>`"

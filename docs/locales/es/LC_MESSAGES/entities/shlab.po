@@ -1,0 +1,120 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/shlab.rst:1
+msgid "Shanghai Artificial Intelligence Laboratory"
+msgstr "Laboratorio de Inteligencia Artificial de Shanghái"
+
+#: ../../entities/shlab.rst:4
+msgid "上海人工智能实验室"
+msgstr "上海人工智能实验室"
+
+#: ../../entities/shlab.rst:6
+msgid "Research platform | Xuhui | Research checked 2026-11-04"
+msgstr "Plataforma de investigación | Distrito de Xuhui | Investigación verificada el 2026-11-04"
+
+#: ../../entities/shlab.rst:8
+msgid "AI and industry focus: Software AI, AI for Science."
+msgstr "Enfoque de IA e industria: IA de software, IA para la Ciencia."
+
+#: ../../entities/shlab.rst:10
+msgid ""
+"A research institution for foundational and applied AI. Its published "
+"general contact supports initial routing; open-source resources, "
+"collaboration and recruitment are separate pathways, not a generic "
+"startup grant."
+msgstr "Institución de investigación dedicada a la IA fundacional y aplicada. Su contacto general publicado sirve para la orientación inicial; los recursos de código abierto, la colaboración científica y la contratación de talento son vías independientes, no una subvención genérica para startups."
+
+#: ../../entities/shlab.rst:12
+msgid ""
+"`Evidence S031 <https://www.shlab.org.cn/aboutus>`_. 关于我们 - 上海人工智能实验室."
+msgstr "`Evidencia S031 <https://www.shlab.org.cn/aboutus>`_. 关于我们 - 上海人工智能实验室."
+
+#: ../../entities/shlab.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/shlab.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/shlab.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/shlab.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/shlab.rst:24
+msgid ""
+"`Official website / intake route <https://www.shlab.org.cn/aboutus>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.shlab.org.cn/aboutus>`_"
+
+#: ../../entities/shlab.rst:26
+msgid "`Email: comm@pjlab.org.cn <mailto:comm@pjlab.org.cn>`_"
+msgstr "`Correo electrónico: comm@pjlab.org.cn <mailto:comm@pjlab.org.cn>`_"
+
+#: ../../entities/shlab.rst:28
+msgid ""
+"Published address: L1, International Media Port, 129 Longwen Road, Xuhui."
+msgstr "Dirección publicada: Planta L1, Puerto Internacional de Medios, Calle Longwen 129, Distrito de Xuhui."
+
+#: ../../entities/shlab.rst:30
+msgid ""
+"Map point is approximate, based on the published street context; it is "
+"not an entrance or navigation coordinate."
+msgstr "El punto en el mapa es aproximado y se basa en el entorno viario publicado; no constituye una coordenada de acceso ni de navegación."
+
+#: ../../entities/shlab.rst:32
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/shlab.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/shlab.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "Localizar al grupo de investigación pertinente y exponer con claridad el problema científico o industrial."
+
+#: ../../entities/shlab.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "Enviar una propuesta breve que detalle los datos, el equipamiento, los resultados esperados, la financiación y el cronograma."
+
+#: ../../entities/shlab.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "Acordar la modalidad de colaboración, las reglas de publicación académica, la titularidad de la propiedad intelectual y la autorización institucional."
+
+#: ../../entities/shlab.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "Obtener por escrito el permiso de acceso o la aprobación formal del proyecto antes de iniciar los trabajos."
+
+#: ../../entities/shlab.rst:45
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Xuhui </districts/xuhui>`"

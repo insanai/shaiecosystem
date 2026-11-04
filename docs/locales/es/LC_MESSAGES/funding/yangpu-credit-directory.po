@@ -1,0 +1,113 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/yangpu-credit-directory.rst:1
+msgid "Yangpu financing and credit service platform"
+msgstr "Plataforma de servicios de financiación y crédito de Yangpu"
+
+#: ../../funding/yangpu-credit-directory.rst:4
+msgid "Loan | Yangpu"
+msgstr "Préstamo | Distrito de Yangpu"
+
+#: ../../funding/yangpu-credit-directory.rst:6
+msgid "Published directory; lender review"
+msgstr "Catálogo publicado; sujeto a evaluación del prestamista"
+
+#: ../../funding/yangpu-credit-directory.rst:8
+msgid "`Evidence S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+msgstr "`Evidencia S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+
+#: ../../funding/yangpu-credit-directory.rst:10
+msgid "Amount and mechanism"
+msgstr "Importe y mecanismo"
+
+#: ../../funding/yangpu-credit-directory.rst:13
+msgid ""
+"Product-specific technology credit and IP finance; no universal ceiling"
+msgstr "Crédito tecnológico y financiación de propiedad intelectual según el producto; sin techo único universal"
+
+#: ../../funding/yangpu-credit-directory.rst:15
+msgid "No equity; repayable"
+msgstr "Sin cesión de capital; reembolsable"
+
+#: ../../funding/yangpu-credit-directory.rst:17
+msgid "Eligibility and timing"
+msgstr "Elegibilidad y plazos"
+
+#: ../../funding/yangpu-credit-directory.rst:20
+msgid ""
+"Use the district platform to identify an actual lender and product. "
+"Technology performance-guarantee lending, IP-backed products and "
+"guarantees have different duties and underwriting conditions."
+msgstr "Utilice la plataforma distrital para identificar a la entidad prestamista y el producto concretos. Los préstamos tecnológicos con garantía de cumplimiento, los productos respaldados por propiedad intelectual y las líneas avaladas conllevan obligaciones y criterios de riesgo diferenciados."
+
+#: ../../funding/yangpu-credit-directory.rst:22
+msgid "Product-specific; confirm current lender terms"
+msgstr "Específico de cada producto; confirmar las condiciones vigentes de la entidad prestamista"
+
+#: ../../funding/yangpu-credit-directory.rst:24
+msgid "Contact and application"
+msgstr "Contacto y solicitud"
+
+#: ../../funding/yangpu-credit-directory.rst:27
+msgid ""
+"`Official application / policy route <https://xyd.shyp.gov.cn/finance>`_"
+msgstr "`Vía oficial de solicitud / normativa <https://xyd.shyp.gov.cn/finance>`_"
+
+#: ../../funding/yangpu-credit-directory.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "La autoridad u operador enlazado constituye la vía de contacto. En este perfil no consta un contacto directo vigente para el programa."
+
+#: ../../funding/yangpu-credit-directory.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../funding/yangpu-credit-directory.rst:33
+msgid ""
+"Select the current bank or public guarantee product and check borrower "
+"eligibility."
+msgstr "Seleccionar el producto bancario o de garantía pública vigente y comprobar los requisitos de elegibilidad del prestatario."
+
+#: ../../funding/yangpu-credit-directory.rst:35
+msgid ""
+"Prepare accounts, cash-flow forecast, ownership and requested security "
+"documents."
+msgstr "Preparar los estados financieros, la previsión de tesorería, la estructura societaria y la documentación de garantía solicitada."
+
+#: ../../funding/yangpu-credit-directory.rst:37
+msgid ""
+"Complete lender and guarantee assessment; compare all costs and repayment "
+"terms."
+msgstr "Completar la evaluación de riesgos de la entidad prestamista y del ente garante; comparar todos los costes financieros y plazos de amortización."
+
+#: ../../funding/yangpu-credit-directory.rst:39
+msgid ""
+"Sign and track debt service; claim interest support only if independently "
+"eligible."
+msgstr "Firmar la póliza y gestionar el servicio de la deuda; solicitar la bonificación de intereses únicamente si se cumplen de forma independiente sus requisitos."
+
+#: ../../funding/yangpu-credit-directory.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "El importe máximo publicado es un techo presupuestario, no un derecho adquirido. Verifique la convocatoria aplicable, el período de gastos elegibles, la compatibilidad con otras ayudas públicas y las condiciones de desembolso por escrito."

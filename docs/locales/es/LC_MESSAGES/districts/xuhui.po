@@ -1,0 +1,189 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/xuhui.rst:1
+msgid "Xuhui"
+msgstr "Distrito de Xuhui"
+
+#: ../../districts/xuhui.rst:4
+msgid "Foundation models, embodied AI and research commercialization"
+msgstr "Modelos fundacionales, IA corporeizada y comercialización de investigación"
+
+#: ../../districts/xuhui.rst:6
+msgid ""
+"The embodied AI policy identifies robot models, algorithms, data and "
+"operating systems. Its evaluated support ceilings are not automatic "
+"startup awards."
+msgstr "La política de IA corporeizada abarca modelos robóticos, algoritmos, datos y sistemas operativos. Sus techos máximos de apoyo sujetos a evaluación no constituyen ayudas automáticas para startups."
+
+#: ../../districts/xuhui.rst:8
+msgid ""
+"`Evidence S090 "
+"<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
+"关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`Evidencia S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+
+#: ../../districts/xuhui.rst:10
+msgid "Who receives the inquiry"
+msgstr "Quién recibe la consulta"
+
+#: ../../districts/xuhui.rst:13
+msgid "Xuhui industry development authority"
+msgstr "Autoridad de desarrollo industrial de Xuhui"
+
+#: ../../districts/xuhui.rst:15
+msgid "`Official district website <https://www.xuhui.gov.cn/>`_"
+msgstr "`Sitio web oficial del distrito <https://www.xuhui.gov.cn/>`_"
+
+#: ../../districts/xuhui.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "En este registro no consta un teléfono ni correo electrónico directo vigente para el programa. Utilice el sitio web oficial para solicitar los datos del equipo receptor responsable."
+
+#: ../../districts/xuhui.rst:19
+msgid "Before applying"
+msgstr "Antes de presentar la solicitud"
+
+#: ../../districts/xuhui.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../districts/xuhui.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../districts/xuhui.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../districts/xuhui.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../districts/xuhui.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../districts/xuhui.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Consulte qué convocatoria vigente rige el proyecto, si tanto el domicilio social como las operaciones reales deben radicar en el distrito, qué período de gasto resulta elegible y si la obtención previa de ayudas municipales o distritales excluye una nueva solicitud. Obtenga respuesta antes de trasladar una empresa o incurrir en costes."
+
+#: ../../districts/xuhui.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Organizaciones locales incluidas en este atlas"
+
+#: ../../districts/xuhui.rst:37
+msgid ""
+":doc:`Shanghai Model Speed Space </entities/mosu>` (上海模速空间 · Incubator · "
+"Software AI) — A specialist large-model incubation and acceleration "
+"community on the West Bund. Its operator lists several zones; admission, "
+"workspace, compute support and investment are separate decisions. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Espacio de Velocidad de Modelos de Shanghái (Model Speed Space) </entities/mosu>` (上海模速空间 · Incubadora · IA de software) — Comunidad especializada en la incubación y aceleración de grandes modelos en el West Bund. Su operador gestiona varias zonas; la admisión, el espacio de oficina, el apoyo de cómputo y la inversión constituyen decisiones separadas. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/xuhui.rst:38
+msgid ""
+":doc:`Shanghai Artificial Intelligence Laboratory </entities/shlab>` "
+"(上海人工智能实验室 · Research platform · Software AI, AI for Science) — A "
+"research institution for foundational and applied AI. Its published "
+"general contact supports initial routing; open-source resources, "
+"collaboration and recruitment are separate pathways, not a generic "
+"startup grant. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Laboratorio de Inteligencia Artificial de Shanghái </entities/shlab>` (上海人工智能实验室 · Plataforma de investigación · IA de software, IA para la Ciencia) — Institución de investigación dedicada a la IA fundacional y aplicada. Su contacto general publicado sirve para la orientación inicial; los recursos de código abierto, la colaboración científica y la contratación de talento son vías independientes, no una subvención genérica para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/xuhui.rst:39
+msgid ""
+":doc:`Caohejing Development Zone </entities/caohejing>` (漕河泾开发区 · "
+"Technology park · Software AI, Hardware AI, Industry) — The park operator "
+"publishes enterprise and intellectual-property service routes. Confirm "
+"the specific sub-park and operating address; the Caohejing name covers "
+"multiple development locations. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`Zona de Desarrollo de Caohejing </entities/caohejing>` (漕河泾开发区 · Parque tecnológico · IA de software, IA de hardware, Industria) — El operador del parque publica vías de servicio empresarial y de propiedad intelectual. Confirme el subparque específico y la dirección operativa; la denominación Caohejing abarca múltiples emplazamientos de desarrollo. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/xuhui.rst:40
+msgid ""
+":doc:`Shanghai Technology Innovation Center </entities/shtic>` (上海市科技创业中心 "
+"· Research platform · Software AI, Hardware AI, Industry) — The municipal "
+"science-and-technology entrepreneurship service institution coordinating "
+"Shanghai's high-quality incubator cultivation system, innovation "
+"vouchers, technology SME filings and the Startup in Shanghai portal. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Centro de Innovación Tecnológica de Shanghái (SHTIC) </entities/shtic>` (上海市科技创业中心 · Plataforma de investigación · IA de software, IA de hardware, Industria) — Institución municipal de servicios al emprendimiento científico y tecnológico que coordina el sistema de cultivo de incubadoras de alta calidad de Shanghái, los bonos de innovación, el registro de pymes tecnológicas y el portal Startup in Shanghai. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/xuhui.rst:41
+msgid ""
+":doc:`East China University of Science and Technology "
+"</entities/university-ecust>` (华东理工大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Materials, chemistry, bioprocessing, AI for Science. These themes "
+"are editorial routing guidance, not a verified offer of laboratory access "
+"or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Universidad de Ciencia y Tecnología del Este de China (ECUST) </entities/university-ecust>` (华东理工大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Materiales, química, bioprocesos, IA para la Ciencia. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/xuhui.rst:42
+msgid ""
+":doc:`Shanghai Normal University </entities/university-shnu>` (上海师范大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Education, computer science, "
+"creative technology. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Universidad Normal de Shanghái </entities/university-shnu>` (上海师范大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Educación, ciencias de la computación, tecnología creativa. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/xuhui.rst:43
+msgid ""
+":doc:`Shanghai Conservatory of Music </entities/university-music>` "
+"(上海音乐学院 · University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Audio AI, music "
+"technology, creative tools. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Conservatorio de Música de Shanghái </entities/university-music>` (上海音乐学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: IA de audio, tecnología musical, herramientas creativas. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/xuhui.rst:45
+msgid "Funding routes"
+msgstr "Vías de financiación"
+
+#: ../../districts/xuhui.rst:48
+msgid ""
+":doc:`Xuhui embodied AI development support </funding/xuhui-embodied>` "
+"(徐汇具身智能产业支持 · Grant · No equity) — Evaluated entity support ceilings: RMB "
+"10m one-off and RMB 20m annual development support. Status: Published "
+"policy; implementing intake to confirm. Timing: Confirm applicable "
+"implementing notice."
+msgstr ":doc:`Apoyo al desarrollo de la industria de IA corporeizada de Xuhui </funding/xuhui-embodied>` (徐汇具身智能产业支持 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Techos de apoyo sujetos a evaluación: hasta 10 millones de RMB en pago único y hasta 20 millones de RMB de apoyo anual al desarrollo. Estado: Política publicada; admisión de ejecución por confirmar. Plazo: Confirmar la convocatoria de ejecución aplicable."
+
+#: ../../districts/xuhui.rst:50
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Compare también las vías de financiación de ámbito municipal </funding>`"

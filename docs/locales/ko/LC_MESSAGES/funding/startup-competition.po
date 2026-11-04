@@ -1,0 +1,112 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/startup-competition.rst:1
+msgid "Startup in Shanghai International Competition, 2026"
+msgstr "2026 촹짜이상하이 국제 혁신창업대회"
+
+#: ../../funding/startup-competition.rst:4
+msgid "Competition | Citywide / global"
+msgstr "경진대회 | 전시 / 글로벌"
+
+#: ../../funding/startup-competition.rst:6
+msgid "2026 call published; deadline check required"
+msgstr "2026년 공고 발표됨; 마감일 확인 필요"
+
+#: ../../funding/startup-competition.rst:8
+msgid ""
+"`Evidence S100 "
+"<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
+"2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
+msgstr "`근거 S100 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
+
+#: ../../funding/startup-competition.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/startup-competition.rst:13
+msgid "Awards and connected investment depend on track; not guaranteed"
+msgstr "대회 수상 및 평가 결과에 따른 시·구 연계 혁신 자금 지원"
+
+#: ../../funding/startup-competition.rst:15
+msgid "Award / investment terms vary"
+msgstr "시상 및 투자 조건 상이"
+
+#: ../../funding/startup-competition.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/startup-competition.rst:20
+msgid ""
+"Domestic and overseas teams and companies under the official track rules. "
+"Competition admission, innovation funding and investor interest are "
+"separate outcomes."
+msgstr "상하이 소재 적격 중소기업 및 신규 창업팀. 부문별 트랙, 업종 기준, 기업 연력 요건이 적용됩니다."
+
+#: ../../funding/startup-competition.rst:22
+msgid "Check the specific 2026 track; not labelled open"
+msgstr "2026년 공식 대회 공고 요건 확인 필요"
+
+#: ../../funding/startup-competition.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/startup-competition.rst:27
+msgid ""
+"`Official application / policy route <https://www.startup-sh.cn/cyds>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://www.startup-sh.cn/cyds>`_"
+
+#: ../../funding/startup-competition.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/startup-competition.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/startup-competition.rst:33
+msgid "Choose the correct competition track, region and applicant category."
+msgstr "적합한 경진대회 트랙, 권역 및 참가 대상 구분을 선택한다."
+
+#: ../../funding/startup-competition.rst:35
+msgid ""
+"Read the rules and submit the required project, team and IP evidence."
+msgstr "대회 규정을 확인하고 프로젝트 설명서, 팀 프로필 및 핵심 기술·지식재산권(IP) 증빙을 제출한다."
+
+#: ../../funding/startup-competition.rst:37
+msgid ""
+"Complete selection or pitching; confirm prize and service conditions in "
+"writing."
+msgstr "서면 선발 및 본선 피칭을 완료하고 상금 지급 조건과 부가 서비스 범위를 서면으로 확인한다."
+
+#: ../../funding/startup-competition.rst:39
+msgid ""
+"Treat investor introductions and district funding as separate follow-up "
+"decisions."
+msgstr "투자자 연계 및 구청 연계 지원금은 본 대회 시상과 별개의 후속 의사결정으로 진행한다."
+
+#: ../../funding/startup-competition.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

@@ -1,0 +1,118 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/songjiang-innovation.rst:1
+msgid "Songjiang technology-enterprise innovation and matching support"
+msgstr "सोंगजियांग प्रौद्योगिकी-उद्यम नवाचार और मैचिंग सहायता"
+
+#: ../../funding/songjiang-innovation.rst:4
+msgid "Grant | Songjiang"
+msgstr "अनुदान (Grant) | सोंगजियांग (Songjiang)"
+
+#: ../../funding/songjiang-innovation.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं"
+
+#: ../../funding/songjiang-innovation.rst:8
+msgid ""
+"`Evidence S112 "
+"<https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. "
+"关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
+msgstr "`साक्ष्य S112 <https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. 关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
+
+#: ../../funding/songjiang-innovation.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/songjiang-innovation.rst:13
+msgid ""
+"District innovation project up to RMB 100,000; approved municipal "
+"innovation projects matched 1:1 under the policy"
+msgstr "जिला नवाचार परियोजना RMB 100,000 तक; नीति के तहत अनुमोदित नगर नवाचार परियोजनाओं को 1:1 मैचिंग"
+
+#: ../../funding/songjiang-innovation.rst:15
+msgid "No equity"
+msgstr "कोई इक्विटी नहीं"
+
+#: ../../funding/songjiang-innovation.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/songjiang-innovation.rst:20
+msgid ""
+"Qualifying technology enterprises under the 2026-2027 measures and "
+"implementing rules. Different recognition, commercialization and voucher "
+"provisions must be checked separately."
+msgstr "2026-2027 उपायों और कार्यान्वयन नियमों के तहत अर्हकारी प्रौद्योगिकी उद्यम। विभिन्न मान्यता, व्यावसायीकरण और वाउचर प्रावधानों की अलग से जाँच की जानी चाहिए।"
+
+#: ../../funding/songjiang-innovation.rst:22
+msgid ""
+"Policy: 1 January 2026 to 31 December 2027; confirm the applicable call"
+msgstr "नीति: 1 जनवरी 2026 से 31 दिसंबर 2027 तक; लागू कॉल की पुष्टि करें"
+
+#: ../../funding/songjiang-innovation.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/songjiang-innovation.rst:27
+msgid ""
+"`Official application / policy route <https://www.songjiang.gov.cn/>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://www.songjiang.gov.cn/>`_"
+
+#: ../../funding/songjiang-innovation.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/songjiang-innovation.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/songjiang-innovation.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../funding/songjiang-innovation.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../funding/songjiang-innovation.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../funding/songjiang-innovation.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../funding/songjiang-innovation.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

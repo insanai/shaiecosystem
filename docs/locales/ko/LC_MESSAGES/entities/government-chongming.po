@@ -1,0 +1,113 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/government-chongming.rst:1
+msgid "Chongming science and technology authority"
+msgstr "충밍구 과학기술위원회"
+
+#: ../../entities/government-chongming.rst:4
+msgid "崇明区科学技术委员会"
+msgstr "崇明区科学技术委员会"
+
+#: ../../entities/government-chongming.rst:6
+msgid "Government | Chongming | Research checked 2026-11-04"
+msgstr "정부 기관 | 충밍구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/government-chongming.rst:8
+msgid ""
+"The 2025-2026 Chongming Park plan supplies current strategic context. The "
+"separate 2024 science innovation subsidy measures expired on 31 December "
+"2025; we do not present those ceilings as current entitlements."
+msgstr "2025~2026년 충밍원 계획은 현행 거시적 전략을 제시합니다. 별도의 2024년 과학기술 혁신 보조금 조례는 2025년 12월 31일부로 만료되었으므로, 해당 조례의 상한액을 현행 보장 권리로 취급해서는 안 됩니다."
+
+#: ../../entities/government-chongming.rst:10
+msgid ""
+"`Evidence S025 "
+"<https://www.shanghai.gov.cn/nw12344/20250512/98a1bb8a73c54cb785296ad1835845e1.html>`_. "
+"崇明区人民政府关于印发《张江高新区崇明园改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`근거 S025 <https://www.shanghai.gov.cn/nw12344/20250512/98a1bb8a73c54cb785296ad1835845e1.html>`_. 崇明区人民政府关于印发《张江高新区崇明园改革创新发展行动方案（2025-2026年）》的通知."
+
+#: ../../entities/government-chongming.rst:12
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/government-chongming.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/government-chongming.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/government-chongming.rst:19
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/government-chongming.rst:22
+msgid "`Official website / intake route <https://www.shcm.gov.cn/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.shcm.gov.cn/>`_"
+
+#: ../../entities/government-chongming.rst:24
+msgid "Telephone: +86 21 69695910."
+msgstr "전화: +86 21 69695910."
+
+#: ../../entities/government-chongming.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/government-chongming.rst:28
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/government-chongming.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/government-chongming.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../entities/government-chongming.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../entities/government-chongming.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../entities/government-chongming.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../entities/government-chongming.rst:41
+msgid ":doc:`Chongming district route </districts/chongming>`"
+msgstr ":doc:`충밍구 경로 안내 </districts/chongming>`"

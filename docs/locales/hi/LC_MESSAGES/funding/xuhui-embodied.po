@@ -1,0 +1,116 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/xuhui-embodied.rst:1
+msgid "Xuhui embodied AI development support"
+msgstr "शुहुई एम्बॉडीड AI विकास सहायता"
+
+#: ../../funding/xuhui-embodied.rst:4
+msgid "Grant | Xuhui"
+msgstr "अनुदान (Grant) | शुहुई (Xuhui)"
+
+#: ../../funding/xuhui-embodied.rst:6
+msgid "Published policy; implementing intake to confirm"
+msgstr "प्रकाशित नीति; कार्यान्वयन प्रवेश की पुष्टि शेष"
+
+#: ../../funding/xuhui-embodied.rst:8
+msgid ""
+"`Evidence S090 "
+"<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
+"关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`साक्ष्य S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+
+#: ../../funding/xuhui-embodied.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/xuhui-embodied.rst:13
+msgid ""
+"Evaluated entity support ceilings: RMB 10m one-off and RMB 20m annual "
+"development support"
+msgstr "मूल्यांकित इकाई सहायता सीमाएं: RMB 10m एकमुश्त और RMB 20m वार्षिक विकास सहायता"
+
+#: ../../funding/xuhui-embodied.rst:15
+msgid "No equity"
+msgstr "कोई इक्विटी नहीं"
+
+#: ../../funding/xuhui-embodied.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/xuhui-embodied.rst:20
+msgid ""
+"Qualifying entities in robot models, embodied algorithms, robot data and "
+"operating systems. These headline maxima are not an ordinary startup "
+"award and require comprehensive evaluation."
+msgstr "रोबोट मॉडल, एम्बॉडीड एल्गोरिदम, रोबोट डेटा और ऑपरेटिंग सिस्टम में अर्हकारी इकाइयां। ये अधिकतम सीमाएं कोई साधारण स्टार्टअप पुरस्कार नहीं हैं और इनके लिए व्यापक मूल्यांकन आवश्यक है।"
+
+#: ../../funding/xuhui-embodied.rst:22
+msgid "Confirm applicable implementing notice"
+msgstr "लागू कार्यान्वयन सूचना की पुष्टि करें"
+
+#: ../../funding/xuhui-embodied.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/xuhui-embodied.rst:27
+msgid "`Official application / policy route <https://www.xuhui.gov.cn/>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://www.xuhui.gov.cn/>`_"
+
+#: ../../funding/xuhui-embodied.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/xuhui-embodied.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/xuhui-embodied.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../funding/xuhui-embodied.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../funding/xuhui-embodied.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../funding/xuhui-embodied.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../funding/xuhui-embodied.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

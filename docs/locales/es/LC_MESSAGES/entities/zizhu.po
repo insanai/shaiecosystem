@@ -1,0 +1,118 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/zizhu.rst:1
+msgid "Zizhu National Hi-Tech Park / ET Space"
+msgstr "Parque Nacional de Alta Tecnología de Zizhu / Incubadora ET Space"
+
+#: ../../entities/zizhu.rst:4
+msgid "紫竹国家高新区／创业孵化器ET空间"
+msgstr "紫竹国家高新区／创业孵化器ET空间"
+
+#: ../../entities/zizhu.rst:6
+msgid "Incubator | Minhang | Research checked 2026-11-04"
+msgstr "Incubadora | Distrito de Minhang | Investigación verificada el 2026-11-04"
+
+#: ../../entities/zizhu.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Industry."
+msgstr "Enfoque de IA e industria: IA de software, IA de hardware, Industria."
+
+#: ../../entities/zizhu.rst:10
+msgid ""
+"The park-owned incubator connects startups with the software, avionics "
+"and manufacturing ecosystem. Its operator describes industry challenges "
+"and collaborative innovation; current admission, space and fees require "
+"an intake discussion."
+msgstr "La incubadora propiedad del parque conecta a las startups con el ecosistema de software, aviónica y fabricación industrial. Su operador describe retos industriales y programas de innovación colaborativa; la admisión actual, el espacio y las tarifas requieren una entrevista previa de ingreso."
+
+#: ../../entities/zizhu.rst:12
+msgid ""
+"`Evidence S050 <https://www.zizhupark.com/innovation/view/68>`_. 紫竹创业孵化器 "
+"- 紫竹国家高新技术产业开发区."
+msgstr "`Evidencia S050 <https://www.zizhupark.com/innovation/view/68>`_. 紫竹创业孵化器 - 紫竹国家高新技术产业开发区."
+
+#: ../../entities/zizhu.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/zizhu.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/zizhu.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/zizhu.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/zizhu.rst:24
+msgid ""
+"`Official website / intake route "
+"<https://www.zizhupark.com/innovation/view/68>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.zizhupark.com/innovation/view/68>`_"
+
+#: ../../entities/zizhu.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/zizhu.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/zizhu.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/zizhu.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/zizhu.rst:35
+msgid "Send a project brief and request the current admission checklist."
+msgstr "Enviar un resumen ejecutivo del proyecto y solicitar la lista vigente de requisitos de admisión."
+
+#: ../../entities/zizhu.rst:37
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "Completar la evaluación de elegibilidad y la revisión técnica o comercial del operador."
+
+#: ../../entities/zizhu.rst:39
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "Confirmar por escrito el alquiler, las tarifas de servicio, la propiedad intelectual, los precios de cómputo y cualquier derecho sobre el capital."
+
+#: ../../entities/zizhu.rst:41
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "Firmar los documentos de admisión acordados y registrar los hitos y los responsables de soporte."
+
+#: ../../entities/zizhu.rst:43
+msgid ":doc:`Minhang district route </districts/minhang>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Minhang </districts/minhang>`"

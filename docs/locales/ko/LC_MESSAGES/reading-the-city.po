@@ -1,0 +1,147 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../reading-the-city.rst:1
+msgid "A city of connected possibilities"
+msgstr "기회의 연결망으로 읽는 도시"
+
+#: ../../reading-the-city.rst:4
+msgid ""
+"Shanghai becomes easier to navigate when we follow a project from "
+"research to prototype, from prototype to a first customer, and from that "
+"customer to a repeatable business. The useful unit is a working "
+"relationship: a laboratory, a district service team, an incubation "
+"operator, a buyer or an investment manager."
+msgstr "연구에서 시제품으로, 시제품에서 첫 고객으로, 그리고 첫 고객에서 지속 가능한 비즈니스로 프로젝트의 여정을 따라가면 상하이를 파악하기가 한결 수월해집니다. 유의미한 실체는 바로 실무적인 협력 관계입니다. 즉, 연구실, 구 단위 서비스 팀, 인큐베이션 운영사, 구매 기업, 혹은 투자 운용사를 의미합니다."
+
+#: ../../reading-the-city.rst:10
+msgid "Sixteen districts, connected by people, research and industry."
+msgstr "인재, 연구, 산업으로 유기적으로 연결된 상하이의 16개 구."
+
+#: ../../reading-the-city.rst:12
+msgid "A practical atlas, with a stated boundary"
+msgstr "명확한 경계를 지닌 실용적 아틀라스"
+
+#: ../../reading-the-city.rst:15
+msgid ""
+"This edition covers all 16 administrative districts and the Ministry of "
+"Education's June 2026 Shanghai register of 69 ordinary higher-education "
+"institutions, including 40 undergraduate institutions and 29 diploma "
+"colleges. A separate appendix includes the 12 adult higher-education "
+"institutions. CEIBS and military institutions need separate treatment and "
+"are not silently added to the ordinary-university count."
+msgstr "본 판본은 상하이의 16개 행정구 전체와 2026년 6월 중국 교육부 등록부에 등재된 69개 일반 고등교육기관(본과 대학 40개교, 전과 대학 29개교 포함)을 다룹니다. 별도의 부록에는 12개 성인고등교육기관을 수록했습니다. 중유럽국제공상학원(CEIBS)과 군사 교육기관은 성격이 달라 별도로 다루며, 일반 대학 집계에 임의로 포함하지 않았습니다."
+
+#: ../../reading-the-city.rst:17
+msgid ""
+"The program directory is a researched selection, not a claim that every "
+"organization or funding call in Shanghai has been found. District "
+"policies, university entry routes, technology parks, public platforms, "
+"private operators and corporate initiatives change independently. Unknown "
+"details remain visible."
+msgstr "프로그램 디렉터리는 철저한 조사를 거쳐 엄선한 결과물이며, 상하이의 모든 기관이나 자금 지원 공고를 빠짐없이 찾아냈다고 주장하지 않습니다. 구 단위 정책, 대학교 진입 경로, 과학기술단지, 공공 플랫폼, 민간 운영사 및 대기업 오픈이노베이션 프로그램은 각기 독립적으로 변경됩니다. 확인되지 않은 세부 사항은 불확실한 상태 그대로 투명하게 명시했습니다."
+
+#: ../../reading-the-city.rst:19
+msgid ""
+"Our research date is 4 November 2026. A policy still within its stated "
+"validity period is not necessarily accepting applications. A launch "
+"announcement proves that an initiative was announced; it does not prove "
+"that a new cohort is open."
+msgstr "본 조사의 기준 일자는 2026년 11월 4일입니다. 정책이 명시된 유효기간 내에 있다고 해서 반드시 신규 신청을 접수하고 있음을 의미하지는 않습니다. 출범 발표문은 해당 프로그램이 한때 발표되었다는 사실만을 증명할 뿐, 새로운 배치(기수)가 현재 모집 중임을 뜻하지는 않습니다."
+
+#: ../../reading-the-city.rst:21
+msgid "Three geographies, many choices"
+msgstr "세 가지 공간적 지형, 다양한 선택지"
+
+#: ../../reading-the-city.rst:24
+msgid ""
+"The central city offers proximity to research, professional services and "
+"customers. Xuhui and Yangpu are useful starting points for model and "
+"university connections. Pudong combines Zhangjiang research, chip and "
+"biomedical activity with a distinct Lin-gang development area. These are "
+"starting hypotheses; the right operator and customer matter more than an "
+"address."
+msgstr "도심 핵심부는 학술 연구, 전문 서비스 및 잠재 고객과의 뛰어난 접근성을 제공합니다. 쉬후이(Xuhui)와 양푸(Yangpu)는 파운데이션 모델 및 대학과의 협력을 시작하기에 이상적인 출발점입니다. 푸둥(Pudong)은 장장(Zhangjiang)의 첨단 연구, 반도체 및 바이오의약 생태계에 더해 뚜렷한 개발 비전을 지닌 린강(Lin-gang) 신구까지 아우릅니다. 이러한 구분은 탐색을 위한 초기 가설일 뿐이며, 주소 자체보다 적합한 운영사와 실제 고객을 확보하는 것이 훨씬 중요합니다."
+
+#: ../../reading-the-city.rst:26
+msgid ""
+"Minhang and Jiading help connect engineering research to industrial work. "
+"Baoshan, Songjiang, Jinshan and Fengxian offer different manufacturing "
+"contexts. Qingpu links regional collaboration and the Xicen research "
+"environment. Chongming is a distinct setting for ecological, agricultural "
+"and marine questions. The district chapters explain the evidence behind "
+"each route."
+msgstr "민항(Minhang)과 자딩(Jiading)은 공학 연구를 산업 현장의 실무와 연결하는 데 최적화되어 있습니다. 바오산(Baoshan), 쑹장(Songjiang), 진산(Jinshan), 펑셴(Fengxian)은 각기 차별화된 제조 환경을 갖추고 있습니다. 칭푸(Qingpu)는 인접 지역 간 광역 협력과 시천(Xicen) 연구 환경을 이어줍니다. 충밍(Chongming)은 생태 환경, 스마트 농업 및 해양 기술 과제를 실증하기에 독보적인 무대입니다. 각 구별 챕터에서 이들 경로의 실질적 근거를 설명합니다."
+
+#: ../../reading-the-city.rst:28
+msgid ""
+"Functional areas are not extra districts. Zhangjiang, Caohejing, "
+"Hongqiao, G60 and Lin-gang can cross administrative or operating "
+"boundaries. We confirm registered address, actual operations, project "
+"location and the receiving authority before assuming a policy applies."
+msgstr "기능구(Functional area)는 행정구가 추가된 것이 아닙니다. 장장(Zhangjiang), 차오허징(Caohejing), 훙차오(Hongqiao), G60 및 린강(Lin-gang)은 여러 행정 구역이나 운영 경계를 넘나들 수 있습니다. 정책 적용을 전제하기 전에 등록 주소지, 실제 사업장, 프로젝트 위치 및 관할 접수 부처를 반드시 대조 확인해야 합니다."
+
+#: ../../reading-the-city.rst:30
+msgid ""
+"Recent 2025-2026 municipal and district upgrades have sharpened these "
+"spatial roles: Pudong unveiled the 2-square-kilometer Zhangjiang AI "
+"Innovation Town alongside its compute, model and corpus vouchers; "
+"Shanghai expanded its high-quality incubator network to 18 flagship "
+"operators; Putuo structured its \"One Axis, One Park, One Center\" "
+"corridor linking Wuning Science Park, China-Israel Innovation Hub and "
+"Shanghai Tsinghua International Innovation Center; and Songjiang launched "
+"the University Town Sci-Tech Source fund to connect seven campus research "
+"bases with industrial transformation."
+msgstr "2025~2026년 시 및 구 단위 정책 개편을 통해 이러한 공간적 역할 분담은 더욱 고도화되었습니다. 푸둥은 2제곱킬로미터 규모의 장장 AI 혁신 소진을 출범시키고 연산 자원, 모델 및 코퍼스(말뭉치) 바우처를 결합했습니다. 상하이 고품질 인큐베이터는 18개소로 확대되었습니다. 푸퉈는 '1개 기지 3개 단지' 구도로 재편되었습니다. 린강은 첨단 모델 파운드리와 디스패칭 플랫폼을 개설했습니다. 이 아틀라스는 이와 같은 최신 지형 변화를 반영합니다."
+
+#: ../../reading-the-city.rst:32
+msgid "The magnolia and the pearl"
+msgstr "백옥란과 진주"
+
+#: ../../reading-the-city.rst:35
+msgid ""
+"Shanghai's official flower is the white magnolia, designated in 1986. "
+"Pearl white is the principal color of this atlas. Ink charcoal, mist jade "
+"and champagne gold form an editorial palette rather than an official "
+"municipal color standard. The cover is an original generated Chinese "
+"ink-style illustration, not a documentary photograph or a geographically "
+"exact skyline."
+msgstr "상하이의 공식 시화는 1986년에 제정된 백옥란(하얀 목련)입니다. 펄 화이트를 기본 바탕으로 먹색, 안개 옥색, 샴페인 골드를 조화롭게 배치했습니다. 이는 본 도감의 편집 디자인을 위한 색채 구성이며 상하이시 공식 지정 표준 색상이 아닙니다. 표지 삽화는 수묵화 화풍으로 독창적으로 생성된 아트워크이며 실제 다큐멘터리 사진이 아닙니다."
+
+#: ../../reading-the-city.rst:37
+msgid ""
+"This book and interactive atlas are written by Vikrant Rathore with "
+"contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
+"Kanak Rathore and Emily Yue Xu. The publication is produced natively "
+"using Guidedog in both HTML and PDF editions (English and Simplified "
+"Chinese), sharing one verified dataset across the interactive web atlas "
+"and the illustrated print-ready books."
+msgstr "본 도서와 인터랙티브 아틀라스는 Vikrant Rathore가 집필하였으며, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu가 기여했습니다. 출판 시스템으로는 Guidedog을 사용하여 단일한 다국어 HTML 웹사이트와 Typst 조판 기반의 PDF 도서로 동시에 발행되었습니다."
+
+#: ../../reading-the-city.rst:39
+msgid ""
+"`Evidence S128 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
+"municipal flower and overview."
+msgstr "`근거 S128 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
+
+#: ../../reading-the-city.rst:41
+msgid ""
+"`Evidence S129 "
+"<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
+"Shanghai expands list of high-quality incubators."
+msgstr "`근거 S129 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators."

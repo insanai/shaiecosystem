@@ -1,0 +1,115 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/first-use.rst:1
+msgid "First equipment, first tape-out, materials and software routes"
+msgstr "首台套設備・首輪テープアウト・首批次材料・首版次ソフトウェア支援ルート"
+
+#: ../../funding/first-use.rst:4
+msgid "Grant / market access | Citywide / global"
+msgstr "助成金・市場アクセス支援 | 全市／グローバル"
+
+#: ../../funding/first-use.rst:6
+msgid "Published route; current call to confirm"
+msgstr "公表済みルート（現行公募の確認要）"
+
+#: ../../funding/first-use.rst:8
+msgid ""
+"`Evidence S106 "
+"<https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. "
+"市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
+msgstr "`出典 S106 <https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. 市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
+
+#: ../../funding/first-use.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/first-use.rst:13
+msgid "Program-specific; no common award ceiling established"
+msgstr "個別プログラムの細則に基づき決定（一律の助成限度額はなし）"
+
+#: ../../funding/first-use.rst:15
+msgid "No equity for qualifying public support"
+msgstr "適格な公的助成の場合株式希薄化なし"
+
+#: ../../funding/first-use.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/first-use.rst:20
+msgid ""
+"Shanghai policy identifies these routes for qualifying specialized SMEs "
+"and new products. Recognition, insurance compensation, procurement and "
+"R&D support are separate mechanisms; obtain the current call."
+msgstr "専精特新中小企業および新製品開発を対象とする上海市政策。認定審査、保険補償、調達インセンティブ、研究開発助成はそれぞれ別個の制度設計であり、年度通知を確認のこと。"
+
+#: ../../funding/first-use.rst:22
+msgid "Track-specific notices"
+msgstr "毎年の公募スケジュールを確認のこと"
+
+#: ../../funding/first-use.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/first-use.rst:27
+msgid ""
+"`Official application / policy route <https://www.sheitc.sh.gov.cn/>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.sheitc.sh.gov.cn/>`_"
+
+#: ../../funding/first-use.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/first-use.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/first-use.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/first-use.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/first-use.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/first-use.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/first-use.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

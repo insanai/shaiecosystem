@@ -1,0 +1,189 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/xuhui.rst:1
+msgid "Xuhui"
+msgstr "शुहुई (Xuhui)"
+
+#: ../../districts/xuhui.rst:4
+msgid "Foundation models, embodied AI and research commercialization"
+msgstr "फाउंडेशन मॉडल, एम्बॉडीड AI और अनुसंधान व्यावसायीकरण"
+
+#: ../../districts/xuhui.rst:6
+msgid ""
+"The embodied AI policy identifies robot models, algorithms, data and "
+"operating systems. Its evaluated support ceilings are not automatic "
+"startup awards."
+msgstr "एम्बॉडीड AI नीति रोबोट मॉडल, एल्गोरिदम, डेटा और ऑपरेटिंग सिस्टम की पहचान करती है। इसकी मूल्यांकित सहायता सीमाएं स्वचालित स्टार्टअप पुरस्कार नहीं हैं।"
+
+#: ../../districts/xuhui.rst:8
+msgid ""
+"`Evidence S090 "
+"<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
+"关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`साक्ष्य S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+
+#: ../../districts/xuhui.rst:10
+msgid "Who receives the inquiry"
+msgstr "पूछताछ कौन प्राप्त करता है"
+
+#: ../../districts/xuhui.rst:13
+msgid "Xuhui industry development authority"
+msgstr "शुहुई उद्योग विकास प्राधिकरण"
+
+#: ../../districts/xuhui.rst:15
+msgid "`Official district website <https://www.xuhui.gov.cn/>`_"
+msgstr "`आधिकारिक जिला वेबसाइट <https://www.xuhui.gov.cn/>`_"
+
+#: ../../districts/xuhui.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "इस रिकॉर्ड में वर्तमान सीधा कार्यक्रम फोन या ईमेल स्थापित नहीं है। नामित प्राप्तकर्ता टीम का अनुरोध करने के लिए आधिकारिक वेबसाइट का उपयोग करें।"
+
+#: ../../districts/xuhui.rst:19
+msgid "Before applying"
+msgstr "आवेदन करने से पहले"
+
+#: ../../districts/xuhui.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../districts/xuhui.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../districts/xuhui.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../districts/xuhui.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../districts/xuhui.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../districts/xuhui.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "पूछें कि कौन सी वर्तमान सूचना परियोजना को नियंत्रित करती है, क्या पंजीकरण और वास्तविक संचालन दोनों जिले में होने चाहिए, कौन सी व्यय अवधि पात्र है, और क्या पिछले नगर निगम या जिला पुरस्कार किसी दावे को बाहर करते हैं। कंपनी को स्थानांतरित करने या लागत उठाने से पहले उत्तर प्राप्त करें।"
+
+#: ../../districts/xuhui.rst:34
+msgid "Local organizations in this atlas"
+msgstr "इस एटलस में स्थानीय संगठन"
+
+#: ../../districts/xuhui.rst:37
+msgid ""
+":doc:`Shanghai Model Speed Space </entities/mosu>` (上海模速空间 · Incubator · "
+"Software AI) — A specialist large-model incubation and acceleration "
+"community on the West Bund. Its operator lists several zones; admission, "
+"workspace, compute support and investment are separate decisions. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई मॉडल स्पीड स्पेस (Shanghai Model Speed Space) </entities/mosu>` (上海模速空间 · इनक्यूबेटर · सॉफ्टवेयर AI) — वेस्ट बंड पर एक विशेषज्ञ लार्ज-मॉडल इनक्यूबेशन और एक्सेलेरेशन समुदाय। इसका संचालक कई ज़ोन सूचीबद्ध करता है; प्रवेश, कार्यस्थल, कंप्यूट सहायता और निवेश अलग-अलग निर्णय हैं। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/xuhui.rst:38
+msgid ""
+":doc:`Shanghai Artificial Intelligence Laboratory </entities/shlab>` "
+"(上海人工智能实验室 · Research platform · Software AI, AI for Science) — A "
+"research institution for foundational and applied AI. Its published "
+"general contact supports initial routing; open-source resources, "
+"collaboration and recruitment are separate pathways, not a generic "
+"startup grant. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई आर्टिफिशियल इंटेलिजेंस लेबोरेटरी (Shanghai AI Laboratory) </entities/shlab>` (上海人工智能实验室 · अनुसंधान प्लेटफॉर्म · सॉफ्टवेयर AI, विज्ञान के लिए AI) — बुनियादी और अनुप्रयुक्त AI के लिए एक अनुसंधान संस्थान। इसका प्रकाशित सामान्य संपर्क प्रारंभिक मार्गदर्शन का समर्थन करता है; ओपन-सोर्स संसाधन, सहयोग और भर्ती अलग-अलग मार्ग हैं, न कि कोई सामान्य स्टार्टअप अनुदान। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/xuhui.rst:39
+msgid ""
+":doc:`Caohejing Development Zone </entities/caohejing>` (漕河泾开发区 · "
+"Technology park · Software AI, Hardware AI, Industry) — The park operator "
+"publishes enterprise and intellectual-property service routes. Confirm "
+"the specific sub-park and operating address; the Caohejing name covers "
+"multiple development locations. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`काओहेजिंग डेवलपमेंट ज़ोन (Caohejing Development Zone) </entities/caohejing>` (漕河泾开发区 · प्रौद्योगिकी पार्क · सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग) — पार्क संचालक उद्यम और बौद्धिक-संपदा सेवा मार्ग प्रकाशित करता है। विशिष्ट सब-पार्क और परिचालन पते की पुष्टि करें; काओहेजिंग नाम कई विकास स्थानों को कवर करता है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/xuhui.rst:40
+msgid ""
+":doc:`Shanghai Technology Innovation Center </entities/shtic>` (上海市科技创业中心 "
+"· Research platform · Software AI, Hardware AI, Industry) — The municipal "
+"science-and-technology entrepreneurship service institution coordinating "
+"Shanghai's high-quality incubator cultivation system, innovation "
+"vouchers, technology SME filings and the Startup in Shanghai portal. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई टेक्नोलॉजी इनोवेशन सेंटर (Shanghai Technology Innovation Center) </entities/shtic>` (上海市科技创业中心 · अनुसंधान प्लेटफॉर्म · सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग) — शंघाई के उच्च-गुणवत्ता वाले इनक्यूबेटर संवर्धन तंत्र, इनोवेशन वाउचर, प्रौद्योगिकी SME फाइलिंग और स्टार्टअप इन शंघाई पोर्टल का समन्वय करने वाला नगर विज्ञान-और-प्रौद्योगिकी उद्यमिता सेवा संस्थान। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/xuhui.rst:41
+msgid ""
+":doc:`East China University of Science and Technology "
+"</entities/university-ecust>` (华东理工大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Materials, chemistry, bioprocessing, AI for Science. These themes "
+"are editorial routing guidance, not a verified offer of laboratory access "
+"or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`ईस्ट चाइना यूनिवर्सिटी ऑफ साइंस एंड टेक्नोलॉजी (ECUST) </entities/university-ecust>` (华东理工大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सामग्री, रसायन विज्ञान, बायोप्रोसेसिंग, विज्ञान के लिए AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/xuhui.rst:42
+msgid ""
+":doc:`Shanghai Normal University </entities/university-shnu>` (上海师范大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Education, computer science, "
+"creative technology. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई नॉर्मल यूनिवर्सिटी (Shanghai Normal University) </entities/university-shnu>` (上海师范大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: शिक्षा, कंप्यूटर विज्ञान, रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/xuhui.rst:43
+msgid ""
+":doc:`Shanghai Conservatory of Music </entities/university-music>` "
+"(上海音乐学院 · University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Audio AI, music "
+"technology, creative tools. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई कंजर्वेटरी ऑफ म्यूजिक (Shanghai Conservatory of Music) </entities/university-music>` (上海音乐学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: ऑडियो AI, संगीत प्रौद्योगिकी, रचनात्मक उपकरण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/xuhui.rst:45
+msgid "Funding routes"
+msgstr "फंडिंग मार्ग"
+
+#: ../../districts/xuhui.rst:48
+msgid ""
+":doc:`Xuhui embodied AI development support </funding/xuhui-embodied>` "
+"(徐汇具身智能产业支持 · Grant · No equity) — Evaluated entity support ceilings: RMB "
+"10m one-off and RMB 20m annual development support. Status: Published "
+"policy; implementing intake to confirm. Timing: Confirm applicable "
+"implementing notice."
+msgstr ":doc:`शुहुई एम्बॉडीड AI विकास सहायता </funding/xuhui-embodied>` (徐汇具身智能产业支持 · अनुदान (Grant) · कोई इक्विटी नहीं) — मूल्यांकित इकाई सहायता सीमाएं: RMB 10m एकमुश्त और RMB 20m वार्षिक विकास सहायता। स्थिति: प्रकाशित नीति; कार्यान्वयन प्रवेश की पुष्टि शेष। समय-सीमा: लागू कार्यान्वयन सूचना की पुष्टि करें।"
+
+#: ../../districts/xuhui.rst:50
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`शहरव्यापी फंडिंग की भी तुलना करें </funding>`"

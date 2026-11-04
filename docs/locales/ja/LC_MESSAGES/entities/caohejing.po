@@ -1,0 +1,120 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/caohejing.rst:1
+msgid "Caohejing Development Zone"
+msgstr "漕河涇開発区（Caohejing Development Zone）"
+
+#: ../../entities/caohejing.rst:4
+msgid "漕河泾开发区"
+msgstr "漕河泾开发区"
+
+#: ../../entities/caohejing.rst:6
+msgid "Technology park | Xuhui | Research checked 2026-11-04"
+msgstr "テクノロジーパーク｜徐匯区｜調査確認日 2026-11-04"
+
+#: ../../entities/caohejing.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Industry."
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI、産業・インダストリー。"
+
+#: ../../entities/caohejing.rst:10
+msgid ""
+"The park operator publishes enterprise and intellectual-property service "
+"routes. Confirm the specific sub-park and operating address; the "
+"Caohejing name covers multiple development locations."
+msgstr "開発区運営会社が企業支援および知的財産サービス窓口を公開している。漕河涇ブランドは複数の開発エリアにまたがるため、具体的なサブパーク名および事業所所在地を確認すること。"
+
+#: ../../entities/caohejing.rst:12
+msgid ""
+"`Evidence S049 <https://chj.shlingang.com/chj/yqfw/sclb/yszx/>`_. 漕河泾开发区."
+msgstr "`出典 S049 <https://chj.shlingang.com/chj/yqfw/sclb/yszx/>`_. 漕河泾开发区."
+
+#: ../../entities/caohejing.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/caohejing.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/caohejing.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/caohejing.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/caohejing.rst:24
+msgid "`Official website / intake route <https://chj.shlingang.com/>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://chj.shlingang.com/>`_"
+
+#: ../../entities/caohejing.rst:26
+msgid "Telephone: +86 21 64850000."
+msgstr "電話：+86 21 64850000。"
+
+#: ../../entities/caohejing.rst:28
+msgid "`Email: chj@caohejing.com <mailto:chj@caohejing.com>`_"
+msgstr "`メール：chj@caohejing.com <mailto:chj@caohejing.com>`_"
+
+#: ../../entities/caohejing.rst:30
+msgid "Published address: 1015 Caobao Road, Shanghai."
+msgstr "公開所在地：上海市漕宝路1015号。"
+
+#: ../../entities/caohejing.rst:32
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/caohejing.rst:34
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/caohejing.rst:37
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/caohejing.rst:39
+msgid "Send a project brief and request the current admission checklist."
+msgstr "プロジェクト概要書を送付し、現行の入居・採択チェックリストを請求する。"
+
+#: ../../entities/caohejing.rst:41
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "運営事業者による資格審査および技術的・商業的審査を完了する。"
+
+#: ../../entities/caohejing.rst:43
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "賃料、サービス料、知的財産権、計算資源（コンピュート）の利用料、および株式取得条項の有無を書面で確認する。"
+
+#: ../../entities/caohejing.rst:45
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "合意した入居契約書・採択文書に署名し、マイルストーンと担当支援責任者を記録する。"
+
+#: ../../entities/caohejing.rst:47
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`徐匯区の案内ルート </districts/xuhui>`"

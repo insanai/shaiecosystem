@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -33,10 +33,10 @@ msgstr "具身智能政策覆盖机器人大模型、算法、数据与操作系
 
 #: ../../districts/xuhui.rst:8
 msgid ""
-"`Evidence S064 "
+"`Evidence S090 "
 "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
 "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
-msgstr "`证据 S064 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`证据 S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
 
 #: ../../districts/xuhui.rst:10
 msgid "Who receives the inquiry"
@@ -103,40 +103,113 @@ msgid "Local organizations in this atlas"
 msgstr "本图谱中的本区机构"
 
 #: ../../districts/xuhui.rst:37
-msgid ":doc:`Shanghai Model Speed Space </entities/mosu>`"
-msgstr ":doc:`上海模速空间 </entities/mosu>`"
+msgid ""
+":doc:`Shanghai Model Speed Space </entities/mosu>` (上海模速空间 · Incubator · "
+"Software AI) — A specialist large-model incubation and acceleration "
+"community on the West Bund. Its operator lists several zones; admission, "
+"workspace, compute support and investment are separate decisions. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海模速空间 </entities/mosu>` （上海模速空间 · 孵化器 · 软件人工智能）—— 西岸专业大模型孵化加速社区。运营方列有多个片区；入驻、办公空间、算力支持与投资属于不同事项。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/xuhui.rst:38
-msgid ":doc:`Shanghai Artificial Intelligence Laboratory </entities/shlab>`"
-msgstr ":doc:`上海人工智能实验室 </entities/shlab>`"
+msgid ""
+":doc:`Shanghai Artificial Intelligence Laboratory </entities/shlab>` "
+"(上海人工智能实验室 · Research platform · Software AI, AI for Science) — A "
+"research institution for foundational and applied AI. Its published "
+"general contact supports initial routing; open-source resources, "
+"collaboration and recruitment are separate pathways, not a generic "
+"startup grant. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海人工智能实验室 </entities/shlab>` （上海人工智能实验室 · 科研平台 · 软件人工智能、科学智能）—— 开展人工智能基础及应用研究的科研机构。公开综合联系邮箱可用于初步对接；开源资源、科研合作与招聘为不同路径，并非通用创业补贴。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/xuhui.rst:39
-msgid ":doc:`Caohejing Development Zone </entities/caohejing>`"
-msgstr ":doc:`漕河泾开发区 </entities/caohejing>`"
+msgid ""
+":doc:`Caohejing Development Zone </entities/caohejing>` (漕河泾开发区 · "
+"Technology park · Software AI, Hardware AI, Industry) — The park operator "
+"publishes enterprise and intellectual-property service routes. Confirm "
+"the specific sub-park and operating address; the Caohejing name covers "
+"multiple development locations. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`漕河泾开发区 </entities/caohejing>` （漕河泾开发区 · 科技园区 · 软件人工智能、硬件人工智能、产业）—— 园区运营方公布企业及知识产权服务入口。漕河泾涉及多个开发地点，应确认具体子园及经营地址。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/xuhui.rst:40
 msgid ""
-":doc:`East China University of Science and Technology "
-"</entities/university-ecust>`"
-msgstr ":doc:`华东理工大学 </entities/university-ecust>`"
+":doc:`Shanghai Technology Innovation Center </entities/shtic>` (上海市科技创业中心 "
+"· Research platform · Software AI, Hardware AI, Industry) — The municipal "
+"science-and-technology entrepreneurship service institution coordinating "
+"Shanghai's high-quality incubator cultivation system, innovation "
+"vouchers, technology SME filings and the Startup in Shanghai portal. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海市科技创业中心 </entities/shtic>` （上海市科技创业中心 · 科研平台 · 软件人工智能、硬件人工智能、产业）—— 市级科技创业服务机构，统筹上海市高质量孵化器培育体系、科技创新券、科技型中小企业服务及“上海科创在线／创·在上海”平台。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/xuhui.rst:41
-msgid ":doc:`Shanghai Normal University </entities/university-shnu>`"
-msgstr ":doc:`上海师范大学 </entities/university-shnu>`"
+msgid ""
+":doc:`East China University of Science and Technology "
+"</entities/university-ecust>` (华东理工大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Materials, chemistry, bioprocessing, AI for Science. These themes "
+"are editorial routing guidance, not a verified offer of laboratory access "
+"or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`华东理工大学 </entities/university-ecust>` （华东理工大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：材料、化学、生物工艺、科学智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/xuhui.rst:42
-msgid ":doc:`Shanghai Conservatory of Music </entities/university-music>`"
-msgstr ":doc:`上海音乐学院 </entities/university-music>`"
+msgid ""
+":doc:`Shanghai Normal University </entities/university-shnu>` (上海师范大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Education, computer science, "
+"creative technology. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海师范大学 </entities/university-shnu>` （上海师范大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：教育、计算机、创意科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
-#: ../../districts/xuhui.rst:44
+#: ../../districts/xuhui.rst:43
+msgid ""
+":doc:`Shanghai Conservatory of Music </entities/university-music>` "
+"(上海音乐学院 · University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Audio AI, music "
+"technology, creative tools. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海音乐学院 </entities/university-music>` （上海音乐学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：音频人工智能、音乐科技、创作工具。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+
+#: ../../districts/xuhui.rst:45
 msgid "Funding routes"
 msgstr "资金路径"
 
-#: ../../districts/xuhui.rst:47
+#: ../../districts/xuhui.rst:48
 msgid ""
-":doc:`Xuhui embodied AI development support </funding/xuhui-embodied>`"
-msgstr ":doc:`徐汇具身智能产业支持 </funding/xuhui-embodied>`"
+":doc:`Xuhui embodied AI development support </funding/xuhui-embodied>` "
+"(徐汇具身智能产业支持 · Grant · No equity) — Evaluated entity support ceilings: RMB "
+"10m one-off and RMB 20m annual development support. Status: Published "
+"policy; implementing intake to confirm. Timing: Confirm applicable "
+"implementing notice."
+msgstr ":doc:`徐汇具身智能产业支持 </funding/xuhui-embodied>` （徐汇具身智能产业支持 · 补助 · 不占股）—— 经评估主体最高一次性1000万元、年度发展支持最高2000万元。状态：政策已公布，实施受理待确认。时间：核验适用实施通知。"
 
-#: ../../districts/xuhui.rst:49
+#: ../../districts/xuhui.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ":doc:`Shanghai Model Speed Space </entities/mosu>`"
+#~ msgstr ":doc:`上海模速空间 </entities/mosu>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai Artificial Intelligence Laboratory </entities/shlab>`"
+#~ msgstr ":doc:`上海人工智能实验室 </entities/shlab>`"
+
+#~ msgid ":doc:`Caohejing Development Zone </entities/caohejing>`"
+#~ msgstr ":doc:`漕河泾开发区 </entities/caohejing>`"
+
+#~ msgid ""
+#~ ":doc:`East China University of Science and Technology "
+#~ "</entities/university-ecust>`"
+#~ msgstr ":doc:`华东理工大学 </entities/university-ecust>`"
+
+#~ msgid ":doc:`Shanghai Normal University </entities/university-shnu>`"
+#~ msgstr ":doc:`上海师范大学 </entities/university-shnu>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai Conservatory of Music </entities/university-music>`"
+#~ msgstr ":doc:`上海音乐学院 </entities/university-music>`"
+
+#~ msgid ""
+#~ ":doc:`Xuhui embodied AI development support </funding/xuhui-embodied>`"
+#~ msgstr ":doc:`徐汇具身智能产业支持 </funding/xuhui-embodied>`"

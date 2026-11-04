@@ -1,0 +1,112 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/pudong-equity.rst:1
+msgid "Pudong AI Seed Fund"
+msgstr "पुडोंग AI सीड फंड (Pudong AI Seed Fund)"
+
+#: ../../funding/pudong-equity.rst:4
+msgid "Equity investment | Pudong"
+msgstr "इक्विटी निवेश | पुडोंग (Pudong)"
+
+#: ../../funding/pudong-equity.rst:6
+msgid "Fund announced; deal intake to confirm"
+msgstr "फंड घोषित; डील प्रवेश की पुष्टि शेष"
+
+#: ../../funding/pudong-equity.rst:8
+msgid ""
+"`Evidence S045 "
+"<https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong "
+"launches fund to boost AI industry."
+msgstr "`साक्ष्य S045 <https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong launches fund to boost AI industry."
+
+#: ../../funding/pudong-equity.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/pudong-equity.rst:13
+msgid ""
+"Fund target RMB 2bn; first tranche RMB 500m; individual cheque not "
+"established"
+msgstr "फंड लक्ष्य RMB 2bn; पहली किस्त RMB 500m; व्यक्तिगत चेक राशि निर्धारित नहीं"
+
+#: ../../funding/pudong-equity.rst:15
+msgid "Negotiated equity"
+msgstr "बातचीत के अधीन इक्विटी"
+
+#: ../../funding/pudong-equity.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/pudong-equity.rst:20
+msgid ""
+"Seed-stage AI projects fitting the manager's mandate. The public launch "
+"does not establish a universal application form, valuation or "
+"shareholding percentage."
+msgstr "प्रबंधक के जनादेश के अनुकूल सीड-चरण की AI परियोजनाएं। सार्वजनिक लॉन्च कोई सार्वभौमिक आवेदन फॉर्म, मूल्यांकन या शेयरधारिता प्रतिशत स्थापित नहीं करता है।"
+
+#: ../../funding/pudong-equity.rst:22
+msgid "Manager-led sourcing and due diligence"
+msgstr "प्रबंधक-नेतृत्व वाली सोर्सिंग और ड्यू डिलिजेंस"
+
+#: ../../funding/pudong-equity.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/pudong-equity.rst:27
+msgid "`Official application / policy route <https://www.pudong.gov.cn/>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://www.pudong.gov.cn/>`_"
+
+#: ../../funding/pudong-equity.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/pudong-equity.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/pudong-equity.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "प्रबंधक, क्षेत्र, चरण और कानूनी-इकाई की उपयुक्तता की पुष्टि करें।"
+
+#: ../../funding/pudong-equity.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "डेक, कैप टेबल, प्रौद्योगिकी साक्ष्य, प्रगति (traction) और वित्तपोषण योजना जमा करें।"
+
+#: ../../funding/pudong-equity.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "वाणिज्यिक, वित्तीय, तकनीकी और कानूनी ड्यू डिलिजेंस पूरा करें।"
+
+#: ../../funding/pudong-equity.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "टर्म शीट, निवेश समिति की शर्तों और अंतिम समझौतों की समीक्षा करें।"
+
+#: ../../funding/pudong-equity.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

@@ -1,0 +1,211 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/songjiang.rst:1
+msgid "Songjiang"
+msgstr "松江区"
+
+#: ../../districts/songjiang.rst:4
+msgid "G60 innovation, industrial software and advanced manufacturing"
+msgstr "G60イノベーション回廊、産業用ソフトウェア、先端製造業"
+
+#: ../../districts/songjiang.rst:6
+msgid ""
+"The G60 Sci-Tech Innovation Valley publishes innovation and "
+"resource-matching initiatives. We distinguish the nine-city corridor from "
+"Shanghai district eligibility: a partner elsewhere in the corridor does "
+"not establish Songjiang qualification."
+msgstr "長江デルタG60科学イノベーション回廊はイノベーション創出とリソースマッチング施策を公開している。同回廊の9都市連携枠組みと上海市の区レベルの助成資格は別個であり、回廊内の他都市のパートナーであっても松江区の助成資格は得られない。"
+
+#: ../../districts/songjiang.rst:8
+msgid ""
+"`Evidence S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`出典 S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+
+#: ../../districts/songjiang.rst:10
+msgid "Who receives the inquiry"
+msgstr "受付・問い合わせ窓口"
+
+#: ../../districts/songjiang.rst:13
+msgid "Songjiang G60 innovation services"
+msgstr "松江区G60科創イノベーションサービス部門"
+
+#: ../../districts/songjiang.rst:15
+msgid "`Official district website <https://www.songjiang.gov.cn/>`_"
+msgstr "`区人民政府公式サイト <https://www.songjiang.gov.cn/>`_"
+
+#: ../../districts/songjiang.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "本記録では現行の直接電話番号やメールアドレスは確認されていません。公式サイトを通じて担当の受付部署にお問い合わせください。"
+
+#: ../../districts/songjiang.rst:19
+msgid "Before applying"
+msgstr "申請前の確認事項"
+
+#: ../../districts/songjiang.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../districts/songjiang.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../districts/songjiang.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../districts/songjiang.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../districts/songjiang.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../districts/songjiang.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "どの現行通知がプロジェクトに適用されるか、法人登記と実際の事業活動の双方が区内にある必要があるか、どの経費支出期間が対象となるか、また過去の市・区レベルの受給実績が今回の申請を排除しないかを確認してください。企業の移転や費用の発生に先立ち、回答を得ておく必要があります。"
+
+#: ../../districts/songjiang.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本アトラスに収録されている区内組織"
+
+#: ../../districts/songjiang.rst:37
+msgid ""
+":doc:`G60 Songjiang Xinchuang Industrial Park </entities/g60-xinchuang>` "
+"(G60松江信创产业园 · Technology park · Software AI, Chips) — An officially "
+"profiled industrial park for domestic information-technology innovation. "
+"For an AI infrastructure team, establish compatibility requirements, lab "
+"access and real customer demand before choosing space. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`G60松江信創（情報技術応用イノベーション）産業園 </entities/g60-xinchuang>` （G60松江信创产业园 · テクノロジーパーク · ソフトウェアAI、半導体・チップ）— 国家・地方の信創（IT基盤国産化・独自イノベーション）政策に準拠した公式産業パーク。AIインフラチームは、入居スペース決定前に互換性要件、検証ラボの利用環境、実顧客の需要を明確にする必要がある。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/songjiang.rst:38
+msgid ""
+":doc:`Songjiang University Town Sci-Tech Source "
+"</entities/songjiang-uni-source>` (松江大学城科创源 · Incubator · Software AI, "
+"Hardware AI, Materials) — A Songjiang district initiative backed by a "
+"September 2026 special-fund notice to link the seven universities in "
+"Songjiang University Town with technology-transfer platforms and "
+"incubation operators. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`松江大学城科学技術イノベーション源（科創源） </entities/songjiang-uni-source>` （松江大学城科创源 · インキュベーター · ソフトウェアAI、ハードウェアAI、新素材・マテリアル）— 松江区の2026年9月特別資金通知に裏付けられた産学連携・成果移転プラットフォーム。松江大学城の7大学と技術移転機関、インキュベーション運営事業者を緊密に接続する。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/songjiang.rst:39
+msgid ""
+":doc:`Donghua University </entities/university-donghua>` (东华大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Advanced fibers, materials, "
+"design, smart textiles. These themes are editorial routing guidance, not "
+"a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`東華大学 </entities/university-donghua>` （东华大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：先端繊維、高機能材料、デザイン、スマートテキスタイル。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/songjiang.rst:40
+msgid ""
+":doc:`Shanghai University of International Business and Economics "
+"</entities/university-suibe>` (上海对外经贸大学 · University) — Institutional "
+"entry in the June 2026 Ministry of Education register. Suggested "
+"collaboration themes: Trade, commerce, cross-border business. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海対外経貿大学 </entities/university-suibe>` （上海对外经贸大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：国際貿易、電子商取引、越境ビジネス。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/songjiang.rst:41
+msgid ""
+":doc:`East China University of Political Science and Law "
+"</entities/university-ecupl>` (华东政法大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: IP, data governance, legal technology. These themes are editorial "
+"routing guidance, not a verified offer of laboratory access or startup "
+"funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`華東政法大学 </entities/university-ecupl>` （华东政法大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：知的財産権、データガバナンス、リーガルテック。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/songjiang.rst:42
+msgid ""
+":doc:`Shanghai University of Engineering Science "
+"</entities/university-sues>` (上海工程技术大学 · University) — Institutional "
+"entry in the June 2026 Ministry of Education register. Suggested "
+"collaboration themes: Engineering, mobility, manufacturing, design. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海工程技術大学 </entities/university-sues>` （上海工程技术大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：エンジニアリング、モビリティ、高度製造、インダストリアルデザイン。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/songjiang.rst:43
+msgid ""
+":doc:`Shanghai Lida University </entities/university-lida>` (上海立达学院 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Applied business, design and "
+"creative technology. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海立達学院 </entities/university-lida>` （上海立达学院 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：応用ビジネス、デザイン、クリエイティブテクノロジー。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/songjiang.rst:44
+msgid ""
+":doc:`Shanghai Institute of Visual Arts </entities/university-siva>` "
+"(上海视觉艺术学院 · University) — Institutional entry in the June 2026 Ministry "
+"of Education register. Suggested collaboration themes: Design, digital "
+"content and creative technology. These themes are editorial routing "
+"guidance, not a verified offer of laboratory access or startup funding. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海視覚芸術学院 </entities/university-siva>` （上海视觉艺术学院 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：ビジュアルデザイン、デジタルコンテンツ制作、クリエイティブテック。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/songjiang.rst:46
+msgid "Funding routes"
+msgstr "資金調達ルート"
+
+#: ../../districts/songjiang.rst:49
+msgid ""
+":doc:`Songjiang technology-enterprise innovation and matching support "
+"</funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Grant · No equity) — "
+"District innovation project up to RMB 100,000; approved municipal "
+"innovation projects matched 1:1 under the policy. Status: Policy in "
+"force; call not confirmed open. Timing: Policy: 1 January 2026 to 31 "
+"December 2027; confirm the applicable call."
+msgstr ":doc:`松江区ハイテク企業イノベーション＆マッチング助成 </funding/songjiang-innovation>` （松江科技企业创新与配套支持 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 区級イノベーション資金は1件あたり最大10万元。市級イノベーション資金に採択された事業には政策に基づき1:1で区が同額マッチング助成。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2026年1月1日〜2027年12月31日（該当する公募通知を確認のこと）。"
+
+#: ../../districts/songjiang.rst:50
+msgid ""
+":doc:`Songjiang Data Elements Special Fund, second 2026 batch "
+"</funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · Grant / "
+"reimbursement · No equity) — Project-specific support under the district "
+"data-elements special fund rules. Status: 2026 call published; deadline "
+"check required. Timing: Second 2026 batch notice issued August 2026; "
+"confirm current acceptance status."
+msgstr ":doc:`2026年松江区データ要素特別資金（第2期） </funding/songjiang-data-2026>` （2026松江区数据要素专项资金第二批 · 助成金・事後精算補助 · 株式希薄化なし（エクイティフリー））— 松江区データ要素特別資金管理弁法に基づき、認定プロジェクトに対して助成金を交付。ステータス：2026年公募公表済み（締切日の確認要）。時期：2026年第2期通知は8月に公布（現在の受付状況を確認のこと）。"
+
+#: ../../districts/songjiang.rst:52
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`上海全市レベルの資金調達ルートとの比較 </funding>`"

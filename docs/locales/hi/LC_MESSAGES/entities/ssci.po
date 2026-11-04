@@ -1,0 +1,112 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/ssci.rst:1
+msgid "Shanghai Leading Industry Funds"
+msgstr "शंघाई लीडिंग इंडस्ट्री फंड्स (Shanghai Leading Industry Funds)"
+
+#: ../../entities/ssci.rst:4
+msgid "上海三大先导产业母基金"
+msgstr "上海三大先导产业母基金"
+
+#: ../../entities/ssci.rst:6
+msgid "Investor | Citywide / global | Research checked 2026-11-04"
+msgstr "निवेशक | शहर-व्यापी / वैश्विक | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/ssci.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Chips, Health."
+msgstr "एआई और उद्योग फोकस: सॉफ्टवेयर AI, हार्डवेयर AI, चिप्स, स्वास्थ्य।"
+
+#: ../../entities/ssci.rst:10
+msgid ""
+"A state-backed fund platform for leading industries, with AI interests "
+"including general AI, computing systems, humanoids, vertical models and "
+"edge AI. A fund-of-funds commitment is not a startup award or a direct "
+"application entitlement."
+msgstr "अग्रणी उद्योगों के लिए राज्य-समर्थित फंड प्लेटफॉर्म, जिसमें सामान्य AI, कंप्यूटिंग सिस्टम, ह्यूमनॉइड्स, वर्टिकल मॉडल और एज AI सहित AI रुचियां शामिल हैं। फंड-ऑफ-फंड्स प्रतिबद्धता कोई स्टार्टअप पुरस्कार या सीधा आवेदन अधिकार नहीं है।"
+
+#: ../../entities/ssci.rst:12
+msgid "`Evidence S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+msgstr "`साक्ष्य S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+
+#: ../../entities/ssci.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/ssci.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/ssci.rst:19
+msgid "Funding mechanism: Equity investment."
+msgstr "वित्तपोषण तंत्र: इक्विटी निवेश।"
+
+#: ../../entities/ssci.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/ssci.rst:24
+msgid ""
+"`Official website / intake route <https://www.ssci-leadingfund.com/>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://www.ssci-leadingfund.com/>`_"
+
+#: ../../entities/ssci.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/ssci.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/ssci.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/ssci.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/ssci.rst:35
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "प्रबंधक, क्षेत्र, चरण और कानूनी-इकाई की उपयुक्तता की पुष्टि करें।"
+
+#: ../../entities/ssci.rst:37
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "डेक, कैप टेबल, प्रौद्योगिकी साक्ष्य, प्रगति (traction) और वित्तपोषण योजना जमा करें।"
+
+#: ../../entities/ssci.rst:39
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "वाणिज्यिक, वित्तीय, तकनीकी और कानूनी ड्यू डिलिजेंस पूरा करें।"
+
+#: ../../entities/ssci.rst:41
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "टर्म शीट, निवेश समिति की शर्तों और अंतिम समझौतों की समीक्षा करें।"
+
+#: ../../entities/ssci.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`शहर-व्यापी / वैश्विक ज़िला मार्ग </funding>`"

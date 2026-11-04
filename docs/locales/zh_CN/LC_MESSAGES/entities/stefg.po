@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -29,6 +29,10 @@ msgid "Investor | Yangpu | Research checked 2026-11-04"
 msgstr "投资机构｜杨浦区｜研究核对日期 2026-11-04"
 
 #: ../../entities/stefg.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Industry."
+msgstr "人工智能与产业方向：软件人工智能、硬件人工智能、产业。"
+
+#: ../../entities/stefg.rst:10
 msgid ""
 "The foundation offers distinct interest-free loan and temporary equity "
 "support routes for eligible Chinese university entrepreneurs. "
@@ -36,76 +40,76 @@ msgid ""
 "apply."
 msgstr "基金会为符合条件的中国籍高校创业者提供免息贷款及临时股权两种资助。适用国籍、年龄、持股、全职创业与企业成立年限条件。"
 
-#: ../../entities/stefg.rst:10
+#: ../../entities/stefg.rst:12
 msgid "`Evidence S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
 msgstr "`证据 S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
 
-#: ../../entities/stefg.rst:12
+#: ../../entities/stefg.rst:14
 msgid "Status and support"
 msgstr "状态与支持"
 
-#: ../../entities/stefg.rst:15
+#: ../../entities/stefg.rst:17
 msgid "Published entity; intake to confirm"
 msgstr "机构有来源，招募待确认"
 
-#: ../../entities/stefg.rst:17
+#: ../../entities/stefg.rst:19
 msgid "Funding mechanism: Loan / temporary equity."
 msgstr "支持机制：贷款／临时股权。"
 
-#: ../../entities/stefg.rst:19
+#: ../../entities/stefg.rst:21
 msgid "Contact and location"
 msgstr "联系与位置"
 
-#: ../../entities/stefg.rst:22
+#: ../../entities/stefg.rst:24
 msgid ""
 "`Official website / intake route "
 "<https://fund.stefg.org/Angel/Intro.aspx>`_"
 msgstr "`官网／对接入口 <https://fund.stefg.org/Angel/Intro.aspx>`_"
 
-#: ../../entities/stefg.rst:24
+#: ../../entities/stefg.rst:26
 msgid "Telephone: +86 21 55231818."
 msgstr "电话：+86 21 55231818。"
 
-#: ../../entities/stefg.rst:26
+#: ../../entities/stefg.rst:28
 msgid "Published address: Room 108, Building 10, 8 Jinian Road, Yangpu."
 msgstr "公布地址：杨浦区纪念路8号10号楼108室。"
 
-#: ../../entities/stefg.rst:28
+#: ../../entities/stefg.rst:30
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
 msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
 
-#: ../../entities/stefg.rst:30
+#: ../../entities/stefg.rst:32
 msgid "Application workflow"
 msgstr "申请流程"
 
-#: ../../entities/stefg.rst:33
+#: ../../entities/stefg.rst:35
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
 
-#: ../../entities/stefg.rst:35
+#: ../../entities/stefg.rst:37
 msgid "Confirm the manager, sector, stage and legal-entity fit."
 msgstr "确认管理人、行业、阶段及主体匹配。"
 
-#: ../../entities/stefg.rst:37
+#: ../../entities/stefg.rst:39
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
 msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
 
-#: ../../entities/stefg.rst:39
+#: ../../entities/stefg.rst:41
 msgid "Complete commercial, financial, technical and legal due diligence."
 msgstr "完成商业、财务、技术及法律尽职调查。"
 
-#: ../../entities/stefg.rst:41
+#: ../../entities/stefg.rst:43
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
 msgstr "审核条款书、投委会条件及正式协议。"
 
-#: ../../entities/stefg.rst:43
+#: ../../entities/stefg.rst:45
 msgid ":doc:`Yangpu district route </districts/yangpu>`"
 msgstr ":doc:`杨浦区对接路径 </districts/yangpu>`"

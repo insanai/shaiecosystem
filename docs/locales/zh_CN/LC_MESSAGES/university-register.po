@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -30,10 +30,10 @@ msgstr "采用教育部截至2026年6月17日、6月18日公布的名单，源�
 
 #: ../../university-register.rst:6
 msgid ""
-"`Evidence S060 "
+"`Evidence S076 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`证据 S060 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`证据 S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../university-register.rst:8
 msgid "40 undergraduate institutions"
@@ -473,10 +473,6 @@ msgid ""
 msgstr "`中欧国际工商学院官方入口 <https://www.ceibs.edu/>`_. 中欧国际工商学院列于上海国际教育目录，本图谱另列；尚未核实具体创业资助。"
 
 #: ../../university-register.rst:110
-
-#| msgid ""
-#| "`Evidence S084 <https://edu.sh.gov.cn/study_cn_school/>`_. "
-#| "院校信息_上海市教育委员会."
 msgid ""
-"`Evidence S099 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
-msgstr "`证据 S099 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
+"`Evidence S133 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
+msgstr "`证据 S133 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."

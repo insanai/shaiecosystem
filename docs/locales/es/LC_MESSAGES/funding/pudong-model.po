@@ -1,0 +1,112 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/pudong-model.rst:1
+msgid "Pudong AI model and agent application support, 2026"
+msgstr "Apoyo a la aplicación de modelos y agentes de IA en Pudong, 2026"
+
+#: ../../funding/pudong-model.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "Reembolso de gastos | Nueva Área de Pudong"
+
+#: ../../funding/pudong-model.rst:6
+msgid "Closed"
+msgstr "Plazo cerrado"
+
+#: ../../funding/pudong-model.rst:8
+msgid ""
+"`Evidence S089 "
+"<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
+"关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`Evidencia S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+
+#: ../../funding/pudong-model.rst:10
+msgid "Amount and mechanism"
+msgstr "Importe y mecanismo"
+
+#: ../../funding/pudong-model.rst:13
+msgid "Support rate and amount subject to applicable implementing rules"
+msgstr "Porcentaje e importe de apoyo sujetos a las normas de ejecución aplicables"
+
+#: ../../funding/pudong-model.rst:15
+msgid "No equity"
+msgstr "Sin cesión de capital (No equity)"
+
+#: ../../funding/pudong-model.rst:17
+msgid "Eligibility and timing"
+msgstr "Elegibilidad y plazos"
+
+#: ../../funding/pudong-model.rst:20
+msgid ""
+"Qualifying Pudong-benefiting projects with eligible 2025 model or agent "
+"expenses. Required filing or registration conditions apply; previously "
+"publicly funded projects cannot duplicate this support."
+msgstr "Proyectos elegibles cuyo beneficio principal radique en Pudong y que cuenten con gastos admisibles de 2025 en modelos o agentes. Se aplican requisitos de registro o inscripción; los proyectos que ya hayan recibido otras ayudas públicas no pueden duplicar esta subvención."
+
+#: ../../funding/pudong-model.rst:22
+msgid "Closed 31 Aug 2026, 16:00 China Standard Time"
+msgstr "Cerrada el 31 de agosto de 2026 a las 16:00 (hora estándar de China)"
+
+#: ../../funding/pudong-model.rst:24
+msgid "Contact and application"
+msgstr "Contacto y solicitud"
+
+#: ../../funding/pudong-model.rst:27
+msgid "`Official application / policy route <https://pyd.pudong.gov.cn/>`_"
+msgstr "`Vía oficial de solicitud / normativa <https://pyd.pudong.gov.cn/>`_"
+
+#: ../../funding/pudong-model.rst:29
+msgid "Published consultation: +86 21 68811090."
+msgstr "Teléfono de consulta publicado: +86 21 68811090."
+
+#: ../../funding/pudong-model.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../funding/pudong-model.rst:33
+msgid ""
+"Historical 2026 procedure: prepare the signed application, use report and "
+"commitments."
+msgstr "Procedimiento histórico de 2026: preparar la solicitud firmada y sellada, el informe de aplicación y las declaraciones de compromiso."
+
+#: ../../funding/pudong-model.rst:35
+msgid ""
+"Add application logs, special audit, expenditure schedule, contracts, "
+"invoices and payments."
+msgstr "Adjuntar los registros de uso (logs), la auditoría especial, el desglose de gastos, los contratos, las facturas y los comprobantes de pago."
+
+#: ../../funding/pudong-model.rst:37
+msgid ""
+"Submit on the Pudong policy platform; the 31 August 2026 deadline has "
+"passed."
+msgstr "Presentar en la plataforma de políticas empresariales de Pudong; el plazo del 31 de agosto de 2026 ya ha finalizado."
+
+#: ../../funding/pudong-model.rst:39
+msgid ""
+"The receiving area administration or town reviews and recommends; seek a "
+"new notice for future claims."
+msgstr "La administración de zona o el gobierno local correspondiente revisa y emite su recomendación; para futuras solicitudes, espere a la publicación de una nueva convocatoria."
+
+#: ../../funding/pudong-model.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "El importe máximo publicado es un techo presupuestario, no un derecho adquirido. Verifique la convocatoria aplicable, el período de gastos elegibles, la compatibilidad con otras ayudas públicas y las condiciones de desembolso por escrito."

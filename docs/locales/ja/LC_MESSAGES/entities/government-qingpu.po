@@ -1,0 +1,116 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/government-qingpu.rst:1
+msgid "Qingpu science and technology authority"
+msgstr "青浦区科学技術委員会"
+
+#: ../../entities/government-qingpu.rst:4
+msgid "青浦区科学技术委员会"
+msgstr "青浦区科学技术委员会"
+
+#: ../../entities/government-qingpu.rst:6
+msgid "Government | Qingpu | Research checked 2026-11-04"
+msgstr "政府機関・行政部門｜青浦区｜調査確認日 2026-11-04"
+
+#: ../../entities/government-qingpu.rst:8
+msgid ""
+"Xicen links the Lianqiu Lake research center with an emerging innovation "
+"district. The official 2025 reply discusses early investment and "
+"technology transfer, but proposed funds are not treated here as open "
+"startup applications."
+msgstr "西岑エリアは練秋湖研究開発センターと新興イノベーション地区をつないでいる。2025年の公式回答では初期投資や技術移転について言及されているが、設立検討中のファンドを現在受付中の公募として扱うことはできない。"
+
+#: ../../entities/government-qingpu.rst:10
+msgid ""
+"`Evidence S022 "
+"<https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. "
+"对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+msgstr "`出典 S022 <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. 对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+
+#: ../../entities/government-qingpu.rst:12
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/government-qingpu.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/government-qingpu.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/government-qingpu.rst:19
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/government-qingpu.rst:22
+msgid "`Official website / intake route <https://www.shqp.gov.cn/>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://www.shqp.gov.cn/>`_"
+
+#: ../../entities/government-qingpu.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/government-qingpu.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/government-qingpu.rst:28
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/government-qingpu.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/government-qingpu.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../entities/government-qingpu.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../entities/government-qingpu.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../entities/government-qingpu.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../entities/government-qingpu.rst:41
+msgid ":doc:`Qingpu district route </districts/qingpu>`"
+msgstr ":doc:`青浦区の案内ルート </districts/qingpu>`"

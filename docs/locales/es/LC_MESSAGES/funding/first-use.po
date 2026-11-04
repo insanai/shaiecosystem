@@ -1,0 +1,115 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/first-use.rst:1
+msgid "First equipment, first tape-out, materials and software routes"
+msgstr "Vías de apoyo al primer equipo mayor, primer tape-out, primer lote de materiales y primera edición de software"
+
+#: ../../funding/first-use.rst:4
+msgid "Grant / market access | Citywide / global"
+msgstr "Subvención / acceso al mercado | Toda la ciudad / global"
+
+#: ../../funding/first-use.rst:6
+msgid "Published route; current call to confirm"
+msgstr "Vía publicada; convocatoria actual por confirmar"
+
+#: ../../funding/first-use.rst:8
+msgid ""
+"`Evidence S106 "
+"<https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. "
+"市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
+msgstr "`Evidencia S106 <https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. 市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
+
+#: ../../funding/first-use.rst:10
+msgid "Amount and mechanism"
+msgstr "Importe y mecanismo"
+
+#: ../../funding/first-use.rst:13
+msgid "Program-specific; no common award ceiling established"
+msgstr "Específico de cada programa; no existe un tope único de subvención común"
+
+#: ../../funding/first-use.rst:15
+msgid "No equity for qualifying public support"
+msgstr "Sin cesión de capital para ayudas públicas elegibles"
+
+#: ../../funding/first-use.rst:17
+msgid "Eligibility and timing"
+msgstr "Elegibilidad y plazos"
+
+#: ../../funding/first-use.rst:20
+msgid ""
+"Shanghai policy identifies these routes for qualifying specialized SMEs "
+"and new products. Recognition, insurance compensation, procurement and "
+"R&D support are separate mechanisms; obtain the current call."
+msgstr "La normativa de Shanghái contempla estas vías para pymes especializadas («pequeños gigantes») y productos innovadores elegibles. El reconocimiento oficial, la compensación de primas de seguro, el apoyo a la compra pública y las subvenciones de I+D son mecanismos distintos; obtenga la convocatoria vigente."
+
+#: ../../funding/first-use.rst:22
+msgid "Track-specific notices"
+msgstr "Convocatorias específicas por línea temática"
+
+#: ../../funding/first-use.rst:24
+msgid "Contact and application"
+msgstr "Contacto y solicitud"
+
+#: ../../funding/first-use.rst:27
+msgid ""
+"`Official application / policy route <https://www.sheitc.sh.gov.cn/>`_"
+msgstr "`Vía oficial de solicitud / normativa <https://www.sheitc.sh.gov.cn/>`_"
+
+#: ../../funding/first-use.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "La autoridad u operador enlazado constituye la vía de contacto. En este perfil no consta un contacto directo vigente para el programa."
+
+#: ../../funding/first-use.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../funding/first-use.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../funding/first-use.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../funding/first-use.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../funding/first-use.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../funding/first-use.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "El importe máximo publicado es un techo presupuestario, no un derecho adquirido. Verifique la convocatoria aplicable, el período de gastos elegibles, la compatibilidad con otras ayudas públicas y las condiciones de desembolso por escrito."

@@ -1,0 +1,113 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/government-pudong.rst:1
+msgid "Pudong Science, Technology and Economy Commission"
+msgstr "푸둥신구 과학기술경제위원회"
+
+#: ../../entities/government-pudong.rst:4
+msgid "浦东新区科技和经济委员会"
+msgstr "浦东新区科技和经济委员会"
+
+#: ../../entities/government-pudong.rst:6
+msgid "Government | Pudong | Research checked 2026-11-04"
+msgstr "정부 기관 | 푸둥 신구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/government-pudong.rst:8
+msgid ""
+"2026 AI application call closed on 31 August 2026. The published route "
+"covers qualifying 2025 model and agent expenditure; duplicate public "
+"funding is excluded."
+msgstr "2026년 AI 응용 프로젝트 공모는 2026년 8월 31일에 마감되었습니다. 공시된 지원 경로는 자격을 충족하는 2025년 모델 및 에이전트 지출을 대상으로 하며, 정부 공공 지원금의 중복 수혜는 엄격히 배제됩니다."
+
+#: ../../entities/government-pudong.rst:10
+msgid ""
+"`Evidence S089 "
+"<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
+"关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`근거 S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+
+#: ../../entities/government-pudong.rst:12
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/government-pudong.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/government-pudong.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/government-pudong.rst:19
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/government-pudong.rst:22
+msgid "`Official website / intake route <https://www.pudong.gov.cn/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.pudong.gov.cn/>`_"
+
+#: ../../entities/government-pudong.rst:24
+msgid "Telephone: +86 21 68811090."
+msgstr "전화: +86 21 68811090."
+
+#: ../../entities/government-pudong.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/government-pudong.rst:28
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/government-pudong.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/government-pudong.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../entities/government-pudong.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../entities/government-pudong.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../entities/government-pudong.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../entities/government-pudong.rst:41
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`푸둥 신구 경로 안내 </districts/pudong>`"

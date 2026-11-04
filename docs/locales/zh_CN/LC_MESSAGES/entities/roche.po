@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -29,6 +29,10 @@ msgid "Corporate program | Pudong | Research checked 2026-11-04"
 msgstr "企业创新计划｜浦东新区｜研究核对日期 2026-11-04"
 
 #: ../../entities/roche.rst:8
+msgid "AI and industry focus: Health, AI for Science."
+msgstr "人工智能与产业方向：健康、科学智能。"
+
+#: ../../entities/roche.rst:10
 msgid ""
 "Roche describes its Shanghai innovation accelerator for the China "
 "ecosystem. Relevant to healthcare and AI-enabled discovery teams. "
@@ -36,81 +40,81 @@ msgid ""
 "questions."
 msgstr "罗氏介绍其位于上海、服务中国创新生态的加速器，适合医疗健康及人工智能研发团队。科研匹配、空间、合作、资金与知识产权须分别确认。"
 
-#: ../../entities/roche.rst:10
+#: ../../entities/roche.rst:12
 msgid ""
 "`Evidence S034 "
 "<https://www.roche.com/innovation/structure/cicor/roche-accelerator>`_. "
 "Roche | Roche accelerator."
 msgstr "`证据 S034 <https://www.roche.com/innovation/structure/cicor/roche-accelerator>`_. Roche | Roche accelerator."
 
-#: ../../entities/roche.rst:12
+#: ../../entities/roche.rst:14
 msgid "Status and support"
 msgstr "状态与支持"
 
-#: ../../entities/roche.rst:15
+#: ../../entities/roche.rst:17
 msgid "Published entity; intake to confirm"
 msgstr "机构有来源，招募待确认"
 
-#: ../../entities/roche.rst:17
+#: ../../entities/roche.rst:19
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
 msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
 
-#: ../../entities/roche.rst:19
+#: ../../entities/roche.rst:21
 msgid "Contact and location"
 msgstr "联系与位置"
 
-#: ../../entities/roche.rst:22
+#: ../../entities/roche.rst:24
 msgid ""
 "`Official website / intake route "
 "<https://www.roche.com/innovation/structure/cicor/roche-accelerator>`_"
 msgstr "`官网／对接入口 <https://www.roche.com/innovation/structure/cicor/roche-accelerator>`_"
 
-#: ../../entities/roche.rst:24
+#: ../../entities/roche.rst:26
 msgid ""
 "A direct program phone or email is not verified here. Use the official "
 "route and request the responsible team; no contact has been invented."
 msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
 
-#: ../../entities/roche.rst:26
+#: ../../entities/roche.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
 msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
 
-#: ../../entities/roche.rst:28
+#: ../../entities/roche.rst:30
 msgid "Application workflow"
 msgstr "申请流程"
 
-#: ../../entities/roche.rst:31
+#: ../../entities/roche.rst:33
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
 
-#: ../../entities/roche.rst:33
+#: ../../entities/roche.rst:35
 msgid "Identify the corporate business owner and one measurable use case."
 msgstr "确认企业业务负责人及可量化场景。"
 
-#: ../../entities/roche.rst:35
+#: ../../entities/roche.rst:37
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
 msgstr "提交产品简介、试点证据及相关技术要求。"
 
-#: ../../entities/roche.rst:37
+#: ../../entities/roche.rst:39
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
 msgstr "确认招募情况或约定试点范围、数据权利与知识产权。"
 
-#: ../../entities/roche.rst:39
+#: ../../entities/roche.rst:41
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
 msgstr "分别审核采购、付款、验收及转生产决策。"
 
-#: ../../entities/roche.rst:41
+#: ../../entities/roche.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"

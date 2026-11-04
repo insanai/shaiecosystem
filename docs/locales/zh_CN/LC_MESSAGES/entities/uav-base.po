@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -29,85 +29,89 @@ msgid "Technology park | Jinshan | Research checked 2026-11-04"
 msgstr "科技园区｜金山区｜研究核对日期 2026-11-04"
 
 #: ../../entities/uav-base.rst:8
+msgid "AI and industry focus: Hardware AI, Drones."
+msgstr "人工智能与产业方向：硬件人工智能、无人机。"
+
+#: ../../entities/uav-base.rst:10
 msgid ""
 "The Jinshan park plan includes test-flight services and a low-altitude "
 "incubation platform. Airspace, testing and airworthiness services require "
 "separate confirmation from physical workspace."
 msgstr "金山园区方案涵盖试飞服务及低空孵化平台。空域、测试与适航服务须与物理空间分别确认。"
 
-#: ../../entities/uav-base.rst:10
+#: ../../entities/uav-base.rst:12
 msgid ""
 "`Evidence S023 "
 "<https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. "
 "金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
 msgstr "`证据 S023 <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. 金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
 
-#: ../../entities/uav-base.rst:12
+#: ../../entities/uav-base.rst:14
 msgid "Status and support"
 msgstr "状态与支持"
 
-#: ../../entities/uav-base.rst:15
+#: ../../entities/uav-base.rst:17
 msgid "Published entity; intake to confirm"
 msgstr "机构有来源，招募待确认"
 
-#: ../../entities/uav-base.rst:17
+#: ../../entities/uav-base.rst:19
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
 msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
 
-#: ../../entities/uav-base.rst:19
+#: ../../entities/uav-base.rst:21
 msgid "Contact and location"
 msgstr "联系与位置"
 
-#: ../../entities/uav-base.rst:22
+#: ../../entities/uav-base.rst:24
 msgid ""
 "`Official evidence and authority route "
 "<https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_"
 msgstr "`官方来源与主管部门入口 <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_"
 
-#: ../../entities/uav-base.rst:24
+#: ../../entities/uav-base.rst:26
 msgid ""
 "A direct program phone or email is not verified here. Use the official "
 "route and request the responsible team; no contact has been invented."
 msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
 
-#: ../../entities/uav-base.rst:26
+#: ../../entities/uav-base.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
 msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
 
-#: ../../entities/uav-base.rst:28
+#: ../../entities/uav-base.rst:30
 msgid "Application workflow"
 msgstr "申请流程"
 
-#: ../../entities/uav-base.rst:31
+#: ../../entities/uav-base.rst:33
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
 
-#: ../../entities/uav-base.rst:33
+#: ../../entities/uav-base.rst:35
 msgid ""
 "Describe the prototype, required equipment, process and testing needs."
 msgstr "说明样机、所需设备、工艺与测试需求。"
 
-#: ../../entities/uav-base.rst:35
+#: ../../entities/uav-base.rst:37
 msgid "Ask for a technical review, facility visit and itemized quotation."
 msgstr "申请技术审核、设施参观及逐项报价。"
 
-#: ../../entities/uav-base.rst:37
+#: ../../entities/uav-base.rst:39
 msgid ""
 "Agree access, safety, sample and IP ownership, test scope and acceptance."
 msgstr "约定准入、安全、样本与知识产权、测试范围及验收。"
 
-#: ../../entities/uav-base.rst:39
+#: ../../entities/uav-base.rst:41
 msgid ""
 "Separate the facility contract from investment or public-funding "
 "applications."
 msgstr "设施合同与投资或财政资助分别申请。"
 
-#: ../../entities/uav-base.rst:41
+#: ../../entities/uav-base.rst:43
 msgid ":doc:`Jinshan district route </districts/jinshan>`"
 msgstr ":doc:`金山区对接路径 </districts/jinshan>`"

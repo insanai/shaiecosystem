@@ -1,0 +1,96 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding-guide.rst:1
+msgid "Capital, with its conditions attached"
+msgstr "पूंजी, अपनी जुड़ी हुई शर्तों के साथ"
+
+#: ../../funding-guide.rst:4
+msgid ""
+"We compare what a program pays for, when value arrives, what must be "
+"repaid and whether ownership changes. The label \"equity-free\" alone "
+"answers too little."
+msgstr "हम तुलना करते हैं कि कोई कार्यक्रम किस चीज़ के लिए भुगतान करता है, मूल्य कब प्राप्त होता है, क्या चुकाया जाना चाहिए और क्या स्वामित्व बदलता है। केवल \"इक्विटी-मुक्त\" (equity-free) लेबल बहुत कम उत्तर देता है।"
+
+#: ../../funding-guide.rst:7
+msgid "Match the resource need to the financing mechanism."
+msgstr "संसाधन की आवश्यकता को वित्तपोषण तंत्र से मिलाएं।"
+
+#: ../../funding-guide.rst:10
+msgid "Six mechanisms"
+msgstr "छह तंत्र"
+
+#: ../../funding-guide.rst:13
+msgid ""
+"A grant is conditional public or philanthropic support. A reimbursement "
+"pays against approved expenditure, often after spending. A voucher or "
+"credit can offset only eligible services. A loan must be repaid. A tax "
+"benefit changes a tax calculation. Equity investment exchanges capital "
+"for ownership or related contractual rights."
+msgstr "अनुदान (Grant) सशर्त सार्वजनिक या परोपकारी समर्थन है। प्रतिपूर्ति (Reimbursement) स्वीकृत व्यय के विरुद्ध भुगतान करती है, अक्सर खर्च करने के बाद। वाउचर या क्रेडिट केवल पात्र सेवाओं की लागत को समायोजित कर सकता है। ऋण (Loan) चुकाया जाना चाहिए। कर लाभ (Tax benefit) कर की गणना को बदलता है। इक्विटी निवेश स्वामित्व या संबंधित संविदात्मक अधिकारों के बदले पूंजी का आदान-प्रदान करता है।"
+
+#: ../../funding-guide.rst:15
+msgid ""
+"A competition may combine prizes, services and investment introductions, "
+"each with separate conditions. A subsidized desk is an in-kind benefit, "
+"not unrestricted cash. A government-backed fund is still an investment "
+"vehicle when it takes equity. An interest-free loan remains debt."
+msgstr "एक प्रतियोगिता में पुरस्कार, सेवाएं और निवेश परिचय शामिल हो सकते हैं, जिनमें से प्रत्येक की अलग शर्तें होती हैं। सब्सिडी वाला डेस्क एक वस्तु-रूप (in-kind) लाभ है, न कि अप्रतिबंधित नकदी। सरकार समर्थित फंड जब इक्विटी लेता है तो वह भी एक निवेश साधन ही होता है। ब्याज-मुक्त ऋण भी कर्ज ही रहता है।"
+
+#: ../../funding-guide.rst:17
+msgid "Build a layered funding plan"
+msgstr "एक स्तरित फंडिंग योजना बनाएं"
+
+#: ../../funding-guide.rst:20
+msgid ""
+"Before registration, check whether team-level vouchers, university "
+"proof-of-concept support or competition routes accept the actual "
+"applicant. After incorporation, compare the company's district and "
+"activity with public calls. For a prototype, prioritize real lab, compute "
+"or customer needs. For expansion, match the amount and timing to investor "
+"or bank criteria."
+msgstr "पंजीकरण से पहले, जाँच लें कि क्या टीम-स्तरीय वाउचर, विश्वविद्यालय प्रूफ-ऑफ-कॉन्सेप्ट समर्थन या प्रतियोगिता मार्ग वास्तविक आवेदक को स्वीकार करते हैं। निगमन (incorporation) के बाद, सार्वजनिक कॉलों के साथ कंपनी के जिले और गतिविधि की तुलना करें। प्रोटोटाइप के लिए, वास्तविक लैब, कंप्यूट या ग्राहक आवश्यकताओं को प्राथमिकता दें। विस्तार के लिए, निवेशक या बैंक मानदंडों से राशि और समय का मिलान करें।"
+
+#: ../../funding-guide.rst:22
+msgid ""
+"We never add overlapping headline awards into a promised total. Programs "
+"can exclude duplicated spending, restrict related suppliers, require "
+"local operations, demand matching funds or pay only after acceptance. A "
+"company needs working capital for costs that arrive before reimbursement."
+msgstr "हम कभी भी ओवरलैप होने वाले शीर्षक पुरस्कारों को जोड़कर कोई वादा किया गया कुल योग नहीं बनाते हैं। कार्यक्रम दोहरे खर्च को बाहर कर सकते हैं, संबंधित आपूर्तिकर्ताओं को प्रतिबंधित कर सकते हैं, स्थानीय संचालन की मांग कर सकते हैं, मैचिंग फंड मांग सकते हैं या केवल स्वीकृति के बाद भुगतान कर सकते हैं। प्रतिपूर्ति से पहले आने वाली लागतों के लिए कंपनी को कार्यशील पूंजी (working capital) की आवश्यकता होती है।"
+
+#: ../../funding-guide.rst:24
+msgid "Compare the real cost"
+msgstr "वास्तविक लागत की तुलना करें"
+
+#: ../../funding-guide.rst:27
+msgid ""
+"For public support, compare eligible expense period, matching ratio, "
+"audit cost, tax treatment, reporting and clawback. For equity, compare "
+"valuation, ownership, liquidation preference, board rights, follow-on "
+"rights and exit terms. For debt, compare principal, interest, fees, "
+"guarantee or collateral, repayment schedule and default obligations."
+msgstr "सार्वजनिक समर्थन के लिए, पात्र व्यय अवधि, मैचिंग अनुपात, ऑडिट लागत, कर उपचार, रिपोर्टिंग और क्लॉबैक (वापसी की शर्तों) की तुलना करें। इक्विटी के लिए, मूल्यांकन, स्वामित्व, लिक्विडेशन प्रेफरेंस, बोर्ड अधिकार, फॉलो-ऑन अधिकार और एग्जिट शर्तों की तुलना करें। ऋण के लिए, मूलधन, ब्याज, शुल्क, गारंटी या संपार्श्विक (collateral), पुनर्भुगतान अनुसूची और डिफ़ॉल्ट दायित्वों की तुलना करें।"
+
+#: ../../funding-guide.rst:29
+msgid ""
+"For cloud benefits, check account region, supported services, expiry, "
+"existing credits and overage billing. China-region and global offers may "
+"use different operators and accounts. Free membership in a technology "
+"ecosystem does not guarantee hardware supply, credits or investment."
+msgstr "क्लाउड लाभों के लिए, खाता क्षेत्र, समर्थित सेवाएं, समाप्ति तिथि, मौजूदा क्रेडिट और अतिरिक्त उपयोग बिलिंग (overage billing) की जाँच करें। चीन-क्षेत्र और वैश्विक ऑफ़र अलग-अलग संचालकों और खातों का उपयोग कर सकते हैं। किसी प्रौद्योगिकी इकोसिस्टम में निःशुल्क सदस्यता हार्डवेयर आपूर्ति, क्रेडिट या निवेश की गारंटी नहीं देती है।"

@@ -1,0 +1,119 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/qingpu-compute.rst:1
+msgid "Qingpu digital economy compute reimbursement, September 2026 costs"
+msgstr "Erstattung von Rechenleistungskosten für die digitale Wirtschaft Qingpu (Kosten September 2026)"
+
+#: ../../funding/qingpu-compute.rst:4
+msgid "Reimbursement | Qingpu"
+msgstr "Kostenerstattung | Bezirk Qingpu"
+
+#: ../../funding/qingpu-compute.rst:6
+msgid "Closed"
+msgstr "Geschlossen"
+
+#: ../../funding/qingpu-compute.rst:8
+msgid ""
+"`Evidence S113 "
+"<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. "
+"关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府."
+msgstr "`Nachweis S113 <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. 关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府."
+
+#: ../../funding/qingpu-compute.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/qingpu-compute.rst:13
+msgid ""
+"Amount under the applicable digital-economy rules; reviewed against "
+"eligible actual cost"
+msgstr "Fördersatz und Höchstbetrag richten sich nach den Richtlinien für die digitale Wirtschaft; bezuschusst werden nachgewiesene Rechnungen für den Monat September 2026"
+
+#: ../../funding/qingpu-compute.rst:15
+msgid "No equity"
+msgstr "Ohne Anteilsabgabe"
+
+#: ../../funding/qingpu-compute.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/qingpu-compute.rst:20
+msgid ""
+"Eligible R&D rental of non-related-party intelligent compute; storage, "
+"networking and security are excluded. The provider must hold the "
+"specified IDC/ISP licence. Other fiscal support for the same project and "
+"year is generally excluded."
+msgstr "In Qingpu tätige Unternehmen der digitalen Wirtschaft und KI-Teams, die im September 2026 qualifizierte Rechenzentrumsdienste in Anspruch genommen haben; offizielle Rechnungen und Zahlungsnachweise sind erforderlich."
+
+#: ../../funding/qingpu-compute.rst:22
+msgid "Closed 23 October 2026, 17:00 China Standard Time"
+msgstr "Antragsfrist der Bekanntmachung vom Oktober 2026 prüfen"
+
+#: ../../funding/qingpu-compute.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/qingpu-compute.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_"
+
+#: ../../funding/qingpu-compute.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "Die verlinkte Behörde bzw. der Träger ist der offizielle Kontaktweg. Ein direkter Programm-Ansprechpartner ist in diesem Profil nicht hinterlegt."
+
+#: ../../funding/qingpu-compute.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/qingpu-compute.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "Gutscheinkategorie, räumliche Grenzen, anerkannte Dienstleister und förderfähigen Zeitraum prüfen."
+
+#: ../../funding/qingpu-compute.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "Dienstleistungsverträge, Rechnungen, Zahlungsnachweise und detaillierte Nutzungsberichte aufbewahren."
+
+#: ../../funding/qingpu-compute.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "Die festgelegte Plattform und Antragsrunde nutzen sowie die Prüfung durch Bezirk oder Betreiber durchlaufen."
+
+#: ../../funding/qingpu-compute.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "Bewilligungssumme, Ausschluss von Mehrfachförderung und Auszahlungsmodalitäten kontrollieren."
+
+#: ../../funding/qingpu-compute.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

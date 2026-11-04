@@ -1,0 +1,160 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/qingpu.rst:1
+msgid "Qingpu"
+msgstr "Distrito de Qingpu"
+
+#: ../../districts/qingpu.rst:4
+msgid "Huawei-linked research, digital systems and regional collaboration"
+msgstr "Investigación vinculada a Huawei, sistemas digitales y colaboración regional"
+
+#: ../../districts/qingpu.rst:6
+msgid ""
+"Xicen links the Lianqiu Lake research center with an emerging innovation "
+"district. The official 2025 reply discusses early investment and "
+"technology transfer, but proposed funds are not treated here as open "
+"startup applications."
+msgstr "Xicen enlaza el centro de investigación del lago Lianqiu con un distrito de innovación emergente. La respuesta oficial de 2025 aborda la inversión temprana y la transferencia tecnológica, pero los fondos en fase de propuesta no se tratan aquí como convocatorias abiertas para startups."
+
+#: ../../districts/qingpu.rst:8
+msgid ""
+"`Evidence S022 "
+"<https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. "
+"对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+msgstr "`Evidencia S022 <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. 对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+
+#: ../../districts/qingpu.rst:10
+msgid "Who receives the inquiry"
+msgstr "Quién recibe la consulta"
+
+#: ../../districts/qingpu.rst:13
+msgid "Qingpu science and technology authority"
+msgstr "Comisión de Ciencia y Tecnología de Qingpu"
+
+#: ../../districts/qingpu.rst:15
+msgid "`Official district website <https://www.shqp.gov.cn/>`_"
+msgstr "`Sitio web oficial del distrito <https://www.shqp.gov.cn/>`_"
+
+#: ../../districts/qingpu.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "En este registro no consta un teléfono ni correo electrónico directo vigente para el programa. Utilice el sitio web oficial para solicitar los datos del equipo receptor responsable."
+
+#: ../../districts/qingpu.rst:19
+msgid "Before applying"
+msgstr "Antes de presentar la solicitud"
+
+#: ../../districts/qingpu.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../districts/qingpu.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../districts/qingpu.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../districts/qingpu.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../districts/qingpu.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../districts/qingpu.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Consulte qué convocatoria vigente rige el proyecto, si tanto el domicilio social como las operaciones reales deben radicar en el distrito, qué período de gasto resulta elegible y si la obtención previa de ayudas municipales o distritales excluye una nueva solicitud. Obtenga respuesta antes de trasladar una empresa o incurrir en costes."
+
+#: ../../districts/qingpu.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Organizaciones locales incluidas en este atlas"
+
+#: ../../districts/qingpu.rst:37
+msgid ""
+":doc:`Xicen Science and Innovation Center </entities/xicen>` (西岑科创中心 · "
+"Technology park · Hardware AI, Software AI) — A Qingpu innovation area "
+"centered on Huawei Lianqiu Lake and Xicen development. It offers an "
+"ecosystem connection, not automatic access to Huawei laboratories, "
+"procurement or investment. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Centro de Ciencia e Innovación de Xicen </entities/xicen>` (西岑科创中心 · Parque tecnológico · IA de hardware, IA de software) — Área de innovación en Qingpu articulada en torno al centro de Huawei en el lago Lianqiu y al desarrollo de Xicen. Ofrece conexión con el ecosistema regional, pero no acceso automático a los laboratorios, compras ni inversiones de Huawei. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/qingpu.rst:38
+msgid ""
+":doc:`Yangtze River Delta AI+ Joint Innovation Center "
+"</entities/huawei-ai>` (长三角AI+联合创新中心 · Corporate program · Software AI, "
+"Hardware AI) — An official July 2026 account records the center beginning "
+"operations in Qingpu. Confirm the operator, technical scope, Huawei "
+"ecosystem interface and actual startup admission before describing a "
+"benefit package. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Centro Conjunto de Innovación AI+ del Delta del Río Yangtsé </entities/huawei-ai>` (长三角AI+联合创新中心 · Programa de innovación corporativa · IA de software, IA de hardware) — Una nota oficial de julio de 2026 registra el inicio de operaciones del centro en Qingpu. Confirme el operador, el alcance técnico, la interfaz con el ecosistema de Huawei y las condiciones reales de admisión de startups antes de dar por sentado un paquete de beneficios. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/qingpu.rst:39
+msgid ""
+":doc:`Shanghai University of Political Science and Law "
+"</entities/university-shupl>` (上海政法学院 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Legal technology, IP, governance. These themes are editorial "
+"routing guidance, not a verified offer of laboratory access or startup "
+"funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Universidad de Ciencias Políticas y Derecho de Shanghái </entities/university-shupl>` (上海政法学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Tecnología jurídica (legaltech), propiedad intelectual, gobernanza. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/qingpu.rst:41
+msgid "Funding routes"
+msgstr "Vías de financiación"
+
+#: ../../districts/qingpu.rst:44
+msgid ""
+":doc:`Qingpu digital economy compute reimbursement, September 2026 costs "
+"</funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Reimbursement · No equity) "
+"— Amount under the applicable digital-economy rules; reviewed against "
+"eligible actual cost. Status: Closed. Timing: Closed 23 October 2026, "
+"17:00 China Standard Time."
+msgstr ":doc:`Reembolso de costes de cómputo para la economía digital de Qingpu (gastos de septiembre de 2026) </funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Reembolso de gastos · Sin cesión de capital (No equity)) — Importe determinado según las reglas aplicables de economía digital; revisado frente al coste real elegible. Estado: Plazo cerrado. Plazo: Cerrada el 23 de octubre de 2026 a las 17:00 (hora estándar de China)."
+
+#: ../../districts/qingpu.rst:45
+msgid ""
+":doc:`Qingpu Enterprise Intelligent Transformation Support Fund, 2026 "
+"</funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Grant / "
+"reimbursement · No equity) — Proportion of verified intelligent "
+"equipment, industrial software and digital-workshop investment. Status: "
+"2026 call published; deadline check required. Timing: 2026 notice issued "
+"31 July 2026; confirm current batch window."
+msgstr ":doc:`Fondo de Apoyo a la Transformación Inteligente de Empresas de Qingpu, 2026 </funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Subvención / reembolso · Sin cesión de capital (No equity)) — Proporción de la inversión verificada en equipamiento inteligente, software industrial y talleres digitales. Estado: Convocatoria 2026 publicada; verificar fecha límite. Plazo: Convocatoria de 2026 publicada el 31 de julio de 2026; confirmar la ventana de admisión del lote actual."
+
+#: ../../districts/qingpu.rst:47
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Compare también las vías de financiación de ámbito municipal </funding>`"

@@ -1,0 +1,117 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/innovation-voucher.rst:1
+msgid "Shanghai Science and Technology Innovation Vouchers"
+msgstr "上海市科学技術イノベーション券"
+
+#: ../../funding/innovation-voucher.rst:4
+msgid "Reimbursement | Citywide / global"
+msgstr "事後精算・費用補助 | 全市／グローバル"
+
+#: ../../funding/innovation-voucher.rst:6
+msgid "Policy in force; confirm service and order"
+msgstr "政策有効（サービスおよび発注要件の確認要）"
+
+#: ../../funding/innovation-voucher.rst:8
+msgid ""
+"`Evidence S096 "
+"<https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. "
+"关于印发《上海市科技创新券管理办法》的通知."
+msgstr "`出典 S096 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. 关于印发《上海市科技创新券管理办法》的通知."
+
+#: ../../funding/innovation-voucher.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/innovation-voucher.rst:13
+msgid ""
+"Up to 50% of eligible orders; annual cap RMB 300,000 per company or RMB "
+"100,000 per team"
+msgstr "適格発注額の最大50％を助成。企業は年間最大30万元、起業チームは年間最大10万元まで"
+
+#: ../../funding/innovation-voucher.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/innovation-voucher.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/innovation-voucher.rst:20
+msgid ""
+"Qualifying technology SMEs and innovation teams using approved platform "
+"services. Service-provider qualification is separate from applicant "
+"eligibility."
+msgstr "公式プラットフォームで認定された登録サービスを利用する、資格を満たすテクノロジー型中小企業および革新起業チーム。サービス提供機関の資格認定と申請者の受給資格は別個に審査される。"
+
+#: ../../funding/innovation-voucher.rst:22
+msgid "Policy: 1 Sep 2025 to 31 Aug 2030"
+msgstr "政策有効期間：2025年9月1日〜2030年8月31日"
+
+#: ../../funding/innovation-voucher.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/innovation-voucher.rst:27
+msgid ""
+"`Official application / policy route <https://kjcxq.stcsm.sh.gov.cn/>`_"
+msgstr "`公式申請窓口／政策ポータル <https://kjcxq.stcsm.sh.gov.cn/>`_"
+
+#: ../../funding/innovation-voucher.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/innovation-voucher.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/innovation-voucher.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "バウチャーの対象区分、適用地域境界、指定サプライヤー、および対象経費の支出期間を確認する。"
+
+#: ../../funding/innovation-voucher.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "サービス契約書、発票（公式領収証）、支払い証明、および項目別利用ログを保存する。"
+
+#: ../../funding/innovation-voucher.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "指定プラットフォームの該当募集枠を利用し、所定の区または運営主体による審査を受ける。"
+
+#: ../../funding/innovation-voucher.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "承認金額、他公的補助との重複受給排除規程、および還付・交付条件を確認する。"
+
+#: ../../funding/innovation-voucher.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

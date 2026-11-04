@@ -1,0 +1,140 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/baoshan.rst:1
+msgid "Baoshan"
+msgstr "Distrito de Baoshan"
+
+#: ../../districts/baoshan.rst:4
+msgid "Robotics, advanced equipment and industrial deployment"
+msgstr "Robótica, equipamiento avanzado y despliegue industrial"
+
+#: ../../districts/baoshan.rst:6
+msgid ""
+"The district is developing a robotics and advanced equipment cluster. "
+"Separate industrial-park admission and district support reviews are "
+"needed; a factory demonstration is not a startup funding call."
+msgstr "El distrito está desarrollando un clúster de robótica y equipamiento avanzado. La admisión en parques industriales y las ayudas distritales requieren evaluaciones separadas; una demostración en fábrica no equivale a una convocatoria de financiación para startups."
+
+#: ../../districts/baoshan.rst:8
+msgid ""
+"`Evidence S092 "
+"<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
+"机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+msgstr "`Evidencia S092 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+
+#: ../../districts/baoshan.rst:10
+msgid "Who receives the inquiry"
+msgstr "Quién recibe la consulta"
+
+#: ../../districts/baoshan.rst:13
+msgid "Baoshan industry and science authorities"
+msgstr "Autoridades de industria y ciencia de Baoshan"
+
+#: ../../districts/baoshan.rst:15
+msgid "`Official district website <https://www.shbsq.gov.cn/>`_"
+msgstr "`Sitio web oficial del distrito <https://www.shbsq.gov.cn/>`_"
+
+#: ../../districts/baoshan.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "En este registro no consta un teléfono ni correo electrónico directo vigente para el programa. Utilice el sitio web oficial para solicitar los datos del equipo receptor responsable."
+
+#: ../../districts/baoshan.rst:19
+msgid "Before applying"
+msgstr "Antes de presentar la solicitud"
+
+#: ../../districts/baoshan.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../districts/baoshan.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../districts/baoshan.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../districts/baoshan.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../districts/baoshan.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../districts/baoshan.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Consulte qué convocatoria vigente rige el proyecto, si tanto el domicilio social como las operaciones reales deben radicar en el distrito, qué período de gasto resulta elegible y si la obtención previa de ayudas municipales o distritales excluye una nueva solicitud. Obtenga respuesta antes de trasladar una empresa o incurrir en costes."
+
+#: ../../districts/baoshan.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Organizaciones locales incluidas en este atlas"
+
+#: ../../districts/baoshan.rst:37
+msgid ""
+":doc:`Shanghai Robot Industrial Park </entities/robot-park>` (上海机器人产业园 · "
+"Technology park · Hardware AI, Robotics) — A robotics industrial park in "
+"Gucun, Baoshan. Suitable for industrial robotics supply chains and "
+"deployment; we distinguish it from ABB facilities in Pudong and from the "
+"broader Baoshan industrial park. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`Parque Industrial de Robótica de Shanghái </entities/robot-park>` (上海机器人产业园 · Parque tecnológico · IA de hardware, Robótica) — Parque industrial especializado en robótica situado en Gucun, Baoshan. Adecuado para cadenas de suministro y despliegue de robótica industrial; lo distinguimos de las instalaciones de ABB en Pudong y del Parque Industrial general de Baoshan. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/baoshan.rst:38
+msgid ""
+":doc:`Baoshan Industrial Park </entities/baoshan-industrial>` (宝山工业园区 · "
+"Technology park · Industry, Hardware AI) — The park committee publishes "
+"an official contact and provides industrial admission, project "
+"attraction, policy coordination and business services. This is a separate "
+"park from the Gucun robot industrial park. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Parque Industrial de Baoshan </entities/baoshan-industrial>` (宝山工业园区 · Parque tecnológico · Industria, IA de hardware) — El comité de gestión del parque publica un contacto oficial y gestiona la admisión industrial, la atracción de proyectos, la coordinación de políticas y los servicios empresariales. Es un recinto distinto del parque industrial robótico de Gucun. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/baoshan.rst:40
+msgid "Funding routes"
+msgstr "Vías de financiación"
+
+#: ../../districts/baoshan.rst:43
+msgid ""
+":doc:`Baoshan pre-investment / later equity project call "
+"</funding/baoshan-conversion>` (宝山先投后股项目征集 · Convertible support · "
+"Potential equity conversion; review contract) — Amount and conversion "
+"terms require the actual project guide and agreement. Status: Closed. "
+"Timing: Closed 10 February 2026."
+msgstr ":doc:`Convocatoria de proyectos de «inversión previa y conversión posterior en capital» de Baoshan </funding/baoshan-conversion>` (宝山先投后股项目征集 · Apoyo convertible en capital · Posible conversión en capital; revisar contrato) — El importe y las condiciones de conversión en acciones requieren consultar la guía específica del proyecto y el contrato. Estado: Plazo cerrado. Plazo: Cerrada el 10 de febrero de 2026."
+
+#: ../../districts/baoshan.rst:45
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Compare también las vías de financiación de ámbito municipal </funding>`"

@@ -1,0 +1,140 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/baoshan.rst:1
+msgid "Baoshan"
+msgstr "바오산구"
+
+#: ../../districts/baoshan.rst:4
+msgid "Robotics, advanced equipment and industrial deployment"
+msgstr "로보틱스, 첨단 장비 및 산업 현장 배치"
+
+#: ../../districts/baoshan.rst:6
+msgid ""
+"The district is developing a robotics and advanced equipment cluster. "
+"Separate industrial-park admission and district support reviews are "
+"needed; a factory demonstration is not a startup funding call."
+msgstr "바오산구는 로봇 및 첨단 장비 클러스터를 조성하고 있습니다. 산업단지 입주 승인과 구 지원금 심사는 별도로 진행되어야 하며, 공장 내 실증 프로젝트가 곧바로 스타트업을 위한 지원금 공모를 뜻하지는 않습니다."
+
+#: ../../districts/baoshan.rst:8
+msgid ""
+"`Evidence S092 "
+"<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
+"机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+msgstr "`근거 S092 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+
+#: ../../districts/baoshan.rst:10
+msgid "Who receives the inquiry"
+msgstr "문의 접수 부처"
+
+#: ../../districts/baoshan.rst:13
+msgid "Baoshan industry and science authorities"
+msgstr "바오산구 산업 및 과학기술 주무관청"
+
+#: ../../districts/baoshan.rst:15
+msgid "`Official district website <https://www.shbsq.gov.cn/>`_"
+msgstr "`구청 공식 웹사이트 <https://www.shbsq.gov.cn/>`_"
+
+#: ../../districts/baoshan.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "본 자료에는 해당 프로그램의 직통 전화나 이메일이 기재되어 있지 않습니다. 공식 웹사이트를 통해 담당 접수팀을 문의하십시오."
+
+#: ../../districts/baoshan.rst:19
+msgid "Before applying"
+msgstr "신청 전 확인 사항"
+
+#: ../../districts/baoshan.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../districts/baoshan.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../districts/baoshan.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../districts/baoshan.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../districts/baoshan.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../districts/baoshan.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "어느 최신 공고가 프로젝트에 적용되는지, 법인 등록지와 실제 사업장 모두 관할 구 내에 있어야 하는지, 인정되는 지출 대상 기간은 언제인지, 기존 시·구 단위 지원금 수혜 이력이 신청을 배제하는지 반드시 문의하십시오. 법인을 이전하거나 비용을 지출하기 전에 공식 답변을 확인해야 합니다."
+
+#: ../../districts/baoshan.rst:34
+msgid "Local organizations in this atlas"
+msgstr "본 도감에 수록된 관내 기관"
+
+#: ../../districts/baoshan.rst:37
+msgid ""
+":doc:`Shanghai Robot Industrial Park </entities/robot-park>` (上海机器人产业园 · "
+"Technology park · Hardware AI, Robotics) — A robotics industrial park in "
+"Gucun, Baoshan. Suitable for industrial robotics supply chains and "
+"deployment; we distinguish it from ABB facilities in Pudong and from the "
+"broader Baoshan industrial park. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`상하이 로봇 산업단지 </entities/robot-park>` (上海机器人产业园 · 과학기술단지 · 하드웨어 AI, 로보틱스) — 바오산구 구춘에 위치한 로봇 전문 산업단지입니다. 산업용 로봇 공급망 및 현장 적용에 적합하며, 푸둥의 ABB 시설이나 바오산 일반 산업단지와는 구분됩니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/baoshan.rst:38
+msgid ""
+":doc:`Baoshan Industrial Park </entities/baoshan-industrial>` (宝山工业园区 · "
+"Technology park · Industry, Hardware AI) — The park committee publishes "
+"an official contact and provides industrial admission, project "
+"attraction, policy coordination and business services. This is a separate "
+"park from the Gucun robot industrial park. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`바오산 산업단지 </entities/baoshan-industrial>` (宝山工业园区 · 과학기술단지 · 산업, 하드웨어 AI) — 단지 관리위원회가 공식 창구를 운영하며 산업 입주, 투자 유치, 정책 조율, 기업 지원 서비스를 제공합니다. 구춘 로봇 산업단지와는 별개의 단지입니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/baoshan.rst:40
+msgid "Funding routes"
+msgstr "자금 지원 경로"
+
+#: ../../districts/baoshan.rst:43
+msgid ""
+":doc:`Baoshan pre-investment / later equity project call "
+"</funding/baoshan-conversion>` (宝山先投后股项目征集 · Convertible support · "
+"Potential equity conversion; review contract) — Amount and conversion "
+"terms require the actual project guide and agreement. Status: Closed. "
+"Timing: Closed 10 February 2026."
+msgstr ":doc:`바오산구 '선투자 후지분' 프로젝트 공모 </funding/baoshan-conversion>` (宝山先投后股项目征集 · 조건부 지분전환 지원 · 지분 전환 가능성 있음; 계약서 검토 필요) — 공공 R&D 보조금을 선지원하고 후속 투자 유치 또는 마일스톤 달성 시 지분으로 전환하는 혁신 지원 모델. 상태: 모집 마감. 일정: 바오산구 과학기술위원회 해당 차수 공모 마감일 기준."
+
+#: ../../districts/baoshan.rst:45
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`상하이 시 전역 지원 경로와 함께 비교 </funding>`"

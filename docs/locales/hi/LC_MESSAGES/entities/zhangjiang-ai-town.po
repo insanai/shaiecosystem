@@ -1,0 +1,127 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/zhangjiang-ai-town.rst:1
+msgid "Zhangjiang AI Innovation Town"
+msgstr "झांगजियांग AI इनोवेशन टाउन (Zhangjiang AI Innovation Town)"
+
+#: ../../entities/zhangjiang-ai-town.rst:4
+msgid "张江人工智能创新小镇"
+msgstr "张江人工智能创新小镇"
+
+#: ../../entities/zhangjiang-ai-town.rst:6
+msgid "Technology park | Pudong | Research checked 2026-11-04"
+msgstr "प्रौद्योगिकी पार्क | पुडोंग (Pudong) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/zhangjiang-ai-town.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, AI for Science."
+msgstr "एआई और उद्योग फोकस: सॉफ्टवेयर AI, हार्डवेयर AI, विज्ञान के लिए AI।"
+
+#: ../../entities/zhangjiang-ai-town.rst:10
+msgid ""
+"A 2-square-kilometer core zone in Zhangjiang Science City with 700,000 "
+"sqm of industrial space, spatiotemporal digital infrastructure and linked "
+"compute, model and corpus vouchers. Confirm whether the company's "
+"registered and operating address falls inside the designated town "
+"boundary."
+msgstr "झांगजियांग साइंस सिटी में 700,000 वर्ग मीटर के औद्योगिक स्थान, स्पैटियोटेम्पोरल डिजिटल इंफ्रास्ट्रक्चर और जुड़े हुए कंप्यूट, मॉडल तथा कॉर्पस वाउचर के साथ 2-वर्ग-किलोमीटर का एक कोर ज़ोन। पुष्टि करें कि क्या कंपनी का पंजीकृत और परिचालन पता निर्दिष्ट टाउन सीमा के भीतर आता है।"
+
+#: ../../entities/zhangjiang-ai-town.rst:12
+msgid ""
+"`Evidence S056 "
+"<https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_. "
+"〖解放日报头版〗打造“全球AI逐梦者的家园”！张江人工智能创新小镇揭幕，到后年将新集聚500家以上企业_重点工作."
+msgstr "`साक्ष्य S056 <https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_. 〖解放日报头版〗打造“全球AI逐梦者的家园”！张江人工智能创新小镇揭幕，到后年将新集聚500家以上企业_重点工作."
+
+#: ../../entities/zhangjiang-ai-town.rst:14
+msgid ""
+"`Evidence S057 "
+"<https://www.pudong.gov.cn/zwgk/zwgk_zfxxgkml_atc_pf/2026/287/362043.html>`_. "
+"关于张江AI小镇时空量子城市数字底座及首期场景建设项目建设方案的批复_批复."
+msgstr "`साक्ष्य S057 <https://www.pudong.gov.cn/zwgk/zwgk_zfxxgkml_atc_pf/2026/287/362043.html>`_. 关于张江AI小镇时空量子城市数字底座及首期场景建设项目建设方案的批复_批复."
+
+#: ../../entities/zhangjiang-ai-town.rst:16
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/zhangjiang-ai-town.rst:19
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/zhangjiang-ai-town.rst:21
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/zhangjiang-ai-town.rst:23
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/zhangjiang-ai-town.rst:26
+msgid ""
+"`Official evidence and authority route "
+"<https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_"
+msgstr "`आधिकारिक साक्ष्य और प्राधिकरण मार्ग <https://www.pudong.gov.cn/zwgk/14496.gkml_zdgz/2025/268/346340.html>`_"
+
+#: ../../entities/zhangjiang-ai-town.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/zhangjiang-ai-town.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/zhangjiang-ai-town.rst:32
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/zhangjiang-ai-town.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/zhangjiang-ai-town.rst:37
+msgid "Send a project brief and request the current admission checklist."
+msgstr "परियोजना का संक्षिप्त विवरण भेजें और वर्तमान प्रवेश चेकलिस्ट का अनुरोध करें।"
+
+#: ../../entities/zhangjiang-ai-town.rst:39
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "संचालक की पात्रता और तकनीकी या वाणिज्यिक समीक्षा पूरी करें।"
+
+#: ../../entities/zhangjiang-ai-town.rst:41
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "किराया, सेवा शुल्क, IP, कंप्यूट मूल्य निर्धारण और किसी भी इक्विटी अधिकार की लिखित रूप में पुष्टि करें।"
+
+#: ../../entities/zhangjiang-ai-town.rst:43
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "सहमत प्रवेश दस्तावेजों पर हस्ताक्षर करें और मील के पत्थर तथा सहायता प्रभारियों को दर्ज करें।"
+
+#: ../../entities/zhangjiang-ai-town.rst:45
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`पुडोंग (Pudong) ज़िला मार्ग </districts/pudong>`"

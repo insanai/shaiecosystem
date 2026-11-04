@@ -1,0 +1,163 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/jiading.rst:1
+msgid "Jiading"
+msgstr "자딩구"
+
+#: ../../districts/jiading.rst:4
+msgid "Automotive intelligence, sensors, MEMS and pilot production"
+msgstr "지능형 자동차, 센서, MEMS 및 파일럿 생산"
+
+#: ../../districts/jiading.rst:6
+msgid ""
+"The municipal science commission documents the joint role of SITRI and "
+"InnoSpring in connecting research, pilot production and incubation. The "
+"2026 district service program provides policy interpretation and project "
+"coordination."
+msgstr "상하이시 과학기술위원회는 연구, 파일럿 생산 및 인큐베이션을 연계하는 상하이산업기술연구원(SITRI)과 인노스프링(InnoSpring)의 협력 역할을 기록하고 있습니다. 2026년 구 기업 서비스 프로그램은 정책 해설과 프로젝트 조정을 제공합니다."
+
+#: ../../districts/jiading.rst:8
+msgid ""
+"`Evidence S006 "
+"<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "
+"市科委、嘉定区联合调研高质量孵化器建设工作."
+msgstr "`근거 S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."
+
+#: ../../districts/jiading.rst:10
+msgid "Who receives the inquiry"
+msgstr "문의 접수 부처"
+
+#: ../../districts/jiading.rst:13
+msgid "Jiading science and technology authority"
+msgstr "자딩구 과학기술위원회"
+
+#: ../../districts/jiading.rst:15
+msgid "`Official district website <https://www.jiading.gov.cn/>`_"
+msgstr "`구청 공식 웹사이트 <https://www.jiading.gov.cn/>`_"
+
+#: ../../districts/jiading.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "본 자료에는 해당 프로그램의 직통 전화나 이메일이 기재되어 있지 않습니다. 공식 웹사이트를 통해 담당 접수팀을 문의하십시오."
+
+#: ../../districts/jiading.rst:19
+msgid "Before applying"
+msgstr "신청 전 확인 사항"
+
+#: ../../districts/jiading.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../districts/jiading.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../districts/jiading.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../districts/jiading.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../districts/jiading.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../districts/jiading.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "어느 최신 공고가 프로젝트에 적용되는지, 법인 등록지와 실제 사업장 모두 관할 구 내에 있어야 하는지, 인정되는 지출 대상 기간은 언제인지, 기존 시·구 단위 지원금 수혜 이력이 신청을 배제하는지 반드시 문의하십시오. 법인을 이전하거나 비용을 지출하기 전에 공식 답변을 확인해야 합니다."
+
+#: ../../districts/jiading.rst:34
+msgid "Local organizations in this atlas"
+msgstr "본 도감에 수록된 관내 기관"
+
+#: ../../districts/jiading.rst:37
+msgid ""
+":doc:`InnoSpring / SITRI incubation ecosystem </entities/innospring>` "
+"(新微创源／上海微技术工研院孵化生态 · Incubator · Hardware AI, Chips, Sensors) — The "
+"municipal science commission records joint work between InnoSpring and "
+"SITRI. This is a route for beyond-Moore technology, shared technical "
+"services and pilot production rather than a promise of free fabrication. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`신웨이촹위안 / SITRI 인큐베이션 생태계 </entities/innospring>` (新微创源／上海微技术工研院孵化生态 · 인큐베이터 · 하드웨어 AI, 반도체 칩, 센서) — 상하이시 과학기술위원회가 기록한 신웨이촹위안(InnoSpring)과 상하이마이크로기술공업연구원(SITRI)의 협력 생태계입니다. '비욘드 무어(Beyond-Moore)' 기술, 공용 기술 서비스 및 파일럿 생산 연계에 적합하며, 무료 웨이퍼 제작(테이프아웃)을 보장하는 것은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/jiading.rst:38
+msgid ""
+":doc:`Tongji PAI Research Center </entities/tongji-pai>` (同济大学PAI研究中心 · "
+"Research platform · Hardware AI, Sensors) — The center publishes an "
+"industry collaboration entry for localization, sensing, communication and "
+"trusted coordination. We use its cooperation contact rather than assuming "
+"access through general university admissions. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`퉁지대학교 PAI 연구센터 </entities/tongji-pai>` (同济大学PAI研究中心 · 연구 플랫폼 · 하드웨어 AI, 센서) — 정밀 측위, 환경 감지, 통신, 신뢰 컴퓨팅 분야의 산학 협력 채널을 공식 운영합니다. 일반 입학 전형 창구가 아닌 연구 협력 전담 부서를 통해 소통해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/jiading.rst:39
+msgid ""
+":doc:`Xihe Optic Valley Optoelectronic Incubator </entities/xihe-optics>` "
+"(羲和光谷光电产业孵化器 · Incubator · Hardware AI, Sensors, Chips) — An "
+"optoelectronic and photonics incubator launched in Jiading in November "
+"2025 to support scientist-founded teams in optical sensing, laser systems "
+"and AI hardware components. Confirm optical lab equipment, engineering "
+"support and commercial terms before admission. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`시허 광곡 광전산업 인큐베이터 </entities/xihe-optics>` (羲和光谷光电产业孵化器 · 인큐베이터 · 하드웨어 AI, 센서, 반도체 칩) — 2025년 11월 자딩구에 설립된 광전자·포토닉스 전문 인큐베이터로 광학 센싱, 레이저 시스템, AI 하드웨어 부품 분야의 과학자 창업팀을 지원합니다. 입주 전 광학 실험 장비, 엔지니어링 지원, 상업 조건을 확인해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/jiading.rst:40
+msgid ""
+":doc:`Shanghai Normal University Tianhua College "
+"</entities/university-tianhua>` (上海师范大学天华学院 · University) — Institutional "
+"entry in the June 2026 Ministry of Education register. Suggested "
+"collaboration themes: Applied education, engineering and digital "
+"business. These themes are editorial routing guidance, not a verified "
+"offer of laboratory access or startup funding. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`상하이사범대학교 톈화학원 </entities/university-tianhua>` (上海师范大学天华学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 응용 교육학, 스마트 엔지니어링, 디지털 비즈니스. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/jiading.rst:42
+msgid "Funding routes"
+msgstr "자금 지원 경로"
+
+#: ../../districts/jiading.rst:45
+msgid ""
+":doc:`Jiading Future Industry Fund </funding/jiading-future-fund>` "
+"(嘉定未来产业基金 · Equity investment · Negotiated equity) — Announced fund scale "
+"RMB 800 million; individual investment not established. Status: Fund "
+"announced; deal intake to confirm. Timing: Manager-led sourcing; current "
+"deal intake to confirm."
+msgstr ":doc:`자딩 미래산업 펀드 </funding/jiading-future-fund>` (嘉定未来产业基金 · 지분 투자 · 협의 지분율 적용) — 스마트 모빌리티, 첨단 센서, 차세대 에너지, 포토닉스 분야의 시장 기반 지분투자 지원. 상태: 펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요. 일정: 펀드 운용사 공식 접수 및 투자 심의 절차 준용."
+
+#: ../../districts/jiading.rst:47
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`상하이 시 전역 지원 경로와 함께 비교 </funding>`"

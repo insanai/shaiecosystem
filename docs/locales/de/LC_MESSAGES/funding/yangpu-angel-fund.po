@@ -1,0 +1,112 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/yangpu-angel-fund.rst:1
+msgid "Yangpu Dream Start Angel Co-investment Fund"
+msgstr "Angel-Koinvestitionsfonds „Dream Start“ Yangpu"
+
+#: ../../funding/yangpu-angel-fund.rst:4
+msgid "Equity investment | Yangpu"
+msgstr "Eigenkapitalinvestition | Bezirk Yangpu"
+
+#: ../../funding/yangpu-angel-fund.rst:6
+msgid "Published investment platform; deal review"
+msgstr "Investitionsplattform veröffentlicht; Projektprüfung erforderlich"
+
+#: ../../funding/yangpu-angel-fund.rst:8
+msgid ""
+"`Evidence S123 "
+"<https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_. "
+"杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府."
+msgstr "`Nachweis S123 <https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_. 杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府."
+
+#: ../../funding/yangpu-angel-fund.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/yangpu-angel-fund.rst:13
+msgid ""
+"District state-backed early-stage equity co-investment; individual cheque "
+"subject to investment committee review"
+msgstr "Bezirkliche staatliche Co-Investitionen für die Frühphase; Einzelbeteiligungen nach Begutachtung durch den Investitionsausschuss"
+
+#: ../../funding/yangpu-angel-fund.rst:15
+msgid "Negotiated equity"
+msgstr "Verhandlungsbasierte Beteiligung"
+
+#: ../../funding/yangpu-angel-fund.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/yangpu-angel-fund.rst:20
+msgid ""
+"Early-stage hard-tech, quantum computing, brain-inspired AI and "
+"university spinout enterprises settling or operating in Yangpu alongside "
+"qualifying lead investors."
+msgstr "Technologie-Startups in den Bereichen Hard-Tech, Quantencomputing, neuromorphe KI und universitäre Ausgründungen, die sich in Yangpu ansiedeln oder dort operieren und über eine Zusage eines anerkannten Lead-Investors verfügen."
+
+#: ../../funding/yangpu-angel-fund.rst:22
+msgid "Manager-led sourcing and due diligence"
+msgstr "Projektakquise und Due-Diligence-Prüfung erfolgen fortlaufend durch das Fondsmanagement"
+
+#: ../../funding/yangpu-angel-fund.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/yangpu-angel-fund.rst:27
+msgid "`Official application / policy route <https://www.shyp.gov.cn/>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://www.shyp.gov.cn/>`_"
+
+#: ../../funding/yangpu-angel-fund.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "Die verlinkte Behörde bzw. der Träger ist der offizielle Kontaktweg. Ein direkter Programm-Ansprechpartner ist in diesem Profil nicht hinterlegt."
+
+#: ../../funding/yangpu-angel-fund.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/yangpu-angel-fund.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "Fondsmanager, Branchenfokus, Reifegrad und Eignung der Unternehmensstruktur abgleichen."
+
+#: ../../funding/yangpu-angel-fund.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "Pitchdeck, Gesellschafterliste (Cap Table), Technologiebelege, Markttraktion und Finanzierungsplan vorlegen."
+
+#: ../../funding/yangpu-angel-fund.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "Die kaufmännische, finanzielle, technische und rechtliche Due-Diligence-Prüfung durchlaufen."
+
+#: ../../funding/yangpu-angel-fund.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "Term Sheet, Auflagen des Investitionskomitees und finale Beteiligungsverträge verhandeln."
+
+#: ../../funding/yangpu-angel-fund.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

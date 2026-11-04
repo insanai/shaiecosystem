@@ -1,0 +1,146 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/university-fudan.rst:1
+msgid "Fudan University"
+msgstr "फुदान विश्वविद्यालय (Fudan University)"
+
+#: ../../entities/university-fudan.rst:4
+msgid "复旦大学"
+msgstr "复旦大学"
+
+#: ../../entities/university-fudan.rst:6
+msgid "University | Yangpu | Research checked 2026-11-04"
+msgstr "विश्वविद्यालय | यांगपू (Yangpu) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/university-fudan.rst:8
+msgid "Ministry of Education institution code: 4131010246."
+msgstr "शिक्षा मंत्रालय संस्थान कोड: 4131010246।"
+
+#: ../../entities/university-fudan.rst:10
+msgid ""
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Software AI, chips, AI for Science. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding."
+msgstr "जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सॉफ्टवेयर AI, चिप्स, विज्ञान के लिए AI (AI for Science)। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव।"
+
+#: ../../entities/university-fudan.rst:12
+msgid ""
+"`Evidence S074 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. "
+"Contact."
+msgstr "`साक्ष्य S074 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. Contact."
+
+#: ../../entities/university-fudan.rst:14
+msgid ""
+"`Evidence S075 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - "
+"部门设置（联系方式） - 复旦大学科学技术研究院."
+msgstr "`साक्ष्य S075 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院."
+
+#: ../../entities/university-fudan.rst:16
+msgid ""
+"`Evidence S076 "
+"<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+"全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`साक्ष्य S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+
+#: ../../entities/university-fudan.rst:18
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/university-fudan.rst:21
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/university-fudan.rst:23
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/university-fudan.rst:25
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/university-fudan.rst:28
+msgid ""
+"University switchboard and Office of Science & Technology Research "
+"Technology Transfer Center"
+msgstr "विश्वविद्यालय स्विचबोर्ड और विज्ञान एवं प्रौद्योगिकी अनुसंधान कार्यालय प्रौद्योगिकी हस्तांतरण केंद्र"
+
+#: ../../entities/university-fudan.rst:30
+msgid "`Official website / intake route <https://www.fudan.edu.cn/>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://www.fudan.edu.cn/>`_"
+
+#: ../../entities/university-fudan.rst:32
+msgid "Telephone: +86 21 65642222."
+msgstr "टेलीफ़ोन: +86 21 65642222।"
+
+#: ../../entities/university-fudan.rst:34
+msgid "Published address: 220 Handan Road, Yangpu."
+msgstr "प्रकाशित पता: 220 हनदान रोड, यांगपू।"
+
+#: ../../entities/university-fudan.rst:36
+msgid ""
+"Map point is approximate, based on the published street context; it is "
+"not an entrance or navigation coordinate."
+msgstr "मानचित्र बिंदु प्रकाशित सड़क संदर्भ के आधार पर अनुमानित है; यह कोई प्रवेश द्वार या नेविगेशन निर्देशांक नहीं है।"
+
+#: ../../entities/university-fudan.rst:38
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/university-fudan.rst:41
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/university-fudan.rst:43
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "प्रासंगिक अनुसंधान समूह खोजें और वैज्ञानिक या औद्योगिक समस्या बताएं।"
+
+#: ../../entities/university-fudan.rst:45
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "डेटा, उपकरण, आउटपुट, फंडिंग और समय-सीमा को कवर करने वाला एक संक्षिप्त प्रस्ताव भेजें।"
+
+#: ../../entities/university-fudan.rst:47
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "सहयोग मार्ग, प्रकाशन, IP और संस्थागत प्राधिकरण पर सहमति बनाएं।"
+
+#: ../../entities/university-fudan.rst:49
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "काम शुरू करने से पहले लिखित पहुंच या परियोजना अनुमोदन प्राप्त करें।"
+
+#: ../../entities/university-fudan.rst:51
+msgid ""
+"Confirm whether external founders can apply, whether student or alumni "
+"status is required, who owns the research IP, and whether support is a "
+"service, a loan, a grant or equity. The thematic match in this profile is "
+"editorial guidance."
+msgstr "पुष्टि करें कि क्या बाहरी संस्थापक आवेदन कर सकते हैं, क्या छात्र या पूर्व छात्र (alumni) स्थिति आवश्यक है, अनुसंधान IP का स्वामी कौन है, और क्या सहायता एक सेवा, ऋण, अनुदान या इक्विटी है। इस प्रोफाइल में विषयगत मिलान संपादकीय मार्गदर्शन है।"
+
+#: ../../entities/university-fudan.rst:53
+msgid ":doc:`Yangpu district route </districts/yangpu>`"
+msgstr ":doc:`यांगपू (Yangpu) ज़िला मार्ग </districts/yangpu>`"

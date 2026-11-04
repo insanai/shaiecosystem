@@ -1,0 +1,119 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/municipal-ai-vouchers.rst:1
+msgid "Shanghai AI compute, Token and corpus vouchers, 2026"
+msgstr "Städtische Gutscheine für Rechenleistung, Token und Sprachkorpora Shanghai 2026"
+
+#: ../../funding/municipal-ai-vouchers.rst:4
+msgid "Reimbursement | Citywide / global"
+msgstr "Kostenerstattung | Stadtweit / global"
+
+#: ../../funding/municipal-ai-vouchers.rst:6
+msgid "First 2026 batch closed; later batches to verify"
+msgstr "Erste Tranche 2026 geschlossen; Folgetranchen zu prüfen"
+
+#: ../../funding/municipal-ai-vouchers.rst:8
+msgid ""
+"`Evidence S104 "
+"<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
+"上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`Nachweis S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+
+#: ../../funding/municipal-ai-vouchers.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/municipal-ai-vouchers.rst:13
+msgid "Award depends on applicable category and assessment"
+msgstr "Förderbetrag richtet sich nach Förderkategorie und behördlicher Begutachtung"
+
+#: ../../funding/municipal-ai-vouchers.rst:15
+msgid "No equity"
+msgstr "Ohne Anteilsabgabe"
+
+#: ../../funding/municipal-ai-vouchers.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/municipal-ai-vouchers.rst:20
+msgid ""
+"Qualifying Shanghai AI model or agent developers and users purchasing "
+"eligible non-related-party services. Projects already receiving other "
+"municipal fiscal subsidy are excluded."
+msgstr "Qualifizierte Entwickler und gewerbliche Nutzer von KI-Großmodellen oder KI-Agenten in Shanghai, die anerkannte Dienste von unabhängigen Dritten (keine verbundenen Unternehmen) beschaffen. Vorhaben mit sonstigen städtischen Finanzhilfen sind ausgeschlossen."
+
+#: ../../funding/municipal-ai-vouchers.rst:22
+msgid ""
+"First batch closed 27 May 2026, 16:00 China Standard Time; notice plans "
+"quarterly follow-ups"
+msgstr "Die erste Antragsrunde endete am 27. Mai 2026 um 16:00 Uhr CST; Folgeaufrufe sind quartalsweise vorgesehen"
+
+#: ../../funding/municipal-ai-vouchers.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/municipal-ai-vouchers.rst:27
+msgid ""
+"`Official application / policy route <https://zxzj.sheitc.sh.gov.cn/>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://zxzj.sheitc.sh.gov.cn/>`_"
+
+#: ../../funding/municipal-ai-vouchers.rst:29
+msgid "Published consultation: +86 21 23119377."
+msgstr "Veröffentlichte Beratungstelefonnummer: +86 21 23119377."
+
+#: ../../funding/municipal-ai-vouchers.rst:31
+msgid "`zxzj@sheitc.sh.gov.cn <mailto:zxzj@sheitc.sh.gov.cn>`_"
+msgstr "`zxzj@sheitc.sh.gov.cn <mailto:zxzj@sheitc.sh.gov.cn>`_"
+
+#: ../../funding/municipal-ai-vouchers.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/municipal-ai-vouchers.rst:35
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "Gutscheinkategorie, räumliche Grenzen, anerkannte Dienstleister und förderfähigen Zeitraum prüfen."
+
+#: ../../funding/municipal-ai-vouchers.rst:37
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "Dienstleistungsverträge, Rechnungen, Zahlungsnachweise und detaillierte Nutzungsberichte aufbewahren."
+
+#: ../../funding/municipal-ai-vouchers.rst:39
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "Die festgelegte Plattform und Antragsrunde nutzen sowie die Prüfung durch Bezirk oder Betreiber durchlaufen."
+
+#: ../../funding/municipal-ai-vouchers.rst:41
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "Bewilligungssumme, Ausschluss von Mehrfachförderung und Auszahlungsmodalitäten kontrollieren."
+
+#: ../../funding/municipal-ai-vouchers.rst:43
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

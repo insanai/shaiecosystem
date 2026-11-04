@@ -1,0 +1,115 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/sapio.rst:1
+msgid "SAP.iO Foundry Shanghai"
+msgstr "SAP.iO 파운드리 상하이"
+
+#: ../../entities/sapio.rst:4
+msgid "SAP.iO上海加速器"
+msgstr "SAP.iO上海加速器"
+
+#: ../../entities/sapio.rst:6
+msgid "Corporate program | Pudong | Research checked 2026-11-04"
+msgstr "기업 혁신 프로그램 | 푸둥 신구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/sapio.rst:8
+msgid "AI and industry focus: Software AI, Industry."
+msgstr "AI 및 산업 분야: 소프트웨어 AI, 산업."
+
+#: ../../entities/sapio.rst:10
+msgid ""
+"The 2021 launch described an equity-free intelligent-manufacturing "
+"accelerator. It is included as a historical corporate route; the source "
+"does not establish a 2026 Shanghai intake."
+msgstr "2021년 출범 당시 지분을 요구하지 않는 스마트 제조 액셀러레이터로 소개되었습니다. 대기업 협력 사례로 등재되어 있으나, 2026년 상하이 신규 기수 선발 여부는 공식 출처로 확인되지 않았습니다."
+
+#: ../../entities/sapio.rst:12
+msgid ""
+"`Evidence S035 <https://news.sap.cn/2021/12/120301/>`_. "
+"SAP.iO初创企业加速器首次落地中国 - SAP 中国资讯中心."
+msgstr "`근거 S035 <https://news.sap.cn/2021/12/120301/>`_. SAP.iO初创企业加速器首次落地中国 - SAP 中国资讯中心."
+
+#: ../../entities/sapio.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/sapio.rst:17
+msgid "Historical / confirm continuation"
+msgstr "기존 프로그램; 지속 여부 확인 필요"
+
+#: ../../entities/sapio.rst:19
+msgid "Funding mechanism: Equity-free services."
+msgstr "지원 메커니즘: 지분 요구 없는 서비스 지원."
+
+#: ../../entities/sapio.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/sapio.rst:24
+msgid ""
+"`Official website / intake route <https://news.sap.cn/2021/12/120301/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://news.sap.cn/2021/12/120301/>`_"
+
+#: ../../entities/sapio.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/sapio.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/sapio.rst:30
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/sapio.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/sapio.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "기업 내 사업 책임자(Business Owner)와 측정 가능한 구체적 도입 사례 1건을 특정한다."
+
+#: ../../entities/sapio.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "제품 소개서, 파일럿 실증 데이터 및 관련 기술 요구사항을 제출한다."
+
+#: ../../entities/sapio.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "정기 배치 모집 여부를 확인하거나 파일럿 실증 범위, 데이터 권리, 지식재산권(IP) 조건을 협의한다."
+
+#: ../../entities/sapio.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "조달 프로세스, 대금 지급 일정, 검수 절차 및 양산 전환 결정을 독립된 단계로 검토한다."
+
+#: ../../entities/sapio.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`푸둥 신구 경로 안내 </districts/pudong>`"

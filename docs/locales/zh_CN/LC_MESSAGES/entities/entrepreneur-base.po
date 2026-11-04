@@ -1,0 +1,118 @@
+# zh_CN translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/entrepreneur-base.rst:1
+msgid "China (Shanghai) Public Practicing Base for Entrepreneurs"
+msgstr "中国（上海）创业者公共实训基地"
+
+#: ../../entities/entrepreneur-base.rst:4
+msgid "中国（上海）创业者公共实训基地"
+msgstr "中国（上海）创业者公共实训基地"
+
+#: ../../entities/entrepreneur-base.rst:6
+msgid "Incubator | Yangpu | Research checked 2026-11-04"
+msgstr "孵化器｜杨浦区｜研究核对日期 2026-11-04"
+
+#: ../../entities/entrepreneur-base.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Industry."
+msgstr "人工智能与产业方向：软件人工智能、硬件人工智能、产业。"
+
+#: ../../entities/entrepreneur-base.rst:10
+msgid ""
+"A municipal HRSS-backed public entrepreneurship training, prototyping and "
+"incubation base in Yangpu linking founder skills training, product trial "
+"spaces and startup service agencies."
+msgstr "位于杨浦的市人社公共创业实训与孵化基地，提供创业培训、产品试制空间与创业服务机构对接。"
+
+#: ../../entities/entrepreneur-base.rst:12
+msgid ""
+"`Evidence S063 "
+"<https://rsj.sh.gov.cn/t2025jnzlpx_17865/20250616/t0035_1433168.html>`_. "
+"中国（上海）创业者公共实训基地_技能照亮前程-培训实训_上海市人力资源和社会保障局."
+msgstr "`证据 S063 <https://rsj.sh.gov.cn/t2025jnzlpx_17865/20250616/t0035_1433168.html>`_. 中国（上海）创业者公共实训基地_技能照亮前程-培训实训_上海市人力资源和社会保障局."
+
+#: ../../entities/entrepreneur-base.rst:14
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/entrepreneur-base.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/entrepreneur-base.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/entrepreneur-base.rst:21
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/entrepreneur-base.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://rsj.sh.gov.cn/t2025jnzlpx_17865/20250616/t0035_1433168.html>`_"
+msgstr "`官方来源与主管部门入口 <https://rsj.sh.gov.cn/t2025jnzlpx_17865/20250616/t0035_1433168.html>`_"
+
+#: ../../entities/entrepreneur-base.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/entrepreneur-base.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/entrepreneur-base.rst:30
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/entrepreneur-base.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/entrepreneur-base.rst:35
+msgid "Send a project brief and request the current admission checklist."
+msgstr "发送项目简介，索取现行入驻清单。"
+
+#: ../../entities/entrepreneur-base.rst:37
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "完成运营方资格及技术或商业评审。"
+
+#: ../../entities/entrepreneur-base.rst:39
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "书面确认租金、服务费、知识产权、算力价格及任何股权权利。"
+
+#: ../../entities/entrepreneur-base.rst:41
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "签署入驻文件，记录里程碑与服务负责人。"
+
+#: ../../entities/entrepreneur-base.rst:43
+msgid ":doc:`Yangpu district route </districts/yangpu>`"
+msgstr ":doc:`杨浦区对接路径 </districts/yangpu>`"

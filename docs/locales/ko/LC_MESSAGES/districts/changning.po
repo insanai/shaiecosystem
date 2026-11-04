@@ -1,0 +1,147 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/changning.rst:1
+msgid "Changning"
+msgstr "창닝구"
+
+#: ../../districts/changning.rst:4
+msgid "Digital business, AI applications and cross-border services"
+msgstr "디지털 커머스, AI 응용 서비스 및 크로스보더 비즈니스"
+
+#: ../../districts/changning.rst:6
+msgid ""
+"The August 2026 district account identifies Digital Silicon Alley, "
+"Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
+"MAKE021 as parts of its incubation landscape. Confirm the correct "
+"operator before submitting."
+msgstr "2026년 8월 구 공식 발표에 따르면 디지털 실리콘앨리, 훙차오 즈위, 동훙차오 국제 청년 혁신센터, MAKE021 등이 인큐베이션 거점으로 지정되어 있습니다. 신청 전 해당 거점의 실제 운영사를 확인하십시오."
+
+#: ../../districts/changning.rst:8
+msgid ""
+"`Evidence S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. "
+"上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+msgstr "`근거 S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. 上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+
+#: ../../districts/changning.rst:10
+msgid "Who receives the inquiry"
+msgstr "문의 접수 부처"
+
+#: ../../districts/changning.rst:13
+msgid "Changning science and technology authority"
+msgstr "창닝구 과학기술위원회"
+
+#: ../../districts/changning.rst:15
+msgid "`Official district website <https://www.shcn.gov.cn/>`_"
+msgstr "`구청 공식 웹사이트 <https://www.shcn.gov.cn/>`_"
+
+#: ../../districts/changning.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "본 자료에는 해당 프로그램의 직통 전화나 이메일이 기재되어 있지 않습니다. 공식 웹사이트를 통해 담당 접수팀을 문의하십시오."
+
+#: ../../districts/changning.rst:19
+msgid "Before applying"
+msgstr "신청 전 확인 사항"
+
+#: ../../districts/changning.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../districts/changning.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../districts/changning.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../districts/changning.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../districts/changning.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../districts/changning.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "어느 최신 공고가 프로젝트에 적용되는지, 법인 등록지와 실제 사업장 모두 관할 구 내에 있어야 하는지, 인정되는 지출 대상 기간은 언제인지, 기존 시·구 단위 지원금 수혜 이력이 신청을 배제하는지 반드시 문의하십시오. 법인을 이전하거나 비용을 지출하기 전에 공식 답변을 확인해야 합니다."
+
+#: ../../districts/changning.rst:34
+msgid "Local organizations in this atlas"
+msgstr "본 도감에 수록된 관내 기관"
+
+#: ../../districts/changning.rst:37
+msgid ""
+":doc:`Digital Silicon Alley / Hongqiao innovation carriers "
+"</entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Incubator · Software AI) — "
+"Changning identifies a layered group of digital incubation and OPC "
+"communities. We treat this record as a district routing entry, not a "
+"single interchangeable operator or a guaranteed free-workspace offer. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`디지털 실리콘앨리 / 훙차오 혁신 캐리어 </entities/digital-silicon>` (数字硅巷／虹桥创新载体 · 인큐베이터 · 소프트웨어 AI) — 창닝구가 구축한 다층적 디지털 인큐베이션 및 1인 기업(OPC) 커뮤니티입니다. 본 항목은 구 단위 연계 경로를 안내하는 것으로, 단일 통합 운영사가 아니며 무료 입주 공간 제공을 보장하지 않습니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/changning.rst:38
+msgid ""
+":doc:`East Hongqiao International Youth Innovation Center "
+"</entities/east-hongqiao>` (东虹桥国际青年科创中心 · Incubator · Software AI) — "
+"Changning's official May 2026 account describes a hub for AI-enabled "
+"independent founders, combining incubation, AI services, talent support "
+"and global business resources. Confirm the current operator's selection "
+"and service terms. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`동훙차오 국제 청년 과기혁신센터 </entities/east-hongqiao>` (东虹桥国际青年科创中心 · 인큐베이터 · 소프트웨어 AI) — 창닝구의 2026년 5월 공식 발표에 따르면 AI 기반 1인 창업가(OPC)를 위한 혁신 거점으로 인큐베이션, AI 서비스, 인재 지원, 글로벌 비즈니스 자원을 결합합니다. 현재 위탁 운영사의 선발 기준 및 서비스 조건을 확인해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/changning.rst:40
+msgid "Funding routes"
+msgstr "자금 지원 경로"
+
+#: ../../districts/changning.rst:43
+msgid ""
+":doc:`Changning AI Industry Projects, 2026 </funding/changning-ai-2026>` "
+"(2026长宁人工智能产业项目 · Grant · No equity) — Project-specific support after "
+"assessment; no common ceiling established. Status: Closed. Timing: Closed "
+"30 June 2026."
+msgstr ":doc:`2026년 창닝구 인공지능 산업 프로젝트 </funding/changning-ai-2026>` (2026长宁人工智能产业项目 · 보조금 · 지분 취득 없음) — 창닝구 산업 특화 정책에 따른 프로젝트 평가 기반의 차등 보조금 지원. 상태: 모집 마감. 일정: 2026년도 창닝구 과학기술위원회 산업 공고 확인 필요."
+
+#: ../../districts/changning.rst:44
+msgid ""
+":doc:`Changning Technology Star Teams, 2026 "
+"</funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · No equity) — "
+"Funding for assessed and recognized teams under the district talent fund "
+"plan. Status: Closed. Timing: Closed 26 June 2026."
+msgstr ":doc:`2026년 창닝구 과학기술 스타팀 </funding/changning-tech-star>` (2026长宁科技之星团队 · 보조금 · 지분 취득 없음) — 우수 기술 혁신 및 산업화 팀 대상 장려금 및 R&D 프로젝트 지원금. 상태: 모집 마감. 일정: 2026년도 창닝구 인재 및 과기 공고 일정 확인 필요."
+
+#: ../../districts/changning.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`상하이 시 전역 지원 경로와 함께 비교 </funding>`"

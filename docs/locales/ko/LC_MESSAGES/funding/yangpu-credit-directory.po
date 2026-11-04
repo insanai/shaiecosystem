@@ -1,0 +1,113 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/yangpu-credit-directory.rst:1
+msgid "Yangpu financing and credit service platform"
+msgstr "양푸구 융자 신용 서비스 플랫폼"
+
+#: ../../funding/yangpu-credit-directory.rst:4
+msgid "Loan | Yangpu"
+msgstr "대출 | 양푸구"
+
+#: ../../funding/yangpu-credit-directory.rst:6
+msgid "Published directory; lender review"
+msgstr "공시된 목록; 대출 기관 심사 필요"
+
+#: ../../funding/yangpu-credit-directory.rst:8
+msgid "`Evidence S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+msgstr "`근거 S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+
+#: ../../funding/yangpu-credit-directory.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/yangpu-credit-directory.rst:13
+msgid ""
+"Product-specific technology credit and IP finance; no universal ceiling"
+msgstr "기업 신용 평가 기반의 간편 저금리 대출, 정책형 금융 보증 및 이차보전 지원"
+
+#: ../../funding/yangpu-credit-directory.rst:15
+msgid "No equity; repayable"
+msgstr "지분 취득 없음; 상환 의무 있음"
+
+#: ../../funding/yangpu-credit-directory.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/yangpu-credit-directory.rst:20
+msgid ""
+"Use the district platform to identify an actual lender and product. "
+"Technology performance-guarantee lending, IP-backed products and "
+"guarantees have different duties and underwriting conditions."
+msgstr "양푸구에 사업장을 두고 안정적인 사업 및 혁신을 추진하는 과기형 스타트업 및 소기업."
+
+#: ../../funding/yangpu-credit-directory.rst:22
+msgid "Product-specific; confirm current lender terms"
+msgstr "구 금융 당국 및 협력 금융기관 상시 상담 창구 운영"
+
+#: ../../funding/yangpu-credit-directory.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/yangpu-credit-directory.rst:27
+msgid ""
+"`Official application / policy route <https://xyd.shyp.gov.cn/finance>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://xyd.shyp.gov.cn/finance>`_"
+
+#: ../../funding/yangpu-credit-directory.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/yangpu-credit-directory.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/yangpu-credit-directory.rst:33
+msgid ""
+"Select the current bank or public guarantee product and check borrower "
+"eligibility."
+msgstr "현재 취급 중인 은행 또는 공공 신용보증 상품을 선택하고 차주 적격 요건을 심사한다."
+
+#: ../../funding/yangpu-credit-directory.rst:35
+msgid ""
+"Prepare accounts, cash-flow forecast, ownership and requested security "
+"documents."
+msgstr "재무제표, 현금흐름 전망치, 지분 구조도 및 요구되는 담보 서류를 준비한다."
+
+#: ../../funding/yangpu-credit-directory.rst:37
+msgid ""
+"Complete lender and guarantee assessment; compare all costs and repayment "
+"terms."
+msgstr "대출 기관 및 보증 기관 심사를 완료하고 총 소요 비용과 상환 일정을 면밀히 비교한다."
+
+#: ../../funding/yangpu-credit-directory.rst:39
+msgid ""
+"Sign and track debt service; claim interest support only if independently "
+"eligible."
+msgstr "대출 계약을 체결하고 원리금 상환을 관리하며, 이차보전(이자 지원)은 별도 자격을 갖춘 경우에만 신청한다."
+
+#: ../../funding/yangpu-credit-directory.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

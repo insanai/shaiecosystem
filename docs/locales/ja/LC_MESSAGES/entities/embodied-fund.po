@@ -1,0 +1,116 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/embodied-fund.rst:1
+msgid "Shanghai Embodied AI Fund"
+msgstr "上海具身知能（身体性AI）基金"
+
+#: ../../entities/embodied-fund.rst:4
+msgid "上海具身智能基金"
+msgstr "上海具身智能基金"
+
+#: ../../entities/embodied-fund.rst:6
+msgid "Investor | Pudong | Research checked 2026-11-04"
+msgstr "投資機関・投資家｜浦東新区｜調査確認日 2026-11-04"
+
+#: ../../entities/embodied-fund.rst:8
+msgid "AI and industry focus: Hardware AI, Robotics, Sensors."
+msgstr "AIおよび産業フォーカス：ハードウェアAI、ロボティクス、センサー。"
+
+#: ../../entities/embodied-fund.rst:10
+msgid ""
+"A state-backed embodied-intelligence investment route announced in April "
+"2025, including core components and edge chips. Confirm the current "
+"manager and investment mandate; no uniform cheque size or ownership "
+"percentage is established here."
+msgstr "2025年4月に発表された国有の身体性AI特化投資ルートで、コアコンポーネントやエッジAIチップも対象。現行の運用管理会社および投資対象領域の確認が必要であり、一律の投資額や出資比率が設定されているわけではない。"
+
+#: ../../entities/embodied-fund.rst:12
+msgid ""
+"`Evidence S046 "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_. "
+"上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态."
+msgstr "`出典 S046 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_. 上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态."
+
+#: ../../entities/embodied-fund.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/embodied-fund.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/embodied-fund.rst:19
+msgid "Funding mechanism: Equity investment."
+msgstr "資金・支援スキーム：株式投資・出資。"
+
+#: ../../entities/embodied-fund.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/embodied-fund.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_"
+msgstr "`公式エビデンス（典拠）および主管機関窓口 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_"
+
+#: ../../entities/embodied-fund.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/embodied-fund.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/embodied-fund.rst:30
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/embodied-fund.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/embodied-fund.rst:35
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "ファンド運用者、投資対象セクター、ステージ、および法人格の適格性を確認する。"
+
+#: ../../entities/embodied-fund.rst:37
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "ピッチ資料、資本政策表（キャップテーブル）、技術的実証データ、事業進捗実績（トラクション）、および資金調達計画を提出する。"
+
+#: ../../entities/embodied-fund.rst:39
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "ビジネス、財務、技術、および法務のデューデリジェンスを完了する。"
+
+#: ../../entities/embodied-fund.rst:41
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "投資条件概要書（タームシート）、投資委員会の決議条件、および最終投資契約書を精査する。"
+
+#: ../../entities/embodied-fund.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`浦東新区の案内ルート </districts/pudong>`"

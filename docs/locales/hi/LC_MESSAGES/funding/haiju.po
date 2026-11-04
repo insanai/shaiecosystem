@@ -1,0 +1,112 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/haiju.rst:1
+msgid "Haiju Talent Global Innovation Competition"
+msgstr "हाइजू टैलेंट ग्लोबल इनोवेशन कॉम्पिटिशन"
+
+#: ../../funding/haiju.rst:4
+msgid "Competition | Citywide / global"
+msgstr "प्रतियोगिता | शहर-व्यापी / वैश्विक"
+
+#: ../../funding/haiju.rst:6
+msgid "2026 competition published; track intake to confirm"
+msgstr "2026 प्रतियोगिता प्रकाशित; ट्रैक प्रवेश की पुष्टि शेष"
+
+#: ../../funding/haiju.rst:8
+msgid ""
+"`Evidence S101 <https://www.hello-sh.com/haijuTalent/competition>`_. "
+"海聚英才官网."
+msgstr "`साक्ष्य S101 <https://www.hello-sh.com/haijuTalent/competition>`_. 海聚英才官网."
+
+#: ../../funding/haiju.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/haiju.rst:13
+msgid "Track-specific awards, introductions and services"
+msgstr "ट्रैक-विशिष्ट पुरस्कार, परिचय और सेवाएं"
+
+#: ../../funding/haiju.rst:15
+msgid "Award / investment terms vary"
+msgstr "पुरस्कार / निवेश की शर्तें भिन्न होती हैं"
+
+#: ../../funding/haiju.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/haiju.rst:20
+msgid ""
+"Apply through the official competition portal and qualifying division. "
+"District selection and final competition do not establish automatic "
+"funding or immigration status."
+msgstr "आधिकारिक प्रतियोगिता पोर्टल और अर्हकारी प्रभाग के माध्यम से आवेदन करें। जिला चयन और अंतिम प्रतियोगिता स्वतः फंडिंग या आव्रजन स्थिति स्थापित नहीं करते हैं।"
+
+#: ../../funding/haiju.rst:22
+msgid "Confirm track and division dates"
+msgstr "ट्रैक और प्रभाग तिथियों की पुष्टि करें"
+
+#: ../../funding/haiju.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/haiju.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.hello-sh.com/haijuTalent/competition>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://www.hello-sh.com/haijuTalent/competition>`_"
+
+#: ../../funding/haiju.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/haiju.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/haiju.rst:33
+msgid "Choose the correct competition track, region and applicant category."
+msgstr "सही प्रतियोगिता ट्रैक, क्षेत्र और आवेदक श्रेणी चुनें।"
+
+#: ../../funding/haiju.rst:35
+msgid ""
+"Read the rules and submit the required project, team and IP evidence."
+msgstr "नियम पढ़ें और आवश्यक परियोजना, टीम तथा IP साक्ष्य जमा करें।"
+
+#: ../../funding/haiju.rst:37
+msgid ""
+"Complete selection or pitching; confirm prize and service conditions in "
+"writing."
+msgstr "चयन या पिचिंग पूरी करें; पुरस्कार और सेवा शर्तों की लिखित पुष्टि करें।"
+
+#: ../../funding/haiju.rst:39
+msgid ""
+"Treat investor introductions and district funding as separate follow-up "
+"decisions."
+msgstr "निवेशक परिचय और जिला फंडिंग को अलग अनुवर्ती निर्णयों के रूप में लें।"
+
+#: ../../funding/haiju.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

@@ -1,0 +1,116 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/government-jiading.rst:1
+msgid "Jiading science and technology authority"
+msgstr "Autoridad de ciencia y tecnología de Jiading"
+
+#: ../../entities/government-jiading.rst:4
+msgid "嘉定区科技主管部门"
+msgstr "嘉定区科技主管部门"
+
+#: ../../entities/government-jiading.rst:6
+msgid "Government | Jiading | Research checked 2026-11-04"
+msgstr "Organismo gubernamental | Distrito de Jiading | Investigación verificada el 2026-11-04"
+
+#: ../../entities/government-jiading.rst:8
+msgid ""
+"The municipal science commission documents the joint role of SITRI and "
+"InnoSpring in connecting research, pilot production and incubation. The "
+"2026 district service program provides policy interpretation and project "
+"coordination."
+msgstr "La comisión municipal de ciencia documenta el papel conjunto de SITRI e InnoSpring en la conexión entre investigación, producción piloto e incubación. El programa distrital de servicios de 2026 ofrece interpretación de políticas y coordinación de proyectos."
+
+#: ../../entities/government-jiading.rst:10
+msgid ""
+"`Evidence S006 "
+"<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "
+"市科委、嘉定区联合调研高质量孵化器建设工作."
+msgstr "`Evidencia S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."
+
+#: ../../entities/government-jiading.rst:12
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/government-jiading.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/government-jiading.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/government-jiading.rst:19
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/government-jiading.rst:22
+msgid "`Official website / intake route <https://www.jiading.gov.cn/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.jiading.gov.cn/>`_"
+
+#: ../../entities/government-jiading.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/government-jiading.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/government-jiading.rst:28
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/government-jiading.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/government-jiading.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../entities/government-jiading.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../entities/government-jiading.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../entities/government-jiading.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../entities/government-jiading.rst:41
+msgid ":doc:`Jiading district route </districts/jiading>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Jiading </districts/jiading>`"

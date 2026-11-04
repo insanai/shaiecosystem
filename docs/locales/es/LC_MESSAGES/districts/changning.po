@@ -1,0 +1,147 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/changning.rst:1
+msgid "Changning"
+msgstr "Distrito de Changning"
+
+#: ../../districts/changning.rst:4
+msgid "Digital business, AI applications and cross-border services"
+msgstr "Negocios digitales, aplicaciones de IA y servicios transfronterizos"
+
+#: ../../districts/changning.rst:6
+msgid ""
+"The August 2026 district account identifies Digital Silicon Alley, "
+"Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
+"MAKE021 as parts of its incubation landscape. Confirm the correct "
+"operator before submitting."
+msgstr "El informe distrital de agosto de 2026 identifica a Digital Silicon Alley, Hongqiao Zhiyu, el Centro Internacional de Innovación Juvenil del Este de Hongqiao y MAKE021 como parte de su red de incubación. Confirme el operador específico antes de presentar una solicitud."
+
+#: ../../districts/changning.rst:8
+msgid ""
+"`Evidence S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. "
+"上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+msgstr "`Evidencia S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. 上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+
+#: ../../districts/changning.rst:10
+msgid "Who receives the inquiry"
+msgstr "Quién recibe la consulta"
+
+#: ../../districts/changning.rst:13
+msgid "Changning science and technology authority"
+msgstr "Autoridad de ciencia y tecnología de Changning"
+
+#: ../../districts/changning.rst:15
+msgid "`Official district website <https://www.shcn.gov.cn/>`_"
+msgstr "`Sitio web oficial del distrito <https://www.shcn.gov.cn/>`_"
+
+#: ../../districts/changning.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "En este registro no consta un teléfono ni correo electrónico directo vigente para el programa. Utilice el sitio web oficial para solicitar los datos del equipo receptor responsable."
+
+#: ../../districts/changning.rst:19
+msgid "Before applying"
+msgstr "Antes de presentar la solicitud"
+
+#: ../../districts/changning.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../districts/changning.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../districts/changning.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../districts/changning.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../districts/changning.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../districts/changning.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Consulte qué convocatoria vigente rige el proyecto, si tanto el domicilio social como las operaciones reales deben radicar en el distrito, qué período de gasto resulta elegible y si la obtención previa de ayudas municipales o distritales excluye una nueva solicitud. Obtenga respuesta antes de trasladar una empresa o incurrir en costes."
+
+#: ../../districts/changning.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Organizaciones locales incluidas en este atlas"
+
+#: ../../districts/changning.rst:37
+msgid ""
+":doc:`Digital Silicon Alley / Hongqiao innovation carriers "
+"</entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Incubator · Software AI) — "
+"Changning identifies a layered group of digital incubation and OPC "
+"communities. We treat this record as a district routing entry, not a "
+"single interchangeable operator or a guaranteed free-workspace offer. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Digital Silicon Alley / Centros de innovación de Hongqiao </entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Incubadora · IA de software) — Changning identifica un conjunto articulado de incubadoras digitales y comunidades OPC. Tratamos este registro como una vía de orientación distrital, no como un operador único intercambiable ni como una oferta garantizada de espacio de trabajo gratuito. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/changning.rst:38
+msgid ""
+":doc:`East Hongqiao International Youth Innovation Center "
+"</entities/east-hongqiao>` (东虹桥国际青年科创中心 · Incubator · Software AI) — "
+"Changning's official May 2026 account describes a hub for AI-enabled "
+"independent founders, combining incubation, AI services, talent support "
+"and global business resources. Confirm the current operator's selection "
+"and service terms. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Centro Internacional de Innovación Juvenil del Este de Hongqiao </entities/east-hongqiao>` (东虹桥国际青年科创中心 · Incubadora · IA de software) — La crónica oficial de mayo de 2026 de Changning describe un centro para fundadores independientes impulsados por IA que combina incubación, servicios de IA, apoyo al talento y recursos comerciales globales. Confirme los criterios actuales de selección y las condiciones de servicio del operador. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/changning.rst:40
+msgid "Funding routes"
+msgstr "Vías de financiación"
+
+#: ../../districts/changning.rst:43
+msgid ""
+":doc:`Changning AI Industry Projects, 2026 </funding/changning-ai-2026>` "
+"(2026长宁人工智能产业项目 · Grant · No equity) — Project-specific support after "
+"assessment; no common ceiling established. Status: Closed. Timing: Closed "
+"30 June 2026."
+msgstr ":doc:`Proyectos de la Industria de IA de Changning, 2026 </funding/changning-ai-2026>` (2026长宁人工智能产业项目 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Apoyo específico por proyecto tras su evaluación; no se establece un techo único general. Estado: Plazo cerrado. Plazo: Cerrada el 30 de junio de 2026."
+
+#: ../../districts/changning.rst:44
+msgid ""
+":doc:`Changning Technology Star Teams, 2026 "
+"</funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · No equity) — "
+"Funding for assessed and recognized teams under the district talent fund "
+"plan. Status: Closed. Timing: Closed 26 June 2026."
+msgstr ":doc:`Equipos Estrella Tecnológica de Changning, 2026 </funding/changning-tech-star>` (2026长宁科技之星团队 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Financiación para equipos evaluados y acreditados dentro del plan del fondo distrital de talento. Estado: Plazo cerrado. Plazo: Cerrada el 26 de junio de 2026."
+
+#: ../../districts/changning.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Compare también las vías de financiación de ámbito municipal </funding>`"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -34,10 +34,10 @@ msgstr "智能机器人产业措施面向符合条件的注册企业。东方美
 
 #: ../../districts/fengxian.rst:8
 msgid ""
-"`Evidence S070 "
+"`Evidence S095 "
 "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
 "奉贤区促进智能机器人产业创新发展若干政策措施."
-msgstr "`证据 S070 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
+msgstr "`证据 S095 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
 
 #: ../../districts/fengxian.rst:10
 msgid "Who receives the inquiry"
@@ -104,33 +104,97 @@ msgid "Local organizations in this atlas"
 msgstr "本图谱中的本区机构"
 
 #: ../../districts/fengxian.rst:37
-msgid ":doc:`Oriental Beauty Valley </entities/oriental-beauty>`"
-msgstr ":doc:`东方美谷 </entities/oriental-beauty>`"
+msgid ""
+":doc:`Oriental Beauty Valley </entities/oriental-beauty>` (东方美谷 · "
+"Technology park · Health, Industry) — A Fengxian beauty and health "
+"industry ecosystem. Relevant AI applications include formulation "
+"research, inspection, consumer analysis and supply-chain tools; clinical "
+"or laboratory access is a separate arrangement. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`东方美谷 </entities/oriental-beauty>` （东方美谷 · 科技园区 · 健康、产业）—— 奉贤美丽健康产业生态，相关人工智能场景包括配方研究、检测、消费者分析及供应链工具；临床或实验设施须另行安排。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/fengxian.rst:38
-msgid ":doc:`Shanghai Institute of Technology </entities/university-sit>`"
-msgstr ":doc:`上海应用技术大学 </entities/university-sit>`"
+msgid ""
+":doc:`Oriental Beauty Valley Life Messenger Gene Drug Base "
+"</entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · Incubator · Health, AI "
+"for Science) — Opened in April 2025 in Fengxian to connect gene and "
+"nucleic-acid drug R&D, AI-assisted molecular design, shared laboratories "
+"and pilot manufacturing. Confirm biosafety level, cleanroom specs and "
+"admission terms. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`东方美谷·生命信使基因药物创新产业基地 </entities/life-messenger>` （东方美谷·生命信使基因药物创新产业基地 · 孵化器 · 健康、科学智能）—— 2025年4月在奉贤开园的基因与核酸药物创新基地，衔接AI辅助分子设计、共享实验室与中试生产。入驻前应确认生物安全等级、洁净室规格及服务条款。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/fengxian.rst:39
-msgid ":doc:`Shanghai Business School </entities/university-business>`"
-msgstr ":doc:`上海商学院 </entities/university-business>`"
+msgid ""
+":doc:`Shanghai Institute of Technology </entities/university-sit>` "
+"(上海应用技术大学 · University) — Institutional entry in the June 2026 Ministry "
+"of Education register. Suggested collaboration themes: Applied "
+"engineering, materials, industrial AI. These themes are editorial routing "
+"guidance, not a verified offer of laboratory access or startup funding. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海应用技术大学 </entities/university-sit>` （上海应用技术大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：应用工程、材料、工业人工智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
-#: ../../districts/fengxian.rst:41
+#: ../../districts/fengxian.rst:40
+msgid ""
+":doc:`Shanghai Business School </entities/university-business>` (上海商学院 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Digital retail, commerce, "
+"service innovation. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海商学院 </entities/university-business>` （上海商学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：数字零售、商业、服务创新。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+
+#: ../../districts/fengxian.rst:42
 msgid "Funding routes"
 msgstr "资金路径"
 
-#: ../../districts/fengxian.rst:44
-msgid ""
-":doc:`Fengxian R&D expenditure increase reimbursement, 2026 "
-"</funding/fengxian-rd-increase>`"
-msgstr ":doc:`2026奉贤研发费用增长补贴 </funding/fengxian-rd-increase>`"
-
 #: ../../districts/fengxian.rst:45
 msgid ""
+":doc:`Fengxian R&D expenditure increase reimbursement, 2026 "
+"</funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Reimbursement · No "
+"equity) — 30% of the qualifying annual R&D net increase, capped at RMB 1 "
+"million. Status: Closed. Timing: Online closed 17 June 2026, 17:00; paper "
+"closed 30 June 2026, 17:00 China Standard Time."
+msgstr ":doc:`2026奉贤研发费用增长补贴 </funding/fengxian-rd-increase>` （2026奉贤研发费用增长补贴 · 报销支持 · 不占股）—— 合资格年度研发净增部分30%，最高100万元。状态：已截止。时间：线上已于2026年6月17日17:00截止，纸质已于6月30日17:00截止，均为中国标准时间。"
+
+#: ../../districts/fengxian.rst:46
+msgid ""
 ":doc:`Fengxian SME Technology Innovation Key Projects, 2026 "
-"</funding/fengxian-sme-2026>`"
-msgstr ":doc:`2026奉贤科技型中小企业技术创新资金重点项目 </funding/fengxian-sme-2026>`"
+"</funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Grant · No "
+"equity) — Up to RMB 250,000; generally two installments, final settlement "
+"after acceptance. Status: Closed. Timing: Online closed 21 June 2026; "
+"paper closed 30 June 2026."
+msgstr ":doc:`2026奉贤科技型中小企业技术创新资金重点项目 </funding/fengxian-sme-2026>` （2026奉贤科技型中小企业技术创新资金重点项目 · 补助 · 不占股）—— 最高25万元，一般分两期，验收后结清。状态：已截止。时间：线上已于2026年6月21日截止，纸质已于6月30日截止。"
 
 #: ../../districts/fengxian.rst:47
+msgid ""
+":doc:`Fengxian South Shanghai Sci-Tech Center \"Open Competition\" R&D "
+"Projects, 2026 </funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 "
+"· Grant · No equity) — Milestone-based R&D grant matched to technical "
+"challenge contract value. Status: 2026 call published; deadline check "
+"required. Timing: 2026 guide published May 2026; confirm current project "
+"batch."
+msgstr ":doc:`2026奉贤“南上海科创中心”揭榜挂帅合作项目 </funding/fengxian-jiebang-2026>` （2026奉贤“南上海科创中心”揭榜挂帅合作项目 · 补助 · 不占股）—— 结合技术攻关合同额按里程碑给予研发补助。状态：2026通知已公布，须核验截止日。时间：2026年申报指南于5月发布，须确认当前批次时间。"
+
+#: ../../districts/fengxian.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ":doc:`Oriental Beauty Valley </entities/oriental-beauty>`"
+#~ msgstr ":doc:`东方美谷 </entities/oriental-beauty>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai Institute of Technology </entities/university-sit>`"
+#~ msgstr ":doc:`上海应用技术大学 </entities/university-sit>`"
+
+#~ msgid ":doc:`Shanghai Business School </entities/university-business>`"
+#~ msgstr ":doc:`上海商学院 </entities/university-business>`"
+
+#~ msgid ""
+#~ ":doc:`Fengxian R&D expenditure increase reimbursement, 2026 "
+#~ "</funding/fengxian-rd-increase>`"
+#~ msgstr ":doc:`2026奉贤研发费用增长补贴 </funding/fengxian-rd-increase>`"
+
+#~ msgid ""
+#~ ":doc:`Fengxian SME Technology Innovation Key Projects, 2026 "
+#~ "</funding/fengxian-sme-2026>`"
+#~ msgstr ":doc:`2026奉贤科技型中小企业技术创新资金重点项目 </funding/fengxian-sme-2026>`"

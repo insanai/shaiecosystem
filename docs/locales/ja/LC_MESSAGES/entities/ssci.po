@@ -1,0 +1,112 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/ssci.rst:1
+msgid "Shanghai Leading Industry Funds"
+msgstr "上海三大先導産業母基金（FxF）"
+
+#: ../../entities/ssci.rst:4
+msgid "上海三大先导产业母基金"
+msgstr "上海三大先导产业母基金"
+
+#: ../../entities/ssci.rst:6
+msgid "Investor | Citywide / global | Research checked 2026-11-04"
+msgstr "投資機関・投資家｜全市／グローバル｜調査確認日 2026-11-04"
+
+#: ../../entities/ssci.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Chips, Health."
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI、半導体・チップ、ヘルスケア・医療。"
+
+#: ../../entities/ssci.rst:10
+msgid ""
+"A state-backed fund platform for leading industries, with AI interests "
+"including general AI, computing systems, humanoids, vertical models and "
+"edge AI. A fund-of-funds commitment is not a startup award or a direct "
+"application entitlement."
+msgstr "上海市の先導産業を支える国有ファンド・オブ・ファンズ。汎用AI、計算インフラ、ヒューマノイドロボット、垂直特化モデル、エッジAI等を重点投資分野とする。母基金の出資であり、個別スタートアップへの直接補助金や直接公募枠ではない。"
+
+#: ../../entities/ssci.rst:12
+msgid "`Evidence S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+msgstr "`出典 S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+
+#: ../../entities/ssci.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/ssci.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/ssci.rst:19
+msgid "Funding mechanism: Equity investment."
+msgstr "資金・支援スキーム：株式投資・出資。"
+
+#: ../../entities/ssci.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/ssci.rst:24
+msgid ""
+"`Official website / intake route <https://www.ssci-leadingfund.com/>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://www.ssci-leadingfund.com/>`_"
+
+#: ../../entities/ssci.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/ssci.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/ssci.rst:30
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/ssci.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/ssci.rst:35
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "ファンド運用者、投資対象セクター、ステージ、および法人格の適格性を確認する。"
+
+#: ../../entities/ssci.rst:37
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "ピッチ資料、資本政策表（キャップテーブル）、技術的実証データ、事業進捗実績（トラクション）、および資金調達計画を提出する。"
+
+#: ../../entities/ssci.rst:39
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "ビジネス、財務、技術、および法務のデューデリジェンスを完了する。"
+
+#: ../../entities/ssci.rst:41
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "投資条件概要書（タームシート）、投資委員会の決議条件、および最終投資契約書を精査する。"
+
+#: ../../entities/ssci.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`全市／グローバルの案内ルート </funding>`"

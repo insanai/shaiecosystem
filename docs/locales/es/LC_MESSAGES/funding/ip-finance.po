@@ -1,0 +1,115 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/ip-finance.rst:1
+msgid "Shanghai IP-backed finance product directory"
+msgstr "Catálogo de productos financieros respaldados por propiedad intelectual de Shanghái"
+
+#: ../../funding/ip-finance.rst:4
+msgid "Loan / insurance | Citywide / global"
+msgstr "Préstamo / seguro | Toda la ciudad / global"
+
+#: ../../funding/ip-finance.rst:6
+msgid "2026 directory published; lender review"
+msgstr "Catálogo 2026 publicado; sujeto a evaluación bancaria"
+
+#: ../../funding/ip-finance.rst:8
+msgid ""
+"`Evidence S105 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
+"知识产权金融服务平台_上海市知识产权局."
+msgstr "`Evidencia S105 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
+
+#: ../../funding/ip-finance.rst:10
+msgid "Amount and mechanism"
+msgstr "Importe y mecanismo"
+
+#: ../../funding/ip-finance.rst:13
+msgid "Bank and product-specific loan, insurance or trust terms"
+msgstr "Condiciones de préstamo, seguro o fideicomiso específicas según la entidad bancaria y el producto"
+
+#: ../../funding/ip-finance.rst:15
+msgid "No equity; product obligations apply"
+msgstr "Sin cesión de capital; se aplican obligaciones de producto"
+
+#: ../../funding/ip-finance.rst:17
+msgid "Eligibility and timing"
+msgstr "Elegibilidad y plazos"
+
+#: ../../funding/ip-finance.rst:20
+msgid ""
+"The 2026 IP bureau directory supplies borrower criteria, collateral, "
+"rates, repayment, application steps and contacts by product. IP ownership "
+"and bank assessment matter."
+msgstr "El catálogo de 2026 de la Oficina de Propiedad Intelectual detalla para cada producto los criterios del prestatario, garantías, tipos de interés, plazos de reembolso, pasos de solicitud y contactos. La titularidad efectiva de la propiedad intelectual y la evaluación de riesgos del banco resultan determinantes."
+
+#: ../../funding/ip-finance.rst:22
+msgid "Product-specific"
+msgstr "Según cada producto financiero"
+
+#: ../../funding/ip-finance.rst:24
+msgid "Contact and application"
+msgstr "Contacto y solicitud"
+
+#: ../../funding/ip-finance.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+msgstr "`Vía oficial de solicitud / normativa <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+
+#: ../../funding/ip-finance.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "La autoridad u operador enlazado constituye la vía de contacto. En este perfil no consta un contacto directo vigente para el programa."
+
+#: ../../funding/ip-finance.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../funding/ip-finance.rst:33
+msgid ""
+"Select the current bank or public guarantee product and check borrower "
+"eligibility."
+msgstr "Seleccionar el producto bancario o de garantía pública vigente y comprobar los requisitos de elegibilidad del prestatario."
+
+#: ../../funding/ip-finance.rst:35
+msgid ""
+"Prepare accounts, cash-flow forecast, ownership and requested security "
+"documents."
+msgstr "Preparar los estados financieros, la previsión de tesorería, la estructura societaria y la documentación de garantía solicitada."
+
+#: ../../funding/ip-finance.rst:37
+msgid ""
+"Complete lender and guarantee assessment; compare all costs and repayment "
+"terms."
+msgstr "Completar la evaluación de riesgos de la entidad prestamista y del ente garante; comparar todos los costes financieros y plazos de amortización."
+
+#: ../../funding/ip-finance.rst:39
+msgid ""
+"Sign and track debt service; claim interest support only if independently "
+"eligible."
+msgstr "Firmar la póliza y gestionar el servicio de la deuda; solicitar la bonificación de intereses únicamente si se cumplen de forma independiente sus requisitos."
+
+#: ../../funding/ip-finance.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "El importe máximo publicado es un techo presupuestario, no un derecho adquirido. Verifique la convocatoria aplicable, el período de gastos elegibles, la compatibilidad con otras ayudas públicas y las condiciones de desembolso por escrito."

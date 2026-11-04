@@ -1,0 +1,119 @@
+# zh_CN translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/chongming-tech-center.rst:1
+msgid "Chongming Enterprise Technology Center & Eco-Innovation Route"
+msgstr "崇明区企业技术中心与生态科创平台"
+
+#: ../../entities/chongming-tech-center.rst:4
+msgid "崇明区企业技术中心与生态科创平台"
+msgstr "崇明区企业技术中心与生态科创平台"
+
+#: ../../entities/chongming-tech-center.rst:6
+msgid "Research platform | Chongming | Research checked 2026-11-04"
+msgstr "科研平台｜崇明区｜研究核对日期 2026-11-04"
+
+#: ../../entities/chongming-tech-center.rst:8
+msgid "AI and industry focus: Climate, Agriculture, Industry."
+msgstr "人工智能与产业方向：气候、农业、产业。"
+
+#: ../../entities/chongming-tech-center.rst:10
+msgid ""
+"Coordinated by the Chongming Economic Commission (14th batch call issued "
+"in May 2026) alongside district science authorities to support enterprise "
+"R&D centers in ecological tech, green manufacturing and smart agriculture."
+msgstr "由崇明区经委（2026年5月发布第十四批申报）与区科委协同推进的企业研发平台路径，面向生态科技、绿色制造与智慧农业领域企业技术中心。"
+
+#: ../../entities/chongming-tech-center.rst:12
+msgid ""
+"`Evidence S065 "
+"<https://shcm.gov.cn/govxxgk/qjw/2026-05-26/4064cb23-51cb-46c3-b09a-336998114520.html>`_. "
+"关于开展2026年（第十四批）崇明区企业技术中心申报工作的通知-上海市崇明区人民政府."
+msgstr "`证据 S065 <https://shcm.gov.cn/govxxgk/qjw/2026-05-26/4064cb23-51cb-46c3-b09a-336998114520.html>`_. 关于开展2026年（第十四批）崇明区企业技术中心申报工作的通知-上海市崇明区人民政府."
+
+#: ../../entities/chongming-tech-center.rst:14
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/chongming-tech-center.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/chongming-tech-center.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/chongming-tech-center.rst:21
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/chongming-tech-center.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://shcm.gov.cn/govxxgk/qjw/2026-05-26/4064cb23-51cb-46c3-b09a-336998114520.html>`_"
+msgstr "`官方来源与主管部门入口 <https://shcm.gov.cn/govxxgk/qjw/2026-05-26/4064cb23-51cb-46c3-b09a-336998114520.html>`_"
+
+#: ../../entities/chongming-tech-center.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/chongming-tech-center.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/chongming-tech-center.rst:30
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/chongming-tech-center.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/chongming-tech-center.rst:35
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "匹配科研团队，明确科学或产业问题。"
+
+#: ../../entities/chongming-tech-center.rst:37
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "发送涵盖数据、设备、成果、经费及时程的简短方案。"
+
+#: ../../entities/chongming-tech-center.rst:39
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "约定合作路径、发表、知识产权及单位授权。"
+
+#: ../../entities/chongming-tech-center.rst:41
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "开始工作前取得书面准入或项目批准。"
+
+#: ../../entities/chongming-tech-center.rst:43
+msgid ":doc:`Chongming district route </districts/chongming>`"
+msgstr ":doc:`崇明区对接路径 </districts/chongming>`"

@@ -1,0 +1,116 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/huangpu-credit-directory.rst:1
+msgid "Huangpu financing and credit product directory"
+msgstr "Finanzierungs- und Kreditproduktkatalog Huangpu"
+
+#: ../../funding/huangpu-credit-directory.rst:4
+msgid "Loan | Huangpu"
+msgstr "Darlehen | Bezirk Huangpu"
+
+#: ../../funding/huangpu-credit-directory.rst:6
+msgid "Published directory; lender review"
+msgstr "Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich"
+
+#: ../../funding/huangpu-credit-directory.rst:8
+msgid ""
+"`Evidence S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
+"黄浦区融资信用服务平台-银行产品."
+msgstr "`Nachweis S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
+
+#: ../../funding/huangpu-credit-directory.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/huangpu-credit-directory.rst:13
+msgid ""
+"Product-specific bank credit, startup guarantee and IP-backed finance"
+msgstr "Zinsvergünstigte Kredite, Risikokompensationen und Bürgschaften der teilnehmenden Geschäftsbanken"
+
+#: ../../funding/huangpu-credit-directory.rst:15
+msgid "No equity; repayable"
+msgstr "Ohne Anteilsabgabe; rückzahlungspflichtig"
+
+#: ../../funding/huangpu-credit-directory.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/huangpu-credit-directory.rst:20
+msgid ""
+"Select the actual bank product on the official district platform. Credit "
+"eligibility, guarantee, rates, fees, collateral and repayment depend on "
+"the lender and company; the directory is not an approval."
+msgstr "In Huangpu ansässige Unternehmen, insbesondere aus den Branchen Finanztechnologie, professionelle Dienstleistungen, Konsumtechnologie und digitale Medien, die festgelegte Bonitätsanforderungen erfüllen."
+
+#: ../../funding/huangpu-credit-directory.rst:22
+msgid "Product-specific; confirm current lender terms"
+msgstr "Ganzjährig über die Plattform für Finanz- und Kreditdienstleistungen des Bezirks Huangpu zugänglich"
+
+#: ../../funding/huangpu-credit-directory.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/huangpu-credit-directory.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://xydhp.shhuangpu.gov.cn/finance-product>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://xydhp.shhuangpu.gov.cn/finance-product>`_"
+
+#: ../../funding/huangpu-credit-directory.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "Die verlinkte Behörde bzw. der Träger ist der offizielle Kontaktweg. Ein direkter Programm-Ansprechpartner ist in diesem Profil nicht hinterlegt."
+
+#: ../../funding/huangpu-credit-directory.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/huangpu-credit-directory.rst:33
+msgid ""
+"Select the current bank or public guarantee product and check borrower "
+"eligibility."
+msgstr "Aktuelles Banken- oder Bürgschaftsprodukt wählen und Kreditnehmer-Voraussetzungen prüfen."
+
+#: ../../funding/huangpu-credit-directory.rst:35
+msgid ""
+"Prepare accounts, cash-flow forecast, ownership and requested security "
+"documents."
+msgstr "Jahresabschlüsse, Liquiditätsplanung, Eigentümerstruktur und geforderte Sicherheiten vorbereiten."
+
+#: ../../funding/huangpu-credit-directory.rst:37
+msgid ""
+"Complete lender and guarantee assessment; compare all costs and repayment "
+"terms."
+msgstr "Kredit- und Bürgschaftsprüfung abschließen; Gesamtkosten und Tilgungsbedingungen vergleichen."
+
+#: ../../funding/huangpu-credit-directory.rst:39
+msgid ""
+"Sign and track debt service; claim interest support only if independently "
+"eligible."
+msgstr "Vertrag unterzeichnen und Schuldendienst steuern; Zinszuschüsse nur bei gesonderter Berechtigung beantragen."
+
+#: ../../funding/huangpu-credit-directory.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

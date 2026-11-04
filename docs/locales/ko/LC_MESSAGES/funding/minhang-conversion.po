@@ -1,0 +1,115 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/minhang-conversion.rst:1
+msgid "Minhang research commercialization support"
+msgstr "민항구 과학기술 성과 상용화 지원"
+
+#: ../../funding/minhang-conversion.rst:4
+msgid "Grant | Minhang"
+msgstr "보조금 | 민항구"
+
+#: ../../funding/minhang-conversion.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "정책 시행 중; 공고 접수 개시 미확인"
+
+#: ../../funding/minhang-conversion.rst:8
+msgid ""
+"`Evidence S091 "
+"<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
+"Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`근거 S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+
+#: ../../funding/minhang-conversion.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/minhang-conversion.rst:13
+msgid ""
+"New conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three "
+"years; up to 50% of investment"
+msgstr "신설 상용화 기업 대상: 연간 최대 50만 위안, 3년간 누적 최대 150만 위안, 적격 상용화 투자액의 최대 50%"
+
+#: ../../funding/minhang-conversion.rst:15
+msgid "No equity"
+msgstr "지분 취득 없음"
+
+#: ../../funding/minhang-conversion.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/minhang-conversion.rst:20
+msgid ""
+"Qualifying research-result conversion in Minhang. Registration, eligible "
+"expenditure, audit and annual notice conditions must be confirmed."
+msgstr "민항구 내에서 추진되는 적격 연구개발 성과 상용화 프로젝트. 법인 등록, 적격 지출 증빙, 회계 감사 및 연간 공고 요건을 사전에 확인해야 합니다."
+
+#: ../../funding/minhang-conversion.rst:22
+msgid "Policy: 1 Sep 2025 to 31 Aug 2030"
+msgstr "정책 유효기간: 2025년 9월 1일 ~ 2030년 8월 31일"
+
+#: ../../funding/minhang-conversion.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/minhang-conversion.rst:27
+msgid "`Official application / policy route <https://www.shmh.gov.cn/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://www.shmh.gov.cn/>`_"
+
+#: ../../funding/minhang-conversion.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/minhang-conversion.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/minhang-conversion.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../funding/minhang-conversion.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../funding/minhang-conversion.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../funding/minhang-conversion.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../funding/minhang-conversion.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

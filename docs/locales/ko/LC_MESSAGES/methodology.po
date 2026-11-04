@@ -1,0 +1,128 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../methodology.rst:1
+msgid "How to read the evidence"
+msgstr "출처와 근거를 해석하는 방법"
+
+#: ../../methodology.rst:4
+msgid ""
+"A useful directory makes uncertainty inspectable. We link the source near "
+"the claim and keep a shared record behind the English and Simplified "
+"Chinese editions."
+msgstr "신뢰할 수 있는 디렉터리는 정보의 불확실성을 독자가 직접 검증할 수 있도록 열어둡니다. 우리는 구체적인 서술마다 바로 곁에 공식 출처 링크를 제공하며, 영어판과 중국어판 및 다국어 판본 모두의 이면에 단일하고 엄밀한 데이터 원장을 유지합니다."
+
+#: ../../methodology.rst:6
+msgid "Research and translation"
+msgstr "조사 원칙과 번역 기준"
+
+#: ../../methodology.rst:9
+msgid ""
+"We searched English and Simplified Chinese sources, prioritizing "
+"municipal and district authorities, official university pages and program "
+"operators. The Ministry of Education register supplies institutional "
+"scope. Sources are linked, not copied wholesale. Search discovery alone "
+"is weaker than a program's own current notice."
+msgstr "조사는 영문 및 중문 자료를 광범위하게 검색하되 상하이 시·구 정부, 국공립 대학교 및 공식 프로그램 운영사의 원천 자료를 최우선으로 활용했습니다. 중국 교육부 공식 등록부를 기준으로 수록 대학교의 범위를 확정했습니다. 우리는 원천 출처 링크를 명시하며 원문을 무단 전재하지 않습니다. 검색 엔진을 통한 단순 발견은 정부의 현행 공식 공고문에 비해 입증 신뢰도가 낮게 평가됩니다."
+
+#: ../../methodology.rst:11
+msgid ""
+"A source-access date records our research session, not a promise of "
+"continuous monitoring. Some official sites block automated access or "
+"retain old pages. Current validity, open intake, available capacity and a "
+"responsive contact are separate facts. We do not label an opportunity "
+"open without a dated supporting notice."
+msgstr "출처 열람 일자는 해당 시점의 조사 기록을 뜻하며, 향후 지속적인 실시간 모니터링을 보증하지는 않습니다. 일부 공식 웹사이트는 자동화된 접근을 차단하거나 과거 페이지를 그대로 유지합니다. 정책의 법적 유효성, 신규 공모 접수 여부, 자원의 실제 가용성, 그리고 담당자의 공식 회신 여부는 엄연히 서로 다른 사실입니다. 날짜가 명시된 최신 공고문으로 확인되지 않은 지원 기회는 결코 '현재 접수 중'으로 표시하지 않습니다."
+
+#: ../../methodology.rst:13
+msgid ""
+"Chinese organization names are retained for searching and contact. "
+"Descriptive English names may be editorial translations. The Chinese "
+"edition translates the editorial text, interface and research records; "
+"third-party source pages retain their original language. A linked Chinese "
+"policy controls over our English summary."
+msgstr "검색과 실제 업무 연락의 편의를 위해 중국어 기관 고유명칭을 원문 그대로 유지했습니다. 설명형 영문 명칭은 편집진의 번역일 수 있습니다. 본서의 편집 본문, 사용자 인터페이스 및 연구 기록은 번역하여 제공하지만 제3자 원천 웹페이지는 원문 언어를 보존합니다. 링크된 중국어 공식 정책 원문이 영문 요약본에 우선하여 효력을 갖습니다."
+
+#: ../../methodology.rst:15
+msgid "Contacts, workflows and map locations"
+msgstr "연락처, 워크플로 및 지도 좌표 검증"
+
+#: ../../methodology.rst:18
+msgid ""
+"Published phone numbers and email addresses are attributed to their "
+"source. A general university switchboard is identified as such. Where a "
+"direct contact is not established, the record gives the official website "
+"or authority route and explicitly requests a named receiving team. We did "
+"not contact organizations or submit applications."
+msgstr "본서에 수록된 전화번호와 이메일 주소는 모두 공식 출처를 명기했습니다. 대학의 대표 교환 전화는 그 성격을 명확히 밝혔습니다. 전용 직통 연락처가 확인되지 않은 경우 공식 웹사이트나 주관 관청 채널을 안내하고 담당 부서를 명시적으로 문의하도록 권고했습니다. 편저자 팀은 조사 대상 기관에 사적으로 연락하거나 신청을 대행하지 않았습니다."
+
+#: ../../methodology.rst:20
+msgid ""
+"Application workflows are labelled as editorial checklists unless a "
+"record cites a notice-specific procedure. Campus and district anchors "
+"locate an ecosystem, not a verified entrance. Even street-based plotted "
+"points are approximate. The district boundaries are an illustrative DataV "
+"dataset, with no claim to survey, legal-boundary or navigation accuracy."
+msgstr "신청 워크플로는 개별 공고에 특화된 절차로 명시되지 않은 한 편집진이 작성한 표준 체크리스트입니다. 캠퍼스 및 구 단위 지도 앵커는 생태계의 대략적 위치를 나타낼 뿐이며 실측된 출입구 좌표가 아닙니다. 도로 주소를 기반으로 표시된 좌표라 할지라도 근사치에 불과합니다. 지도상의 구 경계선은 DataV 시각화 데이터셋을 기반으로 한 예시적 표현이며 측량학적, 법적 경계선 또는 내비게이션용 정밀도를 주장하지 않습니다."
+
+#: ../../methodology.rst:22
+msgid "Known gaps and responsible upkeep"
+msgstr "한계의 명시와 지속 가능한 업데이트 원칙"
+
+#: ../../methodology.rst:25
+msgid ""
+"Coverage is broad but not exhaustive. Many private incubators publish no "
+"current terms. Some district rules require a current annual notice that "
+"we could not establish as open. Several universities have no verified "
+"external startup program in this edition. Their institutional entry is "
+"included without inventing an accelerator or grant."
+msgstr "조사 범위는 방대하지만 상하이의 모든 정보를 망라하지는 못합니다. 다수의 민간 인큐베이터가 현행 입주 조건을 공개하지 않고 있으며, 일부 구 단위 정책은 당해 연도 세부 공고가 필요하여 본 판본 제작 시점에 접수 개시 여부를 확정할 수 없었습니다. 검증된 대외 창업 프로그램이 확인되지 않은 대학교의 경우 일반 대표 기관 창구만 수록하였으며, 실재하지 않는 액셀러레이터나 보조금을 임의로 꾸며내지 않았습니다."
+
+#: ../../methodology.rst:27
+msgid ""
+"The registry includes 29 diploma colleges and 12 adult institutions "
+"without claiming program-level research for each. For university "
+"profiles, suggested thematic fit and office-routing questions are "
+"editorial guidance rather than a verified inventory of laboratories, "
+"contacts or available awards."
+msgstr "공식 등록부에는 29개 전과 대학과 12개 성인고등교육기관이 포함되어 있으나, 이들 개별 기관의 단위별 세부 사업 조사를 완료했다고 주장하지 않습니다. 대학 프로필에 제시된 추천 연구 테마와 산학협력 문의 부서는 편집상의 지침일 뿐이며 검증된 연구실 목록, 전담 연락망, 또는 즉시 수혜 가능한 지원금 명록이 아닙니다."
+
+#: ../../methodology.rst:29
+msgid ""
+"Before a new edition, recheck source dates, operator identity, policy "
+"expiry, intake deadlines, contacts, funding mechanism, eligibility, "
+"district boundaries and duplicate-funding rules. Preserve superseded "
+"claims with their historical status instead of silently reusing them. The "
+"source repository contains the data, translations, artwork provenance and "
+"reproducible Guidedog build commands."
+msgstr "새로운 개정판을 발행하기 전에는 원천 출처 일자, 운영 주체, 정책 만료 여부, 접수 마감 시한, 연락처 정보, 자금 지원 메커니즘, 신청 자격 요건, 행정구역 경계 및 중복 수혜 배제 규정을 재검토해야 합니다. 변경된 내용은 무단 삭제하거나 덮어쓰지 않고 역사적 이력을 보존해야 합니다. 소스 리포지토리에는 원천 데이터, 번역본, 일러스트 출처 및 재현 가능한 Guidedog 빌드 명령어가 온전히 보존되어 있습니다."
+
+#: ../../methodology.rst:31
+msgid ""
+"Credits and publication system: Written by Vikrant Rathore, with "
+"contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
+"Kanak Rathore and Emily Yue Xu. Built with Guidedog as a unified "
+"bilingual HTML website and Typst-typeset PDF book publication."
+msgstr "저자 크레디트 및 출판 시스템: 본서는 Vikrant Rathore가 집필하였으며 Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu가 기여했습니다. Guidedog을 기반으로 단일한 다국어 HTML 웹사이트와 Typst로 조판된 PDF 도서로 발행되었습니다."
+
+#: ../../methodology.rst:33
+msgid ""
+"`Evidence S132 "
+"<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV "
+"Shanghai district geometry."
+msgstr "`근거 S132 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry."

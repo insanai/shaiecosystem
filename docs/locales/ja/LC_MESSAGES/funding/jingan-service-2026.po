@@ -1,0 +1,122 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/jingan-service-2026.rst:1
+msgid ""
+"Jing'an Service Industry Guidance Fund and AI Demonstration Support, 2026"
+msgstr "2026年静安区サービス業発展誘導資金＆AI実証支援"
+
+#: ../../funding/jingan-service-2026.rst:4
+msgid "Grant | Jing'an"
+msgstr "助成金・補助金 | 静安区"
+
+#: ../../funding/jingan-service-2026.rst:6
+msgid "2026 call published; deadline check required"
+msgstr "2026年公募公表済み（締切日の確認要）"
+
+#: ../../funding/jingan-service-2026.rst:8
+msgid ""
+"`Evidence S122 "
+"<https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_. "
+"关于开展2026年第二批静安区服务业发展引导资金项目申报工作的通知."
+msgstr "`出典 S122 <https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_. 关于开展2026年第二批静安区服务业发展引导资金项目申报工作的通知."
+
+#: ../../funding/jingan-service-2026.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/jingan-service-2026.rst:13
+msgid ""
+"Project-specific support under the district service-industry guidance "
+"fund rules, matched to qualifying project investment"
+msgstr "区サービス業発展誘導資金管理弁法に基づき、適格プロジェクト総投資額およびカテゴリに応じた助成"
+
+#: ../../funding/jingan-service-2026.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/jingan-service-2026.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/jingan-service-2026.rst:20
+msgid ""
+"Lawfully registered, tax-paying legal-person organizations in Jing'an "
+"with sound credit, advancing modern services, enterprise AI, data "
+"services or digital commerce under the 2026 batch rules and 2026-2028 AI "
+"demonstration plan."
+msgstr "静安区内に適法に設立・納税し良好な信用を有する法人組織で、2026年公募通知および2026〜2028年AI応用実証区計画に合致する現代サービス業、企業向けAI、データサービス、デジタルコマース事業。"
+
+#: ../../funding/jingan-service-2026.rst:22
+msgid ""
+"Second 2026 batch published May 2026; confirm current sub-district "
+"recommending window"
+msgstr "2026年第2期通知は5月に公布（管轄の街鎮または機能区窓口へ現在の推薦受付状況を確認のこと）"
+
+#: ../../funding/jingan-service-2026.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/jingan-service-2026.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_"
+
+#: ../../funding/jingan-service-2026.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/jingan-service-2026.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/jingan-service-2026.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/jingan-service-2026.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/jingan-service-2026.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/jingan-service-2026.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/jingan-service-2026.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

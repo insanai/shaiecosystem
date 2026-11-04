@@ -1,0 +1,315 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:42+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../index.rst:1
+msgid "Shanghai Ecosystem Atlas"
+msgstr "上海イノベーション生態系アトラス"
+
+#: ../../index.rst:4
+msgid ""
+"The Pearl of the Orient. A field guide to research, enterprise and "
+"possibility."
+msgstr "東洋の真珠。学術研究、企業、そして無限の可能性をつなぐフィールドガイド。"
+
+#: ../../index.rst:6
+msgid ""
+"An illustrated English and Simplified Chinese guide for accelerators, "
+"founders, researchers and AI enthusiasts. Explore Shanghai's 16 "
+"administrative districts, 40 undergraduate universities, 29 diploma "
+"colleges, 12 adult higher-education institutions, software and hardware "
+"AI carriers, and the practical routes to support."
+msgstr "アクセラレーター、創業者、研究者、AIイノベーターのために贈る、日英・中英の図解入りガイド。上海市全16行政区、40の学部設置大学、29の専科カレッジ、12の成人高等教育機関、ソフトウェアおよびハードウェアAIのイノベーション拠点、そして各種支援獲得への実践的ルートを解き明かします。"
+
+#: ../../index.rst:8
+msgid ""
+"Research edition: 2026-11-04. 125 organization profiles. 45 funding "
+"routes. 16 districts. 133 cited sources."
+msgstr "調査エディション：2026-11-04。125件の機関プロファイル、45件の資金ルート、全16行政区、133件の引用一次出典。"
+
+#: ../../index.rst:10
+msgid ""
+"Written by **Vikrant Rathore** with contributions from **Lauren Zhao, "
+"Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. "
+"Produced using **Guidedog** as a unified bilingual **HTML and PDF** "
+"publication inspired by Shanghai's official flower, the white magnolia "
+"(*Yulania denudata*)."
+msgstr "執筆：**Vikrant Rathore**、寄稿：**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu**。上海市の市花である白玉蘭（ハクモクレン / *Yulania denudata*）に着想を得て、**Guidedog** を用いて日英・中英バイリンガルの **HTMLおよびPDF** 統合出版物として制作。"
+
+#: ../../index.rst:12
+msgid ""
+":doc:`Explore the interactive atlas <atlas>` | :doc:`Browse all 16 "
+"districts <districts>` | :doc:`Find funding <funding>` | :doc:`Plan an "
+"application <apply>`"
+msgstr ":doc:`インタラクティブ・アトラスを探索する <atlas>` | :doc:`全16区を見る <districts>` | :doc:`資金調達を探す <funding>` | :doc:`申請計画を立てる <apply>`"
+
+#: ../../index.rst:16
+msgid "All 16 administrative districts of Shanghai"
+msgstr "上海市全16行政区の全景"
+
+#: ../../index.rst:19
+msgid ""
+"Every administrative district of Shanghai is covered in both the website "
+"and the PDF book with its documented industrial focus, receiving "
+"government authority, local innovation carriers, universities and "
+"district funding routes:"
+msgstr "上海市の全行政区について、公的資料に基づく重点産業分野、管轄行政機関、現地イノベーション拠点、大学、および区レベルの資金調達ルートをウェブサイトとPDF書籍の双方で完全収録しています："
+
+#: ../../index.rst:21
+msgid ""
+"**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
+"chips, biomedicine and advanced manufacturing**. Authority: Pudong "
+"Science, Technology and Economy Commission. (38 organizations, 3 district "
+"funding routes)"
+msgstr "**[01]** :doc:`浦東新区 <districts/pudong>` (浦东新区) — **基盤モデル、チップ、バイオ医薬品、先端製造業**. 浦東新区科学技術・経済委員会. (38 / 3)"
+
+#: ../../index.rst:22
+msgid ""
+"**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
+"embodied AI and research commercialization**. Authority: Xuhui industry "
+"development authority. (7 organizations, 1 district funding routes)"
+msgstr "**[02]** :doc:`徐匯区 <districts/xuhui>` (徐汇区) — **基盤モデル、身体性AI（具身知能）、研究成果の社会実装・産業化**. 徐匯区産業発展主管部門. (7 / 1)"
+
+#: ../../index.rst:23
+msgid ""
+"**[03]** :doc:`Yangpu <districts/yangpu>` (杨浦区) — **University spinouts, "
+"brain-inspired AI and independent AI founders**. Authority: Yangpu "
+"science and technology authority. (10 organizations, 2 district funding "
+"routes)"
+msgstr "**[03]** :doc:`楊浦区 <districts/yangpu>` (杨浦区) — **大学発ベンチャー、脳型AI、独立系AI創業者**. 楊浦区科学技術主管部門. (10 / 2)"
+
+#: ../../index.rst:24
+msgid ""
+"**[04]** :doc:`Minhang <districts/minhang>` (闵行区) — **University "
+"commercialization, robotics, BCI and engineering**. Authority: Minhang "
+"science and technology authority. (6 organizations, 2 district funding "
+"routes)"
+msgstr "**[04]** :doc:`閔行区 <districts/minhang>` (闵行区) — **大学発成果の産業化、ロボティクス、BCI（脳機インタフェース）、エンジニアリング**. 閔行区科学技術主管部門. (6 / 2)"
+
+#: ../../index.rst:25
+msgid ""
+"**[05]** :doc:`Jiading <districts/jiading>` (嘉定区) — **Automotive "
+"intelligence, sensors, MEMS and pilot production**. Authority: Jiading "
+"science and technology authority. (4 organizations, 1 district funding "
+"routes)"
+msgstr "**[05]** :doc:`嘉定区 <districts/jiading>` (嘉定区) — **車載インテリジェンス、センサー、MEMS、パイロット生産・中試**. 嘉定区科学技術主管部門. (4 / 1)"
+
+#: ../../index.rst:26
+msgid ""
+"**[06]** :doc:`Baoshan <districts/baoshan>` (宝山区) — **Robotics, advanced "
+"equipment and industrial deployment**. Authority: Baoshan industry and "
+"science authorities. (2 organizations, 1 district funding routes)"
+msgstr "**[06]** :doc:`宝山区 <districts/baoshan>` (宝山区) — **ロボティクス、先端産業機器、産業実装**. 宝山区産業・科学技術主管部門. (2 / 1)"
+
+#: ../../index.rst:27
+msgid ""
+"**[07]** :doc:`Putuo <districts/putuo>` (普陀区) — **Industrial testing, "
+"intelligent software and international innovation**. Authority: Putuo "
+"science and technology authority. (4 organizations, 3 district funding "
+"routes)"
+msgstr "**[07]** :doc:`普陀区 <districts/putuo>` (普陀区) — **産業検査・テスト、インテリジェントソフトウェア、国際イノベーション**. 普陀区科学技術主管部門. (4 / 3)"
+
+#: ../../index.rst:28
+msgid ""
+"**[08]** :doc:`Changning <districts/changning>` (长宁区) — **Digital "
+"business, AI applications and cross-border services**. Authority: "
+"Changning science and technology authority. (2 organizations, 2 district "
+"funding routes)"
+msgstr "**[08]** :doc:`長寧区 <districts/changning>` (长宁区) — **デジタルコマース、AI応用、クロスボーダーサービス**. 長寧区科学技術主管部門. (2 / 2)"
+
+#: ../../index.rst:29
+msgid ""
+"**[09]** :doc:`Jing'an <districts/jingan>` (静安区) — **Enterprise AI, data "
+"services and digital commerce**. Authority: Jing'an science and economy "
+"authority. (3 organizations, 1 district funding routes)"
+msgstr "**[09]** :doc:`静安区 <districts/jingan>` (静安区) — **エンタープライズAI、データサービス、デジタルコマース**. 静安区科学技術・経済委員会. (3 / 1)"
+
+#: ../../index.rst:30
+msgid ""
+"**[10]** :doc:`Huangpu <districts/huangpu>` (黄浦区) — **Fintech, clinical "
+"services, design and consumer applications**. Authority: Huangpu science "
+"and entrepreneurship services. (2 organizations, 1 district funding "
+"routes)"
+msgstr "**[10]** :doc:`黄浦区 <districts/huangpu>` (黄浦区) — **フィンテック、臨床研究サービス、デザイン、コンシューマー応用**. 黄浦区科学技術・創業サービス部門. (2 / 1)"
+
+#: ../../index.rst:31
+msgid ""
+"**[11]** :doc:`Hongkou <districts/hongkou>` (虹口区) — **Shipping "
+"technology, green finance and intelligent inspection**. Authority: "
+"Hongkou science and economy authority. (4 organizations, 1 district "
+"funding routes)"
+msgstr "**[11]** :doc:`虹口区 <districts/hongkou>` (虹口区) — **海運テクノロジー、グリーンファイナンス、インテリジェント検査**. 虹口区科学技術・経済委員会. (4 / 1)"
+
+#: ../../index.rst:32
+msgid ""
+"**[12]** :doc:`Songjiang <districts/songjiang>` (松江区) — **G60 innovation, "
+"industrial software and advanced manufacturing**. Authority: Songjiang "
+"G60 innovation services. (8 organizations, 2 district funding routes)"
+msgstr "**[12]** :doc:`松江区 <districts/songjiang>` (松江区) — **G60イノベーション回廊、産業用ソフトウェア、先端製造業**. 松江区G60科創イノベーションサービス部門. (8 / 2)"
+
+#: ../../index.rst:33
+msgid ""
+"**[13]** :doc:`Qingpu <districts/qingpu>` (青浦区) — **Huawei-linked "
+"research, digital systems and regional collaboration**. Authority: Qingpu "
+"science and technology authority. (3 organizations, 2 district funding "
+"routes)"
+msgstr "**[13]** :doc:`青浦区 <districts/qingpu>` (青浦区) — **ファーウェイ連携研究開発、デジタルシステム、地域連携**. 青浦区科学技術委員会. (3 / 2)"
+
+#: ../../index.rst:34
+msgid ""
+"**[14]** :doc:`Jinshan <districts/jinshan>` (金山区) — **Drones, new "
+"materials and low-altitude systems**. Authority: Jinshan science and "
+"technology authority. (3 organizations, 1 district funding routes)"
+msgstr "**[14]** :doc:`金山区 <districts/jinshan>` (金山区) — **ドローン、新素材、低空飛行経済システム**. 金山区科学技術主管部門. (3 / 1)"
+
+#: ../../index.rst:35
+msgid ""
+"**[15]** :doc:`Fengxian <districts/fengxian>` (奉贤区) — **Robotics, beauty "
+"and health technology, advanced manufacturing**. Authority: Fengxian "
+"economic commission. (4 organizations, 3 district funding routes)"
+msgstr "**[15]** :doc:`奉賢区 <districts/fengxian>` (奉贤区) — **ロボティクス、ビューティー＆ヘルスケア技術、先端製造業**. 奉賢区経済委員会. (4 / 3)"
+
+#: ../../index.rst:36
+msgid ""
+"**[16]** :doc:`Chongming <districts/chongming>` (崇明区) — **Ecological "
+"technology, smart agriculture and marine systems**. Authority: Chongming "
+"science and technology authority. (2 organizations, 2 district funding "
+"routes)"
+msgstr "**[16]** :doc:`崇明区 <districts/chongming>` (崇明区) — **エコロジーテクノロジー、スマート農業、海洋・海洋工学システム**. 崇明区科学技術委員会. (2 / 2)"
+
+#: ../../index.rst:38
+msgid "Complete chapters & directories in this atlas"
+msgstr "本アトラスの全章およびディレクトリ一覧"
+
+#: ../../index.rst:41
+msgid ""
+":doc:`A city of connected possibilities <reading-the-city>` — Spatial "
+"logic across central Shanghai, industrial corridors, five新城 (New Cities) "
+"and Chongming Eco-Island, plus magnolia design notes and authorship "
+"credits."
+msgstr ":doc:`つながりあう可能性の都市 <reading-the-city>` — 上海中心部、産業回廊、5大新城（五つの新都市）、崇明エコインランドを貫く空間ロジックに加え、白玉蘭（ハクモクレン）のデザインノートと執筆クレジット。"
+
+#: ../../index.rst:42
+msgid ""
+":doc:`Explore the Shanghai ecosystem <atlas>` — Interactive 16-district "
+"vector map, bilingual search, sector and equity filters, shortlist and "
+"CSV export."
+msgstr ":doc:`上海のイノベーション生態系を探る <atlas>` — 16区のインタラクティブ・ベクターマップ、日英・中英バイリンガル検索、セクターおよび出資条件フィルター、候補リスト作成とCSVエクスポート機能。"
+
+#: ../../index.rst:43
+msgid ""
+":doc:`Intelligence in software <software-ai>` — Foundation models, "
+"vertical agents, Model Speed Space, Zhangjiang Model Community, "
+"compute/corpus vouchers and compliance routing."
+msgstr ":doc:`ソフトウェアにおける知能 <software-ai>` — 基盤モデル、垂直特化型エージェント、模速空間（Model Speed Space）、張江模力コミュニティ、計算資源・コーパスバウチャー、および法規制コンプライアンスの対応ルート。"
+
+#: ../../index.rst:44
+msgid ""
+":doc:`Intelligence in the physical world <hardware-ai>` — AI chips, "
+"EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, "
+"BCI and wet-lab biocomputing."
+msgstr ":doc:`物理世界における知能 <hardware-ai>` — AI半導体チップ、EDAおよびMPWテープアウト、MEMSセンサー、身体性ロボティクス、低空飛行ドローン、BCI（脳機インタフェース）、ウェットラボ・バイオコンピューティング。"
+
+#: ../../index.rst:45
+msgid ""
+":doc:`Sixteen districts, sixteen entry routes <districts>` — Dedicated "
+"chapter for each of Shanghai's 16 districts with receiving authorities, "
+"policy boundaries, local carriers and funding."
+msgstr ":doc:`16の区、16の接続ルート <districts>` — 上海市全16区の個別専用章。管轄主管部門、政策境界、現地イノベーション拠点、および区レベルの資金助成ルートを網羅。"
+
+#: ../../index.rst:46
+msgid ""
+":doc:`Universities and commercialization <universities>` — Profiles for "
+"all 40 undergraduate universities in Shanghai with MOE codes, "
+"collaboration themes and tech-transfer contacts."
+msgstr ":doc:`大学と研究成果の産業化 <universities>` — 教育部登録コード、産学連携テーマ、技術移転窓口を含む、上海の学部設置大学全40校の詳細プロファイル。"
+
+#: ../../index.rst:47
+msgid ""
+":doc:`The higher-education register <university-register>` — Complete "
+"June 2026 Ministry of Education register: 40 undergraduate universities, "
+"29 diploma colleges, 12 adult institutions and CEIBS."
+msgstr ":doc:`高等教育機関の公式名簿 <university-register>` — 2026年6月時点の中国教育部公式名簿：本科大学40校、専科（専門職）カレッジ29校、成人高等教育機関12校、および中欧国際工商学院（CEIBS）。"
+
+#: ../../index.rst:48
+msgid ""
+":doc:`Incubators, accelerators and parks <incubation>` — 28 researched "
+"incubators, accelerators and technology parks across Shanghai with "
+"admission checklists and operator details."
+msgstr ":doc:`インキュベーター、アクセラレーター、サイエンスパーク <incubation>` — 入居チェックリストと運営事業者情報を備えた、上海市全域の調査済みインキュベーター、アクセラレーター、テクノロジーパーク38拠点。"
+
+#: ../../index.rst:49
+msgid ""
+":doc:`Research and technical platforms <research>` — Shanghai AI Lab, ICC "
+"chip service center and Tongji autonomous and PAI research platforms."
+msgstr ":doc:`研究・技術支援プラットフォーム <research>` — 上海人工知能実験室、ICC集積回路促進センター、ICRD、上海市科技創業センター（SHTIC）、清華大学国際イノベーションセンター、同済大学研究プラットフォーム群。"
+
+#: ../../index.rst:50
+msgid ""
+":doc:`Corporate and global programs <corporate>` — Roche, SAP.iO, ABB, "
+"DroidUp, PaddlePaddle, Yangtze AI+ Center, JLABS, Bayer Co.Lab, NVIDIA "
+"Inception, Microsoft, AWS, Siemens and BMW."
+msgstr ":doc:`企業プログラムとグローバル構想 <corporate>` — ロシュ、SAP.iO、ABB、卓益得（DroidUp）、百度飛槳（PaddlePaddle）、長三角AI+センター、JLABS、バイエルCo.Lab、NVIDIA Inception、マイクロソフト、AWS、シーメンス、BMW。"
+
+#: ../../index.rst:51
+msgid ""
+":doc:`Government entry points <government>` — All 16 district science, "
+"technology and economy authorities with official portals, published "
+"contacts and policy notes."
+msgstr ":doc:`政府・行政の公式相談窓口 <government>` — 公式ポータルサイト、公開連絡先、政策留意事項を備えた全16区の科学技術・経済担当主管部門の一覧。"
+
+#: ../../index.rst:52
+msgid ""
+":doc:`Capital, with its conditions attached <funding-guide>` — How to "
+"distinguish non-repayable grants, post-expenditure reimbursements, "
+"vouchers, debt, tax relief and equity investment."
+msgstr ":doc:`資金調達とその附帯条件 <funding-guide>` — 返済不要の補助金、事後精算型補助、イノベーションバウチャー、融資・デット、税制優遇、および株式投資（エクイティ）の見分け方と活用法。"
+
+#: ../../index.rst:53
+msgid ""
+":doc:`Funding, without mixing the mechanisms <funding>` — All 40 citywide "
+"and district funding pathways with ceilings, equity rules, eligibility "
+"criteria, deadlines and official links."
+msgstr ":doc:`資金調達ルート：各支援メカニズムの分類 <funding>` — 上海市全域および各区の全45件の資金調達ルート。上限額、株式取得ルール、申請資格、申請期限、公式リンクを網羅。"
+
+#: ../../index.rst:54
+msgid ""
+":doc:`Investors and patient capital <investors>` — STEFG Angel Fund, "
+"Shanghai Leading Industry Funds, Pudong AI Seed Fund, Embodied AI Fund, "
+"STVC and Qiming Venture Partners."
+msgstr ":doc:`投資家とペイシェントキャピタル（忍耐強い資本） <investors>` — 上海市大学生科技創業基金会（STEFG）天使基金、上海市三大先導産業母ファンド、浦東AIシードファンド、身体性知能ファンド、上海科投（STVC）、啓明創投（Qiming Venture Partners）。"
+
+#: ../../index.rst:55
+msgid ""
+":doc:`From introduction to application <apply>` — Bilingual outreach "
+"templates, shared data-room checklist, decision workflows and a four-week "
+"accelerator field program."
+msgstr ":doc:`初回アプローチから正式申請まで <apply>` — 日英・中英バイリンガルのアプローチ用テンプレート、共有データルームのチェックリスト、4つの意思決定ワークフロー、およびアクセラレーター向け4週間の現地フィールドプログラム。"
+
+#: ../../index.rst:56
+msgid ""
+":doc:`How to read the evidence <methodology>` — Source verification "
+"rules, translation discipline, map accuracy disclosures, known gaps and "
+"authorship credits."
+msgstr ":doc:`エビデンス（根拠資料）の読み方 <methodology>` — 情報源の検証規則、翻訳の規律、地図精度の開示、既知の情報ギャップ、および執筆チームのクレジット。"
+
+#: ../../index.rst:57
+msgid ""
+":doc:`Sources and reading room <sources>` — Complete bibliography of all "
+"cited government notices, institutional registers and operator pages with "
+"access dates."
+msgstr ":doc:`典拠資料とリーディングルーム <sources>` — 閲覧アクセス日を明記した、引用政府通知、教育機関公式名簿、運営者公式ページなどの完全文献目録。"

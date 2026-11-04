@@ -1,0 +1,270 @@
+# Shanghai Ecosystem Atlas UI layout strings (_templates/layout.html)
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Shanghai Ecosystem Atlas — Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog in HTML and PDF."
+msgstr "上海イノベーション生態系アトラス — 著者：Vikrant Rathore、共同貢献：Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu。GuidedogによりHTMLおよびPDFで構築。"
+
+msgid "Shanghai Ecosystem Atlas"
+msgstr "上海イノベーション生態系アトラス"
+
+msgid "Skip to content"
+msgstr "本文へスキップ"
+
+msgid "SHANGHAI"
+msgstr "上海"
+
+msgid "ECOSYSTEM ATLAS"
+msgstr "イノベーション生態系アトラス"
+
+msgid "Main navigation"
+msgstr "メインナビゲーション"
+
+msgid "Explore the map"
+msgstr "マップを探索"
+
+msgid "16 Districts"
+msgstr "全16行政区"
+
+msgid "Universities"
+msgstr "大学・研究機関"
+
+msgid "Incubation"
+msgstr "インキュベーション"
+
+msgid "Funding"
+msgstr "資金調達ルート"
+
+msgid "How to apply"
+msgstr "申請ガイド"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Download PDF Book"
+msgstr "PDF書籍をダウンロード"
+
+msgid "THE PEARL OF THE ORIENT / WHITE MAGNOLIA EDITION 2026"
+msgstr "東洋の真珠 · 上海市花白玉蘭エディション 2026"
+
+msgid "A city."
+msgstr "ひとつの都市。"
+
+msgid "A world of"
+msgstr "無限に広がる"
+
+msgid "possibility."
+msgstr "可能性。"
+
+msgid "Where Shanghai's 16 administrative districts, 40 undergraduate universities, 125 innovation organizations and 45 funding pathways meet. A white-magnolia and Chinese ink-wash field guide from research to repeatable enterprise."
+msgstr "上海の全16行政区、40の4年制大学、125のイノベーション機関、45の資金調達ルートが交差する実践的フィールドガイド。上海市花の白玉蘭と伝統的な水墨淡彩画の美学に着想を得ています。"
+
+msgid "Shanghai coverage highlights"
+msgstr "本アトラスの主な収録範囲"
+
+msgid "White Magnolia & Traditional Ink Wash"
+msgstr "上海市花・白玉蘭と伝統水墨淡彩"
+
+msgid "All 16 Shanghai Administrative Districts"
+msgstr "上海全16行政区を完全網羅"
+
+msgid "40 Universities + 41 Colleges"
+msgstr "40大学＋41短大・成人高等教育機関"
+
+msgid "Guidedog Native HTML & PDF"
+msgstr "Guidedog ネイティブ HTML & PDF"
+
+msgid "Explore the ecosystem"
+msgstr "エコシステムを探索する"
+
+msgid "All 7 language PDFs"
+msgstr "全7言語のPDF書籍"
+
+msgid "Written by:"
+msgstr "著者："
+
+msgid "With contributions from:"
+msgstr "共同貢献："
+
+msgid "Made using Guidedog in HTML and PDF · Available in English, 简体中文, हिन्दी, 日本語, 한국어, Deutsch & Español"
+msgstr "Guidedog により HTML と PDF で構築 · 英語・中国語・ヒンディー語・日本語・韓国語・ドイツ語・スペイン語の7言語で公開"
+
+msgid "Inspired by Yulania denudata (White Magnolia), official flower of Shanghai since 1986, and traditional shuimo dan cai ink-wash painting on xuan paper."
+msgstr "1986年に制定された上海市花・白玉蘭（ハクモクレン）と宣紙に描かれた伝統的な水墨淡彩画に着想を得ています。"
+
+msgid "Traditional Chinese shuimo ink wash painting of the Shanghai skyline across the misty Huangpu River with blooming white magnolia"
+msgstr "霧の黄浦江越しに望む上海スカイラインと咲き誇る白玉蘭の伝統水墨淡彩画"
+
+msgid "SHANGHAI / WHITE MAGNOLIA / CHINESE SHUIMO INK WASH"
+msgstr "上海 / 白玉蘭 / 伝統水墨淡彩画"
+
+msgid "Atlas coverage"
+msgstr "収録データ規模"
+
+msgid "districts, connected"
+msgstr "行政区を完全網羅"
+
+msgid "university profiles (+41 colleges)"
+msgstr "4年制大学（＋41短大・成人大学）"
+
+msgid "organization routes"
+msgstr "機関・拠点プロファイル"
+
+msgid "funding pathways"
+msgstr "資金・助成ルート"
+
+msgid "verified primary sources"
+msgstr "検証済み一次出典"
+
+msgid "Download the Complete Illustrated PDF Book"
+msgstr "完全版イラスト入りPDF書籍をダウンロード"
+
+msgid "Shanghai Ecosystem Atlas PDF Book Cover"
+msgstr "『上海イノベーション生態系アトラス』PDF書籍カバー"
+
+msgid "WHITE MAGNOLIA EDITION"
+msgstr "白玉蘭エディション"
+
+msgid "THE MAGNOLIA PRINT EDITION / COMPLETE ILLUSTRATED PDF BOOK"
+msgstr "白玉蘭プリントエディション / 完全版PDF書籍"
+
+msgid "Typeset in a generous 240 × 300 mm art-book format by Guidedog's embedded Typst engine, the PDF book contains every chapter, vector district map, architecture diagram, 125 organization profiles, 45 funding pathways, 81 higher-education registry entries and 133 cited sources for offline reading and field trips."
+msgstr "Guidedog内蔵のTypstエンジンにより240 × 300 mmの大判アートブック判型で組版されたPDF書籍。全章、16区ベクターマップ、アーキテクチャ図解、125機関プロファイル、45資金ルート、81高等教育機関名簿、133件の出典を完全収録しています。"
+
+msgid "AUTHOR"
+msgstr "著者"
+
+msgid "Lead author & ecosystem architecture"
+msgstr "筆頭著者・エコシステム設計"
+
+msgid "CONTRIBUTORS"
+msgstr "共同貢献者"
+
+msgid "PUBLICATION ENGINE"
+msgstr "パブリッシングエンジン"
+
+msgid "Single-source RST, native PO localization & Typst book typesetting"
+msgstr "単一ソースRST、ネイティブPO多言語化、Typst書籍組版"
+
+msgid "Browse all 16 district chapters"
+msgstr "全16行政区の章を閲覧"
+
+msgid "DOWNLOAD PDF BOOK IN ALL 7 LANGUAGES"
+msgstr "全7言語のPDF書籍をダウンロード"
+
+msgid "MODELS & AGENTS"
+msgstr "モデルとエージェント"
+
+msgid "Intelligence in software"
+msgstr "ソフトウェアにおける知能"
+
+msgid "From Model Speed Space and Zhangjiang Model Community to compute vouchers and pilot deployment."
+msgstr "模速空間や張江模力コミュニティから算力バウチャー、実証導入まで。"
+
+msgid "CHIPS & ROBOTS"
+msgstr "半導体とロボット"
+
+msgid "Intelligence in the physical world"
+msgstr "フィジカル空間の知能"
+
+msgid "Zhangjiang tape-out, Jiading MEMS pilot lines, embodied robotics, Jinshan UAVs and biomanufacturing."
+msgstr "張江の半導体試作、嘉定MEMSパイロットライン、身体性AIロボット、金山ドローン、バイオ製造。"
+
+msgid "CAPITAL WITH CONDITIONS"
+msgstr "条件付き資本と助成"
+
+msgid "Know what funding really means"
+msgstr "資金スキームの本質を見極める"
+
+msgid "Compare 45 non-repayable grants, vouchers, interest-free loans, convertible support and state funds."
+msgstr "45件の返済不要補助金、バウチャー、無利子融資、株式転換型支援、政府系ファンドを比較。"
+
+msgid "ALL 16 DISTRICTS"
+msgstr "全16行政区"
+
+msgid "Sixteen districts, sixteen entry routes"
+msgstr "16の行政区、16の参入ルート"
+
+msgid "District-by-district specialization, receiving authorities, local carriers and district funding calls."
+msgstr "各区の重点産業、担当行政窓口、地域インキュベーター、区独自の資金制度。"
+
+msgid "UNIVERSITIES & LABS"
+msgstr "大学と研究ラボ"
+
+msgid "Universities & commercialization"
+msgstr "大学と技術移転・社会実装"
+
+msgid "All 40 undergraduate universities, 29 diploma colleges, 12 adult institutions and science parks."
+msgstr "上海の全40大学、29短期大学、12成人高等教育機関および大学サイエンスパーク。"
+
+msgid "FIELD EXECUTION"
+msgstr "フィールド実践"
+
+msgid "From introduction to application"
+msgstr "初回コンタクトから正式申請まで"
+
+msgid "Outreach templates, shared data-room checklist, foreign founder work-permit guide and 4-week plan."
+msgstr "連絡テンプレート、データルーム準備リスト、外国人起業家就労許可ガイド、4週間実行計画。"
+
+msgid "IN THIS ATLAS"
+msgstr "目次・構成"
+
+msgid "PDF BOOK EDITION"
+msgstr "PDF書籍版"
+
+msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore & Emily Yue Xu. Built with Guidedog."
+msgstr "著者：Vikrant Rathore、共同貢献：Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu。Guidedogで構築。"
+
+msgid "Sources, credits & research limits"
+msgstr "出典・クレジット・調査範囲"
+
+msgid "Atlas"
+msgstr "アトラス"
+
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+msgid "Previous"
+msgstr "前へ"
+
+msgid "Next"
+msgstr "次へ"
+
+msgid "SHANGHAI / ECOSYSTEM ATLAS"
+msgstr "上海 / イノベーション生態系アトラス"
+
+msgid "Inspired by Shanghai's official white magnolia and traditional Chinese ink wash. Grounded in 133 verified sources."
+msgstr "上海市花の白玉蘭と伝統水墨淡彩に着想を得て、133件の検証済み一次情報に基づき編集。"
+
+msgid "Built with:"
+msgstr "構築ツール："
+
+msgid "Guidedog — Native HTML Website & Typst PDF Book across 7 languages"
+msgstr "Guidedog — 7言語対応ネイティブHTMLウェブサイト＆Typst PDF書籍"
+
+msgid "All 16 Shanghai districts"
+msgstr "上海全16行政区ガイド"
+
+msgid "Sources & reading room (133 sources)"
+msgstr "出典・資料室（133件の一次出典）"
+
+msgid "Research methods, gaps & credits"
+msgstr "調査手法・未確認事項・クレジット"
+
+msgid "Download research dataset (JSON)"
+msgstr "研究データセットをダウンロード (JSON)"
+
+msgid "Research checked 2026-11-04. Current official notices govern."
+msgstr "調査確認日：2026-11-04。最新の公式公募要領が優先されます。"
+
+msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu."
+msgstr "著者：Vikrant Rathore、共同貢献：Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu。"
+
+msgid "Built with Guidedog."
+msgstr "Guidedog で構築。"
+

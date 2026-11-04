@@ -1,0 +1,171 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../corporate.rst:1
+msgid "Corporate and global programs"
+msgstr "Programas corporativos y globales"
+
+#: ../../corporate.rst:4
+msgid ""
+"13 profiles with evidence, contact routes and an application checklist. "
+"Published existence is distinguished from current intake."
+msgstr "13 perfiles con evidencia, vías de contacto y lista de verificación de solicitud. La existencia publicada se distingue de la recepción activa de candidaturas."
+
+#: ../../corporate.rst:6
+msgid ""
+"Global programs are kept separate from local offices. Their China-region "
+"eligibility, service availability and account rules require direct "
+"verification. Historical corporate cohorts are marked."
+msgstr "Los programas globales se mantienen diferenciados de las oficinas locales. Su elegibilidad para la región de China, la disponibilidad de servicios y las normas de cuenta requieren verificación directa. Las cohortes corporativas históricas están señaladas expresamente."
+
+#: ../../corporate.rst:10
+msgid "Complete directory summary"
+msgstr "Resumen completo del directorio de organizaciones"
+
+#: ../../corporate.rst:13
+msgid ""
+":doc:`Roche Accelerator <entities/roche>` (罗氏加速器 · Corporate program · "
+"Pudong · Focus: Health, AI for Science) — Roche describes its Shanghai "
+"innovation accelerator for the China ecosystem. Relevant to healthcare "
+"and AI-enabled discovery teams. Scientific fit, space, collaboration, "
+"funding and IP terms are distinct questions. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Aceleradora de Innovación de Roche (Roche Accelerator) <entities/roche>` (罗氏加速器 · Programa de innovación corporativa · Nueva Área de Pudong · Salud y biomedicina, IA para la Ciencia) — Roche describe su aceleradora de innovación en Shanghái orientada al ecosistema chino. Relevante para equipos de salud y descubrimiento asistido por IA. El encaje científico, el espacio de laboratorio, la colaboración, la financiación y la propiedad intelectual son cuestiones diferenciadas. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../corporate.rst:14
+msgid ""
+":doc:`SAP.iO Foundry Shanghai <entities/sapio>` (SAP.iO上海加速器 · Corporate "
+"program · Pudong · Focus: Software AI, Industry) — The 2021 launch "
+"described an equity-free intelligent-manufacturing accelerator. It is "
+"included as a historical corporate route; the source does not establish a "
+"2026 Shanghai intake. Support: Equity-free services. [Status: Historical "
+"/ confirm continuation]"
+msgstr ":doc:`Aceleradora SAP.iO Foundry Shanghái <entities/sapio>` (SAP.iO上海加速器 · Programa de innovación corporativa · Nueva Área de Pudong · IA de software, Industria) — El lanzamiento de 2021 describía una aceleradora de fabricación inteligente sin toma de capital (equity-free). Se incluye como referencia histórica de ruta corporativa; la fuente documental no acredita la apertura de una convocatoria en Shanghái para 2026. [Servicios sin cesión de capital]. [Programa histórico; confirmar continuidad]"
+
+#: ../../corporate.rst:15
+msgid ""
+":doc:`ABB open innovation / Shanghai robotics <entities/abb>` "
+"(ABB开放创新／上海机器人生态 · Corporate program · Pudong · Focus: Hardware AI, "
+"Robotics) — ABB publishes open-innovation and startup collaboration "
+"routes. Its May 2025 Shanghai AI event is evidence of ecosystem activity, "
+"not an always-open startup accelerator cohort. Propose a measurable "
+"robotics use case. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Innovación abierta de ABB / Robótica en Shanghái <entities/abb>` (ABB开放创新／上海机器人生态 · Programa de innovación corporativa · Nueva Área de Pudong · IA de hardware, Robótica) — ABB publica vías de innovación abierta y colaboración con startups. Su evento de IA en Shanghái de mayo de 2025 demuestra actividad en el ecosistema, pero no implica una cohorte de aceleración permanentemente abierta. Proponga un caso de uso robótico medible. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../corporate.rst:16
+msgid ""
+":doc:`DroidUp Ecosystem Accelerator <entities/droidup>` (卓益得生态加速器 · "
+"Corporate program · Pudong · Focus: Hardware AI, Robotics) — The December "
+"2025 Zhangjiang Robot Valley account reports the accelerator launch. We "
+"include it as a robotics industry route and require direct confirmation "
+"of intake, pilot access, investment and hardware resources. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Aceleradora del Ecosistema DroidUp <entities/droidup>` (卓益得生态加速器 · Programa de innovación corporativa · Nueva Área de Pudong · IA de hardware, Robótica) — La crónica de diciembre de 2025 del Valle de la Robótica de Zhangjiang informa de la puesta en marcha de esta aceleradora. La incluimos como ruta del sector robótico y recomendamos confirmar directamente la admisión, el acceso a pilotos, la inversión y los recursos de hardware. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../corporate.rst:17
+msgid ""
+":doc:`Shanghai AI Public Technology Service Platform <entities/paddle>` "
+"(上海人工智能公共技术服务平台 · Corporate program · Pudong · Focus: Software AI) — The "
+"PaddlePaddle-linked platform publishes AI training and ecosystem "
+"resources. Explore its technical services and developer events; confirm "
+"whether a specific training or compute offer carries fees. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Plataforma de Servicios Técnicos Públicos de IA de Shanghái (PaddlePaddle) <entities/paddle>` (上海人工智能公共技术服务平台 · Programa de innovación corporativa · Nueva Área de Pudong · IA de software) — La plataforma vinculada a PaddlePaddle publica recursos de formación y ecosistema de IA. Explore sus servicios técnicos y eventos para desarrolladores; confirme previamente si una oferta concreta de formación o cómputo conlleva tarifas. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../corporate.rst:18
+msgid ""
+":doc:`Yangtze River Delta AI+ Joint Innovation Center "
+"<entities/huawei-ai>` (长三角AI+联合创新中心 · Corporate program · Qingpu · Focus: "
+"Software AI, Hardware AI) — An official July 2026 account records the "
+"center beginning operations in Qingpu. Confirm the operator, technical "
+"scope, Huawei ecosystem interface and actual startup admission before "
+"describing a benefit package. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`Centro Conjunto de Innovación AI+ del Delta del Río Yangtsé <entities/huawei-ai>` (长三角AI+联合创新中心 · Programa de innovación corporativa · Distrito de Qingpu · IA de software, IA de hardware) — Una nota oficial de julio de 2026 registra el inicio de operaciones del centro en Qingpu. Confirme el operador, el alcance técnico, la interfaz con el ecosistema de Huawei y las condiciones reales de admisión de startups antes de dar por sentado un paquete de beneficios. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../corporate.rst:19
+msgid ""
+":doc:`NVIDIA Inception <entities/nvidia>` (英伟达初创加速计划 · Global program · "
+"Citywide / global · Focus: Software AI, Hardware AI) — A free AI startup "
+"ecosystem program with no application fee, membership fee or equity "
+"requirement. It is not a cash grant. China eligibility, product access "
+"and partner benefits must be checked for the specific company. Support: "
+"Equity-free services. [Status: Program published; eligibility review]"
+msgstr ":doc:`NVIDIA Inception (Programa para startups de IA) <entities/nvidia>` (英伟达初创加速计划 · Programa global · Toda la ciudad / global · IA de software, IA de hardware) — Programa gratuito de ecosistema para startups de IA sin tasas de solicitud, cuotas de membresía ni exigencia de cesión de capital. No es una subvención en efectivo. La elegibilidad en China, el acceso a productos y los beneficios de socios deben verificarse para cada empresa concreta. [Servicios sin cesión de capital]. [Programa publicado; sujeto a revisión de elegibilidad]"
+
+#: ../../corporate.rst:20
+msgid ""
+":doc:`Microsoft for Startups <entities/ms-startups>` (微软初创企业计划 · Global "
+"program · Citywide / global · Focus: Software AI) — The current program "
+"provides Azure-related startup resources through online application. We "
+"do not transfer historic Shanghai accelerator terms or global credit "
+"ceilings to China-region accounts. Validate the legal entity and region "
+"first. Support: Cloud credits. [Status: Regional eligibility to confirm]"
+msgstr ":doc:`Microsoft para Startups (Microsoft for Startups) <entities/ms-startups>` (微软初创企业计划 · Programa global · Toda la ciudad / global · IA de software) — El programa actual ofrece recursos para startups vinculados a Azure mediante solicitud en línea. No extrapolamos las condiciones históricas de la antigua aceleradora de Shanghái ni los topes globales de créditos a las cuentas de la región de China. Valide primero la entidad legal y la región. [Créditos en la nube]. [Elegibilidad regional pendiente de confirmar]"
+
+#: ../../corporate.rst:21
+msgid ""
+":doc:`AWS China Activate <entities/aws-activate>` (亚马逊云科技中国区Activate · "
+"Global program · Citywide / global · Focus: Software AI) — A China-region "
+"startup offer with company, customer and participating investor or "
+"incubation relationship conditions. Credits offset eligible services; "
+"they are not cash and should not be confused with the separate global AWS "
+"offer. Support: Cloud credits. [Status: Regional eligibility to confirm]"
+msgstr ":doc:`AWS China Activate (Programa de créditos en la nube) <entities/aws-activate>` (亚马逊云科技中国区Activate · Programa global · Toda la ciudad / global · IA de software) — Oferta para startups en la región de China sujeta a condiciones relativas a la empresa, al estado como nuevo cliente y a la vinculación con inversores o incubadoras participantes. Los créditos compensan servicios elegibles; no son dinero en efectivo y no deben confundirse con la oferta global independiente de AWS. [Créditos en la nube]. [Elegibilidad regional pendiente de confirmar]"
+
+#: ../../corporate.rst:22
+msgid ""
+":doc:`JLABS Shanghai <entities/jlabs>` (强生创新JLABS上海 · Corporate program · "
+"Pudong · Focus: Health, AI for Science) — An operator-listed "
+"life-sciences incubation site in Zhangjiang with an application route. "
+"For AI-enabled healthcare, clarify scientific fit, laboratory "
+"requirements, residency pricing, IP and any separate challenge or "
+"investment terms. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`JLABS Shanghái (Johnson & Johnson Innovation) <entities/jlabs>` (强生创新JLABS上海 · Programa de innovación corporativa · Nueva Área de Pudong · Salud y biomedicina, IA para la Ciencia) — Centro de incubación en ciencias de la vida listado por el operador en Zhangjiang con vía de solicitud abierta. Para proyectos de salud asistidos por IA, aclare el encaje científico, los requisitos de laboratorio, las tarifas de residencia, la propiedad intelectual y cualesquiera términos independientes de retos o inversión. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../corporate.rst:23
+msgid ""
+":doc:`Bayer Co.Lab Shanghai <entities/bayer>` (拜耳Co.Lab上海 · Corporate "
+"program · Pudong · Focus: Health, AI for Science) — Bayer's September "
+"2024 Shanghai site launch describes shared laboratories and office space "
+"for early biotech teams in SH-INNO Park. Confirm available residency and "
+"collaboration terms; the historic capacity is not a current vacancy "
+"count. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Bayer Co.Lab Shanghái <entities/bayer>` (拜耳Co.Lab上海 · Programa de innovación corporativa · Nueva Área de Pudong · Salud y biomedicina, IA para la Ciencia) — La presentación de septiembre de 2024 de la sede de Bayer en Shanghái describe laboratorios compartidos y espacio de oficinas para equipos biotecnológicos en etapa temprana dentro de SH-INNO Park. Confirme la disponibilidad actual de residencia y las condiciones de colaboración; la capacidad histórica no equivale a vacantes en tiempo real. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../corporate.rst:24
+msgid ""
+":doc:`Siemens startup / Xcelerator ecosystem <entities/siemens>` "
+"(西门子初创企业与Xcelerator生态 · Global program · Citywide / global · Focus: "
+"Software AI, Hardware AI, Industry) — Siemens publishes a startup "
+"connection and marketplace route for industrial solutions, with a "
+"separate China Xcelerator platform. Marketplace onboarding and industrial "
+"partnerships are distinct from a funding award. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`Ecosistema para startups Siemens Xcelerator <entities/siemens>` (西门子初创企业与Xcelerator生态 · Programa global · Toda la ciudad / global · IA de software, IA de hardware, Industria) — Siemens publica una vía de conexión para startups y un mercado digital (marketplace) de soluciones industriales, contando además con una plataforma específica de Xcelerator en China. La incorporación al catálogo digital y las alianzas industriales son procesos distintos de una concesión de financiación. [Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../corporate.rst:25
+msgid ""
+":doc:`BMW Group Startup Garage <entities/bmw>` (宝马集团Startup Garage · "
+"Global program · Citywide / global · Focus: Mobility, Hardware AI, "
+"Software AI) — BMW describes a venture-client route for evaluating "
+"startup solutions for products, services and internal processes. Validate "
+"the responsible China business owner and pilot requirements; "
+"venture-client activity is not necessarily equity investment. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`BMW Group Startup Garage (Programa de cliente de riesgo) <entities/bmw>` (宝马集团Startup Garage · Programa global · Toda la ciudad / global · Movilidad, IA de hardware, IA de software) — BMW describe un modelo de cliente de riesgo (venture-client) para evaluar soluciones de startups aplicables a productos, servicios y procesos internos. Valide quién es el responsable de negocio en China y los requisitos del piloto; la actividad de venture-client no conlleva necesariamente inversión en capital. [Entidad documentada; admisión pendiente de confirmar]"

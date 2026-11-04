@@ -1,0 +1,121 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/tongji-pai.rst:1
+msgid "Tongji PAI Research Center"
+msgstr "तोंगजी PAI रिसर्च सेंटर (Tongji PAI Research Center)"
+
+#: ../../entities/tongji-pai.rst:4
+msgid "同济大学PAI研究中心"
+msgstr "同济大学PAI研究中心"
+
+#: ../../entities/tongji-pai.rst:6
+msgid "Research platform | Jiading | Research checked 2026-11-04"
+msgstr "अनुसंधान प्लेटफॉर्म | जियाडिंग (Jiading) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/tongji-pai.rst:8
+msgid "AI and industry focus: Hardware AI, Sensors."
+msgstr "एआई और उद्योग फोकस: हार्डवेयर AI, सेंसर।"
+
+#: ../../entities/tongji-pai.rst:10
+msgid ""
+"The center publishes an industry collaboration entry for localization, "
+"sensing, communication and trusted coordination. We use its cooperation "
+"contact rather than assuming access through general university admissions."
+msgstr "केंद्र लोकलाइजेशन, सेंसिंग, संचार और विश्वसनीय समन्वय के लिए उद्योग सहयोग प्रविष्टि प्रकाशित करता है। हम सामान्य विश्वविद्यालय प्रवेश के माध्यम से पहुंच मानने के बजाय इसके सहयोग संपर्क का उपयोग करते हैं।"
+
+#: ../../entities/tongji-pai.rst:12
+msgid ""
+"`Evidence S033 <https://ai.tongji.edu.cn/contact.html>`_. 联系我们 | PAI "
+"Research Center."
+msgstr "`साक्ष्य S033 <https://ai.tongji.edu.cn/contact.html>`_. 联系我们 | PAI Research Center."
+
+#: ../../entities/tongji-pai.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/tongji-pai.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/tongji-pai.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/tongji-pai.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/tongji-pai.rst:24
+msgid ""
+"`Official website / intake route <https://ai.tongji.edu.cn/contact.html>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://ai.tongji.edu.cn/contact.html>`_"
+
+#: ../../entities/tongji-pai.rst:26
+msgid "`Email: lingtang@tongji.edu.cn <mailto:lingtang@tongji.edu.cn>`_"
+msgstr "`ईमेल: lingtang@tongji.edu.cn <mailto:lingtang@tongji.edu.cn>`_"
+
+#: ../../entities/tongji-pai.rst:28
+msgid ""
+"Published address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan "
+"Highway."
+msgstr "प्रकाशित पता: झिशिन बिल्डिंग, तोंगजी जियाडिंग कैंपस, 4800 काओआन हाईवे।"
+
+#: ../../entities/tongji-pai.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/tongji-pai.rst:32
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/tongji-pai.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/tongji-pai.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "प्रासंगिक अनुसंधान समूह खोजें और वैज्ञानिक या औद्योगिक समस्या बताएं।"
+
+#: ../../entities/tongji-pai.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "डेटा, उपकरण, आउटपुट, फंडिंग और समय-सीमा को कवर करने वाला एक संक्षिप्त प्रस्ताव भेजें।"
+
+#: ../../entities/tongji-pai.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "सहयोग मार्ग, प्रकाशन, IP और संस्थागत प्राधिकरण पर सहमति बनाएं।"
+
+#: ../../entities/tongji-pai.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "काम शुरू करने से पहले लिखित पहुंच या परियोजना अनुमोदन प्राप्त करें।"
+
+#: ../../entities/tongji-pai.rst:45
+msgid ":doc:`Jiading district route </districts/jiading>`"
+msgstr ":doc:`जियाडिंग (Jiading) ज़िला मार्ग </districts/jiading>`"

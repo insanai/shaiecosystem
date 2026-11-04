@@ -1,0 +1,117 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/digital-silicon.rst:1
+msgid "Digital Silicon Alley / Hongqiao innovation carriers"
+msgstr "デジタル・シリコンアレイ／虹橋イノベーションキャリア"
+
+#: ../../entities/digital-silicon.rst:4
+msgid "数字硅巷／虹桥创新载体"
+msgstr "数字硅巷／虹桥创新载体"
+
+#: ../../entities/digital-silicon.rst:6
+msgid "Incubator | Changning | Research checked 2026-11-04"
+msgstr "インキュベーター｜長寧区｜調査確認日 2026-11-04"
+
+#: ../../entities/digital-silicon.rst:8
+msgid "AI and industry focus: Software AI."
+msgstr "AIおよび産業フォーカス：ソフトウェアAI。"
+
+#: ../../entities/digital-silicon.rst:10
+msgid ""
+"Changning identifies a layered group of digital incubation and OPC "
+"communities. We treat this record as a district routing entry, not a "
+"single interchangeable operator or a guaranteed free-workspace offer."
+msgstr "長寧区が整備する階層的なデジタルインキュベーションおよびスーパーインディビジュアル（OPC／一人起業家）向けコミュニティ群。本項目は区の総合窓口案内であり、各運営主体を一括りにしたり無償デスクを保証したりするものではない。"
+
+#: ../../entities/digital-silicon.rst:12
+msgid ""
+"`Evidence S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. "
+"上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+msgstr "`出典 S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. 上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+
+#: ../../entities/digital-silicon.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/digital-silicon.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/digital-silicon.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/digital-silicon.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/digital-silicon.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_"
+msgstr "`公式エビデンス（典拠）および主管機関窓口 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_"
+
+#: ../../entities/digital-silicon.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/digital-silicon.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/digital-silicon.rst:30
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/digital-silicon.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/digital-silicon.rst:35
+msgid "Send a project brief and request the current admission checklist."
+msgstr "プロジェクト概要書を送付し、現行の入居・採択チェックリストを請求する。"
+
+#: ../../entities/digital-silicon.rst:37
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "運営事業者による資格審査および技術的・商業的審査を完了する。"
+
+#: ../../entities/digital-silicon.rst:39
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "賃料、サービス料、知的財産権、計算資源（コンピュート）の利用料、および株式取得条項の有無を書面で確認する。"
+
+#: ../../entities/digital-silicon.rst:41
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "合意した入居契約書・採択文書に署名し、マイルストーンと担当支援責任者を記録する。"
+
+#: ../../entities/digital-silicon.rst:43
+msgid ":doc:`Changning district route </districts/changning>`"
+msgstr ":doc:`長寧区の案内ルート </districts/changning>`"

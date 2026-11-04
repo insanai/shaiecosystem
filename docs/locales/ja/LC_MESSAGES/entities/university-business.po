@@ -1,0 +1,132 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/university-business.rst:1
+msgid "Shanghai Business School"
+msgstr "上海商学院"
+
+#: ../../entities/university-business.rst:4
+msgid "上海商学院"
+msgstr "上海商学院"
+
+#: ../../entities/university-business.rst:6
+msgid "University | Fengxian | Research checked 2026-11-04"
+msgstr "大学・高等教育機関｜奉賢区｜調査確認日 2026-11-04"
+
+#: ../../entities/university-business.rst:8
+msgid "Ministry of Education institution code: 4131012050."
+msgstr "教育部機関コード：4131012050。"
+
+#: ../../entities/university-business.rst:10
+msgid ""
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Digital retail, commerce, service "
+"innovation. These themes are editorial routing guidance, not a verified "
+"offer of laboratory access or startup funding."
+msgstr "2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：デジタルリテール、商取引、サービスイノベーション。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。"
+
+#: ../../entities/university-business.rst:12
+msgid ""
+"`Evidence S076 "
+"<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+"全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`出典 S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+
+#: ../../entities/university-business.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/university-business.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/university-business.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/university-business.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/university-business.rst:24
+msgid ""
+"Official university website; request the technology-transfer, research "
+"cooperation or entrepreneurship office"
+msgstr "大学公式サイト：技術移転、産学官連携、または起業支援部門にお問い合わせください"
+
+#: ../../entities/university-business.rst:26
+msgid "`Official website / intake route <https://www.sbs.edu.cn/>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://www.sbs.edu.cn/>`_"
+
+#: ../../entities/university-business.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/university-business.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/university-business.rst:32
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/university-business.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/university-business.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "関連する研究グループを特定し、解決すべき学術的または産業的課題を明確にする。"
+
+#: ../../entities/university-business.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "データ、設備、研究成果、必要予算、およびタイムラインを網羅した簡潔な共同研究提案書を送付する。"
+
+#: ../../entities/university-business.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "連携スキーム、論文発表、知的財産の帰属、および所属機関の承認手続きについて合意する。"
+
+#: ../../entities/university-business.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "研究業務を開始する前に、書面による施設利用許可またはプロジェクト承認を取得する。"
+
+#: ../../entities/university-business.rst:45
+msgid ""
+"Confirm whether external founders can apply, whether student or alumni "
+"status is required, who owns the research IP, and whether support is a "
+"service, a loan, a grant or equity. The thematic match in this profile is "
+"editorial guidance."
+msgstr "学外の創業者が応募可能か、在学生や卒業生の身分が必要か、研究成果の知的財産権は誰に帰属するか、そして支援形態がサービス提供、融資、助成金、株式出資のいずれであるかを確認してください。本プロファイルに記載されたテーマ別マッチングは編集部によるガイダンスです。"
+
+#: ../../entities/university-business.rst:47
+msgid ":doc:`Fengxian district route </districts/fengxian>`"
+msgstr ":doc:`奉賢区の案内ルート </districts/fengxian>`"

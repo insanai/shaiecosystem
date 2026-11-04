@@ -1,0 +1,128 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../methodology.rst:1
+msgid "How to read the evidence"
+msgstr "Wie die Belege zu verstehen sind"
+
+#: ../../methodology.rst:4
+msgid ""
+"A useful directory makes uncertainty inspectable. We link the source near "
+"the claim and keep a shared record behind the English and Simplified "
+"Chinese editions."
+msgstr "Ein praxisnahes Verzeichnis macht Ungewissheiten transparent überprüfbar. Wir verlinken die Primärquelle unmittelbar an der jeweiligen Angabe und pflegen eine gemeinsame Datenbasis für die englische und die chinesische Ausgabe."
+
+#: ../../methodology.rst:6
+msgid "Research and translation"
+msgstr "Recherche und Übersetzung"
+
+#: ../../methodology.rst:9
+msgid ""
+"We searched English and Simplified Chinese sources, prioritizing "
+"municipal and district authorities, official university pages and program "
+"operators. The Ministry of Education register supplies institutional "
+"scope. Sources are linked, not copied wholesale. Search discovery alone "
+"is weaker than a program's own current notice."
+msgstr "Wir haben englisch- und chinesischsprachige Quellen ausgewertet, mit Vorrang für städtische und bezirkliche Behörden, offizielle Hochschulportale und Programmträger. Das Register des Bildungsministeriums bildet den institutionellen Rahmen. Quellen werden referenziert, nicht ungeprüft kopiert. Ein Suchmaschinentreffer wiegt stets geringer als die aktuelle Bekanntmachung des Programms selbst."
+
+#: ../../methodology.rst:11
+msgid ""
+"A source-access date records our research session, not a promise of "
+"continuous monitoring. Some official sites block automated access or "
+"retain old pages. Current validity, open intake, available capacity and a "
+"responsive contact are separate facts. We do not label an opportunity "
+"open without a dated supporting notice."
+msgstr "Das Zugriffsdatum dokumentiert den jeweiligen Recherchetag, stellt aber kein Versprechen einer lückenlosen Dauerüberwachung dar. Manche Behördenseiten blockieren automatisierten Zugriff oder halten veraltete Bekanntmachungen vor. Formelle Gültigkeit, offenes Antragsfenster, freie Kapazitäten und ein erreichbarer Ansprechpartner sind getrennte Sachverhalte. Wir stufen ein Programm niemals als offen ein, wenn kein datiertes offizielles Dokument dies belegt."
+
+#: ../../methodology.rst:13
+msgid ""
+"Chinese organization names are retained for searching and contact. "
+"Descriptive English names may be editorial translations. The Chinese "
+"edition translates the editorial text, interface and research records; "
+"third-party source pages retain their original language. A linked Chinese "
+"policy controls over our English summary."
+msgstr "Chinesische Organisationsnamen werden für Recherchen und Vor-Ort-Kontakte im Original beibehalten. Beschreibende englische Namen sind redaktionelle Übersetzungen. Die chinesische Ausgabe übersetzt Fachtexte, Benutzeroberfläche und Rechercheeinträge; verlinkte Drittquellen verbleiben in der Originalsprache. Im Zweifel ist stets der verlinkte chinesische Originaltext der Richtlinie maßgeblich, nicht unsere Zusammenfassung."
+
+#: ../../methodology.rst:15
+msgid "Contacts, workflows and map locations"
+msgstr "Kontakte, Abläufe und Kartenstandorte"
+
+#: ../../methodology.rst:18
+msgid ""
+"Published phone numbers and email addresses are attributed to their "
+"source. A general university switchboard is identified as such. Where a "
+"direct contact is not established, the record gives the official website "
+"or authority route and explicitly requests a named receiving team. We did "
+"not contact organizations or submit applications."
+msgstr "Veröffentlichte Telefonnummern und E-Mail-Adressen werden mit ihrer Fundstelle nachgewiesen. Eine allgemeine Telefonzentrale einer Universität wird als solche gekennzeichnet. Wo kein direkter Durchwahlanlaufpunkt ermittelt werden konnte, verweist der Eintrag auf die offizielle Website oder Behördenstruktur und rät zur Erfragung des zuständigen Sachgebiets. Wir haben Organisationen nicht selbst kontaktiert und keine Anträge gestellt."
+
+#: ../../methodology.rst:20
+msgid ""
+"Application workflows are labelled as editorial checklists unless a "
+"record cites a notice-specific procedure. Campus and district anchors "
+"locate an ecosystem, not a verified entrance. Even street-based plotted "
+"points are approximate. The district boundaries are an illustrative DataV "
+"dataset, with no claim to survey, legal-boundary or navigation accuracy."
+msgstr "Bewerbungsabläufe sind ausdrücklich als redaktionelle Checklisten deklariert, sofern nicht das behördliche Verfahren der Richtlinie zitiert wird. Markierungen für Universitäten und Bezirke verorten ein Innovationsökosystem, keinen verifizierten Gebäudeeingang. Auch straßenbasierte Koordinaten sind Näherungswerte. Die Bezirksgrenzen basieren auf einem illustrativen DataV-Datensatz und erheben keinen Anspruch auf vermessungstechnische, juristische oder navigatorische Exaktheit."
+
+#: ../../methodology.rst:22
+msgid "Known gaps and responsible upkeep"
+msgstr "Bekannte Lücken und gewissenhafte Pflege"
+
+#: ../../methodology.rst:25
+msgid ""
+"Coverage is broad but not exhaustive. Many private incubators publish no "
+"current terms. Some district rules require a current annual notice that "
+"we could not establish as open. Several universities have no verified "
+"external startup program in this edition. Their institutional entry is "
+"included without inventing an accelerator or grant."
+msgstr "Die Erfassung ist umfangreich, aber nicht lückenlos. Viele private Inkubatoren veröffentlichen keine aktuellen Konditionen. Manche bezirkliche Förderprogramme bedürfen einer jährlichen Neuausschreibung, deren Öffnung zum Stichtag nicht nachweisbar war. Mehrere Universitäten weisen in dieser Ausgabe kein verifiziertes Förderprogramm für externe Gründer auf. Ihr Institutionseintrag wird aufgeführt, ohne Förderungen oder Accelerator-Programme zu erfinden."
+
+#: ../../methodology.rst:27
+msgid ""
+"The registry includes 29 diploma colleges and 12 adult institutions "
+"without claiming program-level research for each. For university "
+"profiles, suggested thematic fit and office-routing questions are "
+"editorial guidance rather than a verified inventory of laboratories, "
+"contacts or available awards."
+msgstr "Das Verzeichnis enthält 29 tertiäre Fachkollegs und 12 Einrichtungen der Erwachsenenbildung, ohne für jede einzelne Institution Detailrecherchen zu beanspruchen. Bei den Hochschulprofilen verstehen sich thematische Zuordnungen und Hinweise zur Kontaktaufnahme als redaktionelle Orientierungshilfe, nicht als verifiziertes Inventar von Laboren, festen Ansprechpartnern oder verfügbaren Stipendien."
+
+#: ../../methodology.rst:29
+msgid ""
+"Before a new edition, recheck source dates, operator identity, policy "
+"expiry, intake deadlines, contacts, funding mechanism, eligibility, "
+"district boundaries and duplicate-funding rules. Preserve superseded "
+"claims with their historical status instead of silently reusing them. The "
+"source repository contains the data, translations, artwork provenance and "
+"reproducible Guidedog build commands."
+msgstr "Vor einer Neuauflage sind Quelldaten, Trägeridentitäten, Gültigkeitsfristen, Ausschreibungsenden, Ansprechpartner, Förderinstrumente, Antragsberechtigungen, Bezirksgrenzen und Doppelförderungsverbote neu zu prüfen. Veraltete Bestimmungen müssen als historisch gekennzeichnet und dürfen nicht stillschweigend fortgeschrieben werden. Das Quell-Repository enthält Rohdaten, Übersetzungen, Nachweise zum Bildmaterial und reproduzierbare Guidedog-Build-Befehle."
+
+#: ../../methodology.rst:31
+msgid ""
+"Credits and publication system: Written by Vikrant Rathore, with "
+"contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
+"Kanak Rathore and Emily Yue Xu. Built with Guidedog as a unified "
+"bilingual HTML website and Typst-typeset PDF book publication."
+msgstr "Autorenschaft und Publikationssystem: Verfasst von Vikrant Rathore, unter Mitwirkung von Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu. Erstellt mit Guidedog als einheitliche zweisprachige HTML-Website und typografisch mit Typst gesetzte PDF-Buchpublikation."
+
+#: ../../methodology.rst:33
+msgid ""
+"`Evidence S132 "
+"<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV "
+"Shanghai district geometry."
+msgstr "`Nachweis S132 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry."

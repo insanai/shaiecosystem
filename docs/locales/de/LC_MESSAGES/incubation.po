@@ -1,0 +1,463 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../incubation.rst:1
+msgid "Incubators, accelerators and parks"
+msgstr "Inkubatoren, Acceleratoren und Technologieparks"
+
+#: ../../incubation.rst:4
+msgid ""
+"42 profiles with evidence, contact routes and an application checklist. "
+"Published existence is distinguished from current intake."
+msgstr "42 Profile mit Quellenbelegen, Kontaktwegen und Bewerbungs-Checkliste. Veröffentlichte Existenz wird von laufenden Bewerbungsrunden unterschieden."
+
+#: ../../incubation.rst:8
+msgid "Complete directory summary"
+msgstr "Übersicht des vollständigen Verzeichnisses"
+
+#: ../../incubation.rst:11
+msgid ""
+":doc:`Shanghai Model Speed Space <entities/mosu>` (上海模速空间 · Incubator · "
+"Xuhui · Focus: Software AI) — A specialist large-model incubation and "
+"acceleration community on the West Bund. Its operator lists several "
+"zones; admission, workspace, compute support and investment are separate "
+"decisions. Support: Services / possible incentives. Address: Zone A, 180 "
+"Longtai Road, Xuhui. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Shanghai Model Speed Space (Mó Sù Kōng Jiān) <entities/mosu>` (上海模速空间 · Inkubator · Bezirk Xuhui · Software-KI) — Ein spezialisierter Inkubations- und Beschleunigungsstandort für Basis- und Großmodelle am West Bund. Der Betreiber unterteilt das Areal in mehrere Zonen; Aufnahme, Büroflächen, Rechenleistungsförderung und Eigenkapitalinvestitionen sind jeweils eigenständige Entscheidungen. [Flächen & Services / potenzielle Förderanreize]. Bereich A, Longtai-Straße 180, Bezirk Xuhui. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:12
+msgid ""
+":doc:`Zhangjiang Model Community <entities/model-community>` (张江模力社区 · "
+"Incubator · Pudong · Focus: Software AI, Hardware AI) — A Zhangjiang AI "
+"community identified in the municipal AI implementation plan. It links "
+"model developers and industry users. Ask the operator for the specific "
+"model, data and compute package and its reimbursement rules. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Zhangjiang Model Community (Mólì Qū) <entities/model-community>` (张江模力社区 · Inkubator · Neuer Stadtbezirk Pudong · Software-KI, Hardware-KI) — Eine im KI-Aktionsplan der Stadt Shanghai ausgewiesene KI-Modell-Community in Zhangjiang. Sie vernetzt Modellentwickler mit Industrieanwendern. Erkundigen Sie sich beim Betreiber nach den konkreten Modell-, Daten- und Rechenleistungspaketen sowie den jeweiligen Erstattungsrichtlinien. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:13
+msgid ""
+":doc:`Grand neoBay / Zero Kilometer Incubator <entities/neobay>` "
+"(大零号湾／零公里孵化器 · Incubator · Minhang · Focus: Hardware AI, Software AI) — A "
+"university-linked commercialization route connecting early technology "
+"projects with incubation. SJTU documents the Zero Kilometer launch and "
+"its AI, integrated-circuit, manufacturing and low-carbon participants. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Grand neoBay / Inkubator „Kilometer Null“ <entities/neobay>` (大零号湾／零公里孵化器 · Inkubator · Bezirk Minhang · Hardware-KI, Software-KI) — Ein an Universitäten angebundener Verwertungspfad, der Technologieprojekte in der Frühphase mit Inkubationsressourcen verbindet. Die Jiao-Tong-Universität Shanghai dokumentiert den Start des Inkubators „Kilometer Null“ sowie beteiligte Unternehmen aus den Bereichen KI, integrierte Schaltkreise, Fertigung und Dekarbonisierung. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:14
+msgid ""
+":doc:`Zhangjiang Hi-Tech 895 Incubator <entities/895>` (张江高科895孵化器 · "
+"Incubator · Pudong · Focus: Hardware AI, Chips) — A deep-technology "
+"incubator with chip-testing and industrialization context in Zhangjiang. "
+"Incubation and the associated angel investment pathway must be reviewed "
+"as different agreements. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Zhangjiang Hi-Tech 895-Inkubator <entities/895>` (张江高科895孵化器 · Inkubator · Neuer Stadtbezirk Pudong · Hardware-KI, Halbleiter & Chips) — Ein Deep-Tech-Inkubator mit Fokus auf Halbleiterprüfungen und Industrialisierung in Zhangjiang. Die Inkubationsvereinbarung und die damit verknüpfte Angel-Investment-Beteiligung müssen als getrennte Verträge geprüft werden. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:15
+msgid ""
+":doc:`Synlonx Brain-Computer Interface Incubator <entities/synlonx>` "
+"(司南脑机智能孵化器 · Incubator · Minhang · Focus: Hardware AI, Health) — A "
+"brain-computer interface incubation platform launched in Huacao. Suitable "
+"conversations include electrodes, neural interfaces, sensing, "
+"rehabilitation and translational engineering; wet-lab and device "
+"requirements need explicit confirmation. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Synlonx-Inkubator für Gehirn-Computer-Schnittstellen <entities/synlonx>` (司南脑机智能孵化器 · Inkubator · Bezirk Minhang · Hardware-KI, Gesundheit & Life Sciences) — Eine in Huacao gegründete Plattform zur Inkubation von Gehirn-Computer-Schnittstellen (BCI). Geeignete Gesprächsthemen umfassen Elektroden, neuronale Schnittstellen, Sensorik, Rehabilitation und Translationstechnik; Anforderungen an Nasslabore und Medizingerätezulassungen müssen explizit geklärt werden. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:16
+msgid ""
+":doc:`InnoSpring / SITRI incubation ecosystem <entities/innospring>` "
+"(新微创源／上海微技术工研院孵化生态 · Incubator · Jiading · Focus: Hardware AI, Chips, "
+"Sensors) — The municipal science commission records joint work between "
+"InnoSpring and SITRI. This is a route for beyond-Moore technology, shared "
+"technical services and pilot production rather than a promise of free "
+"fabrication. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`InnoSpring / SITRI-Inkubationsökosystem <entities/innospring>` (新微创源／上海微技术工研院孵化生态 · Inkubator · Bezirk Jiading · Hardware-KI, Halbleiter & Chips, Sensorik) — Die städtische Wissenschaftskommission dokumentiert die enge Kooperation zwischen InnoSpring und dem SITRI-Institut. Dies ist eine Anlaufstelle für More-than-Moore-Technologien, gemeinsame Entwicklungsdienstleistungen und Pilotfertigungen, stellt jedoch keine Garantie für kostenlose Tape-Outs dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:17
+msgid ""
+":doc:`ATLATL Zhangjiang Center <entities/atlatl>` (ATLATL飞镖张江中心 · "
+"Incubator · Pudong · Focus: Health, AI for Science) — A shared research "
+"and incubation environment in Zhangjiang Pharma Valley. Laboratory "
+"services and its innovation seed-fund relationships are relevant to "
+"AI-enabled biology; access and investment are negotiated separately. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`ATLATL Zhangjiang-Innovationszentrum <entities/atlatl>` (ATLATL飞镖张江中心 · Inkubator · Neuer Stadtbezirk Pudong · Gesundheit & Life Sciences, KI in der Wissenschaft (AI for Science)) — Eine erstklassige Life-Sciences-Gemeinschaftsplattform in Zhangjiang. Das modulare Labor-, Arbeitsplatz- und Geräteangebot ist transparent ausgewiesen; Verträge für Laborflächen sind strikt von Investitions- oder Kooperationszusagen zu trennen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:18
+msgid ""
+":doc:`Nest.Bio Shanghai Innovation Platform <entities/nestbio>` "
+"(巢生上海创新孵化平台 · Incubator · Pudong · Focus: Health, AI for Science) — "
+"Recognized in the December 2025 high-quality incubation expansion, with "
+"synthetic biology and cell and gene therapy interests. Confirm current "
+"Shanghai facilities, admission and laboratory pricing with the operator. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Nest.Bio Innovationsplattform Shanghai <entities/nestbio>` (巢生上海创新孵化平台 · Inkubator · Neuer Stadtbezirk Pudong · Gesundheit & Life Sciences, KI in der Wissenschaft (AI for Science)) — Eine Plattform für Labor- und Gründungsinfrastruktur in den Lebenswissenschaften. Sie eignet sich hervorragend für AI-for-Science- und synthetische Biologieprojekte; verifizieren Sie jedoch vorab die Verfügbarkeit von Nasslaboren, BSL-Sicherheitsstufen und Genehmigungen für Gefahrstoffe. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:19
+msgid ""
+":doc:`InnoSpace <entities/innospace>` (创智空间InnoSpace · Accelerator · "
+"Yangpu · Focus: Software AI, Industry) — An innovation service "
+"organization focused on corporate open innovation and startup incubation "
+"and acceleration. Bring a concrete industrial use case; program "
+"participation does not imply a corporate purchase order. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`InnoSpace Shanghai <entities/innospace>` (创智空间InnoSpace · Accelerator · Bezirk Yangpu · Software-KI, Industrie) — Ein erfahrener Technologie-Inkubator am KIC in Yangpu, der Raum-, Netzwerk- und Förderprogramme anbietet. Klären Sie, welche Mentoring- und Beschleunigungsprogramme derzeit aktiv neue Kohorten aufnehmen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:20
+msgid ""
+":doc:`XNode <entities/xnode>` (创极无限XNode · Accelerator · Pudong · Focus: "
+"Software AI, Industry) — A cross-border innovation operator supporting "
+"market entry, corporate partnerships and pilots. Its Shanghai office is a "
+"useful intake route for international teams. Scope, fees, deliverables "
+"and investment should be stated separately. Address: 4F, Building A, "
+"Kehai Building, 800 Naxian Road, Pudong | Tel: +86 21 55698983 | Email: "
+"contact@thexnode.com. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`XNode Shanghai <entities/xnode>` (创极无限XNode · Accelerator · Neuer Stadtbezirk Pudong · Software-KI, Industrie) — Ein grenzüberschreitender Innovationshub und Akzelerator, der internationale Gründer mit dem chinesischen Markt vernetzt. Klären Sie spezifische Konditionen für Programme, Pilotprojekte mit Konzernen und Co-Working-Plätze direkt mit dem Team. 4. OG, Gebäude A, Kehai-Gebäude, Naxian-Straße 800, Pudong | Tel: +86 21 55698983 | Email: contact@thexnode.com. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:21
+msgid ""
+":doc:`Plug and Play China, Shanghai <entities/plugplay>` (璞跃中国上海中心 · "
+"Accelerator · Pudong · Focus: Software AI, Hardware AI, Mobility) — The "
+"operator lists its Yangtze River Delta innovation center at Zhangjiang "
+"Guochuang Center. Corporate innovation, office space and venture "
+"investment have different admission and commercial terms. Address: 2F, "
+"Building 1, Phase II, Zhangjiang Guochuang Center, 899 Dangui Road. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Plug and Play China (Zentrum Shanghai) <entities/plugplay>` (璞跃中国上海中心 · Accelerator · Neuer Stadtbezirk Pudong · Software-KI, Hardware-KI, Mobilität) — Ein Akzelerator für Unternehmens- und Brancheninnovationen. Das Eintreten in das Ökosystem ist für Pilotprojekte wertvoll; grenzen Sie Kennenlerngespräche, Lieferantenprüfungen und Beteiligungsinvestitionen präzise voneinander ab. 2. OG, Gebäude 1, Phase II, Zhangjiang Guochuang-Zentrum, Dangui-Straße 899, Pudong. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:22
+msgid ""
+":doc:`PwC x Zhangjiang Healthcare Accelerator <entities/pwc>` "
+"(普华永道张江数字医疗加速营 · Accelerator · Pudong · Focus: Health, Software AI) — PwC "
+"describes a digital healthcare acceleration initiative supported by "
+"Pudong and Zhangjiang. The evidence establishes the initiative; a "
+"currently accepting cohort and its commercial terms require confirmation. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`PwC x Zhangjiang Digital Health Accelerator <entities/pwc>` (普华永道张江数字医疗加速营 · Accelerator · Neuer Stadtbezirk Pudong · Gesundheit & Life Sciences, Software-KI) — Ein branchenspezifisches Beschleunigungsprogramm für digitale Gesundheit und Medizintechnik. Es konzentriert sich auf regulatorische Beratung, Marktzugang und Kundenanbahnung; eine Teilnahme berechtigt nicht automatisch zu Investitionen oder Beratungsstunden. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:23
+msgid ""
+":doc:`Wuning Science Park <entities/wuning>` (上海武宁科技园 · Technology park · "
+"Putuo · Focus: Hardware AI, Industry) — An industrial research and "
+"testing environment operated by the Shanghai Electrical Apparatus "
+"Research Institute group. Robot and industrial-internet testing are "
+"useful entry points for hardware validation. Address: Wuning Road area, "
+"Putuo; confirm the service building. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`Technologiepark Wuning Shanghai <entities/wuning>` (上海武宁科技园 · Technologiepark · Bezirk Putuo · Hardware-KI, Industrie) — Ein staatlicher Technologiepark in Putuo mit Schwerpunkt auf industrieller Software, Prüfdienstleistungen und intelligenten Systemen. Die Zulassung und Fördersätze sind an die tatsächliche Ansiedlung vor Ort gebunden. Gebiet Wuning-Straße, Bezirk Putuo; Dienstleistungsgebäude bitte rückbestätigen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:24
+msgid ""
+":doc:`China-Israel Innovation Hub, Shanghai <entities/china-israel>` "
+"(中以（上海）创新园 · Technology park · Putuo · Focus: Software AI, Hardware AI) — "
+"A district-listed carrier for international collaboration in intelligent "
+"manufacturing, AI, robotics and information technology. It supports "
+"market, capital and industrial connections; the listing does not "
+"guarantee cash support. Address: Lane 111, Qilianshan Road, Putuo. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Chinesisch-Israelischer Innovationspark Shanghai <entities/china-israel>` (中以（上海）创新园 · Technologiepark · Bezirk Putuo · Software-KI, Hardware-KI) — Ein bilateraler Innovationshub in Taopu (Putuo), spezialisiert auf KI, Robotik, Medizintechnik und geistiges Eigentum. Prüfen Sie die spezifischen Kriterien für bilaterale Zuschüsse und Ansiedlungsprämien. Gasse 111, Qilianshan-Straße, Bezirk Putuo. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:25
+msgid ""
+":doc:`Digital Silicon Alley / Hongqiao innovation carriers "
+"<entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Incubator · Changning · Focus: "
+"Software AI) — Changning identifies a layered group of digital incubation "
+"and OPC communities. We treat this record as a district routing entry, "
+"not a single interchangeable operator or a guaranteed free-workspace "
+"offer. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Digital Silicon Alley / Innovationsstandorte Hongqiao <entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Inkubator · Bezirk Changning · Software-KI) — Die Technologieachse des Bezirks Changning zur Ansiedlung digitaler Unternehmen, spezialisiert auf KI-Dienste, E-Commerce und intelligente Anwendungen. Klären Sie die Bezirkszuständigkeit und Steuerzuordnung vor Vertragsunterzeichnung. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:26
+msgid ""
+":doc:`Changyang Campus <entities/changyang>` (长阳创谷 · Technology park · "
+"Yangpu · Focus: Software AI, Hardware AI) — The Yangpu brain-inspired "
+"intelligence plan identifies Changyang Campus as a southern core, paired "
+"with Bay Valley in the north. Suitable for neuromorphic computing and "
+"commercial AI collaborations. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`Changyang Campus (Changyang Chuanggu) <entities/changyang>` (长阳创谷 · Technologiepark · Bezirk Yangpu · Software-KI, Hardware-KI) — Ein weitläufiger Innovationscampus in Yangpu, entstanden auf einem ehemaligen Textilfabrikgelände. Er beherbergt führende Technologie- und Plattformunternehmen; Büroflächenvergabe und kommunale Fördermittel werden getrennt verhandelt. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:27
+msgid ""
+":doc:`Fuxing Island maker / OPC communities <entities/fuxing>` "
+"(复兴岛创客与OPC社区 · Incubator · Yangpu · Focus: Software AI) — A May 2026 "
+"district policy supports AI-enabled independent founders and maker "
+"communities. Ask for an approved community operator, the qualifying "
+"activity definition, housing conditions and any service or equity "
+"agreement. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Maker- und OPC-Gemeinschaften der Insel Fuxing <entities/fuxing>` (复兴岛创客与OPC社区 · Inkubator · Bezirk Yangpu · Software-KI) — Eine zukunftsorientierte Modellzone in Yangpu für Maker, Open-Source-Hardware und One-Person-Companies (OPC). Pilotprojekte und Raumnutzungen unterliegen den jeweils aktuellen Entwicklungsplänen des Bezirks. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:28
+msgid ""
+":doc:`Maqiao AI Innovation Zone <entities/maqiao>` (马桥人工智能创新试验区 · "
+"Technology park · Minhang · Focus: Hardware AI, Robotics) — The Minhang "
+"2025-2026 park plan links Grand neoBay R&D with Maqiao manufacturing. A "
+"useful pathway from a robot prototype to supply-chain and production "
+"conversations. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Maqiao KI-Innovations- und Pilotzone <entities/maqiao>` (马桥人工智能创新试验区 · Technologiepark · Bezirk Minhang · Hardware-KI, Robotik) — Eine Sonderzone im Bezirk Minhang, die sich auf Industrie-KI, autonomes Fahren und Großanwendungen spezialisiert hat. Testfeld- und Hallenkapazitäten müssen gesondert mit der Zonenverwaltung abgestimmt werden. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:29
+msgid ""
+":doc:`Shanghai Robot Industrial Park <entities/robot-park>` (上海机器人产业园 · "
+"Technology park · Baoshan · Focus: Hardware AI, Robotics) — A robotics "
+"industrial park in Gucun, Baoshan. Suitable for industrial robotics "
+"supply chains and deployment; we distinguish it from ABB facilities in "
+"Pudong and from the broader Baoshan industrial park. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`Industriepark für Robotik Shanghai <entities/robot-park>` (上海机器人产业园 · Technologiepark · Bezirk Baoshan · Hardware-KI, Robotik) — Ein führender Fachpark in Baoshan (Gucun) für Industrieroboter, Serviceroboter, Kernkomponenten und Automatisierungsstraßen. Klären Sie die Anforderungen an Produktionsstätten und Umweltauflagen direkt vor Ort. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:30
+msgid ""
+":doc:`Baoshan Industrial Park <entities/baoshan-industrial>` (宝山工业园区 · "
+"Technology park · Baoshan · Focus: Industry, Hardware AI) — The park "
+"committee publishes an official contact and provides industrial "
+"admission, project attraction, policy coordination and business services. "
+"This is a separate park from the Gucun robot industrial park. Address: "
+"1688 Jinshi Road, Baoshan | Tel: +86 21 66879800. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`Industriepark Baoshan <entities/baoshan-industrial>` (宝山工业园区 · Technologiepark · Bezirk Baoshan · Industrie, Hardware-KI) — Das Parkverwaltungskomitee veröffentlicht offizielle Kontaktwege und betreut Branchenzulassungen, Investitionsanreize, Projektkoordination und Unternehmensservices. Dieser Standort ist strikt vom Robotikpark in Gucun zu unterscheiden. Jinshi-Straße 1688, Bezirk Baoshan | Tel: +86 21 66879800. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:31
+msgid ""
+":doc:`G60 Songjiang Xinchuang Industrial Park <entities/g60-xinchuang>` "
+"(G60松江信创产业园 · Technology park · Songjiang · Focus: Software AI, Chips) — "
+"An officially profiled industrial park for domestic "
+"information-technology innovation. For an AI infrastructure team, "
+"establish compatibility requirements, lab access and real customer demand "
+"before choosing space. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`G60 Songjiang Xinchuang-Industriepark <entities/g60-xinchuang>` (G60松江信创产业园 · Technologiepark · Bezirk Songjiang · Software-KI, Halbleiter & Chips) — Ein offiziell ausgewiesener Park für Chinas heimische Informationstechnologie-Innovation (Xinchuang). Für KI-Infrastruktur-Teams empfiehlt es sich, vor der Raumwahl Kompatibilitätsstandards, Laborzugänge und konkrete Kundennachfragen zu verifizieren. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:32
+msgid ""
+":doc:`Xicen Science and Innovation Center <entities/xicen>` (西岑科创中心 · "
+"Technology park · Qingpu · Focus: Hardware AI, Software AI) — A Qingpu "
+"innovation area centered on Huawei Lianqiu Lake and Xicen development. It "
+"offers an ecosystem connection, not automatic access to Huawei "
+"laboratories, procurement or investment. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Wissenschafts- und Innovationszentrum Xicen <entities/xicen>` (西岑科创中心 · Technologiepark · Bezirk Qingpu · Hardware-KI, Software-KI) — Ein Innovationsbezirk in Qingpu rund um das Huawei Lianqiu-See-Forschungszentrum. Der Standort eröffnet Ökosystemkontakte, beinhaltet jedoch keinen automatischen Zugang zu Laboren, Beschaffungsprogrammen oder Investitionen von Huawei. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:33
+msgid ""
+":doc:`East China UAV Base <entities/uav-base>` (华东无人机基地 · Technology park "
+"· Jinshan · Focus: Hardware AI, Drones) — The Jinshan park plan includes "
+"test-flight services and a low-altitude incubation platform. Airspace, "
+"testing and airworthiness services require separate confirmation from "
+"physical workspace. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Drohnenbasis Ostchina (UAV-Basis) <entities/uav-base>` (华东无人机基地 · Technologiepark · Bezirk Jinshan · Hardware-KI, Drohnen & Tiefflugsysteme) — Das Parkkonzept in Jinshan umfasst Testflugservices und eine Inkubationsplattform für die Tiefflugökonomie. Luftraumnutzung, Prüfstände und Lufttüchtigkeitszertifizierungen müssen unabhängig von den reinen Büroflächen vereinbart werden. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:34
+msgid ""
+":doc:`Jinshan New Materials Incubator <entities/jinshan-materials>` "
+"(金山新材料孵化器 · Incubator · Jinshan · Focus: Materials, Hardware AI) — A "
+"materials incubation route linked to Carbon Valley Green Bay. Relevant to "
+"sensors, electronic materials and manufacturing inputs; specify process "
+"equipment and environmental constraints in the inquiry. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Inkubator für neue Werkstoffe Jinshan <entities/jinshan-materials>` (金山新材料孵化器 · Inkubator · Bezirk Jinshan · Werkstoffe & Materialien, Hardware-KI) — Ein spezialisierter Werkstoffinkubator mit Anbindung an Carbon Valley Green Bay. Relevant für Sensorwerkstoffe, elektronische Materialien und Vorprodukte; Prozessanlagen und Umweltvorgaben sind detailliert anzufragen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:35
+msgid ""
+":doc:`Oriental Beauty Valley <entities/oriental-beauty>` (东方美谷 · "
+"Technology park · Fengxian · Focus: Health, Industry) — A Fengxian beauty "
+"and health industry ecosystem. Relevant AI applications include "
+"formulation research, inspection, consumer analysis and supply-chain "
+"tools; clinical or laboratory access is a separate arrangement. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Oriental Beauty Valley (Dongfang Meigu) <entities/oriental-beauty>` (东方美谷 · Technologiepark · Bezirk Fengxian · Gesundheit & Life Sciences, Industrie) — Ein umfassendes Branchenökosystem in Fengxian für Kosmetik-, Schönheits- und Gesundheitstechnologien. Relevante KI-Felder umfassen Rezepturforschung, Qualitätsprüfung, Konsumentenanalytik und Logistik; Labor- und Klinikzugänge bedürfen gesonderter Vereinbarungen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:36
+msgid ""
+":doc:`Zhangjiang Chongming Park <entities/chongming-park>` (张江高新区崇明园 · "
+"Technology park · Chongming · Focus: Climate, Agriculture) — The "
+"2025-2026 reform plan sets a framework for ecological innovation. We use "
+"the district authority for matching smart agriculture, ecological sensing "
+"and marine technology projects to a concrete carrier. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`Zhangjiang Chongming-Park <entities/chongming-park>` (张江高新区崇明园 · Technologiepark · Bezirk Chongming · Klima & Umwelt, Agrartechnologie) — Der Reformplan 2025–2026 schafft den Rahmen für ökologische Innovationen. Smarte Landwirtschaft, Umweltsensorik und Meerestechnik können über die Bezirksbehörden an konkrete Träger und Versuchsflächen angebunden werden. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:37
+msgid ""
+":doc:`Zhangjiang Hongkou Park / Beikechuang <entities/hongkou-park>` "
+"(张江虹口园／北科创 · Technology park · Hongkou · Focus: Software AI, Industry) — "
+"The park plan gives Beikechuang a coordinating role in incubation, "
+"technology transfer and investment services. Request the relevant "
+"sub-park and named operating company for a project-specific response. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Zhangjiang Hongkou-Park / Beikechuang <entities/hongkou-park>` (张江虹口园／北科创 · Technologiepark · Bezirk Hongkou · Software-KI, Industrie) — Der Parkplan weist Beikechuang eine koordinierende Rolle bei Inkubation, Technologietransfer und Finanzierungsdienstleistungen zu. Fragen Sie für konkrete Projekte nach dem jeweils zuständigen Teilpark und der Betreibergesellschaft. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:38
+msgid ""
+":doc:`Huangpu ChuangKa <entities/huangpu-chuangka>` (黄浦创卡 · Incubator · "
+"Huangpu · Focus: Software AI, Consumer) — A youth entrepreneurship "
+"service route described by Shanghai HRSS, including up to six months of "
+"free workstations in the reported offer. Current capacity, applicant "
+"eligibility and additional subsidies must be checked separately. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Programm Huangpu ChuangKa <entities/huangpu-chuangka>` (黄浦创卡 · Inkubator · Bezirk Huangpu · Software-KI, Konsumgüter) — Ein von der Shanghaier Behörde für Humanressourcen und soziale Sicherheit (HRSS) beschriebener Förderpfad für junge Gründer, der laut Ankündigung bis zu sechs Monate kostenlose Arbeitsplätze umfasst. Verfügbarkeiten, Kriterien und Zuschüsse sind individuell zu prüfen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:39
+msgid ""
+":doc:`Lin-gang Science and Innovation City <entities/lin-gang>` (临港科创城 · "
+"Technology park · Pudong · Focus: Hardware AI, Chips, Software AI) — The "
+"January 2026 plan identifies Dishui Lake AI and IC innovation ports and "
+"staged development targets. Lin-gang is a functional area, not Shanghai's "
+"seventeenth district. Establish the administering boundary before seeking "
+"incentives. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Wissenschafts- und Innovationsstadt Lin-gang <entities/lin-gang>` (临港科创城 · Technologiepark · Neuer Stadtbezirk Pudong · Hardware-KI, Halbleiter & Chips, Software-KI) — Der Entwicklungsplan vom Januar 2026 definiert KI- und Chip-Innovationszentren rund um den Dishui-See mit gestaffelten Ausbauzielen. Lin-gang ist eine Sonderfunktionszone und kein 17. Stadtbezirk Shanghais; klären Sie die genaue Verwaltungskompetenz vor Förderanträgen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:40
+msgid ""
+":doc:`Shanghai IC Design Industrial Park <entities/ic-design>` "
+"(上海集成电路设计产业园 · Technology park · Pudong · Focus: Chips, Hardware AI) — A "
+"Zhangjiang chip design ecosystem connecting design and industrial "
+"services. A strong starting point for AI chip teams, with specific EDA, "
+"IP, tape-out, packaging and testing access negotiated with providers. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Industriepark für integriertes Schaltkreisdesign Shanghai <entities/ic-design>` (上海集成电路设计产业园 · Technologiepark · Neuer Stadtbezirk Pudong · Halbleiter & Chips, Hardware-KI) — Ein führendes Halbleiterdesign-Ökosystem in Zhangjiang, das Chip-Entwickler mit industriellen Dienstleistern verbindet. Ein idealer Startpunkt für KI-Chip-Teams; Zugänge zu EDA, IP-Blöcken, Tape-Outs, Packaging und Testing werden individuell verhandelt. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:41
+msgid ""
+":doc:`Caohejing Development Zone <entities/caohejing>` (漕河泾开发区 · "
+"Technology park · Xuhui · Focus: Software AI, Hardware AI, Industry) — "
+"The park operator publishes enterprise and intellectual-property service "
+"routes. Confirm the specific sub-park and operating address; the "
+"Caohejing name covers multiple development locations. Address: 1015 "
+"Caobao Road, Shanghai | Tel: +86 21 64850000 | Email: chj@caohejing.com. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Entwicklungszone Caohejing <entities/caohejing>` (漕河泾开发区 · Technologiepark · Bezirk Xuhui · Software-KI, Hardware-KI, Industrie) — Der Parkbetreiber bietet umfassende Gründungs- und IP-Dienstleistungen. Da die Entwicklungszone mehrere Standorte umfasst, sollten konkrete Firmenanschriften und Zuständigkeiten genau abgestimmt werden. Caobao-Straße 1015, Shanghai | Tel: +86 21 64850000 | Email: chj@caohejing.com. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:42
+msgid ""
+":doc:`Zizhu National Hi-Tech Park / ET Space <entities/zizhu>` "
+"(紫竹国家高新区／创业孵化器ET空间 · Incubator · Minhang · Focus: Software AI, Hardware "
+"AI, Industry) — The park-owned incubator connects startups with the "
+"software, avionics and manufacturing ecosystem. Its operator describes "
+"industry challenges and collaborative innovation; current admission, "
+"space and fees require an intake discussion. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Nationaler Hightech-Park Zizhu / Inkubator ET Space <entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · Inkubator · Bezirk Minhang · Software-KI, Hardware-KI, Industrie) — Der parkeigene Inkubator verbindet Neugründungen mit der ansässigen Software-, Avionik- und Fertigungsindustrie. Aufnahmebedingungen, Mietkonditionen und gemeinsame Innovationsprojekte erfordern ein Vorgespräch. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:43
+msgid ""
+":doc:`Hongqiao International Youth Innovation Hub "
+"<entities/hongqiao-youth>` (虹桥国际青年创业港 · Incubator · Minhang · Focus: "
+"Software AI, Industry) — Opened in July 2026 as a youth innovation and "
+"business-service hub in Hongqiao. The reported workstation offer depends "
+"on qualification and available space, not simply arrival at the transport "
+"hub. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Internationaler Jugend-Innovationshub Hongqiao <entities/hongqiao-youth>` (虹桥国际青年创业港 · Inkubator · Bezirk Minhang · Software-KI, Industrie) — Im Juli 2026 als Zentrum für Jugendgründungen und Unternehmensdienstleistungen in Hongqiao eröffnet. Angebote für freie Arbeitsplätze hängen von den Qualifikationskriterien und Raumkontingenten ab. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:44
+msgid ""
+":doc:`East Hongqiao International Youth Innovation Center "
+"<entities/east-hongqiao>` (东虹桥国际青年科创中心 · Incubator · Changning · Focus: "
+"Software AI) — Changning's official May 2026 account describes a hub for "
+"AI-enabled independent founders, combining incubation, AI services, "
+"talent support and global business resources. Confirm the current "
+"operator's selection and service terms. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`Internationales Jugend-Innovationszentrum Ost-Hongqiao <entities/east-hongqiao>` (东虹桥国际青年科创中心 · Inkubator · Bezirk Changning · Software-KI) — Laut offiziellem Bericht von Changning vom Mai 2026 ein Zentrum für KI-gestützte Einzelgründer (OPC) mit Inkubationsangeboten, KI-Tools, Talentförderung und globaler Vernetzung. Prüfen Sie die aktuellen Aufnahmebedingungen des Betreibers. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:45
+msgid ""
+":doc:`Shibei Hi-Tech Park / Shutong Valley & Daning Carriers "
+"<entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · Technology park · Jing'an "
+"· Focus: Software AI, Industry) — Jing'an's 2026-2028 AI demonstration "
+"plan and district carrier program anchor big-data, blockchain (Shutong "
+"Valley), cloud computing and enterprise AI workspaces across Shibei "
+"Hi-Tech Park, Daning and Suhewan. Confirm the specific carrier operator, "
+"data-compliance services and tenancy terms. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Hightech-Park Shibei / Shutong Valley & Daning-Innovationsstandorte <entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · Technologiepark · Bezirk Jing'an · Software-KI, Industrie) — Der KI-Demonstrationsplan 2026–2028 von Jing'an bündelt Arbeitsbereiche für Big Data, Blockchain (Shutong Valley), Cloud Computing und Enterprise-KI im Shibei-Park, in Daning und Suhewan. Klären Sie Betreiber, Daten-Compliance-Dienste und Mietbedingungen vorab. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:46
+msgid ""
+":doc:`Xihe Optic Valley Optoelectronic Incubator <entities/xihe-optics>` "
+"(羲和光谷光电产业孵化器 · Incubator · Jiading · Focus: Hardware AI, Sensors, Chips) "
+"— An optoelectronic and photonics incubator launched in Jiading in "
+"November 2025 to support scientist-founded teams in optical sensing, "
+"laser systems and AI hardware components. Confirm optical lab equipment, "
+"engineering support and commercial terms before admission. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Xihe Optic Valley Optoelektronik-Inkubator <entities/xihe-optics>` (羲和光谷光电产业孵化器 · Inkubator · Bezirk Jiading · Hardware-KI, Sensorik, Halbleiter & Chips) — Ein im November 2025 in Jiading eröffneter Inkubator für Optoelektronik und Photonik, der Ausgründungen aus der Wissenschaft in optischer Sensorik, Lasersystemen und KI-Hardwarebauteilen fördert. Prüfen Sie Reinraum- und Laborkapazitäten vor Ort. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:47
+msgid ""
+":doc:`Zhangjiang AI Innovation Town <entities/zhangjiang-ai-town>` "
+"(张江人工智能创新小镇 · Technology park · Pudong · Focus: Software AI, Hardware AI, "
+"AI for Science) — A 2-square-kilometer core zone in Zhangjiang Science "
+"City with 700,000 sqm of industrial space, spatiotemporal digital "
+"infrastructure and linked compute, model and corpus vouchers. Confirm "
+"whether the company's registered and operating address falls inside the "
+"designated town boundary. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Zhangjiang KI-Innovationsstadt (AI Town) <entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · Technologiepark · Neuer Stadtbezirk Pudong · Software-KI, Hardware-KI, KI in der Wissenschaft (AI for Science)) — Ein 2 Quadratkilometer großes Schwerpunktgebiet in Zhangjiang, das Modellentwickler und KI-Infrastrukturunternehmen konzentriert. Hier stehen spezielle Gutscheine für Rechenleistung, Modelle und Sprachdatenkorpora bereit. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:48
+msgid ""
+":doc:`Oriental Beauty Valley Life Messenger Gene Drug Base "
+"<entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · Incubator · Fengxian · "
+"Focus: Health, AI for Science) — Opened in April 2025 in Fengxian to "
+"connect gene and nucleic-acid drug R&D, AI-assisted molecular design, "
+"shared laboratories and pilot manufacturing. Confirm biosafety level, "
+"cleanroom specs and admission terms. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`Life Messenger Genmedikamente-Innovationsbasis (Oriental Beauty Valley) <entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · Inkubator · Bezirk Fengxian · Gesundheit & Life Sciences, KI in der Wissenschaft (AI for Science)) — Ein spezialisierter Industriekomplex im Oriental Beauty Valley für mRNA-Technologien, Gentherapien, nukleinsäurebasierte Wirkstoffe und KI-gestützte Wirkstoffforschung. Reinraumstandards und GMP-Bedingungen sind vorab zu spezifizieren. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:49
+msgid ""
+":doc:`China (Shanghai) Public Practicing Base for Entrepreneurs "
+"<entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Incubator · Yangpu · "
+"Focus: Software AI, Hardware AI, Industry) — A municipal HRSS-backed "
+"public entrepreneurship training, prototyping and incubation base in "
+"Yangpu linking founder skills training, product trial spaces and startup "
+"service agencies. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Öffentliche Praxistrainingsbasis für Gründer China (Shanghai) <entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Inkubator · Bezirk Yangpu · Software-KI, Hardware-KI, Industrie) — Eine städtische öffentliche Ausbildungseinrichtung in Yangpu mit Versuchswerkstätten, Prototypenbau, Laborgeräten und Gründungsbegleitung für angehende Unternehmer und studentische Teams. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:50
+msgid ""
+":doc:`Songjiang University Town Sci-Tech Source "
+"<entities/songjiang-uni-source>` (松江大学城科创源 · Incubator · Songjiang · "
+"Focus: Software AI, Hardware AI, Materials) — A Songjiang district "
+"initiative backed by a September 2026 special-fund notice to link the "
+"seven universities in Songjiang University Town with technology-transfer "
+"platforms and incubation operators. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`Wissenschafts- und Innovationsquelle der Universitätsstadt Songjiang (Sci-Tech Source) <entities/songjiang-uni-source>` (松江大学城科创源 · Inkubator · Bezirk Songjiang · Software-KI, Hardware-KI, Werkstoffe & Materialien) — Eine Initiative zur kommerziellen Verwertung von Forschungsergebnissen aus den sieben Hochschulen der Universitätsstadt Songjiang im G60-Hightech-Korridor, flankiert von F&E-Fördermitteln und Industrieparks. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:51
+msgid ""
+":doc:`Huangpu Fintech & Entrepreneurship Companion Hub "
+"<entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · Accelerator · Huangpu · "
+"Focus: Software AI, Consumer) — Combines Huangpu's five-year fintech "
+"industry clustering direction with the HRSS \"Entrepreneurship Companion "
+"Plan\" mentor and service network for early-stage digital and financial "
+"technology founders. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Huangpu Fintech-Cluster & Gründer-Begleitprogramm (Peipao-Plan) <entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · Accelerator · Bezirk Huangpu · Software-KI, Konsumgüter) — Verbindet den Fünfjahresplan des Bezirks Huangpu zur Konzentration der Finanztechnologieindustrie mit dem bezirklichen Gründer-Begleitprogramm (Mentorennetzwerk und Gründungsunterstützung) für digitale Vorhaben in der Frühphase. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../incubation.rst:52
+msgid ""
+":doc:`Hongkou Science & Technology Entrepreneurship Center "
+"<entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · Incubator · Hongkou · "
+"Focus: Software AI, Industry, Climate) — District public entrepreneurship "
+"center and postdoctoral innovation practice base route supporting tech "
+"SMEs, green-shipping digital tools and R&D talent settlement in Hongkou. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Technologie-Gründerzentrum Hongkou & Postdoktoranden-Innovationsbasis <entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · Inkubator · Bezirk Hongkou · Software-KI, Industrie, Klima & Umwelt) — Öffentliches Gründungszentrum des Bezirks Hongkou mit Praxisbasis für Postdoktoranden zur Unterstützung technologiebasierter KMU, digitaler Werkzeuge für die grüne Schifffahrt und F&E-Fachkräften. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"

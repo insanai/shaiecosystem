@@ -1,0 +1,157 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../apply.rst:1
+msgid "From introduction to application"
+msgstr "初回アプローチから正式申請まで"
+
+#: ../../apply.rst:4
+msgid ""
+"A useful application starts with a fit check and ends with an evidence "
+"trail. We keep one company data room, then adapt it to an incubation "
+"review, a public funding call, a corporate pilot or an investment process."
+msgstr "実りある申請は、事前の適合性確認から始まり、客観的な証拠資料の記録で完結する。統一した企業データルームを平時から維持管理し、インキュベーション審査、公的資金助成、企業実証パイロット、または投資プロセスのそれぞれに応じて柔軟に適応させていく。"
+
+#: ../../apply.rst:7
+msgid ""
+"A clear application separates eligibility, evidence and the decision."
+msgstr "的確な申請とは、資格要件、客観的証拠、そして意思決定を明確に区別するものです。"
+
+#: ../../apply.rst:10
+msgid "The first conversation"
+msgstr "最初の対話"
+
+#: ../../apply.rst:13
+msgid ""
+"We send a one-page introduction in English and Simplified Chinese: "
+"company and team, customer problem, product, evidence, current stage, "
+"Shanghai presence and the exact resource requested. We ask for the named "
+"receiving team and written current terms. A first message should be small "
+"enough to forward to the right person."
+msgstr "英語および簡体字中国語で記載した1枚の簡潔な企業紹介資料（ワンページャー）を送付する。会社概要とチーム構成、解決する顧客課題、製品、実証データ、現在の開発フェーズ、上海での拠点体制、および具体的に求めるリソースを明記する。担当の受付部署名と現行の提供条件の書面提示を依頼する。初回メッセージは、相手先が適切な担当者に即座に転送できる程度にコンパクトにまとめるべきである。"
+
+#: ../../apply.rst:15
+msgid ""
+"Suggested subject: Shanghai ecosystem inquiry / project name / "
+"incubation, pilot or funding. Suggested request: We are developing "
+"[product] for [customer]. Our evidence is [metric or prototype]. We seek "
+"[specific resource] during [period]. Please confirm eligibility, intake "
+"dates, the application checklist, fees or equity terms, and the "
+"responsible contact."
+msgstr "推奨される件名：【上海エコシステム照会】プロジェクト名／インキュベーション・パイロット・資金調達のご相談。推奨される本文：『私たちは【対象顧客】向けの【製品】を開発しています。現在【測定指標またはプロトタイプ】の実証実績を有しています。【希望期間】において【具体的な支援リソース】の申請を希望しております。申請資格、公募受付日程、提出書類リスト、費用・株式条件、およびご担当窓口についてご教示いただけますと幸いです。』"
+
+#: ../../apply.rst:17
+msgid "The shared data room"
+msgstr "共有データルームの構築"
+
+#: ../../apply.rst:20
+msgid ""
+"Company: business licence, unified social credit code, articles, cap "
+"table, beneficial ownership, bank details, registered and operating "
+"addresses, prior public awards and related-party list. Team: founder "
+"roles, full-time commitment, relevant education, eligibility evidence and "
+"lawful work status where required."
+msgstr "企業情報：営業許可証（事業ライセンス）、統一社会信用コード、定款、資本政策表（キャップテーブル）、実質的支配者（実質的受益者）、銀行口座情報、登記住所および実質事業所住所、過去の公的受給実績、および関連当事者リスト。チーム情報：創業メンバーの担当職務、フルタイムコミットメントの状況、関連学歴・職歴、資格証明資料、および必要に応じた合法的な就労資格。"
+
+#: ../../apply.rst:22
+msgid ""
+"For international founders and overseas returnees, Shanghai publishes "
+"dedicated guidance for Foreigner's Work Permit (Category A/B) "
+"applications during the startup phase, Overseas Talent Residence Permits, "
+"and the 2026 Regulations Encouraging Overseas Returnees to Work and Start "
+"Businesses in Shanghai. Confirm host-park endorsement and immigration "
+"requirements separately from grant eligibility."
+msgstr "外国人創業者および海外留学帰国者向けに、上海市は創業準備期における外国人就労許可（A類／B類）申請指引、海外人材居住証管理弁法、および2026年『留学人員の上海での就労および創業を奨励する若干の規定』などの専門指針を公布している。受入パークの推薦状や出入国・ビザ要件は、助成金の受給資格とは切り離して個別に手続きを進める必要がある。"
+
+#: ../../apply.rst:24
+msgid ""
+"Technology: product note, demo, evaluation, IP ownership and licences, "
+"patent and software records, data rights, security controls and sector "
+"approvals where applicable. Commercial: pilot evidence, customer "
+"references, pricing, procurement path and unit economics. Finance: "
+"management accounts, annual audit where required, R&D ledger, contracts, "
+"invoices and payment evidence."
+msgstr "技術資料：製品解説書、デモ動画、ベンチマーク評価結果、知的財産権の帰属および利用許諾契約、特許・ソフトウェア著作権登録証、データ使用許諾、情報セキュリティ管理体制、および該当する業界許認可。事業資料：パイロット実証データ、顧客導入事例・推薦状、価格体系、調達プロセス、およびユニットエコノミクス。財務資料：管理会計決算書、必要に応じた年次監査報告書、研究開発費専用元帳、契約書、発票（領収証）、および支払証明。"
+
+#: ../../apply.rst:26
+msgid "Four different decisions"
+msgstr "性質の異なる4つの意思決定"
+
+#: ../../apply.rst:29
+msgid ""
+"Incubation: fit inquiry, application pack, technical or commercial "
+"review, written service and space terms, admission and onboarding. "
+"Confirm workspace rent, service fee, compute price, access restrictions, "
+"IP and any investment rights before signing."
+msgstr "インキュベーション：適合性の照会、申請書類一式の提出、技術的または商業的審査、サービスおよびオフィス利用条件の書面合意、採択決定、および入居手続き。契約締結前に、執務スペースの賃料、サービス費用、計算資源の利用単価、入館・アクセス制限、知的財産の帰属、および将来の出資選択権の有無を確認する。"
+
+#: ../../apply.rst:31
+msgid ""
+"Public grant or reimbursement: current notice, eligibility check, "
+"platform account, legal-entity authorization, evidence submission, "
+"district or host review, expert review, award or contract, reporting, "
+"acceptance and payment. This sequence is a general guide; the linked "
+"notice governs the actual workflow."
+msgstr "公的助成金または事後精算型補助：現行の公募通知の確認、資格審査、公式プラットフォームアカウントの開設、法人認証・委任状、根拠証憑の提出、区または受入機関による審査、専門家評価委員会、採択決定または協定書締結、進捗報告、検収・実績確認、および資金交付。このフローは一般的な指針であり、実際の進め方は公募通知の規定が優先される。"
+
+#: ../../apply.rst:33
+msgid ""
+"Corporate pilot: business owner, problem definition, data and IP "
+"agreement, scoped pilot, procurement and legal review, acceptance, "
+"production decision. Investment: manager fit, deck, meeting, diligence, "
+"term sheet, investment committee, definitive agreements and closing. "
+"Neither begins with a guaranteed outcome."
+msgstr "企業実証パイロット：事業責任者の特定、課題の定義、データおよび知財に関する合意、検証範囲の限定された実証試験、調達部門および法務部門による審査、検収、本番導入の判断。株式投資：ファンド運用方針との合致確認、ピッチデックの提出、面談、デューデリジェンス、タームシートの締結、投資委員会、最終契約書の締結、および資金実行。いずれのルートも、結果が事前に保証されたものではない。"
+
+#: ../../apply.rst:35
+msgid "An accelerator's four-week field program"
+msgstr "アクセラレーターによる4週間の実地プログラム"
+
+#: ../../apply.rst:38
+msgid ""
+"Week 1: shortlist two districts, one research partner and two operators "
+"using sector fit and written eligibility. Week 2: meet the operator and a "
+"plausible buyer; inspect facilities. Week 3: define one pilot and a "
+"costed evidence plan. Week 4: submit the relevant application or "
+"investment pack and record the next decision date. This is an editorial "
+"planning model, not an official service promise."
+msgstr "第1週：産業分野の適合性と書面の資格要件に基づき、2つの行政区、1つの研究パートナー、2つの運営事業者を絞り込む。第2週：運営事業者および有力な潜在顧客と面談し、施設設備を実地視察する。第3週：1つの実証パイロットとコスト試算付きの検証計画を策定する。第4週：所定の申請書類または投資検討資料を提出し、次回の審査日程を記録する。これは編集部が推奨する行動計画モデルであり、公的な審査期間を保証するものではない。"
+
+#: ../../apply.rst:40
+msgid ""
+"We maintain an application ledger with owner, authority, policy version, "
+"evidence period, deadline in China Standard Time, submission receipt, "
+"duplicate-funding exclusions, reporting duty and next action. A calendar "
+"alert is useful only after the correct deadline and timezone have been "
+"confirmed."
+msgstr "担当者、管轄主管機関、政策の版数、対象経費の証憑期間、中国標準時（CST）での締切日時、提出受領証、重複受給の排除規程、報告義務、および次回アクションを記載した「申請管理台帳」を作成・維持する。カレンダーのリマインダー設定は、正確な締切日とタイムゾーンを確認した上で行うべきである。"
+
+#: ../../apply.rst:42
+msgid ""
+"`Evidence S130 "
+"<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
+"Guide for foreign talent and team members (Category A/B) applying for a "
+"Foreigner's Work Permit during the startup phase_Latest."
+msgstr "`出典 S130 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest."
+
+#: ../../apply.rst:44
+msgid ""
+"`Evidence S131 "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. "
+"上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+msgstr "`出典 S131 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."

@@ -1,0 +1,109 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/aws-credit.rst:1
+msgid "AWS China Activate credits"
+msgstr "AWS中国 Activate クラウドクレジット"
+
+#: ../../funding/aws-credit.rst:4
+msgid "Cloud credits | Citywide / global"
+msgstr "クラウドクレジット | 全市／グローバル"
+
+#: ../../funding/aws-credit.rst:6
+msgid "Regional eligibility to confirm"
+msgstr "地域該当要件の確認要"
+
+#: ../../funding/aws-credit.rst:8
+msgid ""
+"`Evidence S042 <https://www.amazonaws.cn/en/activate/>`_. Amazon Web "
+"Services Activate-Amazon Web Services China Region."
+msgstr "`出典 S042 <https://www.amazonaws.cn/en/activate/>`_. Amazon Web Services Activate-Amazon Web Services China Region."
+
+#: ../../funding/aws-credit.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/aws-credit.rst:13
+msgid "Package-specific promotional credits for eligible China services"
+msgstr "採択パッケージに応じ、対象となる中国リージョンAWSクラウドサービスの利用料を相殺"
+
+#: ../../funding/aws-credit.rst:15
+msgid "No equity stated in offer; verify terms"
+msgstr "提供条件に株式要件記載なし（規約要確認）"
+
+#: ../../funding/aws-credit.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/aws-credit.rst:20
+msgid ""
+"China-established unlisted startup and qualifying new-customer / "
+"participating partner relationship. Do not substitute global AWS account "
+"rules or credit ceilings."
+msgstr "中国国内で設立された非上場スタートアップで、新規顧客要件および認定パートナー／投資家との提携関係を満たすこと。グローバル版AWSアカウントの利用規約や限度額を混同しないこと。"
+
+#: ../../funding/aws-credit.rst:22
+msgid "Confirm current package and expiration"
+msgstr "最新パッケージの利用規約およびクレジット有効期限を確認のこと"
+
+#: ../../funding/aws-credit.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/aws-credit.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.amazonaws.cn/en/activate/>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.amazonaws.cn/en/activate/>`_"
+
+#: ../../funding/aws-credit.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/aws-credit.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/aws-credit.rst:33
+msgid ""
+"Check incorporation, company age, account region and existing benefits."
+msgstr "法人設立登記、創業年数、アカウント登録地域、および既存の受給状況を確認する。"
+
+#: ../../funding/aws-credit.rst:35
+msgid "Apply through the official program form or qualifying partner route."
+msgstr "公式プログラム申請フォーム、または対象となる提携パートナー経由で申請する。"
+
+#: ../../funding/aws-credit.rst:37
+msgid ""
+"Confirm covered services, expiry, fees, usage limits and overage billing."
+msgstr "対象サービス範囲、有効期限、利用料金、利用制限枠、および超過従量課金ルールを確認する。"
+
+#: ../../funding/aws-credit.rst:39
+msgid "Keep usage records and do not describe credits as unrestricted cash."
+msgstr "利用ログを保存し、付与されたクレジットを使途無制限の現預金として扱わない。"
+
+#: ../../funding/aws-credit.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

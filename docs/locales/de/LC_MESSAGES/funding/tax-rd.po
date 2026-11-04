@@ -1,0 +1,113 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/tax-rd.rst:1
+msgid "R&D super-deduction"
+msgstr "Zusätzlicher Steuerabzug für F&E-Aufwendungen (Super-Deduction)"
+
+#: ../../funding/tax-rd.rst:4
+msgid "Tax relief | Citywide / global"
+msgstr "Steuervergünstigung | Stadtweit / global"
+
+#: ../../funding/tax-rd.rst:6
+msgid "Published tax guidance; applicability review"
+msgstr "Steuerleitfaden veröffentlicht; Anwendbarkeit prüfen"
+
+#: ../../funding/tax-rd.rst:8
+msgid ""
+"`Evidence S099 "
+"<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
+"上海市“2366”产业税收优惠政策指引."
+msgstr "`Nachweis S099 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+
+#: ../../funding/tax-rd.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/tax-rd.rst:13
+msgid ""
+"Eligible expensed R&D: additional 100% deduction; eligible capitalized "
+"R&D: 200% amortization basis"
+msgstr "Zusätzlicher Abzug von 100 % der tatsächlich angefallenen, förderfähigen F&E-Ausgaben von der steuerlichen Bemessungsgrundlage"
+
+#: ../../funding/tax-rd.rst:15
+msgid "No equity"
+msgstr "Ohne Anteilsabgabe"
+
+#: ../../funding/tax-rd.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/tax-rd.rst:20
+msgid ""
+"Qualifying enterprise R&D costs with the required accounting and "
+"evidence. A tax deduction reduces taxable income; it is not cash equal to "
+"the expense or deduction."
+msgstr "Steuerpflichtige Unternehmen mit eigenständiger F&E-Kostenrechnung in nicht ausgeschlossenen Branchen. Erfordert eine lückenlose steuerliche Buchführung und F&E-Projektdokumentation."
+
+#: ../../funding/tax-rd.rst:22
+msgid "Annual tax filing and applicable rules"
+msgstr "Im Rahmen der jährlichen Körperschaftsteuererklärung geltend zu machen"
+
+#: ../../funding/tax-rd.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/tax-rd.rst:27
+msgid ""
+"`Official application / policy route <https://shanghai.chinatax.gov.cn/>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://shanghai.chinatax.gov.cn/>`_"
+
+#: ../../funding/tax-rd.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "Die verlinkte Behörde bzw. der Träger ist der offizielle Kontaktweg. Ein direkter Programm-Ansprechpartner ist in diesem Profil nicht hinterlegt."
+
+#: ../../funding/tax-rd.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/tax-rd.rst:33
+msgid ""
+"Check the current tax rules and recognition or accounting requirements."
+msgstr "Geltende Steuergesetze sowie Anerkennungs- und Buchführungsvorschriften prüfen."
+
+#: ../../funding/tax-rd.rst:35
+msgid ""
+"Maintain qualifying R&D and income records with a qualified tax adviser."
+msgstr "Förderfähige F&E- und Ertragsnachweise gemeinsam mit einem Steuerberater dokumentieren."
+
+#: ../../funding/tax-rd.rst:37
+msgid ""
+"Complete recognition where required and claim in the correct tax filing."
+msgstr "Erforderliche Zertifizierungen einholen und Begünstigung in der Steuererklärung geltend machen."
+
+#: ../../funding/tax-rd.rst:39
+msgid ""
+"Retain evidence for review and separate tax savings from cash grants."
+msgstr "Prüfungsunterlagen archivieren und Steuerersparnisse strikt von Barzuschüssen trennen."
+
+#: ../../funding/tax-rd.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

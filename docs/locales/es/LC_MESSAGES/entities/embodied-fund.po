@@ -1,0 +1,116 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/embodied-fund.rst:1
+msgid "Shanghai Embodied AI Fund"
+msgstr "Fondo de IA Corporeizada de Shanghái"
+
+#: ../../entities/embodied-fund.rst:4
+msgid "上海具身智能基金"
+msgstr "上海具身智能基金"
+
+#: ../../entities/embodied-fund.rst:6
+msgid "Investor | Pudong | Research checked 2026-11-04"
+msgstr "Inversor | Nueva Área de Pudong | Investigación verificada el 2026-11-04"
+
+#: ../../entities/embodied-fund.rst:8
+msgid "AI and industry focus: Hardware AI, Robotics, Sensors."
+msgstr "Enfoque de IA e industria: IA de hardware, Robótica, Sensores."
+
+#: ../../entities/embodied-fund.rst:10
+msgid ""
+"A state-backed embodied-intelligence investment route announced in April "
+"2025, including core components and edge chips. Confirm the current "
+"manager and investment mandate; no uniform cheque size or ownership "
+"percentage is established here."
+msgstr "Vía de inversión con respaldo estatal en inteligencia corporeizada anunciada en abril de 2025, que abarca componentes clave y chips para el borde (edge chips). Confirme la gestora actual y su mandato de inversión; no se establece aquí un importe único de ticket ni un porcentaje estándar de participación."
+
+#: ../../entities/embodied-fund.rst:12
+msgid ""
+"`Evidence S046 "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_. "
+"上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态."
+msgstr "`Evidencia S046 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_. 上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态."
+
+#: ../../entities/embodied-fund.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/embodied-fund.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/embodied-fund.rst:19
+msgid "Funding mechanism: Equity investment."
+msgstr "Mecanismo de financiación: Inversión en capital (Equity)."
+
+#: ../../entities/embodied-fund.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/embodied-fund.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_"
+msgstr "`Fuente oficial y vía de la autoridad competente <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_"
+
+#: ../../entities/embodied-fund.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/embodied-fund.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/embodied-fund.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/embodied-fund.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/embodied-fund.rst:35
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "Confirmar el encaje con la gestora en cuanto a sector, etapa de desarrollo y estructura societaria."
+
+#: ../../entities/embodied-fund.rst:37
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "Presentar el deck de inversión, la tabla de capitalización, la evidencia tecnológica, las métricas de tracción y el plan de financiación."
+
+#: ../../entities/embodied-fund.rst:39
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "Completar los procesos de due diligence comercial, financiera, técnica y legal."
+
+#: ../../entities/embodied-fund.rst:41
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "Revisar la carta de intenciones (term sheet), las condiciones del comité de inversión y los contratos societarios definitivos."
+
+#: ../../entities/embodied-fund.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Ruta del distrito de Nueva Área de Pudong </districts/pudong>`"

@@ -1,0 +1,115 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/fengxian-sme-2026.rst:1
+msgid "Fengxian SME Technology Innovation Key Projects, 2026"
+msgstr "2026년 펑셴구 중소기업 기술혁신 자금 중점 프로젝트"
+
+#: ../../funding/fengxian-sme-2026.rst:4
+msgid "Grant | Fengxian"
+msgstr "보조금 | 펑셴구"
+
+#: ../../funding/fengxian-sme-2026.rst:6
+msgid "Closed"
+msgstr "모집 마감"
+
+#: ../../funding/fengxian-sme-2026.rst:8
+msgid ""
+"`Evidence S115 "
+"<https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_. "
+"奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告."
+msgstr "`근거 S115 <https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告."
+
+#: ../../funding/fengxian-sme-2026.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/fengxian-sme-2026.rst:13
+msgid ""
+"Up to RMB 250,000; generally two installments, final settlement after "
+"acceptance"
+msgstr "구 중점 기술혁신 과제로 선정된 프로젝트 대상 R&D 자금 지원"
+
+#: ../../funding/fengxian-sme-2026.rst:15
+msgid "No equity"
+msgstr "지분 취득 없음"
+
+#: ../../funding/fengxian-sme-2026.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/fengxian-sme-2026.rst:20
+msgid ""
+"The 2026 key-project call requires prior-year revenue RMB 30m-200m, R&D "
+"at least RMB 1.2m and 4% of revenue, at most 500 employees and at least "
+"10% R&D staff, plus additional conditions."
+msgstr "스마트 로봇, 바이오 의약, 신소재 등 펑셴구 중점 육성 산업 분야의 우수 기술형 중소기업."
+
+#: ../../funding/fengxian-sme-2026.rst:22
+msgid "Online closed 21 June 2026; paper closed 30 June 2026"
+msgstr "2026년도 구 경제위원회 및 과학기술위원회 공고 기준"
+
+#: ../../funding/fengxian-sme-2026.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/fengxian-sme-2026.rst:27
+msgid ""
+"`Official application / policy route <https://fxkjxmxt.cn/website/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://fxkjxmxt.cn/website/>`_"
+
+#: ../../funding/fengxian-sme-2026.rst:29
+msgid "Published consultation: +86 21 37188010."
+msgstr "공개 상담 전화: +86 21 37188010."
+
+#: ../../funding/fengxian-sme-2026.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/fengxian-sme-2026.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../funding/fengxian-sme-2026.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../funding/fengxian-sme-2026.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../funding/fengxian-sme-2026.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../funding/fengxian-sme-2026.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

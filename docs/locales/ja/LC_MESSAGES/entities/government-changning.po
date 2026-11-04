@@ -1,0 +1,115 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/government-changning.rst:1
+msgid "Changning science and technology authority"
+msgstr "長寧区科学技術主管部門"
+
+#: ../../entities/government-changning.rst:4
+msgid "长宁区科技主管部门"
+msgstr "长宁区科技主管部门"
+
+#: ../../entities/government-changning.rst:6
+msgid "Government | Changning | Research checked 2026-11-04"
+msgstr "政府機関・行政部門｜長寧区｜調査確認日 2026-11-04"
+
+#: ../../entities/government-changning.rst:8
+msgid ""
+"The August 2026 district account identifies Digital Silicon Alley, "
+"Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
+"MAKE021 as parts of its incubation landscape. Confirm the correct "
+"operator before submitting."
+msgstr "2026年8月の区の広報報道では、数字硅巷（デジタルシリコンアレイ）、虹橋智域、東虹橋国際青年科創センター、MAKE021（マーク上海）などがインキュベーション拠点として挙げられている。申請に先立ち、具体的な運営事業者を確認する必要がある。"
+
+#: ../../entities/government-changning.rst:10
+msgid ""
+"`Evidence S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. "
+"上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+msgstr "`出典 S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. 上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+
+#: ../../entities/government-changning.rst:12
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/government-changning.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/government-changning.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/government-changning.rst:19
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/government-changning.rst:22
+msgid "`Official website / intake route <https://www.shcn.gov.cn/>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://www.shcn.gov.cn/>`_"
+
+#: ../../entities/government-changning.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/government-changning.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/government-changning.rst:28
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/government-changning.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/government-changning.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../entities/government-changning.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../entities/government-changning.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../entities/government-changning.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../entities/government-changning.rst:41
+msgid ":doc:`Changning district route </districts/changning>`"
+msgstr ":doc:`長寧区の案内ルート </districts/changning>`"

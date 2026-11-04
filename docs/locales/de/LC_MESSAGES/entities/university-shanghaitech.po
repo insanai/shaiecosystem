@@ -1,0 +1,140 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/university-shanghaitech.rst:1
+msgid "ShanghaiTech University"
+msgstr "ShanghaiTech-Universität (ShanghaiTech University)"
+
+#: ../../entities/university-shanghaitech.rst:4
+msgid "上海科技大学"
+msgstr "上海科技大学"
+
+#: ../../entities/university-shanghaitech.rst:6
+msgid "University | Pudong | Research checked 2026-11-04"
+msgstr "Hochschule | Neuer Stadtbezirk Pudong | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/university-shanghaitech.rst:8
+msgid "Ministry of Education institution code: 4131014423."
+msgstr "Institutionencode des Bildungsministeriums (MOE): 4131014423."
+
+#: ../../entities/university-shanghaitech.rst:10
+msgid ""
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Chips, software AI, scientific "
+"instruments, biotech. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding."
+msgstr "Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Halbleiter, Software-KI, wissenschaftliche Instrumente, Biotechnologie. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar."
+
+#: ../../entities/university-shanghaitech.rst:12
+msgid ""
+"`Evidence S087 <https://ott.shanghaitech.edu.cn/zxdt/list2.htm>`_. "
+"技术转移办公室."
+msgstr "`Nachweis S087 <https://ott.shanghaitech.edu.cn/zxdt/list2.htm>`_. 技术转移办公室."
+
+#: ../../entities/university-shanghaitech.rst:14
+msgid ""
+"`Evidence S088 <https://ott.shanghaitech.edu.cn/9078/list.htm>`_. 技术转移办公室."
+msgstr "`Nachweis S088 <https://ott.shanghaitech.edu.cn/9078/list.htm>`_. 技术转移办公室."
+
+#: ../../entities/university-shanghaitech.rst:16
+msgid ""
+"`Evidence S076 "
+"<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+"全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`Nachweis S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+
+#: ../../entities/university-shanghaitech.rst:18
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/university-shanghaitech.rst:21
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/university-shanghaitech.rst:23
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/university-shanghaitech.rst:25
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/university-shanghaitech.rst:28
+msgid "Office of Technology Transfer (OTT)"
+msgstr "Büro für Technologietransfer (OTT)"
+
+#: ../../entities/university-shanghaitech.rst:30
+msgid ""
+"`Official website / intake route <https://ott.shanghaitech.edu.cn/>`_"
+msgstr "`Offizielle Website / Bewerbungszugang <https://ott.shanghaitech.edu.cn/>`_"
+
+#: ../../entities/university-shanghaitech.rst:32
+msgid "`Email: ott@shanghaitech.edu.cn <mailto:ott@shanghaitech.edu.cn>`_"
+msgstr "`E-Mail: ott@shanghaitech.edu.cn <mailto:ott@shanghaitech.edu.cn>`_"
+
+#: ../../entities/university-shanghaitech.rst:34
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/university-shanghaitech.rst:36
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/university-shanghaitech.rst:39
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/university-shanghaitech.rst:41
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "Die passende Forschungsgruppe identifizieren und die wissenschaftliche oder industrielle Fragestellung formulieren."
+
+#: ../../entities/university-shanghaitech.rst:43
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "Einen kompakten Projektvorschlag zu Daten, Geräten, Zielergebnissen, Budget und Zeitplan übermitteln."
+
+#: ../../entities/university-shanghaitech.rst:45
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "Kooperationsform, Publikationsrechte, geistiges Eigentum und institutionelle Freigaben vereinbaren."
+
+#: ../../entities/university-shanghaitech.rst:47
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "Vor Beginn der Forschungsarbeiten die schriftliche Zugangsberechtigung oder Projektgenehmigung einholen."
+
+#: ../../entities/university-shanghaitech.rst:49
+msgid ""
+"Confirm whether external founders can apply, whether student or alumni "
+"status is required, who owns the research IP, and whether support is a "
+"service, a loan, a grant or equity. The thematic match in this profile is "
+"editorial guidance."
+msgstr "Klären Sie, ob externe Gründer antragsberechtigt sind, ob ein Studierenden- oder Alumnistatus verlangt wird, wer die Rechte am geistigen Eigentum hält und ob die Unterstützung als Sachleistung, Darlehen, Zuschuss oder Beteiligung erfolgt. Die thematische Zuordnung in diesem Profil dient als redaktionelle Orientierung."
+
+#: ../../entities/university-shanghaitech.rst:51
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Bezirksroute Neuer Stadtbezirk Pudong </districts/pudong>`"

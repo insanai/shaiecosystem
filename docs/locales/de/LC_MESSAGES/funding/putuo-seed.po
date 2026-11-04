@@ -1,0 +1,117 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/putuo-seed.rst:1
+msgid "Putuo Technology Enterprise Seed Plan, second 2026 batch"
+msgstr "Saatgut-Plan für Technologieunternehmen Putuo 2026 (Zweite Tranche)"
+
+#: ../../funding/putuo-seed.rst:4
+msgid "Grant | Putuo"
+msgstr "Zuschuss | Bezirk Putuo"
+
+#: ../../funding/putuo-seed.rst:6
+msgid "Closed"
+msgstr "Geschlossen"
+
+#: ../../funding/putuo-seed.rst:8
+msgid ""
+"`Evidence S109 "
+"<https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_. "
+"关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀."
+msgstr "`Nachweis S109 <https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_. 关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀."
+
+#: ../../funding/putuo-seed.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/putuo-seed.rst:13
+msgid ""
+"RMB 300,000 per selected company; 50% initially, remainder after one-year "
+"development review"
+msgstr "300.000 RMB pro ausgewähltem Unternehmen; 50 % bei Bewilligung, Restzahlung nach einjähriger Entwicklungsprüfung"
+
+#: ../../funding/putuo-seed.rst:15
+msgid "No equity"
+msgstr "Ohne Anteilsabgabe"
+
+#: ../../funding/putuo-seed.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/putuo-seed.rst:20
+msgid ""
+"Lawfully established technology companies with good credit. Online "
+"application is accompanied by stamped paper materials through the "
+"responsible investment promotion center; the science commission evaluates "
+"the project."
+msgstr "Rechtmäßig gegründete Technologieunternehmen mit einwandfreier Bonität. Die Online-Bewerbung wird durch gestempelte Unterlagen über das zuständige Investitionsförderungszentrum ergänzt; die Wissenschaftskommission bewertet das Projekt."
+
+#: ../../funding/putuo-seed.rst:22
+msgid "Closed 31 August 2026"
+msgstr "Bewerbungsschluss war der 31. August 2026"
+
+#: ../../funding/putuo-seed.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/putuo-seed.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+
+#: ../../funding/putuo-seed.rst:29
+msgid "Published consultation: +86 21 52564588 ext. 8627."
+msgstr "Veröffentlichte Beratungstelefonnummer: +86 21 52564588 ext. 8627."
+
+#: ../../funding/putuo-seed.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/putuo-seed.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../funding/putuo-seed.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../funding/putuo-seed.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../funding/putuo-seed.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../funding/putuo-seed.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

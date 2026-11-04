@@ -1,0 +1,113 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/government-chongming.rst:1
+msgid "Chongming science and technology authority"
+msgstr "Comisión de Ciencia y Tecnología de Chongming"
+
+#: ../../entities/government-chongming.rst:4
+msgid "崇明区科学技术委员会"
+msgstr "崇明区科学技术委员会"
+
+#: ../../entities/government-chongming.rst:6
+msgid "Government | Chongming | Research checked 2026-11-04"
+msgstr "Organismo gubernamental | Distrito de Chongming | Investigación verificada el 2026-11-04"
+
+#: ../../entities/government-chongming.rst:8
+msgid ""
+"The 2025-2026 Chongming Park plan supplies current strategic context. The "
+"separate 2024 science innovation subsidy measures expired on 31 December "
+"2025; we do not present those ceilings as current entitlements."
+msgstr "El plan 2025-2026 del Parque de Chongming proporciona el marco estratégico actual. Las medidas independientes de subvención a la innovación científica de 2024 expiraron el 31 de diciembre de 2025; no presentamos aquellos topes como derechos vigentes."
+
+#: ../../entities/government-chongming.rst:10
+msgid ""
+"`Evidence S025 "
+"<https://www.shanghai.gov.cn/nw12344/20250512/98a1bb8a73c54cb785296ad1835845e1.html>`_. "
+"崇明区人民政府关于印发《张江高新区崇明园改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`Evidencia S025 <https://www.shanghai.gov.cn/nw12344/20250512/98a1bb8a73c54cb785296ad1835845e1.html>`_. 崇明区人民政府关于印发《张江高新区崇明园改革创新发展行动方案（2025-2026年）》的通知."
+
+#: ../../entities/government-chongming.rst:12
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/government-chongming.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/government-chongming.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/government-chongming.rst:19
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/government-chongming.rst:22
+msgid "`Official website / intake route <https://www.shcm.gov.cn/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.shcm.gov.cn/>`_"
+
+#: ../../entities/government-chongming.rst:24
+msgid "Telephone: +86 21 69695910."
+msgstr "Teléfono: +86 21 69695910."
+
+#: ../../entities/government-chongming.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/government-chongming.rst:28
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/government-chongming.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/government-chongming.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../entities/government-chongming.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../entities/government-chongming.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../entities/government-chongming.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../entities/government-chongming.rst:41
+msgid ":doc:`Chongming district route </districts/chongming>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Chongming </districts/chongming>`"

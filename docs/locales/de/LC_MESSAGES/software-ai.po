@@ -1,0 +1,109 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../software-ai.rst:1
+msgid "Intelligence in software"
+msgstr "Intelligenz in Software"
+
+#: ../../software-ai.rst:4
+msgid ""
+"For a software AI team, the scarce resource is often a repeatable "
+"customer problem, a reliable evaluation set and a lawful route to useful "
+"data. A model community helps when it supplies a concrete resource or a "
+"credible introduction."
+msgstr "Für ein Software-KI-Team ist die knappste Ressource oft ein wiederkehrendes Kundenproblem, ein verlässlicher Evaluierungsdatensatz und ein rechtskonformer Zugang zu nutzbaren Daten. Eine Entwickler- und Modell-Community stiftet dann echten Nutzen, wenn sie konkrete Ressourcen bereitstellt oder belastbare Kontakte vermittelt."
+
+#: ../../software-ai.rst:7
+msgid "An AI product connects models to a customer workflow."
+msgstr "Ein KI-Produkt verknüpft Modelle mit den Arbeitsabläufen der Kunden."
+
+#: ../../software-ai.rst:10
+msgid "Choose an entry point"
+msgstr "Einen Einstiegspunkt wählen"
+
+#: ../../software-ai.rst:13
+msgid ""
+"For model engineering and developer connections, begin with Model Speed "
+"Space, Zhangjiang Model Community, Shanghai AI Laboratory resources or a "
+"relevant university group. For enterprise deployment, compare an "
+"operator's actual buyer relationships with the industry requirements. For "
+"an independent founder, check the current Yangpu OPC community policy and "
+"Changning's published carriers."
+msgstr "Für Modellentwicklung und den Austausch mit Entwicklern bieten sich Model Speed Space (Moxu Space), die Zhangjiang Model Community, die Ressourcen des Shanghai AI Laboratory oder spezialisierte universitäre Forschungsgruppen als erste Anlaufstellen an. Für B2B-Anwendungen sollten Sie die tatsächlichen Kundenkontakte des Betreibers mit Ihren Branchenanforderungen abgleichen. Für Solopreneure und unabhängige Gründer empfiehlt sich ein Blick auf die aktuellen Förderrichtlinien für One-Person-Company-Communitys (OPC) in Yangpu sowie auf die von Changning ausgewiesenen Zentren."
+
+#: ../../software-ai.rst:15
+msgid ""
+"We treat foundation models, domain models, agents, multimodal systems, "
+"industrial software, evaluation, AI security and scientific software as "
+"different businesses. An accelerator that can introduce a manufacturer "
+"may not supply a regulated financial dataset or an inference contract."
+msgstr "Wir betrachten Basismodelle, vertikale Branchenmodelle, KI-Agenten, multimodale Systeme, Industriesoftware, Evaluierung, KI-Sicherheit und wissenschaftliche KI (AI for Science) als grundlegend unterschiedliche Geschäftsfelder. Ein Accelerator, der den Kontakt zu einem Industriehersteller herstellen kann, verfügt womöglich über keinerlei Zugang zu regulierten Finanzdaten oder Inferenzverträgen."
+
+#: ../../software-ai.rst:17
+msgid ""
+"In central and western districts, Jing'an's Shibei Hi-Tech Park and "
+"Shutong Valley focus on big-data, blockchain and enterprise AI "
+"compliance; Huangpu pairs its five-year fintech clustering policy with "
+"the Entrepreneurship Companion mentor network; and Songjiang's 2026 Data "
+"Elements Special Fund supports corpus governance and AI data-space "
+"applications."
+msgstr "In den zentralen und westlichen Bezirken konzentrieren sich der Shibei Hi-Tech Park und das Shutong Valley in Jing'an auf Big Data, Blockchain und Compliance für Unternehmens-KI; Huangpu verknüpft seine fünfjährige Schwerpunktinitiative für Fintech mit dem Mentoring-Netzwerk des Entrepreneurship Mentorship Plan; und der Sonderfonds für Datenelemente 2026 in Songjiang fördert die Korpuskuration sowie KI-Datenraum-Anwendungen."
+
+#: ../../software-ai.rst:19
+msgid "Build the smallest credible pilot"
+msgstr "Den kleinsten glaubwürdigen Piloten bauen"
+
+#: ../../software-ai.rst:22
+msgid ""
+"Prepare one task, a baseline, a held-out evaluation set and a target "
+"metric. State cost per completed task, latency, error handling and human "
+"review. Name the data owner, deployment environment and accountable "
+"buyer. A pilot needs an owner, a budget, acceptance criteria and a path "
+"to a production contract."
+msgstr "Definieren Sie eine klar umrissene Aufgabe, eine Baseline, ein separates Testset und eine eindeutige Zielmetrik. Weisen Sie die Stückkosten pro erledigter Aufgabe, Latenzen, Fehlermuster und manuelle Prüfprozesse (Human-in-the-Loop) transparent aus. Benennen Sie den Dateneigentümer, die Ziel-Bereitstellungsumgebung und den verantwortlichen fachlichen Ansprechpartner. Jeder Pilotversuch benötigt einen internen Projektverantwortlichen, ein Budget, Abnahmekriterien und einen realistischen Weg zur kommerziellen Beschaffung."
+
+#: ../../software-ai.rst:24
+msgid ""
+"Budget training, fine-tuning, inference, retrieval, storage, networking, "
+"annotation and evaluation separately. A compute reimbursement may exclude "
+"storage or networking. A model or corpus voucher may cover only an "
+"approved supplier and a specified historical cost period. Retain usage "
+"logs, invoices, contracts and payment records from the beginning."
+msgstr "Kalkulieren Sie Training, Feinabstimmung (Fine-Tuning), Inferenz, Retrieval, Speicher, Netzwerk, Datenannotation und Evaluierung getrennt voneinander. Eine Erstattung von Rechenkosten schließt Speicherplatz oder Netzwerk-Traffic mitunter aus. Ein Gutschein für Modelle oder Textkorpora gilt häufig nur für akkreditierte Anbieter und einen fest definierten Ausgabenzeitraum in der Vergangenheit. Bewahren Sie Nutzungsprotokolle, Rechnungen, Verträge und Zahlungsbelege vom ersten Tag an sorgfältig auf."
+
+#: ../../software-ai.rst:26
+msgid "Before public deployment"
+msgstr "Vor dem öffentlichen Produktivstart"
+
+#: ../../software-ai.rst:29
+msgid ""
+"Define whether the service is an internal tool, a business-facing "
+"deployment or a public-facing generative service. Ask the relevant "
+"authority and a qualified adviser which model registration, algorithm "
+"filing, content labelling, data, sector and network requirements apply. "
+"Requirements attach to the actual service, not to an AI label on a pitch "
+"deck. This atlas supplies routing questions rather than an exhaustive "
+"legal procedure."
+msgstr "Klären Sie verbindlich, ob es sich bei dem Dienst um ein internes Werkzeug, eine Lösung für Unternehmenskunden (B2B) oder einen öffentlich zugänglichen generativen KI-Dienst handelt. Prüfen Sie mit den zuständigen Behörden und qualifizierten Rechtsberatern, welche Anforderungen bezüglich Modellregistrierung, Algorithmen-Anmeldung, Inhaltskennzeichnung, Datensicherheit, Branchenregulierung und Cybersicherheit greifen. Gesetzliche Pflichten richten sich nach dem tatsächlich erbrachten Dienst, nicht nach dem KI-Label auf einem Pitchdeck. Dieser Atlas liefert orientierende Fragen, ersetzt jedoch keine rechtliche Prüfung."
+
+#: ../../software-ai.rst:31
+msgid ""
+"`Evidence S104 "
+"<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
+"上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`Nachweis S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."

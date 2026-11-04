@@ -1,0 +1,116 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/putuo-rd-platform.rst:1
+msgid "Putuo R&D Platform Projects, 2026"
+msgstr "2026年普陀区科学技術研究開発プラットフォームプロジェクト"
+
+#: ../../funding/putuo-rd-platform.rst:4
+msgid "Grant | Putuo"
+msgstr "助成金・補助金 | 普陀区"
+
+#: ../../funding/putuo-rd-platform.rst:6
+msgid "2026 call published; not confirmed open"
+msgstr "2026年公募公表済み（受付開始は未確認）"
+
+#: ../../funding/putuo-rd-platform.rst:8
+msgid ""
+"`Evidence S111 "
+"<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. "
+"关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+msgstr "`出典 S111 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+
+#: ../../funding/putuo-rd-platform.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/putuo-rd-platform.rst:13
+msgid ""
+"Up to RMB 2 million; first payment at most 50%, balance subject to "
+"acceptance"
+msgstr "最大200万元（初回交付は50％以下、残額は事業検収・完了審査結果に基づき交付）"
+
+#: ../../funding/putuo-rd-platform.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/putuo-rd-platform.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/putuo-rd-platform.rst:20
+msgid ""
+"Lawfully established, good-credit legal or non-legal-person organizations "
+"building qualifying R&D platforms. Online registration requires district "
+"review; credit commitments and prescribed materials are required."
+msgstr "適格な研究開発プラットフォームを構築する、適法に設立された信用良好な法人または非法人組織。オンライン登録には区の事前審査が必要であり、信用誓約書および指定証憑を提出すること。"
+
+#: ../../funding/putuo-rd-platform.rst:22
+msgid "Confirm the deadline in the September 2026 notice"
+msgstr "2026年9月発行の公募通知に定められた期日を確認のこと"
+
+#: ../../funding/putuo-rd-platform.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/putuo-rd-platform.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+msgstr "`公式申請窓口／政策ポータル <https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+
+#: ../../funding/putuo-rd-platform.rst:29
+msgid "Published consultation: +86 21 52564588 ext. 8628."
+msgstr "公開相談電話：+86 21 52564588 ext. 8628。"
+
+#: ../../funding/putuo-rd-platform.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/putuo-rd-platform.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/putuo-rd-platform.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/putuo-rd-platform.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/putuo-rd-platform.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/putuo-rd-platform.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

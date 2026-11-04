@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -29,88 +29,92 @@ msgid "Investor | Pudong | Research checked 2026-11-04"
 msgstr "投资机构｜浦东新区｜研究核对日期 2026-11-04"
 
 #: ../../entities/qiming.rst:8
+msgid "AI and industry focus: Software AI, Health, Hardware AI."
+msgstr "人工智能与产业方向：软件人工智能、健康、硬件人工智能。"
+
+#: ../../entities/qiming.rst:10
 msgid ""
 "A venture-capital contact route with a published Shanghai office. Send a "
 "concise investment case and confirm sector and stage fit. The general "
 "contact inbox is not a guarantee of an investment review."
 msgstr "公布上海办公室的风险投资机构。可提交简明投资方案并确认行业与阶段匹配；综合邮箱不保证立项评审。"
 
-#: ../../entities/qiming.rst:10
+#: ../../entities/qiming.rst:12
 msgid ""
 "`Evidence S048 <https://www.qimingvc.com/en/contact>`_. Contact Us | "
 "Qiming Venture Partners."
 msgstr "`证据 S048 <https://www.qimingvc.com/en/contact>`_. Contact Us | Qiming Venture Partners."
 
-#: ../../entities/qiming.rst:12
+#: ../../entities/qiming.rst:14
 msgid "Status and support"
 msgstr "状态与支持"
 
-#: ../../entities/qiming.rst:15
+#: ../../entities/qiming.rst:17
 msgid "Published entity; intake to confirm"
 msgstr "机构有来源，招募待确认"
 
-#: ../../entities/qiming.rst:17
+#: ../../entities/qiming.rst:19
 msgid "Funding mechanism: Equity investment."
 msgstr "支持机制：股权投资。"
 
-#: ../../entities/qiming.rst:19
+#: ../../entities/qiming.rst:21
 msgid "Contact and location"
 msgstr "联系与位置"
 
-#: ../../entities/qiming.rst:22
+#: ../../entities/qiming.rst:24
 msgid ""
 "`Official website / intake route <https://www.qimingvc.com/en/contact>`_"
 msgstr "`官网／对接入口 <https://www.qimingvc.com/en/contact>`_"
 
-#: ../../entities/qiming.rst:24
+#: ../../entities/qiming.rst:26
 msgid "Telephone: +86 21 61016522."
 msgstr "电话：+86 21 61016522。"
 
-#: ../../entities/qiming.rst:26
+#: ../../entities/qiming.rst:28
 msgid "`Email: contactus@qimingvc.com <mailto:contactus@qimingvc.com>`_"
 msgstr "`邮箱：contactus@qimingvc.com <mailto:contactus@qimingvc.com>`_"
 
-#: ../../entities/qiming.rst:28
+#: ../../entities/qiming.rst:30
 msgid ""
 "Published address: Room 3901, Jinmao Tower, 88 Century Boulevard, Pudong."
 msgstr "公布地址：浦东新区世纪大道88号金茂大厦3901室。"
 
-#: ../../entities/qiming.rst:30
+#: ../../entities/qiming.rst:32
 msgid ""
 "Map point is approximate, based on the published street context; it is "
 "not an entrance or navigation coordinate."
 msgstr "地图点依据公布街道信息近似定位，不是入口或导航坐标。"
 
-#: ../../entities/qiming.rst:32
+#: ../../entities/qiming.rst:34
 msgid "Application workflow"
 msgstr "申请流程"
 
-#: ../../entities/qiming.rst:35
+#: ../../entities/qiming.rst:37
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
 
-#: ../../entities/qiming.rst:37
+#: ../../entities/qiming.rst:39
 msgid "Confirm the manager, sector, stage and legal-entity fit."
 msgstr "确认管理人、行业、阶段及主体匹配。"
 
-#: ../../entities/qiming.rst:39
+#: ../../entities/qiming.rst:41
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
 msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
 
-#: ../../entities/qiming.rst:41
+#: ../../entities/qiming.rst:43
 msgid "Complete commercial, financial, technical and legal due diligence."
 msgstr "完成商业、财务、技术及法律尽职调查。"
 
-#: ../../entities/qiming.rst:43
+#: ../../entities/qiming.rst:45
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
 msgstr "审核条款书、投委会条件及正式协议。"
 
-#: ../../entities/qiming.rst:45
+#: ../../entities/qiming.rst:47
 msgid ":doc:`Pudong district route </districts/pudong>`"
 msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"

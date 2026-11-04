@@ -1,0 +1,118 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/hongqiao-youth.rst:1
+msgid "Hongqiao International Youth Innovation Hub"
+msgstr "होंगकियाओ इंटरनेशनल यूथ इनोवेशन हब (Hongqiao International Youth Innovation Hub)"
+
+#: ../../entities/hongqiao-youth.rst:4
+msgid "虹桥国际青年创业港"
+msgstr "虹桥国际青年创业港"
+
+#: ../../entities/hongqiao-youth.rst:6
+msgid "Incubator | Minhang | Research checked 2026-11-04"
+msgstr "इनक्यूबेटर | मिनहांग (Minhang) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/hongqiao-youth.rst:8
+msgid "AI and industry focus: Software AI, Industry."
+msgstr "एआई और उद्योग फोकस: सॉफ्टवेयर AI, उद्योग।"
+
+#: ../../entities/hongqiao-youth.rst:10
+msgid ""
+"Opened in July 2026 as a youth innovation and business-service hub in "
+"Hongqiao. The reported workstation offer depends on qualification and "
+"available space, not simply arrival at the transport hub."
+msgstr "होंगकियाओ में युवा नवाचार और व्यावसायिक-सेवा हब के रूप में जुलाई 2026 में खोला गया। रिपोर्ट किया गया वर्कस्टेशन ऑफ़र योग्यता और उपलब्ध स्थान पर निर्भर करता है, न कि केवल परिवहन हब पर पहुंचने पर।"
+
+#: ../../entities/hongqiao-youth.rst:12
+msgid ""
+"`Evidence S051 "
+"<https://www.shanghai.gov.cn/nw15343/20260728/8f316e7b4dcc43d48067f450e11fc80e.html>`_. "
+"下了飞机火车，120个创业工位“零成本”拎包入驻！虹桥国际青年创业港7月25日启用."
+msgstr "`साक्ष्य S051 <https://www.shanghai.gov.cn/nw15343/20260728/8f316e7b4dcc43d48067f450e11fc80e.html>`_. 下了飞机火车，120个创业工位“零成本”拎包入驻！虹桥国际青年创业港7月25日启用."
+
+#: ../../entities/hongqiao-youth.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/hongqiao-youth.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/hongqiao-youth.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/hongqiao-youth.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/hongqiao-youth.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw15343/20260728/8f316e7b4dcc43d48067f450e11fc80e.html>`_"
+msgstr "`आधिकारिक साक्ष्य और प्राधिकरण मार्ग <https://www.shanghai.gov.cn/nw15343/20260728/8f316e7b4dcc43d48067f450e11fc80e.html>`_"
+
+#: ../../entities/hongqiao-youth.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/hongqiao-youth.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/hongqiao-youth.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/hongqiao-youth.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/hongqiao-youth.rst:35
+msgid "Send a project brief and request the current admission checklist."
+msgstr "परियोजना का संक्षिप्त विवरण भेजें और वर्तमान प्रवेश चेकलिस्ट का अनुरोध करें।"
+
+#: ../../entities/hongqiao-youth.rst:37
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "संचालक की पात्रता और तकनीकी या वाणिज्यिक समीक्षा पूरी करें।"
+
+#: ../../entities/hongqiao-youth.rst:39
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "किराया, सेवा शुल्क, IP, कंप्यूट मूल्य निर्धारण और किसी भी इक्विटी अधिकार की लिखित रूप में पुष्टि करें।"
+
+#: ../../entities/hongqiao-youth.rst:41
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "सहमत प्रवेश दस्तावेजों पर हस्ताक्षर करें और मील के पत्थर तथा सहायता प्रभारियों को दर्ज करें।"
+
+#: ../../entities/hongqiao-youth.rst:43
+msgid ":doc:`Minhang district route </districts/minhang>`"
+msgstr ":doc:`मिनहांग (Minhang) ज़िला मार्ग </districts/minhang>`"

@@ -1,0 +1,112 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/startup-competition.rst:1
+msgid "Startup in Shanghai International Competition, 2026"
+msgstr "2026年「創・在上海」国際イノベーション＆アントレプレナーシップ大会"
+
+#: ../../funding/startup-competition.rst:4
+msgid "Competition | Citywide / global"
+msgstr "コンペティション・競技大会 | 全市／グローバル"
+
+#: ../../funding/startup-competition.rst:6
+msgid "2026 call published; deadline check required"
+msgstr "2026年公募公表済み（締切日の確認要）"
+
+#: ../../funding/startup-competition.rst:8
+msgid ""
+"`Evidence S100 "
+"<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
+"2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
+msgstr "`出典 S100 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
+
+#: ../../funding/startup-competition.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/startup-competition.rst:13
+msgid "Awards and connected investment depend on track; not guaranteed"
+msgstr "表彰賞金およびマッチング投資額はトラック別に規定され、受給が保証されるものではない"
+
+#: ../../funding/startup-competition.rst:15
+msgid "Award / investment terms vary"
+msgstr "表彰・投資条件は個別規定"
+
+#: ../../funding/startup-competition.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/startup-competition.rst:20
+msgid ""
+"Domestic and overseas teams and companies under the official track rules. "
+"Competition admission, innovation funding and investor interest are "
+"separate outcomes."
+msgstr "公式トラック規定に基づく国内外の起業チームおよび企業。大会へのエントリー通過、イノベーション補助金の採択、投資家からの投資意向はそれぞれ異なる結果となる。"
+
+#: ../../funding/startup-competition.rst:22
+msgid "Check the specific 2026 track; not labelled open"
+msgstr "2026年の該当トラックを確認のこと（常時公募ではない）"
+
+#: ../../funding/startup-competition.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/startup-competition.rst:27
+msgid ""
+"`Official application / policy route <https://www.startup-sh.cn/cyds>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.startup-sh.cn/cyds>`_"
+
+#: ../../funding/startup-competition.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/startup-competition.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/startup-competition.rst:33
+msgid "Choose the correct competition track, region and applicant category."
+msgstr "適切なコンペティション部門（トラック）、地域区分、および応募者カテゴリーを選択する。"
+
+#: ../../funding/startup-competition.rst:35
+msgid ""
+"Read the rules and submit the required project, team and IP evidence."
+msgstr "応募規定を精読し、必要な事業計画書、チーム経歴、および知的財産権の証明資料を提出する。"
+
+#: ../../funding/startup-competition.rst:37
+msgid ""
+"Complete selection or pitching; confirm prize and service conditions in "
+"writing."
+msgstr "書類選考やピッチ審査を完了し、賞金、副賞、および支援サービスの提供条件を書面で確認する。"
+
+#: ../../funding/startup-competition.rst:39
+msgid ""
+"Treat investor introductions and district funding as separate follow-up "
+"decisions."
+msgstr "投資家の紹介や区による助成金支援は、大会結果とは別の後続の個別意思決定として取り扱う。"
+
+#: ../../funding/startup-competition.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

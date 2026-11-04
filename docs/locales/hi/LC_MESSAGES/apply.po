@@ -1,0 +1,157 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../apply.rst:1
+msgid "From introduction to application"
+msgstr "परिचय से आवेदन तक"
+
+#: ../../apply.rst:4
+msgid ""
+"A useful application starts with a fit check and ends with an evidence "
+"trail. We keep one company data room, then adapt it to an incubation "
+"review, a public funding call, a corporate pilot or an investment process."
+msgstr "एक उपयोगी आवेदन उपयुक्तता जाँच (fit check) से शुरू होता है और साक्ष्य रिकॉर्ड (evidence trail) पर समाप्त होता है। हम कंपनी का एक ही डेटा रूम रखते हैं, फिर उसे इनक्यूबेशन समीक्षा, सार्वजनिक फंडिंग कॉल, कॉर्पोरेट पायलट या निवेश प्रक्रिया के अनुसार ढालते हैं।"
+
+#: ../../apply.rst:7
+msgid ""
+"A clear application separates eligibility, evidence and the decision."
+msgstr "एक स्पष्ट आवेदन पात्रता, साक्ष्य और निर्णय को अलग-अलग रखता है।"
+
+#: ../../apply.rst:10
+msgid "The first conversation"
+msgstr "पहली बातचीत"
+
+#: ../../apply.rst:13
+msgid ""
+"We send a one-page introduction in English and Simplified Chinese: "
+"company and team, customer problem, product, evidence, current stage, "
+"Shanghai presence and the exact resource requested. We ask for the named "
+"receiving team and written current terms. A first message should be small "
+"enough to forward to the right person."
+msgstr "हम अंग्रेजी और सरलीकृत चीनी में एक पृष्ठ का परिचय भेजते हैं: कंपनी और टीम, ग्राहक समस्या, उत्पाद, साक्ष्य, वर्तमान चरण, शंघाई में उपस्थिति और मांगा गया सटीक संसाधन। हम नामित प्राप्तकर्ता टीम और लिखित वर्तमान शर्तों के लिए पूछते हैं। पहला संदेश इतना संक्षिप्त होना चाहिए कि उसे सही व्यक्ति को अग्रेषित (forward) किया जा सके।"
+
+#: ../../apply.rst:15
+msgid ""
+"Suggested subject: Shanghai ecosystem inquiry / project name / "
+"incubation, pilot or funding. Suggested request: We are developing "
+"[product] for [customer]. Our evidence is [metric or prototype]. We seek "
+"[specific resource] during [period]. Please confirm eligibility, intake "
+"dates, the application checklist, fees or equity terms, and the "
+"responsible contact."
+msgstr "सुझाया गया विषय: शंघाई इकोसिस्टम पूछताछ / परियोजना का नाम / इनक्यूबेशन, पायलट या फंडिंग। सुझाया गया अनुरोध: हम [ग्राहक] के लिए [उत्पाद] विकसित कर रहे हैं। हमारा साक्ष्य [मीट्रिक या प्रोटोटाइप] है। हम [अवधि] के दौरान [विशिष्ट संसाधन] चाहते हैं। कृपया पात्रता, प्रवेश तिथियां, आवेदन चेकलिस्ट, शुल्क या इक्विटी शर्तें, और जिम्मेदार संपर्क की पुष्टि करें।"
+
+#: ../../apply.rst:17
+msgid "The shared data room"
+msgstr "साझा डेटा रूम"
+
+#: ../../apply.rst:20
+msgid ""
+"Company: business licence, unified social credit code, articles, cap "
+"table, beneficial ownership, bank details, registered and operating "
+"addresses, prior public awards and related-party list. Team: founder "
+"roles, full-time commitment, relevant education, eligibility evidence and "
+"lawful work status where required."
+msgstr "कंपनी: व्यावसायिक लाइसेंस, एकीकृत सामाजिक क्रेडिट कोड, संस्था के अंतर्नियम, कैप टेबल, लाभकारी स्वामित्व, बैंक विवरण, पंजीकृत और परिचालन पते, पूर्व सार्वजनिक पुरस्कार और संबंधित-पक्ष सूची। टीम: संस्थापक भूमिकाएं, पूर्णकालिक प्रतिबद्धता, प्रासंगिक शिक्षा, पात्रता साक्ष्य और जहां आवश्यक हो कानूनी कार्य स्थिति।"
+
+#: ../../apply.rst:22
+msgid ""
+"For international founders and overseas returnees, Shanghai publishes "
+"dedicated guidance for Foreigner's Work Permit (Category A/B) "
+"applications during the startup phase, Overseas Talent Residence Permits, "
+"and the 2026 Regulations Encouraging Overseas Returnees to Work and Start "
+"Businesses in Shanghai. Confirm host-park endorsement and immigration "
+"requirements separately from grant eligibility."
+msgstr "अंतर्राष्ट्रीय संस्थापकों और विदेश से लौटने वालों के लिए, शंघाई स्टार्टअप चरण के दौरान विदेशी कार्य परमिट (श्रेणी A/B) आवेदनों, ओवरसीज टैलेंट रेजिडेंस परमिट, और शंघाई में काम करने और व्यवसाय शुरू करने के लिए प्रवासी लौटने वालों को प्रोत्साहित करने वाले 2026 विनियमों के लिए समर्पित मार्गदर्शन प्रकाशित करता है। अनुदान पात्रता से अलग मेजबान-पार्क समर्थन और आव्रजन आवश्यकताओं की पुष्टि करें।"
+
+#: ../../apply.rst:24
+msgid ""
+"Technology: product note, demo, evaluation, IP ownership and licences, "
+"patent and software records, data rights, security controls and sector "
+"approvals where applicable. Commercial: pilot evidence, customer "
+"references, pricing, procurement path and unit economics. Finance: "
+"management accounts, annual audit where required, R&D ledger, contracts, "
+"invoices and payment evidence."
+msgstr "प्रौद्योगिकी: उत्पाद नोट, डेमो, मूल्यांकन, IP स्वामित्व और लाइसेंस, पेटेंट और सॉफ्टवेयर रिकॉर्ड, डेटा अधिकार, सुरक्षा नियंत्रण और जहां लागू हो क्षेत्र अनुमोदन। वाणिज्यिक: पायलट साक्ष्य, ग्राहक संदर्भ, मूल्य निर्धारण, खरीद मार्ग और यूनिट इकोनॉमिक्स। वित्त: प्रबंधन खाते, जहां आवश्यक हो वार्षिक ऑडिट, R&D लेजर, अनुबंध, चालान और भुगतान साक्ष्य।"
+
+#: ../../apply.rst:26
+msgid "Four different decisions"
+msgstr "चार अलग-अलग निर्णय"
+
+#: ../../apply.rst:29
+msgid ""
+"Incubation: fit inquiry, application pack, technical or commercial "
+"review, written service and space terms, admission and onboarding. "
+"Confirm workspace rent, service fee, compute price, access restrictions, "
+"IP and any investment rights before signing."
+msgstr "इनक्यूबेशन: उपयुक्तता पूछताछ, आवेदन पैक, तकनीकी या वाणिज्यिक समीक्षा, लिखित सेवा और स्थान की शर्तें, प्रवेश और ऑनबोर्डिंग। हस्ताक्षर करने से पहले कार्यस्थल किराया, सेवा शुल्क, कंप्यूट मूल्य, पहुंच प्रतिबंध, IP और किसी भी निवेश अधिकार की पुष्टि करें।"
+
+#: ../../apply.rst:31
+msgid ""
+"Public grant or reimbursement: current notice, eligibility check, "
+"platform account, legal-entity authorization, evidence submission, "
+"district or host review, expert review, award or contract, reporting, "
+"acceptance and payment. This sequence is a general guide; the linked "
+"notice governs the actual workflow."
+msgstr "सार्वजनिक अनुदान या प्रतिपूर्ति: वर्तमान सूचना, पात्रता जाँच, प्लेटफॉर्म खाता, कानूनी-इकाई प्राधिकरण, साक्ष्य प्रस्तुत करना, जिला या मेजबान समीक्षा, विशेषज्ञ समीक्षा, पुरस्कार या अनुबंध, रिपोर्टिंग, स्वीकृति और भुगतान। यह क्रम एक सामान्य मार्गदर्शिका है; लिंक की गई सूचना वास्तविक कार्यप्रणाली को नियंत्रित करती है।"
+
+#: ../../apply.rst:33
+msgid ""
+"Corporate pilot: business owner, problem definition, data and IP "
+"agreement, scoped pilot, procurement and legal review, acceptance, "
+"production decision. Investment: manager fit, deck, meeting, diligence, "
+"term sheet, investment committee, definitive agreements and closing. "
+"Neither begins with a guaranteed outcome."
+msgstr "कॉर्पोरेट पायलट: व्यवसाय स्वामी, समस्या परिभाषा, डेटा और IP समझौता, निर्धारित पायलट, खरीद और कानूनी समीक्षा, स्वीकृति, उत्पादन निर्णय। निवेश: प्रबंधक उपयुक्तता, डेक, बैठक, ड्यू डिलिजेंस, टर्म शीट, निवेश समिति, अंतिम समझौते और समापन। दोनों में से कोई भी गारंटीकृत परिणाम के साथ शुरू नहीं होता है।"
+
+#: ../../apply.rst:35
+msgid "An accelerator's four-week field program"
+msgstr "एक्सेलेरेटर का चार-सप्ताह का फील्ड प्रोग्राम"
+
+#: ../../apply.rst:38
+msgid ""
+"Week 1: shortlist two districts, one research partner and two operators "
+"using sector fit and written eligibility. Week 2: meet the operator and a "
+"plausible buyer; inspect facilities. Week 3: define one pilot and a "
+"costed evidence plan. Week 4: submit the relevant application or "
+"investment pack and record the next decision date. This is an editorial "
+"planning model, not an official service promise."
+msgstr "सप्ताह 1: सेक्टर उपयुक्तता और लिखित पात्रता का उपयोग करके दो जिलों, एक अनुसंधान भागीदार और दो संचालकों को शॉर्टलिस्ट करें। सप्ताह 2: संचालक और एक संभावित खरीदार से मिलें; सुविधाओं का निरीक्षण करें। सप्ताह 3: एक पायलट और लागत सहित साक्ष्य योजना को परिभाषित करें। सप्ताह 4: प्रासंगिक आवेदन या निवेश पैक जमा करें और अगली निर्णय तिथि दर्ज करें। यह एक संपादकीय योजना मॉडल है, न कि कोई आधिकारिक सेवा वादा।"
+
+#: ../../apply.rst:40
+msgid ""
+"We maintain an application ledger with owner, authority, policy version, "
+"evidence period, deadline in China Standard Time, submission receipt, "
+"duplicate-funding exclusions, reporting duty and next action. A calendar "
+"alert is useful only after the correct deadline and timezone have been "
+"confirmed."
+msgstr "हम स्वामी, प्राधिकरण, नीति संस्करण, साक्ष्य अवधि, चीन मानक समय (CST) में समय सीमा, सबमिशन रसीद, दोहरे-फंडिंग बहिष्करण, रिपोर्टिंग कर्तव्य और अगली कार्रवाई के साथ एक आवेदन लेजर बनाए रखते हैं। सही समय सीमा और समय क्षेत्र की पुष्टि होने के बाद ही कैलेंडर अलर्ट उपयोगी होता है।"
+
+#: ../../apply.rst:42
+msgid ""
+"`Evidence S130 "
+"<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
+"Guide for foreign talent and team members (Category A/B) applying for a "
+"Foreigner's Work Permit during the startup phase_Latest."
+msgstr "`साक्ष्य S130 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest."
+
+#: ../../apply.rst:44
+msgid ""
+"`Evidence S131 "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. "
+"上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+msgstr "`साक्ष्य S131 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."

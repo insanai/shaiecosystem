@@ -1,0 +1,110 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/tax-hnte.rst:1
+msgid "High and New Technology Enterprise tax rate"
+msgstr "첨단기술기업(HNTE) 법인세 감면 혜택"
+
+#: ../../funding/tax-hnte.rst:4
+msgid "Tax relief | Citywide / global"
+msgstr "세제 혜택 | 전시 / 글로벌"
+
+#: ../../funding/tax-hnte.rst:6
+msgid "Published tax guidance; recognition required"
+msgstr "세무 지침 공시됨; 공식 기업 인증 필요"
+
+#: ../../funding/tax-hnte.rst:8
+msgid ""
+"`Evidence S099 "
+"<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
+"上海市“2366”产业税收优惠政策指引."
+msgstr "`근거 S099 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+
+#: ../../funding/tax-hnte.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/tax-hnte.rst:13
+msgid "15% corporate income tax for qualifying recognized enterprises"
+msgstr "법인세율을 기본 25%에서 15%로 인하 적용; 결손금 이월 공제 기간 최대 10년 연장"
+
+#: ../../funding/tax-hnte.rst:15
+msgid "No equity"
+msgstr "지분 취득 없음"
+
+#: ../../funding/tax-hnte.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/tax-hnte.rst:20
+msgid ""
+"Recognition and continued compliance are required. Review IP, personnel, "
+"R&D, revenue mix and annual reporting; not all AI companies qualify."
+msgstr "공식 첨단기술기업(HNTE) 인증을 취득한 법인: 핵심 독립 지식재산권, R&D 지출 비중 요건, 첨단기술 제품 매출 비중(60% 이상) 요건 충족 필수."
+
+#: ../../funding/tax-hnte.rst:22
+msgid "Recognition batches and annual filing"
+msgstr "연간 상하이시 인증 배치 공고 확인 필요"
+
+#: ../../funding/tax-hnte.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/tax-hnte.rst:27
+msgid ""
+"`Official application / policy route <https://shanghai.chinatax.gov.cn/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://shanghai.chinatax.gov.cn/>`_"
+
+#: ../../funding/tax-hnte.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/tax-hnte.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/tax-hnte.rst:33
+msgid ""
+"Check the current tax rules and recognition or accounting requirements."
+msgstr "현행 세법 규정, 공인 기업 인증 요건 또는 회계 분리 계상 기준을 확인한다."
+
+#: ../../funding/tax-hnte.rst:35
+msgid ""
+"Maintain qualifying R&D and income records with a qualified tax adviser."
+msgstr "공인 세무 대리인과 함께 자격 요건을 충족하는 R&D 지출 및 매출 증빙을 지속적으로 관리한다."
+
+#: ../../funding/tax-hnte.rst:37
+msgid ""
+"Complete recognition where required and claim in the correct tax filing."
+msgstr "요구되는 경우 정부 인증 절차를 완료하고 정기 법인세 신고 시 세제 감면 혜택을 반영한다."
+
+#: ../../funding/tax-hnte.rst:39
+msgid ""
+"Retain evidence for review and separate tax savings from cash grants."
+msgstr "세무 감사에 대비해 증빙 자료를 보관하며, 절세 효과를 직접적인 현금 보조금과 혼동하지 않는다."
+
+#: ../../funding/tax-hnte.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

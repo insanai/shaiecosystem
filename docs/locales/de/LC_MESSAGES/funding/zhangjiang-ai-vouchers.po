@@ -1,0 +1,115 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:1
+msgid "Zhangjiang AI Town compute, model and corpus support"
+msgstr "Förderung für Rechenleistung, Modelle und Datenkorpora der Zhangjiang KI-Innovationsstadt"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "Kostenerstattung | Neuer Stadtbezirk Pudong"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:6
+msgid "Quarterly scheme published; current intake to confirm"
+msgstr "Quartalsprogramm veröffentlicht; aktuelle Runde zu bestätigen"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:8
+msgid ""
+"`Evidence S103 "
+"<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
+"浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
+msgstr "`Nachweis S103 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. 浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:13
+msgid ""
+"Up to 100% of approved actual cost, capped at RMB 1m in each category; at "
+"most one year"
+msgstr "Bis zu 100 % der anerkannten tatsächlichen Kosten, gedeckelt auf jeweils 1 Mio. RMB pro Kategorie; maximale Förderdauer: 1 Jahr"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:15
+msgid "No equity"
+msgstr "Ohne Anteilsabgabe"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:20
+msgid ""
+"AI companies registered and operating inside the specified town boundary, "
+"established or moved there no earlier than 1 Jan 2025. Expenses must be "
+"for qualifying model R&D or deployment; review the current quarterly "
+"guide."
+msgstr "KI-Unternehmen, die innerhalb der definierten Grenzen der KI-Stadt registriert sind und operieren sowie nicht vor dem 1. Januar 2025 dorthin gegründet oder umgesiedelt wurden. Die Ausgaben müssen der Entwicklung oder dem Einsatz qualifizierter Modelle dienen."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:22
+msgid "Quarterly claims; confirm the current batch"
+msgstr "Vierteljährliche Abrechnung; aktuelle Fristen der Einreichungsrunden beachten"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:27
+msgid "`Official application / policy route <https://pyd.pudong.gov.cn/>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://pyd.pudong.gov.cn/>`_"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:29
+msgid "Published consultation: +86 21 58811024 ext. 5091."
+msgstr "Veröffentlichte Beratungstelefonnummer: +86 21 58811024 ext. 5091."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "Gutscheinkategorie, räumliche Grenzen, anerkannte Dienstleister und förderfähigen Zeitraum prüfen."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "Dienstleistungsverträge, Rechnungen, Zahlungsnachweise und detaillierte Nutzungsberichte aufbewahren."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "Die festgelegte Plattform und Antragsrunde nutzen sowie die Prüfung durch Bezirk oder Betreiber durchlaufen."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "Bewilligungssumme, Ausschluss von Mehrfachförderung und Auszahlungsmodalitäten kontrollieren."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

@@ -1,0 +1,113 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/ms-startups.rst:1
+msgid "Microsoft for Startups"
+msgstr "Microsoft para Startups (Microsoft for Startups)"
+
+#: ../../entities/ms-startups.rst:4
+msgid "微软初创企业计划"
+msgstr "微软初创企业计划"
+
+#: ../../entities/ms-startups.rst:6
+msgid "Global program | Citywide / global | Research checked 2026-11-04"
+msgstr "Programa global | Toda la ciudad / global | Investigación verificada el 2026-11-04"
+
+#: ../../entities/ms-startups.rst:8
+msgid "AI and industry focus: Software AI."
+msgstr "Enfoque de IA e industria: IA de software."
+
+#: ../../entities/ms-startups.rst:10
+msgid ""
+"The current program provides Azure-related startup resources through "
+"online application. We do not transfer historic Shanghai accelerator "
+"terms or global credit ceilings to China-region accounts. Validate the "
+"legal entity and region first."
+msgstr "El programa actual ofrece recursos para startups vinculados a Azure mediante solicitud en línea. No extrapolamos las condiciones históricas de la antigua aceleradora de Shanghái ni los topes globales de créditos a las cuentas de la región de China. Valide primero la entidad legal y la región."
+
+#: ../../entities/ms-startups.rst:12
+msgid ""
+"`Evidence S041 <https://learn.microsoft.com/en-us/startups/overview>`_. "
+"What is Microsoft for Startups? | Microsoft Learn."
+msgstr "`Evidencia S041 <https://learn.microsoft.com/en-us/startups/overview>`_. What is Microsoft for Startups? | Microsoft Learn."
+
+#: ../../entities/ms-startups.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/ms-startups.rst:17
+msgid "Regional eligibility to confirm"
+msgstr "Elegibilidad regional pendiente de confirmar"
+
+#: ../../entities/ms-startups.rst:19
+msgid "Funding mechanism: Cloud credits."
+msgstr "Mecanismo de financiación: Créditos en la nube."
+
+#: ../../entities/ms-startups.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/ms-startups.rst:24
+msgid ""
+"`Official website / intake route "
+"<https://learn.microsoft.com/en-us/startups/overview>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://learn.microsoft.com/en-us/startups/overview>`_"
+
+#: ../../entities/ms-startups.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/ms-startups.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/ms-startups.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/ms-startups.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/ms-startups.rst:35
+msgid ""
+"Check incorporation, company age, account region and existing benefits."
+msgstr "Verificar el estado de constitución societaria, la antigüedad de la empresa, la región de la cuenta y los beneficios disfrutados previamente."
+
+#: ../../entities/ms-startups.rst:37
+msgid "Apply through the official program form or qualifying partner route."
+msgstr "Presentar la solicitud mediante el formulario oficial del programa o a través de un socio colaborador homologado."
+
+#: ../../entities/ms-startups.rst:39
+msgid ""
+"Confirm covered services, expiry, fees, usage limits and overage billing."
+msgstr "Confirmar los servicios cubiertos, la fecha de caducidad, las tarifas aplicables, los límites de uso y la facturación por consumo excedente."
+
+#: ../../entities/ms-startups.rst:41
+msgid "Keep usage records and do not describe credits as unrestricted cash."
+msgstr "Conservar los registros de consumo y no contabilizar los créditos en la nube como efectivo de libre disposición."
+
+#: ../../entities/ms-startups.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`Ruta del distrito de Toda la ciudad / global </funding>`"

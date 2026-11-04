@@ -1,0 +1,160 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/qingpu.rst:1
+msgid "Qingpu"
+msgstr "青浦区"
+
+#: ../../districts/qingpu.rst:4
+msgid "Huawei-linked research, digital systems and regional collaboration"
+msgstr "ファーウェイ連携研究開発、デジタルシステム、地域連携"
+
+#: ../../districts/qingpu.rst:6
+msgid ""
+"Xicen links the Lianqiu Lake research center with an emerging innovation "
+"district. The official 2025 reply discusses early investment and "
+"technology transfer, but proposed funds are not treated here as open "
+"startup applications."
+msgstr "西岑エリアは練秋湖研究開発センターと新興イノベーション地区をつないでいる。2025年の公式回答では初期投資や技術移転について言及されているが、設立検討中のファンドを現在受付中の公募として扱うことはできない。"
+
+#: ../../districts/qingpu.rst:8
+msgid ""
+"`Evidence S022 "
+"<https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. "
+"对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+msgstr "`出典 S022 <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. 对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+
+#: ../../districts/qingpu.rst:10
+msgid "Who receives the inquiry"
+msgstr "受付・問い合わせ窓口"
+
+#: ../../districts/qingpu.rst:13
+msgid "Qingpu science and technology authority"
+msgstr "青浦区科学技術委員会"
+
+#: ../../districts/qingpu.rst:15
+msgid "`Official district website <https://www.shqp.gov.cn/>`_"
+msgstr "`区人民政府公式サイト <https://www.shqp.gov.cn/>`_"
+
+#: ../../districts/qingpu.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "本記録では現行の直接電話番号やメールアドレスは確認されていません。公式サイトを通じて担当の受付部署にお問い合わせください。"
+
+#: ../../districts/qingpu.rst:19
+msgid "Before applying"
+msgstr "申請前の確認事項"
+
+#: ../../districts/qingpu.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../districts/qingpu.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../districts/qingpu.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../districts/qingpu.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../districts/qingpu.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../districts/qingpu.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "どの現行通知がプロジェクトに適用されるか、法人登記と実際の事業活動の双方が区内にある必要があるか、どの経費支出期間が対象となるか、また過去の市・区レベルの受給実績が今回の申請を排除しないかを確認してください。企業の移転や費用の発生に先立ち、回答を得ておく必要があります。"
+
+#: ../../districts/qingpu.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本アトラスに収録されている区内組織"
+
+#: ../../districts/qingpu.rst:37
+msgid ""
+":doc:`Xicen Science and Innovation Center </entities/xicen>` (西岑科创中心 · "
+"Technology park · Hardware AI, Software AI) — A Qingpu innovation area "
+"centered on Huawei Lianqiu Lake and Xicen development. It offers an "
+"ecosystem connection, not automatic access to Huawei laboratories, "
+"procurement or investment. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`西岑科学イノベーションセンター（Xicen Science and Innovation Center） </entities/xicen>` （西岑科创中心 · テクノロジーパーク · ハードウェアAI、ソフトウェアAI）— ファーウェイ（華為）練秋湖研究開発拠点および西岑開発エリアを中心とする青浦区のイノベーション集積地。エコシステム連携の機会を提供するが、ファーウェイのラボ利用、製品調達、出資が自動的に確約されるわけではない。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/qingpu.rst:38
+msgid ""
+":doc:`Yangtze River Delta AI+ Joint Innovation Center "
+"</entities/huawei-ai>` (长三角AI+联合创新中心 · Corporate program · Software AI, "
+"Hardware AI) — An official July 2026 account records the center beginning "
+"operations in Qingpu. Confirm the operator, technical scope, Huawei "
+"ecosystem interface and actual startup admission before describing a "
+"benefit package. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`長江デルタAI+共同イノベーションセンター </entities/huawei-ai>` （长三角AI+联合创新中心 · 企業イノベーションプログラム · ソフトウェアAI、ハードウェアAI）— 青浦区のイノベーション計画において、ファーウェイ（華為）のエコシステムと長江デルタの産業界を結ぶ架け橋として位置づけられている。AI導入・産業実装を提案する際は、計算基盤、データ、モデル、産業側エンドユーザーの枠組みを明確化すること。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/qingpu.rst:39
+msgid ""
+":doc:`Shanghai University of Political Science and Law "
+"</entities/university-shupl>` (上海政法学院 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Legal technology, IP, governance. These themes are editorial "
+"routing guidance, not a verified offer of laboratory access or startup "
+"funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海政法学院 </entities/university-shupl>` （上海政法学院 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：リーガルテック、知的財産権、法務ガバナンス。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/qingpu.rst:41
+msgid "Funding routes"
+msgstr "資金調達ルート"
+
+#: ../../districts/qingpu.rst:44
+msgid ""
+":doc:`Qingpu digital economy compute reimbursement, September 2026 costs "
+"</funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Reimbursement · No equity) "
+"— Amount under the applicable digital-economy rules; reviewed against "
+"eligible actual cost. Status: Closed. Timing: Closed 23 October 2026, "
+"17:00 China Standard Time."
+msgstr ":doc:`2026年9月分青浦区デジタル経済計算資源費用補助 </funding/qingpu-compute>` （青浦2026年9月算力费用补贴 · 事後精算・費用補助 · 株式希薄化なし（エクイティフリー））— デジタル経済適用規則に基づき、適格と認められた計算資源の実際の賃料支出に対して補助。ステータス：受付終了。時期：2026年10月23日 17:00（中国標準時）に公募終了。"
+
+#: ../../districts/qingpu.rst:45
+msgid ""
+":doc:`Qingpu Enterprise Intelligent Transformation Support Fund, 2026 "
+"</funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Grant / "
+"reimbursement · No equity) — Proportion of verified intelligent "
+"equipment, industrial software and digital-workshop investment. Status: "
+"2026 call published; deadline check required. Timing: 2026 notice issued "
+"31 July 2026; confirm current batch window."
+msgstr ":doc:`2026年青浦区企業スマート化改修支援資金 </funding/qingpu-intelligent-2026>` （2026青浦区企业智能化改造扶持资金 · 助成金・事後精算補助 · 株式希薄化なし（エクイティフリー））— 認定されたスマート設備、産業用ソフトウェア、デジタルワークショップへの投資額に応じた一定比率を支援。ステータス：2026年公募公表済み（締切日の確認要）。時期：2026年通知は7月31日に公布（現行バッチの受付窓口を確認のこと）。"
+
+#: ../../districts/qingpu.rst:47
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`上海全市レベルの資金調達ルートとの比較 </funding>`"

@@ -1,0 +1,120 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/abb.rst:1
+msgid "ABB open innovation / Shanghai robotics"
+msgstr "ABB Open Innovation / Shanghaier Robotik-Ökosystem"
+
+#: ../../entities/abb.rst:4
+msgid "ABB开放创新／上海机器人生态"
+msgstr "ABB开放创新／上海机器人生态"
+
+#: ../../entities/abb.rst:6
+msgid "Corporate program | Pudong | Research checked 2026-11-04"
+msgstr "Unternehmensprogramm | Neuer Stadtbezirk Pudong | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/abb.rst:8
+msgid "AI and industry focus: Hardware AI, Robotics."
+msgstr "KI- und Branchenfokus: Hardware-KI, Robotik."
+
+#: ../../entities/abb.rst:10
+msgid ""
+"ABB publishes open-innovation and startup collaboration routes. Its May "
+"2025 Shanghai AI event is evidence of ecosystem activity, not an "
+"always-open startup accelerator cohort. Propose a measurable robotics use "
+"case."
+msgstr "Das offene Innovationsprogramm von ABB zur Kooperation mit Startups in den Bereichen Robotik, Fertigungsautomatisierung und Steuerungssoftware. Pilotprojekte und Lieferantenqualifizierungen werden fallweise geprüft."
+
+#: ../../entities/abb.rst:12
+msgid ""
+"`Evidence S036 "
+"<https://www.abb.com/global/en/company/innovation/open-innovation>`_. "
+"Open innovation | ABB."
+msgstr "`Nachweis S036 <https://www.abb.com/global/en/company/innovation/open-innovation>`_. Open innovation | ABB."
+
+#: ../../entities/abb.rst:14
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/abb.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/abb.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/abb.rst:21
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/abb.rst:24
+msgid ""
+"`Official website / intake route "
+"<https://www.abb.com/global/en/company/innovation/open-innovation>`_"
+msgstr "`Offizielle Website / Bewerbungszugang <https://www.abb.com/global/en/company/innovation/open-innovation>`_"
+
+#: ../../entities/abb.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+
+#: ../../entities/abb.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/abb.rst:30
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/abb.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/abb.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "Den internen Projektverantwortlichen im Konzern und einen klar messbaren Anwendungsfall identifizieren."
+
+#: ../../entities/abb.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "Produktübersicht, Nachweise aus Pilottests und relevante technische Spezifikationen einreichen."
+
+#: ../../entities/abb.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "Verfügbarkeit von Aufnahmeplätzen klären oder Pilotumfang, Datenrechte und IP-Klauseln verbindlich vereinbaren."
+
+#: ../../entities/abb.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "Einkaufsprozesse, Zahlungsmeilensteine, Abnahme und Serienentscheidung als eigenständige Schritte behandeln."
+
+#: ../../entities/abb.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Bezirksroute Neuer Stadtbezirk Pudong </districts/pudong>`"

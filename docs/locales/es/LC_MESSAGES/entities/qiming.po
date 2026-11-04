@@ -1,0 +1,120 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/qiming.rst:1
+msgid "Qiming Venture Partners"
+msgstr "Qiming Venture Partners (Oficina de Shanghái)"
+
+#: ../../entities/qiming.rst:4
+msgid "启明创投"
+msgstr "启明创投"
+
+#: ../../entities/qiming.rst:6
+msgid "Investor | Pudong | Research checked 2026-11-04"
+msgstr "Inversor | Nueva Área de Pudong | Investigación verificada el 2026-11-04"
+
+#: ../../entities/qiming.rst:8
+msgid "AI and industry focus: Software AI, Health, Hardware AI."
+msgstr "Enfoque de IA e industria: IA de software, Salud y biomedicina, IA de hardware."
+
+#: ../../entities/qiming.rst:10
+msgid ""
+"A venture-capital contact route with a published Shanghai office. Send a "
+"concise investment case and confirm sector and stage fit. The general "
+"contact inbox is not a guarantee of an investment review."
+msgstr "Vía de contacto de capital riesgo con oficina publicada en Shanghái. Envíe una propuesta de inversión concisa y confirme el encaje por sector y etapa. El buzón general de contacto no garantiza una evaluación formal de inversión."
+
+#: ../../entities/qiming.rst:12
+msgid ""
+"`Evidence S048 <https://www.qimingvc.com/en/contact>`_. Contact Us | "
+"Qiming Venture Partners."
+msgstr "`Evidencia S048 <https://www.qimingvc.com/en/contact>`_. Contact Us | Qiming Venture Partners."
+
+#: ../../entities/qiming.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/qiming.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/qiming.rst:19
+msgid "Funding mechanism: Equity investment."
+msgstr "Mecanismo de financiación: Inversión en capital (Equity)."
+
+#: ../../entities/qiming.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/qiming.rst:24
+msgid ""
+"`Official website / intake route <https://www.qimingvc.com/en/contact>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.qimingvc.com/en/contact>`_"
+
+#: ../../entities/qiming.rst:26
+msgid "Telephone: +86 21 61016522."
+msgstr "Teléfono: +86 21 61016522."
+
+#: ../../entities/qiming.rst:28
+msgid "`Email: contactus@qimingvc.com <mailto:contactus@qimingvc.com>`_"
+msgstr "`Correo electrónico: contactus@qimingvc.com <mailto:contactus@qimingvc.com>`_"
+
+#: ../../entities/qiming.rst:30
+msgid ""
+"Published address: Room 3901, Jinmao Tower, 88 Century Boulevard, Pudong."
+msgstr "Dirección publicada: Oficina 3901, Torre Jinmao, Avenida Century 88, Pudong."
+
+#: ../../entities/qiming.rst:32
+msgid ""
+"Map point is approximate, based on the published street context; it is "
+"not an entrance or navigation coordinate."
+msgstr "El punto en el mapa es aproximado y se basa en el entorno viario publicado; no constituye una coordenada de acceso ni de navegación."
+
+#: ../../entities/qiming.rst:34
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/qiming.rst:37
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/qiming.rst:39
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "Confirmar el encaje con la gestora en cuanto a sector, etapa de desarrollo y estructura societaria."
+
+#: ../../entities/qiming.rst:41
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "Presentar el deck de inversión, la tabla de capitalización, la evidencia tecnológica, las métricas de tracción y el plan de financiación."
+
+#: ../../entities/qiming.rst:43
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "Completar los procesos de due diligence comercial, financiera, técnica y legal."
+
+#: ../../entities/qiming.rst:45
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "Revisar la carta de intenciones (term sheet), las condiciones del comité de inversión y los contratos societarios definitivos."
+
+#: ../../entities/qiming.rst:47
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Ruta del distrito de Nueva Área de Pudong </districts/pudong>`"

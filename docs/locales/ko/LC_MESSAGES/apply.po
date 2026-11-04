@@ -1,0 +1,157 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../apply.rst:1
+msgid "From introduction to application"
+msgstr "사전 접촉에서 공식 신청까지"
+
+#: ../../apply.rst:4
+msgid ""
+"A useful application starts with a fit check and ends with an evidence "
+"trail. We keep one company data room, then adapt it to an incubation "
+"review, a public funding call, a corporate pilot or an investment process."
+msgstr "지원 신청의 목적은 심사자가 명확한 근거에 기반하여 다음 단계의 합리적 결정을 내릴 수 있도록 돕는 데 있습니다. 명확한 신청 서류는 정책 자격 요건, 입증 데이터, 그리고 공식 승인 단계를 분리하여 다룹니다."
+
+#: ../../apply.rst:7
+msgid ""
+"A clear application separates eligibility, evidence and the decision."
+msgstr "명확한 지원 신청은 지원 자격, 입증 근거, 의사결정 단계를 엄격히 구분합니다."
+
+#: ../../apply.rst:10
+msgid "The first conversation"
+msgstr "첫 문의 서신 작성법"
+
+#: ../../apply.rst:13
+msgid ""
+"We send a one-page introduction in English and Simplified Chinese: "
+"company and team, customer problem, product, evidence, current stage, "
+"Shanghai presence and the exact resource requested. We ask for the named "
+"receiving team and written current terms. A first message should be small "
+"enough to forward to the right person."
+msgstr "우리는 기업 및 팀 소개, 고객의 핵심 문제, 제품, 입증 데이터, 현재 사업 단계, 상하이 진출 현황 및 요청하는 구체적 자원을 담은 영문·중문 1페이지 소개서를 보냅니다. 담당 접수팀 정보와 최신 서면 약관을 명시적으로 요청해야 합니다. 첫 메시지는 적임자에게 쉽게 전달(포워딩)될 수 있을 만큼 간결해야 합니다."
+
+#: ../../apply.rst:15
+msgid ""
+"Suggested subject: Shanghai ecosystem inquiry / project name / "
+"incubation, pilot or funding. Suggested request: We are developing "
+"[product] for [customer]. Our evidence is [metric or prototype]. We seek "
+"[specific resource] during [period]. Please confirm eligibility, intake "
+"dates, the application checklist, fees or equity terms, and the "
+"responsible contact."
+msgstr "권장 메일 제목: 상하이 생태계 문의 / 프로젝트명 / 인큐베이션, 파일럿 실증 또는 투자 유치. 권장 본문 양식: '저희는 [고객]을 위한 [제품]을 개발하고 있습니다. 현재 검증 데이터는 [성능 지표 또는 시제품]입니다. 저희는 [기간] 동안 [구체적 자원] 지원을 희망합니다. 지원 자격, 접수 기간, 신청 서류 체크리스트, 수수료 또는 지분 조건, 그리고 담당 문의처를 안내해 주시기 바랍니다.'"
+
+#: ../../apply.rst:17
+msgid "The shared data room"
+msgstr "공용 데이터룸 구축"
+
+#: ../../apply.rst:20
+msgid ""
+"Company: business licence, unified social credit code, articles, cap "
+"table, beneficial ownership, bank details, registered and operating "
+"addresses, prior public awards and related-party list. Team: founder "
+"roles, full-time commitment, relevant education, eligibility evidence and "
+"lawful work status where required."
+msgstr "기업 서류: 사업자등록증(영업집조), 통일사회신용코드, 정관, 주주명부(Cap table), 실소유자(실제 수익자), 은행 계좌 정보, 법인 등록지 및 실제 사업장 주소, 기존 공공 보조금 수혜 내역, 특수관계인 목록. 팀 서류: 창업자 역할 분담, 풀타임 상근 여부, 관련 학력 및 경력, 지원 자격 입증 자료, 필요시 합법적 취업 신분 증빙."
+
+#: ../../apply.rst:22
+msgid ""
+"For international founders and overseas returnees, Shanghai publishes "
+"dedicated guidance for Foreigner's Work Permit (Category A/B) "
+"applications during the startup phase, Overseas Talent Residence Permits, "
+"and the 2026 Regulations Encouraging Overseas Returnees to Work and Start "
+"Businesses in Shanghai. Confirm host-park endorsement and immigration "
+"requirements separately from grant eligibility."
+msgstr "해외 창업자 및 유학 복귀 인재의 경우, 상하이는 창업 초기 외국인 취업허가(A/B류) 발급 지침, 해외인재 거주증 관리 규정, 그리고 2026년 《유학 인재의 상하이 근무 및 창업 장려에 관한 규정》을 별도로 운영하고 있습니다. 유치 단지의 공식 추천서 취득 요건과 출입국·비자 발급 조건은 정부 보조금 신청 자격과 엄격히 분리하여 검토해야 합니다."
+
+#: ../../apply.rst:24
+msgid ""
+"Technology: product note, demo, evaluation, IP ownership and licences, "
+"patent and software records, data rights, security controls and sector "
+"approvals where applicable. Commercial: pilot evidence, customer "
+"references, pricing, procurement path and unit economics. Finance: "
+"management accounts, annual audit where required, R&D ledger, contracts, "
+"invoices and payment evidence."
+msgstr "기술 서류: 제품 설명서, 데모 시연 영상, 벤치마크 평가 결과, 지식재산권(IP) 소유권 및 라이선스 계약서, 특허 및 소프트웨어 저작권 등록증, 데이터 사용 권한 증빙, 보안 관리 체계 및 해당 산업 인허가 문서. 사업 서류: 파일럿 실증 성과, 고객 추천서, 가격 정책, 조달 프로세스, 단위 경제학(유닛 이코노믹스) 분석. 재무 서류: 관리회계 결산서, 공인 회계 감사보고서(해당 시), 연구개발비 전용 원장, 주요 계약서, 세금계산서 및 결제 송금 영수증."
+
+#: ../../apply.rst:26
+msgid "Four different decisions"
+msgstr "서로 다른 네 가지 의사결정 구조"
+
+#: ../../apply.rst:29
+msgid ""
+"Incubation: fit inquiry, application pack, technical or commercial "
+"review, written service and space terms, admission and onboarding. "
+"Confirm workspace rent, service fee, compute price, access restrictions, "
+"IP and any investment rights before signing."
+msgstr "인큐베이션 입주: 적합성 사전 문의, 신청서 패키지 제출, 기술 또는 사업성 심사, 서면 공간 및 서비스 약관 확정, 합격 통보 및 입주 계약 체결. 서명하기 전에 사무실 임대료, 관리비, 컴퓨팅 자원 단가, 출입 보안 규정, 지식재산권 귀속 및 향후 투자 옵션 권리를 서면으로 확정해야 합니다."
+
+#: ../../apply.rst:31
+msgid ""
+"Public grant or reimbursement: current notice, eligibility check, "
+"platform account, legal-entity authorization, evidence submission, "
+"district or host review, expert review, award or contract, reporting, "
+"acceptance and payment. This sequence is a general guide; the linked "
+"notice governs the actual workflow."
+msgstr "정부 보조금 또는 사후 비용 환급: 최신 공고 확인, 자격 요건 검증, 정부 공식 플랫폼 계정 개설, 법인 권한 위임, 입증 서류 제출, 구청 또는 주관 기관 1차 심사, 외부 전문가 심사, 선정 고시 또는 지원 협약 체결, 정기 보고, 최종 성과 검수 및 지원금 정산 지급. 이 순서는 일반적인 가이드라인이며 실제 절차는 링크된 공식 공고문의 세부 지침을 따릅니다."
+
+#: ../../apply.rst:33
+msgid ""
+"Corporate pilot: business owner, problem definition, data and IP "
+"agreement, scoped pilot, procurement and legal review, acceptance, "
+"production decision. Investment: manager fit, deck, meeting, diligence, "
+"term sheet, investment committee, definitive agreements and closing. "
+"Neither begins with a guaranteed outcome."
+msgstr "대기업 파일럿 실증: 현업 사업 책임자 발굴, 해결 과제 정의, 데이터 보안 및 지식재산권 협약 체결, 범위가 한정된 파일럿 수행, 구매 및 법무 검토, 성과 검수, 양산 정식 계약 체결. 지분 투자 유치: 펀드 운용사 성격 부합 확인, IR 피치덱 제출, 대면 미팅, 정밀 실사(DD), 텀시트 날인, 투자심의위원회 최종 통과, 투자 본계약서 체결 및 납입(클로징). 어느 경로도 사전에 결과를 보장하지 않습니다."
+
+#: ../../apply.rst:35
+msgid "An accelerator's four-week field program"
+msgstr "액셀러레이터의 4주 현장 실행 프로그램"
+
+#: ../../apply.rst:38
+msgid ""
+"Week 1: shortlist two districts, one research partner and two operators "
+"using sector fit and written eligibility. Week 2: meet the operator and a "
+"plausible buyer; inspect facilities. Week 3: define one pilot and a "
+"costed evidence plan. Week 4: submit the relevant application or "
+"investment pack and record the next decision date. This is an editorial "
+"planning model, not an official service promise."
+msgstr "1주차: 산업 분야 적합성과 서면 자격 요건을 기준으로 후보 2개 구, 1개 연구 파트너, 2개 운영사를 압축 선정합니다. 2주차: 인큐베이션 운영사와 잠재 구매 기업을 직접 만나고 연구 인프라 시설을 실사합니다. 3주차: 구체적인 단일 파일럿 프로젝트와 비용 산출이 완료된 실증 계획을 수립합니다. 4주차: 해당 지원 신청서 또는 투자 패키지를 공식 제출하고 다음 의사결정 일정을 기록합니다. 이는 편집진이 제안하는 기획 모델이며 공식적인 보장 기간이 아닙니다."
+
+#: ../../apply.rst:40
+msgid ""
+"We maintain an application ledger with owner, authority, policy version, "
+"evidence period, deadline in China Standard Time, submission receipt, "
+"duplicate-funding exclusions, reporting duty and next action. A calendar "
+"alert is useful only after the correct deadline and timezone have been "
+"confirmed."
+msgstr "우리는 담당자, 관할 부처, 근거 정책 버전, 증빙 인정 기간, 중국 표준시 기준 마감 시한, 접수증 번호, 중복 지원 배제 조항, 사후 보고 의무, 다음 후속 조치를 기록하는 신청 관리 대장을 운영합니다. 캘린더 알림은 정확한 마감 시각과 적용 시차를 확인한 후에만 유효합니다."
+
+#: ../../apply.rst:42
+msgid ""
+"`Evidence S130 "
+"<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
+"Guide for foreign talent and team members (Category A/B) applying for a "
+"Foreigner's Work Permit during the startup phase_Latest."
+msgstr "`근거 S130 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest."
+
+#: ../../apply.rst:44
+msgid ""
+"`Evidence S131 "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. "
+"上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+msgstr "`근거 S131 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."

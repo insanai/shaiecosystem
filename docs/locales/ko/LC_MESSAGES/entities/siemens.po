@@ -1,0 +1,120 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/siemens.rst:1
+msgid "Siemens startup / Xcelerator ecosystem"
+msgstr "지멘스 스타트업 및 엑셀러레이터 생태계"
+
+#: ../../entities/siemens.rst:4
+msgid "西门子初创企业与Xcelerator生态"
+msgstr "西门子初创企业与Xcelerator生态"
+
+#: ../../entities/siemens.rst:6
+msgid "Global program | Citywide / global | Research checked 2026-11-04"
+msgstr "글로벌 프로그램 | 전시 / 글로벌 | 연구 확인일 2026-11-04"
+
+#: ../../entities/siemens.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Industry."
+msgstr "AI 및 산업 분야: 소프트웨어 AI, 하드웨어 AI, 산업."
+
+#: ../../entities/siemens.rst:10
+msgid ""
+"Siemens publishes a startup connection and marketplace route for "
+"industrial solutions, with a separate China Xcelerator platform. "
+"Marketplace onboarding and industrial partnerships are distinct from a "
+"funding award."
+msgstr "지멘스가 산업 솔루션을 위해 운영하는 스타트업 협력 채널이자 비즈니스 마켓플레이스로 중국 전용 엑셀러레이터(Xcelerator) 플랫폼을 제공합니다. 마켓플레이스 입점 및 산업 파트너십 구축은 정부나 기관의 보조금 지원금 수령과는 구분됩니다."
+
+#: ../../entities/siemens.rst:12
+msgid ""
+"`Evidence S072 "
+"<https://www.siemens.com/zh-cn/company/innovation/startups/connect/>`_. "
+"Connect 计划 | Siemens."
+msgstr "`근거 S072 <https://www.siemens.com/zh-cn/company/innovation/startups/connect/>`_. Connect 计划 | Siemens."
+
+#: ../../entities/siemens.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/siemens.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/siemens.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/siemens.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/siemens.rst:24
+msgid ""
+"`Official website / intake route "
+"<https://www.siemens.com/zh-cn/company/innovation/startups/connect/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.siemens.com/zh-cn/company/innovation/startups/connect/>`_"
+
+#: ../../entities/siemens.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/siemens.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/siemens.rst:30
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/siemens.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/siemens.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "기업 내 사업 책임자(Business Owner)와 측정 가능한 구체적 도입 사례 1건을 특정한다."
+
+#: ../../entities/siemens.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "제품 소개서, 파일럿 실증 데이터 및 관련 기술 요구사항을 제출한다."
+
+#: ../../entities/siemens.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "정기 배치 모집 여부를 확인하거나 파일럿 실증 범위, 데이터 권리, 지식재산권(IP) 조건을 협의한다."
+
+#: ../../entities/siemens.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "조달 프로세스, 대금 지급 일정, 검수 절차 및 양산 전환 결정을 독립된 단계로 검토한다."
+
+#: ../../entities/siemens.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`전시 / 글로벌 경로 안내 </funding>`"

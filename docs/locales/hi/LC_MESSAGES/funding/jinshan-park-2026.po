@@ -1,0 +1,116 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/jinshan-park-2026.rst:1
+msgid "Zhangjiang Jinshan Park low-altitude UAV and new materials support"
+msgstr "झांगजियांग जिनशान पार्क लो-एल्टीट्यूड UAV और नई सामग्री सहायता"
+
+#: ../../funding/jinshan-park-2026.rst:4
+msgid "Grant / reimbursement | Jinshan"
+msgstr "अनुदान / प्रतिपूर्ति | जिनशान (Jinshan)"
+
+#: ../../funding/jinshan-park-2026.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं"
+
+#: ../../funding/jinshan-park-2026.rst:8
+msgid ""
+"`Evidence S023 "
+"<https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. "
+"金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+msgstr "`साक्ष्य S023 <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. 金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+
+#: ../../funding/jinshan-park-2026.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/jinshan-park-2026.rst:13
+msgid ""
+"Policy-specific R&D, carrier incubation, testing-service and "
+"industrialization support under the 2025-2026 park action plan"
+msgstr "2025-2026 पार्क कार्य योजना के तहत नीति-विशिष्ट R&D, कैरियर इनक्यूबेशन, परीक्षण-सेवा और औद्योगीकरण सहायता"
+
+#: ../../funding/jinshan-park-2026.rst:15
+msgid "No equity"
+msgstr "कोई इक्विटी नहीं"
+
+#: ../../funding/jinshan-park-2026.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/jinshan-park-2026.rst:20
+msgid ""
+"Qualifying enterprises and innovation carriers in Zhangjiang Jinshan Park "
+"working on low-altitude UAV systems, new chemical or electronic "
+"materials, biomanufacturing and intelligent equipment."
+msgstr "कम-ऊंचाई वाली UAV प्रणालियों, नए रासायनिक या इलेक्ट्रॉनिक सामग्रियों, बायोमैन्युफैक्चरिंग और इंटेलिजेंट उपकरणों पर काम करने वाले झांगजियांग जिनशान पार्क में अर्हकारी उद्यम और नवाचार कैरियर।"
+
+#: ../../funding/jinshan-park-2026.rst:22
+msgid "Policy: 2025 to 2026 action plan; confirm current implementing batch"
+msgstr "नीति: 2025 से 2026 कार्य योजना; वर्तमान कार्यान्वयन बैच की पुष्टि करें"
+
+#: ../../funding/jinshan-park-2026.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/jinshan-park-2026.rst:27
+msgid "`Official application / policy route <https://www.jinshan.gov.cn/>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://www.jinshan.gov.cn/>`_"
+
+#: ../../funding/jinshan-park-2026.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/jinshan-park-2026.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/jinshan-park-2026.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../funding/jinshan-park-2026.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../funding/jinshan-park-2026.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../funding/jinshan-park-2026.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../funding/jinshan-park-2026.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

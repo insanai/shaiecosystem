@@ -1,0 +1,120 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/huawei-ai.rst:1
+msgid "Yangtze River Delta AI+ Joint Innovation Center"
+msgstr "長江デルタAI+共同イノベーションセンター"
+
+#: ../../entities/huawei-ai.rst:4
+msgid "长三角AI+联合创新中心"
+msgstr "长三角AI+联合创新中心"
+
+#: ../../entities/huawei-ai.rst:6
+msgid "Corporate program | Qingpu | Research checked 2026-11-04"
+msgstr "企業イノベーションプログラム｜青浦区｜調査確認日 2026-11-04"
+
+#: ../../entities/huawei-ai.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI."
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI。"
+
+#: ../../entities/huawei-ai.rst:10
+msgid ""
+"An official July 2026 account records the center beginning operations in "
+"Qingpu. Confirm the operator, technical scope, Huawei ecosystem interface "
+"and actual startup admission before describing a benefit package."
+msgstr "青浦区のイノベーション計画において、ファーウェイ（華為）のエコシステムと長江デルタの産業界を結ぶ架け橋として位置づけられている。AI導入・産業実装を提案する際は、計算基盤、データ、モデル、産業側エンドユーザーの枠組みを明確化すること。"
+
+#: ../../entities/huawei-ai.rst:12
+msgid ""
+"`Evidence S039 "
+"<https://english.shanghai.gov.cn/en-YangtzeRiverDeltaintegration/20260730/9bea754d5bbb45ddb5cf59194efffe9f.html>`_. "
+"Yangtze River Delta AI+ Joint Innovation Center begins operations_Yangtze "
+"River Delta integration: Connect • Innovate • Thrive."
+msgstr "`出典 S039 <https://english.shanghai.gov.cn/en-YangtzeRiverDeltaintegration/20260730/9bea754d5bbb45ddb5cf59194efffe9f.html>`_. Yangtze River Delta AI+ Joint Innovation Center begins operations_Yangtze River Delta integration: Connect • Innovate • Thrive."
+
+#: ../../entities/huawei-ai.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/huawei-ai.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/huawei-ai.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/huawei-ai.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/huawei-ai.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://english.shanghai.gov.cn/en-YangtzeRiverDeltaintegration/20260730/9bea754d5bbb45ddb5cf59194efffe9f.html>`_"
+msgstr "`公式エビデンス（典拠）および主管機関窓口 <https://english.shanghai.gov.cn/en-YangtzeRiverDeltaintegration/20260730/9bea754d5bbb45ddb5cf59194efffe9f.html>`_"
+
+#: ../../entities/huawei-ai.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/huawei-ai.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/huawei-ai.rst:30
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/huawei-ai.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/huawei-ai.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "企業の事業責任者と、測定可能な具体的なユースケースを1件特定する。"
+
+#: ../../entities/huawei-ai.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "製品概要、パイロット検証の実証データ、および関連する技術要件を提出する。"
+
+#: ../../entities/huawei-ai.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "募集バッチの空き状況を確認するか、または検証スコープ、データ権利、知的財産権の諸条件に合意する。"
+
+#: ../../entities/huawei-ai.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "調達プロセス、支払い条件、検収、および本番導入（商用化）の判断基準を個別に確認する。"
+
+#: ../../entities/huawei-ai.rst:43
+msgid ":doc:`Qingpu district route </districts/qingpu>`"
+msgstr ":doc:`青浦区の案内ルート </districts/qingpu>`"

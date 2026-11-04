@@ -1,0 +1,115 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/government-yangpu.rst:1
+msgid "Yangpu science and technology authority"
+msgstr "Autoridad de ciencia y tecnología de Yangpu"
+
+#: ../../entities/government-yangpu.rst:4
+msgid "杨浦区科技主管部门"
+msgstr "杨浦区科技主管部门"
+
+#: ../../entities/government-yangpu.rst:6
+msgid "Government | Yangpu | Research checked 2026-11-04"
+msgstr "Organismo gubernamental | Distrito de Yangpu | Investigación verificada el 2026-11-04"
+
+#: ../../entities/government-yangpu.rst:8
+msgid ""
+"Brain-inspired AI policy names Changyang Campus and Bay Valley. A "
+"separate May 2026 OPC policy supports communities around Fuxing Island; "
+"an action plan does not itself constitute a cash award."
+msgstr "La política de IA inspirada en el cerebro señala a Changyang Campus y Bay Valley. Una política independiente de mayo de 2026 sobre comunidades OPC respalda el entorno de la isla de Fuxing; un plan de acción no equivale por sí mismo a una subvención en efectivo."
+
+#: ../../entities/government-yangpu.rst:10
+msgid ""
+"`Evidence S016 "
+"<https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. "
+"关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
+msgstr "`Evidencia S016 <https://www.shanghai.gov.cn/nw12344/20250627/db116dceccb04e28b1a22c5b22612c63.html>`_. 关于印发《杨浦区关于促进类脑智能产业发展的实施方案》的通知."
+
+#: ../../entities/government-yangpu.rst:12
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/government-yangpu.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/government-yangpu.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/government-yangpu.rst:19
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/government-yangpu.rst:22
+msgid "`Official website / intake route <https://www.shyp.gov.cn/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.shyp.gov.cn/>`_"
+
+#: ../../entities/government-yangpu.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/government-yangpu.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/government-yangpu.rst:28
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/government-yangpu.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/government-yangpu.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../entities/government-yangpu.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../entities/government-yangpu.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../entities/government-yangpu.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../entities/government-yangpu.rst:41
+msgid ":doc:`Yangpu district route </districts/yangpu>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Yangpu </districts/yangpu>`"

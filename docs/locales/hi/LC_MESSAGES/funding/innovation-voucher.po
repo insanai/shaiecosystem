@@ -1,0 +1,117 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/innovation-voucher.rst:1
+msgid "Shanghai Science and Technology Innovation Vouchers"
+msgstr "शंघाई विज्ञान और प्रौद्योगिकी इनोवेशन वाउचर"
+
+#: ../../funding/innovation-voucher.rst:4
+msgid "Reimbursement | Citywide / global"
+msgstr "प्रतिपूर्ति (Reimbursement) | शहर-व्यापी / वैश्विक"
+
+#: ../../funding/innovation-voucher.rst:6
+msgid "Policy in force; confirm service and order"
+msgstr "नीति प्रभावी; सेवा और ऑर्डर की पुष्टि करें"
+
+#: ../../funding/innovation-voucher.rst:8
+msgid ""
+"`Evidence S096 "
+"<https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. "
+"关于印发《上海市科技创新券管理办法》的通知."
+msgstr "`साक्ष्य S096 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. 关于印发《上海市科技创新券管理办法》的通知."
+
+#: ../../funding/innovation-voucher.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/innovation-voucher.rst:13
+msgid ""
+"Up to 50% of eligible orders; annual cap RMB 300,000 per company or RMB "
+"100,000 per team"
+msgstr "पात्र ऑर्डर का 50% तक; प्रति कंपनी RMB 300,000 या प्रति टीम RMB 100,000 की वार्षिक सीमा"
+
+#: ../../funding/innovation-voucher.rst:15
+msgid "No equity"
+msgstr "कोई इक्विटी नहीं"
+
+#: ../../funding/innovation-voucher.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/innovation-voucher.rst:20
+msgid ""
+"Qualifying technology SMEs and innovation teams using approved platform "
+"services. Service-provider qualification is separate from applicant "
+"eligibility."
+msgstr "अनुमोदित प्लेटफॉर्म सेवाओं का उपयोग करने वाले योग्य प्रौद्योगिकी SMEs और नवाचार टीमें। सेवा-प्रदाता की योग्यता आवेदक की पात्रता से अलग है।"
+
+#: ../../funding/innovation-voucher.rst:22
+msgid "Policy: 1 Sep 2025 to 31 Aug 2030"
+msgstr "नीति अवधि: 1 सितंबर 2025 से 31 अगस्त 2030 तक"
+
+#: ../../funding/innovation-voucher.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/innovation-voucher.rst:27
+msgid ""
+"`Official application / policy route <https://kjcxq.stcsm.sh.gov.cn/>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://kjcxq.stcsm.sh.gov.cn/>`_"
+
+#: ../../funding/innovation-voucher.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/innovation-voucher.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/innovation-voucher.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "वास्तविक श्रेणी, क्षेत्र सीमा, आपूर्तिकर्ता और पात्र व्यय अवधि की पुष्टि करें।"
+
+#: ../../funding/innovation-voucher.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "सेवा अनुबंध, चालान, भुगतान साक्ष्य और मदवार उपयोग लॉग रखें।"
+
+#: ../../funding/innovation-voucher.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "नामित प्लेटफॉर्म और वर्तमान बैच का उपयोग करें; आवश्यक जिला या संचालक समीक्षा प्राप्त करें।"
+
+#: ../../funding/innovation-voucher.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "स्वीकृत राशि, दोहरे-फंडिंग बहिष्करण और भुगतान शर्तों की जाँच करें।"
+
+#: ../../funding/innovation-voucher.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

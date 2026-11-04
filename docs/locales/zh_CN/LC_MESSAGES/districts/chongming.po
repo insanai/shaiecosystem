@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -101,19 +101,59 @@ msgid "Local organizations in this atlas"
 msgstr "本图谱中的本区机构"
 
 #: ../../districts/chongming.rst:37
-msgid ":doc:`Zhangjiang Chongming Park </entities/chongming-park>`"
-msgstr ":doc:`张江高新区崇明园 </entities/chongming-park>`"
+msgid ""
+":doc:`Zhangjiang Chongming Park </entities/chongming-park>` (张江高新区崇明园 · "
+"Technology park · Climate, Agriculture) — The 2025-2026 reform plan sets "
+"a framework for ecological innovation. We use the district authority for "
+"matching smart agriculture, ecological sensing and marine technology "
+"projects to a concrete carrier. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`张江高新区崇明园 </entities/chongming-park>` （张江高新区崇明园 · 科技园区 · 气候、农业）—— 2025至2026年改革方案构建生态创新框架。智慧农业、生态传感及海洋科技项目可通过区级主管部门对接具体载体。【状态：机构有来源，招募待确认】"
 
-#: ../../districts/chongming.rst:39
+#: ../../districts/chongming.rst:38
+msgid ""
+":doc:`Chongming Enterprise Technology Center & Eco-Innovation Route "
+"</entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Research platform "
+"· Climate, Agriculture, Industry) — Coordinated by the Chongming Economic "
+"Commission (14th batch call issued in May 2026) alongside district "
+"science authorities to support enterprise R&D centers in ecological tech, "
+"green manufacturing and smart agriculture. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`崇明区企业技术中心与生态科创平台 </entities/chongming-tech-center>` （崇明区企业技术中心与生态科创平台 · 科研平台 · 气候、农业、产业）—— 由崇明区经委（2026年5月发布第十四批申报）与区科委协同推进的企业研发平台路径，面向生态科技、绿色制造与智慧农业领域企业技术中心。【状态：机构有来源，招募待确认】"
+
+#: ../../districts/chongming.rst:40
 msgid "Funding routes"
 msgstr "资金路径"
 
-#: ../../districts/chongming.rst:42
+#: ../../districts/chongming.rst:43
 msgid ""
 ":doc:`Chongming early-stage enterprise development subsidy, 2026 "
-"</funding/chongming-startup-2026>`"
-msgstr ":doc:`2026崇明初创助力发展补贴 </funding/chongming-startup-2026>`"
+"</funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Grant · No equity) — "
+"Up to RMB 100,000 for an assessed excellent qualifying early-stage "
+"project. Status: Policy in force; call not confirmed open. Timing: "
+"Policy: 1 August to 31 December 2026, with qualifying cases since 1 "
+"January; confirm intake."
+msgstr ":doc:`2026崇明初创助力发展补贴 </funding/chongming-startup-2026>` （2026崇明初创助力发展补贴 · 补助 · 不占股）—— 经区级评审为优秀的合资格初创项目，最高10万元。状态：政策有效，未确认正在申报。时间：政策2026年8月1日至12月31日有效，符合条件的1月1日以来事项参照执行，须确认受理。"
 
 #: ../../districts/chongming.rst:44
+msgid ""
+":doc:`Chongming Entrepreneurship and Innovation Competition & Policy "
+"Support, 2026 </funding/chongming-competition-2026>` (2026崇明区创业创新大赛与联动扶持 "
+"· Competition · Award / investment terms vary) — Competition awards plus "
+"priority routing to district startup subsidies, carrier incubation and "
+"guaranteed loans. Status: 2026 competition published; track intake to "
+"confirm. Timing: Implementation plan issued 20 August 2026; check track "
+"schedule."
+msgstr ":doc:`2026崇明区创业创新大赛与联动扶持 </funding/chongming-competition-2026>` （2026崇明区创业创新大赛与联动扶持 · 比赛 · 奖励与投资条款各异）—— 赛事奖金及优先对接区初创补贴、孵化载体与创业担保贷款。状态：2026赛事已公布，赛道受理待确认。时间：实施方案于2026年8月20日印发，须核验赛程安排。"
+
+#: ../../districts/chongming.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ":doc:`Zhangjiang Chongming Park </entities/chongming-park>`"
+#~ msgstr ":doc:`张江高新区崇明园 </entities/chongming-park>`"
+
+#~ msgid ""
+#~ ":doc:`Chongming early-stage enterprise development subsidy, 2026 "
+#~ "</funding/chongming-startup-2026>`"
+#~ msgstr ":doc:`2026崇明初创助力发展补贴 </funding/chongming-startup-2026>`"

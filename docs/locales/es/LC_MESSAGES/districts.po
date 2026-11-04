@@ -1,0 +1,214 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:42+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts.rst:1
+msgid "Sixteen districts, sixteen entry routes"
+msgstr "Dieciséis distritos, dieciséis vías de entrada"
+
+#: ../../districts.rst:4
+msgid ""
+"Every district has a chapter. We begin with its documented specialization "
+"and receiving authority, then follow the local organizations and district "
+"funding routes. An official portal remains the contact route when no "
+"current named officer or direct intake form is established."
+msgstr "Cada distrito cuenta con su propio capítulo. Partimos de su especialización industrial documentada y su autoridad receptora, para luego recorrer las organizaciones locales y las vías de financiación distrital. Cuando no consta un funcionario asignado ni un formulario de admisión directa vigente, el portal oficial sigue siendo la vía de contacto."
+
+#: ../../districts.rst:12
+msgid ""
+"All 16 administrative districts of Shanghai, with numbered anchors "
+"corresponding to the directory below."
+msgstr "Los 16 distritos administrativos de Shanghái, con puntos de anclaje numerados que corresponden al directorio inferior."
+
+#: ../../districts.rst:14
+msgid ""
+"**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
+"chips, biomedicine and advanced manufacturing**. Receiving authority: "
+"Pudong Science, Technology and Economy Commission. Published phone: +86 "
+"21 68811090. Policy & carrier note: 2026 AI application call closed on 31 "
+"August 2026. The published route covers qualifying 2025 model and agent "
+"expenditure; duplicate public funding is excluded. (38 local "
+"organizations, 3 district funding routes)."
+msgstr "**[01]** :doc:`Nueva Área de Pudong <districts/pudong>` (浦东新区) — **Modelos fundacionales, chips, biomedicina y fabricación avanzada**. Autoridad receptora: Comisión de Ciencia, Tecnología y Economía de Pudong. Teléfono publicado: +86 21 68811090. Nota de política y operadores: La convocatoria de aplicaciones de IA de 2026 cerró el 31 de agosto de 2026. La vía publicada cubre gastos elegibles de 2025 en modelos y agentes; se excluye la doble financiación pública. (38 organizaciones locales, 3 vías de financiación distrital)."
+
+#: ../../districts.rst:15
+msgid ""
+"**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
+"embodied AI and research commercialization**. Receiving authority: Xuhui "
+"industry development authority. Policy & carrier note: The embodied AI "
+"policy identifies robot models, algorithms, data and operating systems. "
+"Its evaluated support ceilings are not automatic startup awards. (7 local "
+"organizations, 1 district funding routes)."
+msgstr "**[02]** :doc:`Distrito de Xuhui <districts/xuhui>` (徐汇区) — **Modelos fundacionales, IA corporeizada y comercialización de investigación**. Autoridad receptora: Autoridad de desarrollo industrial de Xuhui. Nota de política y operadores: La política de IA corporeizada abarca modelos robóticos, algoritmos, datos y sistemas operativos. Sus techos máximos de apoyo sujetos a evaluación no constituyen ayudas automáticas para startups. (7 organizaciones locales, 1 vías de financiación distrital)."
+
+#: ../../districts.rst:16
+msgid ""
+"**[03]** :doc:`Yangpu <districts/yangpu>` (杨浦区) — **University spinouts, "
+"brain-inspired AI and independent AI founders**. Receiving authority: "
+"Yangpu science and technology authority. Policy & carrier note: "
+"Brain-inspired AI policy names Changyang Campus and Bay Valley. A "
+"separate May 2026 OPC policy supports communities around Fuxing Island; "
+"an action plan does not itself constitute a cash award. (10 local "
+"organizations, 2 district funding routes)."
+msgstr "**[03]** :doc:`Distrito de Yangpu <districts/yangpu>` (杨浦区) — **Spin-offs universitarias, IA bioinspirada y fundadores independientes de IA**. Autoridad receptora: Autoridad de ciencia y tecnología de Yangpu. Nota de política y operadores: La política de IA inspirada en el cerebro señala a Changyang Campus y Bay Valley. Una política independiente de mayo de 2026 sobre comunidades OPC respalda el entorno de la isla de Fuxing; un plan de acción no equivale por sí mismo a una subvención en efectivo. (10 organizaciones locales, 2 vías de financiación distrital)."
+
+#: ../../districts.rst:17
+msgid ""
+"**[04]** :doc:`Minhang <districts/minhang>` (闵行区) — **University "
+"commercialization, robotics, BCI and engineering**. Receiving authority: "
+"Minhang science and technology authority. Policy & carrier note: The "
+"enterprise innovation policy runs from 1 September 2025 to 31 August "
+"2030. New conversion enterprises may qualify for up to RMB 500,000 "
+"annually, capped at RMB 1.5 million over three years and 50% of eligible "
+"investment. (6 local organizations, 2 district funding routes)."
+msgstr "**[04]** :doc:`Distrito de Minhang <districts/minhang>` (闵行区) — **Comercialización universitaria, robótica, interfaces cerebro-computadora e ingeniería**. Autoridad receptora: Autoridad de ciencia y tecnología de Minhang. Nota de política y operadores: La política de innovación empresarial está vigente del 1 de septiembre de 2025 al 31 de agosto de 2030. Las nuevas empresas de transferencia tecnológica pueden optar a hasta 500.000 RMB anuales, con un tope de 1,5 millones de RMB en tres años y el 50 % de la inversión elegible. (6 organizaciones locales, 2 vías de financiación distrital)."
+
+#: ../../districts.rst:18
+msgid ""
+"**[05]** :doc:`Jiading <districts/jiading>` (嘉定区) — **Automotive "
+"intelligence, sensors, MEMS and pilot production**. Receiving authority: "
+"Jiading science and technology authority. Policy & carrier note: The "
+"municipal science commission documents the joint role of SITRI and "
+"InnoSpring in connecting research, pilot production and incubation. The "
+"2026 district service program provides policy interpretation and project "
+"coordination. (4 local organizations, 1 district funding routes)."
+msgstr "**[05]** :doc:`Distrito de Jiading <districts/jiading>` (嘉定区) — **Inteligencia automotriz, sensores, sistemas MEMS y producción piloto**. Autoridad receptora: Autoridad de ciencia y tecnología de Jiading. Nota de política y operadores: La comisión municipal de ciencia documenta el papel conjunto de SITRI e InnoSpring en la conexión entre investigación, producción piloto e incubación. El programa distrital de servicios de 2026 ofrece interpretación de políticas y coordinación de proyectos. (4 organizaciones locales, 1 vías de financiación distrital)."
+
+#: ../../districts.rst:19
+msgid ""
+"**[06]** :doc:`Baoshan <districts/baoshan>` (宝山区) — **Robotics, advanced "
+"equipment and industrial deployment**. Receiving authority: Baoshan "
+"industry and science authorities. Policy & carrier note: The district is "
+"developing a robotics and advanced equipment cluster. Separate "
+"industrial-park admission and district support reviews are needed; a "
+"factory demonstration is not a startup funding call. (2 local "
+"organizations, 1 district funding routes)."
+msgstr "**[06]** :doc:`Distrito de Baoshan <districts/baoshan>` (宝山区) — **Robótica, equipamiento avanzado y despliegue industrial**. Autoridad receptora: Autoridades de industria y ciencia de Baoshan. Nota de política y operadores: El distrito está desarrollando un clúster de robótica y equipamiento avanzado. La admisión en parques industriales y las ayudas distritales requieren evaluaciones separadas; una demostración en fábrica no equivale a una convocatoria de financiación para startups. (2 organizaciones locales, 1 vías de financiación distrital)."
+
+#: ../../districts.rst:20
+msgid ""
+"**[07]** :doc:`Putuo <districts/putuo>` (普陀区) — **Industrial testing, "
+"intelligent software and international innovation**. Receiving authority: "
+"Putuo science and technology authority. Policy & carrier note: Wuning "
+"Science Park connects industrial research, testing and technology "
+"transfer. The district incubator register also lists the China-Israel "
+"Innovation Hub; tenancy and investment require separate terms. (4 local "
+"organizations, 3 district funding routes)."
+msgstr "**[07]** :doc:`Distrito de Putuo <districts/putuo>` (普陀区) — **Ensayos industriales, software inteligente e innovación internacional**. Autoridad receptora: Autoridad de ciencia y tecnología de Putuo. Nota de política y operadores: El Parque Científico de Wuning conecta la investigación industrial, los ensayos y la transferencia tecnológica. El registro distrital de incubadoras también incluye el Centro de Innovación China-Israel; el arrendamiento y la inversión requieren acuerdos separados. (4 organizaciones locales, 3 vías de financiación distrital)."
+
+#: ../../districts.rst:21
+msgid ""
+"**[08]** :doc:`Changning <districts/changning>` (长宁区) — **Digital "
+"business, AI applications and cross-border services**. Receiving "
+"authority: Changning science and technology authority. Policy & carrier "
+"note: The August 2026 district account identifies Digital Silicon Alley, "
+"Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
+"MAKE021 as parts of its incubation landscape. Confirm the correct "
+"operator before submitting. (2 local organizations, 2 district funding "
+"routes)."
+msgstr "**[08]** :doc:`Distrito de Changning <districts/changning>` (长宁区) — **Negocios digitales, aplicaciones de IA y servicios transfronterizos**. Autoridad receptora: Autoridad de ciencia y tecnología de Changning. Nota de política y operadores: El informe distrital de agosto de 2026 identifica a Digital Silicon Alley, Hongqiao Zhiyu, el Centro Internacional de Innovación Juvenil del Este de Hongqiao y MAKE021 como parte de su red de incubación. Confirme el operador específico antes de presentar una solicitud. (2 organizaciones locales, 2 vías de financiación distrital)."
+
+#: ../../districts.rst:22
+msgid ""
+"**[09]** :doc:`Jing'an <districts/jingan>` (静安区) — **Enterprise AI, data "
+"services and digital commerce**. Receiving authority: Jing'an science and "
+"economy authority. Policy & carrier note: The 2026-2028 AI application "
+"demonstration plan focuses on industry integration and talent. Its stated "
+"objectives must be distinguished from implementing rules and currently "
+"accepting applications. (3 local organizations, 1 district funding "
+"routes)."
+msgstr "**[09]** :doc:`Distrito de Jing'an <districts/jingan>` (静安区) — **IA empresarial, servicios de datos y comercio digital**. Autoridad receptora: Comisión de Ciencia y Economía de Jing'an. Nota de política y operadores: El plan de demostración de aplicaciones de IA 2026-2028 se centra en la integración industrial y el talento. Sus objetivos estratégicos deben distinguirse de las normas de ejecución y de las convocatorias con admisión actualmente abierta. (3 organizaciones locales, 1 vías de financiación distrital)."
+
+#: ../../districts.rst:23
+msgid ""
+"**[10]** :doc:`Huangpu <districts/huangpu>` (黄浦区) — **Fintech, clinical "
+"services, design and consumer applications**. Receiving authority: "
+"Huangpu science and entrepreneurship services. Policy & carrier note: The "
+"2025-2026 Zhangjiang Huangpu Park plan emphasizes fintech and clinical "
+"research services. Huangpu ChuangKa is a separate youth entrepreneurship "
+"support route; check eligibility and current workstation availability. (2 "
+"local organizations, 1 district funding routes)."
+msgstr "**[10]** :doc:`Distrito de Huangpu <districts/huangpu>` (黄浦区) — **Fintech, servicios clínicos, diseño y aplicaciones de consumo**. Autoridad receptora: Servicios de ciencia y emprendimiento de Huangpu. Nota de política y operadores: El plan 2025-2026 del Parque Zhangjiang Huangpu prioriza la tecnología financiera y los servicios de investigación clínica. Huangpu ChuangKa es una vía independiente de apoyo al emprendimiento juvenil; verifique los requisitos de elegibilidad y la disponibilidad actual de puestos de trabajo. (2 organizaciones locales, 1 vías de financiación distrital)."
+
+#: ../../districts.rst:24
+msgid ""
+"**[11]** :doc:`Hongkou <districts/hongkou>` (虹口区) — **Shipping "
+"technology, green finance and intelligent inspection**. Receiving "
+"authority: Hongkou science and economy authority. Policy & carrier note: "
+"The 2025-2026 Hongkou Park plan assigns a coordinated incubation and "
+"investment role to the district state-owned Beikechuang group. Ask for "
+"the operating carrier and current application notice, rather than relying "
+"on older subsidy summaries. (4 local organizations, 1 district funding "
+"routes)."
+msgstr "**[11]** :doc:`Distrito de Hongkou <districts/hongkou>` (虹口区) — **Tecnología marítima y portuaria, finanzas verdes e inspección inteligente**. Autoridad receptora: Comisión de Ciencia y Economía de Hongkou. Nota de política y operadores: El plan 2025-2026 del Parque de Hongkou asigna al grupo estatal distrital Beikechuang un papel coordinador en incubación e inversión. Solicite información sobre el centro operador concreto y la convocatoria vigente, en lugar de basarse en resúmenes de subvenciones anteriores. (4 organizaciones locales, 1 vías de financiación distrital)."
+
+#: ../../districts.rst:25
+msgid ""
+"**[12]** :doc:`Songjiang <districts/songjiang>` (松江区) — **G60 innovation, "
+"industrial software and advanced manufacturing**. Receiving authority: "
+"Songjiang G60 innovation services. Policy & carrier note: The G60 "
+"Sci-Tech Innovation Valley publishes innovation and resource-matching "
+"initiatives. We distinguish the nine-city corridor from Shanghai district "
+"eligibility: a partner elsewhere in the corridor does not establish "
+"Songjiang qualification. (8 local organizations, 2 district funding "
+"routes)."
+msgstr "**[12]** :doc:`Distrito de Songjiang <districts/songjiang>` (松江区) — **Innovación del corredor G60, software industrial y fabricación avanzada**. Autoridad receptora: Servicios de innovación G60 de Songjiang. Nota de política y operadores: El Valle de Innovación Científico-Tecnológica G60 publica iniciativas de innovación y conexión de recursos. Distinguimos el corredor de nueve ciudades de los requisitos de elegibilidad distrital de Shanghái: contar con un socio en otra ciudad del corredor no otorga derecho a las ayudas de Songjiang. (8 organizaciones locales, 2 vías de financiación distrital)."
+
+#: ../../districts.rst:26
+msgid ""
+"**[13]** :doc:`Qingpu <districts/qingpu>` (青浦区) — **Huawei-linked "
+"research, digital systems and regional collaboration**. Receiving "
+"authority: Qingpu science and technology authority. Policy & carrier "
+"note: Xicen links the Lianqiu Lake research center with an emerging "
+"innovation district. The official 2025 reply discusses early investment "
+"and technology transfer, but proposed funds are not treated here as open "
+"startup applications. (3 local organizations, 2 district funding routes)."
+msgstr "**[13]** :doc:`Distrito de Qingpu <districts/qingpu>` (青浦区) — **Investigación vinculada a Huawei, sistemas digitales y colaboración regional**. Autoridad receptora: Comisión de Ciencia y Tecnología de Qingpu. Nota de política y operadores: Xicen enlaza el centro de investigación del lago Lianqiu con un distrito de innovación emergente. La respuesta oficial de 2025 aborda la inversión temprana y la transferencia tecnológica, pero los fondos en fase de propuesta no se tratan aquí como convocatorias abiertas para startups. (3 organizaciones locales, 2 vías de financiación distrital)."
+
+#: ../../districts.rst:27
+msgid ""
+"**[14]** :doc:`Jinshan <districts/jinshan>` (金山区) — **Drones, new "
+"materials and low-altitude systems**. Receiving authority: Jinshan "
+"science and technology authority. Policy & carrier note: The 2025-2026 "
+"park plan names Jinshan New Materials Incubator, East China UAV Base and "
+"Bay Area incubation carriers. It connects testing and industrialization, "
+"subject to park admission and the applicable aviation permissions. (3 "
+"local organizations, 1 district funding routes)."
+msgstr "**[14]** :doc:`Distrito de Jinshan <districts/jinshan>` (金山区) — **Drones, nuevos materiales y sistemas de baja altitud**. Autoridad receptora: Autoridad de ciencia y tecnología de Jinshan. Nota de política y operadores: El plan de parques 2025-2026 menciona la Incubadora de Nuevos Materiales de Jinshan, la Base de UAV del Este de China y los centros de incubación de la Bahía. Conecta las pruebas técnicas con la industrialización, sujeto a la admisión en el parque y a los permisos aeronáuticos correspondientes. (3 organizaciones locales, 1 vías de financiación distrital)."
+
+#: ../../districts.rst:28
+msgid ""
+"**[15]** :doc:`Fengxian <districts/fengxian>` (奉贤区) — **Robotics, beauty "
+"and health technology, advanced manufacturing**. Receiving authority: "
+"Fengxian economic commission. Policy & carrier note: The robot industry "
+"measures cover qualifying registered companies working on intelligent "
+"robots. Oriental Beauty Valley provides a separate beauty and health "
+"industry context. Match the project to the correct policy owner and "
+"application batch. (4 local organizations, 3 district funding routes)."
+msgstr "**[15]** :doc:`Distrito de Fengxian <districts/fengxian>` (奉贤区) — **Robótica, tecnología de belleza y salud, fabricación avanzada**. Autoridad receptora: Comisión Económica de Fengxian. Nota de política y operadores: Las medidas para la industria robótica cubren a empresas registradas elegibles que trabajen en robots inteligentes. Oriental Beauty Valley ofrece un entorno industrial diferenciado para la salud y la cosmética. Vincule cada proyecto con el organismo responsable y el lote de solicitud adecuados. (4 organizaciones locales, 3 vías de financiación distrital)."
+
+#: ../../districts.rst:29
+msgid ""
+"**[16]** :doc:`Chongming <districts/chongming>` (崇明区) — **Ecological "
+"technology, smart agriculture and marine systems**. Receiving authority: "
+"Chongming science and technology authority. Published phone: +86 21 "
+"69695910. Policy & carrier note: The 2025-2026 Chongming Park plan "
+"supplies current strategic context. The separate 2024 science innovation "
+"subsidy measures expired on 31 December 2025; we do not present those "
+"ceilings as current entitlements. (2 local organizations, 2 district "
+"funding routes)."
+msgstr "**[16]** :doc:`Distrito de Chongming <districts/chongming>` (崇明区) — **Tecnología ecológica, agricultura inteligente y sistemas marinos**. Autoridad receptora: Comisión de Ciencia y Tecnología de Chongming. Teléfono publicado: +86 21 69695910. Nota de política y operadores: El plan 2025-2026 del Parque de Chongming proporciona el marco estratégico actual. Las medidas independientes de subvención a la innovación científica de 2024 expiraron el 31 de diciembre de 2025; no presentamos aquellos topes como derechos vigentes. (2 organizaciones locales, 2 vías de financiación distrital)."

@@ -1,0 +1,117 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/nestbio.rst:1
+msgid "Nest.Bio Shanghai Innovation Platform"
+msgstr "Plataforma de Innovación Nest.Bio Shanghái"
+
+#: ../../entities/nestbio.rst:4
+msgid "巢生上海创新孵化平台"
+msgstr "巢生上海创新孵化平台"
+
+#: ../../entities/nestbio.rst:6
+msgid "Incubator | Pudong | Research checked 2026-11-04"
+msgstr "Incubadora | Nueva Área de Pudong | Investigación verificada el 2026-11-04"
+
+#: ../../entities/nestbio.rst:8
+msgid "AI and industry focus: Health, AI for Science."
+msgstr "Enfoque de IA e industria: Salud y biomedicina, IA para la Ciencia."
+
+#: ../../entities/nestbio.rst:10
+msgid ""
+"Recognized in the December 2025 high-quality incubation expansion, with "
+"synthetic biology and cell and gene therapy interests. Confirm current "
+"Shanghai facilities, admission and laboratory pricing with the operator."
+msgstr "Reconocida en la ampliación de incubadoras de alta calidad de diciembre de 2025, con foco en biología sintética y terapias celulares y génicas. Confirme con el operador las instalaciones actuales en Shanghái, los requisitos de admisión y las tarifas de laboratorio."
+
+#: ../../entities/nestbio.rst:12
+msgid ""
+"`Evidence S008 "
+"<https://www.shanghai.gov.cn/nw4411/20251211/0346bd371e2442f9864f3d6df510b46d.html?siteId=1>`_. "
+"上海高质量孵化器增至18家 新增6家涵盖合成生物、脑机智能、集成电路等领域."
+msgstr "`Evidencia S008 <https://www.shanghai.gov.cn/nw4411/20251211/0346bd371e2442f9864f3d6df510b46d.html?siteId=1>`_. 上海高质量孵化器增至18家 新增6家涵盖合成生物、脑机智能、集成电路等领域."
+
+#: ../../entities/nestbio.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/nestbio.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/nestbio.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/nestbio.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/nestbio.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw4411/20251211/0346bd371e2442f9864f3d6df510b46d.html?siteId=1>`_"
+msgstr "`Fuente oficial y vía de la autoridad competente <https://www.shanghai.gov.cn/nw4411/20251211/0346bd371e2442f9864f3d6df510b46d.html?siteId=1>`_"
+
+#: ../../entities/nestbio.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/nestbio.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/nestbio.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/nestbio.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/nestbio.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "Describir el prototipo, el equipamiento requerido, el proceso de fabricación y las necesidades de ensayo."
+
+#: ../../entities/nestbio.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "Solicitar una revisión técnica, una visita a las instalaciones y un presupuesto desglosado por partidas."
+
+#: ../../entities/nestbio.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "Acordar las condiciones de acceso, seguridad, titularidad de muestras y propiedad intelectual, alcance de las pruebas y criterios de aceptación."
+
+#: ../../entities/nestbio.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "Separar el contrato de uso de instalaciones de las solicitudes de inversión o de financiación pública."
+
+#: ../../entities/nestbio.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Ruta del distrito de Nueva Área de Pudong </districts/pudong>`"

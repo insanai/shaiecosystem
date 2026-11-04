@@ -1,0 +1,116 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/putuo-rd-platform.rst:1
+msgid "Putuo R&D Platform Projects, 2026"
+msgstr "2026년 푸퉈구 R&D 플랫폼 프로젝트"
+
+#: ../../funding/putuo-rd-platform.rst:4
+msgid "Grant | Putuo"
+msgstr "보조금 | 푸퉈구"
+
+#: ../../funding/putuo-rd-platform.rst:6
+msgid "2026 call published; not confirmed open"
+msgstr "2026년 공고 발표됨; 접수 진행 여부 미확인"
+
+#: ../../funding/putuo-rd-platform.rst:8
+msgid ""
+"`Evidence S111 "
+"<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. "
+"关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+msgstr "`근거 S111 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+
+#: ../../funding/putuo-rd-platform.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/putuo-rd-platform.rst:13
+msgid ""
+"Up to RMB 2 million; first payment at most 50%, balance subject to "
+"acceptance"
+msgstr "기업 공용 기술 플랫폼, 신형 R&D 기구 설립 및 운영비 평가 지원금"
+
+#: ../../funding/putuo-rd-platform.rst:15
+msgid "No equity"
+msgstr "지분 취득 없음"
+
+#: ../../funding/putuo-rd-platform.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/putuo-rd-platform.rst:20
+msgid ""
+"Lawfully established, good-credit legal or non-legal-person organizations "
+"building qualifying R&D platforms. Online registration requires district "
+"review; credit commitments and prescribed materials are required."
+msgstr "푸퉈구 내에서 오픈 연구개발 플랫폼, 공용 테스트 랩, 산학연 공동 연구소를 구축·운영하는 기관."
+
+#: ../../funding/putuo-rd-platform.rst:22
+msgid "Confirm the deadline in the September 2026 notice"
+msgstr "2026년도 구 과학기술위원회 공고 기준"
+
+#: ../../funding/putuo-rd-platform.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/putuo-rd-platform.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+
+#: ../../funding/putuo-rd-platform.rst:29
+msgid "Published consultation: +86 21 52564588 ext. 8628."
+msgstr "공개 상담 전화: +86 21 52564588 ext. 8628."
+
+#: ../../funding/putuo-rd-platform.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/putuo-rd-platform.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../funding/putuo-rd-platform.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../funding/putuo-rd-platform.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../funding/putuo-rd-platform.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../funding/putuo-rd-platform.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

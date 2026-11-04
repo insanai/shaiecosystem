@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -104,20 +104,33 @@ msgid "Local organizations in this atlas"
 msgstr "本图谱中的本区机构"
 
 #: ../../districts/qingpu.rst:37
-msgid ":doc:`Xicen Science and Innovation Center </entities/xicen>`"
-msgstr ":doc:`西岑科创中心 </entities/xicen>`"
+msgid ""
+":doc:`Xicen Science and Innovation Center </entities/xicen>` (西岑科创中心 · "
+"Technology park · Hardware AI, Software AI) — A Qingpu innovation area "
+"centered on Huawei Lianqiu Lake and Xicen development. It offers an "
+"ecosystem connection, not automatic access to Huawei laboratories, "
+"procurement or investment. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`西岑科创中心 </entities/xicen>` （西岑科创中心 · 科技园区 · 硬件人工智能、软件人工智能）—— 以华为练秋湖及西岑园区为核心的青浦科创片区。提供生态对接机会，不自动获得华为实验室、采购或投资资格。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/qingpu.rst:38
 msgid ""
 ":doc:`Yangtze River Delta AI+ Joint Innovation Center "
-"</entities/huawei-ai>`"
-msgstr ":doc:`长三角AI+联合创新中心 </entities/huawei-ai>`"
+"</entities/huawei-ai>` (长三角AI+联合创新中心 · Corporate program · Software AI, "
+"Hardware AI) — An official July 2026 account records the center beginning "
+"operations in Qingpu. Confirm the operator, technical scope, Huawei "
+"ecosystem interface and actual startup admission before describing a "
+"benefit package. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`长三角AI+联合创新中心 </entities/huawei-ai>` （长三角AI+联合创新中心 · 企业创新计划 · 软件人工智能、硬件人工智能）—— 2026年7月官方报道记录中心在青浦投入运营。应确认运营方、技术范围、华为生态接口及初创企业实际准入，不能自行推定支持包。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/qingpu.rst:39
 msgid ""
 ":doc:`Shanghai University of Political Science and Law "
-"</entities/university-shupl>`"
-msgstr ":doc:`上海政法学院 </entities/university-shupl>`"
+"</entities/university-shupl>` (上海政法学院 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Legal technology, IP, governance. These themes are editorial "
+"routing guidance, not a verified offer of laboratory access or startup "
+"funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海政法学院 </entities/university-shupl>` （上海政法学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：法律科技、知识产权、治理。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/qingpu.rst:41
 msgid "Funding routes"
@@ -126,9 +139,40 @@ msgstr "资金路径"
 #: ../../districts/qingpu.rst:44
 msgid ""
 ":doc:`Qingpu digital economy compute reimbursement, September 2026 costs "
-"</funding/qingpu-compute>`"
-msgstr ":doc:`青浦2026年9月算力费用补贴 </funding/qingpu-compute>`"
+"</funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Reimbursement · No equity) "
+"— Amount under the applicable digital-economy rules; reviewed against "
+"eligible actual cost. Status: Closed. Timing: Closed 23 October 2026, "
+"17:00 China Standard Time."
+msgstr ":doc:`青浦2026年9月算力费用补贴 </funding/qingpu-compute>` （青浦2026年9月算力费用补贴 · 报销支持 · 不占股）—— 依数字经济适用规则及合资格实际支出审核。状态：已截止。时间：已于2026年10月23日中国标准时间17:00截止。"
 
-#: ../../districts/qingpu.rst:46
+#: ../../districts/qingpu.rst:45
+msgid ""
+":doc:`Qingpu Enterprise Intelligent Transformation Support Fund, 2026 "
+"</funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Grant / "
+"reimbursement · No equity) — Proportion of verified intelligent "
+"equipment, industrial software and digital-workshop investment. Status: "
+"2026 call published; deadline check required. Timing: 2026 notice issued "
+"31 July 2026; confirm current batch window."
+msgstr ":doc:`2026青浦区企业智能化改造扶持资金 </funding/qingpu-intelligent-2026>` （2026青浦区企业智能化改造扶持资金 · 补助与报销 · 不占股）—— 按经核定的智能装备、工业软件及数字车间投入比例给予扶持。状态：2026通知已公布，须核验截止日。时间：2026年通知于7月31日发布，须核验当前批次受理窗口。"
+
+#: ../../districts/qingpu.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ":doc:`Xicen Science and Innovation Center </entities/xicen>`"
+#~ msgstr ":doc:`西岑科创中心 </entities/xicen>`"
+
+#~ msgid ""
+#~ ":doc:`Yangtze River Delta AI+ Joint Innovation Center "
+#~ "</entities/huawei-ai>`"
+#~ msgstr ":doc:`长三角AI+联合创新中心 </entities/huawei-ai>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai University of Political Science and Law "
+#~ "</entities/university-shupl>`"
+#~ msgstr ":doc:`上海政法学院 </entities/university-shupl>`"
+
+#~ msgid ""
+#~ ":doc:`Qingpu digital economy compute reimbursement, September 2026 "
+#~ "costs </funding/qingpu-compute>`"
+#~ msgstr ":doc:`青浦2026年9月算力费用补贴 </funding/qingpu-compute>`"

@@ -1,0 +1,119 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/municipal-ai-vouchers.rst:1
+msgid "Shanghai AI compute, Token and corpus vouchers, 2026"
+msgstr "2026 상하이 '모수선청' 컴퓨팅·모델·코퍼스 바우처"
+
+#: ../../funding/municipal-ai-vouchers.rst:4
+msgid "Reimbursement | Citywide / global"
+msgstr "비용 환급 지원 | 전시 / 글로벌"
+
+#: ../../funding/municipal-ai-vouchers.rst:6
+msgid "First 2026 batch closed; later batches to verify"
+msgstr "2026년 1차 마감됨; 후속 차수 일정 확인 필요"
+
+#: ../../funding/municipal-ai-vouchers.rst:8
+msgid ""
+"`Evidence S104 "
+"<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
+"上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`근거 S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+
+#: ../../funding/municipal-ai-vouchers.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/municipal-ai-vouchers.rst:13
+msgid "Award depends on applicable category and assessment"
+msgstr "공인 플랫폼을 통한 컴퓨팅 자원, 모델 토큰(Token) 사용료 및 코퍼스(말뭉치) 조달 비용 바우처 지원"
+
+#: ../../funding/municipal-ai-vouchers.rst:15
+msgid "No equity"
+msgstr "지분 취득 없음"
+
+#: ../../funding/municipal-ai-vouchers.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/municipal-ai-vouchers.rst:20
+msgid ""
+"Qualifying Shanghai AI model or agent developers and users purchasing "
+"eligible non-related-party services. Projects already receiving other "
+"municipal fiscal subsidy are excluded."
+msgstr "상하이시 인공지능 산업 발전 지침에 부합하며 플랫폼 지정 공급사의 자원을 활용하는 적격 AI 개발사 및 연구팀."
+
+#: ../../funding/municipal-ai-vouchers.rst:22
+msgid ""
+"First batch closed 27 May 2026, 16:00 China Standard Time; notice plans "
+"quarterly follow-ups"
+msgstr "2026년도 상하이시 경제정보화위원회 공고 일정 확인 필요"
+
+#: ../../funding/municipal-ai-vouchers.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/municipal-ai-vouchers.rst:27
+msgid ""
+"`Official application / policy route <https://zxzj.sheitc.sh.gov.cn/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://zxzj.sheitc.sh.gov.cn/>`_"
+
+#: ../../funding/municipal-ai-vouchers.rst:29
+msgid "Published consultation: +86 21 23119377."
+msgstr "공개 상담 전화: +86 21 23119377."
+
+#: ../../funding/municipal-ai-vouchers.rst:31
+msgid "`zxzj@sheitc.sh.gov.cn <mailto:zxzj@sheitc.sh.gov.cn>`_"
+msgstr "`zxzj@sheitc.sh.gov.cn <mailto:zxzj@sheitc.sh.gov.cn>`_"
+
+#: ../../funding/municipal-ai-vouchers.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/municipal-ai-vouchers.rst:35
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "실제 지원 유형, 적용 지역 범위, 등록된 공급 기업 및 인정 대상 지출 기간을 확인한다."
+
+#: ../../funding/municipal-ai-vouchers.rst:37
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "용역 서비스 계약서, 세금계산서(발표), 이체 확인증 및 상세 사용 내역서를 빠짐없이 보관한다."
+
+#: ../../funding/municipal-ai-vouchers.rst:39
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "지정 플랫폼의 당해 접수 차수를 이용하며 필수적인 관할 구청 또는 운영사 심사를 완료한다."
+
+#: ../../funding/municipal-ai-vouchers.rst:41
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "승인 금액, 공공 지원 중복 수혜 배제 규정 및 최종 지급 정산 조건을 확인한다."
+
+#: ../../funding/municipal-ai-vouchers.rst:43
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

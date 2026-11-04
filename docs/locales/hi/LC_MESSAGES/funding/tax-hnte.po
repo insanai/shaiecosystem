@@ -1,0 +1,110 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/tax-hnte.rst:1
+msgid "High and New Technology Enterprise tax rate"
+msgstr "हाई एंड न्यू टेक्नोलॉजी एंटरप्राइज (HNTE) कर दर"
+
+#: ../../funding/tax-hnte.rst:4
+msgid "Tax relief | Citywide / global"
+msgstr "कर राहत | शहर-व्यापी / वैश्विक"
+
+#: ../../funding/tax-hnte.rst:6
+msgid "Published tax guidance; recognition required"
+msgstr "प्रकाशित कर मार्गदर्शन; मान्यता आवश्यक"
+
+#: ../../funding/tax-hnte.rst:8
+msgid ""
+"`Evidence S099 "
+"<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
+"上海市“2366”产业税收优惠政策指引."
+msgstr "`साक्ष्य S099 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+
+#: ../../funding/tax-hnte.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/tax-hnte.rst:13
+msgid "15% corporate income tax for qualifying recognized enterprises"
+msgstr "योग्य मान्यता प्राप्त उद्यमों के लिए 15% कॉर्पोरेट आयकर"
+
+#: ../../funding/tax-hnte.rst:15
+msgid "No equity"
+msgstr "कोई इक्विटी नहीं"
+
+#: ../../funding/tax-hnte.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/tax-hnte.rst:20
+msgid ""
+"Recognition and continued compliance are required. Review IP, personnel, "
+"R&D, revenue mix and annual reporting; not all AI companies qualify."
+msgstr "मान्यता और निरंतर अनुपालन आवश्यक है। IP, कार्मिक, R&D, राजस्व मिश्रण और वार्षिक रिपोर्टिंग की समीक्षा करें; सभी AI कंपनियां इसके लिए योग्य नहीं होती हैं।"
+
+#: ../../funding/tax-hnte.rst:22
+msgid "Recognition batches and annual filing"
+msgstr "मान्यता बैच और वार्षिक फाइलिंग"
+
+#: ../../funding/tax-hnte.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/tax-hnte.rst:27
+msgid ""
+"`Official application / policy route <https://shanghai.chinatax.gov.cn/>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://shanghai.chinatax.gov.cn/>`_"
+
+#: ../../funding/tax-hnte.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/tax-hnte.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/tax-hnte.rst:33
+msgid ""
+"Check the current tax rules and recognition or accounting requirements."
+msgstr "वर्तमान कर नियमों और मान्यता या लेखांकन आवश्यकताओं की जाँच करें।"
+
+#: ../../funding/tax-hnte.rst:35
+msgid ""
+"Maintain qualifying R&D and income records with a qualified tax adviser."
+msgstr "योग्य कर सलाहकार के साथ अर्हकारी R&D और आय रिकॉर्ड बनाए रखें।"
+
+#: ../../funding/tax-hnte.rst:37
+msgid ""
+"Complete recognition where required and claim in the correct tax filing."
+msgstr "जहां आवश्यक हो मान्यता पूरी करें और सही कर फाइलिंग में दावा करें।"
+
+#: ../../funding/tax-hnte.rst:39
+msgid ""
+"Retain evidence for review and separate tax savings from cash grants."
+msgstr "समीक्षा के लिए साक्ष्य सुरक्षित रखें और कर बचत को नकद अनुदान से अलग रखें।"
+
+#: ../../funding/tax-hnte.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

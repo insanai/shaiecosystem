@@ -1,0 +1,189 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/xuhui.rst:1
+msgid "Xuhui"
+msgstr "쉬후이구"
+
+#: ../../districts/xuhui.rst:4
+msgid "Foundation models, embodied AI and research commercialization"
+msgstr "파운데이션 모델, 임바디드 AI 및 연구 성과 상용화"
+
+#: ../../districts/xuhui.rst:6
+msgid ""
+"The embodied AI policy identifies robot models, algorithms, data and "
+"operating systems. Its evaluated support ceilings are not automatic "
+"startup awards."
+msgstr "쉬후이구의 임바디드 AI 정책은 로봇 모델, 알고리즘, 데이터 및 운영체제를 포괄합니다. 심사를 통해 책정되는 지원금 상한액은 스타트업에 무조건 지급되는 보조금이 아닙니다."
+
+#: ../../districts/xuhui.rst:8
+msgid ""
+"`Evidence S090 "
+"<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
+"关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`근거 S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+
+#: ../../districts/xuhui.rst:10
+msgid "Who receives the inquiry"
+msgstr "문의 접수 부처"
+
+#: ../../districts/xuhui.rst:13
+msgid "Xuhui industry development authority"
+msgstr "쉬후이구 산업발전 주무관청"
+
+#: ../../districts/xuhui.rst:15
+msgid "`Official district website <https://www.xuhui.gov.cn/>`_"
+msgstr "`구청 공식 웹사이트 <https://www.xuhui.gov.cn/>`_"
+
+#: ../../districts/xuhui.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "본 자료에는 해당 프로그램의 직통 전화나 이메일이 기재되어 있지 않습니다. 공식 웹사이트를 통해 담당 접수팀을 문의하십시오."
+
+#: ../../districts/xuhui.rst:19
+msgid "Before applying"
+msgstr "신청 전 확인 사항"
+
+#: ../../districts/xuhui.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../districts/xuhui.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../districts/xuhui.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../districts/xuhui.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../districts/xuhui.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../districts/xuhui.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "어느 최신 공고가 프로젝트에 적용되는지, 법인 등록지와 실제 사업장 모두 관할 구 내에 있어야 하는지, 인정되는 지출 대상 기간은 언제인지, 기존 시·구 단위 지원금 수혜 이력이 신청을 배제하는지 반드시 문의하십시오. 법인을 이전하거나 비용을 지출하기 전에 공식 답변을 확인해야 합니다."
+
+#: ../../districts/xuhui.rst:34
+msgid "Local organizations in this atlas"
+msgstr "본 도감에 수록된 관내 기관"
+
+#: ../../districts/xuhui.rst:37
+msgid ""
+":doc:`Shanghai Model Speed Space </entities/mosu>` (上海模速空间 · Incubator · "
+"Software AI) — A specialist large-model incubation and acceleration "
+"community on the West Bund. Its operator lists several zones; admission, "
+"workspace, compute support and investment are separate decisions. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`상하이 모수공간(Model Speed Space) </entities/mosu>` (上海模速空间 · 인큐베이터 · 소프트웨어 AI) — 웨스트번드에 위치한 대형 AI 모델 전문 인큐베이션 및 가속화 커뮤니티입니다. 운영사가 여러 구역을 관리하고 있으며, 입주, 업무 공간, 컴퓨팅 지원 및 투자는 각각 별개의 결정 사항입니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/xuhui.rst:38
+msgid ""
+":doc:`Shanghai Artificial Intelligence Laboratory </entities/shlab>` "
+"(上海人工智能实验室 · Research platform · Software AI, AI for Science) — A "
+"research institution for foundational and applied AI. Its published "
+"general contact supports initial routing; open-source resources, "
+"collaboration and recruitment are separate pathways, not a generic "
+"startup grant. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`상하이 인공지능 연구소 </entities/shlab>` (上海人工智能实验室 · 연구 플랫폼 · 소프트웨어 AI, 과학을 위한 AI (AI for Science)) — 인공지능 기초 이론 및 응용 연구를 수행하는 국립 연구기관입니다. 공개 대표 연락처를 통해 초기 문의가 가능하며, 오픈소스 자원 활용, 연구 협력, 인재 채용은 일반 창업 보조금과 별개로 운영됩니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/xuhui.rst:39
+msgid ""
+":doc:`Caohejing Development Zone </entities/caohejing>` (漕河泾开发区 · "
+"Technology park · Software AI, Hardware AI, Industry) — The park operator "
+"publishes enterprise and intellectual-property service routes. Confirm "
+"the specific sub-park and operating address; the Caohejing name covers "
+"multiple development locations. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`차오허징 개발구 </entities/caohejing>` (漕河泾开发区 · 과학기술단지 · 소프트웨어 AI, 하드웨어 AI, 산업) — 개발구 운영사가 기업 지원 및 지식재산권 종합 서비스를 제공합니다. 차오허징이라는 명칭은 여러 분산 단지를 포괄하므로 실제 입주할 세부 파크와 사업장 주소를 사전에 확인해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/xuhui.rst:40
+msgid ""
+":doc:`Shanghai Technology Innovation Center </entities/shtic>` (上海市科技创业中心 "
+"· Research platform · Software AI, Hardware AI, Industry) — The municipal "
+"science-and-technology entrepreneurship service institution coordinating "
+"Shanghai's high-quality incubator cultivation system, innovation "
+"vouchers, technology SME filings and the Startup in Shanghai portal. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`상하이시 과학기술창업센터 </entities/shtic>` (上海市科技创业中心 · 연구 플랫폼 · 소프트웨어 AI, 하드웨어 AI, 산업) — 상하이시의 공공 기술창업 지원 전문 기관으로, 고품질 인큐베이터 육성 체계, 기술혁신 바우처, 과기형 중소기업 인증 등록, '촹짜이상하이(Startup in Shanghai)' 포털 운영을 총괄합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/xuhui.rst:41
+msgid ""
+":doc:`East China University of Science and Technology "
+"</entities/university-ecust>` (华东理工大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Materials, chemistry, bioprocessing, AI for Science. These themes "
+"are editorial routing guidance, not a verified offer of laboratory access "
+"or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`화동이공대학교 </entities/university-ecust>` (华东理工大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 첨단 소재, 화학 공학, 바이오 공정, 과학을 위한 AI(AI for Science). 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/xuhui.rst:42
+msgid ""
+":doc:`Shanghai Normal University </entities/university-shnu>` (上海师范大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Education, computer science, "
+"creative technology. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`상하이사범대학교 </entities/university-shnu>` (上海师范大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 교육학, 컴퓨터 과학, 크리에이티브 미디어 테크놀로지. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/xuhui.rst:43
+msgid ""
+":doc:`Shanghai Conservatory of Music </entities/university-music>` "
+"(上海音乐学院 · University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Audio AI, music "
+"technology, creative tools. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`상하이음악원 </entities/university-music>` (上海音乐学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 오디오 인공지능, 뮤직 테크놀로지, 사운드 창작 도구. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/xuhui.rst:45
+msgid "Funding routes"
+msgstr "자금 지원 경로"
+
+#: ../../districts/xuhui.rst:48
+msgid ""
+":doc:`Xuhui embodied AI development support </funding/xuhui-embodied>` "
+"(徐汇具身智能产业支持 · Grant · No equity) — Evaluated entity support ceilings: RMB "
+"10m one-off and RMB 20m annual development support. Status: Published "
+"policy; implementing intake to confirm. Timing: Confirm applicable "
+"implementing notice."
+msgstr ":doc:`쉬후이구 임바디드 AI 산업 발전 지원 </funding/xuhui-embodied>` (徐汇具身智能产业支持 · 보조금 · 지분 취득 없음) — 종합 평가 대상 기업 지원 한도: 일시불 최대 1,000만 위안, 연간 사업 발전 지원금 최대 2,000만 위안. 상태: 정책 발표됨; 세부 집행 및 접수 일정 확인 필요. 일정: 해당 연도 구체적 실시 공고 확인 필요."
+
+#: ../../districts/xuhui.rst:50
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`상하이 시 전역 지원 경로와 함께 비교 </funding>`"

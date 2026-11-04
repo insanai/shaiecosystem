@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -104,23 +104,61 @@ msgid "Local organizations in this atlas"
 msgstr "本图谱中的本区机构"
 
 #: ../../districts/jinshan.rst:37
-msgid ":doc:`East China UAV Base </entities/uav-base>`"
-msgstr ":doc:`华东无人机基地 </entities/uav-base>`"
+msgid ""
+":doc:`East China UAV Base </entities/uav-base>` (华东无人机基地 · Technology "
+"park · Hardware AI, Drones) — The Jinshan park plan includes test-flight "
+"services and a low-altitude incubation platform. Airspace, testing and "
+"airworthiness services require separate confirmation from physical "
+"workspace. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`华东无人机基地 </entities/uav-base>` （华东无人机基地 · 科技园区 · 硬件人工智能、无人机）—— 金山园区方案涵盖试飞服务及低空孵化平台。空域、测试与适航服务须与物理空间分别确认。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/jinshan.rst:38
-msgid ":doc:`Jinshan New Materials Incubator </entities/jinshan-materials>`"
-msgstr ":doc:`金山新材料孵化器 </entities/jinshan-materials>`"
+msgid ""
+":doc:`Jinshan New Materials Incubator </entities/jinshan-materials>` "
+"(金山新材料孵化器 · Incubator · Materials, Hardware AI) — A materials incubation "
+"route linked to Carbon Valley Green Bay. Relevant to sensors, electronic "
+"materials and manufacturing inputs; specify process equipment and "
+"environmental constraints in the inquiry. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`金山新材料孵化器 </entities/jinshan-materials>` （金山新材料孵化器 · 孵化器 · 材料、硬件人工智能）—— 与碳谷绿湾联动的新材料孵化路径，适合传感、电子材料及制造投入品；咨询时应说明工艺设备与环境要求。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/jinshan.rst:39
 msgid ""
 ":doc:`Shanghai Zhongqiao Vocational and Technical University "
-"</entities/university-zhongqiao>`"
-msgstr ":doc:`上海中侨职业技术大学 </entities/university-zhongqiao>`"
+"</entities/university-zhongqiao>` (上海中侨职业技术大学 · University) — "
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Vocational undergraduate engineering and "
+"applied skills. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海中侨职业技术大学 </entities/university-zhongqiao>` （上海中侨职业技术大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：职业本科工程与应用技能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/jinshan.rst:41
 msgid "Funding routes"
 msgstr "资金路径"
 
-#: ../../districts/jinshan.rst:45
+#: ../../districts/jinshan.rst:44
+msgid ""
+":doc:`Zhangjiang Jinshan Park low-altitude UAV and new materials support "
+"</funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Grant / reimbursement "
+"· No equity) — Policy-specific R&D, carrier incubation, testing-service "
+"and industrialization support under the 2025-2026 park action plan. "
+"Status: Policy in force; call not confirmed open. Timing: Policy: 2025 to "
+"2026 action plan; confirm current implementing batch."
+msgstr ":doc:`张江金山园低空无人机与新材料创新支持 </funding/jinshan-park-2026>` （张江金山园低空无人机与新材料创新支持 · 补助与报销 · 不占股）—— 依2025至2026年园区行动方案及张江专项政策给予研发、载体孵化、检测服务及产业化支持。状态：政策有效，未确认正在申报。时间：2025至2026年行动方案有效，须核验当前实施批次。"
+
+#: ../../districts/jinshan.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ":doc:`East China UAV Base </entities/uav-base>`"
+#~ msgstr ":doc:`华东无人机基地 </entities/uav-base>`"
+
+#~ msgid ""
+#~ ":doc:`Jinshan New Materials Incubator </entities/jinshan-materials>`"
+#~ msgstr ":doc:`金山新材料孵化器 </entities/jinshan-materials>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai Zhongqiao Vocational and Technical University "
+#~ "</entities/university-zhongqiao>`"
+#~ msgstr ":doc:`上海中侨职业技术大学 </entities/university-zhongqiao>`"

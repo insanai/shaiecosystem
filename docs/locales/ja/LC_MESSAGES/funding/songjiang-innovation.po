@@ -1,0 +1,118 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/songjiang-innovation.rst:1
+msgid "Songjiang technology-enterprise innovation and matching support"
+msgstr "松江区ハイテク企業イノベーション＆マッチング助成"
+
+#: ../../funding/songjiang-innovation.rst:4
+msgid "Grant | Songjiang"
+msgstr "助成金・補助金 | 松江区"
+
+#: ../../funding/songjiang-innovation.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "政策有効（公募開始は未確認）"
+
+#: ../../funding/songjiang-innovation.rst:8
+msgid ""
+"`Evidence S112 "
+"<https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. "
+"关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
+msgstr "`出典 S112 <https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. 关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
+
+#: ../../funding/songjiang-innovation.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/songjiang-innovation.rst:13
+msgid ""
+"District innovation project up to RMB 100,000; approved municipal "
+"innovation projects matched 1:1 under the policy"
+msgstr "区級イノベーション資金は1件あたり最大10万元。市級イノベーション資金に採択された事業には政策に基づき1:1で区が同額マッチング助成"
+
+#: ../../funding/songjiang-innovation.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/songjiang-innovation.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/songjiang-innovation.rst:20
+msgid ""
+"Qualifying technology enterprises under the 2026-2027 measures and "
+"implementing rules. Different recognition, commercialization and voucher "
+"provisions must be checked separately."
+msgstr "2026〜2027年の施策および実施細則を満たすハイテク企業。ハイテク企業認定、成果事業化、イノベーション券の各規定を個別に確認のこと。"
+
+#: ../../funding/songjiang-innovation.rst:22
+msgid ""
+"Policy: 1 January 2026 to 31 December 2027; confirm the applicable call"
+msgstr "政策有効期間：2026年1月1日〜2027年12月31日（該当する公募通知を確認のこと）"
+
+#: ../../funding/songjiang-innovation.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/songjiang-innovation.rst:27
+msgid ""
+"`Official application / policy route <https://www.songjiang.gov.cn/>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.songjiang.gov.cn/>`_"
+
+#: ../../funding/songjiang-innovation.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/songjiang-innovation.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/songjiang-innovation.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/songjiang-innovation.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/songjiang-innovation.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/songjiang-innovation.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/songjiang-innovation.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

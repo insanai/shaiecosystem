@@ -1,0 +1,176 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/putuo.rst:1
+msgid "Putuo"
+msgstr "普陀区"
+
+#: ../../districts/putuo.rst:4
+msgid ""
+"Industrial testing, intelligent software and international innovation"
+msgstr "産業検査・テスト、インテリジェントソフトウェア、国際イノベーション"
+
+#: ../../districts/putuo.rst:6
+msgid ""
+"Wuning Science Park connects industrial research, testing and technology "
+"transfer. The district incubator register also lists the China-Israel "
+"Innovation Hub; tenancy and investment require separate terms."
+msgstr "武寧科技園は産業研究、試験検査、技術移転を結びつけている。区のインキュベーター名簿には中以（上海）創新園も掲載されている。入居と投資はそれぞれ個別の条件確認を要する。"
+
+#: ../../districts/putuo.rst:8
+msgid ""
+"`Evidence S013 <https://www.shpt.gov.cn/ys-cyyq/20260430/969703.html>`_. "
+"上海武宁科技园_创业园区_上海市普陀区人民政府."
+msgstr "`出典 S013 <https://www.shpt.gov.cn/ys-cyyq/20260430/969703.html>`_. 上海武宁科技园_创业园区_上海市普陀区人民政府."
+
+#: ../../districts/putuo.rst:10
+msgid "Who receives the inquiry"
+msgstr "受付・問い合わせ窓口"
+
+#: ../../districts/putuo.rst:13
+msgid "Putuo science and technology authority"
+msgstr "普陀区科学技術主管部門"
+
+#: ../../districts/putuo.rst:15
+msgid "`Official district website <https://www.shpt.gov.cn/>`_"
+msgstr "`区人民政府公式サイト <https://www.shpt.gov.cn/>`_"
+
+#: ../../districts/putuo.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "本記録では現行の直接電話番号やメールアドレスは確認されていません。公式サイトを通じて担当の受付部署にお問い合わせください。"
+
+#: ../../districts/putuo.rst:19
+msgid "Before applying"
+msgstr "申請前の確認事項"
+
+#: ../../districts/putuo.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../districts/putuo.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../districts/putuo.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../districts/putuo.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../districts/putuo.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../districts/putuo.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "どの現行通知がプロジェクトに適用されるか、法人登記と実際の事業活動の双方が区内にある必要があるか、どの経費支出期間が対象となるか、また過去の市・区レベルの受給実績が今回の申請を排除しないかを確認してください。企業の移転や費用の発生に先立ち、回答を得ておく必要があります。"
+
+#: ../../districts/putuo.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本アトラスに収録されている区内組織"
+
+#: ../../districts/putuo.rst:37
+msgid ""
+":doc:`Wuning Science Park </entities/wuning>` (上海武宁科技园 · Technology park "
+"· Hardware AI, Industry) — An industrial research and testing environment "
+"operated by the Shanghai Electrical Apparatus Research Institute group. "
+"Robot and industrial-internet testing are useful entry points for "
+"hardware validation. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海武寧科学技術園（Wuning Science Park） </entities/wuning>` （上海武宁科技园 · テクノロジーパーク · ハードウェアAI、産業・インダストリー）— 上海電器科学研究所グループが運営する産業研究開発・試験評価パーク。ロボットやインダストリアル・インターネットの性能・適合性試験は、ハードウェアのPoC（概念実証）や検証の窓口として有効。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/putuo.rst:38
+msgid ""
+":doc:`China-Israel Innovation Hub, Shanghai </entities/china-israel>` "
+"(中以（上海）创新园 · Technology park · Software AI, Hardware AI) — A "
+"district-listed carrier for international collaboration in intelligent "
+"manufacturing, AI, robotics and information technology. It supports "
+"market, capital and industrial connections; the listing does not "
+"guarantee cash support. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`中以（上海）イノベーションパーク（China-Israel Innovation Hub） </entities/china-israel>` （中以（上海）创新园 · テクノロジーパーク · ソフトウェアAI、ハードウェアAI）— 区の公式名録に掲載された、スマート製造、AI、ロボティクス、情報技術分野の国際協力拠点。市場開拓、資金調達、産業リソースとの連携を支援するが、名録掲載自体が現金給付を保証するものではない。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/putuo.rst:39
+msgid ""
+":doc:`Shanghai Tsinghua International Innovation Center "
+"</entities/tsinghua-shanghai>` (上海清华国际创新中心 · Research platform · Software "
+"AI, Hardware AI, Chips) — A strategic research and technology-transfer "
+"platform in Putuo's \"One Axis, One Park, One Center\" layout, connecting "
+"university engineering laboratories with Yangtze River Delta industrial "
+"applications. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海清華国際イノベーションセンター </entities/tsinghua-shanghai>` （上海清华国际创新中心 · 研究プラットフォーム · ソフトウェアAI、ハードウェアAI、半導体・チップ）— 普陀区の「一軸・一園・一中心」イノベーション構想における中核戦略拠点。清華大学等の理工系先端研究所と長江デルタ地域の産業実証・応用展開現場を直結する。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/putuo.rst:40
+msgid ""
+":doc:`East China Normal University </entities/university-ecnu>` (华东师范大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Software, education AI, data "
+"science, microelectronics. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`華東師範大学 </entities/university-ecnu>` （华东师范大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：ソフトウェア工学、教育AI、データサイエンス、マイクロエレクトロニクス。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/putuo.rst:42
+msgid "Funding routes"
+msgstr "資金調達ルート"
+
+#: ../../districts/putuo.rst:45
+msgid ""
+":doc:`Putuo Technology Enterprise Seed Plan, second 2026 batch "
+"</funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Grant · No equity) — RMB "
+"300,000 per selected company; 50% initially, remainder after one-year "
+"development review. Status: Closed. Timing: Closed 31 August 2026."
+msgstr ":doc:`2026年普陀区ハイテク企業シード計画（第2期） </funding/putuo-seed>` （2026普陀科创企业种子计划第二批 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 採択企業1社につき30万元（採択時に50％交付、1年後の事業進捗審査を経て残額交付）。ステータス：受付終了。時期：2026年8月31日に公募終了。"
+
+#: ../../districts/putuo.rst:46
+msgid ""
+":doc:`Putuo intelligent software industry support, 2026 "
+"</funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Grant / "
+"reimbursement · No equity) — Direction-specific R&D, compute, "
+"first-product matching and related support. Status: Closed. Timing: "
+"Closed 26 June 2026."
+msgstr ":doc:`2026年普陀区スマートソフトウェア産業特別資金 </funding/putuo-intelligent-software>` （2026普陀智能软件产业专项 · 助成金・事後精算補助 · 株式希薄化なし（エクイティフリー））— 研究開発、計算資源利用、首台套・首版次マッチング支援など、各支援区分に応じた助成。ステータス：受付終了。時期：2026年6月26日に公募終了。"
+
+#: ../../districts/putuo.rst:47
+msgid ""
+":doc:`Putuo R&D Platform Projects, 2026 </funding/putuo-rd-platform>` "
+"(2026普陀科技研发平台项目 · Grant · No equity) — Up to RMB 2 million; first payment "
+"at most 50%, balance subject to acceptance. Status: 2026 call published; "
+"not confirmed open. Timing: Confirm the deadline in the September 2026 "
+"notice."
+msgstr ":doc:`2026年普陀区科学技術研究開発プラットフォームプロジェクト </funding/putuo-rd-platform>` （2026普陀科技研发平台项目 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 最大200万元（初回交付は50％以下、残額は事業検収・完了審査結果に基づき交付）。ステータス：2026年公募公表済み（受付開始は未確認）。時期：2026年9月発行の公募通知に定められた期日を確認のこと。"
+
+#: ../../districts/putuo.rst:49
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`上海全市レベルの資金調達ルートとの比較 </funding>`"

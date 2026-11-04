@@ -1,0 +1,116 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/government-jiading.rst:1
+msgid "Jiading science and technology authority"
+msgstr "जियाडिंग विज्ञान और प्रौद्योगिकी प्राधिकरण"
+
+#: ../../entities/government-jiading.rst:4
+msgid "嘉定区科技主管部门"
+msgstr "嘉定区科技主管部门"
+
+#: ../../entities/government-jiading.rst:6
+msgid "Government | Jiading | Research checked 2026-11-04"
+msgstr "सरकारी विभाग | जियाडिंग (Jiading) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/government-jiading.rst:8
+msgid ""
+"The municipal science commission documents the joint role of SITRI and "
+"InnoSpring in connecting research, pilot production and incubation. The "
+"2026 district service program provides policy interpretation and project "
+"coordination."
+msgstr "नगर विज्ञान आयोग अनुसंधान, पायलट उत्पादन और इनक्यूबेशन को जोड़ने में SITRI और इनोस्प्रिंग की संयुक्त भूमिका का दस्तावेजीकरण करता है। 2026 जिला सेवा कार्यक्रम नीति व्याख्या और परियोजना समन्वय प्रदान करता है।"
+
+#: ../../entities/government-jiading.rst:10
+msgid ""
+"`Evidence S006 "
+"<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "
+"市科委、嘉定区联合调研高质量孵化器建设工作."
+msgstr "`साक्ष्य S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."
+
+#: ../../entities/government-jiading.rst:12
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/government-jiading.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/government-jiading.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/government-jiading.rst:19
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/government-jiading.rst:22
+msgid "`Official website / intake route <https://www.jiading.gov.cn/>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://www.jiading.gov.cn/>`_"
+
+#: ../../entities/government-jiading.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/government-jiading.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/government-jiading.rst:28
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/government-jiading.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/government-jiading.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../entities/government-jiading.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../entities/government-jiading.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../entities/government-jiading.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../entities/government-jiading.rst:41
+msgid ":doc:`Jiading district route </districts/jiading>`"
+msgstr ":doc:`जियाडिंग (Jiading) ज़िला मार्ग </districts/jiading>`"

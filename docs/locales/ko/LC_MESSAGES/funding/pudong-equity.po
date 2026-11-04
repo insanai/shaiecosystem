@@ -1,0 +1,112 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/pudong-equity.rst:1
+msgid "Pudong AI Seed Fund"
+msgstr "푸둥 인공지능 시드 펀드"
+
+#: ../../funding/pudong-equity.rst:4
+msgid "Equity investment | Pudong"
+msgstr "지분 투자 | 푸둥 신구"
+
+#: ../../funding/pudong-equity.rst:6
+msgid "Fund announced; deal intake to confirm"
+msgstr "펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요"
+
+#: ../../funding/pudong-equity.rst:8
+msgid ""
+"`Evidence S045 "
+"<https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong "
+"launches fund to boost AI industry."
+msgstr "`근거 S045 <https://english.pudong.gov.cn/2025-07/30/c_1113506.htm>`_. Pudong launches fund to boost AI industry."
+
+#: ../../funding/pudong-equity.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/pudong-equity.rst:13
+msgid ""
+"Fund target RMB 2bn; first tranche RMB 500m; individual cheque not "
+"established"
+msgstr "총 규모 2억 위안의 초기 지분투자 펀드; 건당 투자 규모는 투자심의위원회 심의를 통해 결정"
+
+#: ../../funding/pudong-equity.rst:15
+msgid "Negotiated equity"
+msgstr "협의 지분율 적용"
+
+#: ../../funding/pudong-equity.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/pudong-equity.rst:20
+msgid ""
+"Seed-stage AI projects fitting the manager's mandate. The public launch "
+"does not establish a universal application form, valuation or "
+"shareholding percentage."
+msgstr "푸둥신구 내에 설립 또는 이전하는 유망 AI 모델, 구현 애플리케이션 및 하드웨어 연계 초기 스타트업."
+
+#: ../../funding/pudong-equity.rst:22
+msgid "Manager-led sourcing and due diligence"
+msgstr "위탁 운용사 상시 발굴 및 투자 심의 절차에 따름"
+
+#: ../../funding/pudong-equity.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/pudong-equity.rst:27
+msgid "`Official application / policy route <https://www.pudong.gov.cn/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://www.pudong.gov.cn/>`_"
+
+#: ../../funding/pudong-equity.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/pudong-equity.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/pudong-equity.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "펀드 운용사, 중점 투자 분야, 투자 단계 및 법인격의 적합성을 확인한다."
+
+#: ../../funding/pudong-equity.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "IR 피치덱, 주주명부(Cap table), 기술 입증 자료, 시장 지표(Traction) 및 자금 조달 계획을 제출한다."
+
+#: ../../funding/pudong-equity.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "사업, 재무, 기술 및 법률 실사를 완료한다."
+
+#: ../../funding/pudong-equity.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "텀시트(Term sheet), 투자심의위원회 부대조건 및 최종 투자 본계약서를 검토한다."
+
+#: ../../funding/pudong-equity.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

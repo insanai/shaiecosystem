@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -34,10 +34,10 @@ msgstr "企业科技创新政策有效期为2025年9月1日至2030年8月31日�
 
 #: ../../districts/minhang.rst:8
 msgid ""
-"`Evidence S065 "
+"`Evidence S091 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`证据 S065 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`证据 S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../districts/minhang.rst:10
 msgid "Who receives the inquiry"
@@ -104,31 +104,63 @@ msgid "Local organizations in this atlas"
 msgstr "本图谱中的本区机构"
 
 #: ../../districts/minhang.rst:37
-msgid ":doc:`Grand neoBay / Zero Kilometer Incubator </entities/neobay>`"
-msgstr ":doc:`大零号湾／零公里孵化器 </entities/neobay>`"
+msgid ""
+":doc:`Grand neoBay / Zero Kilometer Incubator </entities/neobay>` "
+"(大零号湾／零公里孵化器 · Incubator · Hardware AI, Software AI) — A "
+"university-linked commercialization route connecting early technology "
+"projects with incubation. SJTU documents the Zero Kilometer launch and "
+"its AI, integrated-circuit, manufacturing and low-carbon participants. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`大零号湾／零公里孵化器 </entities/neobay>` （大零号湾／零公里孵化器 · 孵化器 · 硬件人工智能、软件人工智能）—— 依托高校的科技成果转化路径，连接早期项目与孵化资源。交大公开记录零公里孵化器启动及人工智能、集成电路、制造和低碳领域的参与情况。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/minhang.rst:38
 msgid ""
-":doc:`Synlonx Brain-Computer Interface Incubator </entities/synlonx>`"
-msgstr ":doc:`司南脑机智能孵化器 </entities/synlonx>`"
+":doc:`Synlonx Brain-Computer Interface Incubator </entities/synlonx>` "
+"(司南脑机智能孵化器 · Incubator · Hardware AI, Health) — A brain-computer "
+"interface incubation platform launched in Huacao. Suitable conversations "
+"include electrodes, neural interfaces, sensing, rehabilitation and "
+"translational engineering; wet-lab and device requirements need explicit "
+"confirmation. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`司南脑机智能孵化器 </entities/synlonx>` （司南脑机智能孵化器 · 孵化器 · 硬件人工智能、健康）—— 在华漕启动的脑机接口孵化平台。可对接电极、神经接口、传感、康复与转化工程；实验空间及器械要求需明确确认。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/minhang.rst:39
-msgid ":doc:`Maqiao AI Innovation Zone </entities/maqiao>`"
-msgstr ":doc:`马桥人工智能创新试验区 </entities/maqiao>`"
+msgid ""
+":doc:`Maqiao AI Innovation Zone </entities/maqiao>` (马桥人工智能创新试验区 · "
+"Technology park · Hardware AI, Robotics) — The Minhang 2025-2026 park "
+"plan links Grand neoBay R&D with Maqiao manufacturing. A useful pathway "
+"from a robot prototype to supply-chain and production conversations. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`马桥人工智能创新试验区 </entities/maqiao>` （马桥人工智能创新试验区 · 科技园区 · 硬件人工智能、机器人）—— 闵行2025至2026年园区方案连接大零号湾研发与马桥制造，可作为机器人样机走向供应链及生产对接的路径。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/minhang.rst:40
-msgid ":doc:`Zizhu National Hi-Tech Park / ET Space </entities/zizhu>`"
-msgstr ":doc:`紫竹国家高新区／创业孵化器ET空间 </entities/zizhu>`"
+msgid ""
+":doc:`Zizhu National Hi-Tech Park / ET Space </entities/zizhu>` "
+"(紫竹国家高新区／创业孵化器ET空间 · Incubator · Software AI, Hardware AI, Industry) — "
+"The park-owned incubator connects startups with the software, avionics "
+"and manufacturing ecosystem. Its operator describes industry challenges "
+"and collaborative innovation; current admission, space and fees require "
+"an intake discussion. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`紫竹国家高新区／创业孵化器ET空间 </entities/zizhu>` （紫竹国家高新区／创业孵化器ET空间 · 孵化器 · 软件人工智能、硬件人工智能、产业）—— 高新区所属孵化器连接软件、航空电子及制造生态。运营方介绍产业挑战及协同创新，当前入驻、空间与费用须通过受理咨询确认。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/minhang.rst:41
 msgid ""
 ":doc:`Hongqiao International Youth Innovation Hub "
-"</entities/hongqiao-youth>`"
-msgstr ":doc:`虹桥国际青年创业港 </entities/hongqiao-youth>`"
+"</entities/hongqiao-youth>` (虹桥国际青年创业港 · Incubator · Software AI, "
+"Industry) — Opened in July 2026 as a youth innovation and "
+"business-service hub in Hongqiao. The reported workstation offer depends "
+"on qualification and available space, not simply arrival at the transport "
+"hub. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`虹桥国际青年创业港 </entities/hongqiao-youth>` （虹桥国际青年创业港 · 孵化器 · 软件人工智能、产业）—— 2026年7月启用的虹桥青年创业及企业服务枢纽。报道的工位权益取决于资格及可用空间，并非抵达交通枢纽即可享有。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/minhang.rst:42
-msgid ":doc:`Shanghai Jiao Tong University </entities/university-sjtu>`"
-msgstr ":doc:`上海交通大学 </entities/university-sjtu>`"
+msgid ""
+":doc:`Shanghai Jiao Tong University </entities/university-sjtu>` (上海交通大学 "
+"· University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Robotics, chips, "
+"engineering, medical AI. These themes are editorial routing guidance, not "
+"a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海交通大学 </entities/university-sjtu>` （上海交通大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：机器人、芯片、工程、医疗人工智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/minhang.rst:44
 msgid "Funding routes"
@@ -137,13 +169,49 @@ msgstr "资金路径"
 #: ../../districts/minhang.rst:47
 msgid ""
 ":doc:`Minhang research commercialization support "
-"</funding/minhang-conversion>`"
-msgstr ":doc:`闵行科技成果转化支持 </funding/minhang-conversion>`"
+"</funding/minhang-conversion>` (闵行科技成果转化支持 · Grant · No equity) — New "
+"conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; "
+"up to 50% of investment. Status: Policy in force; call not confirmed "
+"open. Timing: Policy: 1 Sep 2025 to 31 Aug 2030."
+msgstr ":doc:`闵行科技成果转化支持 </funding/minhang-conversion>` （闵行科技成果转化支持 · 补助 · 不占股）—— 新设转化企业每年最高50万元，三年累计150万元，最高按转化投入50%。状态：政策有效，未确认正在申报。时间：政策有效期：2025年9月1日至2030年8月31日。"
 
 #: ../../districts/minhang.rst:48
-msgid ":doc:`Minhang core technology R&D projects </funding/minhang-rd>`"
-msgstr ":doc:`闵行关键核心技术攻关 </funding/minhang-rd>`"
+msgid ""
+":doc:`Minhang core technology R&D projects </funding/minhang-rd>` "
+"(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
+"R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
+"confirmed open. Timing: Policy through 31 Aug 2030."
+msgstr ":doc:`闵行关键核心技术攻关 </funding/minhang-rd>` （闵行关键核心技术攻关 · 补助 · 不占股）—— 一般项目按研发投入最高30%、最高300万元；重大项目按最高50%、最高1000万元。状态：政策有效，未确认正在申报。时间：政策有效期至2030年8月31日。"
 
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ":doc:`Grand neoBay / Zero Kilometer Incubator </entities/neobay>`"
+#~ msgstr ":doc:`大零号湾／零公里孵化器 </entities/neobay>`"
+
+#~ msgid ""
+#~ ":doc:`Synlonx Brain-Computer Interface Incubator </entities/synlonx>`"
+#~ msgstr ":doc:`司南脑机智能孵化器 </entities/synlonx>`"
+
+#~ msgid ":doc:`Maqiao AI Innovation Zone </entities/maqiao>`"
+#~ msgstr ":doc:`马桥人工智能创新试验区 </entities/maqiao>`"
+
+#~ msgid ":doc:`Zizhu National Hi-Tech Park / ET Space </entities/zizhu>`"
+#~ msgstr ":doc:`紫竹国家高新区／创业孵化器ET空间 </entities/zizhu>`"
+
+#~ msgid ""
+#~ ":doc:`Hongqiao International Youth Innovation Hub "
+#~ "</entities/hongqiao-youth>`"
+#~ msgstr ":doc:`虹桥国际青年创业港 </entities/hongqiao-youth>`"
+
+#~ msgid ":doc:`Shanghai Jiao Tong University </entities/university-sjtu>`"
+#~ msgstr ":doc:`上海交通大学 </entities/university-sjtu>`"
+
+#~ msgid ""
+#~ ":doc:`Minhang research commercialization support "
+#~ "</funding/minhang-conversion>`"
+#~ msgstr ":doc:`闵行科技成果转化支持 </funding/minhang-conversion>`"
+
+#~ msgid ":doc:`Minhang core technology R&D projects </funding/minhang-rd>`"
+#~ msgstr ":doc:`闵行关键核心技术攻关 </funding/minhang-rd>`"

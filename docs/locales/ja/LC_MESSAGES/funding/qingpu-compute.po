@@ -1,0 +1,119 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/qingpu-compute.rst:1
+msgid "Qingpu digital economy compute reimbursement, September 2026 costs"
+msgstr "2026年9月分青浦区デジタル経済計算資源費用補助"
+
+#: ../../funding/qingpu-compute.rst:4
+msgid "Reimbursement | Qingpu"
+msgstr "事後精算・費用補助 | 青浦区"
+
+#: ../../funding/qingpu-compute.rst:6
+msgid "Closed"
+msgstr "受付終了"
+
+#: ../../funding/qingpu-compute.rst:8
+msgid ""
+"`Evidence S113 "
+"<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. "
+"关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府."
+msgstr "`出典 S113 <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. 关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府."
+
+#: ../../funding/qingpu-compute.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/qingpu-compute.rst:13
+msgid ""
+"Amount under the applicable digital-economy rules; reviewed against "
+"eligible actual cost"
+msgstr "デジタル経済適用規則に基づき、適格と認められた計算資源の実際の賃料支出に対して補助"
+
+#: ../../funding/qingpu-compute.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/qingpu-compute.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/qingpu-compute.rst:20
+msgid ""
+"Eligible R&D rental of non-related-party intelligent compute; storage, "
+"networking and security are excluded. The provider must hold the "
+"specified IDC/ISP licence. Other fiscal support for the same project and "
+"year is generally excluded."
+msgstr "非関連会社からのインテリジェント計算資源の研究開発用途でのレンタル利用（ストレージ、通信ネットワーク、セキュリティ費用は対象外）。プロバイダは指定IDC/ISPライセンスを保有していること。同一事業・同一年度での他の財政助成との重複受給は原則不可。"
+
+#: ../../funding/qingpu-compute.rst:22
+msgid "Closed 23 October 2026, 17:00 China Standard Time"
+msgstr "2026年10月23日 17:00（中国標準時）に公募終了"
+
+#: ../../funding/qingpu-compute.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/qingpu-compute.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_"
+
+#: ../../funding/qingpu-compute.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/qingpu-compute.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/qingpu-compute.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "バウチャーの対象区分、適用地域境界、指定サプライヤー、および対象経費の支出期間を確認する。"
+
+#: ../../funding/qingpu-compute.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "サービス契約書、発票（公式領収証）、支払い証明、および項目別利用ログを保存する。"
+
+#: ../../funding/qingpu-compute.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "指定プラットフォームの該当募集枠を利用し、所定の区または運営主体による審査を受ける。"
+
+#: ../../funding/qingpu-compute.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "承認金額、他公的補助との重複受給排除規程、および還付・交付条件を確認する。"
+
+#: ../../funding/qingpu-compute.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

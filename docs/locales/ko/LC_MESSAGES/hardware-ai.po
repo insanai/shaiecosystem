@@ -1,0 +1,116 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../hardware-ai.rst:1
+msgid "Intelligence in the physical world"
+msgstr "물리 세계의 지능"
+
+#: ../../hardware-ai.rst:4
+msgid ""
+"Hardware joins algorithms to materials, manufacturing tolerances, "
+"reliability and service. A beautiful prototype is the beginning of a "
+"supply chain. We follow chips, sensors, robots and autonomous systems "
+"through the facilities they need."
+msgstr "하드웨어는 알고리즘을 물리적 소재, 정밀 제조 공차, 신뢰성 및 지속적인 유지보수와 결합합니다. 완성도 높은 시제품은 긴 공급망의 시작에 불과합니다. 우리는 반도체 칩, 센서, 로봇 및 자율주행 시스템이 필요로 하는 필수 연구·생산 인프라를 추적합니다."
+
+#: ../../hardware-ai.rst:7
+msgid "Engineering gates from research to repeatable production."
+msgstr "연구에서 반복 가능한 대량 양산으로 나아가는 엔지니어링 관문."
+
+#: ../../hardware-ai.rst:10
+msgid "Chips and sensing"
+msgstr "반도체 칩과 센싱 기술"
+
+#: ../../hardware-ai.rst:13
+msgid ""
+"For an AI chip project, prepare the architecture, workload, process "
+"choice, toolchain, IP dependencies and software support plan. Separate "
+"EDA access, licensed IP, multi-project wafer participation, full mask "
+"sets, packaging, testing and characterization. A shared lab or incubator "
+"does not automatically pay for a tape-out."
+msgstr "AI 반도체 프로젝트는 아키텍처 구조, 작업 부하(워크로드), 공정 노드 선택, 툴체인, 외부 IP 의존도 및 소프트웨어 지원 계획을 사전에 수립해야 합니다. EDA 소프트웨어 라이선스, 승인된 설계 IP, 멀티 프로젝트 웨이퍼(MPW) 셔틀 참여, 풀 마스크 세트, 패키징, 테스트 및 물리적 특성 평가 과정을 엄격히 분리하여 검토하십시오. 공유 연구실이나 인큐베이터 입주가 파운드리 테이프아웃 비용까지 자동으로 부담해 주는 것은 아닙니다."
+
+#: ../../hardware-ai.rst:15
+msgid ""
+"Zhangjiang IC Design Industrial Park and the IC promotion center are "
+"initial service routes. In Jiading, the documented SITRI and InnoSpring "
+"relationship is relevant to beyond-Moore devices, sensors and pilot "
+"production. We ask for equipment, process capability, queue time, sample "
+"ownership and a written quotation."
+msgstr "장장 집적회로 설계 산업단지와 집적회로 촉진센터는 기본적인 공공 서비스 접수 창구입니다. 자딩구의 경우 공식 기록된 상하이산업기술연구원(SITRI)과 인노스프링(InnoSpring)의 파트너십이 모어의 법칙을 넘어서는 비메모리 특화 소자, 첨단 센서 및 파일럿 생산에 깊은 연관을 맺고 있습니다. 연구 장비 제원, 공정 처리 역량, 대기 일정, 시제품 소유권 및 세부 서면 견적서를 직접 요청해야 합니다."
+
+#: ../../hardware-ai.rst:17
+msgid ""
+"Shanghai Integrated Circuit R&D Center (ICRD) in Zhangjiang supports "
+"shared process development and device verification, while Xihe Optic "
+"Valley in Jiading incubates scientist-founded optoelectronics, laser and "
+"photonic sensing teams. In Fengxian, the Oriental Beauty Valley Life "
+"Messenger Gene Drug Base opened in April 2025 to link AI-assisted "
+"molecular design with shared wet labs and pilot manufacturing."
+msgstr "장장에 위치한 상하이 집적회로 연구개발센터(ICRD)는 공용 공정 개발과 소자 특성 검증 역량을 지원하며, 자딩구의 시허 광학 밸리(Xihe Optic Valley)는 과학자 창업팀을 대상으로 광전자, 레이저 및 광학 센싱 인큐베이션을 제공합니다. 펑셴구에서는 2025년 4월 '동방메이구 생명전령(Life Messenger)' 유전자 의약품 기지가 문을 열어 AI 기반 분자 설계와 공용 습식 실험실(Wet lab), 파일럿 제조 시설을 유기적으로 연결하고 있습니다."
+
+#: ../../hardware-ai.rst:19
+msgid "Robots and embodied AI"
+msgstr "로봇과 피지컬 AI (임바디드 AI)"
+
+#: ../../hardware-ai.rst:22
+msgid ""
+"Separate the robot foundation model, perception, planning, control and "
+"safety architecture from motors, transmissions, tactile sensing, "
+"batteries and the mechanical platform. Test the complete system against a "
+"named use case. Demonstrations should state payload, cycle time, failure "
+"conditions, human intervention and maintenance cost."
+msgstr "로봇 파운데이션 모델, 인지, 경로 계획, 제어 알고리즘 및 안전 아키텍처를 모터, 감속기·변속기, 촉각 센서, 배터리 팩 및 기계적 프레임워크와 명확히 분리하여 설계하십시오. 실제 정의된 사용 환경에서 전체 통합 시스템을 검증해야 합니다. 기술 시연 시에는 가반 하중(페이로드), 택트 타임(사이클 시간), 시스템 장애 조건, 인간 개입 빈도, 유지보수 비용을 투명하게 공개해야 합니다."
+
+#: ../../hardware-ai.rst:24
+msgid ""
+"Compare Minhang's research-to-manufacturing connection, Baoshan's robot "
+"industry, Wuning's testing services and Zhangjiang's robotics ecosystem. "
+"Corporate programs can provide a deployment conversation. They do not "
+"replace production qualification, applicable certification or a customer "
+"acceptance plan."
+msgstr "민항구의 연구-제조 연계 클러스터, 바오산구의 로봇 산업 기지, 푸퉈 우닝 과학기술단지의 산업 테스트 인증 서비스, 그리고 장장의 로보틱스 생태계를 비교 분석하십시오. 대기업의 오픈이노베이션 프로그램은 초기 실증 대화의 기회를 열어줄 수 있지만, 공장 양산 자격 요건, 필수 산업 안전 인증, 혹은 까다로운 고객 검수 기준을 결코 대신할 수 없습니다."
+
+#: ../../hardware-ai.rst:26
+msgid "Other physical frontiers"
+msgstr "물리적 혁신의 또 다른 프런티어"
+
+#: ../../hardware-ai.rst:29
+msgid ""
+"For drones, begin with a real operating scenario and ask Jinshan's UAV "
+"route about test services and applicable operating permissions. For "
+"brain-computer interfaces and medical devices, separate exploratory "
+"research from regulated product development. For AI-enabled biology, "
+"confirm biosafety, instrument availability, sample handling and clinical "
+"access before renting a lab."
+msgstr "드론 및 무인 항공 시스템은 실제 운용 환경 시나리오에서 출발하여, 진산구의 무인기 전용 채널을 통해 시험 비행 서비스와 관할 영공 운항 허가 요건을 문의하십시오. 뇌-컴퓨터 인터페이스(BCI)와 지능형 의료기기는 기초 탐색 연구와 엄격한 인허가 규제를 받는 의료기기 제품 개발을 엄격히 구분해야 합니다. AI 기반 생명공학 연구의 경우 실험실을 임대하기 전에 생물학적 안전 등급, 특수 분석 기기 가용성, 생체 샘플 보관 규정 및 임상 시험 접근 권한을 먼저 확인해야 합니다."
+
+#: ../../hardware-ai.rst:31
+msgid ""
+"Our hardware application pack adds a bill of materials, costed "
+"engineering milestones, manufacturing partner plan, test fixtures, "
+"reliability plan and a working demonstration. We identify what the "
+"incubator can actually supply and what the team must buy elsewhere."
+msgstr "하드웨어 지원 신청 서류에는 자재명세서(BOM), 비용이 산출된 엔지니어링 마일스톤, 제조 파트너 협력 계획, 테스트 치공구(지그), 신뢰성 검증 계획 및 실제 구동 가능한 시제품 시연이 추가되어야 합니다. 인큐베이터가 실제로 제공할 수 있는 지원 내용과 창업팀이 외부에서 자체 조달해야 하는 항목을 명확히 구분해야 합니다."
+
+#: ../../hardware-ai.rst:33
+msgid ""
+"`Evidence S006 "
+"<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "
+"市科委、嘉定区联合调研高质量孵化器建设工作."
+msgstr "`근거 S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."

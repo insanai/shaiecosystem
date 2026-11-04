@@ -1,0 +1,112 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/stvc.rst:1
+msgid "Shanghai STVC Group"
+msgstr "상하이 과기창업투자그룹"
+
+#: ../../entities/stvc.rst:4
+msgid "上海科技创业投资集团"
+msgstr "上海科技创业投资集团"
+
+#: ../../entities/stvc.rst:6
+msgid "Investor | Citywide / global | Research checked 2026-11-04"
+msgstr "투자 기관 | 전시 / 글로벌 | 연구 확인일 2026-11-04"
+
+#: ../../entities/stvc.rst:8
+msgid "AI and industry focus: Chips, Health, Software AI."
+msgstr "AI 및 산업 분야: 반도체 칩, 헬스케어, 소프트웨어 AI."
+
+#: ../../entities/stvc.rst:10
+msgid ""
+"An established science and technology investment group within Shanghai's "
+"state-capital ecosystem. Use its official portfolio and manager "
+"information to identify the appropriate investment vehicle and stage."
+msgstr "상하이 국유 자본 생태계의 대표적인 과학기술 전문 투자 그룹입니다. 공식 포트폴리오와 위탁 운용사 정보를 통해 프로젝트 단계와 기술 영역에 맞는 산하 펀드를 매칭해야 합니다."
+
+#: ../../entities/stvc.rst:12
+msgid ""
+"`Evidence S047 <https://www.shstvc.com.cn/en/>`_. Shanghai Science & "
+"Technology Venture Capital (Group) Co., Ltd.."
+msgstr "`근거 S047 <https://www.shstvc.com.cn/en/>`_. Shanghai Science & Technology Venture Capital (Group) Co., Ltd.."
+
+#: ../../entities/stvc.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/stvc.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/stvc.rst:19
+msgid "Funding mechanism: Equity investment."
+msgstr "지원 메커니즘: 지분 투자."
+
+#: ../../entities/stvc.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/stvc.rst:24
+msgid "`Official website / intake route <https://www.shstvc.com.cn/en/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.shstvc.com.cn/en/>`_"
+
+#: ../../entities/stvc.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/stvc.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/stvc.rst:30
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/stvc.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/stvc.rst:35
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "펀드 운용사, 중점 투자 분야, 투자 단계 및 법인격의 적합성을 확인한다."
+
+#: ../../entities/stvc.rst:37
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "IR 피치덱, 주주명부(Cap table), 기술 입증 자료, 시장 지표(Traction) 및 자금 조달 계획을 제출한다."
+
+#: ../../entities/stvc.rst:39
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "사업, 재무, 기술 및 법률 실사를 완료한다."
+
+#: ../../entities/stvc.rst:41
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "텀시트(Term sheet), 투자심의위원회 부대조건 및 최종 투자 본계약서를 검토한다."
+
+#: ../../entities/stvc.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`전시 / 글로벌 경로 안내 </funding>`"

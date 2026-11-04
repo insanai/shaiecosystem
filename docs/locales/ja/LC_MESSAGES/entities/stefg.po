@@ -1,0 +1,115 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/stefg.rst:1
+msgid "STEFG Angel Fund"
+msgstr "上海市大学生科学技術創業基金会エンジェル基金（STEFG）"
+
+#: ../../entities/stefg.rst:4
+msgid "上海市大学生科技创业基金会天使基金"
+msgstr "上海市大学生科技创业基金会天使基金"
+
+#: ../../entities/stefg.rst:6
+msgid "Investor | Yangpu | Research checked 2026-11-04"
+msgstr "投資機関・投資家｜楊浦区｜調査確認日 2026-11-04"
+
+#: ../../entities/stefg.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Industry."
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI、産業・インダストリー。"
+
+#: ../../entities/stefg.rst:10
+msgid ""
+"The foundation offers distinct interest-free loan and temporary equity "
+"support routes for eligible Chinese university entrepreneurs. "
+"Nationality, age, ownership, full-time work and company age conditions "
+"apply."
+msgstr "要件を満たす中国籍の大学在学生・卒業生起業家に対し、無利子融資（雛鷹計画）および暫定株式保有（雄鷹計画）の2つの支援ルートを提供。国籍、年齢、持株比率、フルタイム起業、設立年数に関する厳格な条件が適用される。"
+
+#: ../../entities/stefg.rst:12
+msgid "`Evidence S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
+msgstr "`出典 S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
+
+#: ../../entities/stefg.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/stefg.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/stefg.rst:19
+msgid "Funding mechanism: Loan / temporary equity."
+msgstr "資金・支援スキーム：融資／一時的株式保有。"
+
+#: ../../entities/stefg.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/stefg.rst:24
+msgid ""
+"`Official website / intake route "
+"<https://fund.stefg.org/Angel/Intro.aspx>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://fund.stefg.org/Angel/Intro.aspx>`_"
+
+#: ../../entities/stefg.rst:26
+msgid "Telephone: +86 21 55231818."
+msgstr "電話：+86 21 55231818。"
+
+#: ../../entities/stefg.rst:28
+msgid "Published address: Room 108, Building 10, 8 Jinian Road, Yangpu."
+msgstr "公開所在地：楊浦区紀念路8号10号棟108室。"
+
+#: ../../entities/stefg.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/stefg.rst:32
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/stefg.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/stefg.rst:37
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "ファンド運用者、投資対象セクター、ステージ、および法人格の適格性を確認する。"
+
+#: ../../entities/stefg.rst:39
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "ピッチ資料、資本政策表（キャップテーブル）、技術的実証データ、事業進捗実績（トラクション）、および資金調達計画を提出する。"
+
+#: ../../entities/stefg.rst:41
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "ビジネス、財務、技術、および法務のデューデリジェンスを完了する。"
+
+#: ../../entities/stefg.rst:43
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "投資条件概要書（タームシート）、投資委員会の決議条件、および最終投資契約書を精査する。"
+
+#: ../../entities/stefg.rst:45
+msgid ":doc:`Yangpu district route </districts/yangpu>`"
+msgstr ":doc:`楊浦区の案内ルート </districts/yangpu>`"

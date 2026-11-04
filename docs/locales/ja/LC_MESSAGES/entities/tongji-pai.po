@@ -1,0 +1,121 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/tongji-pai.rst:1
+msgid "Tongji PAI Research Center"
+msgstr "同済大学PAI研究センター"
+
+#: ../../entities/tongji-pai.rst:4
+msgid "同济大学PAI研究中心"
+msgstr "同济大学PAI研究中心"
+
+#: ../../entities/tongji-pai.rst:6
+msgid "Research platform | Jiading | Research checked 2026-11-04"
+msgstr "研究プラットフォーム｜嘉定区｜調査確認日 2026-11-04"
+
+#: ../../entities/tongji-pai.rst:8
+msgid "AI and industry focus: Hardware AI, Sensors."
+msgstr "AIおよび産業フォーカス：ハードウェアAI、センサー。"
+
+#: ../../entities/tongji-pai.rst:10
+msgid ""
+"The center publishes an industry collaboration entry for localization, "
+"sensing, communication and trusted coordination. We use its cooperation "
+"contact rather than assuming access through general university admissions."
+msgstr "高精度測位、センシング、通信、トラステッド協調分野における産学連携窓口を設置している。大学の一般入学・教務窓口ではなく、公表されている産学連携チャネルを利用すること。"
+
+#: ../../entities/tongji-pai.rst:12
+msgid ""
+"`Evidence S033 <https://ai.tongji.edu.cn/contact.html>`_. 联系我们 | PAI "
+"Research Center."
+msgstr "`出典 S033 <https://ai.tongji.edu.cn/contact.html>`_. 联系我们 | PAI Research Center."
+
+#: ../../entities/tongji-pai.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/tongji-pai.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/tongji-pai.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/tongji-pai.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/tongji-pai.rst:24
+msgid ""
+"`Official website / intake route <https://ai.tongji.edu.cn/contact.html>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://ai.tongji.edu.cn/contact.html>`_"
+
+#: ../../entities/tongji-pai.rst:26
+msgid "`Email: lingtang@tongji.edu.cn <mailto:lingtang@tongji.edu.cn>`_"
+msgstr "`メール：lingtang@tongji.edu.cn <mailto:lingtang@tongji.edu.cn>`_"
+
+#: ../../entities/tongji-pai.rst:28
+msgid ""
+"Published address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan "
+"Highway."
+msgstr "公開所在地：嘉定区曹安公路4800号同済大学智信館。"
+
+#: ../../entities/tongji-pai.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/tongji-pai.rst:32
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/tongji-pai.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/tongji-pai.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "関連する研究グループを特定し、解決すべき学術的または産業的課題を明確にする。"
+
+#: ../../entities/tongji-pai.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "データ、設備、研究成果、必要予算、およびタイムラインを網羅した簡潔な共同研究提案書を送付する。"
+
+#: ../../entities/tongji-pai.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "連携スキーム、論文発表、知的財産の帰属、および所属機関の承認手続きについて合意する。"
+
+#: ../../entities/tongji-pai.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "研究業務を開始する前に、書面による施設利用許可またはプロジェクト承認を取得する。"
+
+#: ../../entities/tongji-pai.rst:45
+msgid ":doc:`Jiading district route </districts/jiading>`"
+msgstr ":doc:`嘉定区の案内ルート </districts/jiading>`"

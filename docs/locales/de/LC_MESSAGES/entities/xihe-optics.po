@@ -1,0 +1,118 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/xihe-optics.rst:1
+msgid "Xihe Optic Valley Optoelectronic Incubator"
+msgstr "Xihe Optic Valley Optoelektronik-Inkubator"
+
+#: ../../entities/xihe-optics.rst:4
+msgid "羲和光谷光电产业孵化器"
+msgstr "羲和光谷光电产业孵化器"
+
+#: ../../entities/xihe-optics.rst:6
+msgid "Incubator | Jiading | Research checked 2026-11-04"
+msgstr "Inkubator | Bezirk Jiading | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/xihe-optics.rst:8
+msgid "AI and industry focus: Hardware AI, Sensors, Chips."
+msgstr "KI- und Branchenfokus: Hardware-KI, Sensorik, Halbleiter & Chips."
+
+#: ../../entities/xihe-optics.rst:10
+msgid ""
+"An optoelectronic and photonics incubator launched in Jiading in November "
+"2025 to support scientist-founded teams in optical sensing, laser systems "
+"and AI hardware components. Confirm optical lab equipment, engineering "
+"support and commercial terms before admission."
+msgstr "Ein im November 2025 in Jiading eröffneter Inkubator für Optoelektronik und Photonik, der Ausgründungen aus der Wissenschaft in optischer Sensorik, Lasersystemen und KI-Hardwarebauteilen fördert. Prüfen Sie Reinraum- und Laborkapazitäten vor Ort."
+
+#: ../../entities/xihe-optics.rst:12
+msgid ""
+"`Evidence S055 "
+"<https://www.shanghai.gov.cn/nw15343/20251125/3491436d5f86491aaf71e4ad1e95b293.html>`_. "
+"一个“懂”科学家创业的孵化器！羲和光谷光电产业孵化器在嘉定启用."
+msgstr "`Nachweis S055 <https://www.shanghai.gov.cn/nw15343/20251125/3491436d5f86491aaf71e4ad1e95b293.html>`_. 一个“懂”科学家创业的孵化器！羲和光谷光电产业孵化器在嘉定启用."
+
+#: ../../entities/xihe-optics.rst:14
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/xihe-optics.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/xihe-optics.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/xihe-optics.rst:21
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/xihe-optics.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw15343/20251125/3491436d5f86491aaf71e4ad1e95b293.html>`_"
+msgstr "`Offizieller Nachweis und Behördenweg <https://www.shanghai.gov.cn/nw15343/20251125/3491436d5f86491aaf71e4ad1e95b293.html>`_"
+
+#: ../../entities/xihe-optics.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+
+#: ../../entities/xihe-optics.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/xihe-optics.rst:30
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/xihe-optics.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/xihe-optics.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "Prototyp, benötigte Ausrüstung, Fertigungsprozesse und Prüfanforderungen detailliert darlegen."
+
+#: ../../entities/xihe-optics.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "Eine technische Prüfung, Laborbesichtigung und ein aufgeschlüsseltes Angebot anfordern."
+
+#: ../../entities/xihe-optics.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "Zugangsregeln, Sicherheitsvorschriften, Eigentum an Proben und geistigem Eigentum, Prüfumfang und Abnahmekriterien vereinbaren."
+
+#: ../../entities/xihe-optics.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "Den Nutzungsvertrag für Testeinrichtungen strikt von Förder- oder Investitionsanträgen trennen."
+
+#: ../../entities/xihe-optics.rst:43
+msgid ":doc:`Jiading district route </districts/jiading>`"
+msgstr ":doc:`Bezirksroute Bezirk Jiading </districts/jiading>`"

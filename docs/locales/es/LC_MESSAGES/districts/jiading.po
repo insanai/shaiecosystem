@@ -1,0 +1,163 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/jiading.rst:1
+msgid "Jiading"
+msgstr "Distrito de Jiading"
+
+#: ../../districts/jiading.rst:4
+msgid "Automotive intelligence, sensors, MEMS and pilot production"
+msgstr "Inteligencia automotriz, sensores, sistemas MEMS y producción piloto"
+
+#: ../../districts/jiading.rst:6
+msgid ""
+"The municipal science commission documents the joint role of SITRI and "
+"InnoSpring in connecting research, pilot production and incubation. The "
+"2026 district service program provides policy interpretation and project "
+"coordination."
+msgstr "La comisión municipal de ciencia documenta el papel conjunto de SITRI e InnoSpring en la conexión entre investigación, producción piloto e incubación. El programa distrital de servicios de 2026 ofrece interpretación de políticas y coordinación de proyectos."
+
+#: ../../districts/jiading.rst:8
+msgid ""
+"`Evidence S006 "
+"<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "
+"市科委、嘉定区联合调研高质量孵化器建设工作."
+msgstr "`Evidencia S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."
+
+#: ../../districts/jiading.rst:10
+msgid "Who receives the inquiry"
+msgstr "Quién recibe la consulta"
+
+#: ../../districts/jiading.rst:13
+msgid "Jiading science and technology authority"
+msgstr "Autoridad de ciencia y tecnología de Jiading"
+
+#: ../../districts/jiading.rst:15
+msgid "`Official district website <https://www.jiading.gov.cn/>`_"
+msgstr "`Sitio web oficial del distrito <https://www.jiading.gov.cn/>`_"
+
+#: ../../districts/jiading.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "En este registro no consta un teléfono ni correo electrónico directo vigente para el programa. Utilice el sitio web oficial para solicitar los datos del equipo receptor responsable."
+
+#: ../../districts/jiading.rst:19
+msgid "Before applying"
+msgstr "Antes de presentar la solicitud"
+
+#: ../../districts/jiading.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../districts/jiading.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../districts/jiading.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../districts/jiading.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../districts/jiading.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../districts/jiading.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Consulte qué convocatoria vigente rige el proyecto, si tanto el domicilio social como las operaciones reales deben radicar en el distrito, qué período de gasto resulta elegible y si la obtención previa de ayudas municipales o distritales excluye una nueva solicitud. Obtenga respuesta antes de trasladar una empresa o incurrir en costes."
+
+#: ../../districts/jiading.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Organizaciones locales incluidas en este atlas"
+
+#: ../../districts/jiading.rst:37
+msgid ""
+":doc:`InnoSpring / SITRI incubation ecosystem </entities/innospring>` "
+"(新微创源／上海微技术工研院孵化生态 · Incubator · Hardware AI, Chips, Sensors) — The "
+"municipal science commission records joint work between InnoSpring and "
+"SITRI. This is a route for beyond-Moore technology, shared technical "
+"services and pilot production rather than a promise of free fabrication. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Ecosistema de incubación InnoSpring / SITRI </entities/innospring>` (新微创源／上海微技术工研院孵化生态 · Incubadora · IA de hardware, Chips y semiconductores, Sensores) — La comisión municipal de ciencia registra el trabajo conjunto entre InnoSpring y SITRI. Es una vía idónea para tecnologías más allá de la ley de Moore, servicios técnicos compartidos y producción piloto, pero no supone una promesa de fabricación gratuita de obleas. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/jiading.rst:38
+msgid ""
+":doc:`Tongji PAI Research Center </entities/tongji-pai>` (同济大学PAI研究中心 · "
+"Research platform · Hardware AI, Sensors) — The center publishes an "
+"industry collaboration entry for localization, sensing, communication and "
+"trusted coordination. We use its cooperation contact rather than assuming "
+"access through general university admissions. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Centro de Investigación PAI de la Universidad de Tongji </entities/tongji-pai>` (同济大学PAI研究中心 · Plataforma de investigación · IA de hardware, Sensores) — El centro publica una vía de colaboración industrial en localización, detección, comunicaciones y coordinación fiable. Utilizamos su canal de cooperación empresarial en lugar de asumir el acceso a través de la oficina general de admisiones universitarias. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/jiading.rst:39
+msgid ""
+":doc:`Xihe Optic Valley Optoelectronic Incubator </entities/xihe-optics>` "
+"(羲和光谷光电产业孵化器 · Incubator · Hardware AI, Sensors, Chips) — An "
+"optoelectronic and photonics incubator launched in Jiading in November "
+"2025 to support scientist-founded teams in optical sensing, laser systems "
+"and AI hardware components. Confirm optical lab equipment, engineering "
+"support and commercial terms before admission. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Incubadora Optoelectrónica Xihe Optic Valley </entities/xihe-optics>` (羲和光谷光电产业孵化器 · Incubadora · IA de hardware, Sensores, Chips y semiconductores) — Incubadora de optoelectrónica y fotónica inaugurada en Jiading en noviembre de 2025 para apoyar a equipos fundados por científicos en detección óptica, sistemas láser y componentes de hardware de IA. Confirme el equipamiento de laboratorio óptico, el soporte de ingeniería y las condiciones comerciales antes de la admisión. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/jiading.rst:40
+msgid ""
+":doc:`Shanghai Normal University Tianhua College "
+"</entities/university-tianhua>` (上海师范大学天华学院 · University) — Institutional "
+"entry in the June 2026 Ministry of Education register. Suggested "
+"collaboration themes: Applied education, engineering and digital "
+"business. These themes are editorial routing guidance, not a verified "
+"offer of laboratory access or startup funding. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Facultad Tianhua de la Universidad Normal de Shanghái </entities/university-tianhua>` (上海师范大学天华学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Educación aplicada, ingeniería y negocios digitales. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+
+#: ../../districts/jiading.rst:42
+msgid "Funding routes"
+msgstr "Vías de financiación"
+
+#: ../../districts/jiading.rst:45
+msgid ""
+":doc:`Jiading Future Industry Fund </funding/jiading-future-fund>` "
+"(嘉定未来产业基金 · Equity investment · Negotiated equity) — Announced fund scale "
+"RMB 800 million; individual investment not established. Status: Fund "
+"announced; deal intake to confirm. Timing: Manager-led sourcing; current "
+"deal intake to confirm."
+msgstr ":doc:`Fondo para Industrias del Futuro de Jiading </funding/jiading-future-fund>` (嘉定未来产业基金 · Inversión en capital (Equity) · Participación en capital negociada) — Escala anunciada del fondo de 800 millones de RMB; importe de inversión individual no preestablecido. Estado: Fondo anunciado; recepción de proyectos por confirmar. Plazo: Selección de proyectos liderada por la gestora; admisión actual pendiente de confirmar."
+
+#: ../../districts/jiading.rst:47
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Compare también las vías de financiación de ámbito municipal </funding>`"

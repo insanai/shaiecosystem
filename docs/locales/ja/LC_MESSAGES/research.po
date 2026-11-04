@@ -1,0 +1,120 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../research.rst:1
+msgid "Research and technical platforms"
+msgstr "研究・技術支援プラットフォーム"
+
+#: ../../research.rst:4
+msgid ""
+"8 profiles with evidence, contact routes and an application checklist. "
+"Published existence is distinguished from current intake."
+msgstr "出典、連絡ルート、申請チェックリスト付きの 8 件のプロファイル。機関の存在と現在の募集状況は区別して記載しています。"
+
+#: ../../research.rst:8
+msgid "Complete directory summary"
+msgstr "組織ディレクトリの完全サマリー"
+
+#: ../../research.rst:11
+msgid ""
+":doc:`Shanghai Integrated Circuit Technology and Industry Promotion "
+"Center <entities/icc>` (上海集成电路技术与产业促进中心 · Research platform · Pudong · "
+"Focus: Chips, Hardware AI) — An IC technical-service entry point that "
+"also publishes innovation-voucher guidance. Eligible voucher-covered "
+"services are selected on the official platform; a voucher is not a "
+"general equipment purchase budget. Tel: +86 21 61609878 ext. 217 | Email: "
+"fhan@icc.sh.cn. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海集積回路技術・産業促進センター（ICC） <entities/icc>` (上海集成电路技术与产业促进中心 · 研究プラットフォーム · 浦東新区 · 半導体・チップ、ハードウェアAI) — 集積回路（IC）分野の技術支援窓口であり、科学技術イノベーション券の利用指引も発行している。イノベーション券で相殺可能な対象サービスは公式プラットフォーム上で確認する必要があり、汎用設備購入の補助金ではない。 Tel: +86 21 61609878 ext. 217 | Email: fhan@icc.sh.cn. [公表済み組織（公募状況の確認要）]"
+
+#: ../../research.rst:12
+msgid ""
+":doc:`Shanghai Artificial Intelligence Laboratory <entities/shlab>` "
+"(上海人工智能实验室 · Research platform · Xuhui · Focus: Software AI, AI for "
+"Science) — A research institution for foundational and applied AI. Its "
+"published general contact supports initial routing; open-source "
+"resources, collaboration and recruitment are separate pathways, not a "
+"generic startup grant. Address: L1, International Media Port, 129 Longwen "
+"Road, Xuhui | Email: comm@pjlab.org.cn. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`上海人工知能実験室（Shanghai AI Lab） <entities/shlab>` (上海人工智能实验室 · 研究プラットフォーム · 徐匯区 · ソフトウェアAI、科学知能（AI for Science）) — 基礎研究および応用AI研究を担う国家級研究所。公表されている代表連絡先から初期照会が可能。オープンソース資源の利用、共同研究、人材採用はそれぞれ独立した窓口であり、一般的な起業補助金ではない。 徐匯区龍文路129号国際伝媒港L1階 | Email: comm@pjlab.org.cn. [公表済み組織（公募状況の確認要）]"
+
+#: ../../research.rst:13
+msgid ""
+":doc:`Tongji Autonomous Intelligent Unmanned Systems Center "
+"<entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Research platform · "
+"Pudong · Focus: Hardware AI, Mobility) — A research collaboration route "
+"for autonomous systems. The published office contact is in Zhangjiang. A "
+"technical proposal should identify the platform, experiment, data and "
+"proposed industrial partner. Address: 3F, Building 2, Tongji Zhangjiang "
+"Base, 398 Lianchuang Road | Email: srias@tongji.edu.cn. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`同済大学上海自律スマート無人システム科学センター <entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · 研究プラットフォーム · 浦東新区 · ハードウェアAI、モビリティ・交通) — 自律知能無人システムの共同研究連携窓口。公表オフィスは張江に所在する。技術提案を行う際は、検証プラットフォーム、実験内容、データセット、想定される産業側提携パートナーを明示すること。 浦東新区聯創路398号同済張江基地2号棟3階 | Email: srias@tongji.edu.cn. [公表済み組織（公募状況の確認要）]"
+
+#: ../../research.rst:14
+msgid ""
+":doc:`Tongji PAI Research Center <entities/tongji-pai>` (同济大学PAI研究中心 · "
+"Research platform · Jiading · Focus: Hardware AI, Sensors) — The center "
+"publishes an industry collaboration entry for localization, sensing, "
+"communication and trusted coordination. We use its cooperation contact "
+"rather than assuming access through general university admissions. "
+"Address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan Highway | "
+"Email: lingtang@tongji.edu.cn. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`同済大学PAI研究センター <entities/tongji-pai>` (同济大学PAI研究中心 · 研究プラットフォーム · 嘉定区 · ハードウェアAI、センサー) — 高精度測位、センシング、通信、トラステッド協調分野における産学連携窓口を設置している。大学の一般入学・教務窓口ではなく、公表されている産学連携チャネルを利用すること。 嘉定区曹安公路4800号同済大学智信館 | Email: lingtang@tongji.edu.cn. [公表済み組織（公募状況の確認要）]"
+
+#: ../../research.rst:15
+msgid ""
+":doc:`Shanghai Integrated Circuit R&D Center <entities/icrd>` (上海集成电路研发中心 "
+"· Research platform · Pudong · Focus: Chips, Hardware AI) — A shared "
+"integrated-circuit research and engineering platform in Zhangjiang "
+"supporting process development, device verification and IP testing. "
+"Request a technical scoping review and written quotation for wafer or "
+"testing runs. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海集積回路研究開発センター（ICRD） <entities/icrd>` (上海集成电路研发中心 · 研究プラットフォーム · 浦東新区 · 半導体・チップ、ハードウェアAI) — 張江に位置する集積回路の公共研究開発・エンジニアリングプラットフォーム。微細加工プロセス開発、デバイス検証、IP性能評価を支援。ウェハ試作や試験受託には、技術事前評価と書面見積の取得が必要。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../research.rst:16
+msgid ""
+":doc:`Shanghai Technology Innovation Center <entities/shtic>` (上海市科技创业中心 "
+"· Research platform · Xuhui · Focus: Software AI, Hardware AI, Industry) "
+"— The municipal science-and-technology entrepreneurship service "
+"institution coordinating Shanghai's high-quality incubator cultivation "
+"system, innovation vouchers, technology SME filings and the Startup in "
+"Shanghai portal. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海市科学技術創業センター（SHTIC） <entities/shtic>` (上海市科技创业中心 · 研究プラットフォーム · 徐匯区 · ソフトウェアAI、ハードウェアAI、産業・インダストリー) — 上海市級の科学技術起業サービス機関。上海市高品質インキュベーター育成体系、科学技術イノベーション券、テクノロジー型中小企業登録、および「創・在上海（Startup in Shanghai）」ポータルを一括統括する。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../research.rst:17
+msgid ""
+":doc:`Shanghai Tsinghua International Innovation Center "
+"<entities/tsinghua-shanghai>` (上海清华国际创新中心 · Research platform · Putuo · "
+"Focus: Software AI, Hardware AI, Chips) — A strategic research and "
+"technology-transfer platform in Putuo's \"One Axis, One Park, One "
+"Center\" layout, connecting university engineering laboratories with "
+"Yangtze River Delta industrial applications. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`上海清華国際イノベーションセンター <entities/tsinghua-shanghai>` (上海清华国际创新中心 · 研究プラットフォーム · 普陀区 · ソフトウェアAI、ハードウェアAI、半導体・チップ) — 普陀区の「一軸・一園・一中心」イノベーション構想における中核戦略拠点。清華大学等の理工系先端研究所と長江デルタ地域の産業実証・応用展開現場を直結する。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../research.rst:18
+msgid ""
+":doc:`Chongming Enterprise Technology Center & Eco-Innovation Route "
+"<entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Research platform · "
+"Chongming · Focus: Climate, Agriculture, Industry) — Coordinated by the "
+"Chongming Economic Commission (14th batch call issued in May 2026) "
+"alongside district science authorities to support enterprise R&D centers "
+"in ecological tech, green manufacturing and smart agriculture. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`崇明区企業技術センター＆生態科学イノベーションプラットフォーム <entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · 研究プラットフォーム · 崇明区 · 気候・環境、農業・アグリテック、産業・インダストリー) — 崇明区経済委員会（2026年5月に第14次公募発表）と区科委が連携推進する企業研究開発支援窓口。環境テクノロジー、グリーン製造、スマート農業分野の企業技術センター認定を対象とする。 [公表済み組織（公募状況の確認要）]"

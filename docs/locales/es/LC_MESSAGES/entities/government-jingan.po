@@ -1,0 +1,115 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/government-jingan.rst:1
+msgid "Jing'an science and economy authority"
+msgstr "Comisión de Ciencia y Economía de Jing'an"
+
+#: ../../entities/government-jingan.rst:4
+msgid "静安区科技和经济委员会"
+msgstr "静安区科技和经济委员会"
+
+#: ../../entities/government-jingan.rst:6
+msgid "Government | Jing'an | Research checked 2026-11-04"
+msgstr "Organismo gubernamental | Distrito de Jing'an | Investigación verificada el 2026-11-04"
+
+#: ../../entities/government-jingan.rst:8
+msgid ""
+"The 2026-2028 AI application demonstration plan focuses on industry "
+"integration and talent. Its stated objectives must be distinguished from "
+"implementing rules and currently accepting applications."
+msgstr "El plan de demostración de aplicaciones de IA 2026-2028 se centra en la integración industrial y el talento. Sus objetivos estratégicos deben distinguirse de las normas de ejecución y de las convocatorias con admisión actualmente abierta."
+
+#: ../../entities/government-jingan.rst:10
+msgid ""
+"`Evidence S053 "
+"<https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. "
+"静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+msgstr "`Evidencia S053 <https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. 静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+
+#: ../../entities/government-jingan.rst:12
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/government-jingan.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/government-jingan.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/government-jingan.rst:19
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/government-jingan.rst:22
+msgid "`Official website / intake route <https://www.jingan.gov.cn/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.jingan.gov.cn/>`_"
+
+#: ../../entities/government-jingan.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/government-jingan.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/government-jingan.rst:28
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/government-jingan.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/government-jingan.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../entities/government-jingan.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../entities/government-jingan.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../entities/government-jingan.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../entities/government-jingan.rst:41
+msgid ":doc:`Jing'an district route </districts/jingan>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Jing'an </districts/jingan>`"

@@ -1,0 +1,125 @@
+# zh_CN translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/hongkou-stec.rst:1
+msgid "Hongkou Science & Technology Entrepreneurship Center"
+msgstr "虹口区科技创业中心与博士后创新基地"
+
+#: ../../entities/hongkou-stec.rst:4
+msgid "虹口区科技创业中心与博士后创新基地"
+msgstr "虹口区科技创业中心与博士后创新基地"
+
+#: ../../entities/hongkou-stec.rst:6
+msgid "Incubator | Hongkou | Research checked 2026-11-04"
+msgstr "孵化器｜虹口区｜研究核对日期 2026-11-04"
+
+#: ../../entities/hongkou-stec.rst:8
+msgid "AI and industry focus: Software AI, Industry, Climate."
+msgstr "人工智能与产业方向：软件人工智能、产业、气候。"
+
+#: ../../entities/hongkou-stec.rst:10
+msgid ""
+"District public entrepreneurship center and postdoctoral innovation "
+"practice base route supporting tech SMEs, green-shipping digital tools "
+"and R&D talent settlement in Hongkou."
+msgstr "虹口区属公共科技创业中心及博士后创新实践基地对接路径，支持科技型中小企业、绿色航运数字化工具及研发人才落地。"
+
+#: ../../entities/hongkou-stec.rst:12
+msgid ""
+"`Evidence S068 "
+"<https://www.shhk.gov.cn/xwzx/002004/20220409/4cbd6213-60a2-4419-a24e-7a21cf8ade6b.html>`_. "
+"虹口区科技创业中心助力企业纾困解难-上海市虹口区人民政府."
+msgstr "`证据 S068 <https://www.shhk.gov.cn/xwzx/002004/20220409/4cbd6213-60a2-4419-a24e-7a21cf8ade6b.html>`_. 虹口区科技创业中心助力企业纾困解难-上海市虹口区人民政府."
+
+#: ../../entities/hongkou-stec.rst:14
+msgid ""
+"`Evidence S069 "
+"<https://www.shhk.gov.cn/qyfwy/030011/030011003/20260319/98919b72-539a-4a44-96eb-8b7bec25fa28.html>`_. "
+"2026年虹口区博士后创新实践基地项目启动申报！-上海虹口企业服务云."
+msgstr "`证据 S069 <https://www.shhk.gov.cn/qyfwy/030011/030011003/20260319/98919b72-539a-4a44-96eb-8b7bec25fa28.html>`_. 2026年虹口区博士后创新实践基地项目启动申报！-上海虹口企业服务云."
+
+#: ../../entities/hongkou-stec.rst:16
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/hongkou-stec.rst:19
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/hongkou-stec.rst:21
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/hongkou-stec.rst:23
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/hongkou-stec.rst:26
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shhk.gov.cn/xwzx/002004/20220409/4cbd6213-60a2-4419-a24e-7a21cf8ade6b.html>`_"
+msgstr "`官方来源与主管部门入口 <https://www.shhk.gov.cn/xwzx/002004/20220409/4cbd6213-60a2-4419-a24e-7a21cf8ade6b.html>`_"
+
+#: ../../entities/hongkou-stec.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/hongkou-stec.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/hongkou-stec.rst:32
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/hongkou-stec.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/hongkou-stec.rst:37
+msgid "Send a project brief and request the current admission checklist."
+msgstr "发送项目简介，索取现行入驻清单。"
+
+#: ../../entities/hongkou-stec.rst:39
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "完成运营方资格及技术或商业评审。"
+
+#: ../../entities/hongkou-stec.rst:41
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "书面确认租金、服务费、知识产权、算力价格及任何股权权利。"
+
+#: ../../entities/hongkou-stec.rst:43
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "签署入驻文件，记录里程碑与服务负责人。"
+
+#: ../../entities/hongkou-stec.rst:45
+msgid ":doc:`Hongkou district route </districts/hongkou>`"
+msgstr ":doc:`虹口区对接路径 </districts/hongkou>`"

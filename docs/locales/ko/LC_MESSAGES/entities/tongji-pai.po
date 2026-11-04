@@ -1,0 +1,121 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/tongji-pai.rst:1
+msgid "Tongji PAI Research Center"
+msgstr "퉁지대학교 PAI 연구센터"
+
+#: ../../entities/tongji-pai.rst:4
+msgid "同济大学PAI研究中心"
+msgstr "同济大学PAI研究中心"
+
+#: ../../entities/tongji-pai.rst:6
+msgid "Research platform | Jiading | Research checked 2026-11-04"
+msgstr "연구 플랫폼 | 자딩구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/tongji-pai.rst:8
+msgid "AI and industry focus: Hardware AI, Sensors."
+msgstr "AI 및 산업 분야: 하드웨어 AI, 센서."
+
+#: ../../entities/tongji-pai.rst:10
+msgid ""
+"The center publishes an industry collaboration entry for localization, "
+"sensing, communication and trusted coordination. We use its cooperation "
+"contact rather than assuming access through general university admissions."
+msgstr "정밀 측위, 환경 감지, 통신, 신뢰 컴퓨팅 분야의 산학 협력 채널을 공식 운영합니다. 일반 입학 전형 창구가 아닌 연구 협력 전담 부서를 통해 소통해야 합니다."
+
+#: ../../entities/tongji-pai.rst:12
+msgid ""
+"`Evidence S033 <https://ai.tongji.edu.cn/contact.html>`_. 联系我们 | PAI "
+"Research Center."
+msgstr "`근거 S033 <https://ai.tongji.edu.cn/contact.html>`_. 联系我们 | PAI Research Center."
+
+#: ../../entities/tongji-pai.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/tongji-pai.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/tongji-pai.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/tongji-pai.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/tongji-pai.rst:24
+msgid ""
+"`Official website / intake route <https://ai.tongji.edu.cn/contact.html>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://ai.tongji.edu.cn/contact.html>`_"
+
+#: ../../entities/tongji-pai.rst:26
+msgid "`Email: lingtang@tongji.edu.cn <mailto:lingtang@tongji.edu.cn>`_"
+msgstr "`이메일: lingtang@tongji.edu.cn <mailto:lingtang@tongji.edu.cn>`_"
+
+#: ../../entities/tongji-pai.rst:28
+msgid ""
+"Published address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan "
+"Highway."
+msgstr "공개 주소: 자딩구 차오안궁루 4800호 퉁지대학교 즈신관."
+
+#: ../../entities/tongji-pai.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/tongji-pai.rst:32
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/tongji-pai.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/tongji-pai.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "연관 연구진을 발굴하고 해결하고자 하는 과학적 또는 산업적 과제를 명확히 제시한다."
+
+#: ../../entities/tongji-pai.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "필요 데이터, 연구 장비, 기대 성과, 소요 예산, 추진 일정을 담은 간결한 연구 제안서를 송부한다."
+
+#: ../../entities/tongji-pai.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "산학협력 추진 방식, 논문 발표 범위, 지식재산권(IP) 귀속 및 기관 차원의 공식 승인 조건을 합의한다."
+
+#: ../../entities/tongji-pai.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "연구에 착수하기 전 서면 입주 허가서 또는 공식 프로젝트 승인 문서를 확보한다."
+
+#: ../../entities/tongji-pai.rst:45
+msgid ":doc:`Jiading district route </districts/jiading>`"
+msgstr ":doc:`자딩구 경로 안내 </districts/jiading>`"

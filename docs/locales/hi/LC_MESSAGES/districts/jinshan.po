@@ -1,0 +1,152 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/jinshan.rst:1
+msgid "Jinshan"
+msgstr "जिनशान (Jinshan)"
+
+#: ../../districts/jinshan.rst:4
+msgid "Drones, new materials and low-altitude systems"
+msgstr "ड्रोन, नई सामग्री और कम-ऊंचाई (low-altitude) वाली प्रणालियां"
+
+#: ../../districts/jinshan.rst:6
+msgid ""
+"The 2025-2026 park plan names Jinshan New Materials Incubator, East China "
+"UAV Base and Bay Area incubation carriers. It connects testing and "
+"industrialization, subject to park admission and the applicable aviation "
+"permissions."
+msgstr "2025-2026 पार्क योजना में जिनशान न्यू मटेरियल्स इनक्यूबेटर, ईस्ट चाइना UAV बेस और बे एरिया इनक्यूबेशन कैरियर्स के नाम शामिल हैं। यह पार्क प्रवेश और लागू विमानन अनुमतियों के अधीन, परीक्षण और औद्योगीकरण को जोड़ता है।"
+
+#: ../../districts/jinshan.rst:8
+msgid ""
+"`Evidence S023 "
+"<https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. "
+"金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+msgstr "`साक्ष्य S023 <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. 金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+
+#: ../../districts/jinshan.rst:10
+msgid "Who receives the inquiry"
+msgstr "पूछताछ कौन प्राप्त करता है"
+
+#: ../../districts/jinshan.rst:13
+msgid "Jinshan science and technology authority"
+msgstr "जिनशान विज्ञान और प्रौद्योगिकी प्राधिकरण"
+
+#: ../../districts/jinshan.rst:15
+msgid "`Official district website <https://www.jinshan.gov.cn/>`_"
+msgstr "`आधिकारिक जिला वेबसाइट <https://www.jinshan.gov.cn/>`_"
+
+#: ../../districts/jinshan.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "इस रिकॉर्ड में वर्तमान सीधा कार्यक्रम फोन या ईमेल स्थापित नहीं है। नामित प्राप्तकर्ता टीम का अनुरोध करने के लिए आधिकारिक वेबसाइट का उपयोग करें।"
+
+#: ../../districts/jinshan.rst:19
+msgid "Before applying"
+msgstr "आवेदन करने से पहले"
+
+#: ../../districts/jinshan.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../districts/jinshan.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../districts/jinshan.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../districts/jinshan.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../districts/jinshan.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../districts/jinshan.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "पूछें कि कौन सी वर्तमान सूचना परियोजना को नियंत्रित करती है, क्या पंजीकरण और वास्तविक संचालन दोनों जिले में होने चाहिए, कौन सी व्यय अवधि पात्र है, और क्या पिछले नगर निगम या जिला पुरस्कार किसी दावे को बाहर करते हैं। कंपनी को स्थानांतरित करने या लागत उठाने से पहले उत्तर प्राप्त करें।"
+
+#: ../../districts/jinshan.rst:34
+msgid "Local organizations in this atlas"
+msgstr "इस एटलस में स्थानीय संगठन"
+
+#: ../../districts/jinshan.rst:37
+msgid ""
+":doc:`East China UAV Base </entities/uav-base>` (华东无人机基地 · Technology "
+"park · Hardware AI, Drones) — The Jinshan park plan includes test-flight "
+"services and a low-altitude incubation platform. Airspace, testing and "
+"airworthiness services require separate confirmation from physical "
+"workspace. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`ईस्ट चाइना UAV बेस (East China UAV Base) </entities/uav-base>` (华东无人机基地 · प्रौद्योगिकी पार्क · हार्डवेयर AI, ड्रोन) — जिनशान पार्क योजना में परीक्षण-उड़ान सेवाएं और कम-ऊंचाई वाला इनक्यूबेशन प्लेटफॉर्म शामिल है। हवाई क्षेत्र, परीक्षण और उड़ान योग्यता (airworthiness) सेवाओं के लिए भौतिक कार्यस्थल से अलग पुष्टि की आवश्यकता होती है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/jinshan.rst:38
+msgid ""
+":doc:`Jinshan New Materials Incubator </entities/jinshan-materials>` "
+"(金山新材料孵化器 · Incubator · Materials, Hardware AI) — A materials incubation "
+"route linked to Carbon Valley Green Bay. Relevant to sensors, electronic "
+"materials and manufacturing inputs; specify process equipment and "
+"environmental constraints in the inquiry. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`जिनशान न्यू मटेरियल्स इनक्यूबेटर (Jinshan New Materials Incubator) </entities/jinshan-materials>` (金山新材料孵化器 · इनक्यूबेटर · सामग्री (Materials), हार्डवेयर AI) — कार्बन वैली ग्रीन बे से जुड़ा एक सामग्री इनक्यूबेशन मार्ग। सेंसर, इलेक्ट्रॉनिक सामग्री और विनिर्माण इनपुट के लिए प्रासंगिक; पूछताछ में प्रोसेस उपकरण और पर्यावरणीय बाधाओं को निर्दिष्ट करें। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/jinshan.rst:39
+msgid ""
+":doc:`Shanghai Zhongqiao Vocational and Technical University "
+"</entities/university-zhongqiao>` (上海中侨职业技术大学 · University) — "
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Vocational undergraduate engineering and "
+"applied skills. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई झोंगकियाओ वोकेशनल एंड टेक्निकल यूनिवर्सिटी (Zhongqiao University) </entities/university-zhongqiao>` (上海中侨职业技术大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: व्यावसायिक स्नातक इंजीनियरिंग और अनुप्रयुक्त कौशल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/jinshan.rst:41
+msgid "Funding routes"
+msgstr "फंडिंग मार्ग"
+
+#: ../../districts/jinshan.rst:44
+msgid ""
+":doc:`Zhangjiang Jinshan Park low-altitude UAV and new materials support "
+"</funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Grant / reimbursement "
+"· No equity) — Policy-specific R&D, carrier incubation, testing-service "
+"and industrialization support under the 2025-2026 park action plan. "
+"Status: Policy in force; call not confirmed open. Timing: Policy: 2025 to "
+"2026 action plan; confirm current implementing batch."
+msgstr ":doc:`झांगजियांग जिनशान पार्क लो-एल्टीट्यूड UAV और नई सामग्री सहायता </funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · अनुदान / प्रतिपूर्ति · कोई इक्विटी नहीं) — 2025-2026 पार्क कार्य योजना के तहत नीति-विशिष्ट R&D, कैरियर इनक्यूबेशन, परीक्षण-सेवा और औद्योगीकरण सहायता। स्थिति: नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं। समय-सीमा: नीति: 2025 से 2026 कार्य योजना; वर्तमान कार्यान्वयन बैच की पुष्टि करें।"
+
+#: ../../districts/jinshan.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`शहरव्यापी फंडिंग की भी तुलना करें </funding>`"

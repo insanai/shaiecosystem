@@ -1,0 +1,109 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/aws-credit.rst:1
+msgid "AWS China Activate credits"
+msgstr "AWS 차이나 액티베이트 크레딧"
+
+#: ../../funding/aws-credit.rst:4
+msgid "Cloud credits | Citywide / global"
+msgstr "클라우드 크레딧 | 전시 / 글로벌"
+
+#: ../../funding/aws-credit.rst:6
+msgid "Regional eligibility to confirm"
+msgstr "해당 지역 자격 요건 확인 필요"
+
+#: ../../funding/aws-credit.rst:8
+msgid ""
+"`Evidence S042 <https://www.amazonaws.cn/en/activate/>`_. Amazon Web "
+"Services Activate-Amazon Web Services China Region."
+msgstr "`근거 S042 <https://www.amazonaws.cn/en/activate/>`_. Amazon Web Services Activate-Amazon Web Services China Region."
+
+#: ../../funding/aws-credit.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/aws-credit.rst:13
+msgid "Package-specific promotional credits for eligible China services"
+msgstr "파트너 연계 등급에 따라 지정된 규모의 AWS 차이나 클라우드 서비스 크레딧 차등 지급"
+
+#: ../../funding/aws-credit.rst:15
+msgid "No equity stated in offer; verify terms"
+msgstr "제안상 지분 요구 없음; 세부 조건 확인 필요"
+
+#: ../../funding/aws-credit.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/aws-credit.rst:20
+msgid ""
+"China-established unlisted startup and qualifying new-customer / "
+"participating partner relationship. Do not substitute global AWS account "
+"rules or credit ceilings."
+msgstr "Sinnet(베이징) 또는 NWCD(닝샤)에서 운영하는 AWS 중국 리전 계정을 보유한 적격 스타트업. 공인 벤처캐피털 또는 인큐베이터 파트너 제휴 필요."
+
+#: ../../funding/aws-credit.rst:22
+msgid "Confirm current package and expiration"
+msgstr "파트너 채널을 통한 상시 온라인 접수"
+
+#: ../../funding/aws-credit.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/aws-credit.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.amazonaws.cn/en/activate/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://www.amazonaws.cn/en/activate/>`_"
+
+#: ../../funding/aws-credit.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/aws-credit.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/aws-credit.rst:33
+msgid ""
+"Check incorporation, company age, account region and existing benefits."
+msgstr "법인 설립 여부, 업력, 계정 등록 지역 및 기존 혜택 수혜 이력을 점검한다."
+
+#: ../../funding/aws-credit.rst:35
+msgid "Apply through the official program form or qualifying partner route."
+msgstr "공식 프로그램 신청 양식 또는 인증 파트너 추천 경로를 통해 신청한다."
+
+#: ../../funding/aws-credit.rst:37
+msgid ""
+"Confirm covered services, expiry, fees, usage limits and overage billing."
+msgstr "지원 대상 서비스 항목, 만료일, 서비스 요금, 사용량 한도 및 초과 사용 과금 기준을 확인한다."
+
+#: ../../funding/aws-credit.rst:39
+msgid "Keep usage records and do not describe credits as unrestricted cash."
+msgstr "사용 로그를 철저히 기록하며, 바우처성 크레딧을 무제한 현금성 자산으로 오인하지 않는다."
+
+#: ../../funding/aws-credit.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

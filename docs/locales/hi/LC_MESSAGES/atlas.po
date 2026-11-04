@@ -1,0 +1,40 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../atlas.rst:1
+msgid "Explore the Shanghai ecosystem"
+msgstr "शंघाई इकोसिस्टम का अन्वेषण करें"
+
+#: ../../atlas.rst:4
+msgid ""
+"Select a district, search a Chinese or English organization name, and "
+"filter by organization type or funding mechanism. Each result opens a "
+"sourced profile with contact and application steps."
+msgstr "एक जिला चुनें, चीनी या अंग्रेजी संगठन का नाम खोजें, और संगठन के प्रकार या फंडिंग तंत्र के अनुसार फ़िल्टर करें। प्रत्येक परिणाम संपर्क और आवेदन चरणों के साथ एक स्रोत-आधारित प्रोफाइल खोलता है।"
+
+#: ../../atlas.rst:13
+msgid ""
+":doc:`Browse all district chapters <districts>` | :doc:`Browse funding "
+"<funding>`"
+msgstr ":doc:`सभी जिला अध्याय ब्राउज़ करें <districts>` | :doc:`फंडिंग ब्राउज़ करें <funding>`"
+
+#: ../../atlas.rst:17
+msgid ""
+"The website provides the interactive map. The printed district map and "
+"the directory chapters provide the same routes without requiring a device."
+msgstr "वेबसाइट इंटरैक्टिव मानचित्र प्रदान करती है। मुद्रित जिला मानचित्र और निर्देशिका अध्याय बिना किसी उपकरण की आवश्यकता के समान मार्ग प्रदान करते हैं।"

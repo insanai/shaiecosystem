@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -34,9 +34,9 @@ msgstr "G60科创走廊发布创新与资源对接举措。九城市合作范围
 
 #: ../../districts/songjiang.rst:8
 msgid ""
-"`Evidence S069 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`证据 S069 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`证据 S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../districts/songjiang.rst:10
 msgid "Who receives the inquiry"
@@ -104,49 +104,143 @@ msgstr "本图谱中的本区机构"
 
 #: ../../districts/songjiang.rst:37
 msgid ""
-":doc:`G60 Songjiang Xinchuang Industrial Park </entities/g60-xinchuang>`"
-msgstr ":doc:`G60松江信创产业园 </entities/g60-xinchuang>`"
+":doc:`G60 Songjiang Xinchuang Industrial Park </entities/g60-xinchuang>` "
+"(G60松江信创产业园 · Technology park · Software AI, Chips) — An officially "
+"profiled industrial park for domestic information-technology innovation. "
+"For an AI infrastructure team, establish compatibility requirements, lab "
+"access and real customer demand before choosing space. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`G60松江信创产业园 </entities/g60-xinchuang>` （G60松江信创产业园 · 科技园区 · 软件人工智能、芯片）—— 官方介绍的信创产业园。人工智能基础设施团队宜先明确兼容适配要求、实验室使用与实际客户需求，再决定办公空间。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/songjiang.rst:38
-msgid ":doc:`Donghua University </entities/university-donghua>`"
-msgstr ":doc:`东华大学 </entities/university-donghua>`"
+msgid ""
+":doc:`Songjiang University Town Sci-Tech Source "
+"</entities/songjiang-uni-source>` (松江大学城科创源 · Incubator · Software AI, "
+"Hardware AI, Materials) — A Songjiang district initiative backed by a "
+"September 2026 special-fund notice to link the seven universities in "
+"Songjiang University Town with technology-transfer platforms and "
+"incubation operators. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`松江大学城科创源 </entities/songjiang-uni-source>` （松江大学城科创源 · 孵化器 · 软件人工智能、硬件人工智能、材料）—— 松江区2026年9月专项资金通知支持的产学研转化载体，连接松江大学城高校与科技成果转化平台及双创空间运营方。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/songjiang.rst:39
 msgid ""
-":doc:`Shanghai University of International Business and Economics "
-"</entities/university-suibe>`"
-msgstr ":doc:`上海对外经贸大学 </entities/university-suibe>`"
+":doc:`Donghua University </entities/university-donghua>` (东华大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Advanced fibers, materials, "
+"design, smart textiles. These themes are editorial routing guidance, not "
+"a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`东华大学 </entities/university-donghua>` （东华大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：先进纤维、材料、设计、智能纺织。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/songjiang.rst:40
 msgid ""
-":doc:`East China University of Political Science and Law "
-"</entities/university-ecupl>`"
-msgstr ":doc:`华东政法大学 </entities/university-ecupl>`"
+":doc:`Shanghai University of International Business and Economics "
+"</entities/university-suibe>` (上海对外经贸大学 · University) — Institutional "
+"entry in the June 2026 Ministry of Education register. Suggested "
+"collaboration themes: Trade, commerce, cross-border business. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海对外经贸大学 </entities/university-suibe>` （上海对外经贸大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：贸易、商业、跨境业务。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/songjiang.rst:41
 msgid ""
-":doc:`Shanghai University of Engineering Science "
-"</entities/university-sues>`"
-msgstr ":doc:`上海工程技术大学 </entities/university-sues>`"
+":doc:`East China University of Political Science and Law "
+"</entities/university-ecupl>` (华东政法大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: IP, data governance, legal technology. These themes are editorial "
+"routing guidance, not a verified offer of laboratory access or startup "
+"funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`华东政法大学 </entities/university-ecupl>` （华东政法大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：知识产权、数据治理、法律科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/songjiang.rst:42
-msgid ":doc:`Shanghai Lida University </entities/university-lida>`"
-msgstr ":doc:`上海立达学院 </entities/university-lida>`"
+msgid ""
+":doc:`Shanghai University of Engineering Science "
+"</entities/university-sues>` (上海工程技术大学 · University) — Institutional "
+"entry in the June 2026 Ministry of Education register. Suggested "
+"collaboration themes: Engineering, mobility, manufacturing, design. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海工程技术大学 </entities/university-sues>` （上海工程技术大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：工程、交通、制造、设计。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/songjiang.rst:43
-msgid ":doc:`Shanghai Institute of Visual Arts </entities/university-siva>`"
-msgstr ":doc:`上海视觉艺术学院 </entities/university-siva>`"
+msgid ""
+":doc:`Shanghai Lida University </entities/university-lida>` (上海立达学院 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Applied business, design and "
+"creative technology. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海立达学院 </entities/university-lida>` （上海立达学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：应用商业、设计与创意科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
-#: ../../districts/songjiang.rst:45
+#: ../../districts/songjiang.rst:44
+msgid ""
+":doc:`Shanghai Institute of Visual Arts </entities/university-siva>` "
+"(上海视觉艺术学院 · University) — Institutional entry in the June 2026 Ministry "
+"of Education register. Suggested collaboration themes: Design, digital "
+"content and creative technology. These themes are editorial routing "
+"guidance, not a verified offer of laboratory access or startup funding. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海视觉艺术学院 </entities/university-siva>` （上海视觉艺术学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：设计、数字内容与创意科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+
+#: ../../districts/songjiang.rst:46
 msgid "Funding routes"
 msgstr "资金路径"
 
-#: ../../districts/songjiang.rst:48
+#: ../../districts/songjiang.rst:49
 msgid ""
 ":doc:`Songjiang technology-enterprise innovation and matching support "
-"</funding/songjiang-innovation>`"
-msgstr ":doc:`松江科技企业创新与配套支持 </funding/songjiang-innovation>`"
+"</funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Grant · No equity) — "
+"District innovation project up to RMB 100,000; approved municipal "
+"innovation projects matched 1:1 under the policy. Status: Policy in "
+"force; call not confirmed open. Timing: Policy: 1 January 2026 to 31 "
+"December 2027; confirm the applicable call."
+msgstr ":doc:`松江科技企业创新与配套支持 </funding/songjiang-innovation>` （松江科技企业创新与配套支持 · 补助 · 不占股）—— 区级创新资金每项最高10万元，市级创新资金立项按政策1:1配套。状态：政策有效，未确认正在申报。时间：政策有效期2026年1月1日至2027年12月31日，须核验相应申报。"
 
 #: ../../districts/songjiang.rst:50
+msgid ""
+":doc:`Songjiang Data Elements Special Fund, second 2026 batch "
+"</funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · Grant / "
+"reimbursement · No equity) — Project-specific support under the district "
+"data-elements special fund rules. Status: 2026 call published; deadline "
+"check required. Timing: Second 2026 batch notice issued August 2026; "
+"confirm current acceptance status."
+msgstr ":doc:`2026松江区数据要素专项资金第二批 </funding/songjiang-data-2026>` （2026松江区数据要素专项资金第二批 · 补助与报销 · 不占股）—— 依松江区数据要素专项资金管理办法按核定项目给予资助。状态：2026通知已公布，须核验截止日。时间：2026年第二批通知于8月发布，须核验当前受理状态。"
+
+#: ../../districts/songjiang.rst:52
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ""
+#~ ":doc:`G60 Songjiang Xinchuang Industrial Park "
+#~ "</entities/g60-xinchuang>`"
+#~ msgstr ":doc:`G60松江信创产业园 </entities/g60-xinchuang>`"
+
+#~ msgid ":doc:`Donghua University </entities/university-donghua>`"
+#~ msgstr ":doc:`东华大学 </entities/university-donghua>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai University of International Business and Economics "
+#~ "</entities/university-suibe>`"
+#~ msgstr ":doc:`上海对外经贸大学 </entities/university-suibe>`"
+
+#~ msgid ""
+#~ ":doc:`East China University of Political Science and Law "
+#~ "</entities/university-ecupl>`"
+#~ msgstr ":doc:`华东政法大学 </entities/university-ecupl>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai University of Engineering Science "
+#~ "</entities/university-sues>`"
+#~ msgstr ":doc:`上海工程技术大学 </entities/university-sues>`"
+
+#~ msgid ":doc:`Shanghai Lida University </entities/university-lida>`"
+#~ msgstr ":doc:`上海立达学院 </entities/university-lida>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai Institute of Visual Arts </entities/university-siva>`"
+#~ msgstr ":doc:`上海视觉艺术学院 </entities/university-siva>`"
+
+#~ msgid ""
+#~ ":doc:`Songjiang technology-enterprise innovation and matching support "
+#~ "</funding/songjiang-innovation>`"
+#~ msgstr ":doc:`松江科技企业创新与配套支持 </funding/songjiang-innovation>`"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -33,10 +33,10 @@ msgstr "2026年人工智能应用项目申报已于2026年8月31日截止。该�
 
 #: ../../districts/pudong.rst:8
 msgid ""
-"`Evidence S063 "
+"`Evidence S089 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
 "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
-msgstr "`证据 S063 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`证据 S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 
 #: ../../districts/pudong.rst:10
 msgid "Who receives the inquiry"
@@ -101,183 +101,554 @@ msgid "Local organizations in this atlas"
 msgstr "本图谱中的本区机构"
 
 #: ../../districts/pudong.rst:37
-msgid ":doc:`Zhangjiang Model Community </entities/model-community>`"
-msgstr ":doc:`张江模力社区 </entities/model-community>`"
+msgid ""
+":doc:`Zhangjiang Model Community </entities/model-community>` (张江模力社区 · "
+"Incubator · Software AI, Hardware AI) — A Zhangjiang AI community "
+"identified in the municipal AI implementation plan. It links model "
+"developers and industry users. Ask the operator for the specific model, "
+"data and compute package and its reimbursement rules. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`张江模力社区 </entities/model-community>` （张江模力社区 · 孵化器 · 软件人工智能、硬件人工智能）—— 市级人工智能实施方案明确的张江人工智能社区，连接模型研发方与行业用户。应向运营方确认模型、语料及算力支持包和报销规则。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:38
-msgid ":doc:`Zhangjiang Hi-Tech 895 Incubator </entities/895>`"
-msgstr ":doc:`张江高科895孵化器 </entities/895>`"
+msgid ""
+":doc:`Zhangjiang Hi-Tech 895 Incubator </entities/895>` (张江高科895孵化器 · "
+"Incubator · Hardware AI, Chips) — A deep-technology incubator with "
+"chip-testing and industrialization context in Zhangjiang. Incubation and "
+"the associated angel investment pathway must be reviewed as different "
+"agreements. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`张江高科895孵化器 </entities/895>` （张江高科895孵化器 · 孵化器 · 硬件人工智能、芯片）—— 位于张江的硬科技孵化载体，具备芯片测试及产业化生态。孵化与相关天使投资须作为不同协议审核。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:39
-msgid ":doc:`ATLATL Zhangjiang Center </entities/atlatl>`"
-msgstr ":doc:`ATLATL飞镖张江中心 </entities/atlatl>`"
+msgid ""
+":doc:`ATLATL Zhangjiang Center </entities/atlatl>` (ATLATL飞镖张江中心 · "
+"Incubator · Health, AI for Science) — A shared research and incubation "
+"environment in Zhangjiang Pharma Valley. Laboratory services and its "
+"innovation seed-fund relationships are relevant to AI-enabled biology; "
+"access and investment are negotiated separately. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`ATLATL飞镖张江中心 </entities/atlatl>` （ATLATL飞镖张江中心 · 孵化器 · 健康、科学智能）—— 张江药谷的共享研发与孵化环境。实验室服务及创新种子基金关系适合人工智能生物研究；使用服务与投资须分别协商。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:40
-msgid ":doc:`Nest.Bio Shanghai Innovation Platform </entities/nestbio>`"
-msgstr ":doc:`巢生上海创新孵化平台 </entities/nestbio>`"
+msgid ""
+":doc:`Nest.Bio Shanghai Innovation Platform </entities/nestbio>` "
+"(巢生上海创新孵化平台 · Incubator · Health, AI for Science) — Recognized in the "
+"December 2025 high-quality incubation expansion, with synthetic biology "
+"and cell and gene therapy interests. Confirm current Shanghai facilities, "
+"admission and laboratory pricing with the operator. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`巢生上海创新孵化平台 </entities/nestbio>` （巢生上海创新孵化平台 · 孵化器 · 健康、科学智能）—— 2025年12月高质量孵化器扩围名单中的平台，关注合成生物及细胞与基因治疗。应向运营方确认上海设施、入驻与实验室收费。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:41
-msgid ":doc:`XNode </entities/xnode>`"
-msgstr ":doc:`创极无限XNode </entities/xnode>`"
+msgid ""
+":doc:`XNode </entities/xnode>` (创极无限XNode · Accelerator · Software AI, "
+"Industry) — A cross-border innovation operator supporting market entry, "
+"corporate partnerships and pilots. Its Shanghai office is a useful intake "
+"route for international teams. Scope, fees, deliverables and investment "
+"should be stated separately. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`创极无限XNode </entities/xnode>` （创极无限XNode · 加速器 · 软件人工智能、产业）—— 提供跨境市场进入、企业合作与试点服务的创新运营机构。上海办公室可作为国际团队对接入口；须分别明确服务范围、费用、交付及投资。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:42
-msgid ":doc:`Plug and Play China, Shanghai </entities/plugplay>`"
-msgstr ":doc:`璞跃中国上海中心 </entities/plugplay>`"
+msgid ""
+":doc:`Plug and Play China, Shanghai </entities/plugplay>` (璞跃中国上海中心 · "
+"Accelerator · Software AI, Hardware AI, Mobility) — The operator lists "
+"its Yangtze River Delta innovation center at Zhangjiang Guochuang Center. "
+"Corporate innovation, office space and venture investment have different "
+"admission and commercial terms. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`璞跃中国上海中心 </entities/plugplay>` （璞跃中国上海中心 · 加速器 · 软件人工智能、硬件人工智能、交通）—— 运营方公布长三角区域创新中心位于张江国创中心。企业创新、办公空间及风险投资的准入与商业条款不同。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:43
-msgid ":doc:`PwC x Zhangjiang Healthcare Accelerator </entities/pwc>`"
-msgstr ":doc:`普华永道张江数字医疗加速营 </entities/pwc>`"
+msgid ""
+":doc:`PwC x Zhangjiang Healthcare Accelerator </entities/pwc>` "
+"(普华永道张江数字医疗加速营 · Accelerator · Health, Software AI) — PwC describes a "
+"digital healthcare acceleration initiative supported by Pudong and "
+"Zhangjiang. The evidence establishes the initiative; a currently "
+"accepting cohort and its commercial terms require confirmation. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`普华永道张江数字医疗加速营 </entities/pwc>` （普华永道张江数字医疗加速营 · 加速器 · 健康、软件人工智能）—— 普华永道介绍了浦东及张江支持的数字医疗加速项目。来源证实项目存在，当前是否招募及商业条款仍需确认。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:44
-msgid ":doc:`Lin-gang Science and Innovation City </entities/lin-gang>`"
-msgstr ":doc:`临港科创城 </entities/lin-gang>`"
+msgid ""
+":doc:`Lin-gang Science and Innovation City </entities/lin-gang>` (临港科创城 · "
+"Technology park · Hardware AI, Chips, Software AI) — The January 2026 "
+"plan identifies Dishui Lake AI and IC innovation ports and staged "
+"development targets. Lin-gang is a functional area, not Shanghai's "
+"seventeenth district. Establish the administering boundary before seeking "
+"incentives. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`临港科创城 </entities/lin-gang>` （临港科创城 · 科技园区 · 硬件人工智能、芯片、软件人工智能）—— 2026年1月方案明确滴水湖AI及IC创新港与分阶段发展目标。临港为功能区，并非上海第十七个区；申请支持前应确认实际管理范围。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:45
-msgid ":doc:`Shanghai IC Design Industrial Park </entities/ic-design>`"
-msgstr ":doc:`上海集成电路设计产业园 </entities/ic-design>`"
+msgid ""
+":doc:`Shanghai IC Design Industrial Park </entities/ic-design>` "
+"(上海集成电路设计产业园 · Technology park · Chips, Hardware AI) — A Zhangjiang chip "
+"design ecosystem connecting design and industrial services. A strong "
+"starting point for AI chip teams, with specific EDA, IP, tape-out, "
+"packaging and testing access negotiated with providers. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海集成电路设计产业园 </entities/ic-design>` （上海集成电路设计产业园 · 科技园区 · 芯片、硬件人工智能）—— 张江芯片设计产业生态，连接设计及产业服务。适合人工智能芯片团队；EDA、IP、流片、封装及测试须与供应商逐项确认。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:46
 msgid ""
 ":doc:`Shanghai Integrated Circuit Technology and Industry Promotion "
-"Center </entities/icc>`"
-msgstr ":doc:`上海集成电路技术与产业促进中心 </entities/icc>`"
+"Center </entities/icc>` (上海集成电路技术与产业促进中心 · Research platform · Chips, "
+"Hardware AI) — An IC technical-service entry point that also publishes "
+"innovation-voucher guidance. Eligible voucher-covered services are "
+"selected on the official platform; a voucher is not a general equipment "
+"purchase budget. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海集成电路技术与产业促进中心 </entities/icc>` （上海集成电路技术与产业促进中心 · 科研平台 · 芯片、硬件人工智能）—— 集成电路技术服务入口，同时公布创新券指引。可抵扣服务应在官方平台核验，创新券并非通用设备采购预算。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:47
 msgid ""
 ":doc:`Tongji Autonomous Intelligent Unmanned Systems Center "
-"</entities/tongji-autonomy>`"
-msgstr ":doc:`同济大学上海自主智能无人系统科学中心 </entities/tongji-autonomy>`"
+"</entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Research platform · "
+"Hardware AI, Mobility) — A research collaboration route for autonomous "
+"systems. The published office contact is in Zhangjiang. A technical "
+"proposal should identify the platform, experiment, data and proposed "
+"industrial partner. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`同济大学上海自主智能无人系统科学中心 </entities/tongji-autonomy>` （同济大学上海自主智能无人系统科学中心 · 科研平台 · 硬件人工智能、交通）—— 自主系统研究合作入口，公开办公地址位于张江。技术方案应说明平台、实验、数据及拟合作产业方。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:48
-msgid ":doc:`Roche Accelerator </entities/roche>`"
-msgstr ":doc:`罗氏加速器 </entities/roche>`"
+msgid ""
+":doc:`Roche Accelerator </entities/roche>` (罗氏加速器 · Corporate program · "
+"Health, AI for Science) — Roche describes its Shanghai innovation "
+"accelerator for the China ecosystem. Relevant to healthcare and "
+"AI-enabled discovery teams. Scientific fit, space, collaboration, funding "
+"and IP terms are distinct questions. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`罗氏加速器 </entities/roche>` （罗氏加速器 · 企业创新计划 · 健康、科学智能）—— 罗氏介绍其位于上海、服务中国创新生态的加速器，适合医疗健康及人工智能研发团队。科研匹配、空间、合作、资金与知识产权须分别确认。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:49
-msgid ":doc:`SAP.iO Foundry Shanghai </entities/sapio>`"
-msgstr ":doc:`SAP.iO上海加速器 </entities/sapio>`"
+msgid ""
+":doc:`SAP.iO Foundry Shanghai </entities/sapio>` (SAP.iO上海加速器 · Corporate "
+"program · Software AI, Industry) — The 2021 launch described an "
+"equity-free intelligent-manufacturing accelerator. It is included as a "
+"historical corporate route; the source does not establish a 2026 Shanghai "
+"intake. [Status: Historical / confirm continuation]"
+msgstr ":doc:`SAP.iO上海加速器 </entities/sapio>` （SAP.iO上海加速器 · 企业创新计划 · 软件人工智能、产业）—— 2021年启动公告介绍了不索取股权的智能制造加速器。本条作为历史企业合作路径收录；来源不能证明2026年上海仍在招募。【状态：历史项目，须确认延续】"
 
 #: ../../districts/pudong.rst:50
-msgid ":doc:`ABB open innovation / Shanghai robotics </entities/abb>`"
-msgstr ":doc:`ABB开放创新／上海机器人生态 </entities/abb>`"
+msgid ""
+":doc:`ABB open innovation / Shanghai robotics </entities/abb>` "
+"(ABB开放创新／上海机器人生态 · Corporate program · Hardware AI, Robotics) — ABB "
+"publishes open-innovation and startup collaboration routes. Its May 2025 "
+"Shanghai AI event is evidence of ecosystem activity, not an always-open "
+"startup accelerator cohort. Propose a measurable robotics use case. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`ABB开放创新／上海机器人生态 </entities/abb>` （ABB开放创新／上海机器人生态 · 企业创新计划 · 硬件人工智能、机器人）—— ABB公布开放创新及初创企业合作路径。2025年5月上海人工智能活动证明生态活动存在，不代表长期开放的加速营。可提交可量化的机器人应用方案。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:51
-msgid ":doc:`DroidUp Ecosystem Accelerator </entities/droidup>`"
-msgstr ":doc:`卓益得生态加速器 </entities/droidup>`"
+msgid ""
+":doc:`DroidUp Ecosystem Accelerator </entities/droidup>` (卓益得生态加速器 · "
+"Corporate program · Hardware AI, Robotics) — The December 2025 Zhangjiang "
+"Robot Valley account reports the accelerator launch. We include it as a "
+"robotics industry route and require direct confirmation of intake, pilot "
+"access, investment and hardware resources. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`卓益得生态加速器 </entities/droidup>` （卓益得生态加速器 · 企业创新计划 · 硬件人工智能、机器人）—— 2025年12月张江机器人谷报道记录其启动。本条作为机器人产业对接路径收录，招募、试点、投资与硬件资源均须直接确认。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:52
 msgid ""
-":doc:`Shanghai AI Public Technology Service Platform </entities/paddle>`"
-msgstr ":doc:`上海人工智能公共技术服务平台 </entities/paddle>`"
+":doc:`Shanghai AI Public Technology Service Platform </entities/paddle>` "
+"(上海人工智能公共技术服务平台 · Corporate program · Software AI) — The "
+"PaddlePaddle-linked platform publishes AI training and ecosystem "
+"resources. Explore its technical services and developer events; confirm "
+"whether a specific training or compute offer carries fees. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海人工智能公共技术服务平台 </entities/paddle>` （上海人工智能公共技术服务平台 · 企业创新计划 · 软件人工智能）—— 飞桨相关平台公布人工智能培训及生态资源，可对接技术服务与开发者活动；具体培训或算力服务是否收费须确认。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:53
-msgid ":doc:`Pudong AI Seed Fund </entities/pudong-seed>`"
-msgstr ":doc:`浦东人工智能种子基金 </entities/pudong-seed>`"
+msgid ""
+":doc:`Pudong AI Seed Fund </entities/pudong-seed>` (浦东人工智能种子基金 · Investor "
+"· Software AI, Hardware AI) — Announced in July 2025 at a target size of "
+"RMB 2 billion and an initial RMB 500 million tranche. The figure is fund "
+"scale, not a per-startup cheque. Seek the manager through Pudong's "
+"official ecosystem route. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`浦东人工智能种子基金 </entities/pudong-seed>` （浦东人工智能种子基金 · 投资机构 · 软件人工智能、硬件人工智能）—— 2025年7月公布总规模20亿元、首期5亿元。该数字为基金规模，并非每家企业投资额。可经浦东官方生态渠道确认管理人。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:54
-msgid ":doc:`Shanghai Embodied AI Fund </entities/embodied-fund>`"
-msgstr ":doc:`上海具身智能基金 </entities/embodied-fund>`"
+msgid ""
+":doc:`Shanghai Embodied AI Fund </entities/embodied-fund>` (上海具身智能基金 · "
+"Investor · Hardware AI, Robotics, Sensors) — A state-backed "
+"embodied-intelligence investment route announced in April 2025, including "
+"core components and edge chips. Confirm the current manager and "
+"investment mandate; no uniform cheque size or ownership percentage is "
+"established here. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海具身智能基金 </entities/embodied-fund>` （上海具身智能基金 · 投资机构 · 硬件人工智能、机器人、传感器）—— 2025年4月公布的国资具身智能投资路径，涉及核心零部件与边缘芯片。须确认现任管理人及投资范围；本书不推定统一投资额或持股比例。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:55
-msgid ":doc:`Qiming Venture Partners </entities/qiming>`"
-msgstr ":doc:`启明创投 </entities/qiming>`"
+msgid ""
+":doc:`Qiming Venture Partners </entities/qiming>` (启明创投 · Investor · "
+"Software AI, Health, Hardware AI) — A venture-capital contact route with "
+"a published Shanghai office. Send a concise investment case and confirm "
+"sector and stage fit. The general contact inbox is not a guarantee of an "
+"investment review. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`启明创投 </entities/qiming>` （启明创投 · 投资机构 · 软件人工智能、健康、硬件人工智能）—— 公布上海办公室的风险投资机构。可提交简明投资方案并确认行业与阶段匹配；综合邮箱不保证立项评审。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:56
-msgid ":doc:`JLABS Shanghai </entities/jlabs>`"
-msgstr ":doc:`强生创新JLABS上海 </entities/jlabs>`"
+msgid ""
+":doc:`Zhangjiang AI Innovation Town </entities/zhangjiang-ai-town>` "
+"(张江人工智能创新小镇 · Technology park · Software AI, Hardware AI, AI for Science) "
+"— A 2-square-kilometer core zone in Zhangjiang Science City with 700,000 "
+"sqm of industrial space, spatiotemporal digital infrastructure and linked "
+"compute, model and corpus vouchers. Confirm whether the company's "
+"registered and operating address falls inside the designated town "
+"boundary. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`张江人工智能创新小镇 </entities/zhangjiang-ai-town>` （张江人工智能创新小镇 · 科技园区 · 软件人工智能、硬件人工智能、科学智能）—— 位于张江科学城核心区的2平方公里创新集聚区，规划70万平方米产业空间，布局时空量子城市数字底座并配套算力券、模型券与语料券。申请专项支持前须确认注册与实际经营地址是否位于小镇核定边界内。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:57
-msgid ":doc:`Bayer Co.Lab Shanghai </entities/bayer>`"
-msgstr ":doc:`拜耳Co.Lab上海 </entities/bayer>`"
+msgid ""
+":doc:`Shanghai Integrated Circuit R&D Center </entities/icrd>` "
+"(上海集成电路研发中心 · Research platform · Chips, Hardware AI) — A shared "
+"integrated-circuit research and engineering platform in Zhangjiang "
+"supporting process development, device verification and IP testing. "
+"Request a technical scoping review and written quotation for wafer or "
+"testing runs. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海集成电路研发中心 </entities/icrd>` （上海集成电路研发中心 · 科研平台 · 芯片、硬件人工智能）—— 位于张江的集成电路公共研发与工程平台，支持工艺开发、器件验证与IP测试。流片或测试合作需申请技术评估与书面报价。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:58
-msgid ":doc:`Shanghai Maritime University </entities/university-maritime>`"
-msgstr ":doc:`上海海事大学 </entities/university-maritime>`"
+msgid ""
+":doc:`JLABS Shanghai </entities/jlabs>` (强生创新JLABS上海 · Corporate program "
+"· Health, AI for Science) — An operator-listed life-sciences incubation "
+"site in Zhangjiang with an application route. For AI-enabled healthcare, "
+"clarify scientific fit, laboratory requirements, residency pricing, IP "
+"and any separate challenge or investment terms. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`强生创新JLABS上海 </entities/jlabs>` （强生创新JLABS上海 · 企业创新计划 · 健康、科学智能）—— 运营方列明的张江生命科学孵化基地，提供申请入口。人工智能医疗项目应确认科研匹配、实验需求、入驻费用、知识产权及独立挑战赛或投资条款。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:59
 msgid ""
-":doc:`Shanghai University of Electric Power "
-"</entities/university-electric-power>`"
-msgstr ":doc:`上海电力大学 </entities/university-electric-power>`"
+":doc:`Bayer Co.Lab Shanghai </entities/bayer>` (拜耳Co.Lab上海 · Corporate "
+"program · Health, AI for Science) — Bayer's September 2024 Shanghai site "
+"launch describes shared laboratories and office space for early biotech "
+"teams in SH-INNO Park. Confirm available residency and collaboration "
+"terms; the historic capacity is not a current vacancy count. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`拜耳Co.Lab上海 </entities/bayer>` （拜耳Co.Lab上海 · 企业创新计划 · 健康、科学智能）—— 拜耳2024年9月上海基地启动资料介绍SH-INNO园区内早期生物科技团队的共享实验及办公空间。应确认当前入驻与合作条款，历史容量不是实时空位。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:60
 msgid ""
-":doc:`Shanghai University of Medicine and Health Sciences "
-"</entities/university-sumhs>`"
-msgstr ":doc:`上海健康医学院 </entities/university-sumhs>`"
+":doc:`Shanghai Maritime University </entities/university-maritime>` "
+"(上海海事大学 · University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Shipping, logistics, "
+"autonomous maritime systems. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海海事大学 </entities/university-maritime>` （上海海事大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：航运、物流、自主海事系统。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:61
-msgid ":doc:`Shanghai Ocean University </entities/university-ocean>`"
-msgstr ":doc:`上海海洋大学 </entities/university-ocean>`"
+msgid ""
+":doc:`Shanghai University of Electric Power "
+"</entities/university-electric-power>` (上海电力大学 · University) — "
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Energy systems, grid intelligence, "
+"industrial control. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海电力大学 </entities/university-electric-power>` （上海电力大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：能源系统、智能电网、工业控制。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:62
 msgid ""
-":doc:`Shanghai University of Traditional Chinese Medicine "
-"</entities/university-tcm>`"
-msgstr ":doc:`上海中医药大学 </entities/university-tcm>`"
+":doc:`Shanghai University of Medicine and Health Sciences "
+"</entities/university-sumhs>` (上海健康医学院 · University) — Institutional "
+"entry in the June 2026 Ministry of Education register. Suggested "
+"collaboration themes: Health devices, diagnostics, clinical applications. "
+"These themes are editorial routing guidance, not a verified offer of "
+"laboratory access or startup funding. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`上海健康医学院 </entities/university-sumhs>` （上海健康医学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：健康器械、诊断、临床应用。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:63
-msgid ":doc:`Shanghai Customs University </entities/university-customs>`"
-msgstr ":doc:`上海海关学院 </entities/university-customs>`"
+msgid ""
+":doc:`Shanghai Ocean University </entities/university-ocean>` (上海海洋大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Marine science, aquaculture, "
+"smart agriculture. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海海洋大学 </entities/university-ocean>` （上海海洋大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：海洋科学、水产、智慧农业。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:64
-msgid ":doc:`Shanghai Police College </entities/university-police>`"
-msgstr ":doc:`上海公安学院 </entities/university-police>`"
+msgid ""
+":doc:`Shanghai University of Traditional Chinese Medicine "
+"</entities/university-tcm>` (上海中医药大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Healthcare, drug discovery, medical data. These themes are "
+"editorial routing guidance, not a verified offer of laboratory access or "
+"startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海中医药大学 </entities/university-tcm>` （上海中医药大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：医疗健康、药物发现、医学数据。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:65
 msgid ""
-":doc:`Shanghai Lixin University of Accounting and Finance "
-"</entities/university-lixin>`"
-msgstr ":doc:`上海立信会计金融学院 </entities/university-lixin>`"
+":doc:`Shanghai Customs University </entities/university-customs>` (上海海关学院 "
+"· University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Customs, trade "
+"processes, compliance systems. These themes are editorial routing "
+"guidance, not a verified offer of laboratory access or startup funding. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海海关学院 </entities/university-customs>` （上海海关学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：海关、贸易流程、合规系统。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:66
-msgid ":doc:`Shanghai DianJi University </entities/university-dianji>`"
-msgstr ":doc:`上海电机学院 </entities/university-dianji>`"
+msgid ""
+":doc:`Shanghai Police College </entities/university-police>` (上海公安学院 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Public-safety education; "
+"external project access unverified. These themes are editorial routing "
+"guidance, not a verified offer of laboratory access or startup funding. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海公安学院 </entities/university-police>` （上海公安学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：公共安全教育，外部项目准入未核实。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:67
-msgid ":doc:`Sanda University </entities/university-sanda>`"
-msgstr ":doc:`上海杉达学院 </entities/university-sanda>`"
+msgid ""
+":doc:`Shanghai Lixin University of Accounting and Finance "
+"</entities/university-lixin>` (上海立信会计金融学院 · University) — Institutional "
+"entry in the June 2026 Ministry of Education register. Suggested "
+"collaboration themes: Accounting systems, fintech, business analytics. "
+"These themes are editorial routing guidance, not a verified offer of "
+"laboratory access or startup funding. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`上海立信会计金融学院 </entities/university-lixin>` （上海立信会计金融学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：会计系统、金融科技、商业分析。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:68
 msgid ""
-":doc:`Shanghai Polytechnic University </entities/university-polytechnic>`"
-msgstr ":doc:`上海第二工业大学 </entities/university-polytechnic>`"
+":doc:`Shanghai DianJi University </entities/university-dianji>` (上海电机学院 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Electrical equipment, advanced "
+"manufacturing. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海电机学院 </entities/university-dianji>` （上海电机学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：电气装备、先进制造。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:69
-msgid ":doc:`Shanghai Jian Qiao University </entities/university-jianqiao>`"
-msgstr ":doc:`上海建桥学院 </entities/university-jianqiao>`"
+msgid ""
+":doc:`Sanda University </entities/university-sanda>` (上海杉达学院 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Applied digital business and "
+"talent partnerships. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海杉达学院 </entities/university-sanda>` （上海杉达学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：应用数字商业与人才合作。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:70
-msgid ":doc:`Shanghai Xing Wei College </entities/university-xingwei>`"
-msgstr ":doc:`上海兴伟学院 </entities/university-xingwei>`"
+msgid ""
+":doc:`Shanghai Polytechnic University </entities/university-polytechnic>` "
+"(上海第二工业大学 · University) — Institutional entry in the June 2026 Ministry "
+"of Education register. Suggested collaboration themes: Applied "
+"engineering, electronics, manufacturing. These themes are editorial "
+"routing guidance, not a verified offer of laboratory access or startup "
+"funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海第二工业大学 </entities/university-polytechnic>` （上海第二工业大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：应用工程、电子、制造。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:71
-msgid ":doc:`ShanghaiTech University </entities/university-shanghaitech>`"
-msgstr ":doc:`上海科技大学 </entities/university-shanghaitech>`"
+msgid ""
+":doc:`Shanghai Jian Qiao University </entities/university-jianqiao>` "
+"(上海建桥学院 · University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Applied engineering, "
+"digital media, business. These themes are editorial routing guidance, not "
+"a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海建桥学院 </entities/university-jianqiao>` （上海建桥学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：应用工程、数字媒体、商业。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:72
-msgid ":doc:`NYU Shanghai </entities/university-nyu>`"
-msgstr ":doc:`上海纽约大学 </entities/university-nyu>`"
+msgid ""
+":doc:`Shanghai Xing Wei College </entities/university-xingwei>` (上海兴伟学院 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Interdisciplinary education and "
+"entrepreneurship conversations. These themes are editorial routing "
+"guidance, not a verified offer of laboratory access or startup funding. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海兴伟学院 </entities/university-xingwei>` （上海兴伟学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：跨学科教育与创业对接。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+
+#: ../../districts/pudong.rst:73
+msgid ""
+":doc:`ShanghaiTech University </entities/university-shanghaitech>` "
+"(上海科技大学 · University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Chips, software AI, "
+"scientific instruments, biotech. These themes are editorial routing "
+"guidance, not a verified offer of laboratory access or startup funding. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海科技大学 </entities/university-shanghaitech>` （上海科技大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：芯片、软件人工智能、科学仪器、生物科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/pudong.rst:74
+msgid ""
+":doc:`NYU Shanghai </entities/university-nyu>` (上海纽约大学 · University) — "
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Data science, computation and "
+"international research. These themes are editorial routing guidance, not "
+"a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海纽约大学 </entities/university-nyu>` （上海纽约大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：数据科学、计算与国际科研。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+
+#: ../../districts/pudong.rst:76
 msgid "Funding routes"
 msgstr "资金路径"
 
-#: ../../districts/pudong.rst:77
-msgid ""
-":doc:`Pudong AI model and agent application support, 2026 "
-"</funding/pudong-model>`"
-msgstr ":doc:`浦东2026年大模型等AI新技术应用项目 </funding/pudong-model>`"
-
-#: ../../districts/pudong.rst:78
-msgid ":doc:`Pudong AI Seed Fund </funding/pudong-equity>`"
-msgstr ":doc:`浦东人工智能种子基金 </funding/pudong-equity>`"
-
 #: ../../districts/pudong.rst:79
 msgid ""
-":doc:`Zhangjiang AI Town compute, model and corpus support "
-"</funding/zhangjiang-ai-vouchers>`"
-msgstr ":doc:`张江AI创新小镇算力券、模型券、语料券 </funding/zhangjiang-ai-vouchers>`"
+":doc:`Pudong AI model and agent application support, 2026 "
+"</funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · Reimbursement · No "
+"equity) — Support rate and amount subject to applicable implementing "
+"rules. Status: Closed. Timing: Closed 31 Aug 2026, 16:00 China Standard "
+"Time."
+msgstr ":doc:`浦东2026年大模型等AI新技术应用项目 </funding/pudong-model>` （浦东2026年大模型等AI新技术应用项目 · 报销支持 · 不占股）—— 支持比例与额度以适用实施细则为准。状态：已截止。时间：已于2026年8月31日中国标准时间16:00截止。"
+
+#: ../../districts/pudong.rst:80
+msgid ""
+":doc:`Pudong AI Seed Fund </funding/pudong-equity>` (浦东人工智能种子基金 · Equity "
+"investment · Negotiated equity) — Fund target RMB 2bn; first tranche RMB "
+"500m; individual cheque not established. Status: Fund announced; deal "
+"intake to confirm. Timing: Manager-led sourcing and due diligence."
+msgstr ":doc:`浦东人工智能种子基金 </funding/pudong-equity>` （浦东人工智能种子基金 · 股权投资 · 协商股权）—— 基金目标20亿元，首期5亿元；单笔投资额未确定。状态：基金已公布，项目受理待确认。时间：管理人开展项目筛选与尽调。"
 
 #: ../../districts/pudong.rst:81
+msgid ""
+":doc:`Zhangjiang AI Town compute, model and corpus support "
+"</funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Reimbursement · "
+"No equity) — Up to 100% of approved actual cost, capped at RMB 1m in each "
+"category; at most one year. Status: Quarterly scheme published; current "
+"intake to confirm. Timing: Quarterly claims; confirm the current batch."
+msgstr ":doc:`张江AI创新小镇算力券、模型券、语料券 </funding/zhangjiang-ai-vouchers>` （张江AI创新小镇算力券、模型券、语料券 · 报销支持 · 不占股）—— 核定实际支出最高100%，各类最高100万元，单个企业最多享受一年。状态：季度机制已公布，当前批次待确认。时间：按季度申报，确认当前批次。"
+
+#: ../../districts/pudong.rst:83
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ":doc:`Zhangjiang Model Community </entities/model-community>`"
+#~ msgstr ":doc:`张江模力社区 </entities/model-community>`"
+
+#~ msgid ":doc:`Zhangjiang Hi-Tech 895 Incubator </entities/895>`"
+#~ msgstr ":doc:`张江高科895孵化器 </entities/895>`"
+
+#~ msgid ":doc:`ATLATL Zhangjiang Center </entities/atlatl>`"
+#~ msgstr ":doc:`ATLATL飞镖张江中心 </entities/atlatl>`"
+
+#~ msgid ":doc:`Nest.Bio Shanghai Innovation Platform </entities/nestbio>`"
+#~ msgstr ":doc:`巢生上海创新孵化平台 </entities/nestbio>`"
+
+#~ msgid ":doc:`XNode </entities/xnode>`"
+#~ msgstr ":doc:`创极无限XNode </entities/xnode>`"
+
+#~ msgid ":doc:`Plug and Play China, Shanghai </entities/plugplay>`"
+#~ msgstr ":doc:`璞跃中国上海中心 </entities/plugplay>`"
+
+#~ msgid ":doc:`PwC x Zhangjiang Healthcare Accelerator </entities/pwc>`"
+#~ msgstr ":doc:`普华永道张江数字医疗加速营 </entities/pwc>`"
+
+#~ msgid ":doc:`Lin-gang Science and Innovation City </entities/lin-gang>`"
+#~ msgstr ":doc:`临港科创城 </entities/lin-gang>`"
+
+#~ msgid ":doc:`Shanghai IC Design Industrial Park </entities/ic-design>`"
+#~ msgstr ":doc:`上海集成电路设计产业园 </entities/ic-design>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai Integrated Circuit Technology and Industry Promotion "
+#~ "Center </entities/icc>`"
+#~ msgstr ":doc:`上海集成电路技术与产业促进中心 </entities/icc>`"
+
+#~ msgid ""
+#~ ":doc:`Tongji Autonomous Intelligent Unmanned Systems Center "
+#~ "</entities/tongji-autonomy>`"
+#~ msgstr ":doc:`同济大学上海自主智能无人系统科学中心 </entities/tongji-autonomy>`"
+
+#~ msgid ":doc:`Roche Accelerator </entities/roche>`"
+#~ msgstr ":doc:`罗氏加速器 </entities/roche>`"
+
+#~ msgid ":doc:`SAP.iO Foundry Shanghai </entities/sapio>`"
+#~ msgstr ":doc:`SAP.iO上海加速器 </entities/sapio>`"
+
+#~ msgid ":doc:`ABB open innovation / Shanghai robotics </entities/abb>`"
+#~ msgstr ":doc:`ABB开放创新／上海机器人生态 </entities/abb>`"
+
+#~ msgid ":doc:`DroidUp Ecosystem Accelerator </entities/droidup>`"
+#~ msgstr ":doc:`卓益得生态加速器 </entities/droidup>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai AI Public Technology Service Platform "
+#~ "</entities/paddle>`"
+#~ msgstr ":doc:`上海人工智能公共技术服务平台 </entities/paddle>`"
+
+#~ msgid ":doc:`Pudong AI Seed Fund </entities/pudong-seed>`"
+#~ msgstr ":doc:`浦东人工智能种子基金 </entities/pudong-seed>`"
+
+#~ msgid ":doc:`Shanghai Embodied AI Fund </entities/embodied-fund>`"
+#~ msgstr ":doc:`上海具身智能基金 </entities/embodied-fund>`"
+
+#~ msgid ":doc:`Qiming Venture Partners </entities/qiming>`"
+#~ msgstr ":doc:`启明创投 </entities/qiming>`"
+
+#~ msgid ":doc:`JLABS Shanghai </entities/jlabs>`"
+#~ msgstr ":doc:`强生创新JLABS上海 </entities/jlabs>`"
+
+#~ msgid ":doc:`Bayer Co.Lab Shanghai </entities/bayer>`"
+#~ msgstr ":doc:`拜耳Co.Lab上海 </entities/bayer>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai Maritime University </entities/university-maritime>`"
+#~ msgstr ":doc:`上海海事大学 </entities/university-maritime>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai University of Electric Power "
+#~ "</entities/university-electric-power>`"
+#~ msgstr ":doc:`上海电力大学 </entities/university-electric-power>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai University of Medicine and Health Sciences "
+#~ "</entities/university-sumhs>`"
+#~ msgstr ":doc:`上海健康医学院 </entities/university-sumhs>`"
+
+#~ msgid ":doc:`Shanghai Ocean University </entities/university-ocean>`"
+#~ msgstr ":doc:`上海海洋大学 </entities/university-ocean>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai University of Traditional Chinese Medicine "
+#~ "</entities/university-tcm>`"
+#~ msgstr ":doc:`上海中医药大学 </entities/university-tcm>`"
+
+#~ msgid ":doc:`Shanghai Customs University </entities/university-customs>`"
+#~ msgstr ":doc:`上海海关学院 </entities/university-customs>`"
+
+#~ msgid ":doc:`Shanghai Police College </entities/university-police>`"
+#~ msgstr ":doc:`上海公安学院 </entities/university-police>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai Lixin University of Accounting and Finance "
+#~ "</entities/university-lixin>`"
+#~ msgstr ":doc:`上海立信会计金融学院 </entities/university-lixin>`"
+
+#~ msgid ":doc:`Shanghai DianJi University </entities/university-dianji>`"
+#~ msgstr ":doc:`上海电机学院 </entities/university-dianji>`"
+
+#~ msgid ":doc:`Sanda University </entities/university-sanda>`"
+#~ msgstr ":doc:`上海杉达学院 </entities/university-sanda>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai Polytechnic University "
+#~ "</entities/university-polytechnic>`"
+#~ msgstr ":doc:`上海第二工业大学 </entities/university-polytechnic>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai Jian Qiao University </entities/university-jianqiao>`"
+#~ msgstr ":doc:`上海建桥学院 </entities/university-jianqiao>`"
+
+#~ msgid ":doc:`Shanghai Xing Wei College </entities/university-xingwei>`"
+#~ msgstr ":doc:`上海兴伟学院 </entities/university-xingwei>`"
+
+#~ msgid ""
+#~ ":doc:`ShanghaiTech University </entities/university-shanghaitech>`"
+#~ msgstr ":doc:`上海科技大学 </entities/university-shanghaitech>`"
+
+#~ msgid ":doc:`NYU Shanghai </entities/university-nyu>`"
+#~ msgstr ":doc:`上海纽约大学 </entities/university-nyu>`"
+
+#~ msgid ""
+#~ ":doc:`Pudong AI model and agent application support, 2026 "
+#~ "</funding/pudong-model>`"
+#~ msgstr ":doc:`浦东2026年大模型等AI新技术应用项目 </funding/pudong-model>`"
+
+#~ msgid ":doc:`Pudong AI Seed Fund </funding/pudong-equity>`"
+#~ msgstr ":doc:`浦东人工智能种子基金 </funding/pudong-equity>`"
+
+#~ msgid ""
+#~ ":doc:`Zhangjiang AI Town compute, model and corpus support "
+#~ "</funding/zhangjiang-ai-vouchers>`"
+#~ msgstr ":doc:`张江AI创新小镇算力券、模型券、语料券 </funding/zhangjiang-ai-vouchers>`"

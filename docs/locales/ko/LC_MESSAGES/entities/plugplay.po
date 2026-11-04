@@ -1,0 +1,122 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/plugplay.rst:1
+msgid "Plug and Play China, Shanghai"
+msgstr "플러그앤플레이 차이나 상하이 센터"
+
+#: ../../entities/plugplay.rst:4
+msgid "璞跃中国上海中心"
+msgstr "璞跃中国上海中心"
+
+#: ../../entities/plugplay.rst:6
+msgid "Accelerator | Pudong | Research checked 2026-11-04"
+msgstr "액셀러레이터 | 푸둥 신구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/plugplay.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Mobility."
+msgstr "AI 및 산업 분야: 소프트웨어 AI, 하드웨어 AI, 모빌리티."
+
+#: ../../entities/plugplay.rst:10
+msgid ""
+"The operator lists its Yangtze River Delta innovation center at "
+"Zhangjiang Guochuang Center. Corporate innovation, office space and "
+"venture investment have different admission and commercial terms."
+msgstr "장장 궈촹센터에 장강삼각주 지역 혁신 센터를 두고 있습니다. 기업 혁신, 업무 공간 및 벤처 투자는 입주 조건과 상업적 계약이 서로 다릅니다."
+
+#: ../../entities/plugplay.rst:12
+msgid ""
+"`Evidence S011 <https://admin.pnpchina.com/about/office-space/>`_. Plug "
+"and Play 中国—科技创新加速器与投资机构，专注创新生态服务和开放式创新."
+msgstr "`근거 S011 <https://admin.pnpchina.com/about/office-space/>`_. Plug and Play 中国—科技创新加速器与投资机构，专注创新生态服务和开放式创新."
+
+#: ../../entities/plugplay.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/plugplay.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/plugplay.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/plugplay.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/plugplay.rst:24
+msgid "`Official website / intake route <https://www.pnpchina.com/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.pnpchina.com/>`_"
+
+#: ../../entities/plugplay.rst:26
+msgid ""
+"Published address: 2F, Building 1, Phase II, Zhangjiang Guochuang Center, "
+"899 Dangui Road."
+msgstr "공개 주소: 푸둥신구 단구이루 899호 장장국창센터 2기 1동 2층."
+
+#: ../../entities/plugplay.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/plugplay.rst:30
+msgid ""
+"Map point is approximate, based on the published street context; it is "
+"not an entrance or navigation coordinate."
+msgstr "지도상 위치는 공시된 도로 정보를 바탕으로 한 근사치이며, 실제 출입구나 내비게이션용 좌표가 아닙니다."
+
+#: ../../entities/plugplay.rst:32
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/plugplay.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/plugplay.rst:37
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "기업 내 사업 책임자(Business Owner)와 측정 가능한 구체적 도입 사례 1건을 특정한다."
+
+#: ../../entities/plugplay.rst:39
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "제품 소개서, 파일럿 실증 데이터 및 관련 기술 요구사항을 제출한다."
+
+#: ../../entities/plugplay.rst:41
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "정기 배치 모집 여부를 확인하거나 파일럿 실증 범위, 데이터 권리, 지식재산권(IP) 조건을 협의한다."
+
+#: ../../entities/plugplay.rst:43
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "조달 프로세스, 대금 지급 일정, 검수 절차 및 양산 전환 결정을 독립된 단계로 검토한다."
+
+#: ../../entities/plugplay.rst:45
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`푸둥 신구 경로 안내 </districts/pudong>`"

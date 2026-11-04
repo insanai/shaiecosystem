@@ -1,0 +1,118 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/895.rst:1
+msgid "Zhangjiang Hi-Tech 895 Incubator"
+msgstr "Zhangjiang Hi-Tech 895-Inkubator"
+
+#: ../../entities/895.rst:4
+msgid "张江高科895孵化器"
+msgstr "张江高科895孵化器"
+
+#: ../../entities/895.rst:6
+msgid "Incubator | Pudong | Research checked 2026-11-04"
+msgstr "Inkubator | Neuer Stadtbezirk Pudong | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/895.rst:8
+msgid "AI and industry focus: Hardware AI, Chips."
+msgstr "KI- und Branchenfokus: Hardware-KI, Halbleiter & Chips."
+
+#: ../../entities/895.rst:10
+msgid ""
+"A deep-technology incubator with chip-testing and industrialization "
+"context in Zhangjiang. Incubation and the associated angel investment "
+"pathway must be reviewed as different agreements."
+msgstr "Ein Deep-Tech-Inkubator mit Fokus auf Halbleiterprüfungen und Industrialisierung in Zhangjiang. Die Inkubationsvereinbarung und die damit verknüpfte Angel-Investment-Beteiligung müssen als getrennte Verträge geprüft werden."
+
+#: ../../entities/895.rst:12
+msgid ""
+"`Evidence S004 "
+"<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260724/5ae78c565d2449cf96e42595a8e5422e.html>`_. "
+"Shanghai uses innovation ecosystems to nurture future industries."
+msgstr "`Nachweis S004 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260724/5ae78c565d2449cf96e42595a8e5422e.html>`_. Shanghai uses innovation ecosystems to nurture future industries."
+
+#: ../../entities/895.rst:14
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/895.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/895.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/895.rst:21
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/895.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260724/5ae78c565d2449cf96e42595a8e5422e.html>`_"
+msgstr "`Offizieller Nachweis und Behördenweg <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260724/5ae78c565d2449cf96e42595a8e5422e.html>`_"
+
+#: ../../entities/895.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+
+#: ../../entities/895.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/895.rst:30
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/895.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/895.rst:35
+msgid "Send a project brief and request the current admission checklist."
+msgstr "Ein Projekt-Exposé einreichen und die aktuelle Aufnahme-Checkliste anfordern."
+
+#: ../../entities/895.rst:37
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "Die Förderfähigkeits- sowie die technische oder kaufmännische Prüfung des Betreibers durchlaufen."
+
+#: ../../entities/895.rst:39
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "Mietkosten, Servicegebühren, IP-Rechte, Rechenleistungspreise und etwaige Beteiligungsansprüche schriftlich vereinbaren."
+
+#: ../../entities/895.rst:41
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "Die vereinbarten Aufnahmeverträge unterzeichnen sowie Meilensteine und zuständige Betreuer festhalten."
+
+#: ../../entities/895.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Bezirksroute Neuer Stadtbezirk Pudong </districts/pudong>`"

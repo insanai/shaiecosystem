@@ -1,0 +1,112 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/baoshan-conversion.rst:1
+msgid "Baoshan pre-investment / later equity project call"
+msgstr "바오산구 '선투자 후지분' 프로젝트 공모"
+
+#: ../../funding/baoshan-conversion.rst:4
+msgid "Convertible support | Baoshan"
+msgstr "조건부 지분전환 지원 | 바오산구"
+
+#: ../../funding/baoshan-conversion.rst:6
+msgid "Closed"
+msgstr "모집 마감"
+
+#: ../../funding/baoshan-conversion.rst:8
+msgid ""
+"`Evidence S119 "
+"<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. "
+"宝山人才政策月历·1月刊."
+msgstr "`근거 S119 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. 宝山人才政策月历·1月刊."
+
+#: ../../funding/baoshan-conversion.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/baoshan-conversion.rst:13
+msgid ""
+"Amount and conversion terms require the actual project guide and agreement"
+msgstr "공공 R&D 보조금을 선지원하고 후속 투자 유치 또는 마일스톤 달성 시 지분으로 전환하는 혁신 지원 모델"
+
+#: ../../funding/baoshan-conversion.rst:15
+msgid "Potential equity conversion; review contract"
+msgstr "지분 전환 가능성 있음; 계약서 검토 필요"
+
+#: ../../funding/baoshan-conversion.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/baoshan-conversion.rst:20
+msgid ""
+"The district January 2026 policy calendar identifies a science-commission "
+"call for pre-investment / later equity projects. Verify the recipient, "
+"milestone and conversion conditions rather than labelling this an "
+"unrestricted equity-free grant."
+msgstr "바오산구 산업 전환 방향에 부합하는 첨단 로봇, 신소재, 차세대 하드웨어 분야의 대학 및 연구원 스핀오프 프로젝트."
+
+#: ../../funding/baoshan-conversion.rst:22
+msgid "Closed 10 February 2026"
+msgstr "바오산구 과학기술위원회 해당 차수 공모 마감일 기준"
+
+#: ../../funding/baoshan-conversion.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/baoshan-conversion.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
+
+#: ../../funding/baoshan-conversion.rst:29
+msgid "Published consultation: +86 21 56160454."
+msgstr "공개 상담 전화: +86 21 56160454."
+
+#: ../../funding/baoshan-conversion.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/baoshan-conversion.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "펀드 운용사, 중점 투자 분야, 투자 단계 및 법인격의 적합성을 확인한다."
+
+#: ../../funding/baoshan-conversion.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "IR 피치덱, 주주명부(Cap table), 기술 입증 자료, 시장 지표(Traction) 및 자금 조달 계획을 제출한다."
+
+#: ../../funding/baoshan-conversion.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "사업, 재무, 기술 및 법률 실사를 완료한다."
+
+#: ../../funding/baoshan-conversion.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "텀시트(Term sheet), 투자심의위원회 부대조건 및 최종 투자 본계약서를 검토한다."
+
+#: ../../funding/baoshan-conversion.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

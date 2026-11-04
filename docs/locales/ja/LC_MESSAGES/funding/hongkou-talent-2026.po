@@ -1,0 +1,121 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/hongkou-talent-2026.rst:1
+msgid ""
+"Hongkou international and overseas young talent support, first 2026 batch"
+msgstr "2026年虹口区トップクラス国際人材・優秀海外若手人材支援（第1期）"
+
+#: ../../funding/hongkou-talent-2026.rst:4
+msgid "Grant | Hongkou"
+msgstr "助成金・補助金 | 虹口区"
+
+#: ../../funding/hongkou-talent-2026.rst:6
+msgid "Closed"
+msgstr "受付終了"
+
+#: ../../funding/hongkou-talent-2026.rst:8
+msgid ""
+"`Evidence S117 "
+"<https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. "
+"虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
+msgstr "`出典 S117 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. 虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
+
+#: ../../funding/hongkou-talent-2026.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/hongkou-talent-2026.rst:13
+msgid ""
+"Recognized top talent and core team: up to RMB 1m; eligible overseas "
+"young talent: RMB 50,000 per person"
+msgstr "認定されたトップ人材および中核チーム：最大100万元。適格な海外優秀若手人材：1人あたり5万元"
+
+#: ../../funding/hongkou-talent-2026.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/hongkou-talent-2026.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/hongkou-talent-2026.rst:20
+msgid ""
+"Strict category-specific talent recognition and Hongkou employment rules "
+"apply. Email pre-review is followed by paper submission at the district "
+"talent service center; this is not a grant for every foreign founder."
+msgstr "厳格なカテゴリ別人材認定および虹口区での雇用条件が適用される。メールによる事前審査の後、区人材サービスセンターへ紙面書類を提出。すべての外国人創業者が一律に申請できるわけではない。"
+
+#: ../../funding/hongkou-talent-2026.rst:22
+msgid "Closed 31 March 2026"
+msgstr "2026年3月31日に公募終了"
+
+#: ../../funding/hongkou-talent-2026.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/hongkou-talent-2026.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_"
+
+#: ../../funding/hongkou-talent-2026.rst:29
+msgid "Published consultation: +86 21 65123028."
+msgstr "公開相談電話：+86 21 65123028。"
+
+#: ../../funding/hongkou-talent-2026.rst:31
+msgid "`hkrc_zp@163.com <mailto:hkrc_zp@163.com>`_"
+msgstr "`hkrc_zp@163.com <mailto:hkrc_zp@163.com>`_"
+
+#: ../../funding/hongkou-talent-2026.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/hongkou-talent-2026.rst:35
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/hongkou-talent-2026.rst:37
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/hongkou-talent-2026.rst:39
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/hongkou-talent-2026.rst:41
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/hongkou-talent-2026.rst:43
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

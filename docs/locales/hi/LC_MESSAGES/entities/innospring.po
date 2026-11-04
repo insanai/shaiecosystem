@@ -1,0 +1,117 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/innospring.rst:1
+msgid "InnoSpring / SITRI incubation ecosystem"
+msgstr "इनोस्प्रिंग / SITRI इनक्यूबेशन इकोसिस्टम (InnoSpring / SITRI)"
+
+#: ../../entities/innospring.rst:4
+msgid "新微创源／上海微技术工研院孵化生态"
+msgstr "新微创源／上海微技术工研院孵化生态"
+
+#: ../../entities/innospring.rst:6
+msgid "Incubator | Jiading | Research checked 2026-11-04"
+msgstr "इनक्यूबेटर | जियाडिंग (Jiading) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/innospring.rst:8
+msgid "AI and industry focus: Hardware AI, Chips, Sensors."
+msgstr "एआई और उद्योग फोकस: हार्डवेयर AI, चिप्स, सेंसर।"
+
+#: ../../entities/innospring.rst:10
+msgid ""
+"The municipal science commission records joint work between InnoSpring "
+"and SITRI. This is a route for beyond-Moore technology, shared technical "
+"services and pilot production rather than a promise of free fabrication."
+msgstr "नगर विज्ञान आयोग इनोस्प्रिंग और SITRI के बीच संयुक्त कार्य को दर्ज करता है। यह बियॉन्ड-मूर प्रौद्योगिकी, साझा तकनीकी सेवाओं और पायलट उत्पादन के लिए एक मार्ग है, न कि निःशुल्क निर्माण (free fabrication) का वादा।"
+
+#: ../../entities/innospring.rst:12
+msgid ""
+"`Evidence S006 "
+"<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "
+"市科委、嘉定区联合调研高质量孵化器建设工作."
+msgstr "`साक्ष्य S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."
+
+#: ../../entities/innospring.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/innospring.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/innospring.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/innospring.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/innospring.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_"
+msgstr "`आधिकारिक साक्ष्य और प्राधिकरण मार्ग <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_"
+
+#: ../../entities/innospring.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/innospring.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/innospring.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/innospring.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/innospring.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "प्रोटोटाइप, आवश्यक उपकरण, प्रक्रिया और परीक्षण आवश्यकताओं का वर्णन करें।"
+
+#: ../../entities/innospring.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "तकनीकी समीक्षा, सुविधा के दौरे और मदवार कोटेशन के लिए पूछें।"
+
+#: ../../entities/innospring.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "पहुंच, सुरक्षा, नमूना और IP स्वामित्व, परीक्षण दायरे और स्वीकृति पर सहमति बनाएं।"
+
+#: ../../entities/innospring.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "सुविधा अनुबंध को निवेश या सार्वजनिक-फंडिंग आवेदनों से अलग रखें।"
+
+#: ../../entities/innospring.rst:43
+msgid ":doc:`Jiading district route </districts/jiading>`"
+msgstr ":doc:`जियाडिंग (Jiading) ज़िला मार्ग </districts/jiading>`"

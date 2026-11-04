@@ -1,0 +1,315 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:42+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../index.rst:1
+msgid "Shanghai Ecosystem Atlas"
+msgstr "Shanghai Ecosystem Atlas"
+
+#: ../../index.rst:4
+msgid ""
+"The Pearl of the Orient. A field guide to research, enterprise and "
+"possibility."
+msgstr "Die Perle des Orients. Ein Praxisleitfaden für Forschung, Unternehmertum und Zukunftschancen."
+
+#: ../../index.rst:6
+msgid ""
+"An illustrated English and Simplified Chinese guide for accelerators, "
+"founders, researchers and AI enthusiasts. Explore Shanghai's 16 "
+"administrative districts, 40 undergraduate universities, 29 diploma "
+"colleges, 12 adult higher-education institutions, software and hardware "
+"AI carriers, and the practical routes to support."
+msgstr "Ein illustrierter englisch- und chinesischsprachiger Leitfaden für Acceleratoren, Gründer, Wissenschaftler und KI-Begeisterte. Entdecken Sie Schanghais 16 Verwaltungsbezirke, 40 Universitäten, 29 tertiäre Fachkollegs, 12 Einrichtungen der Erwachsenenbildung, Träger für Software- und Hardware-KI sowie praxiserprobte Wege zu Fördermitteln."
+
+#: ../../index.rst:8
+msgid ""
+"Research edition: 2026-11-04. 125 organization profiles. 45 funding "
+"routes. 16 districts. 133 cited sources."
+msgstr "Forschungsausgabe: 2026-11-04. 125 Organisationsprofile. 45 Förderwege. 16 Bezirke. 133 zitierte Quellen."
+
+#: ../../index.rst:10
+msgid ""
+"Written by **Vikrant Rathore** with contributions from **Lauren Zhao, "
+"Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. "
+"Produced using **Guidedog** as a unified bilingual **HTML and PDF** "
+"publication inspired by Shanghai's official flower, the white magnolia "
+"(*Yulania denudata*)."
+msgstr "Verfasst von **Vikrant Rathore** unter Mitwirkung von **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu**. Produziert mit **Guidedog** als einheitliche zweisprachige **HTML- und PDF**-Publikation, inspiriert von Schanghais offizieller Stadtblume, der weißen Magnolie (*Yulania denudata*)."
+
+#: ../../index.rst:12
+msgid ""
+":doc:`Explore the interactive atlas <atlas>` | :doc:`Browse all 16 "
+"districts <districts>` | :doc:`Find funding <funding>` | :doc:`Plan an "
+"application <apply>`"
+msgstr ":doc:`Den interaktiven Atlas erkunden <atlas>` | :doc:`Alle 16 Bezirke durchsuchen <districts>` | :doc:`Förderung finden <funding>` | :doc:`Antrag planen <apply>`"
+
+#: ../../index.rst:16
+msgid "All 16 administrative districts of Shanghai"
+msgstr "Alle 16 Verwaltungsbezirke von Schanghai"
+
+#: ../../index.rst:19
+msgid ""
+"Every administrative district of Shanghai is covered in both the website "
+"and the PDF book with its documented industrial focus, receiving "
+"government authority, local innovation carriers, universities and "
+"district funding routes:"
+msgstr "Jeder Verwaltungsbezirk Schanghais wird sowohl auf der Website als auch im PDF-Buch mit seinen dokumentierten Branchenschwerpunkten, zuständigen Fachbehörden, lokalen Innovationszentren, Universitäten und bezirklichen Förderprogrammen vorgestellt:"
+
+#: ../../index.rst:21
+msgid ""
+"**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
+"chips, biomedicine and advanced manufacturing**. Authority: Pudong "
+"Science, Technology and Economy Commission. (38 organizations, 3 district "
+"funding routes)"
+msgstr "**[01]** :doc:`Neuer Stadtbezirk Pudong <districts/pudong>` (浦东新区) — **Basismodelle, Halbleiter, Biomedizin und moderne Fertigung**. Kommission für Wissenschaft, Technologie und Wirtschaft von Pudong. (38 / 3)"
+
+#: ../../index.rst:22
+msgid ""
+"**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
+"embodied AI and research commercialization**. Authority: Xuhui industry "
+"development authority. (7 organizations, 1 district funding routes)"
+msgstr "**[02]** :doc:`Bezirk Xuhui <districts/xuhui>` (徐汇区) — **Basismodelle, verkörperte KI und Verwertung von Forschungsergebnissen**. Behörde für Industrieentwicklung von Xuhui. (7 / 1)"
+
+#: ../../index.rst:23
+msgid ""
+"**[03]** :doc:`Yangpu <districts/yangpu>` (杨浦区) — **University spinouts, "
+"brain-inspired AI and independent AI founders**. Authority: Yangpu "
+"science and technology authority. (10 organizations, 2 district funding "
+"routes)"
+msgstr "**[03]** :doc:`Bezirk Yangpu <districts/yangpu>` (杨浦区) — **Universitäre Ausgründungen, hirninspirierte KI und unabhängige KI-Gründer**. Behörde für Wissenschaft und Technologie von Yangpu. (10 / 2)"
+
+#: ../../index.rst:24
+msgid ""
+"**[04]** :doc:`Minhang <districts/minhang>` (闵行区) — **University "
+"commercialization, robotics, BCI and engineering**. Authority: Minhang "
+"science and technology authority. (6 organizations, 2 district funding "
+"routes)"
+msgstr "**[04]** :doc:`Bezirk Minhang <districts/minhang>` (闵行区) — **Universitäre Technologieverwertung, Robotik, Gehirn-Computer-Schnittstellen (BCI) und Ingenieurwesen**. Behörde für Wissenschaft und Technologie von Minhang. (6 / 2)"
+
+#: ../../index.rst:25
+msgid ""
+"**[05]** :doc:`Jiading <districts/jiading>` (嘉定区) — **Automotive "
+"intelligence, sensors, MEMS and pilot production**. Authority: Jiading "
+"science and technology authority. (4 organizations, 1 district funding "
+"routes)"
+msgstr "**[05]** :doc:`Bezirk Jiading <districts/jiading>` (嘉定区) — **Automobil-Intelligenz, Sensorik, MEMS und Pilotfertigung**. Behörde für Wissenschaft und Technologie von Jiading. (4 / 1)"
+
+#: ../../index.rst:26
+msgid ""
+"**[06]** :doc:`Baoshan <districts/baoshan>` (宝山区) — **Robotics, advanced "
+"equipment and industrial deployment**. Authority: Baoshan industry and "
+"science authorities. (2 organizations, 1 district funding routes)"
+msgstr "**[06]** :doc:`Bezirk Baoshan <districts/baoshan>` (宝山区) — **Robotik, moderne Ausrüstung und industrielle Anwendung**. Behörden für Industrie, Wissenschaft und Technologie von Baoshan. (2 / 1)"
+
+#: ../../index.rst:27
+msgid ""
+"**[07]** :doc:`Putuo <districts/putuo>` (普陀区) — **Industrial testing, "
+"intelligent software and international innovation**. Authority: Putuo "
+"science and technology authority. (4 organizations, 3 district funding "
+"routes)"
+msgstr "**[07]** :doc:`Bezirk Putuo <districts/putuo>` (普陀区) — **Industrielle Prüftechnik, intelligente Software und internationale Innovation**. Behörde für Wissenschaft und Technologie von Putuo. (4 / 3)"
+
+#: ../../index.rst:28
+msgid ""
+"**[08]** :doc:`Changning <districts/changning>` (长宁区) — **Digital "
+"business, AI applications and cross-border services**. Authority: "
+"Changning science and technology authority. (2 organizations, 2 district "
+"funding routes)"
+msgstr "**[08]** :doc:`Bezirk Changning <districts/changning>` (长宁区) — **Digitalwirtschaft, KI-Anwendungen und grenzüberschreitende Dienstleistungen**. Kommission für Wissenschaft und Technologie von Changning. (2 / 2)"
+
+#: ../../index.rst:29
+msgid ""
+"**[09]** :doc:`Jing'an <districts/jingan>` (静安区) — **Enterprise AI, data "
+"services and digital commerce**. Authority: Jing'an science and economy "
+"authority. (3 organizations, 1 district funding routes)"
+msgstr "**[09]** :doc:`Bezirk Jing'an <districts/jingan>` (静安区) — **Unternehmens-KI, Datendienstleistungen und digitaler Handel**. Kommission für Wissenschaft und Technologie von Jing'an. (3 / 1)"
+
+#: ../../index.rst:30
+msgid ""
+"**[10]** :doc:`Huangpu <districts/huangpu>` (黄浦区) — **Fintech, clinical "
+"services, design and consumer applications**. Authority: Huangpu science "
+"and entrepreneurship services. (2 organizations, 1 district funding "
+"routes)"
+msgstr "**[10]** :doc:`Bezirk Huangpu <districts/huangpu>` (黄浦区) — **Fintech, klinische Forschung, Design und Konsumgüteranwendungen**. Kommission für Wissenschaft und Technologie von Huangpu. (2 / 1)"
+
+#: ../../index.rst:31
+msgid ""
+"**[11]** :doc:`Hongkou <districts/hongkou>` (虹口区) — **Shipping "
+"technology, green finance and intelligent inspection**. Authority: "
+"Hongkou science and economy authority. (4 organizations, 1 district "
+"funding routes)"
+msgstr "**[11]** :doc:`Bezirk Hongkou <districts/hongkou>` (虹口区) — **Schifffahrtstechnologie, Green Finance und intelligente Inspektion**. Kommission für Wissenschaft und Wirtschaft von Hongkou. (4 / 1)"
+
+#: ../../index.rst:32
+msgid ""
+"**[12]** :doc:`Songjiang <districts/songjiang>` (松江区) — **G60 innovation, "
+"industrial software and advanced manufacturing**. Authority: Songjiang "
+"G60 innovation services. (8 organizations, 2 district funding routes)"
+msgstr "**[12]** :doc:`Bezirk Songjiang <districts/songjiang>` (松江区) — **G60-Innovation, Industriesoftware und moderne Fertigung**. G60-Innovationsservice von Songjiang. (8 / 2)"
+
+#: ../../index.rst:33
+msgid ""
+"**[13]** :doc:`Qingpu <districts/qingpu>` (青浦区) — **Huawei-linked "
+"research, digital systems and regional collaboration**. Authority: Qingpu "
+"science and technology authority. (3 organizations, 2 district funding "
+"routes)"
+msgstr "**[13]** :doc:`Bezirk Qingpu <districts/qingpu>` (青浦区) — **Huawei-nahe Forschung, digitale Systeme und regionale Kooperation**. Kommission für Wissenschaft und Technologie von Qingpu. (3 / 2)"
+
+#: ../../index.rst:34
+msgid ""
+"**[14]** :doc:`Jinshan <districts/jinshan>` (金山区) — **Drones, new "
+"materials and low-altitude systems**. Authority: Jinshan science and "
+"technology authority. (3 organizations, 1 district funding routes)"
+msgstr "**[14]** :doc:`Bezirk Jinshan <districts/jinshan>` (金山区) — **Drohnentechnologie, neue Werkstoffe und Tiefflugsysteme**. Behörde für Wissenschaft und Technologie von Jinshan. (3 / 1)"
+
+#: ../../index.rst:35
+msgid ""
+"**[15]** :doc:`Fengxian <districts/fengxian>` (奉贤区) — **Robotics, beauty "
+"and health technology, advanced manufacturing**. Authority: Fengxian "
+"economic commission. (4 organizations, 3 district funding routes)"
+msgstr "**[15]** :doc:`Bezirk Fengxian <districts/fengxian>` (奉贤区) — **Robotik, Kosmetik- und Gesundheitstechnologie, moderne Fertigung**. Wirtschaftskommission von Fengxian. (4 / 3)"
+
+#: ../../index.rst:36
+msgid ""
+"**[16]** :doc:`Chongming <districts/chongming>` (崇明区) — **Ecological "
+"technology, smart agriculture and marine systems**. Authority: Chongming "
+"science and technology authority. (2 organizations, 2 district funding "
+"routes)"
+msgstr "**[16]** :doc:`Bezirk Chongming <districts/chongming>` (崇明区) — **Ökologische Technologien, smarte Landwirtschaft und marine Systeme**. Kommission für Wissenschaft und Technologie von Chongming. (2 / 2)"
+
+#: ../../index.rst:38
+msgid "Complete chapters & directories in this atlas"
+msgstr "Vollständige Kapitel und Verzeichnisse in diesem Atlas"
+
+#: ../../index.rst:41
+msgid ""
+":doc:`A city of connected possibilities <reading-the-city>` — Spatial "
+"logic across central Shanghai, industrial corridors, five新城 (New Cities) "
+"and Chongming Eco-Island, plus magnolia design notes and authorship "
+"credits."
+msgstr ":doc:`Eine Stadt der vernetzten Möglichkeiten <reading-the-city>` — Räumliche Logik von Innenstadt, Industriekorridoren, fünf Neuen Städten und der Öko-Insel Chongming sowie Gestaltungshinweise zur weißen Magnolie und Autorenangaben."
+
+#: ../../index.rst:42
+msgid ""
+":doc:`Explore the Shanghai ecosystem <atlas>` — Interactive 16-district "
+"vector map, bilingual search, sector and equity filters, shortlist and "
+"CSV export."
+msgstr ":doc:`Das Schanghaier Innovationsökosystem entdecken <atlas>` — Interaktive Vektorkarte aller 16 Bezirke, zweisprachige Suche, Filter nach Branchen und Beteiligungsanforderungen, Merkliste und CSV-Export."
+
+#: ../../index.rst:43
+msgid ""
+":doc:`Intelligence in software <software-ai>` — Foundation models, "
+"vertical agents, Model Speed Space, Zhangjiang Model Community, "
+"compute/corpus vouchers and compliance routing."
+msgstr ":doc:`Intelligenz in Software <software-ai>` — Basismodelle, vertikale KI-Agenten, Model Speed Space, Zhangjiang Model Community, Gutscheine für Rechenleistung und Datenkorpora sowie Compliance-Pfade."
+
+#: ../../index.rst:44
+msgid ""
+":doc:`Intelligence in the physical world <hardware-ai>` — AI chips, "
+"EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, "
+"BCI and wet-lab biocomputing."
+msgstr ":doc:`Intelligenz in der physischen Welt <hardware-ai>` — KI-Halbleiter, EDA/MPW-Tape-outs, MEMS-Sensoren, verkörperte Robotik, Tiefflugdrohnen, Gehirn-Computer-Schnittstellen (BCI) und Nasslabor-Biocomputing."
+
+#: ../../index.rst:45
+msgid ""
+":doc:`Sixteen districts, sixteen entry routes <districts>` — Dedicated "
+"chapter for each of Shanghai's 16 districts with receiving authorities, "
+"policy boundaries, local carriers and funding."
+msgstr ":doc:`Sechzehn Bezirke, sechzehn Zugangswege <districts>` — Eigenständiges Kapitel für jeden der 16 Schanghaier Bezirke mit zuständigen Behörden, Richtliniengrenzen, lokalen Trägern und Förderprogrammen."
+
+#: ../../index.rst:46
+msgid ""
+":doc:`Universities and commercialization <universities>` — Profiles for "
+"all 40 undergraduate universities in Shanghai with MOE codes, "
+"collaboration themes and tech-transfer contacts."
+msgstr ":doc:`Universitäten und Verwertung <universities>` — Profile aller 40 Universitäten mit Bachelor-Abschluss in Schanghai inklusive MOE-Codes, Forschungsschwerpunkten und Kontakten für Technologietransfer."
+
+#: ../../index.rst:47
+msgid ""
+":doc:`The higher-education register <university-register>` — Complete "
+"June 2026 Ministry of Education register: 40 undergraduate universities, "
+"29 diploma colleges, 12 adult institutions and CEIBS."
+msgstr ":doc:`Das Hochschulregister <university-register>` — Vollständiges Register des Bildungsministeriums vom Juni 2026: 40 Universitäten, 29 tertiäre Fachkollegs, 12 Erwachsenenbildungseinrichtungen und die CEIBS."
+
+#: ../../index.rst:48
+msgid ""
+":doc:`Incubators, accelerators and parks <incubation>` — 28 researched "
+"incubators, accelerators and technology parks across Shanghai with "
+"admission checklists and operator details."
+msgstr ":doc:`Inkubatoren, Acceleratoren und Parks <incubation>` — 38 recherchierte Inkubatoren, Acceleratoren und Technologieparks in ganz Schanghai mit Aufnahme-Checklisten und Betreiberdetails."
+
+#: ../../index.rst:49
+msgid ""
+":doc:`Research and technical platforms <research>` — Shanghai AI Lab, ICC "
+"chip service center and Tongji autonomous and PAI research platforms."
+msgstr ":doc:`Forschungs- und Technologieplattformen <research>` — Shanghai AI Lab, ICC-Chip-Servicezentrum, ICRD, SHTIC, Tsinghua International Innovation Center und Tongji-Forschungsplattformen."
+
+#: ../../index.rst:50
+msgid ""
+":doc:`Corporate and global programs <corporate>` — Roche, SAP.iO, ABB, "
+"DroidUp, PaddlePaddle, Yangtze AI+ Center, JLABS, Bayer Co.Lab, NVIDIA "
+"Inception, Microsoft, AWS, Siemens and BMW."
+msgstr ":doc:`Unternehmens- und globale Programme <corporate>` — Roche, SAP.iO, ABB, DroidUp, PaddlePaddle, Yangtze AI+ Center, JLABS, Bayer Co.Lab, NVIDIA Inception, Microsoft, AWS, Siemens und BMW."
+
+#: ../../index.rst:51
+msgid ""
+":doc:`Government entry points <government>` — All 16 district science, "
+"technology and economy authorities with official portals, published "
+"contacts and policy notes."
+msgstr ":doc:`Behördliche Anlaufstellen <government>` — Alle 16 bezirklichen Behörden für Wissenschaft, Technologie und Wirtschaft mit offiziellen Webportalen, veröffentlichten Kontakten und Richtlinienhinweisen."
+
+#: ../../index.rst:52
+msgid ""
+":doc:`Capital, with its conditions attached <funding-guide>` — How to "
+"distinguish non-repayable grants, post-expenditure reimbursements, "
+"vouchers, debt, tax relief and equity investment."
+msgstr ":doc:`Kapital und seine Bedingungen <funding-guide>` — Differenzierung zwischen nicht rückzahlbaren Zuschüssen, nachträglichen Kostenerstattungen, Gutscheinen, Krediten, Steuervergünstigungen und Eigenkapital."
+
+#: ../../index.rst:53
+msgid ""
+":doc:`Funding, without mixing the mechanisms <funding>` — All 40 citywide "
+"and district funding pathways with ceilings, equity rules, eligibility "
+"criteria, deadlines and official links."
+msgstr ":doc:`Finanzierungswege ohne Begriffsverwirrung <funding>` — Alle 45 stadtweiten und bezirklichen Förderprogramme mit Obergrenzen, Beteiligungsregeln, Förderkriterien, Fristen und offiziellen Links."
+
+#: ../../index.rst:54
+msgid ""
+":doc:`Investors and patient capital <investors>` — STEFG Angel Fund, "
+"Shanghai Leading Industry Funds, Pudong AI Seed Fund, Embodied AI Fund, "
+"STVC and Qiming Venture Partners."
+msgstr ":doc:`Investoren und geduldiges Kapital <investors>` — STEFG Angel Fund, Schanghaier Leitbranchenfonds, Pudong AI Seed Fund, Embodied AI Fund, STVC und Qiming Venture Partners."
+
+#: ../../index.rst:55
+msgid ""
+":doc:`From introduction to application <apply>` — Bilingual outreach "
+"templates, shared data-room checklist, decision workflows and a four-week "
+"accelerator field program."
+msgstr ":doc:`Vom Erstkontakt zur formellen Bewerbung <apply>` — Zweisprachige Anschreibevorlagen, Checkliste für den Datenraum, Entscheidungsprozesse und ein vierwöchiges Vor-Ort-Programm eines Accelerators."
+
+#: ../../index.rst:56
+msgid ""
+":doc:`How to read the evidence <methodology>` — Source verification "
+"rules, translation discipline, map accuracy disclosures, known gaps and "
+"authorship credits."
+msgstr ":doc:`Wie die Belege zu verstehen sind <methodology>` — Regeln zur Quellenprüfung, Übersetzungsgrundsätze, Hinweise zur Kartengenauigkeit, bekannte Erfassungslücken und Autorennachweise."
+
+#: ../../index.rst:57
+msgid ""
+":doc:`Sources and reading room <sources>` — Complete bibliography of all "
+"cited government notices, institutional registers and operator pages with "
+"access dates."
+msgstr ":doc:`Quellen und Lesesaal <sources>` — Vollständige Bibliografie aller zitierten behördlichen Bekanntmachungen, Hochschulverzeichnisse und Betreiberseiten mit Abrufdaten."

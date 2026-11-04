@@ -1,0 +1,125 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/hongkou-stec.rst:1
+msgid "Hongkou Science & Technology Entrepreneurship Center"
+msgstr "Centro de Emprendimiento Científico y Tecnológico de Hongkou y Base de Innovación Posdoctoral"
+
+#: ../../entities/hongkou-stec.rst:4
+msgid "虹口区科技创业中心与博士后创新基地"
+msgstr "虹口区科技创业中心与博士后创新基地"
+
+#: ../../entities/hongkou-stec.rst:6
+msgid "Incubator | Hongkou | Research checked 2026-11-04"
+msgstr "Incubadora | Distrito de Hongkou | Investigación verificada el 2026-11-04"
+
+#: ../../entities/hongkou-stec.rst:8
+msgid "AI and industry focus: Software AI, Industry, Climate."
+msgstr "Enfoque de IA e industria: IA de software, Industria, Clima y sostenibilidad."
+
+#: ../../entities/hongkou-stec.rst:10
+msgid ""
+"District public entrepreneurship center and postdoctoral innovation "
+"practice base route supporting tech SMEs, green-shipping digital tools "
+"and R&D talent settlement in Hongkou."
+msgstr "Centro público distrital de emprendimiento y base de práctica de innovación posdoctoral que apoya a pymes tecnológicas, herramientas digitales de transporte marítimo verde y el asentamiento de talento de I+D en Hongkou."
+
+#: ../../entities/hongkou-stec.rst:12
+msgid ""
+"`Evidence S068 "
+"<https://www.shhk.gov.cn/xwzx/002004/20220409/4cbd6213-60a2-4419-a24e-7a21cf8ade6b.html>`_. "
+"虹口区科技创业中心助力企业纾困解难-上海市虹口区人民政府."
+msgstr "`Evidencia S068 <https://www.shhk.gov.cn/xwzx/002004/20220409/4cbd6213-60a2-4419-a24e-7a21cf8ade6b.html>`_. 虹口区科技创业中心助力企业纾困解难-上海市虹口区人民政府."
+
+#: ../../entities/hongkou-stec.rst:14
+msgid ""
+"`Evidence S069 "
+"<https://www.shhk.gov.cn/qyfwy/030011/030011003/20260319/98919b72-539a-4a44-96eb-8b7bec25fa28.html>`_. "
+"2026年虹口区博士后创新实践基地项目启动申报！-上海虹口企业服务云."
+msgstr "`Evidencia S069 <https://www.shhk.gov.cn/qyfwy/030011/030011003/20260319/98919b72-539a-4a44-96eb-8b7bec25fa28.html>`_. 2026年虹口区博士后创新实践基地项目启动申报！-上海虹口企业服务云."
+
+#: ../../entities/hongkou-stec.rst:16
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/hongkou-stec.rst:19
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/hongkou-stec.rst:21
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/hongkou-stec.rst:23
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/hongkou-stec.rst:26
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shhk.gov.cn/xwzx/002004/20220409/4cbd6213-60a2-4419-a24e-7a21cf8ade6b.html>`_"
+msgstr "`Fuente oficial y vía de la autoridad competente <https://www.shhk.gov.cn/xwzx/002004/20220409/4cbd6213-60a2-4419-a24e-7a21cf8ade6b.html>`_"
+
+#: ../../entities/hongkou-stec.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/hongkou-stec.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/hongkou-stec.rst:32
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/hongkou-stec.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/hongkou-stec.rst:37
+msgid "Send a project brief and request the current admission checklist."
+msgstr "Enviar un resumen ejecutivo del proyecto y solicitar la lista vigente de requisitos de admisión."
+
+#: ../../entities/hongkou-stec.rst:39
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "Completar la evaluación de elegibilidad y la revisión técnica o comercial del operador."
+
+#: ../../entities/hongkou-stec.rst:41
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "Confirmar por escrito el alquiler, las tarifas de servicio, la propiedad intelectual, los precios de cómputo y cualquier derecho sobre el capital."
+
+#: ../../entities/hongkou-stec.rst:43
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "Firmar los documentos de admisión acordados y registrar los hitos y los responsables de soporte."
+
+#: ../../entities/hongkou-stec.rst:45
+msgid ":doc:`Hongkou district route </districts/hongkou>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Hongkou </districts/hongkou>`"

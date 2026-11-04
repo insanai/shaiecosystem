@@ -1,0 +1,147 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/changning.rst:1
+msgid "Changning"
+msgstr "Bezirk Changning"
+
+#: ../../districts/changning.rst:4
+msgid "Digital business, AI applications and cross-border services"
+msgstr "Digitalwirtschaft, KI-Anwendungen und grenzüberschreitende Dienstleistungen"
+
+#: ../../districts/changning.rst:6
+msgid ""
+"The August 2026 district account identifies Digital Silicon Alley, "
+"Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
+"MAKE021 as parts of its incubation landscape. Confirm the correct "
+"operator before submitting."
+msgstr "Die Zehn-Maßnahmen-Richtlinie von Changning zur Stärkung der Innovationskraft von Unternehmen umfasst Unterstützung bei Miete, Kreditzinsen und geistigem Eigentum. Prüfen Sie die aktuelle Runde sowie die Einbindung der Shanghai Silicon Alley vor einer Antragstellung."
+
+#: ../../districts/changning.rst:8
+msgid ""
+"`Evidence S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. "
+"上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+msgstr "`Nachweis S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. 上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+
+#: ../../districts/changning.rst:10
+msgid "Who receives the inquiry"
+msgstr "Zuständige Anlaufstelle für Anfragen"
+
+#: ../../districts/changning.rst:13
+msgid "Changning science and technology authority"
+msgstr "Kommission für Wissenschaft und Technologie von Changning"
+
+#: ../../districts/changning.rst:15
+msgid "`Official district website <https://www.shcn.gov.cn/>`_"
+msgstr "`Offizielle Website des Bezirks <https://www.shcn.gov.cn/>`_"
+
+#: ../../districts/changning.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "In diesem Datensatz ist keine direkte Telefondurchwahl oder E-Mail-Adresse hinterlegt. Bitte erfragen Sie das zuständige Fachteam über das offizielle Webportal."
+
+#: ../../districts/changning.rst:19
+msgid "Before applying"
+msgstr "Vor der Antragstellung"
+
+#: ../../districts/changning.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../districts/changning.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../districts/changning.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../districts/changning.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../districts/changning.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../districts/changning.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Bringen Sie in Erfahrung, welche Richtlinienfassung maßgeblich ist, ob Firmensitz und tatsächlicher Betrieb beide im Bezirk liegen müssen, welcher Ausgabenzeitraum anerkannt wird und ob bereits erhaltene städtische oder bezirkliche Fördermittel eine Bewilligung ausschließen. Klären Sie dies verbindlich, bevor Sie den Firmensitz verlegen oder Kosten auslösen."
+
+#: ../../districts/changning.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Lokale Institutionen in diesem Atlas"
+
+#: ../../districts/changning.rst:37
+msgid ""
+":doc:`Digital Silicon Alley / Hongqiao innovation carriers "
+"</entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Incubator · Software AI) — "
+"Changning identifies a layered group of digital incubation and OPC "
+"communities. We treat this record as a district routing entry, not a "
+"single interchangeable operator or a guaranteed free-workspace offer. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Digital Silicon Alley / Innovationsstandorte Hongqiao </entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Inkubator · Software-KI) — Die Technologieachse des Bezirks Changning zur Ansiedlung digitaler Unternehmen, spezialisiert auf KI-Dienste, E-Commerce und intelligente Anwendungen. Klären Sie die Bezirkszuständigkeit und Steuerzuordnung vor Vertragsunterzeichnung. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/changning.rst:38
+msgid ""
+":doc:`East Hongqiao International Youth Innovation Center "
+"</entities/east-hongqiao>` (东虹桥国际青年科创中心 · Incubator · Software AI) — "
+"Changning's official May 2026 account describes a hub for AI-enabled "
+"independent founders, combining incubation, AI services, talent support "
+"and global business resources. Confirm the current operator's selection "
+"and service terms. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Internationales Jugend-Innovationszentrum Ost-Hongqiao </entities/east-hongqiao>` (东虹桥国际青年科创中心 · Inkubator · Software-KI) — Laut offiziellem Bericht von Changning vom Mai 2026 ein Zentrum für KI-gestützte Einzelgründer (OPC) mit Inkubationsangeboten, KI-Tools, Talentförderung und globaler Vernetzung. Prüfen Sie die aktuellen Aufnahmebedingungen des Betreibers. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/changning.rst:40
+msgid "Funding routes"
+msgstr "Finanzierungs- und Förderwege"
+
+#: ../../districts/changning.rst:43
+msgid ""
+":doc:`Changning AI Industry Projects, 2026 </funding/changning-ai-2026>` "
+"(2026长宁人工智能产业项目 · Grant · No equity) — Project-specific support after "
+"assessment; no common ceiling established. Status: Closed. Timing: Closed "
+"30 June 2026."
+msgstr ":doc:`Projekte der KI-Industrie Changning 2026 </funding/changning-ai-2026>` (2026长宁人工智能产业项目 · Zuschuss · Ohne Anteilsabgabe) — Projektspezifische Förderung nach Begutachtung; keine einheitliche Pauschale. Status: Geschlossen. Zeitrahmen: Bewerbungsschluss war der 30. Juni 2026."
+
+#: ../../districts/changning.rst:44
+msgid ""
+":doc:`Changning Technology Star Teams, 2026 "
+"</funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · No equity) — "
+"Funding for assessed and recognized teams under the district talent fund "
+"plan. Status: Closed. Timing: Closed 26 June 2026."
+msgstr ":doc:`Technologie-Star-Teams Changning 2026 </funding/changning-tech-star>` (2026长宁科技之星团队 · Zuschuss · Ohne Anteilsabgabe) — Finanzielle Unterstützung für begutachtete und anerkannte Teams im Rahmen des bezirklichen Talentfonds. Status: Geschlossen. Zeitrahmen: Bewerbungsschluss war der 26. Juni 2026."
+
+#: ../../districts/changning.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Auch stadtweite Förderprogramme vergleichen </funding>`"

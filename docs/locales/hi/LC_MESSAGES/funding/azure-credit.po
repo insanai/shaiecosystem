@@ -1,0 +1,108 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/azure-credit.rst:1
+msgid "Microsoft startup cloud resources"
+msgstr "माइक्रोसॉफ्ट स्टार्टअप क्लाउड संसाधन"
+
+#: ../../funding/azure-credit.rst:4
+msgid "Cloud credits | Citywide / global"
+msgstr "क्लाउड क्रेडिट | शहर-व्यापी / वैश्विक"
+
+#: ../../funding/azure-credit.rst:6
+msgid "Regional eligibility to confirm"
+msgstr "क्षेत्रीय पात्रता की पुष्टि शेष"
+
+#: ../../funding/azure-credit.rst:8
+msgid ""
+"`Evidence S041 <https://learn.microsoft.com/en-us/startups/overview>`_. "
+"What is Microsoft for Startups? | Microsoft Learn."
+msgstr "`साक्ष्य S041 <https://learn.microsoft.com/en-us/startups/overview>`_. What is Microsoft for Startups? | Microsoft Learn."
+
+#: ../../funding/azure-credit.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/azure-credit.rst:13
+msgid "Offer-specific credits and technical resources"
+msgstr "ऑफ़र-विशिष्ट क्रेडिट और तकनीकी संसाधन"
+
+#: ../../funding/azure-credit.rst:15
+msgid "Verify current agreement"
+msgstr "वर्तमान समझौते को सत्यापित करें"
+
+#: ../../funding/azure-credit.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/azure-credit.rst:20
+msgid ""
+"Apply online and verify company, region and account eligibility. Global "
+"benefits are not represented as China-region entitlements."
+msgstr "ऑनलाइन आवेदन करें और कंपनी, क्षेत्र तथा खाता पात्रता को सत्यापित करें। वैश्विक लाभों को चीन-क्षेत्र के अधिकारों के रूप में प्रस्तुत नहीं किया जाता है।"
+
+#: ../../funding/azure-credit.rst:22
+msgid "Confirm current application and credit validity"
+msgstr "वर्तमान आवेदन और क्रेडिट वैधता की पुष्टि करें"
+
+#: ../../funding/azure-credit.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/azure-credit.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://learn.microsoft.com/en-us/startups/overview>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://learn.microsoft.com/en-us/startups/overview>`_"
+
+#: ../../funding/azure-credit.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/azure-credit.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/azure-credit.rst:33
+msgid ""
+"Check incorporation, company age, account region and existing benefits."
+msgstr "निगमन, कंपनी की आयु, खाता क्षेत्र और मौजूदा लाभों की जाँच करें।"
+
+#: ../../funding/azure-credit.rst:35
+msgid "Apply through the official program form or qualifying partner route."
+msgstr "आधिकारिक कार्यक्रम फॉर्म या योग्य भागीदार मार्ग के माध्यम से आवेदन करें।"
+
+#: ../../funding/azure-credit.rst:37
+msgid ""
+"Confirm covered services, expiry, fees, usage limits and overage billing."
+msgstr "कवर की गई सेवाओं, समाप्ति तिथि, शुल्क, उपयोग सीमा और अतिरिक्त बिलिंग की पुष्टि करें।"
+
+#: ../../funding/azure-credit.rst:39
+msgid "Keep usage records and do not describe credits as unrestricted cash."
+msgstr "उपयोग रिकॉर्ड रखें और क्रेडिट को अप्रतिबंधित नकदी के रूप में वर्णित न करें।"
+
+#: ../../funding/azure-credit.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

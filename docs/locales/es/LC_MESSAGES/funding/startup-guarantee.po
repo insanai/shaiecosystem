@@ -1,0 +1,119 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/startup-guarantee.rst:1
+msgid "Shanghai guaranteed startup loans"
+msgstr "Préstamos garantizados para el emprendimiento de Shanghái"
+
+#: ../../funding/startup-guarantee.rst:4
+msgid "Loan | Citywide / global"
+msgstr "Préstamo | Toda la ciudad / global"
+
+#: ../../funding/startup-guarantee.rst:6
+msgid "Published service; current terms to confirm"
+msgstr "Servicio publicado; condiciones vigentes por confirmar"
+
+#: ../../funding/startup-guarantee.rst:8
+msgid ""
+"`Evidence S098 "
+"<https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. "
+"Shanghai's guaranteed start-up loans top 1.3 billion yuan this "
+"year_Editor's Pick."
+msgstr "`Evidencia S098 <https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. Shanghai's guaranteed start-up loans top 1.3 billion yuan this year_Editor's Pick."
+
+#: ../../funding/startup-guarantee.rst:10
+msgid "Amount and mechanism"
+msgstr "Importe y mecanismo"
+
+#: ../../funding/startup-guarantee.rst:13
+msgid ""
+"Loan ceiling and interest support depend on applicant class and current "
+"rules"
+msgstr "El límite del préstamo y la bonificación de intereses dependen de la categoría del solicitante y de la normativa vigente"
+
+#: ../../funding/startup-guarantee.rst:15
+msgid "No equity; repayable"
+msgstr "Sin cesión de capital; reembolsable"
+
+#: ../../funding/startup-guarantee.rst:17
+msgid "Eligibility and timing"
+msgstr "Elegibilidad y plazos"
+
+#: ../../funding/startup-guarantee.rst:20
+msgid ""
+"Individual, pre-startup and enterprise routes have different residence, "
+"education, registration and employment conditions. Bank underwriting "
+"still applies; an interest subsidy does not remove principal repayment."
+msgstr "Las modalidades individual, preemprendimiento y de empresa tienen distintos requisitos de residencia, estudios, registro y creación de empleo. Sigue aplicándose el análisis de riesgos bancario; la subvención de intereses no exime de devolver el principal."
+
+#: ../../funding/startup-guarantee.rst:22
+msgid "Confirm current HRSS service rules"
+msgstr "Confirmar las normas vigentes del servicio de Recursos Humanos y Seguridad Social (HRSS)"
+
+#: ../../funding/startup-guarantee.rst:24
+msgid "Contact and application"
+msgstr "Contacto y solicitud"
+
+#: ../../funding/startup-guarantee.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://zzjb.rsj.sh.gov.cn/zzjbdl/jsp/login.html>`_"
+msgstr "`Vía oficial de solicitud / normativa <https://zzjb.rsj.sh.gov.cn/zzjbdl/jsp/login.html>`_"
+
+#: ../../funding/startup-guarantee.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "La autoridad u operador enlazado constituye la vía de contacto. En este perfil no consta un contacto directo vigente para el programa."
+
+#: ../../funding/startup-guarantee.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../funding/startup-guarantee.rst:33
+msgid ""
+"Select the current bank or public guarantee product and check borrower "
+"eligibility."
+msgstr "Seleccionar el producto bancario o de garantía pública vigente y comprobar los requisitos de elegibilidad del prestatario."
+
+#: ../../funding/startup-guarantee.rst:35
+msgid ""
+"Prepare accounts, cash-flow forecast, ownership and requested security "
+"documents."
+msgstr "Preparar los estados financieros, la previsión de tesorería, la estructura societaria y la documentación de garantía solicitada."
+
+#: ../../funding/startup-guarantee.rst:37
+msgid ""
+"Complete lender and guarantee assessment; compare all costs and repayment "
+"terms."
+msgstr "Completar la evaluación de riesgos de la entidad prestamista y del ente garante; comparar todos los costes financieros y plazos de amortización."
+
+#: ../../funding/startup-guarantee.rst:39
+msgid ""
+"Sign and track debt service; claim interest support only if independently "
+"eligible."
+msgstr "Firmar la póliza y gestionar el servicio de la deuda; solicitar la bonificación de intereses únicamente si se cumplen de forma independiente sus requisitos."
+
+#: ../../funding/startup-guarantee.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "El importe máximo publicado es un techo presupuestario, no un derecho adquirido. Verifique la convocatoria aplicable, el período de gastos elegibles, la compatibilidad con otras ayudas públicas y las condiciones de desembolso por escrito."

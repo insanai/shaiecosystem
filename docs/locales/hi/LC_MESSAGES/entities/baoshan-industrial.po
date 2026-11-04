@@ -1,0 +1,119 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/baoshan-industrial.rst:1
+msgid "Baoshan Industrial Park"
+msgstr "बाओशान इंडस्ट्रियल पार्क (Baoshan Industrial Park)"
+
+#: ../../entities/baoshan-industrial.rst:4
+msgid "宝山工业园区"
+msgstr "宝山工业园区"
+
+#: ../../entities/baoshan-industrial.rst:6
+msgid "Technology park | Baoshan | Research checked 2026-11-04"
+msgstr "प्रौद्योगिकी पार्क | बाओशान (Baoshan) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/baoshan-industrial.rst:8
+msgid "AI and industry focus: Industry, Hardware AI."
+msgstr "एआई और उद्योग फोकस: उद्योग, हार्डवेयर AI।"
+
+#: ../../entities/baoshan-industrial.rst:10
+msgid ""
+"The park committee publishes an official contact and provides industrial "
+"admission, project attraction, policy coordination and business services. "
+"This is a separate park from the Gucun robot industrial park."
+msgstr "पार्क समिति एक आधिकारिक संपर्क प्रकाशित करती है और औद्योगिक प्रवेश, परियोजना आकर्षण, नीति समन्वय और व्यावसायिक सेवाएं प्रदान करती है। यह गुचुन रोबोट इंडस्ट्रियल पार्क से एक अलग पार्क है।"
+
+#: ../../entities/baoshan-industrial.rst:12
+msgid ""
+"`Evidence S020 "
+"<https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. "
+"信息公开机构_上海市宝山区人民政府门户网站."
+msgstr "`साक्ष्य S020 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. 信息公开机构_上海市宝山区人民政府门户网站."
+
+#: ../../entities/baoshan-industrial.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/baoshan-industrial.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/baoshan-industrial.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/baoshan-industrial.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/baoshan-industrial.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
+msgstr "`आधिकारिक साक्ष्य और प्राधिकरण मार्ग <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
+
+#: ../../entities/baoshan-industrial.rst:26
+msgid "Telephone: +86 21 66879800."
+msgstr "टेलीफ़ोन: +86 21 66879800।"
+
+#: ../../entities/baoshan-industrial.rst:28
+msgid "Published address: 1688 Jinshi Road, Baoshan."
+msgstr "प्रकाशित पता: 1688 जिनशी रोड, बाओशान।"
+
+#: ../../entities/baoshan-industrial.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/baoshan-industrial.rst:32
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/baoshan-industrial.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/baoshan-industrial.rst:37
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "प्रोटोटाइप, आवश्यक उपकरण, प्रक्रिया और परीक्षण आवश्यकताओं का वर्णन करें।"
+
+#: ../../entities/baoshan-industrial.rst:39
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "तकनीकी समीक्षा, सुविधा के दौरे और मदवार कोटेशन के लिए पूछें।"
+
+#: ../../entities/baoshan-industrial.rst:41
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "पहुंच, सुरक्षा, नमूना और IP स्वामित्व, परीक्षण दायरे और स्वीकृति पर सहमति बनाएं।"
+
+#: ../../entities/baoshan-industrial.rst:43
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "सुविधा अनुबंध को निवेश या सार्वजनिक-फंडिंग आवेदनों से अलग रखें।"
+
+#: ../../entities/baoshan-industrial.rst:45
+msgid ":doc:`Baoshan district route </districts/baoshan>`"
+msgstr ":doc:`बाओशान (Baoshan) ज़िला मार्ग </districts/baoshan>`"

@@ -1,0 +1,116 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/putuo-rd-platform.rst:1
+msgid "Putuo R&D Platform Projects, 2026"
+msgstr "पुतुओ R&D प्लेटफॉर्म परियोजनाएं, 2026"
+
+#: ../../funding/putuo-rd-platform.rst:4
+msgid "Grant | Putuo"
+msgstr "अनुदान (Grant) | पुतुओ (Putuo)"
+
+#: ../../funding/putuo-rd-platform.rst:6
+msgid "2026 call published; not confirmed open"
+msgstr "2026 कॉल प्रकाशित; खुले होने की पुष्टि नहीं"
+
+#: ../../funding/putuo-rd-platform.rst:8
+msgid ""
+"`Evidence S111 "
+"<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. "
+"关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+msgstr "`साक्ष्य S111 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+
+#: ../../funding/putuo-rd-platform.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/putuo-rd-platform.rst:13
+msgid ""
+"Up to RMB 2 million; first payment at most 50%, balance subject to "
+"acceptance"
+msgstr "RMB 2 मिलियन तक; पहला भुगतान अधिकतम 50%, शेष स्वीकृति के अधीन"
+
+#: ../../funding/putuo-rd-platform.rst:15
+msgid "No equity"
+msgstr "कोई इक्विटी नहीं"
+
+#: ../../funding/putuo-rd-platform.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/putuo-rd-platform.rst:20
+msgid ""
+"Lawfully established, good-credit legal or non-legal-person organizations "
+"building qualifying R&D platforms. Online registration requires district "
+"review; credit commitments and prescribed materials are required."
+msgstr "अर्हकारी R&D प्लेटफॉर्म बनाने वाले कानूनी रूप से स्थापित, अच्छे क्रेडिट वाले कानूनी या गैर-कानूनी-व्यक्ति संगठन। ऑनलाइन पंजीकरण के लिए जिला समीक्षा आवश्यक है; क्रेडिट प्रतिबद्धताएं और निर्धारित सामग्री आवश्यक हैं।"
+
+#: ../../funding/putuo-rd-platform.rst:22
+msgid "Confirm the deadline in the September 2026 notice"
+msgstr "सितंबर 2026 की सूचना में समय सीमा की पुष्टि करें"
+
+#: ../../funding/putuo-rd-platform.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/putuo-rd-platform.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+
+#: ../../funding/putuo-rd-platform.rst:29
+msgid "Published consultation: +86 21 52564588 ext. 8628."
+msgstr "प्रकाशित परामर्श फ़ोन: +86 21 52564588 ext. 8628।"
+
+#: ../../funding/putuo-rd-platform.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/putuo-rd-platform.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../funding/putuo-rd-platform.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../funding/putuo-rd-platform.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../funding/putuo-rd-platform.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../funding/putuo-rd-platform.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

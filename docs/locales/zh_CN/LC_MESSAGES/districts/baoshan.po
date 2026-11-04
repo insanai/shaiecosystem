@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -33,10 +33,10 @@ msgstr "全区正在发展机器人及高端装备产业集群。园区准入与
 
 #: ../../districts/baoshan.rst:8
 msgid ""
-"`Evidence S066 "
+"`Evidence S092 "
 "<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
 "机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
-msgstr "`证据 S066 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+msgstr "`证据 S092 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
 
 #: ../../districts/baoshan.rst:10
 msgid "Who receives the inquiry"
@@ -103,12 +103,24 @@ msgid "Local organizations in this atlas"
 msgstr "本图谱中的本区机构"
 
 #: ../../districts/baoshan.rst:37
-msgid ":doc:`Shanghai Robot Industrial Park </entities/robot-park>`"
-msgstr ":doc:`上海机器人产业园 </entities/robot-park>`"
+msgid ""
+":doc:`Shanghai Robot Industrial Park </entities/robot-park>` (上海机器人产业园 · "
+"Technology park · Hardware AI, Robotics) — A robotics industrial park in "
+"Gucun, Baoshan. Suitable for industrial robotics supply chains and "
+"deployment; we distinguish it from ABB facilities in Pudong and from the "
+"broader Baoshan industrial park. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`上海机器人产业园 </entities/robot-park>` （上海机器人产业园 · 科技园区 · 硬件人工智能、机器人）—— 位于宝山顾村的机器人产业园，适合工业机器人供应链及应用对接；应与浦东ABB设施及宝山工业园区区分。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/baoshan.rst:38
-msgid ":doc:`Baoshan Industrial Park </entities/baoshan-industrial>`"
-msgstr ":doc:`宝山工业园区 </entities/baoshan-industrial>`"
+msgid ""
+":doc:`Baoshan Industrial Park </entities/baoshan-industrial>` (宝山工业园区 · "
+"Technology park · Industry, Hardware AI) — The park committee publishes "
+"an official contact and provides industrial admission, project "
+"attraction, policy coordination and business services. This is a separate "
+"park from the Gucun robot industrial park. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`宝山工业园区 </entities/baoshan-industrial>` （宝山工业园区 · 科技园区 · 产业、硬件人工智能）—— 园区管委会公布官方联系方式，负责产业准入、项目招商、政策协调及企业服务，与顾村机器人产业园为不同园区。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/baoshan.rst:40
 msgid "Funding routes"
@@ -117,9 +129,23 @@ msgstr "资金路径"
 #: ../../districts/baoshan.rst:43
 msgid ""
 ":doc:`Baoshan pre-investment / later equity project call "
-"</funding/baoshan-conversion>`"
-msgstr ":doc:`宝山先投后股项目征集 </funding/baoshan-conversion>`"
+"</funding/baoshan-conversion>` (宝山先投后股项目征集 · Convertible support · "
+"Potential equity conversion; review contract) — Amount and conversion "
+"terms require the actual project guide and agreement. Status: Closed. "
+"Timing: Closed 10 February 2026."
+msgstr ":doc:`宝山先投后股项目征集 </funding/baoshan-conversion>` （宝山先投后股项目征集 · 可转股支持 · 可能转为股权，须审核协议）—— 额度及转股条件须以项目指南及协议为准。状态：已截止。时间：已于2026年2月10日截止。"
 
 #: ../../districts/baoshan.rst:45
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ":doc:`Shanghai Robot Industrial Park </entities/robot-park>`"
+#~ msgstr ":doc:`上海机器人产业园 </entities/robot-park>`"
+
+#~ msgid ":doc:`Baoshan Industrial Park </entities/baoshan-industrial>`"
+#~ msgstr ":doc:`宝山工业园区 </entities/baoshan-industrial>`"
+
+#~ msgid ""
+#~ ":doc:`Baoshan pre-investment / later equity project call "
+#~ "</funding/baoshan-conversion>`"
+#~ msgstr ":doc:`宝山先投后股项目征集 </funding/baoshan-conversion>`"

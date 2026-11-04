@@ -1,0 +1,117 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/maqiao.rst:1
+msgid "Maqiao AI Innovation Zone"
+msgstr "Maqiao KI-Innovations- und Pilotzone"
+
+#: ../../entities/maqiao.rst:4
+msgid "马桥人工智能创新试验区"
+msgstr "马桥人工智能创新试验区"
+
+#: ../../entities/maqiao.rst:6
+msgid "Technology park | Minhang | Research checked 2026-11-04"
+msgstr "Technologiepark | Bezirk Minhang | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/maqiao.rst:8
+msgid "AI and industry focus: Hardware AI, Robotics."
+msgstr "KI- und Branchenfokus: Hardware-KI, Robotik."
+
+#: ../../entities/maqiao.rst:10
+msgid ""
+"The Minhang 2025-2026 park plan links Grand neoBay R&D with Maqiao "
+"manufacturing. A useful pathway from a robot prototype to supply-chain "
+"and production conversations."
+msgstr "Eine Sonderzone im Bezirk Minhang, die sich auf Industrie-KI, autonomes Fahren und Großanwendungen spezialisiert hat. Testfeld- und Hallenkapazitäten müssen gesondert mit der Zonenverwaltung abgestimmt werden."
+
+#: ../../entities/maqiao.rst:12
+msgid ""
+"`Evidence S018 "
+"<https://www.shanghai.gov.cn/gwk/search/content/9f1fbc635cbf4749aa3f384e47d80aea>`_. "
+"闵行区人民政府关于印发《张江高新区闵行园区改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`Nachweis S018 <https://www.shanghai.gov.cn/gwk/search/content/9f1fbc635cbf4749aa3f384e47d80aea>`_. 闵行区人民政府关于印发《张江高新区闵行园区改革创新发展行动方案（2025-2026年）》的通知."
+
+#: ../../entities/maqiao.rst:14
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/maqiao.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/maqiao.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/maqiao.rst:21
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/maqiao.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/gwk/search/content/9f1fbc635cbf4749aa3f384e47d80aea>`_"
+msgstr "`Offizieller Nachweis und Behördenweg <https://www.shanghai.gov.cn/gwk/search/content/9f1fbc635cbf4749aa3f384e47d80aea>`_"
+
+#: ../../entities/maqiao.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+
+#: ../../entities/maqiao.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/maqiao.rst:30
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/maqiao.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/maqiao.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "Prototyp, benötigte Ausrüstung, Fertigungsprozesse und Prüfanforderungen detailliert darlegen."
+
+#: ../../entities/maqiao.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "Eine technische Prüfung, Laborbesichtigung und ein aufgeschlüsseltes Angebot anfordern."
+
+#: ../../entities/maqiao.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "Zugangsregeln, Sicherheitsvorschriften, Eigentum an Proben und geistigem Eigentum, Prüfumfang und Abnahmekriterien vereinbaren."
+
+#: ../../entities/maqiao.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "Den Nutzungsvertrag für Testeinrichtungen strikt von Förder- oder Investitionsanträgen trennen."
+
+#: ../../entities/maqiao.rst:43
+msgid ":doc:`Minhang district route </districts/minhang>`"
+msgstr ":doc:`Bezirksroute Bezirk Minhang </districts/minhang>`"

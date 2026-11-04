@@ -1,0 +1,114 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/pujiang.rst:1
+msgid "Magnolia Talent Plan, Pujiang Project 2026"
+msgstr "Plan de Talento Magnolia, Proyecto Pujiang 2026"
+
+#: ../../funding/pujiang.rst:4
+msgid "Grant | Citywide / global"
+msgstr "Subvención a fondo perdido | Toda la ciudad / global"
+
+#: ../../funding/pujiang.rst:6
+msgid "2026 call published; not confirmed open"
+msgstr "Convocatoria 2026 publicada; no confirmada como abierta"
+
+#: ../../funding/pujiang.rst:8
+msgid ""
+"`Evidence S102 "
+"<https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_. "
+"关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会."
+msgstr "`Evidencia S102 <https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_. 关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会."
+
+#: ../../funding/pujiang.rst:10
+msgid "Amount and mechanism"
+msgstr "Importe y mecanismo"
+
+#: ../../funding/pujiang.rst:13
+msgid "Category-specific support; consult the actual 2026 category"
+msgstr "Apoyo específico según la categoría; consulte la modalidad concreta de 2026"
+
+#: ../../funding/pujiang.rst:15
+msgid "No equity"
+msgstr "Sin cesión de capital (No equity)"
+
+#: ../../funding/pujiang.rst:17
+msgid "Eligibility and timing"
+msgstr "Elegibilidad y plazos"
+
+#: ../../funding/pujiang.rst:20
+msgid ""
+"The July 2026 guide supports eligible overseas returnees through distinct "
+"categories. Scientific research and entrepreneurial routes must not be "
+"confused; host endorsement may be required."
+msgstr "La guía de julio de 2026 respalda a talentos elegibles retornados del extranjero a través de distintas categorías. No deben confundirse las vías de investigación científica con las de emprendimiento empresarial; suele requerirse el aval de la entidad de acogida."
+
+#: ../../funding/pujiang.rst:22
+msgid "Confirm category deadline and host review"
+msgstr "Confirmar la fecha límite de la categoría y el plazo de revisión de la entidad de acogida"
+
+#: ../../funding/pujiang.rst:24
+msgid "Contact and application"
+msgstr "Contacto y solicitud"
+
+#: ../../funding/pujiang.rst:27
+msgid "`Official application / policy route <https://stcsm.sh.gov.cn/>`_"
+msgstr "`Vía oficial de solicitud / normativa <https://stcsm.sh.gov.cn/>`_"
+
+#: ../../funding/pujiang.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "La autoridad u operador enlazado constituye la vía de contacto. En este perfil no consta un contacto directo vigente para el programa."
+
+#: ../../funding/pujiang.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../funding/pujiang.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../funding/pujiang.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../funding/pujiang.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../funding/pujiang.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../funding/pujiang.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "El importe máximo publicado es un techo presupuestario, no un derecho adquirido. Verifique la convocatoria aplicable, el período de gastos elegibles, la compatibilidad con otras ayudas públicas y las condiciones de desembolso por escrito."

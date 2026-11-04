@@ -1,0 +1,171 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../corporate.rst:1
+msgid "Corporate and global programs"
+msgstr "कॉर्पोरेट और वैश्विक कार्यक्रम"
+
+#: ../../corporate.rst:4
+msgid ""
+"13 profiles with evidence, contact routes and an application checklist. "
+"Published existence is distinguished from current intake."
+msgstr "साक्ष्य, संपर्क मार्ग और आवेदन चेकलिस्ट के साथ 13 प्रोफ़ाइल। प्रकाशित अस्तित्व और वर्तमान प्रवेश को अलग-अलग दर्शाया गया है।"
+
+#: ../../corporate.rst:6
+msgid ""
+"Global programs are kept separate from local offices. Their China-region "
+"eligibility, service availability and account rules require direct "
+"verification. Historical corporate cohorts are marked."
+msgstr "वैश्विक कार्यक्रमों को स्थानीय कार्यालयों से अलग रखा गया है। उनकी चीन-क्षेत्र पात्रता, सेवा उपलब्धता और खाता नियमों के लिए प्रत्यक्ष सत्यापन आवश्यक है। ऐतिहासिक कॉर्पोरेट बैच चिह्नित किए गए हैं।"
+
+#: ../../corporate.rst:10
+msgid "Complete directory summary"
+msgstr "संपूर्ण निर्देशिका सारांश"
+
+#: ../../corporate.rst:13
+msgid ""
+":doc:`Roche Accelerator <entities/roche>` (罗氏加速器 · Corporate program · "
+"Pudong · Focus: Health, AI for Science) — Roche describes its Shanghai "
+"innovation accelerator for the China ecosystem. Relevant to healthcare "
+"and AI-enabled discovery teams. Scientific fit, space, collaboration, "
+"funding and IP terms are distinct questions. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`रोश एक्सेलेरेटर (Roche Accelerator) <entities/roche>` (罗氏加速器 · कॉर्पोरेट कार्यक्रम · पुडोंग (Pudong) · स्वास्थ्य, विज्ञान के लिए AI) — रोश चीन इकोसिस्टम के लिए अपने शंघाई इनोवेशन एक्सेलेरेटर का वर्णन करता है। हेल्थकेयर और AI-सक्षम डिस्कवरी टीमों के लिए प्रासंगिक। वैज्ञानिक उपयुक्तता, स्थान, सहयोग, फंडिंग और IP शर्तें अलग-अलग प्रश्न हैं। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../corporate.rst:14
+msgid ""
+":doc:`SAP.iO Foundry Shanghai <entities/sapio>` (SAP.iO上海加速器 · Corporate "
+"program · Pudong · Focus: Software AI, Industry) — The 2021 launch "
+"described an equity-free intelligent-manufacturing accelerator. It is "
+"included as a historical corporate route; the source does not establish a "
+"2026 Shanghai intake. Support: Equity-free services. [Status: Historical "
+"/ confirm continuation]"
+msgstr ":doc:`SAP.iO फाउंड्री शंघाई (SAP.iO Foundry Shanghai) <entities/sapio>` (SAP.iO上海加速器 · कॉर्पोरेट कार्यक्रम · पुडोंग (Pudong) · सॉफ्टवेयर AI, उद्योग) — 2021 के लॉन्च में एक इक्विटी-मुक्त इंटेलिजेंट-विनिर्माण एक्सेलेरेटर का वर्णन किया गया था। इसे एक ऐतिहासिक कॉर्पोरेट मार्ग के रूप में शामिल किया गया है; स्रोत 2026 में शंघाई प्रवेश की पुष्टि नहीं करता है। [इक्विटी-मुक्त सेवाएं]. [ऐतिहासिक / निरंतरता की पुष्टि करें]"
+
+#: ../../corporate.rst:15
+msgid ""
+":doc:`ABB open innovation / Shanghai robotics <entities/abb>` "
+"(ABB开放创新／上海机器人生态 · Corporate program · Pudong · Focus: Hardware AI, "
+"Robotics) — ABB publishes open-innovation and startup collaboration "
+"routes. Its May 2025 Shanghai AI event is evidence of ecosystem activity, "
+"not an always-open startup accelerator cohort. Propose a measurable "
+"robotics use case. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`ABB ओपन इनोवेशन / शंघाई रोबोटिक्स (ABB open innovation / Shanghai robotics) <entities/abb>` (ABB开放创新／上海机器人生态 · कॉर्पोरेट कार्यक्रम · पुडोंग (Pudong) · हार्डवेयर AI, रोबोटिक्स) — ABB ओपन-इनोवेशन और स्टार्टअप सहयोग मार्ग प्रकाशित करता है। इसका मई 2025 का शंघाई AI इवेंट इकोसिस्टम गतिविधि का प्रमाण है, न कि हमेशा खुले रहने वाले स्टार्टअप एक्सेलेरेटर बैच का। एक मापने योग्य रोबोटिक्स उपयोग परिदृश्य प्रस्तावित करें। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../corporate.rst:16
+msgid ""
+":doc:`DroidUp Ecosystem Accelerator <entities/droidup>` (卓益得生态加速器 · "
+"Corporate program · Pudong · Focus: Hardware AI, Robotics) — The December "
+"2025 Zhangjiang Robot Valley account reports the accelerator launch. We "
+"include it as a robotics industry route and require direct confirmation "
+"of intake, pilot access, investment and hardware resources. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`ड्रॉयडअप इकोसिस्टम एक्सेलेरेटर (DroidUp Ecosystem Accelerator) <entities/droidup>` (卓益得生态加速器 · कॉर्पोरेट कार्यक्रम · पुडोंग (Pudong) · हार्डवेयर AI, रोबोटिक्स) — दिसंबर 2025 का झांगजियांग रोबोट वैली विवरण एक्सेलेरेटर लॉन्च की रिपोर्ट करता है। हम इसे रोबोटिक्स उद्योग मार्ग के रूप में शामिल करते हैं और प्रवेश, पायलट पहुंच, निवेश तथा हार्डवेयर संसाधनों की सीधी पुष्टि की आवश्यकता बताते हैं। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../corporate.rst:17
+msgid ""
+":doc:`Shanghai AI Public Technology Service Platform <entities/paddle>` "
+"(上海人工智能公共技术服务平台 · Corporate program · Pudong · Focus: Software AI) — The "
+"PaddlePaddle-linked platform publishes AI training and ecosystem "
+"resources. Explore its technical services and developer events; confirm "
+"whether a specific training or compute offer carries fees. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई AI पब्लिक टेक्नोलॉजी सर्विस प्लेटफॉर्म (Shanghai AI Public Tech Service Platform) <entities/paddle>` (上海人工智能公共技术服务平台 · कॉर्पोरेट कार्यक्रम · पुडोंग (Pudong) · सॉफ्टवेयर AI) — पैडलपैडल (PaddlePaddle) से जुड़ा यह प्लेटफॉर्म AI प्रशिक्षण और इकोसिस्टम संसाधन प्रकाशित करता है। इसकी तकनीकी सेवाओं और डेवलपर इवेंट्स का अन्वेषण करें; पुष्टि करें कि क्या किसी विशिष्ट प्रशिक्षण या कंप्यूट ऑफ़र में शुल्क लगता है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../corporate.rst:18
+msgid ""
+":doc:`Yangtze River Delta AI+ Joint Innovation Center "
+"<entities/huawei-ai>` (长三角AI+联合创新中心 · Corporate program · Qingpu · Focus: "
+"Software AI, Hardware AI) — An official July 2026 account records the "
+"center beginning operations in Qingpu. Confirm the operator, technical "
+"scope, Huawei ecosystem interface and actual startup admission before "
+"describing a benefit package. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`यांग्त्ज़ी रिवर डेल्टा AI+ जॉइंट इनोवेशन सेंटर (Yangtze River Delta AI+ Center) <entities/huawei-ai>` (长三角AI+联合创新中心 · कॉर्पोरेट कार्यक्रम · चिंगपू (Qingpu) · सॉफ्टवेयर AI, हार्डवेयर AI) — जुलाई 2026 का एक आधिकारिक विवरण चिंगपू में केंद्र के संचालन शुरू करने को दर्ज करता है। किसी लाभ पैकेज का वर्णन करने से पहले संचालक, तकनीकी दायरे, हुआवेई इकोसिस्टम इंटरफ़ेस और वास्तविक स्टार्टअप प्रवेश की पुष्टि करें। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../corporate.rst:19
+msgid ""
+":doc:`NVIDIA Inception <entities/nvidia>` (英伟达初创加速计划 · Global program · "
+"Citywide / global · Focus: Software AI, Hardware AI) — A free AI startup "
+"ecosystem program with no application fee, membership fee or equity "
+"requirement. It is not a cash grant. China eligibility, product access "
+"and partner benefits must be checked for the specific company. Support: "
+"Equity-free services. [Status: Program published; eligibility review]"
+msgstr ":doc:`एनवीडिया इनसेप्शन (NVIDIA Inception) <entities/nvidia>` (英伟达初创加速计划 · वैश्विक कार्यक्रम · शहर-व्यापी / वैश्विक · सॉफ्टवेयर AI, हार्डवेयर AI) — बिना किसी आवेदन शुल्क, सदस्यता शुल्क या इक्विटी आवश्यकता वाला एक निःशुल्क AI स्टार्टअप इकोसिस्टम कार्यक्रम। यह कोई नकद अनुदान नहीं है। विशिष्ट कंपनी के लिए चीन की पात्रता, उत्पाद पहुंच और भागीदार लाभों की जाँच की जानी चाहिए। [इक्विटी-मुक्त सेवाएं]. [कार्यक्रम प्रकाशित; पात्रता समीक्षा]"
+
+#: ../../corporate.rst:20
+msgid ""
+":doc:`Microsoft for Startups <entities/ms-startups>` (微软初创企业计划 · Global "
+"program · Citywide / global · Focus: Software AI) — The current program "
+"provides Azure-related startup resources through online application. We "
+"do not transfer historic Shanghai accelerator terms or global credit "
+"ceilings to China-region accounts. Validate the legal entity and region "
+"first. Support: Cloud credits. [Status: Regional eligibility to confirm]"
+msgstr ":doc:`माइक्रोसॉफ्ट फॉर स्टार्टअप्स (Microsoft for Startups) <entities/ms-startups>` (微软初创企业计划 · वैश्विक कार्यक्रम · शहर-व्यापी / वैश्विक · सॉफ्टवेयर AI) — वर्तमान कार्यक्रम ऑनलाइन आवेदन के माध्यम से Azure-संबंधित स्टार्टअप संसाधन प्रदान करता है। हम ऐतिहासिक शंघाई एक्सेलेरेटर शर्तों या वैश्विक क्रेडिट सीमाओं को चीन-क्षेत्र के खातों में स्थानांतरित नहीं करते हैं। पहले कानूनी इकाई और क्षेत्र को सत्यापित करें। [क्लाउड क्रेडिट]. [क्षेत्रीय पात्रता की पुष्टि शेष]"
+
+#: ../../corporate.rst:21
+msgid ""
+":doc:`AWS China Activate <entities/aws-activate>` (亚马逊云科技中国区Activate · "
+"Global program · Citywide / global · Focus: Software AI) — A China-region "
+"startup offer with company, customer and participating investor or "
+"incubation relationship conditions. Credits offset eligible services; "
+"they are not cash and should not be confused with the separate global AWS "
+"offer. Support: Cloud credits. [Status: Regional eligibility to confirm]"
+msgstr ":doc:`AWS चाइना एक्टिवेट (AWS China Activate) <entities/aws-activate>` (亚马逊云科技中国区Activate · वैश्विक कार्यक्रम · शहर-व्यापी / वैश्विक · सॉफ्टवेयर AI) — कंपनी, ग्राहक और सहभागी निवेशक या इनक्यूबेशन संबंध शर्तों के साथ एक चीन-क्षेत्र स्टार्टअप ऑफ़र। क्रेडिट पात्र सेवाओं को समायोजित करते हैं; वे नकदी नहीं हैं और उन्हें अलग वैश्विक AWS ऑफ़र के साथ भ्रमित नहीं किया जाना चाहिए। [क्लाउड क्रेडिट]. [क्षेत्रीय पात्रता की पुष्टि शेष]"
+
+#: ../../corporate.rst:22
+msgid ""
+":doc:`JLABS Shanghai <entities/jlabs>` (强生创新JLABS上海 · Corporate program · "
+"Pudong · Focus: Health, AI for Science) — An operator-listed "
+"life-sciences incubation site in Zhangjiang with an application route. "
+"For AI-enabled healthcare, clarify scientific fit, laboratory "
+"requirements, residency pricing, IP and any separate challenge or "
+"investment terms. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`JLABS शंघाई (JLABS Shanghai) <entities/jlabs>` (强生创新JLABS上海 · कॉर्पोरेट कार्यक्रम · पुडोंग (Pudong) · स्वास्थ्य, विज्ञान के लिए AI) — आवेदन मार्ग के साथ झांगजियांग में संचालक-सूचीबद्ध लाइफ-साइंसेज इनक्यूबेशन साइट। AI-सक्षम हेल्थकेयर के लिए, वैज्ञानिक उपयुक्तता, प्रयोगशाला आवश्यकताओं, रेजीडेंसी मूल्य निर्धारण, IP और किसी भी अलग चुनौती या निवेश शर्तों को स्पष्ट करें। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../corporate.rst:23
+msgid ""
+":doc:`Bayer Co.Lab Shanghai <entities/bayer>` (拜耳Co.Lab上海 · Corporate "
+"program · Pudong · Focus: Health, AI for Science) — Bayer's September "
+"2024 Shanghai site launch describes shared laboratories and office space "
+"for early biotech teams in SH-INNO Park. Confirm available residency and "
+"collaboration terms; the historic capacity is not a current vacancy "
+"count. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`बायर Co.Lab शंघाई (Bayer Co.Lab Shanghai) <entities/bayer>` (拜耳Co.Lab上海 · कॉर्पोरेट कार्यक्रम · पुडोंग (Pudong) · स्वास्थ्य, विज्ञान के लिए AI) — बायर का सितंबर 2024 का शंघाई साइट लॉन्च SH-INNO पार्क में प्रारंभिक बायोटेक टीमों के लिए साझा प्रयोगशालाओं और कार्यालय स्थान का वर्णन करता है। उपलब्ध रेजीडेंसी और सहयोग शर्तों की पुष्टि करें; ऐतिहासिक क्षमता वर्तमान रिक्ति संख्या नहीं है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../corporate.rst:24
+msgid ""
+":doc:`Siemens startup / Xcelerator ecosystem <entities/siemens>` "
+"(西门子初创企业与Xcelerator生态 · Global program · Citywide / global · Focus: "
+"Software AI, Hardware AI, Industry) — Siemens publishes a startup "
+"connection and marketplace route for industrial solutions, with a "
+"separate China Xcelerator platform. Marketplace onboarding and industrial "
+"partnerships are distinct from a funding award. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`सीमेंस स्टार्टअप / एक्सेलरेटर इकोसिस्टम (Siemens startup / Xcelerator ecosystem) <entities/siemens>` (西门子初创企业与Xcelerator生态 · वैश्विक कार्यक्रम · शहर-व्यापी / वैश्विक · सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग) — सीमेंस एक अलग चाइना एक्सेलरेटर (Xcelerator) प्लेटफॉर्म के साथ औद्योगिक समाधानों के लिए स्टार्टअप जुड़ाव और मार्केटप्लेस मार्ग प्रकाशित करता है। मार्केटप्लेस ऑनबोर्डिंग और औद्योगिक साझेदारियां फंडिंग पुरस्कार से भिन्न हैं। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../corporate.rst:25
+msgid ""
+":doc:`BMW Group Startup Garage <entities/bmw>` (宝马集团Startup Garage · "
+"Global program · Citywide / global · Focus: Mobility, Hardware AI, "
+"Software AI) — BMW describes a venture-client route for evaluating "
+"startup solutions for products, services and internal processes. Validate "
+"the responsible China business owner and pilot requirements; "
+"venture-client activity is not necessarily equity investment. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`BMW ग्रुप स्टार्टअप गैराज (BMW Group Startup Garage) <entities/bmw>` (宝马集团Startup Garage · वैश्विक कार्यक्रम · शहर-व्यापी / वैश्विक · गतिशीलता (Mobility), हार्डवेयर AI, सॉफ्टवेयर AI) — BMW उत्पादों, सेवाओं और आंतरिक प्रक्रियाओं के लिए स्टार्टअप समाधानों का मूल्यांकन करने हेतु एक वेंचर-क्लाइंट मार्ग का वर्णन करता है। जिम्मेदार चीन व्यवसाय स्वामी और पायलट आवश्यकताओं को सत्यापित करें; वेंचर-क्लाइंट गतिविधि आवश्यक रूप से इक्विटी निवेश नहीं है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"

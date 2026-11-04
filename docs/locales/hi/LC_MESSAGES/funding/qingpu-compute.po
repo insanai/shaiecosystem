@@ -1,0 +1,119 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/qingpu-compute.rst:1
+msgid "Qingpu digital economy compute reimbursement, September 2026 costs"
+msgstr "चिंगपू डिजिटल अर्थव्यवस्था कंप्यूट प्रतिपूर्ति, सितंबर 2026 लागतें"
+
+#: ../../funding/qingpu-compute.rst:4
+msgid "Reimbursement | Qingpu"
+msgstr "प्रतिपूर्ति (Reimbursement) | चिंगपू (Qingpu)"
+
+#: ../../funding/qingpu-compute.rst:6
+msgid "Closed"
+msgstr "बंद हो चुका है"
+
+#: ../../funding/qingpu-compute.rst:8
+msgid ""
+"`Evidence S113 "
+"<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. "
+"关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府."
+msgstr "`साक्ष्य S113 <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. 关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府."
+
+#: ../../funding/qingpu-compute.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/qingpu-compute.rst:13
+msgid ""
+"Amount under the applicable digital-economy rules; reviewed against "
+"eligible actual cost"
+msgstr "लागू डिजिटल-अर्थव्यवस्था नियमों के तहत राशि; पात्र वास्तविक लागत के विरुद्ध समीक्षा की गई"
+
+#: ../../funding/qingpu-compute.rst:15
+msgid "No equity"
+msgstr "कोई इक्विटी नहीं"
+
+#: ../../funding/qingpu-compute.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/qingpu-compute.rst:20
+msgid ""
+"Eligible R&D rental of non-related-party intelligent compute; storage, "
+"networking and security are excluded. The provider must hold the "
+"specified IDC/ISP licence. Other fiscal support for the same project and "
+"year is generally excluded."
+msgstr "गैर-संबंधित-पक्ष इंटेलिजेंट कंप्यूट का पात्र R&D किराया; स्टोरेज, नेटवर्किंग और सुरक्षा बाहर रखे गए हैं। प्रदाता के पास निर्दिष्ट IDC/ISP लाइसेंस होना चाहिए। उसी परियोजना और वर्ष के लिए अन्य राजकोषीय सहायता सामान्यतः बाहर रखी जाती है।"
+
+#: ../../funding/qingpu-compute.rst:22
+msgid "Closed 23 October 2026, 17:00 China Standard Time"
+msgstr "23 अक्टूबर 2026, 17:00 चीन मानक समय पर बंद"
+
+#: ../../funding/qingpu-compute.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/qingpu-compute.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_"
+
+#: ../../funding/qingpu-compute.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/qingpu-compute.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/qingpu-compute.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "वास्तविक श्रेणी, क्षेत्र सीमा, आपूर्तिकर्ता और पात्र व्यय अवधि की पुष्टि करें।"
+
+#: ../../funding/qingpu-compute.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "सेवा अनुबंध, चालान, भुगतान साक्ष्य और मदवार उपयोग लॉग रखें।"
+
+#: ../../funding/qingpu-compute.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "नामित प्लेटफॉर्म और वर्तमान बैच का उपयोग करें; आवश्यक जिला या संचालक समीक्षा प्राप्त करें।"
+
+#: ../../funding/qingpu-compute.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "स्वीकृत राशि, दोहरे-फंडिंग बहिष्करण और भुगतान शर्तों की जाँच करें।"
+
+#: ../../funding/qingpu-compute.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

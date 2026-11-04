@@ -1,0 +1,117 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/nestbio.rst:1
+msgid "Nest.Bio Shanghai Innovation Platform"
+msgstr "네스트바이오 상하이 혁신 플랫폼"
+
+#: ../../entities/nestbio.rst:4
+msgid "巢生上海创新孵化平台"
+msgstr "巢生上海创新孵化平台"
+
+#: ../../entities/nestbio.rst:6
+msgid "Incubator | Pudong | Research checked 2026-11-04"
+msgstr "인큐베이터 | 푸둥 신구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/nestbio.rst:8
+msgid "AI and industry focus: Health, AI for Science."
+msgstr "AI 및 산업 분야: 헬스케어, 과학을 위한 AI (AI for Science)."
+
+#: ../../entities/nestbio.rst:10
+msgid ""
+"Recognized in the December 2025 high-quality incubation expansion, with "
+"synthetic biology and cell and gene therapy interests. Confirm current "
+"Shanghai facilities, admission and laboratory pricing with the operator."
+msgstr "2025년 12월 상하이시 고품질 인큐베이터 확장 명단에 선정되었으며, 합성생물학 및 세포·유전자 치료 분야를 중점 지원합니다. 상하이 현지 시설, 입주 요건 및 실험실 이용료는 운영사에 확인해야 합니다."
+
+#: ../../entities/nestbio.rst:12
+msgid ""
+"`Evidence S008 "
+"<https://www.shanghai.gov.cn/nw4411/20251211/0346bd371e2442f9864f3d6df510b46d.html?siteId=1>`_. "
+"上海高质量孵化器增至18家 新增6家涵盖合成生物、脑机智能、集成电路等领域."
+msgstr "`근거 S008 <https://www.shanghai.gov.cn/nw4411/20251211/0346bd371e2442f9864f3d6df510b46d.html?siteId=1>`_. 上海高质量孵化器增至18家 新增6家涵盖合成生物、脑机智能、集成电路等领域."
+
+#: ../../entities/nestbio.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/nestbio.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/nestbio.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/nestbio.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/nestbio.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw4411/20251211/0346bd371e2442f9864f3d6df510b46d.html?siteId=1>`_"
+msgstr "`공식 근거 및 주관 부처 창구 <https://www.shanghai.gov.cn/nw4411/20251211/0346bd371e2442f9864f3d6df510b46d.html?siteId=1>`_"
+
+#: ../../entities/nestbio.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/nestbio.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/nestbio.rst:30
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/nestbio.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/nestbio.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "시제품 사양, 필요 장비, 제작 공정 및 테스트 요구사항을 구체적으로 설명한다."
+
+#: ../../entities/nestbio.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "기술 검토, 시설 방문 및 세부 항목별 견적서 발급을 요청한다."
+
+#: ../../entities/nestbio.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "시설 이용 권한, 안전 규정, 시제품 및 지식재산권(IP) 소유권, 테스트 범위와 검수 기준을 서면으로 합의한다."
+
+#: ../../entities/nestbio.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "인프라 시설 이용 계약과 외부 투자 또는 정부 지원금 신청을 엄격히 분리하여 진행한다."
+
+#: ../../entities/nestbio.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`푸둥 신구 경로 안내 </districts/pudong>`"

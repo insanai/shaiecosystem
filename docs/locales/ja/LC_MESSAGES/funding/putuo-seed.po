@@ -1,0 +1,117 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/putuo-seed.rst:1
+msgid "Putuo Technology Enterprise Seed Plan, second 2026 batch"
+msgstr "2026年普陀区ハイテク企業シード計画（第2期）"
+
+#: ../../funding/putuo-seed.rst:4
+msgid "Grant | Putuo"
+msgstr "助成金・補助金 | 普陀区"
+
+#: ../../funding/putuo-seed.rst:6
+msgid "Closed"
+msgstr "受付終了"
+
+#: ../../funding/putuo-seed.rst:8
+msgid ""
+"`Evidence S109 "
+"<https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_. "
+"关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀."
+msgstr "`出典 S109 <https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_. 关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀."
+
+#: ../../funding/putuo-seed.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/putuo-seed.rst:13
+msgid ""
+"RMB 300,000 per selected company; 50% initially, remainder after one-year "
+"development review"
+msgstr "採択企業1社につき30万元（採択時に50％交付、1年後の事業進捗審査を経て残額交付）"
+
+#: ../../funding/putuo-seed.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/putuo-seed.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/putuo-seed.rst:20
+msgid ""
+"Lawfully established technology companies with good credit. Online "
+"application is accompanied by stamped paper materials through the "
+"responsible investment promotion center; the science commission evaluates "
+"the project."
+msgstr "適法に設立され良好な信用状態にあるテクノロジー企業。オンライン申請後、管轄の投資促進センター経由で公印を押印した書面資料を提出し、区科委の総合評価を受ける。"
+
+#: ../../funding/putuo-seed.rst:22
+msgid "Closed 31 August 2026"
+msgstr "2026年8月31日に公募終了"
+
+#: ../../funding/putuo-seed.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/putuo-seed.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+msgstr "`公式申請窓口／政策ポータル <https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+
+#: ../../funding/putuo-seed.rst:29
+msgid "Published consultation: +86 21 52564588 ext. 8627."
+msgstr "公開相談電話：+86 21 52564588 ext. 8627。"
+
+#: ../../funding/putuo-seed.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/putuo-seed.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/putuo-seed.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/putuo-seed.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/putuo-seed.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/putuo-seed.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

@@ -1,0 +1,214 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:42+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts.rst:1
+msgid "Sixteen districts, sixteen entry routes"
+msgstr "16개 구, 16가지 진입 경로"
+
+#: ../../districts.rst:4
+msgid ""
+"Every district has a chapter. We begin with its documented specialization "
+"and receiving authority, then follow the local organizations and district "
+"funding routes. An official portal remains the contact route when no "
+"current named officer or direct intake form is established."
+msgstr "모든 구마다 독립된 장을 구성했습니다. 근거가 명시된 산업 특화 방향과 관할 부처에서 출발하여 현지 기관과 구 단위 자금 지원 경로를 순서대로 안내합니다. 확인된 전담 담당자나 직접 접수 양식이 없는 경우 공식 포털이 기본 접촉 창구가 됩니다."
+
+#: ../../districts.rst:12
+msgid ""
+"All 16 administrative districts of Shanghai, with numbered anchors "
+"corresponding to the directory below."
+msgstr "상하이 16개 행정구 전도입니다. 번호가 매겨진 앵커는 하단의 디렉터리와 일치합니다."
+
+#: ../../districts.rst:14
+msgid ""
+"**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
+"chips, biomedicine and advanced manufacturing**. Receiving authority: "
+"Pudong Science, Technology and Economy Commission. Published phone: +86 "
+"21 68811090. Policy & carrier note: 2026 AI application call closed on 31 "
+"August 2026. The published route covers qualifying 2025 model and agent "
+"expenditure; duplicate public funding is excluded. (38 local "
+"organizations, 3 district funding routes)."
+msgstr "**[01]** :doc:`푸둥 신구 <districts/pudong>` (浦东新区) — **파운데이션 모델, 반도체 칩, 바이오의약 및 첨단 제조**. 담당 부처: 푸둥신구 과학기술경제위원회. 공개 전화: +86 21 68811090. 정책 및 거점 안내: 2026년 AI 응용 프로젝트 공모는 2026년 8월 31일에 마감되었습니다. 공시된 지원 경로는 자격을 충족하는 2025년 모델 및 에이전트 지출을 대상으로 하며, 정부 공공 지원금의 중복 수혜는 엄격히 배제됩니다. (관내 기관 38개, 구 단위 자금 경로 3개)."
+
+#: ../../districts.rst:15
+msgid ""
+"**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
+"embodied AI and research commercialization**. Receiving authority: Xuhui "
+"industry development authority. Policy & carrier note: The embodied AI "
+"policy identifies robot models, algorithms, data and operating systems. "
+"Its evaluated support ceilings are not automatic startup awards. (7 local "
+"organizations, 1 district funding routes)."
+msgstr "**[02]** :doc:`쉬후이구 <districts/xuhui>` (徐汇区) — **파운데이션 모델, 임바디드 AI 및 연구 성과 상용화**. 담당 부처: 쉬후이구 산업발전 주무관청. 정책 및 거점 안내: 쉬후이구의 임바디드 AI 정책은 로봇 모델, 알고리즘, 데이터 및 운영체제를 포괄합니다. 심사를 통해 책정되는 지원금 상한액은 스타트업에 무조건 지급되는 보조금이 아닙니다. (관내 기관 7개, 구 단위 자금 경로 1개)."
+
+#: ../../districts.rst:16
+msgid ""
+"**[03]** :doc:`Yangpu <districts/yangpu>` (杨浦区) — **University spinouts, "
+"brain-inspired AI and independent AI founders**. Receiving authority: "
+"Yangpu science and technology authority. Policy & carrier note: "
+"Brain-inspired AI policy names Changyang Campus and Bay Valley. A "
+"separate May 2026 OPC policy supports communities around Fuxing Island; "
+"an action plan does not itself constitute a cash award. (10 local "
+"organizations, 2 district funding routes)."
+msgstr "**[03]** :doc:`양푸구 <districts/yangpu>` (杨浦区) — **대학 스핀오프 기업, 뇌 모방 인공지능 및 독립 AI 창업가**. 담당 부처: 양푸구 과학기술위원회. 정책 및 거점 안내: 뇌 모방 인공지능 육성 정책은 창양창구(Changyang Campus) 및 만구과기원(Bay Valley)을 거점으로 명시합니다. 별도의 2026년 5월 OPC 정책은 푸싱섬 주변 커뮤니티를 지원하며, 실행 계획 발표 자체가 곧바로 현금 보조금 지급을 의미하는 것은 아닙니다. (관내 기관 10개, 구 단위 자금 경로 2개)."
+
+#: ../../districts.rst:17
+msgid ""
+"**[04]** :doc:`Minhang <districts/minhang>` (闵行区) — **University "
+"commercialization, robotics, BCI and engineering**. Receiving authority: "
+"Minhang science and technology authority. Policy & carrier note: The "
+"enterprise innovation policy runs from 1 September 2025 to 31 August "
+"2030. New conversion enterprises may qualify for up to RMB 500,000 "
+"annually, capped at RMB 1.5 million over three years and 50% of eligible "
+"investment. (6 local organizations, 2 district funding routes)."
+msgstr "**[04]** :doc:`민항구 <districts/minhang>` (闵行区) — **대학 연구 상용화, 로보틱스, BCI(뇌-컴퓨터 인터페이스) 및 첨단 엔지니어링**. 담당 부처: 민항구 과학기술위원회. 정책 및 거점 안내: 기업 과학기술 혁신 정책의 유효기간은 2025년 9월 1일부터 2030년 8월 31일까지입니다. 신설된 과학기술 성과 전환 기업은 적격 투자액의 50% 한도 내에서 연간 최대 50만 위안, 3년간 누적 최대 150만 위안까지 지원받을 수 있습니다. (관내 기관 6개, 구 단위 자금 경로 2개)."
+
+#: ../../districts.rst:18
+msgid ""
+"**[05]** :doc:`Jiading <districts/jiading>` (嘉定区) — **Automotive "
+"intelligence, sensors, MEMS and pilot production**. Receiving authority: "
+"Jiading science and technology authority. Policy & carrier note: The "
+"municipal science commission documents the joint role of SITRI and "
+"InnoSpring in connecting research, pilot production and incubation. The "
+"2026 district service program provides policy interpretation and project "
+"coordination. (4 local organizations, 1 district funding routes)."
+msgstr "**[05]** :doc:`자딩구 <districts/jiading>` (嘉定区) — **지능형 자동차, 센서, MEMS 및 파일럿 생산**. 담당 부처: 자딩구 과학기술위원회. 정책 및 거점 안내: 상하이시 과학기술위원회는 연구, 파일럿 생산 및 인큐베이션을 연계하는 상하이산업기술연구원(SITRI)과 인노스프링(InnoSpring)의 협력 역할을 기록하고 있습니다. 2026년 구 기업 서비스 프로그램은 정책 해설과 프로젝트 조정을 제공합니다. (관내 기관 4개, 구 단위 자금 경로 1개)."
+
+#: ../../districts.rst:19
+msgid ""
+"**[06]** :doc:`Baoshan <districts/baoshan>` (宝山区) — **Robotics, advanced "
+"equipment and industrial deployment**. Receiving authority: Baoshan "
+"industry and science authorities. Policy & carrier note: The district is "
+"developing a robotics and advanced equipment cluster. Separate "
+"industrial-park admission and district support reviews are needed; a "
+"factory demonstration is not a startup funding call. (2 local "
+"organizations, 1 district funding routes)."
+msgstr "**[06]** :doc:`바오산구 <districts/baoshan>` (宝山区) — **로보틱스, 첨단 장비 및 산업 현장 배치**. 담당 부처: 바오산구 산업 및 과학기술 주무관청. 정책 및 거점 안내: 바오산구는 로봇 및 첨단 장비 클러스터를 조성하고 있습니다. 산업단지 입주 승인과 구 지원금 심사는 별도로 진행되어야 하며, 공장 내 실증 프로젝트가 곧바로 스타트업을 위한 지원금 공모를 뜻하지는 않습니다. (관내 기관 2개, 구 단위 자금 경로 1개)."
+
+#: ../../districts.rst:20
+msgid ""
+"**[07]** :doc:`Putuo <districts/putuo>` (普陀区) — **Industrial testing, "
+"intelligent software and international innovation**. Receiving authority: "
+"Putuo science and technology authority. Policy & carrier note: Wuning "
+"Science Park connects industrial research, testing and technology "
+"transfer. The district incubator register also lists the China-Israel "
+"Innovation Hub; tenancy and investment require separate terms. (4 local "
+"organizations, 3 district funding routes)."
+msgstr "**[07]** :doc:`푸퉈구 <districts/putuo>` (普陀区) — **산업 시험·검증, 지능형 소프트웨어 및 글로벌 혁신 협력**. 담당 부처: 푸퉈구 과학기술위원회. 정책 및 거점 안내: 우닝 과학기술단지는 산업 연구, 시험 인증 및 기술이전을 연계합니다. 구 인큐베이터 공식 등록부에는 중국-이스라엘 혁신 허브도 등재되어 있으며, 입주 조건과 투자 유치는 개별 협의가 필요합니다. (관내 기관 4개, 구 단위 자금 경로 3개)."
+
+#: ../../districts.rst:21
+msgid ""
+"**[08]** :doc:`Changning <districts/changning>` (长宁区) — **Digital "
+"business, AI applications and cross-border services**. Receiving "
+"authority: Changning science and technology authority. Policy & carrier "
+"note: The August 2026 district account identifies Digital Silicon Alley, "
+"Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
+"MAKE021 as parts of its incubation landscape. Confirm the correct "
+"operator before submitting. (2 local organizations, 2 district funding "
+"routes)."
+msgstr "**[08]** :doc:`창닝구 <districts/changning>` (长宁区) — **디지털 커머스, AI 응용 서비스 및 크로스보더 비즈니스**. 담당 부처: 창닝구 과학기술위원회. 정책 및 거점 안내: 2026년 8월 구 공식 발표에 따르면 디지털 실리콘앨리, 훙차오 즈위, 동훙차오 국제 청년 혁신센터, MAKE021 등이 인큐베이션 거점으로 지정되어 있습니다. 신청 전 해당 거점의 실제 운영사를 확인하십시오. (관내 기관 2개, 구 단위 자금 경로 2개)."
+
+#: ../../districts.rst:22
+msgid ""
+"**[09]** :doc:`Jing'an <districts/jingan>` (静安区) — **Enterprise AI, data "
+"services and digital commerce**. Receiving authority: Jing'an science and "
+"economy authority. Policy & carrier note: The 2026-2028 AI application "
+"demonstration plan focuses on industry integration and talent. Its stated "
+"objectives must be distinguished from implementing rules and currently "
+"accepting applications. (3 local organizations, 1 district funding "
+"routes)."
+msgstr "**[09]** :doc:`징안구 <districts/jingan>` (静安区) — **엔터프라이즈 AI, 데이터 서비스 및 디지털 커머스**. 담당 부처: 징안구 과학기술경제위원회. 정책 및 거점 안내: 2026~2028년 AI 응용 실증 지구 추진 계획은 산업 융합과 인재 유치에 중점을 둡니다. 계획에 명시된 정책 목표는 세부 시행 규칙 및 실제 접수 중인 지원 사업과 명확히 구분되어야 합니다. (관내 기관 3개, 구 단위 자금 경로 1개)."
+
+#: ../../districts.rst:23
+msgid ""
+"**[10]** :doc:`Huangpu <districts/huangpu>` (黄浦区) — **Fintech, clinical "
+"services, design and consumer applications**. Receiving authority: "
+"Huangpu science and entrepreneurship services. Policy & carrier note: The "
+"2025-2026 Zhangjiang Huangpu Park plan emphasizes fintech and clinical "
+"research services. Huangpu ChuangKa is a separate youth entrepreneurship "
+"support route; check eligibility and current workstation availability. (2 "
+"local organizations, 1 district funding routes)."
+msgstr "**[10]** :doc:`황푸구 <districts/huangpu>` (黄浦区) — **핀테크, 임상 연구 서비스, 크리에이티브 디자인 및 컨슈머 응용**. 담당 부처: 황푸구 과학기술 및 창업 서비스 부서. 정책 및 거점 안내: 2025~2026년 장장 황푸원 계획은 핀테크와 임상 연구 서비스를 중점 육성합니다. '황푸 창카(ChuangKa)'는 청년 창업을 지원하는 별도 트랙으로, 신청 자격과 현재 배정 가능한 워크스테이션 공실 여부를 확인해야 합니다. (관내 기관 2개, 구 단위 자금 경로 1개)."
+
+#: ../../districts.rst:24
+msgid ""
+"**[11]** :doc:`Hongkou <districts/hongkou>` (虹口区) — **Shipping "
+"technology, green finance and intelligent inspection**. Receiving "
+"authority: Hongkou science and economy authority. Policy & carrier note: "
+"The 2025-2026 Hongkou Park plan assigns a coordinated incubation and "
+"investment role to the district state-owned Beikechuang group. Ask for "
+"the operating carrier and current application notice, rather than relying "
+"on older subsidy summaries. (4 local organizations, 1 district funding "
+"routes)."
+msgstr "**[11]** :doc:`훙커우구 <districts/hongkou>` (虹口区) — **해운·물류 테크, 친환경 녹색 금융 및 지능형 검사·인증**. 담당 부처: 훙커우구 과학기술경제위원회. 정책 및 거점 안내: 2025~2026년 훙커우원 계획은 구 소유 국유기업인 베이커촹(Beikechuang) 그룹에 통합 인큐베이션 및 투자 책임을 부여합니다. 과거의 보조금 개요에 의존하지 말고, 실제 운영 거점과 최신 공모 공고를 직접 확인하십시오. (관내 기관 4개, 구 단위 자금 경로 1개)."
+
+#: ../../districts.rst:25
+msgid ""
+"**[12]** :doc:`Songjiang <districts/songjiang>` (松江区) — **G60 innovation, "
+"industrial software and advanced manufacturing**. Receiving authority: "
+"Songjiang G60 innovation services. Policy & carrier note: The G60 "
+"Sci-Tech Innovation Valley publishes innovation and resource-matching "
+"initiatives. We distinguish the nine-city corridor from Shanghai district "
+"eligibility: a partner elsewhere in the corridor does not establish "
+"Songjiang qualification. (8 local organizations, 2 district funding "
+"routes)."
+msgstr "**[12]** :doc:`쑹장구 <districts/songjiang>` (松江区) — **G60 혁신 회랑, 산업용 소프트웨어 및 첨단 제조업**. 담당 부처: 쑹장구 G60 혁신 서비스 부서. 정책 및 거점 안내: G60 과학기술혁신밸리는 다양한 혁신 및 자원 매칭 정책을 발표하고 있습니다. 장삼각 9개 도시 협력 회랑의 자격과 상하이 쑹장구 관할 지원 자격은 구별되므로, 타 도시 참여 기업이라는 사실만으로 쑹장구 지원 자격이 인정되지는 않습니다. (관내 기관 8개, 구 단위 자금 경로 2개)."
+
+#: ../../districts.rst:26
+msgid ""
+"**[13]** :doc:`Qingpu <districts/qingpu>` (青浦区) — **Huawei-linked "
+"research, digital systems and regional collaboration**. Receiving "
+"authority: Qingpu science and technology authority. Policy & carrier "
+"note: Xicen links the Lianqiu Lake research center with an emerging "
+"innovation district. The official 2025 reply discusses early investment "
+"and technology transfer, but proposed funds are not treated here as open "
+"startup applications. (3 local organizations, 2 district funding routes)."
+msgstr "**[13]** :doc:`칭푸구 <districts/qingpu>` (青浦区) — **화웨이 연계 R&D 연구개발, 디지털 시스템 및 광역 지역 협력**. 담당 부처: 칭푸구 과학기술위원회. 정책 및 거점 안내: 시천(Xicen) 거점은 롄추호(Lianqiu Lake) 연구센터와 신흥 혁신 지구를 연결합니다. 2025년 공식 답변에서 초기 투자와 기술이전이 논의되었으나, 신설 추진 중인 펀드를 현재 접수 중인 스타트업 지원 창구로 간주할 수는 없습니다. (관내 기관 3개, 구 단위 자금 경로 2개)."
+
+#: ../../districts.rst:27
+msgid ""
+"**[14]** :doc:`Jinshan <districts/jinshan>` (金山区) — **Drones, new "
+"materials and low-altitude systems**. Receiving authority: Jinshan "
+"science and technology authority. Policy & carrier note: The 2025-2026 "
+"park plan names Jinshan New Materials Incubator, East China UAV Base and "
+"Bay Area incubation carriers. It connects testing and industrialization, "
+"subject to park admission and the applicable aviation permissions. (3 "
+"local organizations, 1 district funding routes)."
+msgstr "**[14]** :doc:`진산구 <districts/jinshan>` (金山区) — **무인기·드론, 신소재 및 저고도 항공 시스템**. 담당 부처: 진산구 과학기술 주무관청. 정책 및 거점 안내: 2025~2026년 단지 계획에는 진산 신소재 인큐베이터, 화둥 무인기 기지, 상하이만구 인큐베이션 거점이 명시되어 있습니다. 시험 비행과 산업화를 연계 지원하지만 단지 입주 승인과 관련 항공 운항 허가를 각각 취득해야 합니다. (관내 기관 3개, 구 단위 자금 경로 1개)."
+
+#: ../../districts.rst:28
+msgid ""
+"**[15]** :doc:`Fengxian <districts/fengxian>` (奉贤区) — **Robotics, beauty "
+"and health technology, advanced manufacturing**. Receiving authority: "
+"Fengxian economic commission. Policy & carrier note: The robot industry "
+"measures cover qualifying registered companies working on intelligent "
+"robots. Oriental Beauty Valley provides a separate beauty and health "
+"industry context. Match the project to the correct policy owner and "
+"application batch. (4 local organizations, 3 district funding routes)."
+msgstr "**[15]** :doc:`펑셴구 <districts/fengxian>` (奉贤区) — **로보틱스, 뷰티·헬스 테크 및 첨단 제조업**. 담당 부처: 펑셴구 경제위원회. 정책 및 거점 안내: 지능형 로봇 산업 지원책은 관할 구에 등록된 적격 로봇 개발 기업을 대상으로 합니다. '동방메이구(Oriental Beauty Valley)'는 별도의 뷰티·헬스 산업 경로를 제공합니다. 프로젝트 성격에 맞는 주관 부처와 신청 차수를 매칭해야 합니다. (관내 기관 4개, 구 단위 자금 경로 3개)."
+
+#: ../../districts.rst:29
+msgid ""
+"**[16]** :doc:`Chongming <districts/chongming>` (崇明区) — **Ecological "
+"technology, smart agriculture and marine systems**. Receiving authority: "
+"Chongming science and technology authority. Published phone: +86 21 "
+"69695910. Policy & carrier note: The 2025-2026 Chongming Park plan "
+"supplies current strategic context. The separate 2024 science innovation "
+"subsidy measures expired on 31 December 2025; we do not present those "
+"ceilings as current entitlements. (2 local organizations, 2 district "
+"funding routes)."
+msgstr "**[16]** :doc:`충밍구 <districts/chongming>` (崇明区) — **생태 환경 기술, 스마트 농업 및 해양·선박 시스템**. 담당 부처: 충밍구 과학기술위원회. 공개 전화: +86 21 69695910. 정책 및 거점 안내: 2025~2026년 충밍원 계획은 현행 거시적 전략을 제시합니다. 별도의 2024년 과학기술 혁신 보조금 조례는 2025년 12월 31일부로 만료되었으므로, 해당 조례의 상한액을 현행 보장 권리로 취급해서는 안 됩니다. (관내 기관 2개, 구 단위 자금 경로 2개)."

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -55,10 +55,20 @@ msgid ""
 msgstr "张江集成电路设计产业园及集成电路促进中心可作为服务入口。嘉定工研院与新微创源的联动适合超越摩尔器件、传感器及中试。我们应索取设备、工艺能力、排期、样品权属及书面报价。"
 
 #: ../../hardware-ai.rst:17
+msgid ""
+"Shanghai Integrated Circuit R&D Center (ICRD) in Zhangjiang supports "
+"shared process development and device verification, while Xihe Optic "
+"Valley in Jiading incubates scientist-founded optoelectronics, laser and "
+"photonic sensing teams. In Fengxian, the Oriental Beauty Valley Life "
+"Messenger Gene Drug Base opened in April 2025 to link AI-assisted "
+"molecular design with shared wet labs and pilot manufacturing."
+msgstr "张江的上海集成电路研发中心（ICRD）提供工艺开发与器件验证公共能力，嘉定羲和光谷面向科学家创业团队提供光电与激光传感孵化；奉贤于2025年4月开园的“东方美谷·生命信使”基因药物基地则衔接AI分子设计、共享实验与中试生产。"
+
+#: ../../hardware-ai.rst:19
 msgid "Robots and embodied AI"
 msgstr "机器人与具身智能"
 
-#: ../../hardware-ai.rst:20
+#: ../../hardware-ai.rst:22
 msgid ""
 "Separate the robot foundation model, perception, planning, control and "
 "safety architecture from motors, transmissions, tactile sensing, "
@@ -67,7 +77,7 @@ msgid ""
 "conditions, human intervention and maintenance cost."
 msgstr "将机器人大模型、感知、规划、控制及安全架构与电机、传动、触觉、电池及机械平台分别分析，并在具体场景验证整机。演示应说明载荷、节拍、失效条件、人工介入及维护成本。"
 
-#: ../../hardware-ai.rst:22
+#: ../../hardware-ai.rst:24
 msgid ""
 "Compare Minhang's research-to-manufacturing connection, Baoshan's robot "
 "industry, Wuning's testing services and Zhangjiang's robotics ecosystem. "
@@ -76,11 +86,11 @@ msgid ""
 "acceptance plan."
 msgstr "可比较闵行研发制造衔接、宝山机器人产业、武宁检测服务及张江机器人生态。企业计划可以打开应用对话，但不能替代生产资质、适用认证或客户验收方案。"
 
-#: ../../hardware-ai.rst:24
+#: ../../hardware-ai.rst:26
 msgid "Other physical frontiers"
 msgstr "其他物理前沿"
 
-#: ../../hardware-ai.rst:27
+#: ../../hardware-ai.rst:29
 msgid ""
 "For drones, begin with a real operating scenario and ask Jinshan's UAV "
 "route about test services and applicable operating permissions. For "
@@ -90,7 +100,7 @@ msgid ""
 "access before renting a lab."
 msgstr "无人机应从真实运行场景出发，经金山无人机渠道确认测试及适用运行许可。脑机接口与医疗器械应区分探索研究与受监管产品开发。人工智能生物研发在租实验室前须确认生物安全、仪器、样本及临床资源。"
 
-#: ../../hardware-ai.rst:29
+#: ../../hardware-ai.rst:31
 msgid ""
 "Our hardware application pack adds a bill of materials, costed "
 "engineering milestones, manufacturing partner plan, test fixtures, "
@@ -98,7 +108,7 @@ msgid ""
 "incubator can actually supply and what the team must buy elsewhere."
 msgstr "硬件申请材料应增加物料清单、有成本的工程里程碑、制造合作计划、测试夹具、可靠性计划及可运行演示，明确孵化器实际提供内容与团队另行采购内容。"
 
-#: ../../hardware-ai.rst:31
+#: ../../hardware-ai.rst:33
 msgid ""
 "`Evidence S006 "
 "<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "

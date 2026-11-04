@@ -1,0 +1,119 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/xicen.rst:1
+msgid "Xicen Science and Innovation Center"
+msgstr "시천 과기혁신센터"
+
+#: ../../entities/xicen.rst:4
+msgid "西岑科创中心"
+msgstr "西岑科创中心"
+
+#: ../../entities/xicen.rst:6
+msgid "Technology park | Qingpu | Research checked 2026-11-04"
+msgstr "과학기술단지 | 칭푸구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/xicen.rst:8
+msgid "AI and industry focus: Hardware AI, Software AI."
+msgstr "AI 및 산업 분야: 하드웨어 AI, 소프트웨어 AI."
+
+#: ../../entities/xicen.rst:10
+msgid ""
+"A Qingpu innovation area centered on Huawei Lianqiu Lake and Xicen "
+"development. It offers an ecosystem connection, not automatic access to "
+"Huawei laboratories, procurement or investment."
+msgstr "화웨이 롄추후 연구개발센터 및 시천 개발 구역을 중심으로 하는 칭푸구 혁신 거점입니다. 생태계 협력 기회를 제공하지만, 화웨이 연구소 접근, 조달 계약, 지분 투자가 자동으로 주어지는 것은 아닙니다."
+
+#: ../../entities/xicen.rst:12
+msgid ""
+"`Evidence S022 "
+"<https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. "
+"对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+msgstr "`근거 S022 <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_. 对市政协十四届三次会议 第0746号提案的答复_市建议提案办理结果_意见提案办理_政务公开_上海市青浦区人民政府."
+
+#: ../../entities/xicen.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/xicen.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/xicen.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/xicen.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/xicen.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_"
+msgstr "`공식 근거 및 주관 부처 창구 <https://www.shqp.gov.cn/shqp/zwgk/tabl/sbljg/20250603/1283025.html>`_"
+
+#: ../../entities/xicen.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/xicen.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/xicen.rst:30
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/xicen.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/xicen.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "기업 내 사업 책임자(Business Owner)와 측정 가능한 구체적 도입 사례 1건을 특정한다."
+
+#: ../../entities/xicen.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "제품 소개서, 파일럿 실증 데이터 및 관련 기술 요구사항을 제출한다."
+
+#: ../../entities/xicen.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "정기 배치 모집 여부를 확인하거나 파일럿 실증 범위, 데이터 권리, 지식재산권(IP) 조건을 협의한다."
+
+#: ../../entities/xicen.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "조달 프로세스, 대금 지급 일정, 검수 절차 및 양산 전환 결정을 독립된 단계로 검토한다."
+
+#: ../../entities/xicen.rst:43
+msgid ":doc:`Qingpu district route </districts/qingpu>`"
+msgstr ":doc:`칭푸구 경로 안내 </districts/qingpu>`"

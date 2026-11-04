@@ -1,0 +1,140 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/university-tongji.rst:1
+msgid "Tongji University"
+msgstr "Universidad de Tongji"
+
+#: ../../entities/university-tongji.rst:4
+msgid "同济大学"
+msgstr "同济大学"
+
+#: ../../entities/university-tongji.rst:6
+msgid "University | Yangpu | Research checked 2026-11-04"
+msgstr "Universidad | Distrito de Yangpu | Investigación verificada el 2026-11-04"
+
+#: ../../entities/university-tongji.rst:8
+msgid "Ministry of Education institution code: 4131010247."
+msgstr "Código institucional del Ministerio de Educación (MOE): 4131010247."
+
+#: ../../entities/university-tongji.rst:10
+msgid ""
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Autonomous systems, mobility, robotics, "
+"built environment. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding."
+msgstr "Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Sistemas autónomos, movilidad, robótica, entorno construido. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups."
+
+#: ../../entities/university-tongji.rst:12
+msgid "`Evidence S077 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
+msgstr "`Evidencia S077 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
+
+#: ../../entities/university-tongji.rst:14
+msgid "`Evidence S078 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
+msgstr "`Evidencia S078 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
+
+#: ../../entities/university-tongji.rst:16
+msgid ""
+"`Evidence S076 "
+"<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+"全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`Evidencia S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+
+#: ../../entities/university-tongji.rst:18
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/university-tongji.rst:21
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/university-tongji.rst:23
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/university-tongji.rst:25
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/university-tongji.rst:28
+msgid "Tongji National University Science Park & Incubator Route"
+msgstr "Parque Científico Universitario Nacional de Tongji y vía de incubación"
+
+#: ../../entities/university-tongji.rst:30
+msgid "`Official website / intake route <https://www.tongji.edu.cn/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.tongji.edu.cn/>`_"
+
+#: ../../entities/university-tongji.rst:32
+msgid "Telephone: +86 21 65069006."
+msgstr "Teléfono: +86 21 65069006."
+
+#: ../../entities/university-tongji.rst:34
+msgid "Published address: 2F, West Building, 100 Guokang Road, Yangpu."
+msgstr "Dirección publicada: Planta 2, Edificio Oeste, Calle Guokang 100, Distrito de Yangpu."
+
+#: ../../entities/university-tongji.rst:36
+msgid ""
+"Map point is approximate, based on the published street context; it is "
+"not an entrance or navigation coordinate."
+msgstr "El punto en el mapa es aproximado y se basa en el entorno viario publicado; no constituye una coordenada de acceso ni de navegación."
+
+#: ../../entities/university-tongji.rst:38
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/university-tongji.rst:41
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/university-tongji.rst:43
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "Localizar al grupo de investigación pertinente y exponer con claridad el problema científico o industrial."
+
+#: ../../entities/university-tongji.rst:45
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "Enviar una propuesta breve que detalle los datos, el equipamiento, los resultados esperados, la financiación y el cronograma."
+
+#: ../../entities/university-tongji.rst:47
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "Acordar la modalidad de colaboración, las reglas de publicación académica, la titularidad de la propiedad intelectual y la autorización institucional."
+
+#: ../../entities/university-tongji.rst:49
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "Obtener por escrito el permiso de acceso o la aprobación formal del proyecto antes de iniciar los trabajos."
+
+#: ../../entities/university-tongji.rst:51
+msgid ""
+"Confirm whether external founders can apply, whether student or alumni "
+"status is required, who owns the research IP, and whether support is a "
+"service, a loan, a grant or equity. The thematic match in this profile is "
+"editorial guidance."
+msgstr "Confirme si pueden postular fundadores externos, si se exige la condición de estudiante o antiguo alumno, a quién pertenece la propiedad intelectual de la investigación y si el apoyo consiste en un servicio, un préstamo, una subvención o inversión en capital. La afinidad temática indicada en este perfil es una orientación editorial."
+
+#: ../../entities/university-tongji.rst:53
+msgid ":doc:`Yangpu district route </districts/yangpu>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Yangpu </districts/yangpu>`"

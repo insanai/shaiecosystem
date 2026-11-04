@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -103,55 +103,161 @@ msgid "Local organizations in this atlas"
 msgstr "本图谱中的本区机构"
 
 #: ../../districts/yangpu.rst:37
-msgid ":doc:`InnoSpace </entities/innospace>`"
-msgstr ":doc:`创智空间InnoSpace </entities/innospace>`"
+msgid ""
+":doc:`InnoSpace </entities/innospace>` (创智空间InnoSpace · Accelerator · "
+"Software AI, Industry) — An innovation service organization focused on "
+"corporate open innovation and startup incubation and acceleration. Bring "
+"a concrete industrial use case; program participation does not imply a "
+"corporate purchase order. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`创智空间InnoSpace </entities/innospace>` （创智空间InnoSpace · 加速器 · 软件人工智能、产业）—— 专注大企业开放创新及科技企业孵化加速的创新服务机构。对接时应提供明确产业场景；参与项目不代表企业采购承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/yangpu.rst:38
-msgid ":doc:`Changyang Campus </entities/changyang>`"
-msgstr ":doc:`长阳创谷 </entities/changyang>`"
+msgid ""
+":doc:`Changyang Campus </entities/changyang>` (长阳创谷 · Technology park · "
+"Software AI, Hardware AI) — The Yangpu brain-inspired intelligence plan "
+"identifies Changyang Campus as a southern core, paired with Bay Valley in "
+"the north. Suitable for neuromorphic computing and commercial AI "
+"collaborations. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`长阳创谷 </entities/changyang>` （长阳创谷 · 科技园区 · 软件人工智能、硬件人工智能）—— 杨浦类脑智能方案将长阳创谷作为南部核心，与北部湾谷科技园联动，适合类脑计算及人工智能商业合作。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/yangpu.rst:39
-msgid ":doc:`Fuxing Island maker / OPC communities </entities/fuxing>`"
-msgstr ":doc:`复兴岛创客与OPC社区 </entities/fuxing>`"
+msgid ""
+":doc:`Fuxing Island maker / OPC communities </entities/fuxing>` "
+"(复兴岛创客与OPC社区 · Incubator · Software AI) — A May 2026 district policy "
+"supports AI-enabled independent founders and maker communities. Ask for "
+"an approved community operator, the qualifying activity definition, "
+"housing conditions and any service or equity agreement. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`复兴岛创客与OPC社区 </entities/fuxing>` （复兴岛创客与OPC社区 · 孵化器 · 软件人工智能）—— 2026年5月区级政策支持人工智能赋能的超级个体及创客社区。应确认合资格运营方、活动认定、住房条件及服务或股权协议。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/yangpu.rst:40
-msgid ":doc:`STEFG Angel Fund </entities/stefg>`"
-msgstr ":doc:`上海市大学生科技创业基金会天使基金 </entities/stefg>`"
+msgid ""
+":doc:`STEFG Angel Fund </entities/stefg>` (上海市大学生科技创业基金会天使基金 · Investor · "
+"Software AI, Hardware AI, Industry) — The foundation offers distinct "
+"interest-free loan and temporary equity support routes for eligible "
+"Chinese university entrepreneurs. Nationality, age, ownership, full-time "
+"work and company age conditions apply. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`上海市大学生科技创业基金会天使基金 </entities/stefg>` （上海市大学生科技创业基金会天使基金 · 投资机构 · 软件人工智能、硬件人工智能、产业）—— 基金会为符合条件的中国籍高校创业者提供免息贷款及临时股权两种资助。适用国籍、年龄、持股、全职创业与企业成立年限条件。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/yangpu.rst:41
-msgid ":doc:`Fudan University </entities/university-fudan>`"
-msgstr ":doc:`复旦大学 </entities/university-fudan>`"
+msgid ""
+":doc:`China (Shanghai) Public Practicing Base for Entrepreneurs "
+"</entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Incubator · Software "
+"AI, Hardware AI, Industry) — A municipal HRSS-backed public "
+"entrepreneurship training, prototyping and incubation base in Yangpu "
+"linking founder skills training, product trial spaces and startup service "
+"agencies. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`中国（上海）创业者公共实训基地 </entities/entrepreneur-base>` （中国（上海）创业者公共实训基地 · 孵化器 · 软件人工智能、硬件人工智能、产业）—— 位于杨浦的市人社公共创业实训与孵化基地，提供创业培训、产品试制空间与创业服务机构对接。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/yangpu.rst:42
-msgid ":doc:`Tongji University </entities/university-tongji>`"
-msgstr ":doc:`同济大学 </entities/university-tongji>`"
+msgid ""
+":doc:`Fudan University </entities/university-fudan>` (复旦大学 · University) "
+"— Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Software AI, chips, AI for Science. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`复旦大学 </entities/university-fudan>` （复旦大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：软件人工智能、芯片、科学智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/yangpu.rst:43
 msgid ""
-":doc:`University of Shanghai for Science and Technology "
-"</entities/university-usst>`"
-msgstr ":doc:`上海理工大学 </entities/university-usst>`"
+":doc:`Tongji University </entities/university-tongji>` (同济大学 · "
+"University) — Institutional entry in the June 2026 Ministry of Education "
+"register. Suggested collaboration themes: Autonomous systems, mobility, "
+"robotics, built environment. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`同济大学 </entities/university-tongji>` （同济大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：自主系统、交通、机器人、建成环境。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/yangpu.rst:44
 msgid ""
-":doc:`Shanghai University of Finance and Economics "
-"</entities/university-sufe>`"
-msgstr ":doc:`上海财经大学 </entities/university-sufe>`"
+":doc:`University of Shanghai for Science and Technology "
+"</entities/university-usst>` (上海理工大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Optics, medical devices, sensors, advanced equipment. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海理工大学 </entities/university-usst>` （上海理工大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：光学、医疗器械、传感器、先进装备。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/yangpu.rst:45
-msgid ":doc:`Shanghai University of Sport </entities/university-sport>`"
-msgstr ":doc:`上海体育大学 </entities/university-sport>`"
+msgid ""
+":doc:`Shanghai University of Finance and Economics "
+"</entities/university-sufe>` (上海财经大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Fintech, analytics, business models. These themes are editorial "
+"routing guidance, not a verified offer of laboratory access or startup "
+"funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海财经大学 </entities/university-sufe>` （上海财经大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：金融科技、分析、商业模式。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
-#: ../../districts/yangpu.rst:47
+#: ../../districts/yangpu.rst:46
+msgid ""
+":doc:`Shanghai University of Sport </entities/university-sport>` (上海体育大学 "
+"· University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Sports science, "
+"motion analysis, wearables. These themes are editorial routing guidance, "
+"not a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海体育大学 </entities/university-sport>` （上海体育大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：运动科学、动作分析、可穿戴设备。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+
+#: ../../districts/yangpu.rst:48
 msgid "Funding routes"
 msgstr "资金路径"
 
-#: ../../districts/yangpu.rst:50
+#: ../../districts/yangpu.rst:51
 msgid ""
 ":doc:`Yangpu financing and credit service platform "
-"</funding/yangpu-credit-directory>`"
-msgstr ":doc:`杨浦融资信用服务平台 </funding/yangpu-credit-directory>`"
+"</funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Loan · No equity; "
+"repayable) — Product-specific technology credit and IP finance; no "
+"universal ceiling. Status: Published directory; lender review. Timing: "
+"Product-specific; confirm current lender terms."
+msgstr ":doc:`杨浦融资信用服务平台 </funding/yangpu-credit-directory>` （杨浦融资信用服务平台 · 贷款 · 不占股，须偿还）—— 科技信贷及知识产权融资依具体产品，无统一上限。状态：目录已公布，须贷款方审核。时间：依具体产品，核验贷款方现行条件。"
 
 #: ../../districts/yangpu.rst:52
+msgid ""
+":doc:`Yangpu Dream Start Angel Co-investment Fund "
+"</funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Equity investment · "
+"Negotiated equity) — District state-backed early-stage equity "
+"co-investment; individual cheque subject to investment committee review. "
+"Status: Published investment platform; deal review. Timing: Manager-led "
+"sourcing and due diligence."
+msgstr ":doc:`杨浦梦想起航天使引投基金 </funding/yangpu-angel-fund>` （杨浦梦想起航天使引投基金 · 股权投资 · 协商股权）—— 区级国资早期股权引投基金，单笔投资额经投委会审议确定。状态：投资平台已公布，须项目审核。时间：管理人开展项目筛选与尽调。"
+
+#: ../../districts/yangpu.rst:54
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ":doc:`InnoSpace </entities/innospace>`"
+#~ msgstr ":doc:`创智空间InnoSpace </entities/innospace>`"
+
+#~ msgid ":doc:`Changyang Campus </entities/changyang>`"
+#~ msgstr ":doc:`长阳创谷 </entities/changyang>`"
+
+#~ msgid ":doc:`Fuxing Island maker / OPC communities </entities/fuxing>`"
+#~ msgstr ":doc:`复兴岛创客与OPC社区 </entities/fuxing>`"
+
+#~ msgid ":doc:`STEFG Angel Fund </entities/stefg>`"
+#~ msgstr ":doc:`上海市大学生科技创业基金会天使基金 </entities/stefg>`"
+
+#~ msgid ":doc:`Fudan University </entities/university-fudan>`"
+#~ msgstr ":doc:`复旦大学 </entities/university-fudan>`"
+
+#~ msgid ":doc:`Tongji University </entities/university-tongji>`"
+#~ msgstr ":doc:`同济大学 </entities/university-tongji>`"
+
+#~ msgid ""
+#~ ":doc:`University of Shanghai for Science and Technology "
+#~ "</entities/university-usst>`"
+#~ msgstr ":doc:`上海理工大学 </entities/university-usst>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai University of Finance and Economics "
+#~ "</entities/university-sufe>`"
+#~ msgstr ":doc:`上海财经大学 </entities/university-sufe>`"
+
+#~ msgid ":doc:`Shanghai University of Sport </entities/university-sport>`"
+#~ msgstr ":doc:`上海体育大学 </entities/university-sport>`"
+
+#~ msgid ""
+#~ ":doc:`Yangpu financing and credit service platform "
+#~ "</funding/yangpu-credit-directory>`"
+#~ msgstr ":doc:`杨浦融资信用服务平台 </funding/yangpu-credit-directory>`"

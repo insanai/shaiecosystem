@@ -1,0 +1,118 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/tongji-autonomy.rst:1
+msgid "Tongji Autonomous Intelligent Unmanned Systems Center"
+msgstr "Wissenschaftszentrum für autonome intelligente unbemannte Systeme der Tongji-Universität"
+
+#: ../../entities/tongji-autonomy.rst:4
+msgid "同济大学上海自主智能无人系统科学中心"
+msgstr "同济大学上海自主智能无人系统科学中心"
+
+#: ../../entities/tongji-autonomy.rst:6
+msgid "Research platform | Pudong | Research checked 2026-11-04"
+msgstr "Forschungsplattform | Neuer Stadtbezirk Pudong | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/tongji-autonomy.rst:8
+msgid "AI and industry focus: Hardware AI, Mobility."
+msgstr "KI- und Branchenfokus: Hardware-KI, Mobilität."
+
+#: ../../entities/tongji-autonomy.rst:10
+msgid ""
+"A research collaboration route for autonomous systems. The published "
+"office contact is in Zhangjiang. A technical proposal should identify the "
+"platform, experiment, data and proposed industrial partner."
+msgstr "Eine hochmoderne Forschungseinrichtung der Tongji-Universität in Zhangjiang. Die Kooperationsanbahnung konzentriert sich auf gemeinsame Grundlagenforschung, Sensorfusion und autonome Navigation; es handelt sich nicht um einen kommerziellen Co-Working-Space."
+
+#: ../../entities/tongji-autonomy.rst:12
+msgid "`Evidence S032 <https://srias.tongji.edu.cn/17839/list.htm>`_. 联系我们."
+msgstr "`Nachweis S032 <https://srias.tongji.edu.cn/17839/list.htm>`_. 联系我们."
+
+#: ../../entities/tongji-autonomy.rst:14
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/tongji-autonomy.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/tongji-autonomy.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/tongji-autonomy.rst:21
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/tongji-autonomy.rst:24
+msgid "`Official website / intake route <https://srias.tongji.edu.cn/>`_"
+msgstr "`Offizielle Website / Bewerbungszugang <https://srias.tongji.edu.cn/>`_"
+
+#: ../../entities/tongji-autonomy.rst:26
+msgid "`Email: srias@tongji.edu.cn <mailto:srias@tongji.edu.cn>`_"
+msgstr "`E-Mail: srias@tongji.edu.cn <mailto:srias@tongji.edu.cn>`_"
+
+#: ../../entities/tongji-autonomy.rst:28
+msgid ""
+"Published address: 3F, Building 2, Tongji Zhangjiang Base, 398 Lianchuang "
+"Road."
+msgstr "Veröffentlichte Adresse: 3. OG, Gebäude 2, Tongji-Basis Zhangjiang, Lianchuang-Straße 398, Pudong."
+
+#: ../../entities/tongji-autonomy.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/tongji-autonomy.rst:32
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/tongji-autonomy.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/tongji-autonomy.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "Die passende Forschungsgruppe identifizieren und die wissenschaftliche oder industrielle Fragestellung formulieren."
+
+#: ../../entities/tongji-autonomy.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "Einen kompakten Projektvorschlag zu Daten, Geräten, Zielergebnissen, Budget und Zeitplan übermitteln."
+
+#: ../../entities/tongji-autonomy.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "Kooperationsform, Publikationsrechte, geistiges Eigentum und institutionelle Freigaben vereinbaren."
+
+#: ../../entities/tongji-autonomy.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "Vor Beginn der Forschungsarbeiten die schriftliche Zugangsberechtigung oder Projektgenehmigung einholen."
+
+#: ../../entities/tongji-autonomy.rst:45
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Bezirksroute Neuer Stadtbezirk Pudong </districts/pudong>`"

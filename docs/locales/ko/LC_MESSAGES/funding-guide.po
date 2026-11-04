@@ -1,0 +1,96 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding-guide.rst:1
+msgid "Capital, with its conditions attached"
+msgstr "자본과 그 이면의 조건들"
+
+#: ../../funding-guide.rst:4
+msgid ""
+"We compare what a program pays for, when value arrives, what must be "
+"repaid and whether ownership changes. The label \"equity-free\" alone "
+"answers too little."
+msgstr "우리는 지원 프로그램이 실제로 어떤 비용을 보전하는지, 자금이 언제 유입되는지, 상환해야 하는 금액이 있는지, 그리고 기업의 소유 지분이 변동되는지를 종합적으로 비교합니다. 단순히 '지분 요구 없음(Equity-free)'이라는 수식어만으로는 너무나 많은 질문이 가려집니다."
+
+#: ../../funding-guide.rst:7
+msgid "Match the resource need to the financing mechanism."
+msgstr "필요한 자원의 성격에 꼭 맞는 자금 조달 방식을 매칭하십시오."
+
+#: ../../funding-guide.rst:10
+msgid "Six mechanisms"
+msgstr "자금 조달의 6가지 핵심 메커니즘"
+
+#: ../../funding-guide.rst:13
+msgid ""
+"A grant is conditional public or philanthropic support. A reimbursement "
+"pays against approved expenditure, often after spending. A voucher or "
+"credit can offset only eligible services. A loan must be repaid. A tax "
+"benefit changes a tax calculation. Equity investment exchanges capital "
+"for ownership or related contractual rights."
+msgstr "보조금(Grant)은 조건이 부가된 공공 또는 공익적 지원금입니다. 비용 환급(Reimbursement)은 승인된 지출에 대해 사후에 정산 지급하는 방식입니다. 바우처나 크레딧은 지정된 적격 서비스 비용을 상계하는 용도로만 사용할 수 있습니다. 대출(Loan)은 원리금 상환 의무가 수반됩니다. 세제 혜택(Tax benefit)은 납부할 세액의 계산 방식을 감면해 줍니다. 지분 투자(Equity investment)는 자본을 대가로 기업 지분이나 계약상의 권리를 취득합니다."
+
+#: ../../funding-guide.rst:15
+msgid ""
+"A competition may combine prizes, services and investment introductions, "
+"each with separate conditions. A subsidized desk is an in-kind benefit, "
+"not unrestricted cash. A government-backed fund is still an investment "
+"vehicle when it takes equity. An interest-free loan remains debt."
+msgstr "창업 경진대회는 상금, 공간 서비스, 투자자 연계를 복합적으로 제공할 수 있으며 각 항목마다 조건이 다릅니다. 임대료가 감면된 공유 오피스 데스크는 현물 서비스 혜택이지 자유롭게 쓸 수 있는 현금이 아닙니다. 정부 모태 펀드나 정책 펀드라 하더라도 지분을 취득한다면 엄연한 지분 투자 도구입니다. 무이자 대출이라 할지라도 갚아야 할 부채라는 본질은 변하지 않습니다."
+
+#: ../../funding-guide.rst:17
+msgid "Build a layered funding plan"
+msgstr "단계별 다층 자금 조달 계획 수립"
+
+#: ../../funding-guide.rst:20
+msgid ""
+"Before registration, check whether team-level vouchers, university "
+"proof-of-concept support or competition routes accept the actual "
+"applicant. After incorporation, compare the company's district and "
+"activity with public calls. For a prototype, prioritize real lab, compute "
+"or customer needs. For expansion, match the amount and timing to investor "
+"or bank criteria."
+msgstr "법인 설립 전에는 예비창업팀 혁신 바우처, 대학 개념 검증(PoC) 펀드, 또는 경진대회 트랙이 실제 신청 주체를 인정하는지 확인하십시오. 법인 설립 후에는 회사가 속한 관할 구와 사업 분야를 최신 공공 지원 공고와 비교하십시오. 시제품 개발 단계에서는 실제 실험실, 연산 자원, 또는 핵심 고객 확보에 우선순위를 두십시오. 본격적인 사업 확장 단계에서는 필요 자금 규모와 조달 시점을 벤처캐피털이나 은행의 대출 심사 기준에 맞추십시오."
+
+#: ../../funding-guide.rst:22
+msgid ""
+"We never add overlapping headline awards into a promised total. Programs "
+"can exclude duplicated spending, restrict related suppliers, require "
+"local operations, demand matching funds or pay only after acceptance. A "
+"company needs working capital for costs that arrive before reimbursement."
+msgstr "우리는 서로 다른 정책에 적힌 지원금 최대 상한액을 단순 합산하여 기대 총액으로 부풀리지 않습니다. 공공 프로그램은 중복 지출을 배제하고, 특수관계인 공급업체 거래를 제한하며, 관할 지역 내 실질 사업장 유치를 요구하고, 민간 매칭 펀드를 조건으로 걸거나, 최종 프로젝트 검수 통과 후에만 자금을 집행합니다. 기업은 사후 환급금이 실제로 입금되기 전까지 소요되는 초기 지출을 감당할 충분한 운전 자본을 자체적으로 확보하고 있어야 합니다."
+
+#: ../../funding-guide.rst:24
+msgid "Compare the real cost"
+msgstr "실질적인 총 조달 비용 비교"
+
+#: ../../funding-guide.rst:27
+msgid ""
+"For public support, compare eligible expense period, matching ratio, "
+"audit cost, tax treatment, reporting and clawback. For equity, compare "
+"valuation, ownership, liquidation preference, board rights, follow-on "
+"rights and exit terms. For debt, compare principal, interest, fees, "
+"guarantee or collateral, repayment schedule and default obligations."
+msgstr "공공 지원금의 경우 인정되는 지출 대상 기간, 민간 자부담 매칭 비율, 외부 감사 비용, 세무 처리 기준, 정기 성과 보고 의무, 그리고 환수 조항을 비교해야 합니다. 지분 투자의 경우 기업가치 밸류에이션, 지분 희석률, 청산 우선권, 이사회 참여권, 후속 투자 참여권 및 투자 회수(엑시트) 조건을 검토해야 합니다. 부채 차입의 경우 대출 원금, 이자율, 금융 수수료, 신용 보증료 또는 담보 설정, 상환 스케줄 및 채무 불이행 시의 법적 책임을 철저히 따져보아야 합니다."
+
+#: ../../funding-guide.rst:29
+msgid ""
+"For cloud benefits, check account region, supported services, expiry, "
+"existing credits and overage billing. China-region and global offers may "
+"use different operators and accounts. Free membership in a technology "
+"ecosystem does not guarantee hardware supply, credits or investment."
+msgstr "클라우드 크레딧 혜택의 경우 계정 등록 관할 지역, 이용 가능한 서비스 범위, 크레딧 유효기간, 기존 수혜 잔액, 그리고 한도 초과 시의 과금 정책을 면밀히 확인하십시오. 중국 내수용 서비스와 글로벌 서비스는 서로 다른 현지 운영사와 독립된 계정 체계를 사용할 수 있습니다. 글로벌 테크 생태계의 무료 회원으로 가입되어 있다고 해서 고성능 하드웨어 공급, 추가 클라우드 크레딧, 혹은 실제 투자가 보장되는 것은 아닙니다."

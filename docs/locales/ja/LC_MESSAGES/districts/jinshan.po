@@ -1,0 +1,152 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/jinshan.rst:1
+msgid "Jinshan"
+msgstr "金山区"
+
+#: ../../districts/jinshan.rst:4
+msgid "Drones, new materials and low-altitude systems"
+msgstr "ドローン、新素材、低空飛行経済システム"
+
+#: ../../districts/jinshan.rst:6
+msgid ""
+"The 2025-2026 park plan names Jinshan New Materials Incubator, East China "
+"UAV Base and Bay Area incubation carriers. It connects testing and "
+"industrialization, subject to park admission and the applicable aviation "
+"permissions."
+msgstr "2025〜2026年パーク計画には、金山新材料インキュベーター、華東無人機基地、湾区インキュベーション拠点が列挙されている。検査・テストと産業化を結びつけているが、パーク入居手続きおよび所定の航空飛行許認可の取得が前提となる。"
+
+#: ../../districts/jinshan.rst:8
+msgid ""
+"`Evidence S023 "
+"<https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. "
+"金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+msgstr "`出典 S023 <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. 金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+
+#: ../../districts/jinshan.rst:10
+msgid "Who receives the inquiry"
+msgstr "受付・問い合わせ窓口"
+
+#: ../../districts/jinshan.rst:13
+msgid "Jinshan science and technology authority"
+msgstr "金山区科学技術主管部門"
+
+#: ../../districts/jinshan.rst:15
+msgid "`Official district website <https://www.jinshan.gov.cn/>`_"
+msgstr "`区人民政府公式サイト <https://www.jinshan.gov.cn/>`_"
+
+#: ../../districts/jinshan.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "本記録では現行の直接電話番号やメールアドレスは確認されていません。公式サイトを通じて担当の受付部署にお問い合わせください。"
+
+#: ../../districts/jinshan.rst:19
+msgid "Before applying"
+msgstr "申請前の確認事項"
+
+#: ../../districts/jinshan.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../districts/jinshan.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../districts/jinshan.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../districts/jinshan.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../districts/jinshan.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../districts/jinshan.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "どの現行通知がプロジェクトに適用されるか、法人登記と実際の事業活動の双方が区内にある必要があるか、どの経費支出期間が対象となるか、また過去の市・区レベルの受給実績が今回の申請を排除しないかを確認してください。企業の移転や費用の発生に先立ち、回答を得ておく必要があります。"
+
+#: ../../districts/jinshan.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本アトラスに収録されている区内組織"
+
+#: ../../districts/jinshan.rst:37
+msgid ""
+":doc:`East China UAV Base </entities/uav-base>` (华东无人机基地 · Technology "
+"park · Hardware AI, Drones) — The Jinshan park plan includes test-flight "
+"services and a low-altitude incubation platform. Airspace, testing and "
+"airworthiness services require separate confirmation from physical "
+"workspace. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`華東無人機基地（East China UAV Base） </entities/uav-base>` （华东无人机基地 · テクノロジーパーク · ハードウェアAI、ドローン・無人機）— 金山区の園区計画に飛行試験サービスや低空経済インキュベーションプラットフォームが含まれる。試験飛行空域の割当、機体テスト、耐空証明支援などの利用は、物理的オフィスの契約とは別途確認が必要。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/jinshan.rst:38
+msgid ""
+":doc:`Jinshan New Materials Incubator </entities/jinshan-materials>` "
+"(金山新材料孵化器 · Incubator · Materials, Hardware AI) — A materials incubation "
+"route linked to Carbon Valley Green Bay. Relevant to sensors, electronic "
+"materials and manufacturing inputs; specify process equipment and "
+"environmental constraints in the inquiry. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`金山新素材インキュベーター </entities/jinshan-materials>` （金山新材料孵化器 · インキュベーター · 新素材・マテリアル、ハードウェアAI）— 炭谷緑湾（Carbon Valley Green Bay）と連携した新素材特化型インキュベーションルート。センサー材料、電子材料、先端製造用部素材に適する。問い合わせ時にはプロセス機器仕様や環境規制条件を明記すること。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/jinshan.rst:39
+msgid ""
+":doc:`Shanghai Zhongqiao Vocational and Technical University "
+"</entities/university-zhongqiao>` (上海中侨职业技术大学 · University) — "
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Vocational undergraduate engineering and "
+"applied skills. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`上海中僑職業技術大学 </entities/university-zhongqiao>` （上海中侨职业技术大学 · 大学・高等教育機関）— 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：職業学士エンジニアリング、応用技術・スキル。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。［ステータス：公表済み組織（公募状況の確認要）］"
+
+#: ../../districts/jinshan.rst:41
+msgid "Funding routes"
+msgstr "資金調達ルート"
+
+#: ../../districts/jinshan.rst:44
+msgid ""
+":doc:`Zhangjiang Jinshan Park low-altitude UAV and new materials support "
+"</funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Grant / reimbursement "
+"· No equity) — Policy-specific R&D, carrier incubation, testing-service "
+"and industrialization support under the 2025-2026 park action plan. "
+"Status: Policy in force; call not confirmed open. Timing: Policy: 2025 to "
+"2026 action plan; confirm current implementing batch."
+msgstr ":doc:`張江金山園低空UAV（無人機）＆新材料イノベーション支援 </funding/jinshan-park-2026>` （张江金山园低空无人机与新材料创新支持 · 助成金・事後精算補助 · 株式希薄化なし（エクイティフリー））— 2025〜2026年パーク行動計画および張江特別政策に基づき、研究開発、インキュベーター育成、受託試験、産業化を多角的に支援。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2025〜2026年アクションプラン（現行の実施バッチを確認のこと）。"
+
+#: ../../districts/jinshan.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`上海全市レベルの資金調達ルートとの比較 </funding>`"

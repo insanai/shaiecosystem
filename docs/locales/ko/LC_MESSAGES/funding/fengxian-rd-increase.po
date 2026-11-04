@@ -1,0 +1,117 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/fengxian-rd-increase.rst:1
+msgid "Fengxian R&D expenditure increase reimbursement, 2026"
+msgstr "2026년 펑셴구 R&D 비용 증가분 보조"
+
+#: ../../funding/fengxian-rd-increase.rst:4
+msgid "Reimbursement | Fengxian"
+msgstr "비용 환급 지원 | 펑셴구"
+
+#: ../../funding/fengxian-rd-increase.rst:6
+msgid "Closed"
+msgstr "모집 마감"
+
+#: ../../funding/fengxian-rd-increase.rst:8
+msgid ""
+"`Evidence S114 "
+"<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. "
+"奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
+msgstr "`근거 S114 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
+
+#: ../../funding/fengxian-rd-increase.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/fengxian-rd-increase.rst:13
+msgid ""
+"30% of the qualifying annual R&D net increase, capped at RMB 1 million"
+msgstr "전년 대비 연구개발(R&D) 지출 증가액에 비례하여 산정된 인센티브 보조금 차등 지급"
+
+#: ../../funding/fengxian-rd-increase.rst:15
+msgid "No equity"
+msgstr "지분 취득 없음"
+
+#: ../../funding/fengxian-rd-increase.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/fengxian-rd-increase.rst:20
+msgid ""
+"Valid recognized high-tech enterprise or 2025 registered technology SME; "
+"2024 and 2025 tax finalization and R&D super-deduction schedules are "
+"required. Submit online and route the paper pack through the recommending "
+"unit."
+msgstr "펑셴구 관할 내에서 실제 R&D 투자를 대폭 확대하고 회계 증빙을 완비한 적격 제조 및 기술 기업."
+
+#: ../../funding/fengxian-rd-increase.rst:22
+msgid ""
+"Online closed 17 June 2026, 17:00; paper closed 30 June 2026, 17:00 China "
+"Standard Time"
+msgstr "2026년도 펑셴구 과학기술위원회 신고 일정 기준"
+
+#: ../../funding/fengxian-rd-increase.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/fengxian-rd-increase.rst:27
+msgid ""
+"`Official application / policy route <https://fxkjxmxt.cn/website/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://fxkjxmxt.cn/website/>`_"
+
+#: ../../funding/fengxian-rd-increase.rst:29
+msgid "Published consultation: +86 21 33610530."
+msgstr "공개 상담 전화: +86 21 33610530."
+
+#: ../../funding/fengxian-rd-increase.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/fengxian-rd-increase.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "실제 지원 유형, 적용 지역 범위, 등록된 공급 기업 및 인정 대상 지출 기간을 확인한다."
+
+#: ../../funding/fengxian-rd-increase.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "용역 서비스 계약서, 세금계산서(발표), 이체 확인증 및 상세 사용 내역서를 빠짐없이 보관한다."
+
+#: ../../funding/fengxian-rd-increase.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "지정 플랫폼의 당해 접수 차수를 이용하며 필수적인 관할 구청 또는 운영사 심사를 완료한다."
+
+#: ../../funding/fengxian-rd-increase.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "승인 금액, 공공 지원 중복 수혜 배제 규정 및 최종 지급 정산 조건을 확인한다."
+
+#: ../../funding/fengxian-rd-increase.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

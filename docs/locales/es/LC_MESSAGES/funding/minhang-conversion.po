@@ -1,0 +1,115 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/minhang-conversion.rst:1
+msgid "Minhang research commercialization support"
+msgstr "Apoyo a la comercialización de resultados de investigación de Minhang"
+
+#: ../../funding/minhang-conversion.rst:4
+msgid "Grant | Minhang"
+msgstr "Subvención a fondo perdido | Distrito de Minhang"
+
+#: ../../funding/minhang-conversion.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "Política vigente; convocatoria no confirmada como abierta"
+
+#: ../../funding/minhang-conversion.rst:8
+msgid ""
+"`Evidence S091 "
+"<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
+"Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`Evidencia S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+
+#: ../../funding/minhang-conversion.rst:10
+msgid "Amount and mechanism"
+msgstr "Importe y mecanismo"
+
+#: ../../funding/minhang-conversion.rst:13
+msgid ""
+"New conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three "
+"years; up to 50% of investment"
+msgstr "Nueva empresa de transferencia tecnológica: hasta 500.000 RMB/año; tope de 1,5 millones de RMB en tres años; hasta el 50 % de la inversión"
+
+#: ../../funding/minhang-conversion.rst:15
+msgid "No equity"
+msgstr "Sin cesión de capital (No equity)"
+
+#: ../../funding/minhang-conversion.rst:17
+msgid "Eligibility and timing"
+msgstr "Elegibilidad y plazos"
+
+#: ../../funding/minhang-conversion.rst:20
+msgid ""
+"Qualifying research-result conversion in Minhang. Registration, eligible "
+"expenditure, audit and annual notice conditions must be confirmed."
+msgstr "Proyectos elegibles de transformación de resultados de investigación en Minhang. Deben confirmarse los requisitos de registro societario, gasto elegible, auditoría y convocatoria anual."
+
+#: ../../funding/minhang-conversion.rst:22
+msgid "Policy: 1 Sep 2025 to 31 Aug 2030"
+msgstr "Vigencia de la política: del 1 de septiembre de 2025 al 31 de agosto de 2030"
+
+#: ../../funding/minhang-conversion.rst:24
+msgid "Contact and application"
+msgstr "Contacto y solicitud"
+
+#: ../../funding/minhang-conversion.rst:27
+msgid "`Official application / policy route <https://www.shmh.gov.cn/>`_"
+msgstr "`Vía oficial de solicitud / normativa <https://www.shmh.gov.cn/>`_"
+
+#: ../../funding/minhang-conversion.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "La autoridad u operador enlazado constituye la vía de contacto. En este perfil no consta un contacto directo vigente para el programa."
+
+#: ../../funding/minhang-conversion.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../funding/minhang-conversion.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../funding/minhang-conversion.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../funding/minhang-conversion.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../funding/minhang-conversion.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../funding/minhang-conversion.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "El importe máximo publicado es un techo presupuestario, no un derecho adquirido. Verifique la convocatoria aplicable, el período de gastos elegibles, la compatibilidad con otras ayudas públicas y las condiciones de desembolso por escrito."

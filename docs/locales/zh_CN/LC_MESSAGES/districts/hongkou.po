@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -105,31 +105,77 @@ msgstr "本图谱中的本区机构"
 
 #: ../../districts/hongkou.rst:37
 msgid ""
-":doc:`Zhangjiang Hongkou Park / Beikechuang </entities/hongkou-park>`"
-msgstr ":doc:`张江虹口园／北科创 </entities/hongkou-park>`"
+":doc:`Zhangjiang Hongkou Park / Beikechuang </entities/hongkou-park>` "
+"(张江虹口园／北科创 · Technology park · Software AI, Industry) — The park plan "
+"gives Beikechuang a coordinating role in incubation, technology transfer "
+"and investment services. Request the relevant sub-park and named "
+"operating company for a project-specific response. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`张江虹口园／北科创 </entities/hongkou-park>` （张江虹口园／北科创 · 科技园区 · 软件人工智能、产业）—— 园区方案明确北科创在孵化、技术转移及投融资服务方面的统筹作用。应索取对应子园及具体运营公司，以获得针对项目的答复。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/hongkou.rst:38
 msgid ""
-":doc:`Shanghai International Studies University "
-"</entities/university-sisu>`"
-msgstr ":doc:`上海外国语大学 </entities/university-sisu>`"
+":doc:`Hongkou Science & Technology Entrepreneurship Center "
+"</entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · Incubator · Software AI, "
+"Industry, Climate) — District public entrepreneurship center and "
+"postdoctoral innovation practice base route supporting tech SMEs, "
+"green-shipping digital tools and R&D talent settlement in Hongkou. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`虹口区科技创业中心与博士后创新基地 </entities/hongkou-stec>` （虹口区科技创业中心与博士后创新基地 · 孵化器 · 软件人工智能、产业、气候）—— 虹口区属公共科技创业中心及博士后创新实践基地对接路径，支持科技型中小企业、绿色航运数字化工具及研发人才落地。【状态：机构有来源，招募待确认】"
 
 #: ../../districts/hongkou.rst:39
 msgid ""
-":doc:`Xianda College of Economics and Humanities, SISU "
-"</entities/university-xianda>`"
-msgstr ":doc:`上海外国语大学贤达经济人文学院 </entities/university-xianda>`"
+":doc:`Shanghai International Studies University "
+"</entities/university-sisu>` (上海外国语大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Language technology, translation, international markets. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海外国语大学 </entities/university-sisu>` （上海外国语大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：语言技术、翻译、国际市场。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
-#: ../../districts/hongkou.rst:41
+#: ../../districts/hongkou.rst:40
+msgid ""
+":doc:`Xianda College of Economics and Humanities, SISU "
+"</entities/university-xianda>` (上海外国语大学贤达经济人文学院 · University) — "
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Language, commerce and creative "
+"applications. These themes are editorial routing guidance, not a verified "
+"offer of laboratory access or startup funding. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`上海外国语大学贤达经济人文学院 </entities/university-xianda>` （上海外国语大学贤达经济人文学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：语言、商业与创意应用。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
+
+#: ../../districts/hongkou.rst:42
 msgid "Funding routes"
 msgstr "资金路径"
 
-#: ../../districts/hongkou.rst:44
+#: ../../districts/hongkou.rst:45
 msgid ""
 ":doc:`Hongkou international and overseas young talent support, first 2026 "
-"batch </funding/hongkou-talent-2026>`"
-msgstr ":doc:`2026虹口国际顶尖及海外优秀青年人才扶持第一批 </funding/hongkou-talent-2026>`"
+"batch </funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · Grant · "
+"No equity) — Recognized top talent and core team: up to RMB 1m; eligible "
+"overseas young talent: RMB 50,000 per person. Status: Closed. Timing: "
+"Closed 31 March 2026."
+msgstr ":doc:`2026虹口国际顶尖及海外优秀青年人才扶持第一批 </funding/hongkou-talent-2026>` （2026虹口国际顶尖及海外优秀青年人才扶持第一批 · 补助 · 不占股）—— 认定顶尖人才及核心团队最高100万元，合资格海外优秀青年人才每人5万元。状态：已截止。时间：已于2026年3月31日截止。"
 
-#: ../../districts/hongkou.rst:46
+#: ../../districts/hongkou.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`同时比较全市资金路径 </funding>`"
+
+#~ msgid ""
+#~ ":doc:`Zhangjiang Hongkou Park / Beikechuang </entities/hongkou-park>`"
+#~ msgstr ":doc:`张江虹口园／北科创 </entities/hongkou-park>`"
+
+#~ msgid ""
+#~ ":doc:`Shanghai International Studies University "
+#~ "</entities/university-sisu>`"
+#~ msgstr ":doc:`上海外国语大学 </entities/university-sisu>`"
+
+#~ msgid ""
+#~ ":doc:`Xianda College of Economics and Humanities, SISU "
+#~ "</entities/university-xianda>`"
+#~ msgstr ":doc:`上海外国语大学贤达经济人文学院 </entities/university-xianda>`"
+
+#~ msgid ""
+#~ ":doc:`Hongkou international and overseas young talent support, first "
+#~ "2026 batch </funding/hongkou-talent-2026>`"
+#~ msgstr ":doc:`2026虹口国际顶尖及海外优秀青年人才扶持第一批 </funding/hongkou-talent-2026>`"

@@ -1,0 +1,109 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../software-ai.rst:1
+msgid "Intelligence in software"
+msgstr "소프트웨어 지능"
+
+#: ../../software-ai.rst:4
+msgid ""
+"For a software AI team, the scarce resource is often a repeatable "
+"customer problem, a reliable evaluation set and a lawful route to useful "
+"data. A model community helps when it supplies a concrete resource or a "
+"credible introduction."
+msgstr "소프트웨어 AI 팀에게 가장 희소한 자원은 종종 반복 가능한 고객의 문제, 신뢰할 수 있는 벤치마크 평가 세트, 그리고 유용한 데이터에 합법적으로 접근할 수 있는 경로입니다. 모델 커뮤니티는 구체적인 자원을 제공하거나 공신력 있는 소개 창구가 되어줄 때 비로소 진정한 가치를 발휘합니다."
+
+#: ../../software-ai.rst:7
+msgid "An AI product connects models to a customer workflow."
+msgstr "인공지능 제품은 모델을 실제 고객의 업무 흐름과 연결합니다."
+
+#: ../../software-ai.rst:10
+msgid "Choose an entry point"
+msgstr "적합한 진입 경로의 선택"
+
+#: ../../software-ai.rst:13
+msgid ""
+"For model engineering and developer connections, begin with Model Speed "
+"Space, Zhangjiang Model Community, Shanghai AI Laboratory resources or a "
+"relevant university group. For enterprise deployment, compare an "
+"operator's actual buyer relationships with the industry requirements. For "
+"an independent founder, check the current Yangpu OPC community policy and "
+"Changning's published carriers."
+msgstr "모델 엔지니어링 및 개발자 네트워크 연결을 원한다면 모수공간(Model Speed Space), 장장 모력 커뮤니티(Zhangjiang Model Community), 상하이 인공지능 연구소(Shanghai AI Laboratory)의 오픈 소스 자원 또는 관련 대학 연구진에서 시작하십시오. 엔터프라이즈 도입의 경우 운영사가 실제로 보유한 기업 구매자 네트워크가 산업별 요구사항과 부합하는지 비교해야 합니다. 독립 창업가라면 양푸구의 현행 OPC 커뮤니티 정책과 창닝구에 공시된 거점들을 확인하십시오."
+
+#: ../../software-ai.rst:15
+msgid ""
+"We treat foundation models, domain models, agents, multimodal systems, "
+"industrial software, evaluation, AI security and scientific software as "
+"different businesses. An accelerator that can introduce a manufacturer "
+"may not supply a regulated financial dataset or an inference contract."
+msgstr "우리는 파운데이션 모델, 도메인 특화 모델, AI 에이전트, 멀티모달 시스템, 산업용 소프트웨어, 벤치마크 평가, AI 보안, 과학 컴퓨팅 소프트웨어를 근본적으로 서로 다른 비즈니스로 취급합니다. 전통 제조업체를 소개해 줄 수 있는 액셀러레이터라 하더라도, 엄격한 규제를 받는 금융 데이터셋이나 추론 서비스 공급 계약까지 제공할 수 있는 것은 아닙니다."
+
+#: ../../software-ai.rst:17
+msgid ""
+"In central and western districts, Jing'an's Shibei Hi-Tech Park and "
+"Shutong Valley focus on big-data, blockchain and enterprise AI "
+"compliance; Huangpu pairs its five-year fintech clustering policy with "
+"the Entrepreneurship Companion mentor network; and Songjiang's 2026 Data "
+"Elements Special Fund supports corpus governance and AI data-space "
+"applications."
+msgstr "도심 및 서부 회랑 지역을 살펴보면, 징안구의 시베이 하이테크 파크와 수퉁 밸리(Shutong Valley)는 빅데이터, 블록체인, 엔터프라이즈 AI 컴플라이언스에 집중하고 있습니다. 황푸구는 5개년 핀테크 클러스터 육성 정책과 '창업 페이스메이커' 멘토 네트워크를 결합하여 운영합니다. 쑹장구는 2026년 데이터 요소 특별 기금을 통해 코퍼스 거버넌스 및 AI 데이터 스페이스 구축 프로젝트를 적극 지원하고 있습니다."
+
+#: ../../software-ai.rst:19
+msgid "Build the smallest credible pilot"
+msgstr "최소 단위의 신뢰할 수 있는 파일럿 구축"
+
+#: ../../software-ai.rst:22
+msgid ""
+"Prepare one task, a baseline, a held-out evaluation set and a target "
+"metric. State cost per completed task, latency, error handling and human "
+"review. Name the data owner, deployment environment and accountable "
+"buyer. A pilot needs an owner, a budget, acceptance criteria and a path "
+"to a production contract."
+msgstr "단일 태스크, 명확한 기준선(베이스라인), 별도의 검증용 평가 세트, 그리고 목표 성능 지표를 하나씩 준비하십시오. 작업 완료당 단가, 지연 시간(레이턴시), 오류 처리 메커니즘, 인간 개입 검토 절차를 명확히 기술해야 합니다. 데이터 소유권자, 배포 인프라 환경, 예산 집행 책임이 있는 구매 담당자를 특정하십시오. 파일럿 실증이 성공하려면 책임자, 예산, 검수 기준, 그리고 실제 양산 계약으로 이어지는 명확한 경로가 필수적입니다."
+
+#: ../../software-ai.rst:24
+msgid ""
+"Budget training, fine-tuning, inference, retrieval, storage, networking, "
+"annotation and evaluation separately. A compute reimbursement may exclude "
+"storage or networking. A model or corpus voucher may cover only an "
+"approved supplier and a specified historical cost period. Retain usage "
+"logs, invoices, contracts and payment records from the beginning."
+msgstr "모델 학습, 미세조정(파인튜닝), 추론, 검색(RAG), 스토리지, 네트워킹, 데이터 라벨링 및 성능 평가는 각각 독립된 예산으로 편성하십시오. 컴퓨팅 보조금은 스토리지나 네트워크 비용을 제외할 수 있습니다. 모델 바우처나 코퍼스 바우처는 정부가 승인한 공급 업체와 지정된 과거 지출 기간에만 적용될 수 있습니다. 프로젝트 초기부터 사용 로그, 인보이스, 계약서, 송금 영수증을 철저히 보관하십시오."
+
+#: ../../software-ai.rst:26
+msgid "Before public deployment"
+msgstr "공개 배포 전 필수 검토 사항"
+
+#: ../../software-ai.rst:29
+msgid ""
+"Define whether the service is an internal tool, a business-facing "
+"deployment or a public-facing generative service. Ask the relevant "
+"authority and a qualified adviser which model registration, algorithm "
+"filing, content labelling, data, sector and network requirements apply. "
+"Requirements attach to the actual service, not to an AI label on a pitch "
+"deck. This atlas supplies routing questions rather than an exhaustive "
+"legal procedure."
+msgstr "해당 서비스가 내부 업무용 도구인지, 기업 간(B2B) 배포인지, 일반 대중을 대상으로 하는 생성형 AI 서비스인지 명확히 정의하십시오. 관할 감독 관청 및 전문 법률 자문가에게 모델 등록, 알고리즘 접수(심사 등록), 생성 콘텐츠 워터마크 표시, 데이터 보안, 산업별 인허가, 네트워크 보안 요건 중 어느 규정이 적용되는지 확인하십시오. 규제 준수 의무는 피치덱에 적힌 'AI'라는 수식어가 아니라 실제 제공되는 서비스 형태에 따라 결정됩니다. 본 아틀라스는 완전한 법적 절차를 대신하기보다는 올바른 방향을 잡기 위한 핵심 질문들을 제시합니다."
+
+#: ../../software-ai.rst:31
+msgid ""
+"`Evidence S104 "
+"<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
+"上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`근거 S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."

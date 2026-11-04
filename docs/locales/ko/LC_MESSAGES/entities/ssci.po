@@ -1,0 +1,112 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/ssci.rst:1
+msgid "Shanghai Leading Industry Funds"
+msgstr "상하이 3대 선도산업 모펀드"
+
+#: ../../entities/ssci.rst:4
+msgid "上海三大先导产业母基金"
+msgstr "上海三大先导产业母基金"
+
+#: ../../entities/ssci.rst:6
+msgid "Investor | Citywide / global | Research checked 2026-11-04"
+msgstr "투자 기관 | 전시 / 글로벌 | 연구 확인일 2026-11-04"
+
+#: ../../entities/ssci.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Chips, Health."
+msgstr "AI 및 산업 분야: 소프트웨어 AI, 하드웨어 AI, 반도체 칩, 헬스케어."
+
+#: ../../entities/ssci.rst:10
+msgid ""
+"A state-backed fund platform for leading industries, with AI interests "
+"including general AI, computing systems, humanoids, vertical models and "
+"edge AI. A fund-of-funds commitment is not a startup award or a direct "
+"application entitlement."
+msgstr "상하이시 국유자본이 주도하는 선도산업 모펀드 플랫폼으로, 범용 AI, 컴퓨팅 시스템, 임바디드 AI, 스마트 제조 소프트웨어 분야를 지원합니다. 자금 배분은 정부 행정 보조금이 아닌 시장 기반의 펀드 위탁 투자를 통해 집행됩니다."
+
+#: ../../entities/ssci.rst:12
+msgid "`Evidence S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+msgstr "`근거 S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+
+#: ../../entities/ssci.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/ssci.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/ssci.rst:19
+msgid "Funding mechanism: Equity investment."
+msgstr "지원 메커니즘: 지분 투자."
+
+#: ../../entities/ssci.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/ssci.rst:24
+msgid ""
+"`Official website / intake route <https://www.ssci-leadingfund.com/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.ssci-leadingfund.com/>`_"
+
+#: ../../entities/ssci.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/ssci.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/ssci.rst:30
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/ssci.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/ssci.rst:35
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "펀드 운용사, 중점 투자 분야, 투자 단계 및 법인격의 적합성을 확인한다."
+
+#: ../../entities/ssci.rst:37
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "IR 피치덱, 주주명부(Cap table), 기술 입증 자료, 시장 지표(Traction) 및 자금 조달 계획을 제출한다."
+
+#: ../../entities/ssci.rst:39
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "사업, 재무, 기술 및 법률 실사를 완료한다."
+
+#: ../../entities/ssci.rst:41
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "텀시트(Term sheet), 투자심의위원회 부대조건 및 최종 투자 본계약서를 검토한다."
+
+#: ../../entities/ssci.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`전시 / 글로벌 경로 안내 </funding>`"

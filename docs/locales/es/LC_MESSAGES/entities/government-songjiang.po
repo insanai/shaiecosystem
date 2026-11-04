@@ -1,0 +1,115 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/government-songjiang.rst:1
+msgid "Songjiang G60 innovation services"
+msgstr "Servicios de innovación G60 de Songjiang"
+
+#: ../../entities/government-songjiang.rst:4
+msgid "松江区G60科创服务部门"
+msgstr "松江区G60科创服务部门"
+
+#: ../../entities/government-songjiang.rst:6
+msgid "Government | Songjiang | Research checked 2026-11-04"
+msgstr "Organismo gubernamental | Distrito de Songjiang | Investigación verificada el 2026-11-04"
+
+#: ../../entities/government-songjiang.rst:8
+msgid ""
+"The G60 Sci-Tech Innovation Valley publishes innovation and "
+"resource-matching initiatives. We distinguish the nine-city corridor from "
+"Shanghai district eligibility: a partner elsewhere in the corridor does "
+"not establish Songjiang qualification."
+msgstr "El Valle de Innovación Científico-Tecnológica G60 publica iniciativas de innovación y conexión de recursos. Distinguimos el corredor de nueve ciudades de los requisitos de elegibilidad distrital de Shanghái: contar con un socio en otra ciudad del corredor no otorga derecho a las ayudas de Songjiang."
+
+#: ../../entities/government-songjiang.rst:10
+msgid ""
+"`Evidence S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`Evidencia S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+
+#: ../../entities/government-songjiang.rst:12
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/government-songjiang.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/government-songjiang.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/government-songjiang.rst:19
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/government-songjiang.rst:22
+msgid "`Official website / intake route <https://www.songjiang.gov.cn/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.songjiang.gov.cn/>`_"
+
+#: ../../entities/government-songjiang.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/government-songjiang.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/government-songjiang.rst:28
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/government-songjiang.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/government-songjiang.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Leer la convocatoria oficial fechada y verificar las normas sobre distrito, entidad jurídica, actividad elegible y período de gasto."
+
+#: ../../entities/government-songjiang.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Preparar el expediente exigido y tramitar el aval de la entidad de acogida o del distrito si fuera necesario."
+
+#: ../../entities/government-songjiang.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Presentar la solicitud a través de la plataforma oficial antes de la fecha límite establecida y conservar el acuse de recibo."
+
+#: ../../entities/government-songjiang.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Cumplir las obligaciones de evaluación, adjudicación, presentación de informes, auditoría de aceptación y desembolso previstas en la convocatoria."
+
+#: ../../entities/government-songjiang.rst:41
+msgid ":doc:`Songjiang district route </districts/songjiang>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Songjiang </districts/songjiang>`"

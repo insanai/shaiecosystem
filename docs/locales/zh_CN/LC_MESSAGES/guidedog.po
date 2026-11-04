@@ -1,0 +1,270 @@
+# Shanghai Ecosystem Atlas UI layout strings (_templates/layout.html)
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Shanghai Ecosystem Atlas — Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog in HTML and PDF."
+msgstr "《上海创新生态图谱》——由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu 共同贡献。使用 Guidedog 原生构建 HTML 与 PDF。"
+
+msgid "Shanghai Ecosystem Atlas"
+msgstr "上海创新生态图谱"
+
+msgid "Skip to content"
+msgstr "跳转到正文"
+
+msgid "SHANGHAI"
+msgstr "上海"
+
+msgid "ECOSYSTEM ATLAS"
+msgstr "创新生态图谱"
+
+msgid "Main navigation"
+msgstr "主导航"
+
+msgid "Explore the map"
+msgstr "探索地图"
+
+msgid "16 Districts"
+msgstr "十六行政区"
+
+msgid "Universities"
+msgstr "高校与科研"
+
+msgid "Incubation"
+msgstr "孵化与园区"
+
+msgid "Funding"
+msgstr "资金路径"
+
+msgid "How to apply"
+msgstr "申请指南"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Download PDF Book"
+msgstr "下载PDF图书"
+
+msgid "THE PEARL OF THE ORIENT / WHITE MAGNOLIA EDITION 2026"
+msgstr "东方明珠 · 上海市花白玉兰 · 2026水墨研究版"
+
+msgid "A city."
+msgstr "一座城市。"
+
+msgid "A world of"
+msgstr "万千"
+
+msgid "possibility."
+msgstr "可能。"
+
+msgid "Where Shanghai's 16 administrative districts, 40 undergraduate universities, 125 innovation organizations and 45 funding pathways meet. A white-magnolia and Chinese ink-wash field guide from research to repeatable enterprise."
+msgstr "全覆盖上海16个行政区、40所本科院校、29所专科与12所成人高校、125家创新机构与45条资金路径。以上海市花白玉兰（Yulania denudata）与传统水墨淡彩为视觉灵感的创新生态双栖图谱。"
+
+msgid "Shanghai coverage highlights"
+msgstr "上海空间与主题亮点"
+
+msgid "White Magnolia & Traditional Ink Wash"
+msgstr "市花白玉兰 · 传统水墨淡彩"
+
+msgid "All 16 Shanghai Administrative Districts"
+msgstr "全覆盖上海16个行政区"
+
+msgid "40 Universities + 41 Colleges"
+msgstr "40所本科 + 41所专科与成人高校"
+
+msgid "Guidedog Native HTML & PDF"
+msgstr "Guidedog 原生 HTML & PDF"
+
+msgid "Explore the ecosystem"
+msgstr "探索创新生态"
+
+msgid "All 7 language PDFs"
+msgstr "全部7语种PDF图书"
+
+msgid "Written by:"
+msgstr "作者："
+
+msgid "With contributions from:"
+msgstr "共同贡献："
+
+msgid "Made using Guidedog in HTML and PDF · Available in English, 简体中文, हिन्दी, 日本語, 한국어, Deutsch & Español"
+msgstr "使用 Guidedog 原生构建 HTML 网站与 PDF 图书 · 支持英、中、印、日、韩、德、西七语种"
+
+msgid "Inspired by Yulania denudata (White Magnolia), official flower of Shanghai since 1986, and traditional shuimo dan cai ink-wash painting on xuan paper."
+msgstr "汲取1986年定名的上海市花白玉兰（Yulania denudata）与宣纸水墨淡彩艺术灵感。"
+
+msgid "Traditional Chinese shuimo ink wash painting of the Shanghai skyline across the misty Huangpu River with blooming white magnolia"
+msgstr "中国传统水墨淡彩绘制的黄浦江畔上海天际线与盛放白玉兰"
+
+msgid "SHANGHAI / WHITE MAGNOLIA / CHINESE SHUIMO INK WASH"
+msgstr "上海 · 市花白玉兰 · 传统水墨淡彩封面"
+
+msgid "Atlas coverage"
+msgstr "图谱覆盖规模"
+
+msgid "districts, connected"
+msgstr "上海行政区全覆盖"
+
+msgid "university profiles (+41 colleges)"
+msgstr "本科高校档案（附41所院校）"
+
+msgid "organization routes"
+msgstr "研究机构与载体档案"
+
+msgid "funding pathways"
+msgstr "市区两级资金路径"
+
+msgid "verified primary sources"
+msgstr "核验官方与机构来源"
+
+msgid "Download the Complete Illustrated PDF Book"
+msgstr "下载《上海创新生态图谱》完整插图版 PDF 图书"
+
+msgid "Shanghai Ecosystem Atlas PDF Book Cover"
+msgstr "《上海创新生态图谱》PDF图书封面"
+
+msgid "WHITE MAGNOLIA EDITION"
+msgstr "白玉兰水墨珍藏版"
+
+msgid "THE MAGNOLIA PRINT EDITION / COMPLETE ILLUSTRATED PDF BOOK"
+msgstr "白玉兰水墨印刷版 · 免费下载完整PDF图书"
+
+msgid "Typeset in a generous 240 × 300 mm art-book format by Guidedog's embedded Typst engine, the PDF book contains every chapter, vector district map, architecture diagram, 125 organization profiles, 45 funding pathways, 81 higher-education registry entries and 133 cited sources for offline reading and field trips."
+msgstr "本书与网站同源共生，由 Guidedog 内置 Typst 引擎按 240 × 300 毫米大开本艺术图谱排版，完整收录全部章节、16区矢量地图、架构图解、125份机构档案、45条资金路径、81所高等教育机构名录与133项原始文献出处。"
+
+msgid "AUTHOR"
+msgstr "作者"
+
+msgid "Lead author & ecosystem architecture"
+msgstr "主笔作者与生态图谱架构"
+
+msgid "CONTRIBUTORS"
+msgstr "共同贡献者"
+
+msgid "PUBLICATION ENGINE"
+msgstr "出版引擎"
+
+msgid "Single-source RST, native PO localization & Typst book typesetting"
+msgstr "同源 RST、原生 PO 多语种本地化与 Typst 图书排版"
+
+msgid "Browse all 16 district chapters"
+msgstr "浏览全部16个行政区专章"
+
+msgid "DOWNLOAD PDF BOOK IN ALL 7 LANGUAGES"
+msgstr "下载全部 7 种语言版本的 PDF 图书"
+
+msgid "MODELS & AGENTS"
+msgstr "模型与智能体"
+
+msgid "Intelligence in software"
+msgstr "软件中的智能"
+
+msgid "From Model Speed Space and Zhangjiang Model Community to compute vouchers and pilot deployment."
+msgstr "从模速空间、张江模力社区到算力语料券与试点部署。"
+
+msgid "CHIPS & ROBOTS"
+msgstr "芯片与具身机器人"
+
+msgid "Intelligence in the physical world"
+msgstr "物理世界中的智能"
+
+msgid "Zhangjiang tape-out, Jiading MEMS pilot lines, embodied robotics, Jinshan UAVs and biomanufacturing."
+msgstr "张江芯片流片、嘉定传感中试、具身智能机器人、金山无人机与生物制造。"
+
+msgid "CAPITAL WITH CONDITIONS"
+msgstr "附带条件的资本"
+
+msgid "Know what funding really means"
+msgstr "读懂每一类资金机制"
+
+msgid "Compare 45 non-repayable grants, vouchers, interest-free loans, convertible support and state funds."
+msgstr "对比45条无偿补助、创新券、免息贷款、转股支持与国资母基金。"
+
+msgid "ALL 16 DISTRICTS"
+msgstr "全部16个行政区"
+
+msgid "Sixteen districts, sixteen entry routes"
+msgstr "十六区，十六条对接路径"
+
+msgid "District-by-district specialization, receiving authorities, local carriers and district funding calls."
+msgstr "逐区梳理产业定位、受理部门、本地载体与区级专项资金。"
+
+msgid "UNIVERSITIES & LABS"
+msgstr "高校与科研转化"
+
+msgid "Universities & commercialization"
+msgstr "高校与成果转化"
+
+msgid "All 40 undergraduate universities, 29 diploma colleges, 12 adult institutions and science parks."
+msgstr "涵盖全部40所本科高校、29所专科院校、12所成人高校与大学科技园。"
+
+msgid "FIELD EXECUTION"
+msgstr "实地落地执行"
+
+msgid "From introduction to application"
+msgstr "从初次对接到正式申请"
+
+msgid "Outreach templates, shared data-room checklist, foreign founder work-permit guide and 4-week plan."
+msgstr "双语沟通模板、共用资料库清单、外籍创始人工作许可指南与四周实地计划。"
+
+msgid "IN THIS ATLAS"
+msgstr "本图谱目录"
+
+msgid "PDF BOOK EDITION"
+msgstr "印刷级 PDF 图书"
+
+msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore & Emily Yue Xu. Built with Guidedog."
+msgstr "由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu 共同贡献。使用 Guidedog 构建。"
+
+msgid "Sources, credits & research limits"
+msgstr "来源、署名与研究边界"
+
+msgid "Atlas"
+msgstr "图谱首页"
+
+msgid "Navigation"
+msgstr "章节导航"
+
+msgid "Previous"
+msgstr "上一页"
+
+msgid "Next"
+msgstr "下一页"
+
+msgid "SHANGHAI / ECOSYSTEM ATLAS"
+msgstr "上海 · 创新生态图谱"
+
+msgid "Inspired by Shanghai's official white magnolia and traditional Chinese ink wash. Grounded in 133 verified sources."
+msgstr "以上海市花白玉兰与传统水墨淡彩为灵感，以133项核验原始证据为根基。"
+
+msgid "Built with:"
+msgstr "构建工具："
+
+msgid "Guidedog — Native HTML Website & Typst PDF Book across 7 languages"
+msgstr "Guidedog —— 原生构建七语种 HTML 网站与 Typst PDF 图书"
+
+msgid "All 16 Shanghai districts"
+msgstr "上海全部16个行政区专章"
+
+msgid "Sources & reading room (133 sources)"
+msgstr "来源与阅读室（133项证据）"
+
+msgid "Research methods, gaps & credits"
+msgstr "研究方法、已知缺口与作者署名"
+
+msgid "Download research dataset (JSON)"
+msgstr "下载研究数据集 (JSON)"
+
+msgid "Research checked 2026-11-04. Current official notices govern."
+msgstr "研究核对日期：2026-11-04。申报与资助以现行官方通知为准。"
+
+msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu."
+msgstr "由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu 共同贡献。"
+
+msgid "Built with Guidedog."
+msgstr "使用 Guidedog 构建。"
+

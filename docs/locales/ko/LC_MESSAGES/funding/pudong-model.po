@@ -1,0 +1,112 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/pudong-model.rst:1
+msgid "Pudong AI model and agent application support, 2026"
+msgstr "2026년 푸둥 대형 AI 모델 및 에이전트 응용 프로젝트"
+
+#: ../../funding/pudong-model.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "비용 환급 지원 | 푸둥 신구"
+
+#: ../../funding/pudong-model.rst:6
+msgid "Closed"
+msgstr "모집 마감"
+
+#: ../../funding/pudong-model.rst:8
+msgid ""
+"`Evidence S089 "
+"<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
+"关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`근거 S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+
+#: ../../funding/pudong-model.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/pudong-model.rst:13
+msgid "Support rate and amount subject to applicable implementing rules"
+msgstr "지원 비율 및 지원 한도는 해당 실시 세칙 기준"
+
+#: ../../funding/pudong-model.rst:15
+msgid "No equity"
+msgstr "지분 취득 없음"
+
+#: ../../funding/pudong-model.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/pudong-model.rst:20
+msgid ""
+"Qualifying Pudong-benefiting projects with eligible 2025 model or agent "
+"expenses. Required filing or registration conditions apply; previously "
+"publicly funded projects cannot duplicate this support."
+msgstr "주요 수혜 및 사업 성과가 푸둥구에 귀속되고 2025년도 모델 또는 에이전트 관련 적격 지출이 발생한 프로젝트. 필수 등록 및 심의 요건이 적용되며 타 공공 재정 지원을 이미 수령한 항목은 중복 지원이 불가합니다."
+
+#: ../../funding/pudong-model.rst:22
+msgid "Closed 31 Aug 2026, 16:00 China Standard Time"
+msgstr "2026년 8월 31일 16:00(중국 표준시) 접수 마감"
+
+#: ../../funding/pudong-model.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/pudong-model.rst:27
+msgid "`Official application / policy route <https://pyd.pudong.gov.cn/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://pyd.pudong.gov.cn/>`_"
+
+#: ../../funding/pudong-model.rst:29
+msgid "Published consultation: +86 21 68811090."
+msgstr "공개 상담 전화: +86 21 68811090."
+
+#: ../../funding/pudong-model.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/pudong-model.rst:33
+msgid ""
+"Historical 2026 procedure: prepare the signed application, use report and "
+"commitments."
+msgstr "2026년 기존 절차: 기명날인된 신청서, 성과 보고서 및 기업 확약서를 준비한다."
+
+#: ../../funding/pudong-model.rst:35
+msgid ""
+"Add application logs, special audit, expenditure schedule, contracts, "
+"invoices and payments."
+msgstr "실제 활용 로그, 특수 목적 감사보고서, 지출 증빙 명세서, 계약서, 세금계산서 및 결제 내역을 첨부한다."
+
+#: ../../funding/pudong-model.rst:37
+msgid ""
+"Submit on the Pudong policy platform; the 31 August 2026 deadline has "
+"passed."
+msgstr "푸둥 혜기 정책 플랫폼을 통해 제출한다 (2026년 8월 31일 기한은 마감됨)."
+
+#: ../../funding/pudong-model.rst:39
+msgid ""
+"The receiving area administration or town reviews and recommends; seek a "
+"new notice for future claims."
+msgstr "관할 구역 관리국 또는 진(镇) 정부가 심사 및 추천을 진행하며 향후 지원은 신규 공고를 확인해야 한다."
+
+#: ../../funding/pudong-model.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

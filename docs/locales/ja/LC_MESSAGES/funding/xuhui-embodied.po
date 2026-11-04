@@ -1,0 +1,116 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/xuhui-embodied.rst:1
+msgid "Xuhui embodied AI development support"
+msgstr "徐匯区身体性AI（具身知能）産業発展支援"
+
+#: ../../funding/xuhui-embodied.rst:4
+msgid "Grant | Xuhui"
+msgstr "助成金・補助金 | 徐匯区"
+
+#: ../../funding/xuhui-embodied.rst:6
+msgid "Published policy; implementing intake to confirm"
+msgstr "政策公表済み（申請受付状況の確認要）"
+
+#: ../../funding/xuhui-embodied.rst:8
+msgid ""
+"`Evidence S090 "
+"<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
+"关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`出典 S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+
+#: ../../funding/xuhui-embodied.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/xuhui-embodied.rst:13
+msgid ""
+"Evaluated entity support ceilings: RMB 10m one-off and RMB 20m annual "
+"development support"
+msgstr "評価審査を経た適格主体に対し、1回限り最大1,000万元、年間発展支援として最大2,000万元の上限"
+
+#: ../../funding/xuhui-embodied.rst:15
+msgid "No equity"
+msgstr "株式希薄化なし（エクイティフリー）"
+
+#: ../../funding/xuhui-embodied.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/xuhui-embodied.rst:20
+msgid ""
+"Qualifying entities in robot models, embodied algorithms, robot data and "
+"operating systems. These headline maxima are not an ordinary startup "
+"award and require comprehensive evaluation."
+msgstr "ロボット基幹モデル、身体性アルゴリズム、ロボットデータセット、専用OS等の分野で区の産業方針に合致する適格事業者。総合評価が必要であり、上記上限額は通常のスタートアップに自動支給されるものではない。"
+
+#: ../../funding/xuhui-embodied.rst:22
+msgid "Confirm applicable implementing notice"
+msgstr "該当する年度実施通知を確認のこと"
+
+#: ../../funding/xuhui-embodied.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/xuhui-embodied.rst:27
+msgid "`Official application / policy route <https://www.xuhui.gov.cn/>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.xuhui.gov.cn/>`_"
+
+#: ../../funding/xuhui-embodied.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/xuhui-embodied.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/xuhui-embodied.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/xuhui-embodied.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/xuhui-embodied.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/xuhui-embodied.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/xuhui-embodied.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

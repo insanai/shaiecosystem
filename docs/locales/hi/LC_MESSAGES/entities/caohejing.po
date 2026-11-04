@@ -1,0 +1,120 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/caohejing.rst:1
+msgid "Caohejing Development Zone"
+msgstr "काओहेजिंग डेवलपमेंट ज़ोन (Caohejing Development Zone)"
+
+#: ../../entities/caohejing.rst:4
+msgid "漕河泾开发区"
+msgstr "漕河泾开发区"
+
+#: ../../entities/caohejing.rst:6
+msgid "Technology park | Xuhui | Research checked 2026-11-04"
+msgstr "प्रौद्योगिकी पार्क | शुहुई (Xuhui) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/caohejing.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Industry."
+msgstr "एआई और उद्योग फोकस: सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग।"
+
+#: ../../entities/caohejing.rst:10
+msgid ""
+"The park operator publishes enterprise and intellectual-property service "
+"routes. Confirm the specific sub-park and operating address; the "
+"Caohejing name covers multiple development locations."
+msgstr "पार्क संचालक उद्यम और बौद्धिक-संपदा सेवा मार्ग प्रकाशित करता है। विशिष्ट सब-पार्क और परिचालन पते की पुष्टि करें; काओहेजिंग नाम कई विकास स्थानों को कवर करता है।"
+
+#: ../../entities/caohejing.rst:12
+msgid ""
+"`Evidence S049 <https://chj.shlingang.com/chj/yqfw/sclb/yszx/>`_. 漕河泾开发区."
+msgstr "`साक्ष्य S049 <https://chj.shlingang.com/chj/yqfw/sclb/yszx/>`_. 漕河泾开发区."
+
+#: ../../entities/caohejing.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/caohejing.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/caohejing.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/caohejing.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/caohejing.rst:24
+msgid "`Official website / intake route <https://chj.shlingang.com/>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://chj.shlingang.com/>`_"
+
+#: ../../entities/caohejing.rst:26
+msgid "Telephone: +86 21 64850000."
+msgstr "टेलीफ़ोन: +86 21 64850000।"
+
+#: ../../entities/caohejing.rst:28
+msgid "`Email: chj@caohejing.com <mailto:chj@caohejing.com>`_"
+msgstr "`ईमेल: chj@caohejing.com <mailto:chj@caohejing.com>`_"
+
+#: ../../entities/caohejing.rst:30
+msgid "Published address: 1015 Caobao Road, Shanghai."
+msgstr "प्रकाशित पता: 1015 काओबाओ रोड, शंघाई।"
+
+#: ../../entities/caohejing.rst:32
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/caohejing.rst:34
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/caohejing.rst:37
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/caohejing.rst:39
+msgid "Send a project brief and request the current admission checklist."
+msgstr "परियोजना का संक्षिप्त विवरण भेजें और वर्तमान प्रवेश चेकलिस्ट का अनुरोध करें।"
+
+#: ../../entities/caohejing.rst:41
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "संचालक की पात्रता और तकनीकी या वाणिज्यिक समीक्षा पूरी करें।"
+
+#: ../../entities/caohejing.rst:43
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "किराया, सेवा शुल्क, IP, कंप्यूट मूल्य निर्धारण और किसी भी इक्विटी अधिकार की लिखित रूप में पुष्टि करें।"
+
+#: ../../entities/caohejing.rst:45
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "सहमत प्रवेश दस्तावेजों पर हस्ताक्षर करें और मील के पत्थर तथा सहायता प्रभारियों को दर्ज करें।"
+
+#: ../../entities/caohejing.rst:47
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`शुहुई (Xuhui) ज़िला मार्ग </districts/xuhui>`"

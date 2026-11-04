@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -29,85 +29,89 @@ msgid "Technology park | Baoshan | Research checked 2026-11-04"
 msgstr "科技园区｜宝山区｜研究核对日期 2026-11-04"
 
 #: ../../entities/robot-park.rst:8
+msgid "AI and industry focus: Hardware AI, Robotics."
+msgstr "人工智能与产业方向：硬件人工智能、机器人。"
+
+#: ../../entities/robot-park.rst:10
 msgid ""
 "A robotics industrial park in Gucun, Baoshan. Suitable for industrial "
 "robotics supply chains and deployment; we distinguish it from ABB "
 "facilities in Pudong and from the broader Baoshan industrial park."
 msgstr "位于宝山顾村的机器人产业园，适合工业机器人供应链及应用对接；应与浦东ABB设施及宝山工业园区区分。"
 
-#: ../../entities/robot-park.rst:10
+#: ../../entities/robot-park.rst:12
 msgid ""
 "`Evidence S019 "
 "<https://ghzyj.sh.gov.cn/bs/20220208/06e455735b234308b7cce5d49c7674cb.html>`_. "
 "上海机器人产业园地名专项规划获批_上海市规划和自然资源局."
 msgstr "`证据 S019 <https://ghzyj.sh.gov.cn/bs/20220208/06e455735b234308b7cce5d49c7674cb.html>`_. 上海机器人产业园地名专项规划获批_上海市规划和自然资源局."
 
-#: ../../entities/robot-park.rst:12
+#: ../../entities/robot-park.rst:14
 msgid "Status and support"
 msgstr "状态与支持"
 
-#: ../../entities/robot-park.rst:15
+#: ../../entities/robot-park.rst:17
 msgid "Published entity; intake to confirm"
 msgstr "机构有来源，招募待确认"
 
-#: ../../entities/robot-park.rst:17
+#: ../../entities/robot-park.rst:19
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
 msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
 
-#: ../../entities/robot-park.rst:19
+#: ../../entities/robot-park.rst:21
 msgid "Contact and location"
 msgstr "联系与位置"
 
-#: ../../entities/robot-park.rst:22
+#: ../../entities/robot-park.rst:24
 msgid ""
 "`Official evidence and authority route "
 "<https://ghzyj.sh.gov.cn/bs/20220208/06e455735b234308b7cce5d49c7674cb.html>`_"
 msgstr "`官方来源与主管部门入口 <https://ghzyj.sh.gov.cn/bs/20220208/06e455735b234308b7cce5d49c7674cb.html>`_"
 
-#: ../../entities/robot-park.rst:24
+#: ../../entities/robot-park.rst:26
 msgid ""
 "A direct program phone or email is not verified here. Use the official "
 "route and request the responsible team; no contact has been invented."
 msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
 
-#: ../../entities/robot-park.rst:26
+#: ../../entities/robot-park.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
 msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
 
-#: ../../entities/robot-park.rst:28
+#: ../../entities/robot-park.rst:30
 msgid "Application workflow"
 msgstr "申请流程"
 
-#: ../../entities/robot-park.rst:31
+#: ../../entities/robot-park.rst:33
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
 
-#: ../../entities/robot-park.rst:33
+#: ../../entities/robot-park.rst:35
 msgid ""
 "Describe the prototype, required equipment, process and testing needs."
 msgstr "说明样机、所需设备、工艺与测试需求。"
 
-#: ../../entities/robot-park.rst:35
+#: ../../entities/robot-park.rst:37
 msgid "Ask for a technical review, facility visit and itemized quotation."
 msgstr "申请技术审核、设施参观及逐项报价。"
 
-#: ../../entities/robot-park.rst:37
+#: ../../entities/robot-park.rst:39
 msgid ""
 "Agree access, safety, sample and IP ownership, test scope and acceptance."
 msgstr "约定准入、安全、样本与知识产权、测试范围及验收。"
 
-#: ../../entities/robot-park.rst:39
+#: ../../entities/robot-park.rst:41
 msgid ""
 "Separate the facility contract from investment or public-funding "
 "applications."
 msgstr "设施合同与投资或财政资助分别申请。"
 
-#: ../../entities/robot-park.rst:41
+#: ../../entities/robot-park.rst:43
 msgid ":doc:`Baoshan district route </districts/baoshan>`"
 msgstr ":doc:`宝山区对接路径 </districts/baoshan>`"

@@ -1,0 +1,141 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/huangpu.rst:1
+msgid "Huangpu"
+msgstr "Bezirk Huangpu"
+
+#: ../../districts/huangpu.rst:4
+msgid "Fintech, clinical services, design and consumer applications"
+msgstr "Fintech, klinische Forschung, Design und Konsumgüteranwendungen"
+
+#: ../../districts/huangpu.rst:6
+msgid ""
+"The 2025-2026 Zhangjiang Huangpu Park plan emphasizes fintech and "
+"clinical research services. Huangpu ChuangKa is a separate youth "
+"entrepreneurship support route; check eligibility and current workstation "
+"availability."
+msgstr "Der Zhangjiang-Huangpu-Park-Plan für 2025–2026 hebt Fintech und klinische Forschungsdienstleistungen hervor. Die Huangpu ChuangKa ist ein separater Förderweg für junge Gründer; Teilnahmeberechtigung und Verfügbarkeit freier Arbeitsplätze müssen vorab geprüft werden."
+
+#: ../../districts/huangpu.rst:8
+msgid ""
+"`Evidence S093 "
+"<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
+"黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`Nachweis S093 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
+
+#: ../../districts/huangpu.rst:10
+msgid "Who receives the inquiry"
+msgstr "Zuständige Anlaufstelle für Anfragen"
+
+#: ../../districts/huangpu.rst:13
+msgid "Huangpu science and entrepreneurship services"
+msgstr "Kommission für Wissenschaft und Technologie von Huangpu"
+
+#: ../../districts/huangpu.rst:15
+msgid "`Official district website <https://www.shhuangpu.gov.cn/>`_"
+msgstr "`Offizielle Website des Bezirks <https://www.shhuangpu.gov.cn/>`_"
+
+#: ../../districts/huangpu.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "In diesem Datensatz ist keine direkte Telefondurchwahl oder E-Mail-Adresse hinterlegt. Bitte erfragen Sie das zuständige Fachteam über das offizielle Webportal."
+
+#: ../../districts/huangpu.rst:19
+msgid "Before applying"
+msgstr "Vor der Antragstellung"
+
+#: ../../districts/huangpu.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../districts/huangpu.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../districts/huangpu.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../districts/huangpu.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../districts/huangpu.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../districts/huangpu.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Bringen Sie in Erfahrung, welche Richtlinienfassung maßgeblich ist, ob Firmensitz und tatsächlicher Betrieb beide im Bezirk liegen müssen, welcher Ausgabenzeitraum anerkannt wird und ob bereits erhaltene städtische oder bezirkliche Fördermittel eine Bewilligung ausschließen. Klären Sie dies verbindlich, bevor Sie den Firmensitz verlegen oder Kosten auslösen."
+
+#: ../../districts/huangpu.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Lokale Institutionen in diesem Atlas"
+
+#: ../../districts/huangpu.rst:37
+msgid ""
+":doc:`Huangpu ChuangKa </entities/huangpu-chuangka>` (黄浦创卡 · Incubator · "
+"Software AI, Consumer) — A youth entrepreneurship service route described "
+"by Shanghai HRSS, including up to six months of free workstations in the "
+"reported offer. Current capacity, applicant eligibility and additional "
+"subsidies must be checked separately. [Status: Published entity; intake "
+"to confirm]"
+msgstr ":doc:`Programm Huangpu ChuangKa </entities/huangpu-chuangka>` (黄浦创卡 · Inkubator · Software-KI, Konsumgüter) — Ein von der Shanghaier Behörde für Humanressourcen und soziale Sicherheit (HRSS) beschriebener Förderpfad für junge Gründer, der laut Ankündigung bis zu sechs Monate kostenlose Arbeitsplätze umfasst. Verfügbarkeiten, Kriterien und Zuschüsse sind individuell zu prüfen. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/huangpu.rst:38
+msgid ""
+":doc:`Huangpu Fintech & Entrepreneurship Companion Hub "
+"</entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · Accelerator · Software AI, "
+"Consumer) — Combines Huangpu's five-year fintech industry clustering "
+"direction with the HRSS \"Entrepreneurship Companion Plan\" mentor and "
+"service network for early-stage digital and financial technology "
+"founders. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Huangpu Fintech-Cluster & Gründer-Begleitprogramm (Peipao-Plan) </entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · Accelerator · Software-KI, Konsumgüter) — Verbindet den Fünfjahresplan des Bezirks Huangpu zur Konzentration der Finanztechnologieindustrie mit dem bezirklichen Gründer-Begleitprogramm (Mentorennetzwerk und Gründungsunterstützung) für digitale Vorhaben in der Frühphase. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/huangpu.rst:40
+msgid "Funding routes"
+msgstr "Finanzierungs- und Förderwege"
+
+#: ../../districts/huangpu.rst:43
+msgid ""
+":doc:`Huangpu financing and credit product directory "
+"</funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Loan · No equity; "
+"repayable) — Product-specific bank credit, startup guarantee and "
+"IP-backed finance. Status: Published directory; lender review. Timing: "
+"Product-specific; confirm current lender terms."
+msgstr ":doc:`Finanzierungs- und Kreditproduktkatalog Huangpu </funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Darlehen · Ohne Anteilsabgabe; rückzahlungspflichtig) — Zinsvergünstigte Kredite, Risikokompensationen und Bürgschaften der teilnehmenden Geschäftsbanken. Status: Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich. Zeitrahmen: Ganzjährig über die Plattform für Finanz- und Kreditdienstleistungen des Bezirks Huangpu zugänglich."
+
+#: ../../districts/huangpu.rst:45
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Auch stadtweite Förderprogramme vergleichen </funding>`"

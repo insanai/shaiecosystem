@@ -1,0 +1,188 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/minhang.rst:1
+msgid "Minhang"
+msgstr "मिनहांग (Minhang)"
+
+#: ../../districts/minhang.rst:4
+msgid "University commercialization, robotics, BCI and engineering"
+msgstr "विश्वविद्यालय व्यावसायीकरण, रोबोटिक्स, BCI और इंजीनियरिंग"
+
+#: ../../districts/minhang.rst:6
+msgid ""
+"The enterprise innovation policy runs from 1 September 2025 to 31 August "
+"2030. New conversion enterprises may qualify for up to RMB 500,000 "
+"annually, capped at RMB 1.5 million over three years and 50% of eligible "
+"investment."
+msgstr "एंटरप्राइज नवाचार नीति 1 सितंबर 2025 से 31 अगस्त 2030 तक चलती है। नए रूपांतरण उद्यम सालाना RMB 500,000 तक के लिए पात्र हो सकते हैं, जो तीन वर्षों में RMB 1.5 मिलियन और पात्र निवेश के 50% तक सीमित है।"
+
+#: ../../districts/minhang.rst:8
+msgid ""
+"`Evidence S091 "
+"<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
+"Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`साक्ष्य S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+
+#: ../../districts/minhang.rst:10
+msgid "Who receives the inquiry"
+msgstr "पूछताछ कौन प्राप्त करता है"
+
+#: ../../districts/minhang.rst:13
+msgid "Minhang science and technology authority"
+msgstr "मिनहांग विज्ञान और प्रौद्योगिकी प्राधिकरण"
+
+#: ../../districts/minhang.rst:15
+msgid "`Official district website <https://www.shmh.gov.cn/>`_"
+msgstr "`आधिकारिक जिला वेबसाइट <https://www.shmh.gov.cn/>`_"
+
+#: ../../districts/minhang.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "इस रिकॉर्ड में वर्तमान सीधा कार्यक्रम फोन या ईमेल स्थापित नहीं है। नामित प्राप्तकर्ता टीम का अनुरोध करने के लिए आधिकारिक वेबसाइट का उपयोग करें।"
+
+#: ../../districts/minhang.rst:19
+msgid "Before applying"
+msgstr "आवेदन करने से पहले"
+
+#: ../../districts/minhang.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../districts/minhang.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../districts/minhang.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../districts/minhang.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../districts/minhang.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../districts/minhang.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "पूछें कि कौन सी वर्तमान सूचना परियोजना को नियंत्रित करती है, क्या पंजीकरण और वास्तविक संचालन दोनों जिले में होने चाहिए, कौन सी व्यय अवधि पात्र है, और क्या पिछले नगर निगम या जिला पुरस्कार किसी दावे को बाहर करते हैं। कंपनी को स्थानांतरित करने या लागत उठाने से पहले उत्तर प्राप्त करें।"
+
+#: ../../districts/minhang.rst:34
+msgid "Local organizations in this atlas"
+msgstr "इस एटलस में स्थानीय संगठन"
+
+#: ../../districts/minhang.rst:37
+msgid ""
+":doc:`Grand neoBay / Zero Kilometer Incubator </entities/neobay>` "
+"(大零号湾／零公里孵化器 · Incubator · Hardware AI, Software AI) — A "
+"university-linked commercialization route connecting early technology "
+"projects with incubation. SJTU documents the Zero Kilometer launch and "
+"its AI, integrated-circuit, manufacturing and low-carbon participants. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`ग्रैंड नियोबे / ज़ीरो किलोमीटर इनक्यूबेटर (Grand neoBay / Zero Kilometer Incubator) </entities/neobay>` (大零号湾／零公里孵化器 · इनक्यूबेटर · हार्डवेयर AI, सॉफ्टवेयर AI) — प्रारंभिक प्रौद्योगिकी परियोजनाओं को इनक्यूबेशन से जोड़ने वाला विश्वविद्यालय-जुड़ा व्यावसायीकरण मार्ग। SJTU ने ज़ीरो किलोमीटर लॉन्च और इसके AI, इंटीग्रेटेड-सर्किट, विनिर्माण और लो-कार्बन प्रतिभागियों का दस्तावेजीकरण किया है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/minhang.rst:38
+msgid ""
+":doc:`Synlonx Brain-Computer Interface Incubator </entities/synlonx>` "
+"(司南脑机智能孵化器 · Incubator · Hardware AI, Health) — A brain-computer "
+"interface incubation platform launched in Huacao. Suitable conversations "
+"include electrodes, neural interfaces, sensing, rehabilitation and "
+"translational engineering; wet-lab and device requirements need explicit "
+"confirmation. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`सिनलोंक्स ब्रेन-कंप्यूटर इंटरफेस इनक्यूबेटर (Synlonx BCI Incubator) </entities/synlonx>` (司南脑机智能孵化器 · इनक्यूबेटर · हार्डवेयर AI, स्वास्थ्य) — हुआकाओ (Huacao) में लॉन्च किया गया एक ब्रेन-कंप्यूटर इंटरफेस इनक्यूबेशन प्लेटफॉर्म। उपयुक्त चर्चाओं में इलेक्ट्रोड, न्यूरल इंटरफेस, सेंसिंग, पुनर्वास और ट्रांसलेशनल इंजीनियरिंग शामिल हैं; वेट-लैब और डिवाइस आवश्यकताओं की स्पष्ट पुष्टि आवश्यक है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/minhang.rst:39
+msgid ""
+":doc:`Maqiao AI Innovation Zone </entities/maqiao>` (马桥人工智能创新试验区 · "
+"Technology park · Hardware AI, Robotics) — The Minhang 2025-2026 park "
+"plan links Grand neoBay R&D with Maqiao manufacturing. A useful pathway "
+"from a robot prototype to supply-chain and production conversations. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`माकियाओ AI इनोवेशन ज़ोन (Maqiao AI Innovation Zone) </entities/maqiao>` (马桥人工智能创新试验区 · प्रौद्योगिकी पार्क · हार्डवेयर AI, रोबोटिक्स) — मिनहांग की 2025-2026 पार्क योजना ग्रैंड नियोबे R&D को माकियाओ विनिर्माण से जोड़ती है। रोबोट प्रोटोटाइप से आपूर्ति-श्रृंखला और उत्पादन चर्चाओं तक जाने के लिए एक उपयोगी मार्ग। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/minhang.rst:40
+msgid ""
+":doc:`Zizhu National Hi-Tech Park / ET Space </entities/zizhu>` "
+"(紫竹国家高新区／创业孵化器ET空间 · Incubator · Software AI, Hardware AI, Industry) — "
+"The park-owned incubator connects startups with the software, avionics "
+"and manufacturing ecosystem. Its operator describes industry challenges "
+"and collaborative innovation; current admission, space and fees require "
+"an intake discussion. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`ज़िझू नेशनल हाई-टेक पार्क / ET स्पेस (Zizhu National Hi-Tech Park / ET Space) </entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · इनक्यूबेटर · सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग) — पार्क-स्वामित्व वाला इनक्यूबेटर स्टार्टअप्स को सॉफ्टवेयर, एवियोनिक्स और विनिर्माण इकोसिस्टम से जोड़ता है। इसका संचालक उद्योग चुनौतियों और सहयोगात्मक नवाचार का वर्णन करता है; वर्तमान प्रवेश, स्थान और शुल्क के लिए प्रवेश चर्चा आवश्यक है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/minhang.rst:41
+msgid ""
+":doc:`Hongqiao International Youth Innovation Hub "
+"</entities/hongqiao-youth>` (虹桥国际青年创业港 · Incubator · Software AI, "
+"Industry) — Opened in July 2026 as a youth innovation and "
+"business-service hub in Hongqiao. The reported workstation offer depends "
+"on qualification and available space, not simply arrival at the transport "
+"hub. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`होंगकियाओ इंटरनेशनल यूथ इनोवेशन हब (Hongqiao International Youth Innovation Hub) </entities/hongqiao-youth>` (虹桥国际青年创业港 · इनक्यूबेटर · सॉफ्टवेयर AI, उद्योग) — होंगकियाओ में युवा नवाचार और व्यावसायिक-सेवा हब के रूप में जुलाई 2026 में खोला गया। रिपोर्ट किया गया वर्कस्टेशन ऑफ़र योग्यता और उपलब्ध स्थान पर निर्भर करता है, न कि केवल परिवहन हब पर पहुंचने पर। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/minhang.rst:42
+msgid ""
+":doc:`Shanghai Jiao Tong University </entities/university-sjtu>` (上海交通大学 "
+"· University) — Institutional entry in the June 2026 Ministry of "
+"Education register. Suggested collaboration themes: Robotics, chips, "
+"engineering, medical AI. These themes are editorial routing guidance, not "
+"a verified offer of laboratory access or startup funding. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`शंघाई जियाओ तोंग विश्वविद्यालय (Shanghai Jiao Tong University) </entities/university-sjtu>` (上海交通大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: रोबोटिक्स, चिप्स, इंजीनियरिंग, मेडिकल AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+
+#: ../../districts/minhang.rst:44
+msgid "Funding routes"
+msgstr "फंडिंग मार्ग"
+
+#: ../../districts/minhang.rst:47
+msgid ""
+":doc:`Minhang research commercialization support "
+"</funding/minhang-conversion>` (闵行科技成果转化支持 · Grant · No equity) — New "
+"conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; "
+"up to 50% of investment. Status: Policy in force; call not confirmed "
+"open. Timing: Policy: 1 Sep 2025 to 31 Aug 2030."
+msgstr ":doc:`मिनहांग अनुसंधान व्यावसायीकरण सहायता </funding/minhang-conversion>` (闵行科技成果转化支持 · अनुदान (Grant) · कोई इक्विटी नहीं) — नया रूपांतरण उद्यम: RMB 500,000/वर्ष तक; तीन वर्षों में RMB 1.5m; निवेश के 50% तक। स्थिति: नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं। समय-सीमा: नीति अवधि: 1 सितंबर 2025 से 31 अगस्त 2030 तक।"
+
+#: ../../districts/minhang.rst:48
+msgid ""
+":doc:`Minhang core technology R&D projects </funding/minhang-rd>` "
+"(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
+"R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
+"confirmed open. Timing: Policy through 31 Aug 2030."
+msgstr ":doc:`मिनहांग कोर प्रौद्योगिकी R&D परियोजनाएं </funding/minhang-rd>` (闵行关键核心技术攻关 · अनुदान (Grant) · कोई इक्विटी नहीं) — सामान्य: R&D के 30% तक RMB 3m तक; प्रमुख: 50% तक RMB 10m तक। स्थिति: नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं। समय-सीमा: 31 अगस्त 2030 तक नीति प्रभावी।"
+
+#: ../../districts/minhang.rst:50
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`शहरव्यापी फंडिंग की भी तुलना करें </funding>`"

@@ -1,0 +1,132 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/university-shnu.rst:1
+msgid "Shanghai Normal University"
+msgstr "Universidad Normal de Shanghái"
+
+#: ../../entities/university-shnu.rst:4
+msgid "上海师范大学"
+msgstr "上海师范大学"
+
+#: ../../entities/university-shnu.rst:6
+msgid "University | Xuhui | Research checked 2026-11-04"
+msgstr "Universidad | Distrito de Xuhui | Investigación verificada el 2026-11-04"
+
+#: ../../entities/university-shnu.rst:8
+msgid "Ministry of Education institution code: 4131010270."
+msgstr "Código institucional del Ministerio de Educación (MOE): 4131010270."
+
+#: ../../entities/university-shnu.rst:10
+msgid ""
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Education, computer science, creative "
+"technology. These themes are editorial routing guidance, not a verified "
+"offer of laboratory access or startup funding."
+msgstr "Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Educación, ciencias de la computación, tecnología creativa. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups."
+
+#: ../../entities/university-shnu.rst:12
+msgid ""
+"`Evidence S076 "
+"<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+"全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`Evidencia S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+
+#: ../../entities/university-shnu.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/university-shnu.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/university-shnu.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/university-shnu.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/university-shnu.rst:24
+msgid ""
+"Official university website; request the technology-transfer, research "
+"cooperation or entrepreneurship office"
+msgstr "Sitio web oficial de la universidad; solicite contacto con la oficina de transferencia de tecnología, cooperación en investigación o emprendimiento"
+
+#: ../../entities/university-shnu.rst:26
+msgid "`Official website / intake route <https://www.shnu.edu.cn/>`_"
+msgstr "`Sitio web oficial / vía de admisión <https://www.shnu.edu.cn/>`_"
+
+#: ../../entities/university-shnu.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/university-shnu.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/university-shnu.rst:32
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/university-shnu.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/university-shnu.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "Localizar al grupo de investigación pertinente y exponer con claridad el problema científico o industrial."
+
+#: ../../entities/university-shnu.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "Enviar una propuesta breve que detalle los datos, el equipamiento, los resultados esperados, la financiación y el cronograma."
+
+#: ../../entities/university-shnu.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "Acordar la modalidad de colaboración, las reglas de publicación académica, la titularidad de la propiedad intelectual y la autorización institucional."
+
+#: ../../entities/university-shnu.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "Obtener por escrito el permiso de acceso o la aprobación formal del proyecto antes de iniciar los trabajos."
+
+#: ../../entities/university-shnu.rst:45
+msgid ""
+"Confirm whether external founders can apply, whether student or alumni "
+"status is required, who owns the research IP, and whether support is a "
+"service, a loan, a grant or equity. The thematic match in this profile is "
+"editorial guidance."
+msgstr "Confirme si pueden postular fundadores externos, si se exige la condición de estudiante o antiguo alumno, a quién pertenece la propiedad intelectual de la investigación y si el apoyo consiste en un servicio, un préstamo, una subvención o inversión en capital. La afinidad temática indicada en este perfil es una orientación editorial."
+
+#: ../../entities/university-shnu.rst:47
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Xuhui </districts/xuhui>`"

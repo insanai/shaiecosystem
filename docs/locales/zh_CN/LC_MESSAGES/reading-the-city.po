@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -97,10 +97,23 @@ msgid ""
 msgstr "功能区不是新增行政区。张江、漕河泾、虹桥、G60与临港具有不同管理及运营边界。适用政策前，我们先确认注册地址、实际经营、项目位置及受理部门。"
 
 #: ../../reading-the-city.rst:30
+msgid ""
+"Recent 2025-2026 municipal and district upgrades have sharpened these "
+"spatial roles: Pudong unveiled the 2-square-kilometer Zhangjiang AI "
+"Innovation Town alongside its compute, model and corpus vouchers; "
+"Shanghai expanded its high-quality incubator network to 18 flagship "
+"operators; Putuo structured its \"One Axis, One Park, One Center\" "
+"corridor linking Wuning Science Park, China-Israel Innovation Hub and "
+"Shanghai Tsinghua International Innovation Center; and Songjiang launched "
+"the University Town Sci-Tech Source fund to connect seven campus research "
+"bases with industrial transformation."
+msgstr "2025至2026年的市区政策进一步细化了空间分工：浦东揭幕2平方公里的张江人工智能创新小镇并配套算力、模型与语料券；上海高质量孵化器扩围至18家；普陀构建“一轴一园一中心”框架，串联武宁科技园、中以（上海）创新园与上海清华国际创新中心；松江则启动松江大学城科创源专项资金，打通七所高校科研基地与产业转化通道。"
+
+#: ../../reading-the-city.rst:32
 msgid "The magnolia and the pearl"
 msgstr "白玉兰与明珠"
 
-#: ../../reading-the-city.rst:33
+#: ../../reading-the-city.rst:35
 msgid ""
 "Shanghai's official flower is the white magnolia, designated in 1986. "
 "Pearl white is the principal color of this atlas. Ink charcoal, mist jade "
@@ -110,12 +123,25 @@ msgid ""
 "exact skyline."
 msgstr "上海市花为白玉兰，1986年确定。本图谱以珍珠白为主色，辅以墨黑、雾玉与香槟金。这是编辑设计配色，并非官方城市色标准。封面为原创生成的中国水墨风格插画，不是纪实照片或精确地理景观。"
 
-#: ../../reading-the-city.rst:35
-
-#| msgid ""
-#| "`Evidence S082 <https://english.shanghai.gov.cn/en-Overview/>`_. "
-#| "Shanghai municipal flower and overview."
+#: ../../reading-the-city.rst:37
 msgid ""
-"`Evidence S097 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
+"This book and interactive atlas are written by Vikrant Rathore with "
+"contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
+"Kanak Rathore and Emily Yue Xu. The publication is produced natively "
+"using Guidedog in both HTML and PDF editions (English and Simplified "
+"Chinese), sharing one verified dataset across the interactive web atlas "
+"and the illustrated print-ready books."
+msgstr "本书与交互图谱由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu 共同贡献。全书与网站使用 Guidedog 原生构建为 HTML 与 PDF 双格式版本（英文与简体中文），在交互式网页图谱与插图版 PDF 图书之间共用同一套经核实的研究数据。"
+
+#: ../../reading-the-city.rst:39
+msgid ""
+"`Evidence S128 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
 "municipal flower and overview."
-msgstr "`证据 S097 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
+msgstr "`证据 S128 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
+
+#: ../../reading-the-city.rst:41
+msgid ""
+"`Evidence S129 "
+"<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
+"Shanghai expands list of high-quality incubators."
+msgstr "`证据 S129 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators."

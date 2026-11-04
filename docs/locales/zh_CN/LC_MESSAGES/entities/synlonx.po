@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -29,6 +29,10 @@ msgid "Incubator | Minhang | Research checked 2026-11-04"
 msgstr "孵化器｜闵行区｜研究核对日期 2026-11-04"
 
 #: ../../entities/synlonx.rst:8
+msgid "AI and industry focus: Hardware AI, Health."
+msgstr "人工智能与产业方向：硬件人工智能、健康。"
+
+#: ../../entities/synlonx.rst:10
 msgid ""
 "A brain-computer interface incubation platform launched in Huacao. "
 "Suitable conversations include electrodes, neural interfaces, sensing, "
@@ -36,79 +40,79 @@ msgid ""
 "requirements need explicit confirmation."
 msgstr "在华漕启动的脑机接口孵化平台。可对接电极、神经接口、传感、康复与转化工程；实验空间及器械要求需明确确认。"
 
-#: ../../entities/synlonx.rst:10
+#: ../../entities/synlonx.rst:12
 msgid ""
 "`Evidence S005 "
 "<https://www.shanghai.gov.cn/nw15343/20250714/38d480e4573a49778830ea605991e599.html>`_. "
 "脑机接口产业注入新动能，司南脑机智能超级孵化器在闵行华漕镇启动丨投资前湾."
 msgstr "`证据 S005 <https://www.shanghai.gov.cn/nw15343/20250714/38d480e4573a49778830ea605991e599.html>`_. 脑机接口产业注入新动能，司南脑机智能超级孵化器在闵行华漕镇启动丨投资前湾."
 
-#: ../../entities/synlonx.rst:12
+#: ../../entities/synlonx.rst:14
 msgid "Status and support"
 msgstr "状态与支持"
 
-#: ../../entities/synlonx.rst:15
+#: ../../entities/synlonx.rst:17
 msgid "Published entity; intake to confirm"
 msgstr "机构有来源，招募待确认"
 
-#: ../../entities/synlonx.rst:17
+#: ../../entities/synlonx.rst:19
 msgid ""
 "No standard cash award, fee waiver or equity percentage is verified for "
 "this entry. Request the current written offer."
 msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
 
-#: ../../entities/synlonx.rst:19
+#: ../../entities/synlonx.rst:21
 msgid "Contact and location"
 msgstr "联系与位置"
 
-#: ../../entities/synlonx.rst:22
+#: ../../entities/synlonx.rst:24
 msgid ""
 "`Official evidence and authority route "
 "<https://www.shanghai.gov.cn/nw15343/20250714/38d480e4573a49778830ea605991e599.html>`_"
 msgstr "`官方来源与主管部门入口 <https://www.shanghai.gov.cn/nw15343/20250714/38d480e4573a49778830ea605991e599.html>`_"
 
-#: ../../entities/synlonx.rst:24
+#: ../../entities/synlonx.rst:26
 msgid ""
 "A direct program phone or email is not verified here. Use the official "
 "route and request the responsible team; no contact has been invented."
 msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
 
-#: ../../entities/synlonx.rst:26
+#: ../../entities/synlonx.rst:28
 msgid ""
 "Map position uses a district or campus anchor; it is not a verified "
 "office location."
 msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
 
-#: ../../entities/synlonx.rst:28
+#: ../../entities/synlonx.rst:30
 msgid "Application workflow"
 msgstr "申请流程"
 
-#: ../../entities/synlonx.rst:31
+#: ../../entities/synlonx.rst:33
 msgid ""
 "Editorial application checklist. The current official notice or agreement "
 "controls the actual procedure."
 msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
 
-#: ../../entities/synlonx.rst:33
+#: ../../entities/synlonx.rst:35
 msgid ""
 "Describe the prototype, required equipment, process and testing needs."
 msgstr "说明样机、所需设备、工艺与测试需求。"
 
-#: ../../entities/synlonx.rst:35
+#: ../../entities/synlonx.rst:37
 msgid "Ask for a technical review, facility visit and itemized quotation."
 msgstr "申请技术审核、设施参观及逐项报价。"
 
-#: ../../entities/synlonx.rst:37
+#: ../../entities/synlonx.rst:39
 msgid ""
 "Agree access, safety, sample and IP ownership, test scope and acceptance."
 msgstr "约定准入、安全、样本与知识产权、测试范围及验收。"
 
-#: ../../entities/synlonx.rst:39
+#: ../../entities/synlonx.rst:41
 msgid ""
 "Separate the facility contract from investment or public-funding "
 "applications."
 msgstr "设施合同与投资或财政资助分别申请。"
 
-#: ../../entities/synlonx.rst:41
+#: ../../entities/synlonx.rst:43
 msgid ":doc:`Minhang district route </districts/minhang>`"
 msgstr ":doc:`闵行区对接路径 </districts/minhang>`"

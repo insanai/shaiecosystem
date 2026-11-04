@@ -1,0 +1,162 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../districts/hongkou.rst:1
+msgid "Hongkou"
+msgstr "Bezirk Hongkou"
+
+#: ../../districts/hongkou.rst:4
+msgid "Shipping technology, green finance and intelligent inspection"
+msgstr "Schifffahrtstechnologie, Green Finance und intelligente Inspektion"
+
+#: ../../districts/hongkou.rst:6
+msgid ""
+"The 2025-2026 Hongkou Park plan assigns a coordinated incubation and "
+"investment role to the district state-owned Beikechuang group. Ask for "
+"the operating carrier and current application notice, rather than relying "
+"on older subsidy summaries."
+msgstr "Der Hongkou-Park-Plan 2025–2026 überträgt der bezirkseigenen Beikechuang-Gruppe koordinierende Aufgaben bei Inkubation und Investitionen. Erkundigen Sie sich nach dem konkreten Betreiber und der aktuellen Ausschreibung, statt sich auf ältere Förderübersichten zu verlassen."
+
+#: ../../districts/hongkou.rst:8
+msgid ""
+"`Evidence S026 "
+"<https://www.shanghai.gov.cn/tszczq-cxcyqj7/20251119/b3f4914652a443c89bd1d1bd1320021d.html>`_. "
+"虹口区人民政府关于印发 《张江高新区虹口园改革创新发展行动方案（2025—2026年）》的通知."
+msgstr "`Nachweis S026 <https://www.shanghai.gov.cn/tszczq-cxcyqj7/20251119/b3f4914652a443c89bd1d1bd1320021d.html>`_. 虹口区人民政府关于印发 《张江高新区虹口园改革创新发展行动方案（2025—2026年）》的通知."
+
+#: ../../districts/hongkou.rst:10
+msgid "Who receives the inquiry"
+msgstr "Zuständige Anlaufstelle für Anfragen"
+
+#: ../../districts/hongkou.rst:13
+msgid "Hongkou science and economy authority"
+msgstr "Kommission für Wissenschaft und Wirtschaft von Hongkou"
+
+#: ../../districts/hongkou.rst:15
+msgid "`Official district website <https://www.shhk.gov.cn/>`_"
+msgstr "`Offizielle Website des Bezirks <https://www.shhk.gov.cn/>`_"
+
+#: ../../districts/hongkou.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "In diesem Datensatz ist keine direkte Telefondurchwahl oder E-Mail-Adresse hinterlegt. Bitte erfragen Sie das zuständige Fachteam über das offizielle Webportal."
+
+#: ../../districts/hongkou.rst:19
+msgid "Before applying"
+msgstr "Vor der Antragstellung"
+
+#: ../../districts/hongkou.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../districts/hongkou.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../districts/hongkou.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../districts/hongkou.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../districts/hongkou.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../districts/hongkou.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "Bringen Sie in Erfahrung, welche Richtlinienfassung maßgeblich ist, ob Firmensitz und tatsächlicher Betrieb beide im Bezirk liegen müssen, welcher Ausgabenzeitraum anerkannt wird und ob bereits erhaltene städtische oder bezirkliche Fördermittel eine Bewilligung ausschließen. Klären Sie dies verbindlich, bevor Sie den Firmensitz verlegen oder Kosten auslösen."
+
+#: ../../districts/hongkou.rst:34
+msgid "Local organizations in this atlas"
+msgstr "Lokale Institutionen in diesem Atlas"
+
+#: ../../districts/hongkou.rst:37
+msgid ""
+":doc:`Zhangjiang Hongkou Park / Beikechuang </entities/hongkou-park>` "
+"(张江虹口园／北科创 · Technology park · Software AI, Industry) — The park plan "
+"gives Beikechuang a coordinating role in incubation, technology transfer "
+"and investment services. Request the relevant sub-park and named "
+"operating company for a project-specific response. [Status: Published "
+"entity; intake to confirm]"
+msgstr ":doc:`Zhangjiang Hongkou-Park / Beikechuang </entities/hongkou-park>` (张江虹口园／北科创 · Technologiepark · Software-KI, Industrie) — Der Parkplan weist Beikechuang eine koordinierende Rolle bei Inkubation, Technologietransfer und Finanzierungsdienstleistungen zu. Fragen Sie für konkrete Projekte nach dem jeweils zuständigen Teilpark und der Betreibergesellschaft. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/hongkou.rst:38
+msgid ""
+":doc:`Hongkou Science & Technology Entrepreneurship Center "
+"</entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · Incubator · Software AI, "
+"Industry, Climate) — District public entrepreneurship center and "
+"postdoctoral innovation practice base route supporting tech SMEs, "
+"green-shipping digital tools and R&D talent settlement in Hongkou. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`Technologie-Gründerzentrum Hongkou & Postdoktoranden-Innovationsbasis </entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · Inkubator · Software-KI, Industrie, Klima & Umwelt) — Öffentliches Gründungszentrum des Bezirks Hongkou mit Praxisbasis für Postdoktoranden zur Unterstützung technologiebasierter KMU, digitaler Werkzeuge für die grüne Schifffahrt und F&E-Fachkräften. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/hongkou.rst:39
+msgid ""
+":doc:`Shanghai International Studies University "
+"</entities/university-sisu>` (上海外国语大学 · University) — Institutional entry "
+"in the June 2026 Ministry of Education register. Suggested collaboration "
+"themes: Language technology, translation, international markets. These "
+"themes are editorial routing guidance, not a verified offer of laboratory "
+"access or startup funding. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Fremdsprachenuniversität Shanghai (SISU) </entities/university-sisu>` (上海外国语大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Mehrsprachige Korpora, grenzüberschreitender Handel, Lokalisierung, globale Kommunikation. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/hongkou.rst:40
+msgid ""
+":doc:`Xianda College of Economics and Humanities, SISU "
+"</entities/university-xianda>` (上海外国语大学贤达经济人文学院 · University) — "
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Language, commerce and creative "
+"applications. These themes are editorial routing guidance, not a verified "
+"offer of laboratory access or startup funding. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Xianda-Kolleg für Wirtschaft und Geisteswissenschaften der SISU </entities/university-xianda>` (上海外国语大学贤达经济人文学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Sprachwissenschaft, Handel und kreative Anwendungen. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/hongkou.rst:42
+msgid "Funding routes"
+msgstr "Finanzierungs- und Förderwege"
+
+#: ../../districts/hongkou.rst:45
+msgid ""
+":doc:`Hongkou international and overseas young talent support, first 2026 "
+"batch </funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · Grant · "
+"No equity) — Recognized top talent and core team: up to RMB 1m; eligible "
+"overseas young talent: RMB 50,000 per person. Status: Closed. Timing: "
+"Closed 31 March 2026."
+msgstr ":doc:`Förderung für internationale Spitzen- und ausländische Nachwuchstalente Hongkou 2026 (Erste Tranche) </funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · Zuschuss · Ohne Anteilsabgabe) — Wohnungs- und Forschungszuschüsse sowie Ansiedlungsprämien gemäß bezirklichem Talentförderprogramm. Status: Geschlossen. Zeitrahmen: Frist der ersten Ausschreibungstranche 2026 beachten."
+
+#: ../../districts/hongkou.rst:47
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`Auch stadtweite Förderprogramme vergleichen </funding>`"

@@ -1,0 +1,113 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/nvidia.rst:1
+msgid "NVIDIA Inception"
+msgstr "엔비디아 인셉션"
+
+#: ../../entities/nvidia.rst:4
+msgid "英伟达初创加速计划"
+msgstr "英伟达初创加速计划"
+
+#: ../../entities/nvidia.rst:6
+msgid "Global program | Citywide / global | Research checked 2026-11-04"
+msgstr "글로벌 프로그램 | 전시 / 글로벌 | 연구 확인일 2026-11-04"
+
+#: ../../entities/nvidia.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI."
+msgstr "AI 및 산업 분야: 소프트웨어 AI, 하드웨어 AI."
+
+#: ../../entities/nvidia.rst:10
+msgid ""
+"A free AI startup ecosystem program with no application fee, membership "
+"fee or equity requirement. It is not a cash grant. China eligibility, "
+"product access and partner benefits must be checked for the specific "
+"company."
+msgstr "신청비, 회원비, 지분 요구가 없는 무료 AI 스타트업 육성 프로그램입니다. 현금 보조금이 아니며, 중국 현지 법인의 적격성, 제품 라이선스 지원, 파트너 혜택은 기업별로 확인해야 합니다."
+
+#: ../../entities/nvidia.rst:12
+msgid ""
+"`Evidence S040 <https://www.nvidia.com/en-us/startups/>`_. Inception "
+"Program for Startups | NVIDIA."
+msgstr "`근거 S040 <https://www.nvidia.com/en-us/startups/>`_. Inception Program for Startups | NVIDIA."
+
+#: ../../entities/nvidia.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/nvidia.rst:17
+msgid "Program published; eligibility review"
+msgstr "프로그램 공고됨; 자격 요건 심사 필요"
+
+#: ../../entities/nvidia.rst:19
+msgid "Funding mechanism: Equity-free services."
+msgstr "지원 메커니즘: 지분 요구 없는 서비스 지원."
+
+#: ../../entities/nvidia.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/nvidia.rst:24
+msgid ""
+"`Official website / intake route "
+"<https://www.nvidia.com/en-us/startups/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.nvidia.com/en-us/startups/>`_"
+
+#: ../../entities/nvidia.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/nvidia.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/nvidia.rst:30
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/nvidia.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/nvidia.rst:35
+msgid ""
+"Check incorporation, company age, account region and existing benefits."
+msgstr "법인 설립 여부, 업력, 계정 등록 지역 및 기존 혜택 수혜 이력을 점검한다."
+
+#: ../../entities/nvidia.rst:37
+msgid "Apply through the official program form or qualifying partner route."
+msgstr "공식 프로그램 신청 양식 또는 인증 파트너 추천 경로를 통해 신청한다."
+
+#: ../../entities/nvidia.rst:39
+msgid ""
+"Confirm covered services, expiry, fees, usage limits and overage billing."
+msgstr "지원 대상 서비스 항목, 만료일, 서비스 요금, 사용량 한도 및 초과 사용 과금 기준을 확인한다."
+
+#: ../../entities/nvidia.rst:41
+msgid "Keep usage records and do not describe credits as unrestricted cash."
+msgstr "사용 로그를 철저히 기록하며, 바우처성 크레딧을 무제한 현금성 자산으로 오인하지 않는다."
+
+#: ../../entities/nvidia.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`전시 / 글로벌 경로 안내 </funding>`"

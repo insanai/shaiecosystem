@@ -1,0 +1,112 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/stefg-equity.rst:1
+msgid "STEFG Eagle Plan"
+msgstr "STEFG 엔젤펀드 슝잉(Eagle) 계획"
+
+#: ../../funding/stefg-equity.rst:4
+msgid "Equity investment | Citywide / global"
+msgstr "지분 투자 | 전시 / 글로벌"
+
+#: ../../funding/stefg-equity.rst:6
+msgid "Program published; eligibility review"
+msgstr "프로그램 공고됨; 자격 요건 심사 필요"
+
+#: ../../funding/stefg-equity.rst:8
+msgid "`Evidence S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
+msgstr "`근거 S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
+
+#: ../../funding/stefg-equity.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/stefg-equity.rst:13
+msgid ""
+"Up to RMB 800,000 for 3 years; no dividend participation; exit at "
+"original price"
+msgstr "최대 80만 위안; 최대 3년간 무배당 한시적 지분 투자 참여; 원금 환매 옵션"
+
+#: ../../funding/stefg-equity.rst:15
+msgid "Temporary equity; original-price exit"
+msgstr "임시 지분 참여; 원가 환매 방식"
+
+#: ../../funding/stefg-equity.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/stefg-equity.rst:20
+msgid ""
+"Eligible technology entrepreneurs meeting the foundation rules; founder "
+"cash funding must exceed the foundation contribution. Review nominee "
+"ownership, exit obligation and documents."
+msgstr "만 40세 이하의 중국 국적 창업자; 적격 지분 구조, 전업 창업, 혁신성 요건을 충족해야 하며, 3년 이내에 원금 기준 지분 환매가 가능합니다."
+
+#: ../../funding/stefg-equity.rst:22
+msgid "Confirm branch intake and review schedule"
+msgstr "각 대학 분회 접수 및 심사 일정 확인 필요"
+
+#: ../../funding/stefg-equity.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/stefg-equity.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://fund.stefg.org/Angel/Intro.aspx>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://fund.stefg.org/Angel/Intro.aspx>`_"
+
+#: ../../funding/stefg-equity.rst:29
+msgid "Published consultation: +86 21 55231818."
+msgstr "공개 상담 전화: +86 21 55231818."
+
+#: ../../funding/stefg-equity.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/stefg-equity.rst:33
+msgid ""
+"Read the foundation's current eligibility rules and choose loan or "
+"temporary equity."
+msgstr "상하이 대학생 과학기술 창업기금회(STEFG)의 최신 자격 규정을 확인하고 엔젤 대출 또는 무이자 임시 지분 방식을 선택한다."
+
+#: ../../funding/stefg-equity.rst:35
+msgid ""
+"Identify a receiving branch and submit the prescribed founder and project "
+"documents."
+msgstr "관할 접수 분회를 확인하고 창업자 자격 및 사업 계획서 서류를 제출한다."
+
+#: ../../funding/stefg-equity.rst:37
+msgid ""
+"Complete review and examine repayment, founder funding and exit "
+"obligations."
+msgstr "심사를 통과한 후 상환 조건, 창업자 자기자본 매칭 요건 및 펀드 지분 회수 의무를 검토한다."
+
+#: ../../funding/stefg-equity.rst:39
+msgid ""
+"Sign the correct agreement and track the full three-year obligations."
+msgstr "해당 협약서를 체결하고 3개년 동안 요구되는 모든 의무 사항을 관리한다."
+
+#: ../../funding/stefg-equity.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

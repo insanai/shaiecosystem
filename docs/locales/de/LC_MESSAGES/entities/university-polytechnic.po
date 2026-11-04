@@ -1,0 +1,132 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/university-polytechnic.rst:1
+msgid "Shanghai Polytechnic University"
+msgstr "Polytechnische Universität Shanghai (Zweite Technische Universität Shanghai)"
+
+#: ../../entities/university-polytechnic.rst:4
+msgid "上海第二工业大学"
+msgstr "上海第二工业大学"
+
+#: ../../entities/university-polytechnic.rst:6
+msgid "University | Pudong | Research checked 2026-11-04"
+msgstr "Hochschule | Neuer Stadtbezirk Pudong | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/university-polytechnic.rst:8
+msgid "Ministry of Education institution code: 4131012044."
+msgstr "Institutionencode des Bildungsministeriums (MOE): 4131012044."
+
+#: ../../entities/university-polytechnic.rst:10
+msgid ""
+"Institutional entry in the June 2026 Ministry of Education register. "
+"Suggested collaboration themes: Applied engineering, electronics, "
+"manufacturing. These themes are editorial routing guidance, not a "
+"verified offer of laboratory access or startup funding."
+msgstr "Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte Ingenieurwissenschaften, Elektronik, Fertigung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar."
+
+#: ../../entities/university-polytechnic.rst:12
+msgid ""
+"`Evidence S076 "
+"<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+"全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`Nachweis S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+
+#: ../../entities/university-polytechnic.rst:14
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/university-polytechnic.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/university-polytechnic.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/university-polytechnic.rst:21
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/university-polytechnic.rst:24
+msgid ""
+"Official university website; request the technology-transfer, research "
+"cooperation or entrepreneurship office"
+msgstr "Offizielle Hochschul-Website; fragen Sie nach der Abteilung für Technologietransfer, Forschungskooperation oder Entrepreneurship"
+
+#: ../../entities/university-polytechnic.rst:26
+msgid "`Official website / intake route <https://www.sspu.edu.cn/>`_"
+msgstr "`Offizielle Website / Bewerbungszugang <https://www.sspu.edu.cn/>`_"
+
+#: ../../entities/university-polytechnic.rst:28
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "Für dieses Programm ist keine direkte Telefondurchwahl oder E-Mail-Adresse verifiziert. Nutzen Sie den offiziellen Zugang und fragen Sie nach dem zuständigen Fachteam; Kontaktdaten werden in diesem Atlas nicht frei erfunden."
+
+#: ../../entities/university-polytechnic.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/university-polytechnic.rst:32
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/university-polytechnic.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/university-polytechnic.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "Die passende Forschungsgruppe identifizieren und die wissenschaftliche oder industrielle Fragestellung formulieren."
+
+#: ../../entities/university-polytechnic.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "Einen kompakten Projektvorschlag zu Daten, Geräten, Zielergebnissen, Budget und Zeitplan übermitteln."
+
+#: ../../entities/university-polytechnic.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "Kooperationsform, Publikationsrechte, geistiges Eigentum und institutionelle Freigaben vereinbaren."
+
+#: ../../entities/university-polytechnic.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "Vor Beginn der Forschungsarbeiten die schriftliche Zugangsberechtigung oder Projektgenehmigung einholen."
+
+#: ../../entities/university-polytechnic.rst:45
+msgid ""
+"Confirm whether external founders can apply, whether student or alumni "
+"status is required, who owns the research IP, and whether support is a "
+"service, a loan, a grant or equity. The thematic match in this profile is "
+"editorial guidance."
+msgstr "Klären Sie, ob externe Gründer antragsberechtigt sind, ob ein Studierenden- oder Alumnistatus verlangt wird, wer die Rechte am geistigen Eigentum hält und ob die Unterstützung als Sachleistung, Darlehen, Zuschuss oder Beteiligung erfolgt. Die thematische Zuordnung in diesem Profil dient als redaktionelle Orientierung."
+
+#: ../../entities/university-polytechnic.rst:47
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Bezirksroute Neuer Stadtbezirk Pudong </districts/pudong>`"

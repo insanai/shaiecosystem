@@ -1,0 +1,120 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/huawei-ai.rst:1
+msgid "Yangtze River Delta AI+ Joint Innovation Center"
+msgstr "यांग्त्ज़ी रिवर डेल्टा AI+ जॉइंट इनोवेशन सेंटर (Yangtze River Delta AI+ Center)"
+
+#: ../../entities/huawei-ai.rst:4
+msgid "长三角AI+联合创新中心"
+msgstr "长三角AI+联合创新中心"
+
+#: ../../entities/huawei-ai.rst:6
+msgid "Corporate program | Qingpu | Research checked 2026-11-04"
+msgstr "कॉर्पोरेट कार्यक्रम | चिंगपू (Qingpu) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/huawei-ai.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI."
+msgstr "एआई और उद्योग फोकस: सॉफ्टवेयर AI, हार्डवेयर AI।"
+
+#: ../../entities/huawei-ai.rst:10
+msgid ""
+"An official July 2026 account records the center beginning operations in "
+"Qingpu. Confirm the operator, technical scope, Huawei ecosystem interface "
+"and actual startup admission before describing a benefit package."
+msgstr "जुलाई 2026 का एक आधिकारिक विवरण चिंगपू में केंद्र के संचालन शुरू करने को दर्ज करता है। किसी लाभ पैकेज का वर्णन करने से पहले संचालक, तकनीकी दायरे, हुआवेई इकोसिस्टम इंटरफ़ेस और वास्तविक स्टार्टअप प्रवेश की पुष्टि करें।"
+
+#: ../../entities/huawei-ai.rst:12
+msgid ""
+"`Evidence S039 "
+"<https://english.shanghai.gov.cn/en-YangtzeRiverDeltaintegration/20260730/9bea754d5bbb45ddb5cf59194efffe9f.html>`_. "
+"Yangtze River Delta AI+ Joint Innovation Center begins operations_Yangtze "
+"River Delta integration: Connect • Innovate • Thrive."
+msgstr "`साक्ष्य S039 <https://english.shanghai.gov.cn/en-YangtzeRiverDeltaintegration/20260730/9bea754d5bbb45ddb5cf59194efffe9f.html>`_. Yangtze River Delta AI+ Joint Innovation Center begins operations_Yangtze River Delta integration: Connect • Innovate • Thrive."
+
+#: ../../entities/huawei-ai.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/huawei-ai.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+
+#: ../../entities/huawei-ai.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/huawei-ai.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/huawei-ai.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://english.shanghai.gov.cn/en-YangtzeRiverDeltaintegration/20260730/9bea754d5bbb45ddb5cf59194efffe9f.html>`_"
+msgstr "`आधिकारिक साक्ष्य और प्राधिकरण मार्ग <https://english.shanghai.gov.cn/en-YangtzeRiverDeltaintegration/20260730/9bea754d5bbb45ddb5cf59194efffe9f.html>`_"
+
+#: ../../entities/huawei-ai.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/huawei-ai.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/huawei-ai.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/huawei-ai.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/huawei-ai.rst:35
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "कॉर्पोरेट व्यवसाय स्वामी और एक मापने योग्य उपयोग परिदृश्य (use case) की पहचान करें।"
+
+#: ../../entities/huawei-ai.rst:37
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "उत्पाद विवरण, पायलट साक्ष्य और प्रासंगिक तकनीकी आवश्यकताएं जमा करें।"
+
+#: ../../entities/huawei-ai.rst:39
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "बैच (cohort) की उपलब्धता की पुष्टि करें या निर्धारित पायलट, डेटा अधिकारों और IP शर्तों पर सहमति बनाएं।"
+
+#: ../../entities/huawei-ai.rst:41
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "खरीद, भुगतान, स्वीकृति और उत्पादन निर्णय की अलग से समीक्षा करें।"
+
+#: ../../entities/huawei-ai.rst:43
+msgid ":doc:`Qingpu district route </districts/qingpu>`"
+msgstr ":doc:`चिंगपू (Qingpu) ज़िला मार्ग </districts/qingpu>`"
