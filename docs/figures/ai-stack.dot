@@ -1,0 +1,12 @@
+digraph AI {
+ graph [rankdir=TB,bgcolor="transparent",pad="0.3",nodesep="0.25",ranksep="0.35"];
+ node [shape=box,style="rounded,filled",fillcolor="#f4f3ec",color="#a88b53",fontcolor="#263b36",fontname="Noto Sans CJK SC",fontsize=11,margin="0.2,0.12"];
+ edge [color="#315b50",arrowsize=0.7];
+ data [label="Data / 数据"]; compute [label="Compute / 算力"]; model [label="Model / 模型"];
+ evaluation [label="Evaluation / 评测",fillcolor="#e3ece4"];
+ product [label="Product + workflow / 产品与流程",fillcolor="#e3ece4"];
+ customer [label="Customer / 客户",fillcolor="#315b50",fontcolor="#ffffff"];
+ {rank=same;data;compute;model;}
+ data -> evaluation;compute -> evaluation;model -> evaluation;
+ evaluation -> product -> customer;
+}
