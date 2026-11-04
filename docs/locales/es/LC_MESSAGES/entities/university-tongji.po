@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -38,28 +38,17 @@ msgid ""
 "Suggested collaboration themes: Autonomous systems, mobility, robotics, "
 "built environment. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding."
-msgstr "Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Sistemas autónomos, movilidad, robótica, entorno construido. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups."
+msgstr "Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Sistemas autónomos, movilidad, robótica, entorno construido. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups."
 
 #: ../../entities/university-tongji.rst:12
-
-#| msgid ""
-#| "`Evidence S084 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
 msgid "`Evidence S087 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
 msgstr "`Evidencia S087 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
 
 #: ../../entities/university-tongji.rst:14
-
-#| msgid ""
-#| "`Evidence S085 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
 msgid "`Evidence S088 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
 msgstr "`Evidencia S088 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
 
 #: ../../entities/university-tongji.rst:16
-
-#| msgid ""
-#| "`Evidence S083 "
-#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
-#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
 "`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
@@ -72,7 +61,7 @@ msgstr "Estado y tipo de apoyo"
 
 #: ../../entities/university-tongji.rst:21
 msgid "Published entity; intake to confirm"
-msgstr "Entidad documentada; admisión pendiente de confirmar"
+msgstr "Entidad verificada; admisión actual por confirmar"
 
 #: ../../entities/university-tongji.rst:23
 msgid ""

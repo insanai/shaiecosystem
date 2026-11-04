@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -24,7 +24,7 @@ msgstr "Universidades y comercialización tecnológica"
 msgid ""
 "40 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "40 perfiles con evidencia, vías de contacto y lista de verificación de solicitud. La existencia publicada se distingue de la recepción activa de candidaturas."
+msgstr "40 perfiles con fuentes, contactos y pasos orientativos para solicitar apoyo. La existencia de una entidad se distingue de su admisión actual."
 
 #: ../../universities.rst:6
 msgid ""
@@ -53,7 +53,7 @@ msgid ""
 "not a verified offer of laboratory access or startup funding. Address: "
 "220 Handan Road, Yangpu | Tel: +86 21 65642222. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Universidad de Fudan <entities/university-fudan>` (复旦大学 · Universidad · Distrito de Yangpu · MOE 4131010246) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: IA de software, chips, IA para la Ciencia. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. Calle Handan 220, Distrito de Yangpu | Tel: +86 21 65642222. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Fudan <entities/university-fudan>` (复旦大学 · Universidad · Distrito de Yangpu · MOE 4131010246) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: IA de software, chips, IA para la Ciencia. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. Calle Handan 220, Distrito de Yangpu | Tel: +86 21 65642222. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:16
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. Address: 2F, West Building, 100 Guokang Road, Yangpu "
 "| Tel: +86 21 65069006. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Tongji <entities/university-tongji>` (同济大学 · Universidad · Distrito de Yangpu · MOE 4131010247) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Sistemas autónomos, movilidad, robótica, entorno construido. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. Planta 2, Edificio Oeste, Calle Guokang 100, Distrito de Yangpu | Tel: +86 21 65069006. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Tongji <entities/university-tongji>` (同济大学 · Universidad · Distrito de Yangpu · MOE 4131010247) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Sistemas autónomos, movilidad, robótica, entorno construido. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. Planta 2, Edificio Oeste, Calle Guokang 100, Distrito de Yangpu | Tel: +86 21 65069006. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:17
 msgid ""
@@ -74,7 +74,7 @@ msgid ""
 "Robotics, chips, engineering, medical AI. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Jiao Tong de Shanghái <entities/university-sjtu>` (上海交通大学 · Universidad · Distrito de Minhang · MOE 4131010248) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Robótica, chips, ingeniería, IA médica. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Jiao Tong de Shanghái <entities/university-sjtu>` (上海交通大学 · Universidad · Distrito de Minhang · MOE 4131010248) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Robótica, chips, ingeniería, IA médica. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:18
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "bioprocessing, AI for Science. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Ciencia y Tecnología del Este de China (ECUST) <entities/university-ecust>` (华东理工大学 · Universidad · Distrito de Xuhui · MOE 4131010251) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Materiales, química, bioprocesos, IA para la Ciencia. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Ciencia y Tecnología del Este de China (ECUST) <entities/university-ecust>` (华东理工大学 · Universidad · Distrito de Xuhui · MOE 4131010251) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Materiales, química, bioprocesos, IA para la Ciencia. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:19
 msgid ""
@@ -96,7 +96,7 @@ msgid ""
 "sensors, advanced equipment. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Shanghái para la Ciencia y la Tecnología (USST) <entities/university-usst>` (上海理工大学 · Universidad · Distrito de Yangpu · MOE 4131010252) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Óptica, dispositivos médicos, sensores, equipamiento avanzado. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Shanghái para la Ciencia y la Tecnología (USST) <entities/university-usst>` (上海理工大学 · Universidad · Distrito de Yangpu · MOE 4131010252) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Óptica, dispositivos médicos, sensores, equipamiento avanzado. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:20
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Universidad Marítima de Shanghái <entities/university-maritime>` (上海海事大学 · Universidad · Nueva Área de Pudong · MOE 4131010254) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Transporte marítimo, logística, sistemas marítimos autónomos. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Marítima de Shanghái <entities/university-maritime>` (上海海事大学 · Universidad · Nueva Área de Pudong · MOE 4131010254) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Transporte marítimo, logística, sistemas marítimos autónomos. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:21
 msgid ""
@@ -117,7 +117,7 @@ msgid ""
 "themes: Advanced fibers, materials, design, smart textiles. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Donghua <entities/university-donghua>` (东华大学 · Universidad · Distrito de Songjiang · MOE 4131010255) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Fibras avanzadas, materiales, diseño, textiles inteligentes. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Donghua <entities/university-donghua>` (东华大学 · Universidad · Distrito de Songjiang · MOE 4131010255) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Fibras avanzadas, materiales, diseño, textiles inteligentes. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:22
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "intelligence, industrial control. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Energía Eléctrica de Shanghái <entities/university-electric-power>` (上海电力大学 · Universidad · Nueva Área de Pudong · MOE 4131010256) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Sistemas energéticos, inteligencia de red eléctrica, control industrial. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Energía Eléctrica de Shanghái <entities/university-electric-power>` (上海电力大学 · Universidad · Nueva Área de Pudong · MOE 4131010256) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Sistemas energéticos, inteligencia de red eléctrica, control industrial. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:23
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Instituto de Tecnología de Shanghái <entities/university-sit>` (上海应用技术大学 · Universidad · Distrito de Fengxian · MOE 4131010259) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ingeniería aplicada, materiales, IA industrial. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Instituto de Tecnología de Shanghái <entities/university-sit>` (上海应用技术大学 · Universidad · Distrito de Fengxian · MOE 4131010259) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ingeniería aplicada, materiales, IA industrial. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:24
 msgid ""
@@ -150,7 +150,7 @@ msgid ""
 "clinical applications. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Medicina y Ciencias de la Salud de Shanghái <entities/university-sumhs>` (上海健康医学院 · Universidad · Nueva Área de Pudong · MOE 4131010262) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Dispositivos sanitarios, diagnóstico, aplicaciones clínicas. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Medicina y Ciencias de la Salud de Shanghái <entities/university-sumhs>` (上海健康医学院 · Universidad · Nueva Área de Pudong · MOE 4131010262) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Dispositivos sanitarios, diagnóstico, aplicaciones clínicas. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:25
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "Marine science, aquaculture, smart agriculture. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Oceánica de Shanghái <entities/university-ocean>` (上海海洋大学 · Universidad · Nueva Área de Pudong · MOE 4131010264) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ciencias marinas, acuicultura, agricultura inteligente. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Oceánica de Shanghái <entities/university-ocean>` (上海海洋大学 · Universidad · Nueva Área de Pudong · MOE 4131010264) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ciencias marinas, acuicultura, agricultura inteligente. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:26
 msgid ""
@@ -171,7 +171,7 @@ msgid ""
 "medical data. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Universidad de Medicina Tradicional China de Shanghái <entities/university-tcm>` (上海中医药大学 · Universidad · Nueva Área de Pudong · MOE 4131010268) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Salud, descubrimiento de fármacos, datos médicos. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Medicina Tradicional China de Shanghái <entities/university-tcm>` (上海中医药大学 · Universidad · Nueva Área de Pudong · MOE 4131010268) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Salud, descubrimiento de fármacos, datos médicos. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:27
 msgid ""
@@ -181,7 +181,7 @@ msgid ""
 "Software, education AI, data science, microelectronics. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Normal del Este de China (ECNU) <entities/university-ecnu>` (华东师范大学 · Universidad · Distrito de Putuo · MOE 4131010269) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Software, IA educativa, ciencia de datos, microelectrónica. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Normal del Este de China (ECNU) <entities/university-ecnu>` (华东师范大学 · Universidad · Distrito de Putuo · MOE 4131010269) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Software, IA educativa, ciencia de datos, microelectrónica. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:28
 msgid ""
@@ -191,7 +191,7 @@ msgid ""
 "Education, computer science, creative technology. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Normal de Shanghái <entities/university-shnu>` (上海师范大学 · Universidad · Distrito de Xuhui · MOE 4131010270) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Educación, ciencias de la computación, tecnología creativa. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Normal de Shanghái <entities/university-shnu>` (上海师范大学 · Universidad · Distrito de Xuhui · MOE 4131010270) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Educación, ciencias de la computación, tecnología creativa. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:29
 msgid ""
@@ -202,7 +202,7 @@ msgid ""
 "translation, international markets. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Estudios Internacionales de Shanghái (SISU) <entities/university-sisu>` (上海外国语大学 · Universidad · Distrito de Hongkou · MOE 4131010271) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Tecnologías del lenguaje, traducción, mercados internacionales. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Estudios Internacionales de Shanghái (SISU) <entities/university-sisu>` (上海外国语大学 · Universidad · Distrito de Hongkou · MOE 4131010271) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Tecnologías del lenguaje, traducción, mercados internacionales. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:30
 msgid ""
@@ -213,7 +213,7 @@ msgid ""
 "models. These themes are editorial routing guidance, not a verified offer "
 "of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Universidad de Finanzas y Economía de Shanghái (SUFE) <entities/university-sufe>` (上海财经大学 · Universidad · Distrito de Yangpu · MOE 4131010272) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Fintech, analítica avanzada, modelos de negocio. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Finanzas y Economía de Shanghái (SUFE) <entities/university-sufe>` (上海财经大学 · Universidad · Distrito de Yangpu · MOE 4131010272) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Fintech, analítica avanzada, modelos de negocio. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:31
 msgid ""
@@ -224,7 +224,7 @@ msgid ""
 "cross-border business. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Negocios Internacionales y Economía de Shanghái <entities/university-suibe>` (上海对外经贸大学 · Universidad · Distrito de Songjiang · MOE 4131010273) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Comercio exterior, distribución comercial, negocios transfronterizos. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Negocios Internacionales y Economía de Shanghái <entities/university-suibe>` (上海对外经贸大学 · Universidad · Distrito de Songjiang · MOE 4131010273) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Comercio exterior, distribución comercial, negocios transfronterizos. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:32
 msgid ""
@@ -234,7 +234,7 @@ msgid ""
 "Customs, trade processes, compliance systems. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Aduanas de Shanghái <entities/university-customs>` (上海海关学院 · Universidad · Nueva Área de Pudong · MOE 4131010274) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Aduanas, procesos de comercio internacional, sistemas de cumplimiento normativo. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Aduanas de Shanghái <entities/university-customs>` (上海海关学院 · Universidad · Nueva Área de Pudong · MOE 4131010274) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Aduanas, procesos de comercio internacional, sistemas de cumplimiento normativo. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:33
 msgid ""
@@ -245,7 +245,7 @@ msgid ""
 "technology. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Universidad de Ciencias Políticas y Derecho del Este de China <entities/university-ecupl>` (华东政法大学 · Universidad · Distrito de Songjiang · MOE 4131010276) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Propiedad intelectual, gobernanza de datos, tecnología jurídica (legaltech). Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Ciencias Políticas y Derecho del Este de China <entities/university-ecupl>` (华东政法大学 · Universidad · Distrito de Songjiang · MOE 4131010276) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Propiedad intelectual, gobernanza de datos, tecnología jurídica (legaltech). Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:34
 msgid ""
@@ -255,7 +255,7 @@ msgid ""
 "Sports science, motion analysis, wearables. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad del Deporte de Shanghái <entities/university-sport>` (上海体育大学 · Universidad · Distrito de Yangpu · MOE 4131010277) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ciencias del deporte, análisis del movimiento, dispositivos portátiles (wearables). Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad del Deporte de Shanghái <entities/university-sport>` (上海体育大学 · Universidad · Distrito de Yangpu · MOE 4131010277) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ciencias del deporte, análisis del movimiento, dispositivos portátiles (wearables). Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:35
 msgid ""
@@ -265,7 +265,7 @@ msgid ""
 "Audio AI, music technology, creative tools. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Conservatorio de Música de Shanghái <entities/university-music>` (上海音乐学院 · Universidad · Distrito de Xuhui · MOE 4131010278) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: IA de audio, tecnología musical, herramientas creativas. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Conservatorio de Música de Shanghái <entities/university-music>` (上海音乐学院 · Universidad · Distrito de Xuhui · MOE 4131010278) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: IA de audio, tecnología musical, herramientas creativas. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:36
 msgid ""
@@ -275,7 +275,7 @@ msgid ""
 "Performance, virtual production, creative media. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Academia de Teatro de Shanghái <entities/university-theatre>` (上海戏剧学院 · Universidad · Distrito de Jing'an · MOE 4131010279) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Artes escénicas, producción virtual, medios creativos. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Academia de Teatro de Shanghái <entities/university-theatre>` (上海戏剧学院 · Universidad · Distrito de Jing'an · MOE 4131010279) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Artes escénicas, producción virtual, medios creativos. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:37
 msgid ""
@@ -286,7 +286,7 @@ msgid ""
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. Address: 3F, Science Building, 788 Guangzhong Road, "
 "Jing'an. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Shanghái <entities/university-shu>` (上海大学 · Universidad · Distrito de Jing'an · MOE 4131010280) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Fabricación, robótica, materiales, medios digitales. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. Planta 3, Edificio de Ciencias, Calle Guangzhong 788, Distrito de Jing'an. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Shanghái <entities/university-shu>` (上海大学 · Universidad · Distrito de Jing'an · MOE 4131010280) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Fabricación, robótica, materiales, medios digitales. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. Planta 3, Edificio de Ciencias, Calle Guangzhong 788, Distrito de Jing'an. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:38
 msgid ""
@@ -296,7 +296,7 @@ msgid ""
 "Public-safety education; external project access unverified. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Academia de Policía de Shanghái <entities/university-police>` (上海公安学院 · Universidad · Nueva Área de Pudong · MOE 4131010283) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Formación en seguridad pública; acceso a proyectos externos no verificado. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Academia de Policía de Shanghái <entities/university-police>` (上海公安学院 · Universidad · Nueva Área de Pudong · MOE 4131010283) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Formación en seguridad pública; acceso a proyectos externos no verificado. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:39
 msgid ""
@@ -307,7 +307,7 @@ msgid ""
 "manufacturing, design. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Ciencias de la Ingeniería de Shanghái (SUES) <entities/university-sues>` (上海工程技术大学 · Universidad · Distrito de Songjiang · MOE 4131010856) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ingeniería, movilidad, fabricación, diseño. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Ciencias de la Ingeniería de Shanghái (SUES) <entities/university-sues>` (上海工程技术大学 · Universidad · Distrito de Songjiang · MOE 4131010856) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ingeniería, movilidad, fabricación, diseño. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:40
 msgid ""
@@ -318,7 +318,7 @@ msgid ""
 "business analytics. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Lixin de Contabilidad y Finanzas de Shanghái <entities/university-lixin>` (上海立信会计金融学院 · Universidad · Nueva Área de Pudong · MOE 4131011047) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Sistemas contables, fintech, analítica empresarial. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Lixin de Contabilidad y Finanzas de Shanghái <entities/university-lixin>` (上海立信会计金融学院 · Universidad · Nueva Área de Pudong · MOE 4131011047) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Sistemas contables, fintech, analítica empresarial. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:41
 msgid ""
@@ -328,7 +328,7 @@ msgid ""
 "Electrical equipment, advanced manufacturing. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad DianJi de Shanghái <entities/university-dianji>` (上海电机学院 · Universidad · Nueva Área de Pudong · MOE 4131011458) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Equipamiento eléctrico, fabricación avanzada. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad DianJi de Shanghái <entities/university-dianji>` (上海电机学院 · Universidad · Nueva Área de Pudong · MOE 4131011458) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Equipamiento eléctrico, fabricación avanzada. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:42
 msgid ""
@@ -338,7 +338,7 @@ msgid ""
 "digital business and talent partnerships. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Sanda de Shanghái <entities/university-sanda>` (上海杉达学院 · Universidad · Nueva Área de Pudong · MOE 4131011833) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Negocios digitales aplicados y alianzas de talento. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Sanda de Shanghái <entities/university-sanda>` (上海杉达学院 · Universidad · Nueva Área de Pudong · MOE 4131011833) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Negocios digitales aplicados y alianzas de talento. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:43
 msgid ""
@@ -349,7 +349,7 @@ msgid ""
 "governance. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Universidad de Ciencias Políticas y Derecho de Shanghái <entities/university-shupl>` (上海政法学院 · Universidad · Distrito de Qingpu · MOE 4131011835) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Tecnología jurídica (legaltech), propiedad intelectual, gobernanza. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Ciencias Políticas y Derecho de Shanghái <entities/university-shupl>` (上海政法学院 · Universidad · Distrito de Qingpu · MOE 4131011835) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Tecnología jurídica (legaltech), propiedad intelectual, gobernanza. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:44
 msgid ""
@@ -360,7 +360,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Universidad Politécnica de Shanghái <entities/university-polytechnic>` (上海第二工业大学 · Universidad · Nueva Área de Pudong · MOE 4131012044) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ingeniería aplicada, electrónica, fabricación. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Politécnica de Shanghái <entities/university-polytechnic>` (上海第二工业大学 · Universidad · Nueva Área de Pudong · MOE 4131012044) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ingeniería aplicada, electrónica, fabricación. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:45
 msgid ""
@@ -370,7 +370,7 @@ msgid ""
 "Digital retail, commerce, service innovation. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Escuela de Negocios de Shanghái <entities/university-business>` (上海商学院 · Universidad · Distrito de Fengxian · MOE 4131012050) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Comercio minorista digital, comercio electrónico, innovación en servicios. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Escuela de Negocios de Shanghái <entities/university-business>` (上海商学院 · Universidad · Distrito de Fengxian · MOE 4131012050) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Comercio minorista digital, comercio electrónico, innovación en servicios. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:46
 msgid ""
@@ -380,7 +380,7 @@ msgid ""
 "themes: Applied business, design and creative technology. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Lida de Shanghái <entities/university-lida>` (上海立达学院 · Universidad · Distrito de Songjiang · MOE 4131012587) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Negocios aplicados, diseño y tecnología creativa. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Lida de Shanghái <entities/university-lida>` (上海立达学院 · Universidad · Distrito de Songjiang · MOE 4131012587) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Negocios aplicados, diseño y tecnología creativa. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:47
 msgid ""
@@ -390,7 +390,7 @@ msgid ""
 "collaboration themes: Applied engineering, digital media, business. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Jian Qiao de Shanghái <entities/university-jianqiao>` (上海建桥学院 · Universidad · Nueva Área de Pudong · MOE 4131012799) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ingeniería aplicada, medios digitales, administración de empresas. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Jian Qiao de Shanghái <entities/university-jianqiao>` (上海建桥学院 · Universidad · Nueva Área de Pudong · MOE 4131012799) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ingeniería aplicada, medios digitales, administración de empresas. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:48
 msgid ""
@@ -400,7 +400,7 @@ msgid ""
 "Interdisciplinary education and entrepreneurship conversations. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Instituto Universitario Xing Wei de Shanghái <entities/university-xingwei>` (上海兴伟学院 · Universidad · Nueva Área de Pudong · MOE 4131012914) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Educación interdisciplinaria y diálogos sobre emprendimiento. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Instituto Universitario Xing Wei de Shanghái <entities/university-xingwei>` (上海兴伟学院 · Universidad · Nueva Área de Pudong · MOE 4131012914) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Educación interdisciplinaria y diálogos sobre emprendimiento. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:49
 msgid ""
@@ -411,7 +411,7 @@ msgid ""
 "undergraduate engineering and applied skills. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Vocacional y Técnica Zhongqiao de Shanghái <entities/university-zhongqiao>` (上海中侨职业技术大学 · Universidad · Distrito de Jinshan · MOE 4131012915) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ingeniería de grado técnico-vocacional y competencias aplicadas. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Vocacional y Técnica Zhongqiao de Shanghái <entities/university-zhongqiao>` (上海中侨职业技术大学 · Universidad · Distrito de Jinshan · MOE 4131012915) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ingeniería de grado técnico-vocacional y competencias aplicadas. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:50
 msgid ""
@@ -422,7 +422,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Instituto de Artes Visuales de Shanghái <entities/university-siva>` (上海视觉艺术学院 · Universidad · Distrito de Songjiang · MOE 4131013632) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Diseño, contenidos digitales y tecnología creativa. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Instituto de Artes Visuales de Shanghái <entities/university-siva>` (上海视觉艺术学院 · Universidad · Distrito de Songjiang · MOE 4131013632) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Diseño, contenidos digitales y tecnología creativa. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:51
 msgid ""
@@ -433,7 +433,7 @@ msgid ""
 "and creative applications. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Facultad Xianda de Economía y Humanidades (SISU) <entities/university-xianda>` (上海外国语大学贤达经济人文学院 · Universidad · Distrito de Hongkou · MOE 4131013636) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Idiomas, comercio y aplicaciones creativas. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Facultad Xianda de Economía y Humanidades (SISU) <entities/university-xianda>` (上海外国语大学贤达经济人文学院 · Universidad · Distrito de Hongkou · MOE 4131013636) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Idiomas, comercio y aplicaciones creativas. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:52
 msgid ""
@@ -444,7 +444,7 @@ msgid ""
 "engineering and digital business. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Facultad Tianhua de la Universidad Normal de Shanghái <entities/university-tianhua>` (上海师范大学天华学院 · Universidad · Distrito de Jiading · MOE 4131013893) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Educación aplicada, ingeniería y negocios digitales. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Facultad Tianhua de la Universidad Normal de Shanghái <entities/university-tianhua>` (上海师范大学天华学院 · Universidad · Distrito de Jiading · MOE 4131013893) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Educación aplicada, ingeniería y negocios digitales. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:53
 msgid ""
@@ -454,7 +454,7 @@ msgid ""
 "Chips, software AI, scientific instruments, biotech. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad ShanghaiTech <entities/university-shanghaitech>` (上海科技大学 · Universidad · Nueva Área de Pudong · MOE 4131014423) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Chips, IA de software, instrumentación científica, biotecnología. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad ShanghaiTech <entities/university-shanghaitech>` (上海科技大学 · Universidad · Nueva Área de Pudong · MOE 4131014423) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Chips, IA de software, instrumentación científica, biotecnología. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../universities.rst:54
 msgid ""
@@ -464,4 +464,4 @@ msgid ""
 "science, computation and international research. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Nueva York en Shanghái (NYU Shanghai) <entities/university-nyu>` (上海纽约大学 · Universidad · Nueva Área de Pudong · MOE 4131016404) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ciencia de datos, computación e investigación internacional. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Nueva York en Shanghái (NYU Shanghai) <entities/university-nyu>` (上海纽约大学 · Universidad · Nueva Área de Pudong · MOE 4131016404) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ciencia de datos, computación e investigación internacional. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Entidad verificada; admisión actual por confirmar]"

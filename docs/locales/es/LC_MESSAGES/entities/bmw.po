@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../entities/bmw.rst:1
 msgid "BMW Group Startup Garage"
-msgstr "BMW Group Startup Garage (Programa de cliente de riesgo)"
+msgstr "BMW Group Startup Garage"
 
 #: ../../entities/bmw.rst:4
 msgid "宝马集团Startup Garage"
@@ -38,7 +38,7 @@ msgid ""
 "products, services and internal processes. Validate the responsible China "
 "business owner and pilot requirements; venture-client activity is not "
 "necessarily equity investment."
-msgstr "BMW describe un modelo de cliente de riesgo (venture-client) para evaluar soluciones de startups aplicables a productos, servicios y procesos internos. Valide quién es el responsable de negocio en China y los requisitos del piloto; la actividad de venture-client no conlleva necesariamente inversión en capital."
+msgstr "BMW aplica el modelo venture client: actúa como cliente de una startup para probar soluciones destinadas a productos, servicios y procesos internos. Es necesario confirmar el equipo responsable en China y los requisitos del piloto. Esta colaboración no implica necesariamente una inversión en capital."
 
 #: ../../entities/bmw.rst:12
 msgid ""
@@ -53,7 +53,7 @@ msgstr "Estado y tipo de apoyo"
 
 #: ../../entities/bmw.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "Entidad documentada; admisión pendiente de confirmar"
+msgstr "Entidad verificada; admisión actual por confirmar"
 
 #: ../../entities/bmw.rst:19
 msgid ""
@@ -107,7 +107,7 @@ msgstr "Presentar el resumen del producto, la evidencia de pilotos previos y los
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
-msgstr "Confirmar la disponibilidad de una cohorte abierta o acordar un piloto acotado, los derechos sobre los datos y los términos de propiedad intelectual."
+msgstr "Confirmar si el programa admite solicitudes o acordar un piloto acotado, los derechos sobre los datos y la propiedad intelectual."
 
 #: ../../entities/bmw.rst:41
 msgid ""

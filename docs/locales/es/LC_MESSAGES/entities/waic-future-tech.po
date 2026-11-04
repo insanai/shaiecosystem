@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -61,7 +61,7 @@ msgstr "Estado y tipo de apoyo"
 
 #: ../../entities/waic-future-tech.rst:19
 msgid "Historical / confirm continuation"
-msgstr "Programa histórico; confirmar continuidad"
+msgstr "Programa anterior; confirmar si continúa"
 
 #: ../../entities/waic-future-tech.rst:21
 msgid ""

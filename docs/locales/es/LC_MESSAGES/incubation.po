@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -21,14 +21,10 @@ msgid "Incubators, accelerators and parks"
 msgstr "Incubadoras, aceleradoras y parques tecnológicos"
 
 #: ../../incubation.rst:4
-
-#| msgid ""
-#| "44 profiles with evidence, contact routes and an application "
-#| "checklist. Published existence is distinguished from current intake."
 msgid ""
 "45 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "45 perfiles con evidencia, vías de contacto y lista de verificación de solicitud. La existencia publicada se distingue de la recepción activa de candidaturas."
+msgstr "45 perfiles con fuentes, contactos y pasos orientativos para solicitar apoyo. La existencia de una entidad se distingue de su admisión actual."
 
 #: ../../incubation.rst:8
 msgid "Complete directory summary"
@@ -42,7 +38,7 @@ msgid ""
 "zones; admission, workspace, compute support and investment are separate "
 "decisions. Support: Services / possible incentives. Address: Zone A, 180 "
 "Longtai Road, Xuhui. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Espacio de Velocidad de Modelos de Shanghái (Model Speed Space) <entities/mosu>` (上海模速空间 · Incubadora · Distrito de Xuhui · IA de software) — Comunidad especializada en la incubación y aceleración de grandes modelos en el West Bund. Su operador gestiona varias zonas; la admisión, el espacio de oficina, el apoyo de cómputo y la inversión constituyen decisiones separadas. [Servicios de espacio / posibles incentivos públicos]. Zona A, Calle Longtai 180, Distrito de Xuhui. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Model Speed Space de Shanghái (模速空间) <entities/mosu>` (上海模速空间 · Incubadora · Distrito de Xuhui · IA de software) — Comunidad especializada en la incubación y aceleración de grandes modelos en el West Bund. Su operador gestiona varias zonas; la admisión, el espacio de oficina, el apoyo de cómputo y la inversión constituyen decisiones separadas. [Espacios y servicios / posibles ayudas]. Zona A, Calle Longtai 180, Distrito de Xuhui. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:12
 msgid ""
@@ -52,7 +48,7 @@ msgid ""
 "model developers and industry users. Ask the operator for the specific "
 "model, data and compute package and its reimbursement rules. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Comunidad de Modelos de Zhangjiang (Zhangjiang Model Community) <entities/model-community>` (张江模力社区 · Incubadora · Nueva Área de Pudong · IA de software, IA de hardware) — Comunidad de IA en Zhangjiang identificada en el plan municipal de implementación de IA. Conecta a desarrolladores de modelos con usuarios industriales. Consulte al operador sobre el paquete específico de modelos, datos y cómputo, así como sus reglas de reembolso. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Comunidad de Modelos de Zhangjiang (Zhangjiang Model Community) <entities/model-community>` (张江模力社区 · Incubadora · Nueva Área de Pudong · IA de software, IA de hardware) — Comunidad de IA en Zhangjiang identificada en el plan municipal de implementación de IA. Conecta a desarrolladores de modelos con usuarios industriales. Consulte al operador sobre el paquete específico de modelos, datos y cómputo, así como sus reglas de reembolso. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:13
 msgid ""
@@ -62,7 +58,7 @@ msgid ""
 "projects with incubation. SJTU documents the Zero Kilometer launch and "
 "its AI, integrated-circuit, manufacturing and low-carbon participants. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Grand neoBay / Incubadora Kilómetro Cero <entities/neobay>` (大零号湾／零公里孵化器 · Incubadora · Distrito de Minhang · IA de hardware, IA de software) — Vía de comercialización vinculada al ámbito universitario que conecta proyectos tecnológicos en etapa temprana con recursos de incubación. La universidad SJTU documenta el lanzamiento de Kilómetro Cero y sus participantes en IA, circuitos integrados, fabricación y bajas emisiones de carbono. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Grand neoBay / Incubadora Kilómetro Cero <entities/neobay>` (大零号湾／零公里孵化器 · Incubadora · Distrito de Minhang · IA de hardware, IA de software) — Vía de comercialización vinculada al ámbito universitario que conecta proyectos tecnológicos en etapa temprana con recursos de incubación. La universidad SJTU documenta el lanzamiento de Kilómetro Cero y sus participantes en IA, circuitos integrados, fabricación y bajas emisiones de carbono. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:14
 msgid ""
@@ -71,7 +67,7 @@ msgid ""
 "incubator with chip-testing and industrialization context in Zhangjiang. "
 "Incubation and the associated angel investment pathway must be reviewed "
 "as different agreements. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Incubadora Zhangjiang Hi-Tech 895 <entities/895>` (张江高科895孵化器 · Incubadora · Nueva Área de Pudong · IA de hardware, Chips y semiconductores) — Incubadora de tecnología profunda (deep-tech) con ecosistema de pruebas de chips e industrialización en Zhangjiang. La incubación y la vía asociada de inversión ángel deben revisarse como contratos independientes. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Incubadora Zhangjiang Hi-Tech 895 <entities/895>` (张江高科895孵化器 · Incubadora · Nueva Área de Pudong · IA de hardware, Chips y semiconductores) — Incubadora de tecnología profunda (deep-tech) con ecosistema de pruebas de chips e industrialización en Zhangjiang. La incubación y la vía asociada de inversión ángel deben revisarse como contratos independientes. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:15
 msgid ""
@@ -82,7 +78,7 @@ msgid ""
 "rehabilitation and translational engineering; wet-lab and device "
 "requirements need explicit confirmation. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Incubadora de Interfaces Cerebro-Computadora Synlonx <entities/synlonx>` (司南脑机智能孵化器 · Incubadora · Distrito de Minhang · IA de hardware, Salud y biomedicina) — Plataforma de incubación de interfaces cerebro-computadora inaugurada en Huacao. Las líneas de diálogo abarcan electrodos, interfaces neuronales, sensores, rehabilitación e ingeniería traslacional; los requisitos de laboratorio húmedo y dispositivos médicos exigen confirmación explícita. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Incubadora de Interfaces Cerebro-Computadora Synlonx <entities/synlonx>` (司南脑机智能孵化器 · Incubadora · Distrito de Minhang · IA de hardware, Salud y biomedicina) — Plataforma de incubación de interfaces cerebro-computadora inaugurada en Huacao. Las líneas de diálogo abarcan electrodos, interfaces neuronales, sensores, rehabilitación e ingeniería traslacional; los requisitos de laboratorio húmedo y dispositivos médicos exigen confirmación explícita. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:16
 msgid ""
@@ -92,7 +88,7 @@ msgid ""
 "InnoSpring and SITRI. This is a route for beyond-Moore technology, shared "
 "technical services and pilot production rather than a promise of free "
 "fabrication. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Ecosistema de incubación InnoSpring / SITRI <entities/innospring>` (新微创源／上海微技术工研院孵化生态 · Incubadora · Distrito de Jiading · IA de hardware, Chips y semiconductores, Sensores) — La comisión municipal de ciencia registra el trabajo conjunto entre InnoSpring y SITRI. Es una vía idónea para tecnologías más allá de la ley de Moore, servicios técnicos compartidos y producción piloto, pero no supone una promesa de fabricación gratuita de obleas. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Ecosistema de incubación InnoSpring / SITRI <entities/innospring>` (新微创源／上海微技术工研院孵化生态 · Incubadora · Distrito de Jiading · IA de hardware, Chips y semiconductores, Sensores) — La comisión municipal de ciencia registra el trabajo conjunto entre InnoSpring y SITRI. Es una vía idónea para tecnologías más allá de la ley de Moore, servicios técnicos compartidos y producción piloto, pero no supone una promesa de fabricación gratuita de obleas. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:17
 msgid ""
@@ -102,7 +98,7 @@ msgid ""
 "services and its innovation seed-fund relationships are relevant to "
 "AI-enabled biology; access and investment are negotiated separately. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro ATLATL Zhangjiang <entities/atlatl>` (ATLATL飞镖张江中心 · Incubadora · Nueva Área de Pudong · Salud y biomedicina, IA para la Ciencia) — Entorno compartido de investigación e incubación en el Valle Farmacéutico de Zhangjiang. Sus servicios de laboratorio y sus vínculos con fondos semilla de innovación resultan relevantes para la biología asistida por IA; el acceso a las instalaciones y la inversión se negocian por separado. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro ATLATL Zhangjiang <entities/atlatl>` (ATLATL飞镖张江中心 · Incubadora · Nueva Área de Pudong · Salud y biomedicina, IA para la Ciencia) — Entorno compartido de investigación e incubación en el Valle Farmacéutico de Zhangjiang. Sus servicios de laboratorio y sus vínculos con fondos semilla de innovación resultan relevantes para la biología asistida por IA; el acceso a las instalaciones y la inversión se negocian por separado. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:18
 msgid ""
@@ -112,7 +108,7 @@ msgid ""
 "synthetic biology and cell and gene therapy interests. Confirm current "
 "Shanghai facilities, admission and laboratory pricing with the operator. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Plataforma de Innovación Nest.Bio Shanghái <entities/nestbio>` (巢生上海创新孵化平台 · Incubadora · Nueva Área de Pudong · Salud y biomedicina, IA para la Ciencia) — Reconocida en la ampliación de incubadoras de alta calidad de diciembre de 2025, con foco en biología sintética y terapias celulares y génicas. Confirme con el operador las instalaciones actuales en Shanghái, los requisitos de admisión y las tarifas de laboratorio. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Plataforma de Innovación Nest.Bio Shanghái <entities/nestbio>` (巢生上海创新孵化平台 · Incubadora · Nueva Área de Pudong · Salud y biomedicina, IA para la Ciencia) — Reconocida en la ampliación de incubadoras de alta calidad de diciembre de 2025, con foco en biología sintética y terapias celulares y génicas. Confirme con el operador las instalaciones actuales en Shanghái, los requisitos de admisión y las tarifas de laboratorio. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:19
 msgid ""
@@ -122,7 +118,7 @@ msgid ""
 "and acceleration. Bring a concrete industrial use case; program "
 "participation does not imply a corporate purchase order. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`InnoSpace Shanghái (Espacio de Innovación) <entities/innospace>` (创智空间InnoSpace · Aceleradora · Distrito de Yangpu · IA de software, Industria) — Organización de servicios de innovación centrada en la innovación abierta corporativa y en la incubación y aceleración de startups. Conviene acudir con un caso de uso industrial concreto; la participación en el programa no implica una orden de compra corporativa. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`InnoSpace Shanghái (Espacio de Innovación) <entities/innospace>` (创智空间InnoSpace · Aceleradora · Distrito de Yangpu · IA de software, Industria) — Organización de servicios de innovación centrada en la innovación abierta corporativa y en la incubación y aceleración de startups. Conviene acudir con un caso de uso industrial concreto; la participación en el programa no implica una orden de compra corporativa. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:20
 msgid ""
@@ -133,7 +129,7 @@ msgid ""
 "and investment should be stated separately. Address: 4F, Building A, "
 "Kehai Building, 800 Naxian Road, Pudong | Tel: +86 21 55698983. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`XNode Shanghái (Aceleradora Transfronteriza) <entities/xnode>` (创极无限XNode · Aceleradora · Nueva Área de Pudong · IA de software, Industria) — Operador de innovación transfronteriza que apoya la entrada al mercado, las alianzas corporativas y los proyectos piloto. Su oficina de Shanghái es una vía de entrada útil para equipos internacionales. El alcance, los honorarios, los entregables y la inversión deben establecerse por separado. Planta 4, Edificio A, Edificio Kehai, Calle Naxian 800, Pudong | Tel: +86 21 55698983. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`XNode Shanghái (Aceleradora Transfronteriza) <entities/xnode>` (创极无限XNode · Aceleradora · Nueva Área de Pudong · IA de software, Industria) — Operador de innovación transfronteriza que apoya la entrada al mercado, las alianzas corporativas y los proyectos piloto. Su oficina de Shanghái es una vía de entrada útil para equipos internacionales. El alcance, los honorarios, los entregables y la inversión deben establecerse por separado. Planta 4, Edificio A, Edificio Kehai, Calle Naxian 800, Pudong | Tel: +86 21 55698983. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:21
 msgid ""
@@ -144,7 +140,7 @@ msgid ""
 "investment have different admission and commercial terms. Address: 2F, "
 "Building 1, Phase II, Zhangjiang Guochuang Center, 899 Dangui Road. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Plug and Play China, Centro de Shanghái <entities/plugplay>` (璞跃中国上海中心 · Aceleradora · Nueva Área de Pudong · IA de software, IA de hardware, Movilidad) — El operador sitúa su centro de innovación para el delta del río Yangtsé en el Centro Guochuang de Zhangjiang. La innovación corporativa, el alquiler de oficinas y la inversión de capital riesgo tienen requisitos de admisión y condiciones comerciales diferenciados. Planta 2, Edificio 1, Fase II, Centro Guochuang de Zhangjiang, Calle Dangui 899, Pudong. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Plug and Play China, Centro de Shanghái <entities/plugplay>` (璞跃中国上海中心 · Aceleradora · Nueva Área de Pudong · IA de software, IA de hardware, Movilidad) — El operador sitúa su centro de innovación para el delta del río Yangtsé en el Centro Guochuang de Zhangjiang. La innovación corporativa, el alquiler de oficinas y la inversión de capital riesgo tienen requisitos de admisión y condiciones comerciales diferenciados. Planta 2, Edificio 1, Fase II, Centro Guochuang de Zhangjiang, Calle Dangui 899, Pudong. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:22
 msgid ""
@@ -154,7 +150,7 @@ msgid ""
 "Pudong and Zhangjiang. The evidence establishes the initiative; a "
 "currently accepting cohort and its commercial terms require confirmation. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Aceleradora de Salud Digital PwC x Zhangjiang <entities/pwc>` (普华永道张江数字医疗加速营 · Aceleradora · Nueva Área de Pudong · Salud y biomedicina, IA de software) — PwC describe una iniciativa de aceleración en salud digital respaldada por Pudong y Zhangjiang. La documentación acredita la existencia de la iniciativa; la apertura de una cohorte en curso y sus términos comerciales requieren confirmación directa. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Aceleradora de Salud Digital PwC x Zhangjiang <entities/pwc>` (普华永道张江数字医疗加速营 · Aceleradora · Nueva Área de Pudong · Salud y biomedicina, IA de software) — PwC describe una iniciativa de aceleración en salud digital respaldada por Pudong y Zhangjiang. La documentación acredita la existencia de la iniciativa; la apertura de una cohorte en curso y sus términos comerciales requieren confirmación directa. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:23
 msgid ""
@@ -165,7 +161,7 @@ msgid ""
 "useful entry points for hardware validation. Address: Wuning Road area, "
 "Putuo; confirm the service building. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`Parque Científico de Wuning <entities/wuning>` (上海武宁科技园 · Parque tecnológico · Distrito de Putuo · IA de hardware, Industria) — Entorno de investigación y ensayos industriales operado por el grupo del Instituto de Investigación de Aparatos Eléctricos de Shanghái. Las pruebas de robótica e internet industrial constituyen puntos de entrada útiles para la validación de hardware. Zona de la calle Wuning, Distrito de Putuo; confirmar el edificio de servicios. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Científico de Wuning <entities/wuning>` (上海武宁科技园 · Parque tecnológico · Distrito de Putuo · IA de hardware, Industria) — Entorno de investigación y ensayos industriales operado por el grupo del Instituto de Investigación de Aparatos Eléctricos de Shanghái. Las pruebas de robótica e internet industrial constituyen puntos de entrada útiles para la validación de hardware. Zona de la calle Wuning, Distrito de Putuo; confirmar el edificio de servicios. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:24
 msgid ""
@@ -176,7 +172,7 @@ msgid ""
 "market, capital and industrial connections; the listing does not "
 "guarantee cash support. Address: Lane 111, Qilianshan Road, Putuo. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Innovación China-Israel, Shanghái <entities/china-israel>` (中以（上海）创新园 · Parque tecnológico · Distrito de Putuo · IA de software, IA de hardware) — Centro incluido en el catálogo distrital para la colaboración internacional en fabricación inteligente, IA, robótica y tecnologías de la información. Facilita conexiones de mercado, capital e industria; figurar en el catálogo no garantiza subvenciones en efectivo. Callejón 111, Calle Qilianshan, Distrito de Putuo. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Innovación China-Israel, Shanghái <entities/china-israel>` (中以（上海）创新园 · Parque tecnológico · Distrito de Putuo · IA de software, IA de hardware) — Centro incluido en el catálogo distrital para la colaboración internacional en fabricación inteligente, IA, robótica y tecnologías de la información. Facilita conexiones de mercado, capital e industria; figurar en el catálogo no garantiza subvenciones en efectivo. Callejón 111, Calle Qilianshan, Distrito de Putuo. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:25
 msgid ""
@@ -186,7 +182,7 @@ msgid ""
 "and OPC communities. We treat this record as a district routing entry, "
 "not a single interchangeable operator or a guaranteed free-workspace "
 "offer. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Digital Silicon Alley / Centros de innovación de Hongqiao <entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Incubadora · Distrito de Changning · IA de software) — Changning identifica un conjunto articulado de incubadoras digitales y comunidades OPC. Tratamos este registro como una vía de orientación distrital, no como un operador único intercambiable ni como una oferta garantizada de espacio de trabajo gratuito. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Digital Silicon Alley / Centros de innovación de Hongqiao <entities/digital-silicon>` (数字硅巷／虹桥创新载体 · Incubadora · Distrito de Changning · IA de software) — Changning identifica un conjunto articulado de incubadoras digitales y comunidades OPC. Tratamos este registro como una vía de orientación distrital, no como un operador único intercambiable ni como una oferta garantizada de espacio de trabajo gratuito. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:26
 msgid ""
@@ -196,7 +192,7 @@ msgid ""
 "with Bay Valley in the north. Suitable for neuromorphic computing and "
 "commercial AI collaborations. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`Campus de Innovación Changyang (Changyang Campus) <entities/changyang>` (长阳创谷 · Parque tecnológico · Distrito de Yangpu · IA de software, IA de hardware) — El plan de inteligencia bioinspirada de Yangpu identifica a Changyang Campus como el núcleo sur, en tándem con Bay Valley en el norte. Resulta adecuado para la computación neuromórfica y las colaboraciones comerciales en IA. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Campus de Innovación Changyang (Changyang Campus) <entities/changyang>` (长阳创谷 · Parque tecnológico · Distrito de Yangpu · IA de software, IA de hardware) — El plan de inteligencia bioinspirada de Yangpu identifica a Changyang Campus como el núcleo sur, en tándem con Bay Valley en el norte. Resulta adecuado para la computación neuromórfica y las colaboraciones comerciales en IA. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:27
 msgid ""
@@ -206,7 +202,7 @@ msgid ""
 "communities. Ask for an approved community operator, the qualifying "
 "activity definition, housing conditions and any service or equity "
 "agreement. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Comunidades maker y OPC de la Isla de Fuxing <entities/fuxing>` (复兴岛创客与OPC社区 · Incubadora · Distrito de Yangpu · IA de software) — Una política distrital de mayo de 2026 respalda a los fundadores independientes impulsados por IA y a las comunidades de creadores (makers). Solicite la lista de operadores comunitarios homologados, la definición de actividad elegible, las condiciones de alojamiento y cualquier contrato de servicios o capital. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Comunidades maker y OPC de la Isla de Fuxing <entities/fuxing>` (复兴岛创客与OPC社区 · Incubadora · Distrito de Yangpu · IA de software) — Una política distrital de mayo de 2026 respalda a los fundadores independientes impulsados por IA y a las comunidades de creadores (makers). Solicite la lista de operadores comunitarios homologados, la definición de actividad elegible, las condiciones de alojamiento y cualquier contrato de servicios o capital. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:28
 msgid ""
@@ -215,7 +211,7 @@ msgid ""
 "2025-2026 park plan links Grand neoBay R&D with Maqiao manufacturing. A "
 "useful pathway from a robot prototype to supply-chain and production "
 "conversations. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Zona de Innovación en IA de Maqiao <entities/maqiao>` (马桥人工智能创新试验区 · Parque tecnológico · Distrito de Minhang · IA de hardware, Robótica) — El plan de parques 2025-2026 de Minhang enlaza la I+D de Grand neoBay con la capacidad manufacturera de Maqiao. Constituye una ruta práctica para llevar un prototipo robótico hacia conversaciones sobre cadena de suministro y producción en serie. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Zona de Innovación en IA de Maqiao <entities/maqiao>` (马桥人工智能创新试验区 · Parque tecnológico · Distrito de Minhang · IA de hardware, Robótica) — El plan de parques 2025-2026 de Minhang enlaza la I+D de Grand neoBay con la capacidad manufacturera de Maqiao. Constituye una ruta práctica para llevar un prototipo robótico hacia conversaciones sobre cadena de suministro y producción en serie. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:29
 msgid ""
@@ -225,7 +221,7 @@ msgid ""
 "supply chains and deployment; we distinguish it from ABB facilities in "
 "Pudong and from the broader Baoshan industrial park. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Parque Industrial de Robótica de Shanghái <entities/robot-park>` (上海机器人产业园 · Parque tecnológico · Distrito de Baoshan · IA de hardware, Robótica) — Parque industrial especializado en robótica situado en Gucun, Baoshan. Adecuado para cadenas de suministro y despliegue de robótica industrial; lo distinguimos de las instalaciones de ABB en Pudong y del Parque Industrial general de Baoshan. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Industrial de Robótica de Shanghái <entities/robot-park>` (上海机器人产业园 · Parque tecnológico · Distrito de Baoshan · IA de hardware, Robótica) — Parque industrial especializado en robótica situado en Gucun, Baoshan. Adecuado para cadenas de suministro y despliegue de robótica industrial; lo distinguimos de las instalaciones de ABB en Pudong y del Parque Industrial general de Baoshan. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:30
 msgid ""
@@ -236,7 +232,7 @@ msgid ""
 "This is a separate park from the Gucun robot industrial park. Address: "
 "1688 Jinshi Road, Baoshan | Tel: +86 21 66879800. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Parque Industrial de Baoshan <entities/baoshan-industrial>` (宝山工业园区 · Parque tecnológico · Distrito de Baoshan · Industria, IA de hardware) — El comité de gestión del parque publica un contacto oficial y gestiona la admisión industrial, la atracción de proyectos, la coordinación de políticas y los servicios empresariales. Es un recinto distinto del parque industrial robótico de Gucun. Calle Jinshi 1688, Distrito de Baoshan | Tel: +86 21 66879800. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Industrial de Baoshan <entities/baoshan-industrial>` (宝山工业园区 · Parque tecnológico · Distrito de Baoshan · Industria, IA de hardware) — El comité de gestión del parque publica un contacto oficial y gestiona la admisión industrial, la atracción de proyectos, la coordinación de políticas y los servicios empresariales. Es un recinto distinto del parque industrial robótico de Gucun. Calle Jinshi 1688, Distrito de Baoshan | Tel: +86 21 66879800. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:31
 msgid ""
@@ -246,7 +242,7 @@ msgid ""
 "information-technology innovation. For an AI infrastructure team, "
 "establish compatibility requirements, lab access and real customer demand "
 "before choosing space. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Parque Industrial Xinchuang G60 de Songjiang <entities/g60-xinchuang>` (G60松江信创产业园 · Parque tecnológico · Distrito de Songjiang · IA de software, Chips y semiconductores) — Parque industrial con perfil oficial dedicado a la innovación nacional en tecnologías de la información (Xinchuang). Para un equipo de infraestructura de IA, conviene verificar los requisitos de compatibilidad técnica, el acceso a laboratorios y la demanda real de clientes antes de elegir espacio. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Industrial Xinchuang G60 de Songjiang <entities/g60-xinchuang>` (G60松江信创产业园 · Parque tecnológico · Distrito de Songjiang · IA de software, Chips y semiconductores) — Parque industrial con perfil oficial dedicado a la innovación nacional en tecnologías de la información (Xinchuang). Para un equipo de infraestructura de IA, conviene verificar los requisitos de compatibilidad técnica, el acceso a laboratorios y la demanda real de clientes antes de elegir espacio. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:32
 msgid ""
@@ -256,7 +252,7 @@ msgid ""
 "offers an ecosystem connection, not automatic access to Huawei "
 "laboratories, procurement or investment. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Centro de Ciencia e Innovación de Xicen <entities/xicen>` (西岑科创中心 · Parque tecnológico · Distrito de Qingpu · IA de hardware, IA de software) — Área de innovación en Qingpu articulada en torno al centro de Huawei en el lago Lianqiu y al desarrollo de Xicen. Ofrece conexión con el ecosistema regional, pero no acceso automático a los laboratorios, compras ni inversiones de Huawei. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Ciencia e Innovación de Xicen <entities/xicen>` (西岑科创中心 · Parque tecnológico · Distrito de Qingpu · IA de hardware, IA de software) — Área de innovación en Qingpu articulada en torno al centro de Huawei en el lago Lianqiu y al desarrollo de Xicen. Ofrece conexión con el ecosistema regional, pero no acceso automático a los laboratorios, compras ni inversiones de Huawei. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:33
 msgid ""
@@ -265,7 +261,7 @@ msgid ""
 "test-flight services and a low-altitude incubation platform. Airspace, "
 "testing and airworthiness services require separate confirmation from "
 "physical workspace. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Base de Drones (UAV) del Este de China <entities/uav-base>` (华东无人机基地 · Parque tecnológico · Distrito de Jinshan · IA de hardware, Drones y baja altitud) — El plan de parques de Jinshan incluye servicios de vuelos de prueba y una plataforma de incubación para la economía de baja altitud. El uso del espacio aéreo, los ensayos y los servicios de aeronavegabilidad requieren confirmación independiente del alquiler de espacio físico. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Base de Drones (UAV) del Este de China <entities/uav-base>` (华东无人机基地 · Parque tecnológico · Distrito de Jinshan · IA de hardware, Drones y baja altitud) — El plan de parques de Jinshan incluye servicios de vuelos de prueba y una plataforma de incubación para la economía de baja altitud. El uso del espacio aéreo, los ensayos y los servicios de aeronavegabilidad requieren confirmación independiente del alquiler de espacio físico. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:34
 msgid ""
@@ -275,7 +271,7 @@ msgid ""
 "sensors, electronic materials and manufacturing inputs; specify process "
 "equipment and environmental constraints in the inquiry. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Incubadora de Nuevos Materiales de Jinshan <entities/jinshan-materials>` (金山新材料孵化器 · Incubadora · Distrito de Jinshan · Materiales, IA de hardware) — Vía de incubación especializada en materiales vinculada a Carbon Valley Green Bay. Relevante para sensores, materiales electrónicos e insumos de fabricación; especifique en su consulta el equipamiento de proceso y los requisitos medioambientales. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Incubadora de Nuevos Materiales de Jinshan <entities/jinshan-materials>` (金山新材料孵化器 · Incubadora · Distrito de Jinshan · Materiales, IA de hardware) — Vía de incubación especializada en materiales vinculada a Carbon Valley Green Bay. Relevante para sensores, materiales electrónicos e insumos de fabricación; especifique en su consulta el equipamiento de proceso y los requisitos medioambientales. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:35
 msgid ""
@@ -285,7 +281,7 @@ msgid ""
 "formulation research, inspection, consumer analysis and supply-chain "
 "tools; clinical or laboratory access is a separate arrangement. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Valle de la Belleza Oriental (Oriental Beauty Valley) <entities/oriental-beauty>` (东方美谷 · Parque tecnológico · Distrito de Fengxian · Salud y biomedicina, Industria) — Ecosistema industrial de belleza y salud en Fengxian. Las aplicaciones de IA relevantes abarcan la investigación de formulaciones, la inspección de calidad, el análisis de consumidores y las herramientas de cadena de suministro; el acceso clínico o de laboratorio se gestiona por separado. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Valle de la Belleza Oriental (Oriental Beauty Valley) <entities/oriental-beauty>` (东方美谷 · Parque tecnológico · Distrito de Fengxian · Salud y biomedicina, Industria) — Ecosistema industrial de belleza y salud en Fengxian. Las aplicaciones de IA relevantes abarcan la investigación de formulaciones, la inspección de calidad, el análisis de consumidores y las herramientas de cadena de suministro; el acceso clínico o de laboratorio se gestiona por separado. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:36
 msgid ""
@@ -295,7 +291,7 @@ msgid ""
 "the district authority for matching smart agriculture, ecological sensing "
 "and marine technology projects to a concrete carrier. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Parque Chongming de Zhangjiang <entities/chongming-park>` (张江高新区崇明园 · Parque tecnológico · Distrito de Chongming · Clima y sostenibilidad, Agricultura) — El plan de reforma 2025-2026 establece un marco para la innovación ecológica. Recurrimos a la autoridad distrital para conectar proyectos de agricultura inteligente, detección ecológica y tecnología marina con un centro operador concreto. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Chongming de Zhangjiang <entities/chongming-park>` (张江高新区崇明园 · Parque tecnológico · Distrito de Chongming · Clima y sostenibilidad, Agricultura) — El plan de reforma 2025-2026 establece un marco para la innovación ecológica. Recurrimos a la autoridad distrital para conectar proyectos de agricultura inteligente, detección ecológica y tecnología marina con un centro operador concreto. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:37
 msgid ""
@@ -305,7 +301,7 @@ msgid ""
 "technology transfer and investment services. Request the relevant "
 "sub-park and named operating company for a project-specific response. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Parque Hongkou de Zhangjiang / Grupo Beikechuang <entities/hongkou-park>` (张江虹口园／北科创 · Parque tecnológico · Distrito de Hongkou · IA de software, Industria) — El plan del parque otorga a Beikechuang un papel coordinador en incubación, transferencia tecnológica y servicios de inversión. Solicite información sobre el subparque pertinente y la empresa operadora asignada para obtener una respuesta adaptada a su proyecto. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Hongkou de Zhangjiang / Grupo Beikechuang <entities/hongkou-park>` (张江虹口园／北科创 · Parque tecnológico · Distrito de Hongkou · IA de software, Industria) — El plan del parque otorga a Beikechuang un papel coordinador en incubación, transferencia tecnológica y servicios de inversión. Solicite información sobre el subparque pertinente y la empresa operadora asignada para obtener una respuesta adaptada a su proyecto. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:38
 msgid ""
@@ -315,7 +311,7 @@ msgid ""
 "free workstations in the reported offer. Current capacity, applicant "
 "eligibility and additional subsidies must be checked separately. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Programa Huangpu ChuangKa <entities/huangpu-chuangka>` (黄浦创卡 · Incubadora · Distrito de Huangpu · IA de software, Consumo) — Vía de servicio al emprendimiento juvenil descrita por el departamento de Recursos Humanos y Seguridad Social (HRSS) de Shanghái, cuya oferta publicada incluye hasta seis meses de puestos de trabajo gratuitos. La capacidad actual, la elegibilidad del solicitante y las subvenciones adicionales deben verificarse por separado. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Programa Huangpu ChuangKa <entities/huangpu-chuangka>` (黄浦创卡 · Incubadora · Distrito de Huangpu · IA de software, Consumo) — Vía de servicio al emprendimiento juvenil descrita por el departamento de Recursos Humanos y Seguridad Social (HRSS) de Shanghái, cuya oferta publicada incluye hasta seis meses de puestos de trabajo gratuitos. La capacidad actual, la elegibilidad del solicitante y las subvenciones adicionales deben verificarse por separado. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:39
 msgid ""
@@ -325,7 +321,7 @@ msgid ""
 "staged development targets. Lin-gang is a functional area, not Shanghai's "
 "seventeenth district. Establish the administering boundary before seeking "
 "incentives. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Ciudad de la Ciencia y la Innovación de Lin-gang <entities/lin-gang>` (临港科创城 · Parque tecnológico · Nueva Área de Pudong · IA de hardware, Chips y semiconductores, IA de software) — El plan de enero de 2026 identifica los puertos de innovación de IA y circuitos integrados del lago Dishui, junto con objetivos de desarrollo por fases. Lin-gang es un área funcional especial, no el decimoséptimo distrito de Shanghái. Confirme la demarcación administrativa competente antes de solicitar incentivos. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Ciudad de la Ciencia y la Innovación de Lin-gang <entities/lin-gang>` (临港科创城 · Parque tecnológico · Nueva Área de Pudong · IA de hardware, Chips y semiconductores, IA de software) — El plan de enero de 2026 identifica los puertos de innovación de IA y circuitos integrados del lago Dishui, junto con objetivos de desarrollo por fases. Lin-gang es un área funcional especial, no el decimoséptimo distrito de Shanghái. Confirme la demarcación administrativa competente antes de solicitar incentivos. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:40
 msgid ""
@@ -335,7 +331,7 @@ msgid ""
 "services. A strong starting point for AI chip teams, with specific EDA, "
 "IP, tape-out, packaging and testing access negotiated with providers. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Parque Industrial de Diseño de Circuitos Integrados de Shanghái <entities/ic-design>` (上海集成电路设计产业园 · Parque tecnológico · Nueva Área de Pudong · Chips y semiconductores, IA de hardware) — Ecosistema de diseño de semiconductores en Zhangjiang que conecta el diseño electrónico con servicios industriales. Es un excelente punto de partida para equipos de chips de IA, negociándose con cada proveedor el acceso específico a herramientas EDA, IP, tape-out, empaquetado y pruebas. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Industrial de Diseño de Circuitos Integrados de Shanghái <entities/ic-design>` (上海集成电路设计产业园 · Parque tecnológico · Nueva Área de Pudong · Chips y semiconductores, IA de hardware) — Ecosistema de diseño de semiconductores en Zhangjiang que conecta el diseño electrónico con servicios industriales. Es un excelente punto de partida para equipos de chips de IA, negociándose con cada proveedor el acceso específico a herramientas EDA, IP, tape-out, empaquetado y pruebas. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:41
 msgid ""
@@ -346,7 +342,7 @@ msgid ""
 "Caohejing name covers multiple development locations. Address: 1015 "
 "Caobao Road, Shanghai | Tel: +86 21 64850000. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Zona de Desarrollo de Caohejing <entities/caohejing>` (漕河泾开发区 · Parque tecnológico · Distrito de Xuhui · IA de software, IA de hardware, Industria) — El operador del parque publica vías de servicio empresarial y de propiedad intelectual. Confirme el subparque específico y la dirección operativa; la denominación Caohejing abarca múltiples emplazamientos de desarrollo. Calle Caobao 1015, Shanghái | Tel: +86 21 64850000. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Zona de Desarrollo de Caohejing <entities/caohejing>` (漕河泾开发区 · Parque tecnológico · Distrito de Xuhui · IA de software, IA de hardware, Industria) — El operador del parque publica vías de servicio empresarial y de propiedad intelectual. Confirme el subparque específico y la dirección operativa; la denominación Caohejing abarca múltiples emplazamientos de desarrollo. Calle Caobao 1015, Shanghái | Tel: +86 21 64850000. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:42
 msgid ""
@@ -357,7 +353,7 @@ msgid ""
 "industry challenges and collaborative innovation; current admission, "
 "space and fees require an intake discussion. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Parque Nacional de Alta Tecnología de Zizhu / Incubadora ET Space <entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · Incubadora · Distrito de Minhang · IA de software, IA de hardware, Industria) — La incubadora propiedad del parque conecta a las startups con el ecosistema de software, aviónica y fabricación industrial. Su operador describe retos industriales y programas de innovación colaborativa; la admisión actual, el espacio y las tarifas requieren una entrevista previa de ingreso. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Nacional de Alta Tecnología de Zizhu / Incubadora ET Space <entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · Incubadora · Distrito de Minhang · IA de software, IA de hardware, Industria) — La incubadora propiedad del parque conecta a las startups con el ecosistema de software, aviónica y fabricación industrial. Su operador describe retos industriales y programas de innovación colaborativa; la admisión actual, el espacio y las tarifas requieren una entrevista previa de ingreso. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:43
 msgid ""
@@ -367,7 +363,7 @@ msgid ""
 "business-service hub in Hongqiao. The reported workstation offer depends "
 "on qualification and available space, not simply arrival at the transport "
 "hub. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro Internacional de Innovación Juvenil de Hongqiao <entities/hongqiao-youth>` (虹桥国际青年创业港 · Incubadora · Distrito de Minhang · IA de software, Industria) — Inaugurado en julio de 2026 como centro de innovación juvenil y servicios empresariales en Hongqiao. La oferta publicada de puestos de trabajo depende de la evaluación de requisitos y del espacio disponible, no del mero hecho de llegar al nudo de transportes. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro Internacional de Innovación Juvenil de Hongqiao <entities/hongqiao-youth>` (虹桥国际青年创业港 · Incubadora · Distrito de Minhang · IA de software, Industria) — Inaugurado en julio de 2026 como centro de innovación juvenil y servicios empresariales en Hongqiao. La oferta publicada de puestos de trabajo depende de la evaluación de requisitos y del espacio disponible, no del mero hecho de llegar al nudo de transportes. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:44
 msgid ""
@@ -378,7 +374,7 @@ msgid ""
 "talent support and global business resources. Confirm the current "
 "operator's selection and service terms. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Centro Internacional de Innovación Juvenil del Este de Hongqiao <entities/east-hongqiao>` (东虹桥国际青年科创中心 · Incubadora · Distrito de Changning · IA de software) — La crónica oficial de mayo de 2026 de Changning describe un centro para fundadores independientes impulsados por IA que combina incubación, servicios de IA, apoyo al talento y recursos comerciales globales. Confirme los criterios actuales de selección y las condiciones de servicio del operador. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro Internacional de Innovación Juvenil del Este de Hongqiao <entities/east-hongqiao>` (东虹桥国际青年科创中心 · Incubadora · Distrito de Changning · IA de software) — La crónica oficial de mayo de 2026 de Changning describe un centro para fundadores independientes impulsados por IA que combina incubación, servicios de IA, apoyo al talento y recursos comerciales globales. Confirme los criterios actuales de selección y las condiciones de servicio del operador. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:45
 msgid ""
@@ -390,7 +386,7 @@ msgid ""
 "Hi-Tech Park, Daning and Suhewan. Confirm the specific carrier operator, "
 "data-compliance services and tenancy terms. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Parque de Alta Tecnología de Shibei / Shutong Valley y Centros de Daning <entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · Parque tecnológico · Distrito de Jing'an · IA de software, Industria) — El plan de demostración de IA 2026-2028 de Jing'an y su programa distrital de centros articulan espacios de trabajo para macrodatos, blockchain (Shutong Valley), computación en la nube e IA empresarial entre el Parque de Alta Tecnología de Shibei, Daning y Suhewan. Confirme el operador específico, los servicios de cumplimiento de datos y las condiciones de arrendamiento. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque de Alta Tecnología de Shibei / Shutong Valley y Centros de Daning <entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · Parque tecnológico · Distrito de Jing'an · IA de software, Industria) — El plan de demostración de IA 2026-2028 de Jing'an y su programa distrital de centros articulan espacios de trabajo para macrodatos, blockchain (Shutong Valley), computación en la nube e IA empresarial entre el Parque de Alta Tecnología de Shibei, Daning y Suhewan. Confirme el operador específico, los servicios de cumplimiento de datos y las condiciones de arrendamiento. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:46
 msgid ""
@@ -401,7 +397,7 @@ msgid ""
 "laser systems and AI hardware components. Confirm optical lab equipment, "
 "engineering support and commercial terms before admission. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Incubadora Optoelectrónica Xihe Optic Valley <entities/xihe-optics>` (羲和光谷光电产业孵化器 · Incubadora · Distrito de Jiading · IA de hardware, Sensores, Chips y semiconductores) — Incubadora de optoelectrónica y fotónica inaugurada en Jiading en noviembre de 2025 para apoyar a equipos fundados por científicos en detección óptica, sistemas láser y componentes de hardware de IA. Confirme el equipamiento de laboratorio óptico, el soporte de ingeniería y las condiciones comerciales antes de la admisión. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Incubadora Optoelectrónica Xihe Optic Valley <entities/xihe-optics>` (羲和光谷光电产业孵化器 · Incubadora · Distrito de Jiading · IA de hardware, Sensores, Chips y semiconductores) — Incubadora de optoelectrónica y fotónica inaugurada en Jiading en noviembre de 2025 para apoyar a equipos fundados por científicos en detección óptica, sistemas láser y componentes de hardware de IA. Confirme el equipamiento de laboratorio óptico, el soporte de ingeniería y las condiciones comerciales antes de la admisión. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:47
 msgid ""
@@ -412,7 +408,7 @@ msgid ""
 "infrastructure and linked compute, model and corpus vouchers. Confirm "
 "whether the company's registered and operating address falls inside the "
 "designated town boundary. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Ciudad de Innovación en IA de Zhangjiang (Zhangjiang AI Innovation Town) <entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · Parque tecnológico · Nueva Área de Pudong · IA de software, IA de hardware, IA para la Ciencia) — Zona nuclear de 2 kilómetros cuadrados en la Ciudad Científica de Zhangjiang con 700.000 metros cuadrados de espacio industrial, infraestructura digital espaciotemporal y bonos asociados de cómputo, modelos y corpus. Confirme si tanto el domicilio registrado como el operativo de la empresa se encuentran dentro del perímetro designado. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Ciudad de Innovación en IA de Zhangjiang (Zhangjiang AI Innovation Town) <entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · Parque tecnológico · Nueva Área de Pudong · IA de software, IA de hardware, IA para la Ciencia) — Zona nuclear de 2 kilómetros cuadrados en la Ciudad Científica de Zhangjiang con 700.000 metros cuadrados de espacio industrial, infraestructura digital espaciotemporal y bonos asociados de cómputo, modelos y corpus. Confirme si tanto el domicilio registrado como el operativo de la empresa se encuentran dentro del perímetro designado. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:48
 msgid ""
@@ -423,7 +419,7 @@ msgid ""
 "shared laboratories and pilot manufacturing. Confirm biosafety level, "
 "cleanroom specs and admission terms. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`Base de Innovación en Medicamentos Génicos Life Messenger del Oriental Beauty Valley <entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · Incubadora · Distrito de Fengxian · Salud y biomedicina, IA para la Ciencia) — Inaugurada en abril de 2025 en Fengxian para conectar la I+D de fármacos génicos y de ácidos nucleicos, el diseño molecular asistido por IA, los laboratorios compartidos y la fabricación piloto. Confirme el nivel de bioseguridad, las especificaciones de sala blanca y las condiciones de admisión. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Base de Innovación en Medicamentos Génicos Life Messenger del Oriental Beauty Valley <entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · Incubadora · Distrito de Fengxian · Salud y biomedicina, IA para la Ciencia) — Inaugurada en abril de 2025 en Fengxian para conectar la I+D de fármacos génicos y de ácidos nucleicos, el diseño molecular asistido por IA, los laboratorios compartidos y la fabricación piloto. Confirme el nivel de bioseguridad, las especificaciones de sala blanca y las condiciones de admisión. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:49
 msgid ""
@@ -433,7 +429,7 @@ msgid ""
 "public entrepreneurship training, prototyping and incubation base in "
 "Yangpu linking founder skills training, product trial spaces and startup "
 "service agencies. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Base Pública de Prácticas para Emprendedores de China (Shanghái) <entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Incubadora · Distrito de Yangpu · IA de software, IA de hardware, Industria) — Base pública de formación emprendedora, creación de prototipos e incubación en Yangpu, respaldada por el departamento municipal de Recursos Humanos y Seguridad Social (HRSS), que enlaza capacitación de fundadores, espacios de ensayo de productos y agencias de servicios para startups. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Base Pública de Prácticas para Emprendedores de China (Shanghái) <entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Incubadora · Distrito de Yangpu · IA de software, IA de hardware, Industria) — Base pública de formación emprendedora, creación de prototipos e incubación en Yangpu, respaldada por el departamento municipal de Recursos Humanos y Seguridad Social (HRSS), que enlaza capacitación de fundadores, espacios de ensayo de productos y agencias de servicios para startups. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:50
 msgid ""
@@ -444,7 +440,7 @@ msgid ""
 "seven universities in Songjiang University Town with technology-transfer "
 "platforms and incubation operators. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`Fuente de Innovación Científico-Tecnológica de la Ciudad Universitaria de Songjiang <entities/songjiang-uni-source>` (松江大学城科创源 · Incubadora · Distrito de Songjiang · IA de software, IA de hardware, Materiales) — Iniciativa del distrito de Songjiang respaldada por una convocatoria de fondo especial de septiembre de 2026 para conectar las siete universidades de la Ciudad Universitaria de Songjiang con plataformas de transferencia tecnológica y operadores de incubación. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Fuente de Innovación Científico-Tecnológica de la Ciudad Universitaria de Songjiang <entities/songjiang-uni-source>` (松江大学城科创源 · Incubadora · Distrito de Songjiang · IA de software, IA de hardware, Materiales) — Iniciativa del distrito de Songjiang respaldada por una convocatoria de fondo especial de septiembre de 2026 para conectar las siete universidades de la Ciudad Universitaria de Songjiang con plataformas de transferencia tecnológica y operadores de incubación. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:51
 msgid ""
@@ -454,7 +450,7 @@ msgid ""
 "industry clustering direction with the HRSS \"Entrepreneurship Companion "
 "Plan\" mentor and service network for early-stage digital and financial "
 "technology founders. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Concentración Fintech y Plan de Acompañamiento al Emprendimiento de Huangpu <entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · Aceleradora · Distrito de Huangpu · IA de software, Consumo) — Combina la orientación quinquenal de agrupación de la industria fintech de Huangpu con la red de mentores y servicios del «Plan de Acompañamiento al Emprendimiento» de HRSS para fundadores en etapa temprana de tecnología digital y financiera. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Concentración Fintech y Plan de Acompañamiento al Emprendimiento de Huangpu <entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · Aceleradora · Distrito de Huangpu · IA de software, Consumo) — Combina la orientación quinquenal de agrupación de la industria fintech de Huangpu con la red de mentores y servicios del «Plan de Acompañamiento al Emprendimiento» de HRSS para fundadores en etapa temprana de tecnología digital y financiera. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:52
 msgid ""
@@ -464,7 +460,7 @@ msgid ""
 "center and postdoctoral innovation practice base route supporting tech "
 "SMEs, green-shipping digital tools and R&D talent settlement in Hongkou. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Emprendimiento Científico y Tecnológico de Hongkou y Base de Innovación Posdoctoral <entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · Incubadora · Distrito de Hongkou · IA de software, Industria, Clima y sostenibilidad) — Centro público distrital de emprendimiento y base de práctica de innovación posdoctoral que apoya a pymes tecnológicas, herramientas digitales de transporte marítimo verde y el asentamiento de talento de I+D en Hongkou. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Emprendimiento Científico y Tecnológico de Hongkou y Base de Innovación Posdoctoral <entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · Incubadora · Distrito de Hongkou · IA de software, Industria, Clima y sostenibilidad) — Centro público distrital de emprendimiento y base de práctica de innovación posdoctoral que apoya a pymes tecnológicas, herramientas digitales de transporte marítimo verde y el asentamiento de talento de I+D en Hongkou. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:53
 msgid ""
@@ -477,7 +473,7 @@ msgid ""
 "offer. Ask the operator about affiliation, IP, company formation and "
 "current external-team access. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`Shanghai Innovation Institute / red de emprendimiento de IA de Beiyang <entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · Incubadora · Distrito de Xuhui · IA de software, IA de hardware, IA para la Ciencia) — SII y Caohejing gestionan conjuntamente el Chuangzhi Future Center para emprendedores de IA surgidos de la investigación. La aceleradora de Beiyang facilita después conexiones comerciales y con la cadena de suministro. La incubación vinculada al instituto no implica admisión abierta a todos. Confirmar requisitos de vinculación, propiedad intelectual, constitución y acceso de equipos externos. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Shanghai Innovation Institute / red de emprendimiento de IA de Beiyang <entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · Incubadora · Distrito de Xuhui · IA de software, IA de hardware, IA para la Ciencia) — SII y Caohejing gestionan conjuntamente el Chuangzhi Future Center para emprendedores de IA surgidos de la investigación. La aceleradora de Beiyang facilita después conexiones comerciales y con la cadena de suministro. La incubación vinculada al instituto no implica admisión abierta a todos. Confirmar requisitos de vinculación, propiedad intelectual, constitución y acceso de equipos externos. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:54
 msgid ""
@@ -489,7 +485,7 @@ msgid ""
 "followed by two half-price years for qualifying projects. Housing, loans, "
 "vouchers and admission have separate conditions; confirm the current "
 "tenancy contract. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Comunidad OPC Zero Cube de Lin-gang <entities/zero-cube-opc>` (临港零界魔方OPC社区 · Incubadora · Nueva Área de Pudong · IA de software, IA de hardware, Industria) — Comunidad de Lin-gang Group para emprendedores individuales y equipos pequeños, con servicios de emprendimiento, vida diaria y acceso a recursos de AI-Store. El informe de agosto de 2026 describe tres años de oficina sin alquiler y dos años posteriores a mitad de precio para proyectos elegibles. Vivienda, préstamos, bonos y admisión tienen condiciones distintas; revisar el contrato vigente. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Comunidad OPC Zero Cube de Lin-gang <entities/zero-cube-opc>` (临港零界魔方OPC社区 · Incubadora · Nueva Área de Pudong · IA de software, IA de hardware, Industria) — Comunidad de Lin-gang Group para emprendedores individuales y equipos pequeños, con servicios de emprendimiento, vida diaria y acceso a recursos de AI-Store. El informe de agosto de 2026 describe tres años de oficina sin alquiler y dos años posteriores a mitad de precio para proyectos elegibles. Vivienda, préstamos, bonos y admisión tienen condiciones distintas; revisar el contrato vigente. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../incubation.rst:55
 msgid ""
@@ -503,4 +499,4 @@ msgid ""
 "incorporated foreign-invested entity is required, then confirm admission, "
 "IP, laboratory access and fees. No standard grant or foreign-founder "
 "entitlement is established. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Innovación Biomédica del Parque Científico Fudan en Waigaoqiao <entities/waigaoqiao-fudan>` (外高桥复旦科技园生物医药创新中心 · Incubadora · Nueva Área de Pudong · Salud y biomedicina, IA para la Ciencia) — Fudan Science Park gestiona este centro de incubación y transferencia biomédica en Jiafeng Road 8, Waigaoqiao. Los equipos de descubrimiento de fármacos con IA pueden explorar alianzas de laboratorio y transferencia; es una orientación editorial, no una convocatoria específica de IA verificada. Las empresas extranjeras deben confirmar si necesitan constituir una entidad local con inversión extranjera, y consultar admisión, propiedad intelectual, acceso y tarifas. No se acredita una subvención general ni elegibilidad automática por ser extranjero. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Innovación Biomédica del Parque Científico Fudan en Waigaoqiao <entities/waigaoqiao-fudan>` (外高桥复旦科技园生物医药创新中心 · Incubadora · Nueva Área de Pudong · Salud y biomedicina, IA para la Ciencia) — Fudan Science Park gestiona este centro de incubación y transferencia biomédica en Jiafeng Road 8, Waigaoqiao. Los equipos de descubrimiento de fármacos con IA pueden explorar alianzas de laboratorio y transferencia; es una orientación editorial, no una convocatoria específica de IA verificada. Las empresas extranjeras deben confirmar si necesitan constituir una entidad local con inversión extranjera, y consultar admisión, propiedad intelectual, acceso y tarifas. No se acredita una subvención general ni elegibilidad automática por ser extranjero. [Entidad verificada; admisión actual por confirmar]"

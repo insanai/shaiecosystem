@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -26,14 +26,9 @@ msgstr "Reembolso de gastos | Nueva Área de Pudong"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:6
 msgid "Quarterly scheme published; current intake to confirm"
-msgstr "Esquema trimestral publicado; confirmar lote actual"
+msgstr "Solicitudes trimestrales previstas; confirmar convocatoria actual"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:8
-
-#| msgid ""
-#| "`Evidence S110 "
-#| "<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
-#| "浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
 msgid ""
 "`Evidence S113 "
 "<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "

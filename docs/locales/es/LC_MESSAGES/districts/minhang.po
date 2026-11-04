@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -33,11 +33,6 @@ msgid ""
 msgstr "La política de innovación empresarial está vigente del 1 de septiembre de 2025 al 31 de agosto de 2030. Las nuevas empresas de transferencia tecnológica pueden optar a hasta 500.000 RMB anuales, con un tope de 1,5 millones de RMB en tres años y el 50 % de la inversión elegible."
 
 #: ../../districts/minhang.rst:8
-
-#| msgid ""
-#| "`Evidence S098 "
-#| "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
-#| "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 msgid ""
 "`Evidence S101 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
@@ -116,7 +111,7 @@ msgid ""
 "projects with incubation. SJTU documents the Zero Kilometer launch and "
 "its AI, integrated-circuit, manufacturing and low-carbon participants. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Grand neoBay / Incubadora Kilómetro Cero </entities/neobay>` (大零号湾／零公里孵化器 · Incubadora · IA de hardware, IA de software) — Vía de comercialización vinculada al ámbito universitario que conecta proyectos tecnológicos en etapa temprana con recursos de incubación. La universidad SJTU documenta el lanzamiento de Kilómetro Cero y sus participantes en IA, circuitos integrados, fabricación y bajas emisiones de carbono. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Grand neoBay / Incubadora Kilómetro Cero </entities/neobay>` (大零号湾／零公里孵化器 · Incubadora · IA de hardware, IA de software) — Vía de comercialización vinculada al ámbito universitario que conecta proyectos tecnológicos en etapa temprana con recursos de incubación. La universidad SJTU documenta el lanzamiento de Kilómetro Cero y sus participantes en IA, circuitos integrados, fabricación y bajas emisiones de carbono. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/minhang.rst:38
 msgid ""
@@ -126,7 +121,7 @@ msgid ""
 "include electrodes, neural interfaces, sensing, rehabilitation and "
 "translational engineering; wet-lab and device requirements need explicit "
 "confirmation. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Incubadora de Interfaces Cerebro-Computadora Synlonx </entities/synlonx>` (司南脑机智能孵化器 · Incubadora · IA de hardware, Salud y biomedicina) — Plataforma de incubación de interfaces cerebro-computadora inaugurada en Huacao. Las líneas de diálogo abarcan electrodos, interfaces neuronales, sensores, rehabilitación e ingeniería traslacional; los requisitos de laboratorio húmedo y dispositivos médicos exigen confirmación explícita. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Incubadora de Interfaces Cerebro-Computadora Synlonx </entities/synlonx>` (司南脑机智能孵化器 · Incubadora · IA de hardware, Salud y biomedicina) — Plataforma de incubación de interfaces cerebro-computadora inaugurada en Huacao. Las líneas de diálogo abarcan electrodos, interfaces neuronales, sensores, rehabilitación e ingeniería traslacional; los requisitos de laboratorio húmedo y dispositivos médicos exigen confirmación explícita. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/minhang.rst:39
 msgid ""
@@ -135,7 +130,7 @@ msgid ""
 "plan links Grand neoBay R&D with Maqiao manufacturing. A useful pathway "
 "from a robot prototype to supply-chain and production conversations. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Zona de Innovación en IA de Maqiao </entities/maqiao>` (马桥人工智能创新试验区 · Parque tecnológico · IA de hardware, Robótica) — El plan de parques 2025-2026 de Minhang enlaza la I+D de Grand neoBay con la capacidad manufacturera de Maqiao. Constituye una ruta práctica para llevar un prototipo robótico hacia conversaciones sobre cadena de suministro y producción en serie. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Zona de Innovación en IA de Maqiao </entities/maqiao>` (马桥人工智能创新试验区 · Parque tecnológico · IA de hardware, Robótica) — El plan de parques 2025-2026 de Minhang enlaza la I+D de Grand neoBay con la capacidad manufacturera de Maqiao. Constituye una ruta práctica para llevar un prototipo robótico hacia conversaciones sobre cadena de suministro y producción en serie. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/minhang.rst:40
 msgid ""
@@ -145,7 +140,7 @@ msgid ""
 "and manufacturing ecosystem. Its operator describes industry challenges "
 "and collaborative innovation; current admission, space and fees require "
 "an intake discussion. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Parque Nacional de Alta Tecnología de Zizhu / Incubadora ET Space </entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · Incubadora · IA de software, IA de hardware, Industria) — La incubadora propiedad del parque conecta a las startups con el ecosistema de software, aviónica y fabricación industrial. Su operador describe retos industriales y programas de innovación colaborativa; la admisión actual, el espacio y las tarifas requieren una entrevista previa de ingreso. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Nacional de Alta Tecnología de Zizhu / Incubadora ET Space </entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · Incubadora · IA de software, IA de hardware, Industria) — La incubadora propiedad del parque conecta a las startups con el ecosistema de software, aviónica y fabricación industrial. Su operador describe retos industriales y programas de innovación colaborativa; la admisión actual, el espacio y las tarifas requieren una entrevista previa de ingreso. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/minhang.rst:41
 msgid ""
@@ -155,7 +150,7 @@ msgid ""
 "business-service hub in Hongqiao. The reported workstation offer depends "
 "on qualification and available space, not simply arrival at the transport "
 "hub. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro Internacional de Innovación Juvenil de Hongqiao </entities/hongqiao-youth>` (虹桥国际青年创业港 · Incubadora · IA de software, Industria) — Inaugurado en julio de 2026 como centro de innovación juvenil y servicios empresariales en Hongqiao. La oferta publicada de puestos de trabajo depende de la evaluación de requisitos y del espacio disponible, no del mero hecho de llegar al nudo de transportes. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro Internacional de Innovación Juvenil de Hongqiao </entities/hongqiao-youth>` (虹桥国际青年创业港 · Incubadora · IA de software, Industria) — Inaugurado en julio de 2026 como centro de innovación juvenil y servicios empresariales en Hongqiao. La oferta publicada de puestos de trabajo depende de la evaluación de requisitos y del espacio disponible, no del mero hecho de llegar al nudo de transportes. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/minhang.rst:42
 msgid ""
@@ -165,7 +160,7 @@ msgid ""
 "engineering, medical AI. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Jiao Tong de Shanghái </entities/university-sjtu>` (上海交通大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Robótica, chips, ingeniería, IA médica. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Jiao Tong de Shanghái </entities/university-sjtu>` (上海交通大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Robótica, chips, ingeniería, IA médica. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/minhang.rst:44
 msgid "Funding routes"
@@ -178,7 +173,7 @@ msgid ""
 "conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; "
 "up to 50% of investment. Status: Policy in force; call not confirmed "
 "open. Timing: Policy: 1 Sep 2025 to 31 Aug 2030."
-msgstr ":doc:`Apoyo a la comercialización de resultados de investigación de Minhang </funding/minhang-conversion>` (闵行科技成果转化支持 · Subvención a fondo perdido · Sin cesión de participaciones) — Nueva empresa de transferencia tecnológica: hasta 500.000 RMB/año; tope de 1,5 millones de RMB en tres años; hasta el 50 % de la inversión. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Vigencia de la política: del 1 de septiembre de 2025 al 31 de agosto de 2030."
+msgstr ":doc:`Apoyo a la comercialización de resultados de investigación de Minhang </funding/minhang-conversion>` (闵行科技成果转化支持 · Subvención a fondo perdido · Sin cesión de participaciones) — Nueva empresa de transferencia tecnológica: hasta 500.000 RMB/año; tope de 1,5 millones de RMB en tres años; hasta el 50 % de la inversión. Estado: Política vigente; no se ha confirmado una convocatoria abierta. Plazo: Vigencia de la política: del 1 de septiembre de 2025 al 31 de agosto de 2030."
 
 #: ../../districts/minhang.rst:48
 msgid ""
@@ -186,7 +181,7 @@ msgid ""
 "(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
 "R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
 "confirmed open. Timing: Policy through 31 Aug 2030."
-msgstr ":doc:`Proyectos de I+D en tecnologías clave de Minhang </funding/minhang-rd>` (闵行关键核心技术攻关 · Subvención a fondo perdido · Sin cesión de participaciones) — Proyectos generales: hasta 3 millones de RMB y hasta el 30 % de la I+D; proyectos estratégicos: hasta 10 millones de RMB y hasta el 50 %. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Política vigente hasta el 31 de agosto de 2030."
+msgstr ":doc:`Proyectos de I+D en tecnologías clave de Minhang </funding/minhang-rd>` (闵行关键核心技术攻关 · Subvención a fondo perdido · Sin cesión de participaciones) — Proyectos generales: hasta 3 millones de RMB y hasta el 30 % de la I+D; proyectos estratégicos: hasta 10 millones de RMB y hasta el 50 %. Estado: Política vigente; no se ha confirmado una convocatoria abierta. Plazo: Política vigente hasta el 31 de agosto de 2030."
 
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"

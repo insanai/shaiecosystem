@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -33,11 +33,6 @@ msgid ""
 msgstr "El Valle de Innovación Científico-Tecnológica G60 publica iniciativas de innovación y conexión de recursos. Distinguimos el corredor de nueve ciudades de los requisitos de elegibilidad distrital de Shanghái: contar con un socio en otra ciudad del corredor no otorga derecho a las ayudas de Songjiang."
 
 #: ../../districts/songjiang.rst:8
-
-#| msgid ""
-#| "`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. "
-#| "G60 unveils comprehensive support plan to fuel innovation valley | "
-#| "Songjiang."
 msgid ""
 "`Evidence S104 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
@@ -115,7 +110,7 @@ msgid ""
 "For an AI infrastructure team, establish compatibility requirements, lab "
 "access and real customer demand before choosing space. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Parque Industrial Xinchuang G60 de Songjiang </entities/g60-xinchuang>` (G60松江信创产业园 · Parque tecnológico · IA de software, Chips y semiconductores) — Parque industrial con perfil oficial dedicado a la innovación nacional en tecnologías de la información (Xinchuang). Para un equipo de infraestructura de IA, conviene verificar los requisitos de compatibilidad técnica, el acceso a laboratorios y la demanda real de clientes antes de elegir espacio. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Industrial Xinchuang G60 de Songjiang </entities/g60-xinchuang>` (G60松江信创产业园 · Parque tecnológico · IA de software, Chips y semiconductores) — Parque industrial con perfil oficial dedicado a la innovación nacional en tecnologías de la información (Xinchuang). Para un equipo de infraestructura de IA, conviene verificar los requisitos de compatibilidad técnica, el acceso a laboratorios y la demanda real de clientes antes de elegir espacio. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/songjiang.rst:38
 msgid ""
@@ -125,7 +120,7 @@ msgid ""
 "September 2026 special-fund notice to link the seven universities in "
 "Songjiang University Town with technology-transfer platforms and "
 "incubation operators. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Fuente de Innovación Científico-Tecnológica de la Ciudad Universitaria de Songjiang </entities/songjiang-uni-source>` (松江大学城科创源 · Incubadora · IA de software, IA de hardware, Materiales) — Iniciativa del distrito de Songjiang respaldada por una convocatoria de fondo especial de septiembre de 2026 para conectar las siete universidades de la Ciudad Universitaria de Songjiang con plataformas de transferencia tecnológica y operadores de incubación. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Fuente de Innovación Científico-Tecnológica de la Ciudad Universitaria de Songjiang </entities/songjiang-uni-source>` (松江大学城科创源 · Incubadora · IA de software, IA de hardware, Materiales) — Iniciativa del distrito de Songjiang respaldada por una convocatoria de fondo especial de septiembre de 2026 para conectar las siete universidades de la Ciudad Universitaria de Songjiang con plataformas de transferencia tecnológica y operadores de incubación. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/songjiang.rst:39
 msgid ""
@@ -135,7 +130,7 @@ msgid ""
 "design, smart textiles. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Donghua </entities/university-donghua>` (东华大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Fibras avanzadas, materiales, diseño, textiles inteligentes. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Donghua </entities/university-donghua>` (东华大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Fibras avanzadas, materiales, diseño, textiles inteligentes. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/songjiang.rst:40
 msgid ""
@@ -145,7 +140,7 @@ msgid ""
 "collaboration themes: Trade, commerce, cross-border business. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Negocios Internacionales y Economía de Shanghái </entities/university-suibe>` (上海对外经贸大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Comercio exterior, distribución comercial, negocios transfronterizos. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Negocios Internacionales y Economía de Shanghái </entities/university-suibe>` (上海对外经贸大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Comercio exterior, distribución comercial, negocios transfronterizos. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/songjiang.rst:41
 msgid ""
@@ -155,7 +150,7 @@ msgid ""
 "themes: IP, data governance, legal technology. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Ciencias Políticas y Derecho del Este de China </entities/university-ecupl>` (华东政法大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Propiedad intelectual, gobernanza de datos, tecnología jurídica (legaltech). Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Ciencias Políticas y Derecho del Este de China </entities/university-ecupl>` (华东政法大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Propiedad intelectual, gobernanza de datos, tecnología jurídica (legaltech). Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/songjiang.rst:42
 msgid ""
@@ -165,7 +160,7 @@ msgid ""
 "collaboration themes: Engineering, mobility, manufacturing, design. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Ciencias de la Ingeniería de Shanghái (SUES) </entities/university-sues>` (上海工程技术大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ingeniería, movilidad, fabricación, diseño. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Ciencias de la Ingeniería de Shanghái (SUES) </entities/university-sues>` (上海工程技术大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ingeniería, movilidad, fabricación, diseño. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/songjiang.rst:43
 msgid ""
@@ -175,7 +170,7 @@ msgid ""
 "creative technology. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Lida de Shanghái </entities/university-lida>` (上海立达学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Negocios aplicados, diseño y tecnología creativa. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Lida de Shanghái </entities/university-lida>` (上海立达学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Negocios aplicados, diseño y tecnología creativa. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/songjiang.rst:44
 msgid ""
@@ -185,7 +180,7 @@ msgid ""
 "content and creative technology. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Instituto de Artes Visuales de Shanghái </entities/university-siva>` (上海视觉艺术学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Diseño, contenidos digitales y tecnología creativa. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Instituto de Artes Visuales de Shanghái </entities/university-siva>` (上海视觉艺术学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Diseño, contenidos digitales y tecnología creativa. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/songjiang.rst:46
 msgid "Funding routes"
@@ -199,7 +194,7 @@ msgid ""
 "innovation projects matched 1:1 under the policy. Status: Policy in "
 "force; call not confirmed open. Timing: Policy: 1 January 2026 to 31 "
 "December 2027; confirm the applicable call."
-msgstr ":doc:`Apoyo a la innovación y cofinanciación para empresas tecnológicas de Songjiang </funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Subvención a fondo perdido · Sin cesión de participaciones) — Proyecto de innovación distrital de hasta 100.000 RMB; proyectos municipales de innovación aprobados cofinanciados en proporción 1:1 según la política. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Vigencia de la política: del 1 de enero de 2026 al 31 de diciembre de 2027; confirmar la convocatoria aplicable."
+msgstr ":doc:`Apoyo a la innovación y cofinanciación para empresas tecnológicas de Songjiang </funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Subvención a fondo perdido · Sin cesión de participaciones) — Proyecto de innovación distrital de hasta 100.000 RMB; proyectos municipales de innovación aprobados cofinanciados en proporción 1:1 según la política. Estado: Política vigente; no se ha confirmado una convocatoria abierta. Plazo: Vigencia de la política: del 1 de enero de 2026 al 31 de diciembre de 2027; confirmar la convocatoria aplicable."
 
 #: ../../districts/songjiang.rst:50
 msgid ""

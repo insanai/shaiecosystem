@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -29,11 +29,6 @@ msgid "Fund announced; deal intake to confirm"
 msgstr "Fondo anunciado; recepción de proyectos por confirmar"
 
 #: ../../funding/jiading-future-fund.rst:8
-
-#| msgid ""
-#| "`Evidence S126 "
-#| "<https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading "
-#| "launches 800m-yuan future industry fund."
 msgid ""
 "`Evidence S129 "
 "<https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading "
@@ -52,7 +47,7 @@ msgstr "Escala anunciada del fondo de 800 millones de RMB; importe de inversión
 
 #: ../../funding/jiading-future-fund.rst:15
 msgid "Negotiated equity"
-msgstr "Participación en capital negociada"
+msgstr "Participación negociada"
 
 #: ../../funding/jiading-future-fund.rst:17
 msgid "Eligibility and timing"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -32,11 +32,6 @@ msgid ""
 msgstr "La convocatoria de aplicaciones de IA de 2026 cerró el 31 de agosto de 2026. La vía publicada cubre gastos elegibles de 2025 en modelos y agentes; se excluye la doble financiación pública."
 
 #: ../../districts/pudong.rst:8
-
-#| msgid ""
-#| "`Evidence S096 "
-#| "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
-#| "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 msgid ""
 "`Evidence S099 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
@@ -113,7 +108,7 @@ msgid ""
 "developers and industry users. Ask the operator for the specific model, "
 "data and compute package and its reimbursement rules. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Comunidad de Modelos de Zhangjiang (Zhangjiang Model Community) </entities/model-community>` (张江模力社区 · Incubadora · IA de software, IA de hardware) — Comunidad de IA en Zhangjiang identificada en el plan municipal de implementación de IA. Conecta a desarrolladores de modelos con usuarios industriales. Consulte al operador sobre el paquete específico de modelos, datos y cómputo, así como sus reglas de reembolso. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Comunidad de Modelos de Zhangjiang (Zhangjiang Model Community) </entities/model-community>` (张江模力社区 · Incubadora · IA de software, IA de hardware) — Comunidad de IA en Zhangjiang identificada en el plan municipal de implementación de IA. Conecta a desarrolladores de modelos con usuarios industriales. Consulte al operador sobre el paquete específico de modelos, datos y cómputo, así como sus reglas de reembolso. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:38
 msgid ""
@@ -122,7 +117,7 @@ msgid ""
 "chip-testing and industrialization context in Zhangjiang. Incubation and "
 "the associated angel investment pathway must be reviewed as different "
 "agreements. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Incubadora Zhangjiang Hi-Tech 895 </entities/895>` (张江高科895孵化器 · Incubadora · IA de hardware, Chips y semiconductores) — Incubadora de tecnología profunda (deep-tech) con ecosistema de pruebas de chips e industrialización en Zhangjiang. La incubación y la vía asociada de inversión ángel deben revisarse como contratos independientes. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Incubadora Zhangjiang Hi-Tech 895 </entities/895>` (张江高科895孵化器 · Incubadora · IA de hardware, Chips y semiconductores) — Incubadora de tecnología profunda (deep-tech) con ecosistema de pruebas de chips e industrialización en Zhangjiang. La incubación y la vía asociada de inversión ángel deben revisarse como contratos independientes. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:39
 msgid ""
@@ -132,7 +127,7 @@ msgid ""
 "innovation seed-fund relationships are relevant to AI-enabled biology; "
 "access and investment are negotiated separately. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Centro ATLATL Zhangjiang </entities/atlatl>` (ATLATL飞镖张江中心 · Incubadora · Salud y biomedicina, IA para la Ciencia) — Entorno compartido de investigación e incubación en el Valle Farmacéutico de Zhangjiang. Sus servicios de laboratorio y sus vínculos con fondos semilla de innovación resultan relevantes para la biología asistida por IA; el acceso a las instalaciones y la inversión se negocian por separado. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro ATLATL Zhangjiang </entities/atlatl>` (ATLATL飞镖张江中心 · Incubadora · Salud y biomedicina, IA para la Ciencia) — Entorno compartido de investigación e incubación en el Valle Farmacéutico de Zhangjiang. Sus servicios de laboratorio y sus vínculos con fondos semilla de innovación resultan relevantes para la biología asistida por IA; el acceso a las instalaciones y la inversión se negocian por separado. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:40
 msgid ""
@@ -142,7 +137,7 @@ msgid ""
 "and cell and gene therapy interests. Confirm current Shanghai facilities, "
 "admission and laboratory pricing with the operator. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Plataforma de Innovación Nest.Bio Shanghái </entities/nestbio>` (巢生上海创新孵化平台 · Incubadora · Salud y biomedicina, IA para la Ciencia) — Reconocida en la ampliación de incubadoras de alta calidad de diciembre de 2025, con foco en biología sintética y terapias celulares y génicas. Confirme con el operador las instalaciones actuales en Shanghái, los requisitos de admisión y las tarifas de laboratorio. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Plataforma de Innovación Nest.Bio Shanghái </entities/nestbio>` (巢生上海创新孵化平台 · Incubadora · Salud y biomedicina, IA para la Ciencia) — Reconocida en la ampliación de incubadoras de alta calidad de diciembre de 2025, con foco en biología sintética y terapias celulares y génicas. Confirme con el operador las instalaciones actuales en Shanghái, los requisitos de admisión y las tarifas de laboratorio. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:41
 msgid ""
@@ -151,7 +146,7 @@ msgid ""
 "corporate partnerships and pilots. Its Shanghai office is a useful intake "
 "route for international teams. Scope, fees, deliverables and investment "
 "should be stated separately. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`XNode Shanghái (Aceleradora Transfronteriza) </entities/xnode>` (创极无限XNode · Aceleradora · IA de software, Industria) — Operador de innovación transfronteriza que apoya la entrada al mercado, las alianzas corporativas y los proyectos piloto. Su oficina de Shanghái es una vía de entrada útil para equipos internacionales. El alcance, los honorarios, los entregables y la inversión deben establecerse por separado. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`XNode Shanghái (Aceleradora Transfronteriza) </entities/xnode>` (创极无限XNode · Aceleradora · IA de software, Industria) — Operador de innovación transfronteriza que apoya la entrada al mercado, las alianzas corporativas y los proyectos piloto. Su oficina de Shanghái es una vía de entrada útil para equipos internacionales. El alcance, los honorarios, los entregables y la inversión deben establecerse por separado. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:42
 msgid ""
@@ -161,7 +156,7 @@ msgid ""
 "Corporate innovation, office space and venture investment have different "
 "admission and commercial terms. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`Plug and Play China, Centro de Shanghái </entities/plugplay>` (璞跃中国上海中心 · Aceleradora · IA de software, IA de hardware, Movilidad) — El operador sitúa su centro de innovación para el delta del río Yangtsé en el Centro Guochuang de Zhangjiang. La innovación corporativa, el alquiler de oficinas y la inversión de capital riesgo tienen requisitos de admisión y condiciones comerciales diferenciados. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Plug and Play China, Centro de Shanghái </entities/plugplay>` (璞跃中国上海中心 · Aceleradora · IA de software, IA de hardware, Movilidad) — El operador sitúa su centro de innovación para el delta del río Yangtsé en el Centro Guochuang de Zhangjiang. La innovación corporativa, el alquiler de oficinas y la inversión de capital riesgo tienen requisitos de admisión y condiciones comerciales diferenciados. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:43
 msgid ""
@@ -171,7 +166,7 @@ msgid ""
 "Zhangjiang. The evidence establishes the initiative; a currently "
 "accepting cohort and its commercial terms require confirmation. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Aceleradora de Salud Digital PwC x Zhangjiang </entities/pwc>` (普华永道张江数字医疗加速营 · Aceleradora · Salud y biomedicina, IA de software) — PwC describe una iniciativa de aceleración en salud digital respaldada por Pudong y Zhangjiang. La documentación acredita la existencia de la iniciativa; la apertura de una cohorte en curso y sus términos comerciales requieren confirmación directa. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Aceleradora de Salud Digital PwC x Zhangjiang </entities/pwc>` (普华永道张江数字医疗加速营 · Aceleradora · Salud y biomedicina, IA de software) — PwC describe una iniciativa de aceleración en salud digital respaldada por Pudong y Zhangjiang. La documentación acredita la existencia de la iniciativa; la apertura de una cohorte en curso y sus términos comerciales requieren confirmación directa. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:44
 msgid ""
@@ -181,7 +176,7 @@ msgid ""
 "development targets. Lin-gang is a functional area, not Shanghai's "
 "seventeenth district. Establish the administering boundary before seeking "
 "incentives. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Ciudad de la Ciencia y la Innovación de Lin-gang </entities/lin-gang>` (临港科创城 · Parque tecnológico · IA de hardware, Chips y semiconductores, IA de software) — El plan de enero de 2026 identifica los puertos de innovación de IA y circuitos integrados del lago Dishui, junto con objetivos de desarrollo por fases. Lin-gang es un área funcional especial, no el decimoséptimo distrito de Shanghái. Confirme la demarcación administrativa competente antes de solicitar incentivos. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Ciudad de la Ciencia y la Innovación de Lin-gang </entities/lin-gang>` (临港科创城 · Parque tecnológico · IA de hardware, Chips y semiconductores, IA de software) — El plan de enero de 2026 identifica los puertos de innovación de IA y circuitos integrados del lago Dishui, junto con objetivos de desarrollo por fases. Lin-gang es un área funcional especial, no el decimoséptimo distrito de Shanghái. Confirme la demarcación administrativa competente antes de solicitar incentivos. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:45
 msgid ""
@@ -191,7 +186,7 @@ msgid ""
 "starting point for AI chip teams, with specific EDA, IP, tape-out, "
 "packaging and testing access negotiated with providers. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Parque Industrial de Diseño de Circuitos Integrados de Shanghái </entities/ic-design>` (上海集成电路设计产业园 · Parque tecnológico · Chips y semiconductores, IA de hardware) — Ecosistema de diseño de semiconductores en Zhangjiang que conecta el diseño electrónico con servicios industriales. Es un excelente punto de partida para equipos de chips de IA, negociándose con cada proveedor el acceso específico a herramientas EDA, IP, tape-out, empaquetado y pruebas. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Parque Industrial de Diseño de Circuitos Integrados de Shanghái </entities/ic-design>` (上海集成电路设计产业园 · Parque tecnológico · Chips y semiconductores, IA de hardware) — Ecosistema de diseño de semiconductores en Zhangjiang que conecta el diseño electrónico con servicios industriales. Es un excelente punto de partida para equipos de chips de IA, negociándose con cada proveedor el acceso específico a herramientas EDA, IP, tape-out, empaquetado y pruebas. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:46
 msgid ""
@@ -201,7 +196,7 @@ msgid ""
 "innovation-voucher guidance. Eligible voucher-covered services are "
 "selected on the official platform; a voucher is not a general equipment "
 "purchase budget. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Promoción Tecnológica e Industrial de Circuitos Integrados de Shanghái (ICC) </entities/icc>` (上海集成电路技术与产业促进中心 · Plataforma de investigación · Chips y semiconductores, IA de hardware) — Punto de entrada para servicios técnicos de semiconductores que también publica directrices sobre bonos de innovación. Los servicios elegibles cubiertos por bonos se seleccionan en la plataforma oficial; un bono no constituye un presupuesto general para la compra de equipos. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Promoción Tecnológica e Industrial de Circuitos Integrados de Shanghái (ICC) </entities/icc>` (上海集成电路技术与产业促进中心 · Plataforma de investigación · Chips y semiconductores, IA de hardware) — Punto de entrada para servicios técnicos de semiconductores que también publica directrices sobre bonos de innovación. Los servicios elegibles cubiertos por bonos se seleccionan en la plataforma oficial; un bono no constituye un presupuesto general para la compra de equipos. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:47
 msgid ""
@@ -211,7 +206,7 @@ msgid ""
 "systems. The published office contact is in Zhangjiang. A technical "
 "proposal should identify the platform, experiment, data and proposed "
 "industrial partner. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro Científico de Sistemas Autónomos Inteligentes No Tripulados de la Universidad de Tongji </entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Plataforma de investigación · IA de hardware, Movilidad) — Vía de colaboración científica en sistemas autónomos. El contacto de oficina publicado se encuentra en Zhangjiang. Toda propuesta técnica debe especificar la plataforma, el experimento previsto, los datos y el socio industrial propuesto. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro Científico de Sistemas Autónomos Inteligentes No Tripulados de la Universidad de Tongji </entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Plataforma de investigación · IA de hardware, Movilidad) — Vía de colaboración científica en sistemas autónomos. El contacto de oficina publicado se encuentra en Zhangjiang. Toda propuesta técnica debe especificar la plataforma, el experimento previsto, los datos y el socio industrial propuesto. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:48
 msgid ""
@@ -221,7 +216,7 @@ msgid ""
 "AI-enabled discovery teams. Scientific fit, space, collaboration, funding "
 "and IP terms are distinct questions. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`Aceleradora de Innovación de Roche (Roche Accelerator) </entities/roche>` (罗氏加速器 · Programa de innovación corporativa · Salud y biomedicina, IA para la Ciencia) — Roche describe su aceleradora de innovación en Shanghái orientada al ecosistema chino. Relevante para equipos de salud y descubrimiento asistido por IA. El encaje científico, el espacio de laboratorio, la colaboración, la financiación y la propiedad intelectual son cuestiones diferenciadas. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Aceleradora de Innovación de Roche (Roche Accelerator) </entities/roche>` (罗氏加速器 · Programa de innovación corporativa · Salud y biomedicina, IA para la Ciencia) — Roche describe su aceleradora de innovación en Shanghái orientada al ecosistema chino. Relevante para equipos de salud y descubrimiento asistido por IA. El encaje científico, el espacio de laboratorio, la colaboración, la financiación y la propiedad intelectual son cuestiones diferenciadas. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:49
 msgid ""
@@ -230,7 +225,7 @@ msgid ""
 "equity-free intelligent-manufacturing accelerator. It is included as a "
 "historical corporate route; the source does not establish a 2026 Shanghai "
 "intake. [Status: Historical / confirm continuation]"
-msgstr ":doc:`Aceleradora SAP.iO Foundry Shanghái </entities/sapio>` (SAP.iO上海加速器 · Programa de innovación corporativa · IA de software, Industria) — El lanzamiento de 2021 describía una aceleradora de fabricación inteligente sin toma de capital (equity-free). Se incluye como referencia histórica de ruta corporativa; la fuente documental no acredita la apertura de una convocatoria en Shanghái para 2026. [Estado: Programa histórico; confirmar continuidad]"
+msgstr ":doc:`Aceleradora SAP.iO Foundry Shanghái </entities/sapio>` (SAP.iO上海加速器 · Programa de innovación corporativa · IA de software, Industria) — El lanzamiento de 2021 describía una aceleradora de fabricación inteligente sin toma de capital (equity-free). Se incluye como referencia histórica de ruta corporativa; la fuente documental no acredita la apertura de una convocatoria en Shanghái para 2026. [Estado: Programa anterior; confirmar si continúa]"
 
 #: ../../districts/pudong.rst:50
 msgid ""
@@ -240,7 +235,7 @@ msgid ""
 "Shanghai AI event is evidence of ecosystem activity, not an always-open "
 "startup accelerator cohort. Propose a measurable robotics use case. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Innovación abierta de ABB / Robótica en Shanghái </entities/abb>` (ABB开放创新／上海机器人生态 · Programa de innovación corporativa · IA de hardware, Robótica) — ABB publica vías de innovación abierta y colaboración con startups. Su evento de IA en Shanghái de mayo de 2025 demuestra actividad en el ecosistema, pero no implica una cohorte de aceleración permanentemente abierta. Proponga un caso de uso robótico medible. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Innovación abierta de ABB / Robótica en Shanghái </entities/abb>` (ABB开放创新／上海机器人生态 · Programa de innovación corporativa · IA de hardware, Robótica) — ABB publica vías de innovación abierta y colaboración con startups. Su evento de IA en Shanghái de mayo de 2025 demuestra actividad en el ecosistema, pero no implica una cohorte de aceleración permanentemente abierta. Proponga un caso de uso robótico medible. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:51
 msgid ""
@@ -250,7 +245,7 @@ msgid ""
 "robotics industry route and require direct confirmation of intake, pilot "
 "access, investment and hardware resources. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Aceleradora del Ecosistema DroidUp </entities/droidup>` (卓益得生态加速器 · Programa de innovación corporativa · IA de hardware, Robótica) — La crónica de diciembre de 2025 del Valle de la Robótica de Zhangjiang informa de la puesta en marcha de esta aceleradora. La incluimos como ruta del sector robótico y recomendamos confirmar directamente la admisión, el acceso a pilotos, la inversión y los recursos de hardware. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Aceleradora del Ecosistema DroidUp </entities/droidup>` (卓益得生态加速器 · Programa de innovación corporativa · IA de hardware, Robótica) — La crónica de diciembre de 2025 del Valle de la Robótica de Zhangjiang informa de la puesta en marcha de esta aceleradora. La incluimos como ruta del sector robótico y recomendamos confirmar directamente la admisión, el acceso a pilotos, la inversión y los recursos de hardware. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:52
 msgid ""
@@ -260,7 +255,7 @@ msgid ""
 "resources. Explore its technical services and developer events; confirm "
 "whether a specific training or compute offer carries fees. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Plataforma de Servicios Técnicos Públicos de IA de Shanghái (PaddlePaddle) </entities/paddle>` (上海人工智能公共技术服务平台 · Programa de innovación corporativa · IA de software) — La plataforma vinculada a PaddlePaddle publica recursos de formación y ecosistema de IA. Explore sus servicios técnicos y eventos para desarrolladores; confirme previamente si una oferta concreta de formación o cómputo conlleva tarifas. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Plataforma de Servicios Técnicos Públicos de IA de Shanghái (PaddlePaddle) </entities/paddle>` (上海人工智能公共技术服务平台 · Programa de innovación corporativa · IA de software) — La plataforma vinculada a PaddlePaddle publica recursos de formación y ecosistema de IA. Explore sus servicios técnicos y eventos para desarrolladores; confirme previamente si una oferta concreta de formación o cómputo conlleva tarifas. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:53
 msgid ""
@@ -269,7 +264,7 @@ msgid ""
 "RMB 2 billion and an initial RMB 500 million tranche. The figure is fund "
 "scale, not a per-startup cheque. Seek the manager through Pudong's "
 "official ecosystem route. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Fondo Semilla de IA de Pudong </entities/pudong-seed>` (浦东人工智能种子基金 · Inversor · IA de software, IA de hardware) — Anunciado en julio de 2025 con un tamaño objetivo de 2.000 millones de RMB y un tramo inicial de 500 millones de RMB. La cifra corresponde al volumen total del fondo, no al ticket por startup. Identifique a la gestora a través del canal oficial del ecosistema de Pudong. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Fondo Semilla de IA de Pudong </entities/pudong-seed>` (浦东人工智能种子基金 · Inversor · IA de software, IA de hardware) — Anunciado en julio de 2025 con un tamaño objetivo de 2.000 millones de RMB y un tramo inicial de 500 millones de RMB. La cifra corresponde al volumen total del fondo, no al ticket por startup. Identifique a la gestora a través del canal oficial del ecosistema de Pudong. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:54
 msgid ""
@@ -279,7 +274,7 @@ msgid ""
 "core components and edge chips. Confirm the current manager and "
 "investment mandate; no uniform cheque size or ownership percentage is "
 "established here. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Fondo de IA Corporeizada de Shanghái </entities/embodied-fund>` (上海具身智能基金 · Inversor · IA de hardware, Robótica, Sensores) — Vía de inversión con respaldo estatal en inteligencia corporeizada anunciada en abril de 2025, que abarca componentes clave y chips para el borde (edge chips). Confirme la gestora actual y su mandato de inversión; no se establece aquí un importe único de ticket ni un porcentaje estándar de participación. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Fondo de IA Corporeizada de Shanghái </entities/embodied-fund>` (上海具身智能基金 · Inversor · IA de hardware, Robótica, Sensores) — Vía de inversión con respaldo estatal en inteligencia corporeizada anunciada en abril de 2025, que abarca componentes clave y chips para el borde (edge chips). Confirme la gestora actual y su mandato de inversión; no se establece aquí un importe único de ticket ni un porcentaje estándar de participación. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:55
 msgid ""
@@ -288,7 +283,7 @@ msgid ""
 "a published Shanghai office. Send a concise investment case and confirm "
 "sector and stage fit. The general contact inbox is not a guarantee of an "
 "investment review. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Qiming Venture Partners (Oficina de Shanghái) </entities/qiming>` (启明创投 · Inversor · IA de software, Salud y biomedicina, IA de hardware) — Vía de contacto de capital riesgo con oficina publicada en Shanghái. Envíe una propuesta de inversión concisa y confirme el encaje por sector y etapa. El buzón general de contacto no garantiza una evaluación formal de inversión. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Qiming Venture Partners (Oficina de Shanghái) </entities/qiming>` (启明创投 · Inversor · IA de software, Salud y biomedicina, IA de hardware) — Vía de contacto de capital riesgo con oficina publicada en Shanghái. Envíe una propuesta de inversión concisa y confirme el encaje por sector y etapa. El buzón general de contacto no garantiza una evaluación formal de inversión. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:56
 msgid ""
@@ -299,7 +294,7 @@ msgid ""
 "compute, model and corpus vouchers. Confirm whether the company's "
 "registered and operating address falls inside the designated town "
 "boundary. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Ciudad de Innovación en IA de Zhangjiang (Zhangjiang AI Innovation Town) </entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · Parque tecnológico · IA de software, IA de hardware, IA para la Ciencia) — Zona nuclear de 2 kilómetros cuadrados en la Ciudad Científica de Zhangjiang con 700.000 metros cuadrados de espacio industrial, infraestructura digital espaciotemporal y bonos asociados de cómputo, modelos y corpus. Confirme si tanto el domicilio registrado como el operativo de la empresa se encuentran dentro del perímetro designado. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Ciudad de Innovación en IA de Zhangjiang (Zhangjiang AI Innovation Town) </entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · Parque tecnológico · IA de software, IA de hardware, IA para la Ciencia) — Zona nuclear de 2 kilómetros cuadrados en la Ciudad Científica de Zhangjiang con 700.000 metros cuadrados de espacio industrial, infraestructura digital espaciotemporal y bonos asociados de cómputo, modelos y corpus. Confirme si tanto el domicilio registrado como el operativo de la empresa se encuentran dentro del perímetro designado. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:57
 msgid ""
@@ -309,7 +304,7 @@ msgid ""
 "supporting process development, device verification and IP testing. "
 "Request a technical scoping review and written quotation for wafer or "
 "testing runs. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Investigación y Desarrollo de Circuitos Integrados de Shanghái (ICRD) </entities/icrd>` (上海集成电路研发中心 · Plataforma de investigación · Chips y semiconductores, IA de hardware) — Plataforma compartida de investigación e ingeniería en circuitos integrados situada en Zhangjiang que respalda el desarrollo de procesos, la verificación de dispositivos y el ensayo de IP. Solicite una evaluación del alcance técnico y un presupuesto por escrito para lotes de obleas o pruebas. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Investigación y Desarrollo de Circuitos Integrados de Shanghái (ICRD) </entities/icrd>` (上海集成电路研发中心 · Plataforma de investigación · Chips y semiconductores, IA de hardware) — Plataforma compartida de investigación e ingeniería en circuitos integrados situada en Zhangjiang que respalda el desarrollo de procesos, la verificación de dispositivos y el ensayo de IP. Solicite una evaluación del alcance técnico y un presupuesto por escrito para lotes de obleas o pruebas. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:58
 msgid ""
@@ -319,7 +314,7 @@ msgid ""
 "clarify scientific fit, laboratory requirements, residency pricing, IP "
 "and any separate challenge or investment terms. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`JLABS Shanghái (Johnson & Johnson Innovation) </entities/jlabs>` (强生创新JLABS上海 · Programa de innovación corporativa · Salud y biomedicina, IA para la Ciencia) — Centro de incubación en ciencias de la vida listado por el operador en Zhangjiang con vía de solicitud abierta. Para proyectos de salud asistidos por IA, aclare el encaje científico, los requisitos de laboratorio, las tarifas de residencia, la propiedad intelectual y cualesquiera términos independientes de retos o inversión. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`JLABS Shanghái (Johnson & Johnson Innovation) </entities/jlabs>` (强生创新JLABS上海 · Programa de innovación corporativa · Salud y biomedicina, IA para la Ciencia) — Centro de incubación en ciencias de la vida listado por el operador en Zhangjiang con vía de solicitud abierta. Para proyectos de salud asistidos por IA, aclare el encaje científico, los requisitos de laboratorio, las tarifas de residencia, la propiedad intelectual y cualesquiera términos independientes de retos o inversión. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:59
 msgid ""
@@ -329,7 +324,7 @@ msgid ""
 "teams in SH-INNO Park. Confirm available residency and collaboration "
 "terms; the historic capacity is not a current vacancy count. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Bayer Co.Lab Shanghái </entities/bayer>` (拜耳Co.Lab上海 · Programa de innovación corporativa · Salud y biomedicina, IA para la Ciencia) — La presentación de septiembre de 2024 de la sede de Bayer en Shanghái describe laboratorios compartidos y espacio de oficinas para equipos biotecnológicos en etapa temprana dentro de SH-INNO Park. Confirme la disponibilidad actual de residencia y las condiciones de colaboración; la capacidad histórica no equivale a vacantes en tiempo real. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Bayer Co.Lab Shanghái </entities/bayer>` (拜耳Co.Lab上海 · Programa de innovación corporativa · Salud y biomedicina, IA para la Ciencia) — La presentación de septiembre de 2024 de la sede de Bayer en Shanghái describe laboratorios compartidos y espacio de oficinas para equipos biotecnológicos en etapa temprana dentro de SH-INNO Park. Confirme la disponibilidad actual de residencia y las condiciones de colaboración; la capacidad histórica no equivale a vacantes en tiempo real. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:60
 msgid ""
@@ -341,7 +336,7 @@ msgid ""
 "industry-facing trial production, testing and scenario validation. Ask "
 "for compatibility, queue, sample ownership, safety responsibilities and a "
 "written service quotation. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro Nacional-Local de Innovación en Robots Humanoides / planta piloto </entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · Plataforma de investigación · IA de hardware, Robótica, Sensores) — El centro conecta la recogida de datos, el entrenamiento y la validación física de robots con una plataforma piloto gestionada con Shanghai Electric. El anuncio de julio de 2026 describe servicios de fabricación de prueba, ensayos y validación de usos para el sector. Confirmar compatibilidad, plazos, propiedad de muestras, responsabilidades de seguridad y presupuesto escrito. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro Nacional-Local de Innovación en Robots Humanoides / planta piloto </entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · Plataforma de investigación · IA de hardware, Robótica, Sensores) — El centro conecta la recogida de datos, el entrenamiento y la validación física de robots con una plataforma piloto gestionada con Shanghai Electric. El anuncio de julio de 2026 describe servicios de fabricación de prueba, ensayos y validación de usos para el sector. Confirmar compatibilidad, plazos, propiedad de muestras, responsabilidades de seguridad y presupuesto escrito. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:61
 msgid ""
@@ -353,7 +348,7 @@ msgid ""
 "half-price years for qualifying projects. Housing, loans, vouchers and "
 "admission have separate conditions; confirm the current tenancy contract. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Comunidad OPC Zero Cube de Lin-gang </entities/zero-cube-opc>` (临港零界魔方OPC社区 · Incubadora · IA de software, IA de hardware, Industria) — Comunidad de Lin-gang Group para emprendedores individuales y equipos pequeños, con servicios de emprendimiento, vida diaria y acceso a recursos de AI-Store. El informe de agosto de 2026 describe tres años de oficina sin alquiler y dos años posteriores a mitad de precio para proyectos elegibles. Vivienda, préstamos, bonos y admisión tienen condiciones distintas; revisar el contrato vigente. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Comunidad OPC Zero Cube de Lin-gang </entities/zero-cube-opc>` (临港零界魔方OPC社区 · Incubadora · IA de software, IA de hardware, Industria) — Comunidad de Lin-gang Group para emprendedores individuales y equipos pequeños, con servicios de emprendimiento, vida diaria y acceso a recursos de AI-Store. El informe de agosto de 2026 describe tres años de oficina sin alquiler y dos años posteriores a mitad de precio para proyectos elegibles. Vivienda, préstamos, bonos y admisión tienen condiciones distintas; revisar el contrato vigente. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:62
 msgid ""
@@ -367,7 +362,7 @@ msgid ""
 "foreign-invested entity is required, then confirm admission, IP, "
 "laboratory access and fees. No standard grant or foreign-founder "
 "entitlement is established. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Innovación Biomédica del Parque Científico Fudan en Waigaoqiao </entities/waigaoqiao-fudan>` (外高桥复旦科技园生物医药创新中心 · Incubadora · Salud y biomedicina, IA para la Ciencia) — Fudan Science Park gestiona este centro de incubación y transferencia biomédica en Jiafeng Road 8, Waigaoqiao. Los equipos de descubrimiento de fármacos con IA pueden explorar alianzas de laboratorio y transferencia; es una orientación editorial, no una convocatoria específica de IA verificada. Las empresas extranjeras deben confirmar si necesitan constituir una entidad local con inversión extranjera, y consultar admisión, propiedad intelectual, acceso y tarifas. No se acredita una subvención general ni elegibilidad automática por ser extranjero. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Innovación Biomédica del Parque Científico Fudan en Waigaoqiao </entities/waigaoqiao-fudan>` (外高桥复旦科技园生物医药创新中心 · Incubadora · Salud y biomedicina, IA para la Ciencia) — Fudan Science Park gestiona este centro de incubación y transferencia biomédica en Jiafeng Road 8, Waigaoqiao. Los equipos de descubrimiento de fármacos con IA pueden explorar alianzas de laboratorio y transferencia; es una orientación editorial, no una convocatoria específica de IA verificada. Las empresas extranjeras deben confirmar si necesitan constituir una entidad local con inversión extranjera, y consultar admisión, propiedad intelectual, acceso y tarifas. No se acredita una subvención general ni elegibilidad automática por ser extranjero. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:63
 msgid ""
@@ -382,7 +377,7 @@ msgid ""
 "entity, customs boundary, sector permissions and data handling before "
 "incurring costs. This is a service and collaboration route; the plan is "
 "not a cash-award offer. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Servicios de I+D en régimen aduanero e innovación sanitaria con IA de Waigaoqiao </entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · Plataforma de investigación · IA para la Ciencia, Salud y biomedicina, IA de hardware, Robótica) — El plan 2025–2026 apoya expresamente el descubrimiento de fármacos con IA, la I+D transfronteriza de dispositivos médicos, equipos avanzados y centros de I+D con inversión extranjera. Empresas extranjeras de IA y hardware pueden explorar investigación, ensayos y transferencia locales mediante la autoridad. Confirmar operador, entidad jurídica, perímetro aduanero, permisos sectoriales y tratamiento de datos antes de gastar. Es una vía de servicios y colaboración, no una promesa de efectivo. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Servicios de I+D en régimen aduanero e innovación sanitaria con IA de Waigaoqiao </entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · Plataforma de investigación · IA para la Ciencia, Salud y biomedicina, IA de hardware, Robótica) — El plan 2025–2026 apoya expresamente el descubrimiento de fármacos con IA, la I+D transfronteriza de dispositivos médicos, equipos avanzados y centros de I+D con inversión extranjera. Empresas extranjeras de IA y hardware pueden explorar investigación, ensayos y transferencia locales mediante la autoridad. Confirmar operador, entidad jurídica, perímetro aduanero, permisos sectoriales y tratamiento de datos antes de gastar. Es una vía de servicios y colaboración, no una promesa de efectivo. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:64
 msgid ""
@@ -392,7 +387,7 @@ msgid ""
 "autonomous maritime systems. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Marítima de Shanghái </entities/university-maritime>` (上海海事大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Transporte marítimo, logística, sistemas marítimos autónomos. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Marítima de Shanghái </entities/university-maritime>` (上海海事大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Transporte marítimo, logística, sistemas marítimos autónomos. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:65
 msgid ""
@@ -403,7 +398,7 @@ msgid ""
 "industrial control. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Energía Eléctrica de Shanghái </entities/university-electric-power>` (上海电力大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Sistemas energéticos, inteligencia de red eléctrica, control industrial. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Energía Eléctrica de Shanghái </entities/university-electric-power>` (上海电力大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Sistemas energéticos, inteligencia de red eléctrica, control industrial. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:66
 msgid ""
@@ -414,7 +409,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Universidad de Medicina y Ciencias de la Salud de Shanghái </entities/university-sumhs>` (上海健康医学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Dispositivos sanitarios, diagnóstico, aplicaciones clínicas. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Medicina y Ciencias de la Salud de Shanghái </entities/university-sumhs>` (上海健康医学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Dispositivos sanitarios, diagnóstico, aplicaciones clínicas. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:67
 msgid ""
@@ -424,7 +419,7 @@ msgid ""
 "smart agriculture. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Oceánica de Shanghái </entities/university-ocean>` (上海海洋大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ciencias marinas, acuicultura, agricultura inteligente. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Oceánica de Shanghái </entities/university-ocean>` (上海海洋大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ciencias marinas, acuicultura, agricultura inteligente. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:68
 msgid ""
@@ -434,7 +429,7 @@ msgid ""
 "themes: Healthcare, drug discovery, medical data. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Medicina Tradicional China de Shanghái </entities/university-tcm>` (上海中医药大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Salud, descubrimiento de fármacos, datos médicos. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Medicina Tradicional China de Shanghái </entities/university-tcm>` (上海中医药大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Salud, descubrimiento de fármacos, datos médicos. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:69
 msgid ""
@@ -444,7 +439,7 @@ msgid ""
 "processes, compliance systems. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Aduanas de Shanghái </entities/university-customs>` (上海海关学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Aduanas, procesos de comercio internacional, sistemas de cumplimiento normativo. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Aduanas de Shanghái </entities/university-customs>` (上海海关学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Aduanas, procesos de comercio internacional, sistemas de cumplimiento normativo. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:70
 msgid ""
@@ -454,7 +449,7 @@ msgid ""
 "external project access unverified. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Academia de Policía de Shanghái </entities/university-police>` (上海公安学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Formación en seguridad pública; acceso a proyectos externos no verificado. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Academia de Policía de Shanghái </entities/university-police>` (上海公安学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Formación en seguridad pública; acceso a proyectos externos no verificado. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:71
 msgid ""
@@ -465,7 +460,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Universidad Lixin de Contabilidad y Finanzas de Shanghái </entities/university-lixin>` (上海立信会计金融学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Sistemas contables, fintech, analítica empresarial. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Lixin de Contabilidad y Finanzas de Shanghái </entities/university-lixin>` (上海立信会计金融学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Sistemas contables, fintech, analítica empresarial. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:72
 msgid ""
@@ -475,7 +470,7 @@ msgid ""
 "manufacturing. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad DianJi de Shanghái </entities/university-dianji>` (上海电机学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Equipamiento eléctrico, fabricación avanzada. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad DianJi de Shanghái </entities/university-dianji>` (上海电机学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Equipamiento eléctrico, fabricación avanzada. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:73
 msgid ""
@@ -485,7 +480,7 @@ msgid ""
 "talent partnerships. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Sanda de Shanghái </entities/university-sanda>` (上海杉达学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Negocios digitales aplicados y alianzas de talento. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Sanda de Shanghái </entities/university-sanda>` (上海杉达学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Negocios digitales aplicados y alianzas de talento. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:74
 msgid ""
@@ -495,7 +490,7 @@ msgid ""
 "engineering, electronics, manufacturing. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Politécnica de Shanghái </entities/university-polytechnic>` (上海第二工业大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ingeniería aplicada, electrónica, fabricación. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Politécnica de Shanghái </entities/university-polytechnic>` (上海第二工业大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ingeniería aplicada, electrónica, fabricación. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:75
 msgid ""
@@ -505,7 +500,7 @@ msgid ""
 "digital media, business. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Jian Qiao de Shanghái </entities/university-jianqiao>` (上海建桥学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ingeniería aplicada, medios digitales, administración de empresas. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Jian Qiao de Shanghái </entities/university-jianqiao>` (上海建桥学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ingeniería aplicada, medios digitales, administración de empresas. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:76
 msgid ""
@@ -515,7 +510,7 @@ msgid ""
 "entrepreneurship conversations. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Instituto Universitario Xing Wei de Shanghái </entities/university-xingwei>` (上海兴伟学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Educación interdisciplinaria y diálogos sobre emprendimiento. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Instituto Universitario Xing Wei de Shanghái </entities/university-xingwei>` (上海兴伟学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Educación interdisciplinaria y diálogos sobre emprendimiento. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:77
 msgid ""
@@ -525,7 +520,7 @@ msgid ""
 "scientific instruments, biotech. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad ShanghaiTech </entities/university-shanghaitech>` (上海科技大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Chips, IA de software, instrumentación científica, biotecnología. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad ShanghaiTech </entities/university-shanghaitech>` (上海科技大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Chips, IA de software, instrumentación científica, biotecnología. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:78
 msgid ""
@@ -535,7 +530,7 @@ msgid ""
 "international research. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Nueva York en Shanghái (NYU Shanghai) </entities/university-nyu>` (上海纽约大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ciencia de datos, computación e investigación internacional. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Nueva York en Shanghái (NYU Shanghai) </entities/university-nyu>` (上海纽约大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ciencia de datos, computación e investigación internacional. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/pudong.rst:80
 msgid "Funding routes"
@@ -556,7 +551,7 @@ msgid ""
 "investment · Negotiated equity) — Fund target RMB 2bn; first tranche RMB "
 "500m; individual cheque not established. Status: Fund announced; deal "
 "intake to confirm. Timing: Manager-led sourcing and due diligence."
-msgstr ":doc:`Fondo Semilla de IA de Pudong (Inversión en capital) </funding/pudong-equity>` (浦东人工智能种子基金 · Inversión en capital (Equity) · Participación en capital negociada) — Tamaño objetivo del fondo de 2.000 millones de RMB; primer tramo de 500 millones de RMB; importe por empresa no preestablecido. Estado: Fondo anunciado; recepción de proyectos por confirmar. Plazo: Selección de proyectos y due diligence lideradas por la gestora."
+msgstr ":doc:`Fondo Semilla de IA de Pudong (Inversión en capital) </funding/pudong-equity>` (浦东人工智能种子基金 · Inversión en capital (Equity) · Participación negociada) — Tamaño objetivo del fondo de 2.000 millones de RMB; primer tramo de 500 millones de RMB; importe por empresa no preestablecido. Estado: Fondo anunciado; recepción de proyectos por confirmar. Plazo: Selección de proyectos y due diligence lideradas por la gestora."
 
 #: ../../districts/pudong.rst:85
 msgid ""
@@ -565,7 +560,7 @@ msgid ""
 "No equity) — Up to 100% of approved actual cost, capped at RMB 1m in each "
 "category; at most one year. Status: Quarterly scheme published; current "
 "intake to confirm. Timing: Quarterly claims; confirm the current batch."
-msgstr ":doc:`Apoyo en bonos de cómputo, modelos y corpus de la Ciudad de Innovación en IA de Zhangjiang </funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Reembolso de gastos · Sin cesión de participaciones) — Hasta el 100 % del coste real aprobado, con un tope de 1 millón de RMB en cada categoría; máximo durante un año por empresa. Estado: Esquema trimestral publicado; confirmar lote actual. Plazo: Solicitudes trimestrales; confirmar el lote en curso."
+msgstr ":doc:`Apoyo en bonos de cómputo, modelos y corpus de la Ciudad de Innovación en IA de Zhangjiang </funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Reembolso de gastos · Sin cesión de participaciones) — Hasta el 100 % del coste real aprobado, con un tope de 1 millón de RMB en cada categoría; máximo durante un año por empresa. Estado: Solicitudes trimestrales previstas; confirmar convocatoria actual. Plazo: Solicitudes trimestrales; confirmar el lote en curso."
 
 #: ../../districts/pudong.rst:86
 msgid ""
@@ -575,7 +570,7 @@ msgid ""
 "rent-free, then 2 years at half rent; separate housing and service terms. "
 "Status: Published service; current terms to confirm. Timing: Confirm "
 "current community admission and tenancy terms."
-msgstr ":doc:`Apoyo condicionado al alquiler de Zero Cube en Lin-gang </funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · Servicios y apoyo en especie · Sin exigencia de capital declarada; verificar contrato) — Oficinas elegibles: 3 años sin alquiler y después 2 a mitad de precio; vivienda y servicios tienen condiciones aparte. Estado: Servicio publicado; condiciones vigentes por confirmar. Plazo: Confirmar admisión y condiciones de alquiler vigentes."
+msgstr ":doc:`Apoyo condicionado al alquiler de Zero Cube en Lin-gang </funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · Servicios y apoyo en especie · Sin cesión de participaciones declarada; revisar contrato) — Oficinas elegibles: 3 años sin alquiler y después 2 a mitad de precio; vivienda y servicios tienen condiciones aparte. Estado: Servicio publicado; condiciones vigentes por confirmar. Plazo: Confirmar admisión y condiciones de alquiler vigentes."
 
 #: ../../districts/pudong.rst:87
 msgid ""
@@ -585,7 +580,7 @@ msgid ""
 "service costs; applicable caps and conditions require the implementing "
 "notice. Status: Published policy; implementing intake to confirm. Timing: "
 "Confirm current implementing notice and intake."
-msgstr ":doc:`Apoyo de Lin-gang al coste de servicios de herramientas de IA para OPC </funding/lingang-ai-tools>` (临港OPC人工智能工具服务费用支持 · Reembolso de gastos · Sin cesión de capital para ayudas públicas elegibles) — Hasta el 80 % de los costes elegibles de servicios de herramientas de IA; límites y condiciones según la norma de ejecución. Estado: Política publicada; admisión de ejecución por confirmar. Plazo: Confirmar las normas de ejecución y la convocatoria vigentes."
+msgstr ":doc:`Apoyo de Lin-gang al coste de servicios de herramientas de IA para OPC </funding/lingang-ai-tools>` (临港OPC人工智能工具服务费用支持 · Reembolso de gastos · Sin cesión de participaciones para ayudas públicas que cumplan los requisitos) — Hasta el 80 % de los costes elegibles de servicios de herramientas de IA; límites y condiciones según la norma de ejecución. Estado: Política publicada; confirmar desarrollo y plazo de solicitud. Plazo: Confirmar las normas de ejecución y la convocatoria vigentes."
 
 #: ../../districts/pudong.rst:88
 msgid ""
@@ -595,7 +590,7 @@ msgid ""
 "qualifying AI-tool development and listing on major international "
 "open-source platforms. Status: Published policy; implementing intake to "
 "confirm. Timing: Confirm current implementing notice and intake."
-msgstr ":doc:`Incentivo de Lin-gang al desarrollo de herramientas de IA de código abierto para OPC </funding/lingang-open-source-ai>` (临港OPC开源AI工具开发奖励 · Subvención a fondo perdido · Sin cesión de capital para ayudas públicas elegibles) — Incentivo anual de hasta 1 millón de RMB por desarrollo elegible de herramientas de IA y publicación en grandes plataformas internacionales de código abierto. Estado: Política publicada; admisión de ejecución por confirmar. Plazo: Confirmar las normas de ejecución y la convocatoria vigentes."
+msgstr ":doc:`Incentivo de Lin-gang al desarrollo de herramientas de IA de código abierto para OPC </funding/lingang-open-source-ai>` (临港OPC开源AI工具开发奖励 · Subvención a fondo perdido · Sin cesión de participaciones para ayudas públicas que cumplan los requisitos) — Incentivo anual de hasta 1 millón de RMB por desarrollo elegible de herramientas de IA y publicación en grandes plataformas internacionales de código abierto. Estado: Política publicada; confirmar desarrollo y plazo de solicitud. Plazo: Confirmar las normas de ejecución y la convocatoria vigentes."
 
 #: ../../districts/pudong.rst:89
 msgid ""
@@ -606,7 +601,7 @@ msgid ""
 "ceiling established. Status: Published policy; implementing intake to "
 "confirm. Timing: Policy through 31 December 2027; confirm the "
 "implementing call."
-msgstr ":doc:`Apoyo de Pudong a la I+D con inversión extranjera y la innovación abierta </funding/pudong-foreign-rd>` (浦东外资研发与开放创新支持 · Subvención / acceso al mercado · Sin cesión de capital para ayudas públicas elegibles) — Apoyo condicionado a centros de I+D según las normas de acreditación y financiación; sin un límite de efectivo universal verificado. Estado: Política publicada; admisión de ejecución por confirmar. Plazo: Normativa hasta el 31 de diciembre de 2027; confirmar la convocatoria de ejecución."
+msgstr ":doc:`Apoyo de Pudong a la I+D con inversión extranjera y la innovación abierta </funding/pudong-foreign-rd>` (浦东外资研发与开放创新支持 · Subvención / acceso al mercado · Sin cesión de participaciones para ayudas públicas que cumplan los requisitos) — Apoyo condicionado a centros de I+D según las normas de acreditación y financiación; sin un límite de efectivo universal verificado. Estado: Política publicada; confirmar desarrollo y plazo de solicitud. Plazo: Normativa hasta el 31 de diciembre de 2027; confirmar la convocatoria de ejecución."
 
 #: ../../districts/pudong.rst:91
 msgid ":doc:`Also compare citywide funding </funding>`"

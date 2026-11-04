@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: ../../apply.rst:1
 msgid "From introduction to application"
-msgstr "De la presentación inicial a la solicitud formal"
+msgstr "Del primer contacto a la solicitud"
 
 #: ../../apply.rst:4
 msgid ""
 "A useful application starts with a fit check and ends with an evidence "
 "trail. We keep one company data room, then adapt it to an incubation "
 "review, a public funding call, a corporate pilot or an investment process."
-msgstr "Una solicitud eficaz comienza con una verificación de encaje y culmina con un rastro documental verificable. Mantenemos un único cuarto de datos (data room) de la empresa y lo adaptamos para una evaluación de incubación, una convocatoria pública de financiación, un piloto corporativo o un proceso de inversión."
+msgstr "Una buena solicitud empieza por comprobar que el proyecto cumple los requisitos. Mantenemos una carpeta común de documentación de la empresa y la adaptamos a la admisión en una incubadora, una ayuda pública, un proyecto piloto o una ronda de inversión. Cada paso debe quedar documentado."
 
 #: ../../apply.rst:7
 msgid ""
@@ -34,7 +34,7 @@ msgstr "Una solicitud clara distingue entre los requisitos de elegibilidad, las 
 
 #: ../../apply.rst:10
 msgid "The first conversation"
-msgstr "La primera conversación"
+msgstr "El primer contacto"
 
 #: ../../apply.rst:13
 msgid ""
@@ -57,7 +57,7 @@ msgstr "Asunto sugerido: Consulta ecosistema de Shanghái / nombre del proyecto 
 
 #: ../../apply.rst:17
 msgid "The shared data room"
-msgstr "El cuarto de datos compartido"
+msgstr "Preparar la documentación común"
 
 #: ../../apply.rst:20
 msgid ""
@@ -90,7 +90,7 @@ msgstr "Tecnología: nota técnica del producto, demostración, resultados de ev
 
 #: ../../apply.rst:26
 msgid "Four different decisions"
-msgstr "Cuatro decisiones distintas"
+msgstr "Cuatro procesos de decisión"
 
 #: ../../apply.rst:29
 msgid ""
@@ -120,7 +120,7 @@ msgstr "Piloto corporativo: responsable de negocio, definición del problema, ac
 
 #: ../../apply.rst:35
 msgid "An accelerator's four-week field program"
-msgstr "Programa de campo de cuatro semanas para aceleradoras"
+msgstr "Un plan de cuatro semanas sobre el terreno"
 
 #: ../../apply.rst:38
 msgid ""
@@ -142,12 +142,6 @@ msgid ""
 msgstr "Mantenemos un registro de seguimiento de solicitudes con el responsable interno, la autoridad competente, la versión de la política, el período de gasto elegible, la fecha límite en la hora estándar de China (CST), el acuse de recibo de presentación, las exclusiones por doble financiación, las obligaciones de información y el siguiente paso. Una alerta en el calendario solo resulta útil tras haber confirmado la fecha límite exacta y la zona horaria."
 
 #: ../../apply.rst:42
-
-#| msgid ""
-#| "`Evidence S138 "
-#| "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
-#| "Guide for foreign talent and team members (Category A/B) applying for "
-#| "a Foreigner's Work Permit during the startup phase_Latest."
 msgid ""
 "`Evidence S142 "
 "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "

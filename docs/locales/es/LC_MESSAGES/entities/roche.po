@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -53,7 +53,7 @@ msgstr "Estado y tipo de apoyo"
 
 #: ../../entities/roche.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "Entidad documentada; admisión pendiente de confirmar"
+msgstr "Entidad verificada; admisión actual por confirmar"
 
 #: ../../entities/roche.rst:19
 msgid ""
@@ -107,7 +107,7 @@ msgstr "Presentar el resumen del producto, la evidencia de pilotos previos y los
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
-msgstr "Confirmar la disponibilidad de una cohorte abierta o acordar un piloto acotado, los derechos sobre los datos y los términos de propiedad intelectual."
+msgstr "Confirmar si el programa admite solicitudes o acordar un piloto acotado, los derechos sobre los datos y la propiedad intelectual."
 
 #: ../../entities/roche.rst:41
 msgid ""

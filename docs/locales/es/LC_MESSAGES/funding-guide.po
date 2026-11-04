@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: ../../funding-guide.rst:1
 msgid "Capital, with its conditions attached"
-msgstr "Capital, con sus condiciones adjuntas"
+msgstr "Financiación y condiciones de las ayudas"
 
 #: ../../funding-guide.rst:4
 msgid ""
 "We compare what a program pays for, when value arrives, what must be "
 "repaid and whether ownership changes. The label \"equity-free\" alone "
 "answers too little."
-msgstr "Comparamos qué financia exactamente un programa, cuándo se recibe el valor, qué debe reembolsarse y si cambia la estructura de propiedad de la empresa. La etiqueta «sin cesión de capital» (equity-free) por sí sola dice demasiado poco."
+msgstr "Comparamos qué gastos cubre cada programa, cuándo se reciben los fondos, si deben devolverse y si hay que ceder participaciones. La etiqueta «sin cesión de participaciones» no basta para entender todos los costes y obligaciones."
 
 #: ../../funding-guide.rst:7
 msgid "Match the resource need to the financing mechanism."
@@ -33,7 +33,7 @@ msgstr "Adecuar la necesidad de recursos al mecanismo de financiación correspon
 
 #: ../../funding-guide.rst:10
 msgid "Six mechanisms"
-msgstr "Seis mecanismos"
+msgstr "Seis formas de apoyo"
 
 #: ../../funding-guide.rst:13
 msgid ""
@@ -42,7 +42,7 @@ msgid ""
 "credit can offset only eligible services. A loan must be repaid. A tax "
 "benefit changes a tax calculation. Equity investment exchanges capital "
 "for ownership or related contractual rights."
-msgstr "Una subvención a fondo perdido (grant) es un apoyo público o filantrópico condicionado. Un reembolso abona gastos aprobados, a menudo después de haber incurrido en ellos. Un bono (voucher) o crédito solo permite compensar determinados servicios elegibles. Un préstamo exige devolución. Un incentivo fiscal modifica el cálculo de un impuesto. La inversión en capital (equity) intercambia financiación por participaciones sociales o derechos contractuales asociados."
+msgstr "Una subvención es una ayuda pública o filantrópica sujeta a condiciones. El reembolso cubre gastos admitidos, a menudo después de pagarlos. Los bonos o créditos solo pueden usarse para determinados servicios. Los préstamos deben devolverse. Los incentivos fiscales afectan al cálculo del impuesto. En una inversión en capital, se recibe financiación a cambio de participaciones o de derechos contractuales relacionados."
 
 #: ../../funding-guide.rst:15
 msgid ""
@@ -50,11 +50,11 @@ msgid ""
 "each with separate conditions. A subsidized desk is an in-kind benefit, "
 "not unrestricted cash. A government-backed fund is still an investment "
 "vehicle when it takes equity. An interest-free loan remains debt."
-msgstr "Un concurso puede combinar premios en metálico, servicios y presentaciones a inversores, cada uno sujeto a condiciones independientes. Un puesto de trabajo subvencionado es una prestación en especie, no efectivo de libre disposición. Un fondo respaldado por el gobierno sigue siendo un vehículo de inversión cuando toma participación en el capital. Un préstamo sin intereses sigue siendo deuda."
+msgstr "Un concurso puede combinar premios, servicios y contactos con inversores, cada uno con sus propias condiciones. Un puesto de trabajo subvencionado es una ayuda en especie, no dinero de libre disposición. Un fondo público sigue siendo un inversor si adquiere participaciones. Un préstamo sin intereses también debe devolverse."
 
 #: ../../funding-guide.rst:17
 msgid "Build a layered funding plan"
-msgstr "Diseñar un plan de financiación por capas"
+msgstr "Planificar la financiación por etapas"
 
 #: ../../funding-guide.rst:20
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "activity with public calls. For a prototype, prioritize real lab, compute "
 "or customer needs. For expansion, match the amount and timing to investor "
 "or bank criteria."
-msgstr "Antes de constituir la sociedad, verifique si los bonos de innovación para equipos, los fondos universitarios de prueba de concepto o las vías de competición aceptan al solicitante en su estado actual. Tras la constitución, compare el distrito y la actividad de la empresa con las convocatorias públicas. Para la fase de prototipo, priorice las necesidades reales de laboratorio, cómputo o validación con clientes. Para la expansión, ajuste el importe y los plazos a los criterios de inversores o entidades bancarias."
+msgstr "Antes de constituir la empresa, comprobamos si los bonos para equipos, las ayudas universitarias de prueba de concepto o los concursos admiten al solicitante. Después, contrastamos la ubicación y la actividad con las convocatorias. En la fase de prototipo, priorizamos laboratorio, capacidad de cálculo y validación con clientes. Para crecer, ajustamos el importe y el calendario a los criterios de inversores o bancos."
 
 #: ../../funding-guide.rst:22
 msgid ""
@@ -72,11 +72,11 @@ msgid ""
 "can exclude duplicated spending, restrict related suppliers, require "
 "local operations, demand matching funds or pay only after acceptance. A "
 "company needs working capital for costs that arrive before reimbursement."
-msgstr "Nunca sumamos los importes máximos anunciados por políticas solapadas como si fueran un total garantizado. Los programas pueden excluir gastos duplicados, restringir proveedores vinculados, exigir operaciones locales efectivas, demandar fondos de contrapartida o desembolsar únicamente tras la auditoría de aceptación. Toda empresa necesita capital circulante para afrontar los costes que se producen antes de recibir el reembolso."
+msgstr "No sumamos los máximos de políticas que se solapan como si fueran una ayuda total garantizada. Puede haber restricciones a la doble financiación y a los proveedores vinculados, requisitos de actividad local o aportación propia, y pagos solo tras la aceptación del proyecto. La empresa necesita capital circulante para cubrir el gasto hasta cobrar el reembolso."
 
 #: ../../funding-guide.rst:24
 msgid "Compare the real cost"
-msgstr "Comparar el coste real"
+msgstr "Comparar costes y obligaciones"
 
 #: ../../funding-guide.rst:27
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "valuation, ownership, liquidation preference, board rights, follow-on "
 "rights and exit terms. For debt, compare principal, interest, fees, "
 "guarantee or collateral, repayment schedule and default obligations."
-msgstr "En las ayudas públicas, compare el período de gasto elegible, la proporción de cofinanciación exigida, el coste de auditoría, el tratamiento fiscal, las obligaciones de seguimiento y las cláusulas de reintegro (clawback). En capital riesgo, compare la valoración, el porcentaje de participación, la preferencia de liquidación, los derechos en el consejo de administración, los derechos de acompañamiento (follow-on) y las condiciones de salida. En deuda, compare el principal, el tipo de interés, las comisiones, los avales o garantías reales, el calendario de amortización y las obligaciones en caso de impago."
+msgstr "En las ayudas públicas comparamos el período de gasto admitido, la cofinanciación, la auditoría, la fiscalidad, las obligaciones de información y el reintegro. En las inversiones en capital revisamos valoración, participación, preferencia de liquidación, puestos en el consejo, derechos de inversión en futuras rondas y condiciones de salida. En los préstamos comparamos principal, intereses, comisiones, avales o garantías, amortización y responsabilidad por impago."
 
 #: ../../funding-guide.rst:29
 msgid ""
@@ -93,4 +93,4 @@ msgid ""
 "existing credits and overage billing. China-region and global offers may "
 "use different operators and accounts. Free membership in a technology "
 "ecosystem does not guarantee hardware supply, credits or investment."
-msgstr "Para los créditos en la nube, verifique la región de la cuenta, los servicios cubiertos, la fecha de caducidad, la compatibilidad con créditos previos y la facturación por excesos de consumo. Las ofertas para la región de China y las ofertas globales pueden operar a través de entidades y cuentas distintas. La membresía gratuita en un ecosistema tecnológico no garantiza el suministro de hardware, la concesión de créditos ni la inversión."
+msgstr "En los créditos de servicios en la nube comprobamos la región de la cuenta, los servicios, la caducidad, los créditos existentes y los cargos por exceso de uso. Los programas para China y los globales pueden tener operadores y cuentas diferentes. Una membresía gratuita en una comunidad tecnológica no garantiza hardware, créditos ni inversión."

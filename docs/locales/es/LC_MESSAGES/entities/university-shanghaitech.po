@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -38,33 +38,20 @@ msgid ""
 "Suggested collaboration themes: Chips, software AI, scientific "
 "instruments, biotech. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding."
-msgstr "Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Chips, IA de software, instrumentación científica, biotecnología. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups."
+msgstr "Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Chips, IA de software, instrumentación científica, biotecnología. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups."
 
 #: ../../entities/university-shanghaitech.rst:12
-
-#| msgid ""
-#| "`Evidence S094 <https://ott.shanghaitech.edu.cn/zxdt/list2.htm>`_. "
-#| "技术转移办公室."
 msgid ""
 "`Evidence S097 <https://ott.shanghaitech.edu.cn/zxdt/list2.htm>`_. "
 "技术转移办公室."
 msgstr "`Evidencia S097 <https://ott.shanghaitech.edu.cn/zxdt/list2.htm>`_. 技术转移办公室."
 
 #: ../../entities/university-shanghaitech.rst:14
-
-#| msgid ""
-#| "`Evidence S095 <https://ott.shanghaitech.edu.cn/9078/list.htm>`_. "
-#| "技术转移办公室."
 msgid ""
 "`Evidence S098 <https://ott.shanghaitech.edu.cn/9078/list.htm>`_. 技术转移办公室."
 msgstr "`Evidencia S098 <https://ott.shanghaitech.edu.cn/9078/list.htm>`_. 技术转移办公室."
 
 #: ../../entities/university-shanghaitech.rst:16
-
-#| msgid ""
-#| "`Evidence S083 "
-#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
-#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
 "`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
@@ -77,7 +64,7 @@ msgstr "Estado y tipo de apoyo"
 
 #: ../../entities/university-shanghaitech.rst:21
 msgid "Published entity; intake to confirm"
-msgstr "Entidad documentada; admisión pendiente de confirmar"
+msgstr "Entidad verificada; admisión actual por confirmar"
 
 #: ../../entities/university-shanghaitech.rst:23
 msgid ""

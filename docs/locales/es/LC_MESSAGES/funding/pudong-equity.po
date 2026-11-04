@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -47,7 +47,7 @@ msgstr "Tamaño objetivo del fondo de 2.000 millones de RMB; primer tramo de 500
 
 #: ../../funding/pudong-equity.rst:15
 msgid "Negotiated equity"
-msgstr "Participación en capital negociada"
+msgstr "Participación negociada"
 
 #: ../../funding/pudong-equity.rst:17
 msgid "Eligibility and timing"

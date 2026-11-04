@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -56,7 +56,7 @@ msgstr "Programa publicado; sujeto a revisión de elegibilidad"
 
 #: ../../entities/nvidia.rst:19
 msgid "Funding mechanism: Equity-free services."
-msgstr "Mecanismo de financiación: Servicios sin cesión de capital."
+msgstr "Mecanismo de financiación: Servicios sin cesión de participaciones."
 
 #: ../../entities/nvidia.rst:21
 msgid "Contact and location"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -33,11 +33,6 @@ msgid ""
 msgstr "El plan 2025-2026 del Parque Zhangjiang Huangpu prioriza la tecnología financiera y los servicios de investigación clínica. Huangpu ChuangKa es una vía independiente de apoyo al emprendimiento juvenil; verifique los requisitos de elegibilidad y la disponibilidad actual de puestos de trabajo."
 
 #: ../../districts/huangpu.rst:8
-
-#| msgid ""
-#| "`Evidence S100 "
-#| "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
-#| "黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
 msgid ""
 "`Evidence S103 "
 "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
@@ -116,7 +111,7 @@ msgid ""
 "reported offer. Current capacity, applicant eligibility and additional "
 "subsidies must be checked separately. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Programa Huangpu ChuangKa </entities/huangpu-chuangka>` (黄浦创卡 · Incubadora · IA de software, Consumo) — Vía de servicio al emprendimiento juvenil descrita por el departamento de Recursos Humanos y Seguridad Social (HRSS) de Shanghái, cuya oferta publicada incluye hasta seis meses de puestos de trabajo gratuitos. La capacidad actual, la elegibilidad del solicitante y las subvenciones adicionales deben verificarse por separado. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Programa Huangpu ChuangKa </entities/huangpu-chuangka>` (黄浦创卡 · Incubadora · IA de software, Consumo) — Vía de servicio al emprendimiento juvenil descrita por el departamento de Recursos Humanos y Seguridad Social (HRSS) de Shanghái, cuya oferta publicada incluye hasta seis meses de puestos de trabajo gratuitos. La capacidad actual, la elegibilidad del solicitante y las subvenciones adicionales deben verificarse por separado. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/huangpu.rst:38
 msgid ""
@@ -126,7 +121,7 @@ msgid ""
 "direction with the HRSS \"Entrepreneurship Companion Plan\" mentor and "
 "service network for early-stage digital and financial technology "
 "founders. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Concentración Fintech y Plan de Acompañamiento al Emprendimiento de Huangpu </entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · Aceleradora · IA de software, Consumo) — Combina la orientación quinquenal de agrupación de la industria fintech de Huangpu con la red de mentores y servicios del «Plan de Acompañamiento al Emprendimiento» de HRSS para fundadores en etapa temprana de tecnología digital y financiera. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Concentración Fintech y Plan de Acompañamiento al Emprendimiento de Huangpu </entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · Aceleradora · IA de software, Consumo) — Combina la orientación quinquenal de agrupación de la industria fintech de Huangpu con la red de mentores y servicios del «Plan de Acompañamiento al Emprendimiento» de HRSS para fundadores en etapa temprana de tecnología digital y financiera. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/huangpu.rst:40
 msgid "Funding routes"
@@ -139,7 +134,7 @@ msgid ""
 "repayable) — Product-specific bank credit, startup guarantee and "
 "IP-backed finance. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`Catálogo de productos de financiación y crédito de Huangpu </funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Préstamo · Sin cesión de participaciones; préstamo reembolsable) — Crédito bancario, préstamos con garantía de emprendimiento y financiación respaldada por propiedad intelectual según el producto específico. Estado: Catálogo publicado; sujeto a evaluación del prestamista. Plazo: Específico de cada producto; confirmar las condiciones vigentes de la entidad prestamista."
+msgstr ":doc:`Catálogo de productos de financiación y crédito de Huangpu </funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Préstamo · Sin cesión de participaciones; debe devolverse) — Crédito bancario, préstamos con garantía de emprendimiento y financiación respaldada por propiedad intelectual según el producto específico. Estado: Catálogo publicado; sujeto a evaluación del prestamista. Plazo: Específico de cada producto; confirmar las condiciones vigentes de la entidad prestamista."
 
 #: ../../districts/huangpu.rst:45
 msgid ":doc:`Also compare citywide funding </funding>`"

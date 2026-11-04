@@ -165,7 +165,7 @@ const UNI_SUMMARY_TPL = {
   ja: (fit) => `教育部の2026年6月の大学名簿に掲載。協力を検討できる分野：${fit}。分野の紹介は編集上の参考情報であり、研究室の利用や起業資金の提供を確認したものではない。`,
   ko: (fit) => `교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: ${fit}. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다.`,
   de: (fit) => `Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: ${fit}. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung.`,
-  es: (fit) => `Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: ${fit}. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups.`
+  es: (fit) => `Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: ${fit}. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups.`,
 };
 
 const universityEntities = universities.map(([uid, name, zh, district, domain, fit, fitZh]) => {
@@ -444,7 +444,7 @@ const GROUP_COUNT_TPL = {
   ja: n => `${n}機関の情報を、出典・連絡先・申請の参考手順とともに収録。機関の情報と、現在の受付状況は区別して示す。`,
   ko: n => `${n}개 기관의 정보와 출처, 연락처, 신청 참고 절차를 수록했습니다. 기관 정보 확인 여부와 현재 모집 상태는 구분해 표시합니다.`,
   de: n => `${n} Profile mit Quellen, Kontakten und einer Checkliste für den Antrag. Die belegte Existenz einer Einrichtung und ihre aktuelle Aufnahme sind getrennt ausgewiesen.`,
-  es: n => `${n} perfiles con evidencia, vías de contacto y lista de verificación de solicitud. La existencia publicada se distingue de la recepción activa de candidaturas.`
+  es: n => `${n} perfiles con fuentes, contactos y pasos orientativos para solicitar apoyo. La existencia de una entidad se distingue de su admisión actual.`,
 };
 
 const groups = [
@@ -644,7 +644,7 @@ const FUND_INTRO_TPL = {
   ja: n => `全市と16行政区の資金調達・支援制度${n}件を整理。株式提供を求めない支援、返済が必要な融資、クレジット、投資を区別する。政策やウェブページの存在だけで、申請受付中とは判断しない。`,
   ko: n => `상하이 전역과 16개 구의 자금 조달·지원 제도 ${n}건을 정리했습니다. 지분을 요구하지 않는 지원, 상환이 필요한 대출, 크레딧과 투자를 구분합니다. 정책이나 웹페이지가 있다는 이유만으로 현재 접수 중이라고 표시하지 않습니다.`,
   de: n => `${n} Finanzierungs- und Förderangebote aus stadtweiten Programmen und allen 16 Bezirken. Wir unterscheiden Unterstützung ohne Anteilsabgabe, rückzahlbare Darlehen, Guthaben und Investitionen. Eine veröffentlichte Richtlinie oder Website belegt keine offene Antragsrunde.`,
-  es: n => `${n} rutas investigadas en programas de toda la ciudad y en los 16 distritos. Distinguimos el apoyo libre de capital de la deuda reembolsable, los créditos y la inversión de capital.`
+  es: n => `${n} opciones de financiación y apoyo en programas municipales y de los 16 distritos. Distinguimos las ayudas sin cesión de participaciones, los préstamos que deben devolverse, los créditos y la inversión. Una política o web publicada no demuestra que se admitan solicitudes.`,
 };
 
 let fundingIndex = heading('Funding, without mixing the mechanisms', '融资与扶持政策总览') +

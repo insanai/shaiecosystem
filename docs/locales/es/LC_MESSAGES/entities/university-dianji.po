@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -38,14 +38,9 @@ msgid ""
 "Suggested collaboration themes: Electrical equipment, advanced "
 "manufacturing. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding."
-msgstr "Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Equipamiento eléctrico, fabricación avanzada. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups."
+msgstr "Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Equipamiento eléctrico, fabricación avanzada. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups."
 
 #: ../../entities/university-dianji.rst:12
-
-#| msgid ""
-#| "`Evidence S083 "
-#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
-#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
 "`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
@@ -58,7 +53,7 @@ msgstr "Estado y tipo de apoyo"
 
 #: ../../entities/university-dianji.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "Entidad documentada; admisión pendiente de confirmar"
+msgstr "Entidad verificada; admisión actual por confirmar"
 
 #: ../../entities/university-dianji.rst:19
 msgid ""

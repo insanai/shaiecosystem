@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -43,7 +43,7 @@ msgstr "Hasta 500.000 RMB; sin intereses; plazo de 3 años; amortización de pri
 
 #: ../../funding/stefg-loan.rst:15
 msgid "No equity; repayable"
-msgstr "Sin cesión de participaciones; préstamo reembolsable"
+msgstr "Sin cesión de participaciones; debe devolverse"
 
 #: ../../funding/stefg-loan.rst:17
 msgid "Eligibility and timing"
@@ -85,7 +85,7 @@ msgstr "Lista de verificación editorial para la solicitud. El procedimiento rea
 msgid ""
 "Read the foundation's current eligibility rules and choose loan or "
 "temporary equity."
-msgstr "Consultar las normas de elegibilidad vigentes de la fundación y elegir entre la modalidad de préstamo o la de capital temporal."
+msgstr "Consultar las normas de elegibilidad vigentes de la fundación y elegir entre la modalidad de préstamo o la de participación temporal."
 
 #: ../../funding/stefg-loan.rst:35
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -111,7 +111,7 @@ msgid ""
 "SITRI. This is a route for beyond-Moore technology, shared technical "
 "services and pilot production rather than a promise of free fabrication. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Ecosistema de incubación InnoSpring / SITRI </entities/innospring>` (新微创源／上海微技术工研院孵化生态 · Incubadora · IA de hardware, Chips y semiconductores, Sensores) — La comisión municipal de ciencia registra el trabajo conjunto entre InnoSpring y SITRI. Es una vía idónea para tecnologías más allá de la ley de Moore, servicios técnicos compartidos y producción piloto, pero no supone una promesa de fabricación gratuita de obleas. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Ecosistema de incubación InnoSpring / SITRI </entities/innospring>` (新微创源／上海微技术工研院孵化生态 · Incubadora · IA de hardware, Chips y semiconductores, Sensores) — La comisión municipal de ciencia registra el trabajo conjunto entre InnoSpring y SITRI. Es una vía idónea para tecnologías más allá de la ley de Moore, servicios técnicos compartidos y producción piloto, pero no supone una promesa de fabricación gratuita de obleas. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/jiading.rst:38
 msgid ""
@@ -121,7 +121,7 @@ msgid ""
 "trusted coordination. We use its cooperation contact rather than assuming "
 "access through general university admissions. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Centro de Investigación PAI de la Universidad de Tongji </entities/tongji-pai>` (同济大学PAI研究中心 · Plataforma de investigación · IA de hardware, Sensores) — El centro publica una vía de colaboración industrial en localización, detección, comunicaciones y coordinación fiable. Utilizamos su canal de cooperación empresarial en lugar de asumir el acceso a través de la oficina general de admisiones universitarias. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Investigación PAI de la Universidad de Tongji </entities/tongji-pai>` (同济大学PAI研究中心 · Plataforma de investigación · IA de hardware, Sensores) — El centro publica una vía de colaboración industrial en localización, detección, comunicaciones y coordinación fiable. Utilizamos su canal de cooperación empresarial en lugar de asumir el acceso a través de la oficina general de admisiones universitarias. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/jiading.rst:39
 msgid ""
@@ -132,7 +132,7 @@ msgid ""
 "and AI hardware components. Confirm optical lab equipment, engineering "
 "support and commercial terms before admission. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Incubadora Optoelectrónica Xihe Optic Valley </entities/xihe-optics>` (羲和光谷光电产业孵化器 · Incubadora · IA de hardware, Sensores, Chips y semiconductores) — Incubadora de optoelectrónica y fotónica inaugurada en Jiading en noviembre de 2025 para apoyar a equipos fundados por científicos en detección óptica, sistemas láser y componentes de hardware de IA. Confirme el equipamiento de laboratorio óptico, el soporte de ingeniería y las condiciones comerciales antes de la admisión. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Incubadora Optoelectrónica Xihe Optic Valley </entities/xihe-optics>` (羲和光谷光电产业孵化器 · Incubadora · IA de hardware, Sensores, Chips y semiconductores) — Incubadora de optoelectrónica y fotónica inaugurada en Jiading en noviembre de 2025 para apoyar a equipos fundados por científicos en detección óptica, sistemas láser y componentes de hardware de IA. Confirme el equipamiento de laboratorio óptico, el soporte de ingeniería y las condiciones comerciales antes de la admisión. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/jiading.rst:40
 msgid ""
@@ -143,7 +143,7 @@ msgid ""
 "business. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Facultad Tianhua de la Universidad Normal de Shanghái </entities/university-tianhua>` (上海师范大学天华学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Educación aplicada, ingeniería y negocios digitales. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Facultad Tianhua de la Universidad Normal de Shanghái </entities/university-tianhua>` (上海师范大学天华学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Educación aplicada, ingeniería y negocios digitales. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/jiading.rst:42
 msgid "Funding routes"
@@ -156,7 +156,7 @@ msgid ""
 "RMB 800 million; individual investment not established. Status: Fund "
 "announced; deal intake to confirm. Timing: Manager-led sourcing; current "
 "deal intake to confirm."
-msgstr ":doc:`Fondo para Industrias del Futuro de Jiading </funding/jiading-future-fund>` (嘉定未来产业基金 · Inversión en capital (Equity) · Participación en capital negociada) — Escala anunciada del fondo de 800 millones de RMB; importe de inversión individual no preestablecido. Estado: Fondo anunciado; recepción de proyectos por confirmar. Plazo: Selección de proyectos liderada por la gestora; admisión actual pendiente de confirmar."
+msgstr ":doc:`Fondo para Industrias del Futuro de Jiading </funding/jiading-future-fund>` (嘉定未来产业基金 · Inversión en capital (Equity) · Participación negociada) — Escala anunciada del fondo de 800 millones de RMB; importe de inversión individual no preestablecido. Estado: Fondo anunciado; recepción de proyectos por confirmar. Plazo: Selección de proyectos liderada por la gestora; admisión actual pendiente de confirmar."
 
 #: ../../districts/jiading.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"

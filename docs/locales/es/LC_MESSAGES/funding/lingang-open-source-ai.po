@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -26,7 +26,7 @@ msgstr "Subvención a fondo perdido | Nueva Área de Pudong"
 
 #: ../../funding/lingang-open-source-ai.rst:6
 msgid "Published policy; implementing intake to confirm"
-msgstr "Política publicada; admisión de ejecución por confirmar"
+msgstr "Política publicada; confirmar desarrollo y plazo de solicitud"
 
 #: ../../funding/lingang-open-source-ai.rst:8
 msgid ""
@@ -47,7 +47,7 @@ msgstr "Incentivo anual de hasta 1 millón de RMB por desarrollo elegible de her
 
 #: ../../funding/lingang-open-source-ai.rst:15
 msgid "No equity for qualifying public support"
-msgstr "Sin cesión de capital para ayudas públicas elegibles"
+msgstr "Sin cesión de participaciones para ayudas públicas que cumplan los requisitos"
 
 #: ../../funding/lingang-open-source-ai.rst:17
 msgid "Eligibility and timing"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../reading-the-city.rst:1
 msgid "A city of connected possibilities"
-msgstr "Una ciudad de posibilidades conectadas"
+msgstr "Entender la innovación en Shanghái"
 
 #: ../../reading-the-city.rst:4
 msgid ""
@@ -27,7 +27,7 @@ msgid ""
 "customer to a repeatable business. The useful unit is a working "
 "relationship: a laboratory, a district service team, an incubation "
 "operator, a buyer or an investment manager."
-msgstr "Shanghái resulta más fácil de recorrer cuando seguimos un proyecto desde la investigación hasta el prototipo, del prototipo al primer cliente y de ese cliente a un negocio escalable y repetible. La unidad práctica es una relación de trabajo: un laboratorio, un equipo de servicios distritales, un operador de incubación, un comprador corporativo o un gestor de inversiones."
+msgstr "De la investigación al prototipo, del prototipo al primer cliente y de ahí a un negocio sostenible: seguir ese recorrido ayuda a orientarse en Shanghái. Lo decisivo son las relaciones de trabajo con laboratorios, servicios de apoyo de los distritos, incubadoras, clientes y gestores de inversión."
 
 #: ../../reading-the-city.rst:12 ../../reading-the-city.rst:20
 msgid "Sixteen districts, connected by people, research and industry."
@@ -35,7 +35,7 @@ msgstr "Dieciséis distritos conectados por el talento, la investigación y la i
 
 #: ../../reading-the-city.rst:22
 msgid "A practical atlas, with a stated boundary"
-msgstr "Un atlas práctico con límites definidos"
+msgstr "Qué incluye este atlas"
 
 #: ../../reading-the-city.rst:25
 msgid ""
@@ -66,7 +66,7 @@ msgstr "Nuestra fecha de corte de investigación es el 4 de noviembre de 2026. E
 
 #: ../../reading-the-city.rst:31
 msgid "Three geographies, many choices"
-msgstr "Tres geografías, múltiples opciones"
+msgstr "Elegir el lugar según el proyecto"
 
 #: ../../reading-the-city.rst:34
 msgid ""
@@ -134,21 +134,12 @@ msgid ""
 msgstr "Este libro y atlas interactivo han sido escritos por Vikrant Rathore con las contribuciones de Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu. La publicación se produce de forma nativa mediante Guidedog tanto en edición HTML como en PDF (en siete idiomas), compartiendo un único conjunto de datos verificados entre el atlas web interactivo y los libros ilustrados listos para imprenta."
 
 #: ../../reading-the-city.rst:49
-
-#| msgid ""
-#| "`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. "
-#| "Shanghai municipal flower and overview."
 msgid ""
 "`Evidence S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
 "municipal flower and overview."
 msgstr "`Evidencia S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
 
 #: ../../reading-the-city.rst:51
-
-#| msgid ""
-#| "`Evidence S137 "
-#| "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
-#| "Shanghai expands list of high-quality incubators."
 msgid ""
 "`Evidence S141 "
 "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "

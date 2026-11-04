@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -21,18 +21,12 @@ msgid "Funding, without mixing the mechanisms"
 msgstr "Financiación, sin confundir los mecanismos"
 
 #: ../../funding.rst:4
-
-#| msgid ""
-#| "50 researched routes across citywide programs and all 16 districts. We "
-#| "distinguish equity-free support from repayable debt, credits and "
-#| "investment. No item is labelled open merely because its policy or web "
-#| "page exists."
 msgid ""
 "53 researched routes across citywide programs and all 16 districts. We "
 "distinguish equity-free support from repayable debt, credits and "
 "investment. No item is labelled open merely because its policy or web "
 "page exists."
-msgstr "53 rutas investigadas en programas de toda la ciudad y en los 16 distritos. Distinguimos el apoyo libre de capital de la deuda reembolsable, los créditos y la inversión de capital."
+msgstr "53 opciones de financiación y apoyo en programas municipales y de los 16 distritos. Distinguimos las ayudas sin cesión de participaciones, los préstamos que deben devolverse, los créditos y la inversión. Una política o web publicada no demuestra que se admitan solicitudes."
 
 #: ../../funding.rst:6
 msgid ":doc:`Read the funding guide first <funding-guide>`"
@@ -64,7 +58,7 @@ msgid ""
 "employees; R&D staff at least 10%. The current call may add conditions. "
 "Timing: Policy: 9 Dec 2025 to 8 Dec 2030. [Status: Policy in force; call "
 "not confirmed open]"
-msgstr ":doc:`Fondo de Innovación Tecnológica para Pymes Tecnológicas <funding/sme-innovation>` (科技型中小企业技术创新资金 · Subvención a fondo perdido · Toda la ciudad / global · Sin cesión de participaciones) — **El importe de la ayuda y el apoyo complementario dependen de la convocatoria anual**. Empresas tecnológicas no cotizadas de Shanghái: ingresos del ejercicio anterior de hasta 200 millones de RMB; gasto en I+D de al menos 500.000 RMB y el 5 % de los ingresos; plantilla no superior a 500 empleados; personal de I+D de al menos el 10 %. La convocatoria anual puede añadir requisitos adicionales. (Vigencia de la política: del 9 de diciembre de 2025 al 8 de diciembre de 2030). [Política vigente; convocatoria no confirmada como abierta]"
+msgstr ":doc:`Fondo de Innovación Tecnológica para Pymes Tecnológicas <funding/sme-innovation>` (科技型中小企业技术创新资金 · Subvención a fondo perdido · Toda la ciudad / global · Sin cesión de participaciones) — **El importe de la ayuda y el apoyo complementario dependen de la convocatoria anual**. Empresas tecnológicas no cotizadas de Shanghái: ingresos del ejercicio anterior de hasta 200 millones de RMB; gasto en I+D de al menos 500.000 RMB y el 5 % de los ingresos; plantilla no superior a 500 empleados; personal de I+D de al menos el 10 %. La convocatoria anual puede añadir requisitos adicionales. (Vigencia de la política: del 9 de diciembre de 2025 al 8 de diciembre de 2030). [Política vigente; no se ha confirmado una convocatoria abierta]"
 
 #: ../../funding.rst:15
 msgid ""
@@ -88,7 +82,7 @@ msgid ""
 "expenditure, audit and annual notice conditions must be confirmed. "
 "Timing: Policy: 1 Sep 2025 to 31 Aug 2030. [Status: Policy in force; call "
 "not confirmed open]"
-msgstr ":doc:`Apoyo a la comercialización de resultados de investigación de Minhang <funding/minhang-conversion>` (闵行科技成果转化支持 · Subvención a fondo perdido · Distrito de Minhang · Sin cesión de participaciones) — **Nueva empresa de transferencia tecnológica: hasta 500.000 RMB/año; tope de 1,5 millones de RMB en tres años; hasta el 50 % de la inversión**. Proyectos elegibles de transformación de resultados de investigación en Minhang. Deben confirmarse los requisitos de registro societario, gasto elegible, auditoría y convocatoria anual. (Vigencia de la política: del 1 de septiembre de 2025 al 31 de agosto de 2030). [Política vigente; convocatoria no confirmada como abierta]"
+msgstr ":doc:`Apoyo a la comercialización de resultados de investigación de Minhang <funding/minhang-conversion>` (闵行科技成果转化支持 · Subvención a fondo perdido · Distrito de Minhang · Sin cesión de participaciones) — **Nueva empresa de transferencia tecnológica: hasta 500.000 RMB/año; tope de 1,5 millones de RMB en tres años; hasta el 50 % de la inversión**. Proyectos elegibles de transformación de resultados de investigación en Minhang. Deben confirmarse los requisitos de registro societario, gasto elegible, auditoría y convocatoria anual. (Vigencia de la política: del 1 de septiembre de 2025 al 31 de agosto de 2030). [Política vigente; no se ha confirmado una convocatoria abierta]"
 
 #: ../../funding.rst:17
 msgid ""
@@ -98,7 +92,7 @@ msgid ""
 "Project classification and investment thresholds apply. This is selective "
 "R&D support, not a general startup incorporation bonus. Timing: Policy "
 "through 31 Aug 2030. [Status: Policy in force; call not confirmed open]"
-msgstr ":doc:`Proyectos de I+D en tecnologías clave de Minhang <funding/minhang-rd>` (闵行关键核心技术攻关 · Subvención a fondo perdido · Distrito de Minhang · Sin cesión de participaciones) — **Proyectos generales: hasta 3 millones de RMB y hasta el 30 % de la I+D; proyectos estratégicos: hasta 10 millones de RMB y hasta el 50 %**. Se aplican criterios de clasificación de proyectos y umbrales mínimos de inversión. Se trata de un apoyo selectivo a la I+D, no de una prima general por constitución de empresa. (Política vigente hasta el 31 de agosto de 2030). [Política vigente; convocatoria no confirmada como abierta]"
+msgstr ":doc:`Proyectos de I+D en tecnologías clave de Minhang <funding/minhang-rd>` (闵行关键核心技术攻关 · Subvención a fondo perdido · Distrito de Minhang · Sin cesión de participaciones) — **Proyectos generales: hasta 3 millones de RMB y hasta el 30 % de la I+D; proyectos estratégicos: hasta 10 millones de RMB y hasta el 50 %**. Se aplican criterios de clasificación de proyectos y umbrales mínimos de inversión. Se trata de un apoyo selectivo a la I+D, no de una prima general por constitución de empresa. (Política vigente hasta el 31 de agosto de 2030). [Política vigente; no se ha confirmado una convocatoria abierta]"
 
 #: ../../funding.rst:18
 msgid ""
@@ -110,7 +104,7 @@ msgid ""
 "ordinary startup award and require comprehensive evaluation. Timing: "
 "Confirm applicable implementing notice. [Status: Published policy; "
 "implementing intake to confirm]"
-msgstr ":doc:`Apoyo al desarrollo de la industria de IA corporeizada de Xuhui <funding/xuhui-embodied>` (徐汇具身智能产业支持 · Subvención a fondo perdido · Distrito de Xuhui · Sin cesión de participaciones) — **Límites de apoyo sujetos a evaluación: hasta 10 millones de RMB en pago único y hasta 20 millones de RMB de apoyo anual al desarrollo**. Entidades elegibles en modelos robóticos, algoritmos corporeizados, datos para robótica y sistemas operativos. Estos topes máximos anunciados no son subvenciones ordinarias para startups y exigen una evaluación integral. (Confirmar la convocatoria de ejecución aplicable). [Política publicada; admisión de ejecución por confirmar]"
+msgstr ":doc:`Apoyo al desarrollo de la industria de IA corporeizada de Xuhui <funding/xuhui-embodied>` (徐汇具身智能产业支持 · Subvención a fondo perdido · Distrito de Xuhui · Sin cesión de participaciones) — **Límites de apoyo sujetos a evaluación: hasta 10 millones de RMB en pago único y hasta 20 millones de RMB de apoyo anual al desarrollo**. Entidades elegibles en modelos robóticos, algoritmos corporeizados, datos para robótica y sistemas operativos. Estos topes máximos anunciados no son subvenciones ordinarias para startups y exigen una evaluación integral. (Confirmar la convocatoria de ejecución aplicable). [Política publicada; confirmar desarrollo y plazo de solicitud]"
 
 #: ../../funding.rst:19
 msgid ""
@@ -122,7 +116,7 @@ msgid ""
 "representative; full-time startup; Shanghai company registered at most 3 "
 "years. Timing: Confirm branch intake and review schedule. Tel: +86 21 "
 "55231818. [Status: Program published; eligibility review]"
-msgstr ":doc:`Plan Aguilucho del Fondo Ángel STEFG (Young Eagle Plan) <funding/stefg-loan>` (天使基金雏鹰计划 · Préstamo · Toda la ciudad / global · Sin cesión de participaciones; préstamo reembolsable) — **Hasta 500.000 RMB; sin intereses; plazo de 3 años; amortización de principal en 36 cuotas mensuales iguales**. Ciudadanos chinos de hasta 40 años que cumplan los requisitos de estudiante o recién graduado; el fundador debe ser el mayor accionista persona física y representante legal; dedicación exclusiva; empresa registrada en Shanghái con una antigüedad máxima de 3 años. (Confirmar el calendario de admisión y evaluación de la sede receptora). Tel: +86 21 55231818. [Programa publicado; sujeto a revisión de elegibilidad]"
+msgstr ":doc:`Plan Aguilucho del Fondo Ángel STEFG (Young Eagle Plan) <funding/stefg-loan>` (天使基金雏鹰计划 · Préstamo · Toda la ciudad / global · Sin cesión de participaciones; debe devolverse) — **Hasta 500.000 RMB; sin intereses; plazo de 3 años; amortización de principal en 36 cuotas mensuales iguales**. Ciudadanos chinos de hasta 40 años que cumplan los requisitos de estudiante o recién graduado; el fundador debe ser el mayor accionista persona física y representante legal; dedicación exclusiva; empresa registrada en Shanghái con una antigüedad máxima de 3 años. (Confirmar el calendario de admisión y evaluación de la sede receptora). Tel: +86 21 55231818. [Programa publicado; sujeto a revisión de elegibilidad]"
 
 #: ../../funding.rst:20
 msgid ""
@@ -134,7 +128,7 @@ msgid ""
 "contribution. Review nominee ownership, exit obligation and documents. "
 "Timing: Confirm branch intake and review schedule. Tel: +86 21 55231818. "
 "[Status: Program published; eligibility review]"
-msgstr ":doc:`Plan Águila del Fondo Ángel STEFG (Eagle Plan) <funding/stefg-equity>` (天使基金雄鹰计划 · Inversión en capital (Equity) · Toda la ciudad / global · Participación temporal; salida al precio de adquisición original) — **Hasta 800.000 RMB durante 3 años; sin participación en dividendos; salida al precio original**. Emprendedores tecnológicos elegibles que cumplan las reglas de la fundación; la aportación en efectivo propia del fundador debe superar la contribución de la fundación. Revise la estructura de tenencia fiduciaria, las obligaciones de salida y los contratos. (Confirmar el calendario de admisión y evaluación de la sede receptora). Tel: +86 21 55231818. [Programa publicado; sujeto a revisión de elegibilidad]"
+msgstr ":doc:`Plan Águila del Fondo Ángel STEFG (Eagle Plan) <funding/stefg-equity>` (天使基金雄鹰计划 · Inversión en capital (Equity) · Toda la ciudad / global · Participación temporal; salida por el importe aportado) — **Hasta 800.000 RMB durante 3 años; sin participación en dividendos; salida al precio original**. Emprendedores tecnológicos elegibles que cumplan las reglas de la fundación; la aportación en efectivo propia del fundador debe superar la contribución de la fundación. Revise la estructura de tenencia fiduciaria, las obligaciones de salida y los contratos. (Confirmar el calendario de admisión y evaluación de la sede receptora). Tel: +86 21 55231818. [Programa publicado; sujeto a revisión de elegibilidad]"
 
 #: ../../funding.rst:21
 msgid ""
@@ -146,7 +140,7 @@ msgid ""
 "Bank underwriting still applies; an interest subsidy does not remove "
 "principal repayment. Timing: Confirm current HRSS service rules. [Status: "
 "Published service; current terms to confirm]"
-msgstr ":doc:`Préstamos garantizados para el emprendimiento de Shanghái <funding/startup-guarantee>` (上海创业担保贷款 · Préstamo · Toda la ciudad / global · Sin cesión de participaciones; préstamo reembolsable) — **El límite del préstamo y la bonificación de intereses dependen de la categoría del solicitante y de la normativa vigente**. Las modalidades individual, preemprendimiento y de empresa tienen distintos requisitos de residencia, estudios, registro y creación de empleo. Sigue aplicándose el análisis de riesgos bancario; la subvención de intereses no exime de devolver el principal. (Confirmar las normas vigentes del servicio de Recursos Humanos y Seguridad Social (HRSS)). [Servicio publicado; condiciones vigentes por confirmar]"
+msgstr ":doc:`Préstamos garantizados para el emprendimiento de Shanghái <funding/startup-guarantee>` (上海创业担保贷款 · Préstamo · Toda la ciudad / global · Sin cesión de participaciones; debe devolverse) — **El límite del préstamo y la bonificación de intereses dependen de la categoría del solicitante y de la normativa vigente**. Las modalidades individual, preemprendimiento y de empresa tienen distintos requisitos de residencia, estudios, registro y creación de empleo. Sigue aplicándose el análisis de riesgos bancario; la subvención de intereses no exime de devolver el principal. (Confirmar las normas vigentes del servicio de Recursos Humanos y Seguridad Social (HRSS)). [Servicio publicado; condiciones vigentes por confirmar]"
 
 #: ../../funding.rst:22
 msgid ""
@@ -192,7 +186,7 @@ msgid ""
 "automatic funding or immigration status. Timing: Confirm track and "
 "division dates. [Status: 2026 competition published; track intake to "
 "confirm]"
-msgstr ":doc:`Competición Global de Innovación y Emprendimiento de Talento «Haiju» <funding/haiju>` (海聚英才全球创新创业大赛 · Competición · Toda la ciudad / global · Las condiciones de premio o inversión varían) — **Premios, presentaciones institucionales y servicios específicos según la modalidad**. Inscripción a través del portal oficial del certamen y de la división territorial correspondiente. La superación de la fase distrital y el paso a la final no otorgan automáticamente financiación ni permisos de residencia. (Confirmar las fechas de cada pista y división territorial). [Competición 2026 publicada; confirmar admisión por pista]"
+msgstr ":doc:`Competición Global de Innovación y Emprendimiento de Talento «Haiju» <funding/haiju>` (海聚英才全球创新创业大赛 · Competición · Toda la ciudad / global · Las condiciones de premio o inversión varían) — **Premios, presentaciones institucionales y servicios específicos según la modalidad**. Inscripción a través del portal oficial del certamen y de la división territorial correspondiente. La superación de la fase distrital y el paso a la final no otorgan automáticamente financiación ni permisos de residencia. (Confirmar las fechas de cada pista y división territorial). [Concurso de 2026 publicado; confirmar inscripción por categoría]"
 
 #: ../../funding.rst:26
 msgid ""
@@ -227,7 +221,7 @@ msgid ""
 "Do not substitute global AWS account rules or credit ceilings. Timing: "
 "Confirm current package and expiration. [Status: Regional eligibility to "
 "confirm]"
-msgstr ":doc:`Créditos en la nube de AWS China Activate <funding/aws-credit>` (亚马逊云科技中国区Activate积分 · Créditos en la nube · Toda la ciudad / global · Sin exigencia de capital declarada; verificar contrato) — **Créditos promocionales según el paquete asignado para servicios elegibles en la región de China**. Startup no cotizada constituida en China que cumpla los requisitos de nuevo cliente y relación con un socio participante. No extrapole las reglas de cuentas globales de AWS ni sus topes de crédito. (Confirmar el paquete vigente y su fecha de caducidad). [Elegibilidad regional pendiente de confirmar]"
+msgstr ":doc:`Créditos en la nube de AWS China Activate <funding/aws-credit>` (亚马逊云科技中国区Activate积分 · Créditos en la nube · Toda la ciudad / global · Sin cesión de participaciones declarada; revisar contrato) — **Créditos promocionales según el paquete asignado para servicios elegibles en la región de China**. Startup no cotizada constituida en China que cumpla los requisitos de nuevo cliente y relación con un socio participante. No extrapole las reglas de cuentas globales de AWS ni sus topes de crédito. (Confirmar el paquete vigente y su fecha de caducidad). [Elegibilidad regional pendiente de confirmar]"
 
 #: ../../funding.rst:29
 msgid ""
@@ -249,7 +243,7 @@ msgid ""
 "does not establish a universal application form, valuation or "
 "shareholding percentage. Timing: Manager-led sourcing and due diligence. "
 "[Status: Fund announced; deal intake to confirm]"
-msgstr ":doc:`Fondo Semilla de IA de Pudong (Inversión en capital) <funding/pudong-equity>` (浦东人工智能种子基金 · Inversión en capital (Equity) · Nueva Área de Pudong · Participación en capital negociada) — **Tamaño objetivo del fondo de 2.000 millones de RMB; primer tramo de 500 millones de RMB; importe por empresa no preestablecido**. Proyectos de IA en etapa semilla que encajen en el mandato de inversión de la gestora. El anuncio público del fondo no establece un formulario universal de solicitud, una valoración fija ni un porcentaje estándar de participación. (Selección de proyectos y due diligence lideradas por la gestora). [Fondo anunciado; recepción de proyectos por confirmar]"
+msgstr ":doc:`Fondo Semilla de IA de Pudong (Inversión en capital) <funding/pudong-equity>` (浦东人工智能种子基金 · Inversión en capital (Equity) · Nueva Área de Pudong · Participación negociada) — **Tamaño objetivo del fondo de 2.000 millones de RMB; primer tramo de 500 millones de RMB; importe por empresa no preestablecido**. Proyectos de IA en etapa semilla que encajen en el mandato de inversión de la gestora. El anuncio público del fondo no establece un formulario universal de solicitud, una valoración fija ni un porcentaje estándar de participación. (Selección de proyectos y due diligence lideradas por la gestora). [Fondo anunciado; recepción de proyectos por confirmar]"
 
 #: ../../funding.rst:31
 msgid ""
@@ -261,7 +255,7 @@ msgid ""
 "stage, domicile, return and ownership terms. Timing: Investment committee "
 "process; no guaranteed award. [Status: Published investment platform; "
 "deal review]"
-msgstr ":doc:`Fondos de industrias líderes y fondos especializados en IA <funding/city-equity>` (先导产业与人工智能专项基金 · Inversión en capital (Equity) · Toda la ciudad / global · Participación en capital negociada) — **Inversión específica según el vehículo; el tamaño total del fondo no equivale a financiación directa por startup**. Empresas de IA, semiconductores, salud y otros sectores compatibles con el mandato del fondo. Identifique a la gestora de inversión directa o del subfondo y revise las condiciones de etapa, domicilio societario, rentabilidad exigida y participación accionarial. (Proceso sujeto a comité de inversiones; sin adjudicación garantizada). [Plataforma de inversión publicada; sujeta a evaluación de proyectos]"
+msgstr ":doc:`Fondos de industrias líderes y fondos especializados en IA <funding/city-equity>` (先导产业与人工智能专项基金 · Inversión en capital (Equity) · Toda la ciudad / global · Participación negociada) — **Inversión específica según el vehículo; el tamaño total del fondo no equivale a financiación directa por startup**. Empresas de IA, semiconductores, salud y otros sectores compatibles con el mandato del fondo. Identifique a la gestora de inversión directa o del subfondo y revise las condiciones de etapa, domicilio societario, rentabilidad exigida y participación accionarial. (Proceso sujeto a comité de inversiones; sin adjudicación garantizada). [Plataforma de inversión publicada; sujeta a evaluación de proyectos]"
 
 #: ../../funding.rst:32
 msgid ""
@@ -274,7 +268,7 @@ msgid ""
 "qualifying model R&D or deployment; review the current quarterly guide. "
 "Timing: Quarterly claims; confirm the current batch. Tel: +86 21 58811024 "
 "ext. 5091. [Status: Quarterly scheme published; current intake to confirm]"
-msgstr ":doc:`Apoyo en bonos de cómputo, modelos y corpus de la Ciudad de Innovación en IA de Zhangjiang <funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Reembolso de gastos · Nueva Área de Pudong · Sin cesión de participaciones) — **Hasta el 100 % del coste real aprobado, con un tope de 1 millón de RMB en cada categoría; máximo durante un año por empresa**. Empresas de IA registradas y con operaciones reales dentro del perímetro delimitado de la Ciudad de Innovación, constituidas o trasladadas allí no antes del 1 de enero de 2025. Los gastos deben destinarse a I+D o despliegue de modelos elegibles; consulte la guía trimestral vigente. (Solicitudes trimestrales; confirmar el lote en curso). Tel: +86 21 58811024 ext. 5091. [Esquema trimestral publicado; confirmar lote actual]"
+msgstr ":doc:`Apoyo en bonos de cómputo, modelos y corpus de la Ciudad de Innovación en IA de Zhangjiang <funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Reembolso de gastos · Nueva Área de Pudong · Sin cesión de participaciones) — **Hasta el 100 % del coste real aprobado, con un tope de 1 millón de RMB en cada categoría; máximo durante un año por empresa**. Empresas de IA registradas y con operaciones reales dentro del perímetro delimitado de la Ciudad de Innovación, constituidas o trasladadas allí no antes del 1 de enero de 2025. Los gastos deben destinarse a I+D o despliegue de modelos elegibles; consulte la guía trimestral vigente. (Solicitudes trimestrales; confirmar el lote en curso). Tel: +86 21 58811024 ext. 5091. [Solicitudes trimestrales previstas; confirmar convocatoria actual]"
 
 #: ../../funding.rst:33
 msgid ""
@@ -287,7 +281,7 @@ msgid ""
 "Timing: First batch closed 27 May 2026, 16:00 China Standard Time; notice "
 "plans quarterly follow-ups. Tel: +86 21 23119377. [Status: First 2026 "
 "batch closed; later batches to verify]"
-msgstr ":doc:`Bonos municipales de cómputo, tokens y corpus de IA de Shanghái, 2026 <funding/municipal-ai-vouchers>` (2026模塑申城算力券、模型券、语料券 · Reembolso de gastos · Toda la ciudad / global · Sin cesión de participaciones) — **El importe concedido depende de la categoría aplicable y de la evaluación técnica**. Desarrolladores y usuarios elegibles de modelos o agentes de IA en Shanghái que adquieran servicios admisibles a proveedores no vinculados. Quedan excluidos los proyectos que ya reciban otras subvenciones fiscales municipales. (El primer lote cerró el 27 de mayo de 2026 a las 16:00 (hora estándar de China); la convocatoria prevé lotes trimestrales posteriores). Tel: +86 21 23119377. [Primer lote de 2026 cerrado; verificar lotes posteriores]"
+msgstr ":doc:`Bonos municipales de cómputo, tokens y corpus de IA de Shanghái, 2026 <funding/municipal-ai-vouchers>` (2026模塑申城算力券、模型券、语料券 · Reembolso de gastos · Toda la ciudad / global · Sin cesión de participaciones) — **El importe concedido depende de la categoría aplicable y de la evaluación técnica**. Desarrolladores y usuarios elegibles de modelos o agentes de IA en Shanghái que adquieran servicios admisibles a proveedores no vinculados. Quedan excluidos los proyectos que ya reciban otras subvenciones fiscales municipales. (El primer lote cerró el 27 de mayo de 2026 a las 16:00 (hora estándar de China); la convocatoria prevé lotes trimestrales posteriores). Tel: +86 21 23119377. [Primera convocatoria de 2026 cerrada; confirmar las siguientes]"
 
 #: ../../funding.rst:34
 msgid ""
@@ -298,7 +292,7 @@ msgid ""
 "criteria, collateral, rates, repayment, application steps and contacts by "
 "product. IP ownership and bank assessment matter. Timing: "
 "Product-specific. [Status: 2026 directory published; lender review]"
-msgstr ":doc:`Catálogo de productos financieros respaldados por propiedad intelectual de Shanghái <funding/ip-finance>` (上海知识产权金融产品清单 · Préstamo / seguro · Toda la ciudad / global · Sin cesión de capital; se aplican obligaciones de producto) — **Condiciones de préstamo, seguro o fideicomiso específicas según la entidad bancaria y el producto**. El catálogo de 2026 de la Oficina de Propiedad Intelectual detalla para cada producto los criterios del prestatario, garantías, tipos de interés, plazos de reembolso, pasos de solicitud y contactos. La titularidad efectiva de la propiedad intelectual y la evaluación de riesgos del banco resultan determinantes. (Según cada producto específico). [Catálogo 2026 publicado; sujeto a evaluación bancaria]"
+msgstr ":doc:`Catálogo de productos financieros respaldados por propiedad intelectual de Shanghái <funding/ip-finance>` (上海知识产权金融产品清单 · Préstamo / seguro · Toda la ciudad / global · Sin cesión de participaciones; sujeto a condiciones del producto) — **Condiciones de préstamo, seguro o fideicomiso específicas según la entidad bancaria y el producto**. El catálogo de 2026 de la Oficina de Propiedad Intelectual detalla para cada producto los criterios del prestatario, garantías, tipos de interés, plazos de reembolso, pasos de solicitud y contactos. La titularidad efectiva de la propiedad intelectual y la evaluación de riesgos del banco resultan determinantes. (Según cada producto específico). [Catálogo 2026 publicado; sujeto a evaluación bancaria]"
 
 #: ../../funding.rst:35
 msgid ""
@@ -310,7 +304,7 @@ msgid ""
 "and new products. Recognition, insurance compensation, procurement and "
 "R&D support are separate mechanisms; obtain the current call. Timing: "
 "Track-specific notices. [Status: Published route; current call to confirm]"
-msgstr ":doc:`Vías de apoyo al primer equipo mayor, primer tape-out, primer lote de materiales y primera edición de software <funding/first-use>` (首台套、首轮流片、首批次材料、首版次软件路径 · Subvención / acceso al mercado · Toda la ciudad / global · Sin cesión de capital para ayudas públicas elegibles) — **Específico de cada programa; no existe un tope único de subvención común**. La normativa de Shanghái contempla estas vías para pymes especializadas («pequeños gigantes») y productos innovadores elegibles. El reconocimiento oficial, la compensación de primas de seguro, el apoyo a la compra pública y las subvenciones de I+D son mecanismos distintos; obtenga la convocatoria vigente. (Convocatorias específicas por línea temática). [Vía publicada; convocatoria actual por confirmar]"
+msgstr ":doc:`Vías de apoyo al primer equipo mayor, primer tape-out, primer lote de materiales y primera edición de software <funding/first-use>` (首台套、首轮流片、首批次材料、首版次软件路径 · Subvención / acceso al mercado · Toda la ciudad / global · Sin cesión de participaciones para ayudas públicas que cumplan los requisitos) — **Específico de cada programa; no existe un tope único de subvención común**. La normativa de Shanghái contempla estas vías para pymes especializadas («pequeños gigantes») y productos innovadores elegibles. El reconocimiento oficial, la compensación de primas de seguro, el apoyo a la compra pública y las subvenciones de I+D son mecanismos distintos; obtenga la convocatoria vigente. (Convocatorias específicas por línea temática). [Apoyo anunciado; confirmar convocatoria vigente]"
 
 #: ../../funding.rst:36
 msgid ""
@@ -324,7 +318,7 @@ msgid ""
 "local workers; avoid duplicate employment subsidies for the same person. "
 "Timing: Policy through 31 Dec 2027; confirm district procedure. [Status: "
 "Policy in force; call not confirmed open]"
-msgstr ":doc:`Subsidio de seguridad social para nuevas empresas de Shanghái <funding/startup-insurance>` (上海初创期创业组织社会保险补贴 · Reembolso de gastos · Toda la ciudad / global · Sin cesión de participaciones) — **50 % de las cotizaciones empresariales especificadas sobre la base mínima; hasta 8 personas al mes, dentro de los 36 meses posteriores al registro**. Nuevas organizaciones elegibles de trabajadores locales o de las categorías de residencia o retorno previstas, tras 6 meses de contratación. Se calcula según trabajadores locales elegibles; evitar duplicar ayudas de empleo para la misma persona. (Normativa hasta el 31 de diciembre de 2027; confirmar el procedimiento distrital). [Política vigente; convocatoria no confirmada como abierta]"
+msgstr ":doc:`Subsidio de seguridad social para nuevas empresas de Shanghái <funding/startup-insurance>` (上海初创期创业组织社会保险补贴 · Reembolso de gastos · Toda la ciudad / global · Sin cesión de participaciones) — **50 % de las cotizaciones empresariales especificadas sobre la base mínima; hasta 8 personas al mes, dentro de los 36 meses posteriores al registro**. Nuevas organizaciones elegibles de trabajadores locales o de las categorías de residencia o retorno previstas, tras 6 meses de contratación. Se calcula según trabajadores locales elegibles; evitar duplicar ayudas de empleo para la misma persona. (Normativa hasta el 31 de diciembre de 2027; confirmar el procedimiento distrital). [Política vigente; no se ha confirmado una convocatoria abierta]"
 
 #: ../../funding.rst:37
 msgid ""
@@ -338,7 +332,7 @@ msgid ""
 "employment service for the current evidence and filing procedure. Timing: "
 "Policy through 31 Dec 2027; confirm district procedure. [Status: Policy "
 "in force; call not confirmed open]"
-msgstr ":doc:`Ayuda de alquiler durante la incubación previa al registro en Shanghái <funding/startup-incubation-rent>` (上海创业孵化期场地房租补贴 · Reembolso de gastos · Toda la ciudad / global · Sin cesión de participaciones) — **Coste real del puesto antes del registro; hasta 10.000 RMB y un máximo de 6 meses**. Equipos que ingresan en una base municipal de incubación de referencia y constituyen allí una organización elegible durante la incubación. Solo cubre desde el ingreso hasta el registro. Confirmar justificantes y procedimiento con la base y el servicio distrital de empleo. (Normativa hasta el 31 de diciembre de 2027; confirmar el procedimiento distrital). [Política vigente; convocatoria no confirmada como abierta]"
+msgstr ":doc:`Ayuda de alquiler durante la incubación previa al registro en Shanghái <funding/startup-incubation-rent>` (上海创业孵化期场地房租补贴 · Reembolso de gastos · Toda la ciudad / global · Sin cesión de participaciones) — **Coste real del puesto antes del registro; hasta 10.000 RMB y un máximo de 6 meses**. Equipos que ingresan en una base municipal de incubación de referencia y constituyen allí una organización elegible durante la incubación. Solo cubre desde el ingreso hasta el registro. Confirmar justificantes y procedimiento con la base y el servicio distrital de empleo. (Normativa hasta el 31 de diciembre de 2027; confirmar el procedimiento distrital). [Política vigente; no se ha confirmado una convocatoria abierta]"
 
 #: ../../funding.rst:38
 msgid ""
@@ -351,7 +345,7 @@ msgid ""
 "for at least one person for 6 months. This is not a universal "
 "incorporation award. Timing: Policy through 31 Dec 2027; confirm district "
 "procedure. [Status: Policy in force; call not confirmed open]"
-msgstr ":doc:`Subvención única para la primera empresa en Shanghái <funding/first-startup-subsidy>` (上海首次创业一次性补贴 · Subvención a fondo perdido · Toda la ciudad / global · Sin cesión de participaciones) — **Pago único de 8.000 RMB para fundadores elegibles**. Graduados con hukou de Shanghái dentro de los 2 años desde la graduación o personas locales reconocidas con dificultades de empleo. La primera organización elegible debe llevar 1 año operando y haber cotizado por al menos una persona durante 6 meses. No es una ayuda universal por constituir una empresa. (Normativa hasta el 31 de diciembre de 2027; confirmar el procedimiento distrital). [Política vigente; convocatoria no confirmada como abierta]"
+msgstr ":doc:`Subvención única para la primera empresa en Shanghái <funding/first-startup-subsidy>` (上海首次创业一次性补贴 · Subvención a fondo perdido · Toda la ciudad / global · Sin cesión de participaciones) — **Pago único de 8.000 RMB para fundadores elegibles**. Graduados con hukou de Shanghái dentro de los 2 años desde la graduación o personas locales reconocidas con dificultades de empleo. La primera organización elegible debe llevar 1 año operando y haber cotizado por al menos una persona durante 6 meses. No es una ayuda universal por constituir una empresa. (Normativa hasta el 31 de diciembre de 2027; confirmar el procedimiento distrital). [Política vigente; no se ha confirmado una convocatoria abierta]"
 
 #: ../../funding.rst:39
 msgid ""
@@ -424,7 +418,7 @@ msgid ""
 "and voucher provisions must be checked separately. Timing: Policy: 1 "
 "January 2026 to 31 December 2027; confirm the applicable call. [Status: "
 "Policy in force; call not confirmed open]"
-msgstr ":doc:`Apoyo a la innovación y cofinanciación para empresas tecnológicas de Songjiang <funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Subvención a fondo perdido · Distrito de Songjiang · Sin cesión de participaciones) — **Proyecto de innovación distrital de hasta 100.000 RMB; proyectos municipales de innovación aprobados cofinanciados en proporción 1:1 según la política**. Empresas tecnológicas elegibles conforme a las medidas y normas de ejecución de 2026-2027. Las distintas disposiciones sobre acreditación, comercialización y bonos de innovación deben verificarse por separado. (Vigencia de la política: del 1 de enero de 2026 al 31 de diciembre de 2027; confirmar la convocatoria aplicable). [Política vigente; convocatoria no confirmada como abierta]"
+msgstr ":doc:`Apoyo a la innovación y cofinanciación para empresas tecnológicas de Songjiang <funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Subvención a fondo perdido · Distrito de Songjiang · Sin cesión de participaciones) — **Proyecto de innovación distrital de hasta 100.000 RMB; proyectos municipales de innovación aprobados cofinanciados en proporción 1:1 según la política**. Empresas tecnológicas elegibles conforme a las medidas y normas de ejecución de 2026-2027. Las distintas disposiciones sobre acreditación, comercialización y bonos de innovación deben verificarse por separado. (Vigencia de la política: del 1 de enero de 2026 al 31 de diciembre de 2027; confirmar la convocatoria aplicable). [Política vigente; no se ha confirmado una convocatoria abierta]"
 
 #: ../../funding.rst:45
 msgid ""
@@ -476,7 +470,7 @@ msgid ""
 "Policy: 1 August to 31 December 2026, with qualifying cases since 1 "
 "January; confirm intake. [Status: Policy in force; call not confirmed "
 "open]"
-msgstr ":doc:`Subvención al desarrollo de empresas en etapa temprana de Chongming, 2026 <funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Subvención a fondo perdido · Distrito de Chongming · Sin cesión de participaciones) — **Hasta 100.000 RMB para proyectos en etapa temprana elegibles evaluados como excelentes**. Organizaciones emprendedoras incubadas en un centro homologado o estrechamente apoyadas por un parque municipal, con potencial de innovación y crecimiento en industrias emergentes o nichos especializados elegibles. Esta política de julio es independiente de las medidas científicas de 2024 ya expiradas. (Vigencia de la política: del 1 de agosto al 31 de diciembre de 2026, aplicable a casos elegibles desde el 1 de enero; confirmar admisión). [Política vigente; convocatoria no confirmada como abierta]"
+msgstr ":doc:`Subvención al desarrollo de empresas en etapa temprana de Chongming, 2026 <funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Subvención a fondo perdido · Distrito de Chongming · Sin cesión de participaciones) — **Hasta 100.000 RMB para proyectos en etapa temprana elegibles evaluados como excelentes**. Organizaciones emprendedoras incubadas en un centro homologado o estrechamente apoyadas por un parque municipal, con potencial de innovación y crecimiento en industrias emergentes o nichos especializados elegibles. Esta política de julio es independiente de las medidas científicas de 2024 ya expiradas. (Vigencia de la política: del 1 de agosto al 31 de diciembre de 2026, aplicable a casos elegibles desde el 1 de enero; confirmar admisión). [Política vigente; no se ha confirmado una convocatoria abierta]"
 
 #: ../../funding.rst:49
 msgid ""
@@ -500,7 +494,7 @@ msgid ""
 "subfund route, stage and domicile requirements. Fund scale is not a "
 "per-company award. Timing: Manager-led sourcing; current deal intake to "
 "confirm. [Status: Fund announced; deal intake to confirm]"
-msgstr ":doc:`Fondo para Industrias del Futuro de Jiading <funding/jiading-future-fund>` (嘉定未来产业基金 · Inversión en capital (Equity) · Distrito de Jiading · Participación en capital negociada) — **Escala anunciada del fondo de 800 millones de RMB; importe de inversión individual no preestablecido**. Proyectos encuadrados en el mandato vigente de industrias del futuro de la gestora del fondo. Confirme la gestora responsable, la vía de inversión directa o a través de subfondos, la etapa y los requisitos de domicilio societario. El tamaño total del fondo no equivale a una ayuda por empresa. (Selección de proyectos liderada por la gestora; admisión actual pendiente de confirmar). [Fondo anunciado; recepción de proyectos por confirmar]"
+msgstr ":doc:`Fondo para Industrias del Futuro de Jiading <funding/jiading-future-fund>` (嘉定未来产业基金 · Inversión en capital (Equity) · Distrito de Jiading · Participación negociada) — **Escala anunciada del fondo de 800 millones de RMB; importe de inversión individual no preestablecido**. Proyectos encuadrados en el mandato vigente de industrias del futuro de la gestora del fondo. Confirme la gestora responsable, la vía de inversión directa o a través de subfondos, la etapa y los requisitos de domicilio societario. El tamaño total del fondo no equivale a una ayuda por empresa. (Selección de proyectos liderada por la gestora; admisión actual pendiente de confirmar). [Fondo anunciado; recepción de proyectos por confirmar]"
 
 #: ../../funding.rst:51
 msgid ""
@@ -513,7 +507,7 @@ msgid ""
 "milestone and conversion conditions rather than labelling this an "
 "unrestricted equity-free grant. Timing: Closed 10 February 2026. Tel: +86 "
 "21 56160454. [Status: Closed]"
-msgstr ":doc:`Convocatoria de proyectos de «inversión previa y conversión posterior en capital» de Baoshan <funding/baoshan-conversion>` (宝山先投后股项目征集 · Apoyo convertible en capital · Distrito de Baoshan · Posible conversión en capital; revisar contrato) — **El importe y las condiciones de conversión en acciones requieren consultar la guía específica del proyecto y el contrato**. El calendario distrital de políticas de enero de 2026 recoge una convocatoria de la comisión de ciencia para proyectos bajo el modelo de inversión previa y posterior conversión en capital. Verifique los requisitos del beneficiario, los hitos técnicos y las condiciones de conversión en lugar de considerarlo una subvención a fondo perdido sin cesión de capital. (Cerrada el 10 de febrero de 2026). Tel: +86 21 56160454. [Plazo cerrado]"
+msgstr ":doc:`Convocatoria de proyectos de «inversión previa y conversión posterior en capital» de Baoshan <funding/baoshan-conversion>` (宝山先投后股项目征集 · Apoyo convertible en capital · Distrito de Baoshan · Posible conversión en capital; revisar contrato) — **El importe y las condiciones de conversión en acciones requieren consultar la guía específica del proyecto y el contrato**. El calendario distrital de políticas de enero de 2026 recoge una convocatoria de la comisión de ciencia para proyectos bajo el modelo de inversión previa y posterior conversión en capital. Verifique los requisitos del beneficiario, los hitos técnicos y las condiciones de conversión en lugar de considerarlo una subvención a fondo perdido sin cesión de participaciones. (Cerrada el 10 de febrero de 2026). Tel: +86 21 56160454. [Plazo cerrado]"
 
 #: ../../funding.rst:52
 msgid ""
@@ -525,7 +519,7 @@ msgid ""
 "fees, collateral and repayment depend on the lender and company; the "
 "directory is not an approval. Timing: Product-specific; confirm current "
 "lender terms. [Status: Published directory; lender review]"
-msgstr ":doc:`Catálogo de productos de financiación y crédito de Huangpu <funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Préstamo · Distrito de Huangpu · Sin cesión de participaciones; préstamo reembolsable) — **Crédito bancario, préstamos con garantía de emprendimiento y financiación respaldada por propiedad intelectual según el producto específico**. Seleccione el producto bancario concreto en la plataforma oficial del distrito. La elegibilidad crediticia, los avales, los tipos de interés, las comisiones, las garantías reales y los plazos de amortización dependen de la entidad financiera y de la empresa; figurar en el catálogo no implica la aprobación del crédito. (Específico de cada producto; confirmar las condiciones vigentes de la entidad prestamista). [Catálogo publicado; sujeto a evaluación del prestamista]"
+msgstr ":doc:`Catálogo de productos de financiación y crédito de Huangpu <funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Préstamo · Distrito de Huangpu · Sin cesión de participaciones; debe devolverse) — **Crédito bancario, préstamos con garantía de emprendimiento y financiación respaldada por propiedad intelectual según el producto específico**. Seleccione el producto bancario concreto en la plataforma oficial del distrito. La elegibilidad crediticia, los avales, los tipos de interés, las comisiones, las garantías reales y los plazos de amortización dependen de la entidad financiera y de la empresa; figurar en el catálogo no implica la aprobación del crédito. (Específico de cada producto; confirmar las condiciones vigentes de la entidad prestamista). [Catálogo publicado; sujeto a evaluación del prestamista]"
 
 #: ../../funding.rst:53
 msgid ""
@@ -537,7 +531,7 @@ msgid ""
 "lending, IP-backed products and guarantees have different duties and "
 "underwriting conditions. Timing: Product-specific; confirm current lender "
 "terms. [Status: Published directory; lender review]"
-msgstr ":doc:`Plataforma de servicios de financiación y crédito de Yangpu <funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Préstamo · Distrito de Yangpu · Sin cesión de participaciones; préstamo reembolsable) — **Crédito tecnológico y financiación de propiedad intelectual según el producto; sin límite único universal**. Utilice la plataforma distrital para identificar a la entidad prestamista y el producto concretos. Los préstamos tecnológicos con garantía de cumplimiento, los productos respaldados por propiedad intelectual y las líneas avaladas conllevan obligaciones y criterios de riesgo diferenciados. (Específico de cada producto; confirmar las condiciones vigentes de la entidad prestamista). [Catálogo publicado; sujeto a evaluación del prestamista]"
+msgstr ":doc:`Plataforma de servicios de financiación y crédito de Yangpu <funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Préstamo · Distrito de Yangpu · Sin cesión de participaciones; debe devolverse) — **Crédito tecnológico y financiación de propiedad intelectual según el producto; sin límite único universal**. Utilice la plataforma distrital para identificar a la entidad prestamista y el producto concretos. Los préstamos tecnológicos con garantía de cumplimiento, los productos respaldados por propiedad intelectual y las líneas avaladas conllevan obligaciones y criterios de riesgo diferenciados. (Específico de cada producto; confirmar las condiciones vigentes de la entidad prestamista). [Catálogo publicado; sujeto a evaluación del prestamista]"
 
 #: ../../funding.rst:54
 msgid ""
@@ -564,7 +558,7 @@ msgid ""
 "new chemical or electronic materials, biomanufacturing and intelligent "
 "equipment. Timing: Policy: 2025 to 2026 action plan; confirm current "
 "implementing batch. [Status: Policy in force; call not confirmed open]"
-msgstr ":doc:`Apoyo a la innovación en UAV de baja altitud y nuevos materiales del Parque Jinshan de Zhangjiang <funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Subvención / reembolso · Distrito de Jinshan · Sin cesión de participaciones) — **Apoyo específico a la I+D, incubación en centros, servicios de ensayo e industrialización bajo el plan de acción del parque 2025-2026**. Empresas y centros de innovación elegibles situados en el Parque Jinshan de Zhangjiang que trabajen en sistemas de drones (UAV) de baja altitud, nuevos materiales químicos o electrónicos, biofabricación y equipamiento inteligente. (Vigencia de la política: plan de acción 2025-2026; confirmar el lote de ejecución en curso). [Política vigente; convocatoria no confirmada como abierta]"
+msgstr ":doc:`Apoyo a la innovación en UAV de baja altitud y nuevos materiales del Parque Jinshan de Zhangjiang <funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Subvención / reembolso · Distrito de Jinshan · Sin cesión de participaciones) — **Apoyo específico a la I+D, incubación en centros, servicios de ensayo e industrialización bajo el plan de acción del parque 2025-2026**. Empresas y centros de innovación elegibles situados en el Parque Jinshan de Zhangjiang que trabajen en sistemas de drones (UAV) de baja altitud, nuevos materiales químicos o electrónicos, biofabricación y equipamiento inteligente. (Vigencia de la política: plan de acción 2025-2026; confirmar el lote de ejecución en curso). [Política vigente; no se ha confirmado una convocatoria abierta]"
 
 #: ../../funding.rst:56
 msgid ""
@@ -577,7 +571,7 @@ msgid ""
 "operating in Yangpu alongside qualifying lead investors. Timing: "
 "Manager-led sourcing and due diligence. [Status: Published investment "
 "platform; deal review]"
-msgstr ":doc:`Fondo de Coinversión Ángel «Dream Start» de Yangpu <funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Inversión en capital (Equity) · Distrito de Yangpu · Participación en capital negociada) — **Coinversión pública distrital en capital para etapas tempranas; el importe por empresa está sujeto a la aprobación del comité de inversiones**. Empresas en etapa temprana de tecnología profunda (hard-tech), computación cuántica, IA bioinspirada y spin-offs universitarias que se establezcan u operen en Yangpu en coinversión junto con inversores líderes homologados. (Selección de proyectos y due diligence lideradas por la gestora). [Plataforma de inversión publicada; sujeta a evaluación de proyectos]"
+msgstr ":doc:`Fondo de Coinversión Ángel «Dream Start» de Yangpu <funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Inversión en capital (Equity) · Distrito de Yangpu · Participación negociada) — **Coinversión pública distrital en capital para etapas tempranas; el importe por empresa está sujeto a la aprobación del comité de inversiones**. Empresas en etapa temprana de tecnología profunda (hard-tech), computación cuántica, IA bioinspirada y spin-offs universitarias que se establezcan u operen en Yangpu en coinversión junto con inversores líderes homologados. (Selección de proyectos y due diligence lideradas por la gestora). [Plataforma de inversión publicada; sujeta a evaluación de proyectos]"
 
 #: ../../funding.rst:57
 msgid ""
@@ -628,7 +622,7 @@ msgid ""
 "agriculture, marine equipment, green energy and digital economy. Timing: "
 "Implementation plan issued 20 August 2026; check track schedule. [Status: "
 "2026 competition published; track intake to confirm]"
-msgstr ":doc:`Competición de Emprendimiento e Innovación y Apoyo Vinculado de Políticas de Chongming, 2026 <funding/chongming-competition-2026>` (2026崇明区创业创新大赛与联动扶持 · Competición · Distrito de Chongming · Las condiciones de premio o inversión varían) — **Premios en metálico del certamen más canalización prioritaria hacia subvenciones distritales de creación de empresas, incubación en centros y préstamos garantizados**. Equipos emprendedores y empresas en etapa temprana alineados con las áreas de tecnología ecológica, agricultura inteligente, equipamiento marino, energía verde y economía digital de Chongming. (Plan de implementación publicado el 20 de agosto de 2026; consultar el calendario de cada pista). [Competición 2026 publicada; confirmar admisión por pista]"
+msgstr ":doc:`Competición de Emprendimiento e Innovación y Apoyo Vinculado de Políticas de Chongming, 2026 <funding/chongming-competition-2026>` (2026崇明区创业创新大赛与联动扶持 · Competición · Distrito de Chongming · Las condiciones de premio o inversión varían) — **Premios en metálico del certamen más canalización prioritaria hacia subvenciones distritales de creación de empresas, incubación en centros y préstamos garantizados**. Equipos emprendedores y empresas en etapa temprana alineados con las áreas de tecnología ecológica, agricultura inteligente, equipamiento marino, energía verde y economía digital de Chongming. (Plan de implementación publicado el 20 de agosto de 2026; consultar el calendario de cada pista). [Concurso de 2026 publicado; confirmar inscripción por categoría]"
 
 #: ../../funding.rst:61
 msgid ""
@@ -642,7 +636,7 @@ msgid ""
 "service charges and exit terms in writing. Timing: Confirm current "
 "community admission and tenancy terms. [Status: Published service; "
 "current terms to confirm]"
-msgstr ":doc:`Apoyo condicionado al alquiler de Zero Cube en Lin-gang <funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · Servicios y apoyo en especie · Nueva Área de Pudong · Sin exigencia de capital declarada; verificar contrato) — **Oficinas elegibles: 3 años sin alquiler y después 2 a mitad de precio; vivienda y servicios tienen condiciones aparte**. Proyectos individuales y de equipos pequeños seleccionados por la comunidad. El informe de agosto de 2026 no es una oferta de alquiler para todos. Confirmar por escrito selección, locales, fianzas, cargos por servicios y condiciones de salida. (Confirmar admisión y condiciones de alquiler vigentes). [Servicio publicado; condiciones vigentes por confirmar]"
+msgstr ":doc:`Apoyo condicionado al alquiler de Zero Cube en Lin-gang <funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · Servicios y apoyo en especie · Nueva Área de Pudong · Sin cesión de participaciones declarada; revisar contrato) — **Oficinas elegibles: 3 años sin alquiler y después 2 a mitad de precio; vivienda y servicios tienen condiciones aparte**. Proyectos individuales y de equipos pequeños seleccionados por la comunidad. El informe de agosto de 2026 no es una oferta de alquiler para todos. Confirmar por escrito selección, locales, fianzas, cargos por servicios y condiciones de salida. (Confirmar admisión y condiciones de alquiler vigentes). [Servicio publicado; condiciones vigentes por confirmar]"
 
 #: ../../funding.rst:62
 msgid ""
@@ -656,7 +650,7 @@ msgid ""
 "manager, screening pack, local-operation conditions and term sheet. "
 "Timing: Manager-led sourcing and due diligence. [Status: Published "
 "investment platform; deal review]"
-msgstr ":doc:`Vía de inversión inicial en IA del fondo Qingmiao de Xuhui <funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · Inversión en capital (Equity) · Distrito de Xuhui · Participación en capital negociada) — **Inversión inicial sujeta a revisión del gestor; sin importe o porcentaje de participación universal verificado**. Proyectos iniciales de IA liderados por jóvenes y acordes al mandato del fondo. El anuncio del campamento de agosto de 2026 documenta inversión y organizadores, no admisión permanente ni una subvención garantizada. Solicitar gestor responsable, documentación de selección, condiciones de operación local y hoja de términos. (Selección de proyectos y diligencia debida por el gestor). [Plataforma de inversión publicada; sujeta a evaluación de proyectos]"
+msgstr ":doc:`Vía de inversión inicial en IA del fondo Qingmiao de Xuhui <funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · Inversión en capital (Equity) · Distrito de Xuhui · Participación negociada) — **Inversión inicial sujeta a revisión del gestor; sin importe o porcentaje de participación universal verificado**. Proyectos iniciales de IA liderados por jóvenes y acordes al mandato del fondo. El anuncio del campamento de agosto de 2026 documenta inversión y organizadores, no admisión permanente ni una subvención garantizada. Solicitar gestor responsable, documentación de selección, condiciones de operación local y hoja de términos. (Selección de proyectos y diligencia debida por el gestor). [Plataforma de inversión publicada; sujeta a evaluación de proyectos]"
 
 #: ../../funding.rst:63
 msgid ""
@@ -671,7 +665,7 @@ msgid ""
 "does not establish grant eligibility; verify the written current "
 "procedure. Timing: Confirm current implementing notice and intake. "
 "[Status: Published policy; implementing intake to confirm]"
-msgstr ":doc:`Apoyo de Lin-gang al coste de servicios de herramientas de IA para OPC <funding/lingang-ai-tools>` (临港OPC人工智能工具服务费用支持 · Reembolso de gastos · Nueva Área de Pudong · Sin cesión de capital para ayudas públicas elegibles) — **Hasta el 80 % de los costes elegibles de servicios de herramientas de IA; límites y condiciones según la norma de ejecución**. OPC elegibles que adquieren servicios aprobados conforme a las medidas de marzo de 2026. Los equipos fundados por extranjeros deben confirmar entidad local, reconocimiento de la comunidad, facturas y proveedores. La inversión extranjera o una matriz extranjera no bastan para obtener la ayuda; verificar el procedimiento escrito vigente. (Confirmar las normas de ejecución y la convocatoria vigentes). [Política publicada; admisión de ejecución por confirmar]"
+msgstr ":doc:`Apoyo de Lin-gang al coste de servicios de herramientas de IA para OPC <funding/lingang-ai-tools>` (临港OPC人工智能工具服务费用支持 · Reembolso de gastos · Nueva Área de Pudong · Sin cesión de participaciones para ayudas públicas que cumplan los requisitos) — **Hasta el 80 % de los costes elegibles de servicios de herramientas de IA; límites y condiciones según la norma de ejecución**. OPC elegibles que adquieren servicios aprobados conforme a las medidas de marzo de 2026. Los equipos fundados por extranjeros deben confirmar entidad local, reconocimiento de la comunidad, facturas y proveedores. La inversión extranjera o una matriz extranjera no bastan para obtener la ayuda; verificar el procedimiento escrito vigente. (Confirmar las normas de ejecución y la convocatoria vigentes). [Política publicada; confirmar desarrollo y plazo de solicitud]"
 
 #: ../../funding.rst:64
 msgid ""
@@ -687,7 +681,7 @@ msgid ""
 "listing alone is insufficient. Timing: Confirm current implementing "
 "notice and intake. [Status: Published policy; implementing intake to "
 "confirm]"
-msgstr ":doc:`Incentivo de Lin-gang al desarrollo de herramientas de IA de código abierto para OPC <funding/lingang-open-source-ai>` (临港OPC开源AI工具开发奖励 · Subvención a fondo perdido · Nueva Área de Pudong · Sin cesión de capital para ayudas públicas elegibles) — **Incentivo anual de hasta 1 millón de RMB por desarrollo elegible de herramientas de IA y publicación en grandes plataformas internacionales de código abierto**. Incentivo independiente para desarrolladores conforme a las medidas OPC de marzo de 2026; distinto del reembolso por comprar servicios de IA. Confirmar publicación, evaluación y operación local. Los equipos extranjeros deben obtener confirmación escrita de elegibilidad para la entidad solicitante; publicar en un repositorio extranjero no basta. (Confirmar las normas de ejecución y la convocatoria vigentes). [Política publicada; admisión de ejecución por confirmar]"
+msgstr ":doc:`Incentivo de Lin-gang al desarrollo de herramientas de IA de código abierto para OPC <funding/lingang-open-source-ai>` (临港OPC开源AI工具开发奖励 · Subvención a fondo perdido · Nueva Área de Pudong · Sin cesión de participaciones para ayudas públicas que cumplan los requisitos) — **Incentivo anual de hasta 1 millón de RMB por desarrollo elegible de herramientas de IA y publicación en grandes plataformas internacionales de código abierto**. Incentivo independiente para desarrolladores conforme a las medidas OPC de marzo de 2026; distinto del reembolso por comprar servicios de IA. Confirmar publicación, evaluación y operación local. Los equipos extranjeros deben obtener confirmación escrita de elegibilidad para la entidad solicitante; publicar en un repositorio extranjero no basta. (Confirmar las normas de ejecución y la convocatoria vigentes). [Política publicada; confirmar desarrollo y plazo de solicitud]"
 
 #: ../../funding.rst:65
 msgid ""
@@ -704,4 +698,4 @@ msgid ""
 "funding call with the Pudong commerce authority. Timing: Policy through "
 "31 December 2027; confirm the implementing call. [Status: Published "
 "policy; implementing intake to confirm]"
-msgstr ":doc:`Apoyo de Pudong a la I+D con inversión extranjera y la innovación abierta <funding/pudong-foreign-rd>` (浦东外资研发与开放创新支持 · Subvención / acceso al mercado · Nueva Área de Pudong · Sin cesión de capital para ayudas públicas elegibles) — **Apoyo condicionado a centros de I+D según las normas de acreditación y financiación; sin un límite de efectivo universal verificado**. Las medidas de 2025 apoyan expresamente centros de I+D elegibles con inversión extranjera y centros de innovación abierta (GOI) de empresas de capital extranjero. Relevante para empresas de IA y hardware que estudian investigar en Pudong o Waigaoqiao. Una matriz extranjera no basta: confirmar registro local, acreditación, ubicación, restricciones sectoriales y convocatoria con la autoridad comercial de Pudong. (Normativa hasta el 31 de diciembre de 2027; confirmar la convocatoria de ejecución). [Política publicada; admisión de ejecución por confirmar]"
+msgstr ":doc:`Apoyo de Pudong a la I+D con inversión extranjera y la innovación abierta <funding/pudong-foreign-rd>` (浦东外资研发与开放创新支持 · Subvención / acceso al mercado · Nueva Área de Pudong · Sin cesión de participaciones para ayudas públicas que cumplan los requisitos) — **Apoyo condicionado a centros de I+D según las normas de acreditación y financiación; sin un límite de efectivo universal verificado**. Las medidas de 2025 apoyan expresamente centros de I+D elegibles con inversión extranjera y centros de innovación abierta (GOI) de empresas de capital extranjero. Relevante para empresas de IA y hardware que estudian investigar en Pudong o Waigaoqiao. Una matriz extranjera no basta: confirmar registro local, acreditación, ubicación, restricciones sectoriales y convocatoria con la autoridad comercial de Pudong. (Normativa hasta el 31 de diciembre de 2027; confirmar la convocatoria de ejecución). [Política publicada; confirmar desarrollo y plazo de solicitud]"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -44,7 +44,7 @@ msgstr "Hasta 800.000 RMB durante 3 años; sin participación en dividendos; sal
 
 #: ../../funding/stefg-equity.rst:15
 msgid "Temporary equity; original-price exit"
-msgstr "Participación temporal; salida al precio de adquisición original"
+msgstr "Participación temporal; salida por el importe aportado"
 
 #: ../../funding/stefg-equity.rst:17
 msgid "Eligibility and timing"
@@ -85,7 +85,7 @@ msgstr "Lista de verificación editorial para la solicitud. El procedimiento rea
 msgid ""
 "Read the foundation's current eligibility rules and choose loan or "
 "temporary equity."
-msgstr "Consultar las normas de elegibilidad vigentes de la fundación y elegir entre la modalidad de préstamo o la de capital temporal."
+msgstr "Consultar las normas de elegibilidad vigentes de la fundación y elegir entre la modalidad de préstamo o la de participación temporal."
 
 #: ../../funding/stefg-equity.rst:35
 msgid ""

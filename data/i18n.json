@@ -1444,11 +1444,11 @@
   "es": {
     "chapters": {
       "reading-the-city": {
-        "title": "Una ciudad de posibilidades conectadas",
-        "intro": "Shanghái resulta más fácil de recorrer cuando seguimos un proyecto desde la investigación hasta el prototipo, del prototipo al primer cliente y de ese cliente a un negocio escalable y repetible. La unidad práctica es una relación de trabajo: un laboratorio, un equipo de servicios distritales, un operador de incubación, un comprador corporativo o un gestor de inversiones.",
+        "title": "Entender la innovación en Shanghái",
+        "intro": "De la investigación al prototipo, del prototipo al primer cliente y de ahí a un negocio sostenible: seguir ese recorrido ayuda a orientarse en Shanghái. Lo decisivo son las relaciones de trabajo con laboratorios, servicios de apoyo de los distritos, incubadoras, clientes y gestores de inversión.",
         "sections": [
           [
-            "Un atlas práctico con límites definidos",
+            "Qué incluye este atlas",
             [
               "Esta edición abarca los 16 distritos administrativos y el registro de junio de 2026 del Ministerio de Educación para Shanghái, que comprende 69 instituciones ordinarias de educación superior: 40 universidades de grado y 29 institutos superiores técnico-profesionales. Un apéndice independiente incluye las 12 instituciones de educación superior para adultos. CEIBS y las instituciones militares requieren un tratamiento diferenciado y no se suman de forma implícita al cómputo de universidades ordinarias.",
               "El directorio de programas constituye una selección fruto de la investigación, sin pretender haber recopilado todas las organizaciones o convocatorias de financiación de Shanghái. Las políticas distritales, las vías de acceso universitario, los parques tecnológicos, las plataformas públicas, los operadores privados y las iniciativas corporativas cambian de manera independiente. Los detalles aún no verificados se señalan expresamente.",
@@ -1456,7 +1456,7 @@
             ]
           ],
           [
-            "Tres geografías, múltiples opciones",
+            "Elegir el lugar según el proyecto",
             [
               "El centro urbano ofrece proximidad a la investigación, los servicios profesionales y los clientes. Xuhui y Yangpu son puntos de partida idóneos para conectar con el ecosistema de modelos de IA y las universidades. Pudong combina la investigación de Zhangjiang y la actividad en semiconductores y biomedicina con un área de desarrollo diferenciada en Lin-gang. Estas son hipótesis iniciales: el operador y el cliente adecuados importan más que una dirección postal.",
               "Minhang y Jiading facilitan el puente entre la investigación en ingeniería y la producción industrial. Baoshan, Songjiang, Jinshan y Fengxian ofrecen distintos entornos manufactureros. Qingpu articula la colaboración regional con el entorno de investigación de Xicen. Chongming constituye un escenario singular para proyectos ecológicos, agrícolas y marinos. Los capítulos dedicados a cada distrito detallan la evidencia que respalda cada ruta.",
@@ -1474,11 +1474,11 @@
         ]
       },
       "software-ai": {
-        "title": "Inteligencia en el software",
-        "intro": "Para un equipo de IA de software, el recurso escaso suele ser un problema de cliente repetible, un conjunto de evaluación fiable y una vía legal hacia datos útiles. Una comunidad de modelos aporta valor real cuando proporciona un recurso concreto o una presentación comercial creíble.",
+        "title": "Software y aplicaciones de IA",
+        "intro": "Un equipo de software con IA necesita un problema común a varios clientes, datos de evaluación fiables y acceso legal a datos útiles. Una comunidad de desarrollo de modelos aporta valor cuando facilita recursos concretos o contactos adecuados para colaborar.",
         "sections": [
           [
-            "Elegir un punto de entrada",
+            "Por dónde empezar",
             [
               "Para ingeniería de modelos y conexiones con desarrolladores, conviene empezar por Model Speed Space, la Comunidad de Modelos de Zhangjiang, los recursos del Laboratorio de Inteligencia Artificial de Shanghái o un grupo universitario especializado. Para el despliegue empresarial, compare las relaciones reales de compra del operador con los requisitos del sector. Para un fundador independiente, consulte la política vigente de comunidades OPC de Yangpu y los espacios de incubación publicados por Changning.",
               "Abordamos los modelos fundacionales, los modelos de dominio vertical, los agentes autónomos, los sistemas multimodales, el software industrial, la evaluación, la seguridad en IA y el software científico como negocios distintos. Una aceleradora capaz de presentar a un fabricante industrial quizá no pueda suministrar un conjunto de datos financieros regulados ni un contrato de inferencia.",
@@ -1486,14 +1486,14 @@
             ]
           ],
           [
-            "Construir el piloto creíble más pequeño",
+            "Un piloto pequeño y bien definido",
             [
               "Prepare una única tarea bien acotada, una línea base (baseline), un conjunto de evaluación reservado y una métrica objetivo. Especifique el coste por tarea completada, la latencia, la gestión de errores y la revisión humana. Identifique al titular de los datos, el entorno de despliegue y el comprador responsable. Todo piloto requiere un responsable interno, un presupuesto, criterios de aceptación y una ruta hacia un contrato de producción.",
               "Presupueste por separado el entrenamiento, el ajuste fino (fine-tuning), la inferencia, la recuperación, el almacenamiento, las redes, la anotación y la evaluación. Un reembolso de cómputo puede excluir el almacenamiento o el tráfico de red. Un bono de modelos o de corpus puede cubrir únicamente a proveedores homologados y un período específico de gastos históricos. Conserve desde el primer día los registros de uso, facturas, contratos y comprobantes de pago."
             ]
           ],
           [
-            "Antes del despliegue público",
+            "Antes de ofrecer el servicio al público",
             [
               "Defina si el servicio es una herramienta interna, un despliegue para clientes empresariales (B2B) o un servicio generativo abierto al público. Consulte con la autoridad competente y un asesor cualificado qué requisitos de registro de modelos, inscripción de algoritmos, etiquetado de contenidos, protección de datos, normativa sectorial y seguridad de red resultan aplicables. Las obligaciones legales se vinculan al servicio real prestado, no a la etiqueta de «IA» en una presentación para inversores. Este atlas ofrece preguntas de orientación, pero no sustituye un procedimiento jurídico exhaustivo."
             ]
@@ -1501,8 +1501,8 @@
         ]
       },
       "hardware-ai": {
-        "title": "Inteligencia en el mundo físico",
-        "intro": "El hardware une los algoritmos con los materiales, las tolerancias de fabricación, la fiabilidad y el mantenimiento. Un prototipo atractivo es apenas el comienzo de una cadena de suministro. Recorremos los chips, sensores, robots y sistemas autónomos a través de las instalaciones técnicas que necesitan.",
+        "title": "Chips, robótica y hardware de IA",
+        "intro": "El desarrollo de hardware une algoritmos, materiales, tolerancias de fabricación, fiabilidad y mantenimiento. Un buen prototipo es solo el primer paso. Organizamos los recursos para chips, sensores, robots y sistemas autónomos según las instalaciones y los servicios técnicos que necesitan.",
         "sections": [
           [
             "Chips y sensores",
@@ -1513,14 +1513,14 @@
             ]
           ],
           [
-            "Robots e IA corporeizada (Embodied AI)",
+            "Robótica e IA física (embodied AI)",
             [
               "Separe el modelo fundacional robótico, la percepción, la planificación, el control y la arquitectura de seguridad de los motores, las transmisiones, la detección táctil, las baterías y la plataforma mecánica. Pruebe el sistema completo frente a un caso de uso concreto y definido. Las demostraciones deben especificar la carga útil, el tiempo de ciclo, las condiciones de fallo, la intervención humana requerida y el coste de mantenimiento.",
               "Compare la conexión entre investigación y fabricación de Minhang, la industria robótica de Baoshan, los servicios de ensayo de Wuning y el ecosistema robótico de Zhangjiang. Los programas corporativos pueden abrir la puerta a una conversación sobre despliegue en planta, pero no sustituyen la cualificación de producción, las certificaciones aplicables ni el plan de aceptación del cliente."
             ]
           ],
           [
-            "Otras fronteras físicas",
+            "Otros ámbitos de desarrollo",
             [
               "En el ámbito de los drones, parta de un escenario operativo real y consulte en la ruta de vehículos aéreos no tripulados (UAV) de Jinshan los servicios de vuelo de prueba y los permisos operativos aplicables. Para las interfaces cerebro-computadora (BCI) y los dispositivos médicos, separe la investigación exploratoria del desarrollo de productos sujetos a regulación sanitaria. Para la biología asistida por IA, confirme el nivel de bioseguridad, la disponibilidad de instrumental, el manejo de muestras y el acceso clínico antes de alquilar un laboratorio.",
               "Nuestro paquete de solicitud para proyectos de hardware incorpora la lista de materiales (BOM), hitos de ingeniería costeados, plan de socios de fabricación, bancos de pruebas, plan de fiabilidad y una demostración funcional. Identificamos con precisión qué puede suministrar realmente la incubadora y qué debe contratar el equipo por su cuenta."
@@ -1529,18 +1529,18 @@
         ]
       },
       "apply": {
-        "title": "De la presentación inicial a la solicitud formal",
-        "intro": "Una solicitud eficaz comienza con una verificación de encaje y culmina con un rastro documental verificable. Mantenemos un único cuarto de datos (data room) de la empresa y lo adaptamos para una evaluación de incubación, una convocatoria pública de financiación, un piloto corporativo o un proceso de inversión.",
+        "title": "Del primer contacto a la solicitud",
+        "intro": "Una buena solicitud empieza por comprobar que el proyecto cumple los requisitos. Mantenemos una carpeta común de documentación de la empresa y la adaptamos a la admisión en una incubadora, una ayuda pública, un proyecto piloto o una ronda de inversión. Cada paso debe quedar documentado.",
         "sections": [
           [
-            "La primera conversación",
+            "El primer contacto",
             [
               "Enviamos una presentación de una página en inglés y chino simplificado: empresa y equipo, problema del cliente, producto, evidencia técnica o comercial, etapa actual, presencia en Shanghái y el recurso exacto solicitado. Pedimos que se nos indique el equipo receptor asignado y las condiciones vigentes por escrito. Un primer mensaje debe ser lo bastante conciso como para reenviarse fácilmente a la persona adecuada.",
               "Asunto sugerido: Consulta ecosistema de Shanghái / nombre del proyecto / incubación, piloto o financiación. Solicitud sugerida: Estamos desarrollando [producto] para [cliente]. Nuestra evidencia actual es [métrica o prototipo]. Buscamos [recurso específico] durante [período]. Rogamos confirmen los requisitos de elegibilidad, las fechas de admisión, la lista de documentos de solicitud, las tarifas o condiciones de capital y la persona de contacto responsable."
             ]
           ],
           [
-            "El cuarto de datos compartido",
+            "Preparar la documentación común",
             [
               "Empresa: licencia comercial, código unificado de crédito social, estatutos sociales, tabla de capitalización (cap table), titularidad real (beneficial ownership), datos bancarios, domicilio registrado y operativo, subvenciones públicas previas y lista de partes vinculadas. Equipo: funciones de los fundadores, dedicación a tiempo completo, formación académica relevante, pruebas de elegibilidad y situación legal de permiso de trabajo cuando corresponda.",
               "Para fundadores internacionales y talentos retornados del extranjero, Shanghái publica directrices específicas para la solicitud del Permiso de Trabajo para Extranjeros (Categorías A/B) durante la fase de creación de la startup, Permisos de Residencia para Talento Extranjero y el Reglamento de 2026 para Fomentar que el Talento Retornado del Extranjero Trabaje y Emprenda en Shanghái. Confirme el aval del parque tecnológico de acogida y los requisitos migratorios por separado de la elegibilidad para subvenciones.",
@@ -1548,7 +1548,7 @@
             ]
           ],
           [
-            "Cuatro decisiones distintas",
+            "Cuatro procesos de decisión",
             [
               "Incubación: consulta de encaje, expediente de solicitud, revisión técnica o comercial, condiciones escritas de servicios y espacio, admisión e incorporación. Antes de firmar, confirme el alquiler del espacio de trabajo, las tarifas de servicio, el precio de cómputo, las restricciones de acceso, la propiedad intelectual y cualquier derecho de inversión.",
               "Subvención pública o reembolso: convocatoria vigente, verificación de elegibilidad, cuenta en la plataforma oficial, autorización de la entidad jurídica, presentación de evidencias, revisión del distrito o entidad de acogida, evaluación por comité de expertos, adjudicación o contrato, informes de seguimiento, aceptación final y desembolso. Esta secuencia es una guía general; la convocatoria oficial enlazada rige el procedimiento real.",
@@ -1556,7 +1556,7 @@
             ]
           ],
           [
-            "Programa de campo de cuatro semanas para aceleradoras",
+            "Un plan de cuatro semanas sobre el terreno",
             [
               "Semana 1: preseleccionar dos distritos, un socio de investigación y dos operadores basándose en el encaje sectorial y los requisitos de elegibilidad escritos. Semana 2: reunirse con el operador y un comprador potencial verosímil; inspeccionar las instalaciones. Semana 3: definir un piloto y un plan de evidencias presupuestado. Semana 4: presentar la solicitud o el dossier de inversión correspondiente y registrar la próxima fecha de decisión. Este esquema es un modelo de planificación editorial, no una promesa oficial de plazos de servicio.",
               "Mantenemos un registro de seguimiento de solicitudes con el responsable interno, la autoridad competente, la versión de la política, el período de gasto elegible, la fecha límite en la hora estándar de China (CST), el acuse de recibo de presentación, las exclusiones por doble financiación, las obligaciones de información y el siguiente paso. Una alerta en el calendario solo resulta útil tras haber confirmado la fecha límite exacta y la zona horaria."
@@ -1565,35 +1565,35 @@
         ]
       },
       "funding-guide": {
-        "title": "Capital, con sus condiciones adjuntas",
-        "intro": "Comparamos qué financia exactamente un programa, cuándo se recibe el valor, qué debe reembolsarse y si cambia la estructura de propiedad de la empresa. La etiqueta «sin cesión de capital» (equity-free) por sí sola dice demasiado poco.",
+        "title": "Financiación y condiciones de las ayudas",
+        "intro": "Comparamos qué gastos cubre cada programa, cuándo se reciben los fondos, si deben devolverse y si hay que ceder participaciones. La etiqueta «sin cesión de participaciones» no basta para entender todos los costes y obligaciones.",
         "sections": [
           [
-            "Seis mecanismos",
+            "Seis formas de apoyo",
             [
-              "Una subvención a fondo perdido (grant) es un apoyo público o filantrópico condicionado. Un reembolso abona gastos aprobados, a menudo después de haber incurrido en ellos. Un bono (voucher) o crédito solo permite compensar determinados servicios elegibles. Un préstamo exige devolución. Un incentivo fiscal modifica el cálculo de un impuesto. La inversión en capital (equity) intercambia financiación por participaciones sociales o derechos contractuales asociados.",
-              "Un concurso puede combinar premios en metálico, servicios y presentaciones a inversores, cada uno sujeto a condiciones independientes. Un puesto de trabajo subvencionado es una prestación en especie, no efectivo de libre disposición. Un fondo respaldado por el gobierno sigue siendo un vehículo de inversión cuando toma participación en el capital. Un préstamo sin intereses sigue siendo deuda."
+              "Una subvención es una ayuda pública o filantrópica sujeta a condiciones. El reembolso cubre gastos admitidos, a menudo después de pagarlos. Los bonos o créditos solo pueden usarse para determinados servicios. Los préstamos deben devolverse. Los incentivos fiscales afectan al cálculo del impuesto. En una inversión en capital, se recibe financiación a cambio de participaciones o de derechos contractuales relacionados.",
+              "Un concurso puede combinar premios, servicios y contactos con inversores, cada uno con sus propias condiciones. Un puesto de trabajo subvencionado es una ayuda en especie, no dinero de libre disposición. Un fondo público sigue siendo un inversor si adquiere participaciones. Un préstamo sin intereses también debe devolverse."
             ]
           ],
           [
-            "Diseñar un plan de financiación por capas",
+            "Planificar la financiación por etapas",
             [
-              "Antes de constituir la sociedad, verifique si los bonos de innovación para equipos, los fondos universitarios de prueba de concepto o las vías de competición aceptan al solicitante en su estado actual. Tras la constitución, compare el distrito y la actividad de la empresa con las convocatorias públicas. Para la fase de prototipo, priorice las necesidades reales de laboratorio, cómputo o validación con clientes. Para la expansión, ajuste el importe y los plazos a los criterios de inversores o entidades bancarias.",
-              "Nunca sumamos los importes máximos anunciados por políticas solapadas como si fueran un total garantizado. Los programas pueden excluir gastos duplicados, restringir proveedores vinculados, exigir operaciones locales efectivas, demandar fondos de contrapartida o desembolsar únicamente tras la auditoría de aceptación. Toda empresa necesita capital circulante para afrontar los costes que se producen antes de recibir el reembolso."
+              "Antes de constituir la empresa, comprobamos si los bonos para equipos, las ayudas universitarias de prueba de concepto o los concursos admiten al solicitante. Después, contrastamos la ubicación y la actividad con las convocatorias. En la fase de prototipo, priorizamos laboratorio, capacidad de cálculo y validación con clientes. Para crecer, ajustamos el importe y el calendario a los criterios de inversores o bancos.",
+              "No sumamos los máximos de políticas que se solapan como si fueran una ayuda total garantizada. Puede haber restricciones a la doble financiación y a los proveedores vinculados, requisitos de actividad local o aportación propia, y pagos solo tras la aceptación del proyecto. La empresa necesita capital circulante para cubrir el gasto hasta cobrar el reembolso."
             ]
           ],
           [
-            "Comparar el coste real",
+            "Comparar costes y obligaciones",
             [
-              "En las ayudas públicas, compare el período de gasto elegible, la proporción de cofinanciación exigida, el coste de auditoría, el tratamiento fiscal, las obligaciones de seguimiento y las cláusulas de reintegro (clawback). En capital riesgo, compare la valoración, el porcentaje de participación, la preferencia de liquidación, los derechos en el consejo de administración, los derechos de acompañamiento (follow-on) y las condiciones de salida. En deuda, compare el principal, el tipo de interés, las comisiones, los avales o garantías reales, el calendario de amortización y las obligaciones en caso de impago.",
-              "Para los créditos en la nube, verifique la región de la cuenta, los servicios cubiertos, la fecha de caducidad, la compatibilidad con créditos previos y la facturación por excesos de consumo. Las ofertas para la región de China y las ofertas globales pueden operar a través de entidades y cuentas distintas. La membresía gratuita en un ecosistema tecnológico no garantiza el suministro de hardware, la concesión de créditos ni la inversión."
+              "En las ayudas públicas comparamos el período de gasto admitido, la cofinanciación, la auditoría, la fiscalidad, las obligaciones de información y el reintegro. En las inversiones en capital revisamos valoración, participación, preferencia de liquidación, puestos en el consejo, derechos de inversión en futuras rondas y condiciones de salida. En los préstamos comparamos principal, intereses, comisiones, avales o garantías, amortización y responsabilidad por impago.",
+              "En los créditos de servicios en la nube comprobamos la región de la cuenta, los servicios, la caducidad, los créditos existentes y los cargos por exceso de uso. Los programas para China y los globales pueden tener operadores y cuentas diferentes. Una membresía gratuita en una comunidad tecnológica no garantiza hardware, créditos ni inversión."
             ]
           ]
         ]
       },
       "methodology": {
-        "title": "Cómo leer la evidencia",
-        "intro": "Una guía útil permite comprobar la incertidumbre. Enlazamos cada fuente junto a su afirmación y mantenemos un registro de investigación común para las siete ediciones.",
+        "title": "Fuentes y método de investigación",
+        "intro": "Una guía útil también indica qué información queda por confirmar. Enlazamos las fuentes junto a cada afirmación y mantenemos un registro de investigación común para las siete ediciones.",
         "sections": [
           [
             "Investigación y traducción",
@@ -1604,19 +1604,19 @@
             ]
           ],
           [
-            "Contactos, flujos de trabajo y ubicaciones en el mapa",
+            "Contactos, solicitudes y mapas",
             [
-              "Los números de teléfono y direcciones de correo electrónico publicados se atribuyen a su fuente documental. Cuando se trata de la centralita general de una universidad, se identifica expresamente como tal. Donde no se ha podido verificar un contacto directo, el registro proporciona el sitio web oficial o la vía de la autoridad competente y recomienda solicitar un equipo receptor específico. No hemos contactado a las organizaciones ni presentado solicitudes en nombre de terceros.",
+              "Los teléfonos públicos llevan su fuente y las centralitas universitarias se identifican como tales. Si no hay contacto directo confirmado, facilitamos la web oficial o el organismo competente para consultar qué equipo se ocupa del programa. No hemos contactado con las entidades ni presentado solicitudes en nombre de los lectores. No publicamos direcciones de correo electrónico.",
               "Los flujos de trabajo de solicitud se presentan como listas de verificación editoriales, salvo cuando el registro cita un procedimiento específico establecido en una convocatoria oficial. Los puntos de anclaje de campus y distritos sitúan un ecosistema de referencia, no una puerta de entrada verificada. Incluso los puntos trazados a partir de direcciones postales son aproximados. Los límites distritales proceden de un conjunto de datos ilustrativo de DataV, sin pretensión de exactitud topográfica, deslinde legal ni navegación."
             ]
           ],
           [
-            "Lagunas conocidas y mantenimiento responsable",
+            "Información pendiente y actualizaciones",
             [
               "La cobertura es amplia pero no exhaustiva. Muchas incubadoras privadas no publican sus condiciones comerciales vigentes. Algunas normativas distritales requieren una convocatoria anual de ejecución que no pudimos confirmar como abierta. Varias universidades carecen de un programa de emprendimiento externo verificado en esta edición; en tales casos se incluye su ficha institucional sin inventar aceleradoras ni subvenciones.",
               "El registro comprende 29 institutos superiores técnico-profesionales y 12 instituciones de educación para adultos sin afirmar que se haya realizado una investigación a nivel de programas para cada uno de ellos. En los perfiles universitarios, las áreas temáticas sugeridas y las preguntas de orientación administrativa constituyen una guía editorial y no un inventario verificado de laboratorios, contactos o ayudas disponibles.",
               "Antes de publicar una nueva edición, es preciso volver a verificar las fechas de las fuentes, la identidad del operador, el vencimiento de las políticas, los plazos de admisión, los contactos, los mecanismos de financiación, los requisitos de elegibilidad, los límites distritales y las reglas sobre doble financiación. Las afirmaciones sustituidas deben conservarse con su marca de estado histórico en lugar de reutilizarse silenciosamente. El repositorio fuente contiene los datos, las traducciones, la procedencia de las ilustraciones y los comandos reproducibles de compilación con Guidedog.",
-              "Créditos y sistema de publicación: Escrito por Vikrant Rathore, con contribuciones de Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu. Construido con Guidedog como sitio web HTML bilingüe unificado y publicación de libro en PDF maquetado con Typst."
+              "Vikrant Rathore es el autor, con la colaboración de Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu. El flujo nativo de Guidedog genera la web HTML y los libros PDF maquetados con Typst en siete idiomas."
             ]
           ],
           [
@@ -1633,7 +1633,7 @@
         "Enviar un resumen ejecutivo del proyecto y solicitar la lista vigente de requisitos de admisión.",
         "Completar la evaluación de elegibilidad y la revisión técnica o comercial del operador.",
         "Confirmar por escrito el alquiler, las tarifas de servicio, la propiedad intelectual, los precios de cómputo y cualquier derecho sobre el capital.",
-        "Firmar los documentos de admisión acordados y registrar los hitos y los responsables de soporte."
+        "Firmar los acuerdos de admisión y anotar los hitos y las personas responsables del apoyo."
       ],
       "hardware": [
         "Describir el prototipo, el equipamiento requerido, el proceso de fabricación y las necesidades de ensayo.",
@@ -1644,7 +1644,7 @@
       "corporate": [
         "Identificar al responsable de la unidad de negocio corporativa y definir un caso de uso medible.",
         "Presentar el resumen del producto, la evidencia de pilotos previos y los requisitos técnicos pertinentes.",
-        "Confirmar la disponibilidad de una cohorte abierta o acordar un piloto acotado, los derechos sobre los datos y los términos de propiedad intelectual.",
+        "Confirmar si el programa admite solicitudes o acordar un piloto acotado, los derechos sobre los datos y la propiedad intelectual.",
         "Revisar por separado los procesos de compras, condiciones de pago, criterios de aceptación y la decisión de paso a producción."
       ],
       "research": [
@@ -1684,7 +1684,7 @@
         "La administración de zona o el gobierno local correspondiente revisa y emite su recomendación; para futuras solicitudes, espere a la publicación de una nueva convocatoria."
       ],
       "stefg": [
-        "Consultar las normas de elegibilidad vigentes de la fundación y elegir entre la modalidad de préstamo o la de capital temporal.",
+        "Consultar las normas de elegibilidad vigentes de la fundación y elegir entre la modalidad de préstamo o la de participación temporal.",
         "Identificar una sede receptora autorizada y presentar la documentación exigida sobre los fundadores y el proyecto.",
         "Superar la evaluación y examinar detenidamente las obligaciones de reembolso, aportación de fondos propios del fundador y condiciones de salida.",
         "Firmar el contrato correspondiente y realizar el seguimiento de las obligaciones durante el período íntegro de tres años."
@@ -1812,7 +1812,7 @@
         "summary": "Incubadora de tecnología profunda (deep-tech) con ecosistema de pruebas de chips e industrialización en Zhangjiang. La incubación y la vía asociada de inversión ángel deben revisarse como contratos independientes."
       },
       "mosu": {
-        "name": "Espacio de Velocidad de Modelos de Shanghái (Model Speed Space)",
+        "name": "Model Speed Space de Shanghái (模速空间)",
         "summary": "Comunidad especializada en la incubación y aceleración de grandes modelos en el West Bund. Su operador gestiona varias zonas; la admisión, el espacio de oficina, el apoyo de cómputo y la inversión constituyen decisiones separadas.",
         "address": "Zona A, Calle Longtai 180, Distrito de Xuhui"
       },
@@ -1990,7 +1990,7 @@
       },
       "stefg": {
         "name": "Fondo Ángel de la Fundación STEFG",
-        "summary": "La fundación ofrece vías diferenciadas de apoyo mediante préstamos sin intereses y capital temporal para emprendedores universitarios chinos que cumplan los requisitos. Se aplican condiciones de nacionalidad, edad, participación accionarial, dedicación a tiempo completo y antigüedad de la sociedad.",
+        "summary": "La fundación ofrece vías diferenciadas de apoyo mediante préstamos sin intereses y participación temporal para emprendedores universitarios chinos que cumplan los requisitos. Se aplican condiciones de nacionalidad, edad, participación accionarial, dedicación a tiempo completo y antigüedad de la sociedad.",
         "address": "Oficina 108, Edificio 10, Calle Jinian 8, Distrito de Yangpu"
       },
       "ssci": {
@@ -2092,8 +2092,8 @@
         "summary": "Siemens publica una vía de conexión para startups y un mercado digital (marketplace) de soluciones industriales, contando además con una plataforma específica de Xcelerator en China. La incorporación al catálogo digital y las alianzas industriales son procesos distintos de una concesión de financiación."
       },
       "bmw": {
-        "name": "BMW Group Startup Garage (Programa de cliente de riesgo)",
-        "summary": "BMW describe un modelo de cliente de riesgo (venture-client) para evaluar soluciones de startups aplicables a productos, servicios y procesos internos. Valide quién es el responsable de negocio en China y los requisitos del piloto; la actividad de venture-client no conlleva necesariamente inversión en capital."
+        "name": "BMW Group Startup Garage",
+        "summary": "BMW aplica el modelo venture client: actúa como cliente de una startup para probar soluciones destinadas a productos, servicios y procesos internos. Es necesario confirmar el equipo responsable en China y los requisitos del piloto. Esta colaboración no implica necesariamente una inversión en capital."
       },
       "sii-beiyang": {
         "name": "Shanghai Innovation Institute / red de emprendimiento de IA de Beiyang",
@@ -2516,7 +2516,7 @@
       "baoshan-conversion": {
         "name": "Convocatoria de proyectos de «inversión previa y conversión posterior en capital» de Baoshan",
         "amount": "El importe y las condiciones de conversión en acciones requieren consultar la guía específica del proyecto y el contrato",
-        "eligibility": "El calendario distrital de políticas de enero de 2026 recoge una convocatoria de la comisión de ciencia para proyectos bajo el modelo de inversión previa y posterior conversión en capital. Verifique los requisitos del beneficiario, los hitos técnicos y las condiciones de conversión en lugar de considerarlo una subvención a fondo perdido sin cesión de capital.",
+        "eligibility": "El calendario distrital de políticas de enero de 2026 recoge una convocatoria de la comisión de ciencia para proyectos bajo el modelo de inversión previa y posterior conversión en capital. Verifique los requisitos del beneficiario, los hitos técnicos y las condiciones de conversión en lugar de considerarlo una subvención a fondo perdido sin cesión de participaciones.",
         "deadline": "Cerrada el 10 de febrero de 2026"
       },
       "huangpu-credit-directory": {
@@ -2661,37 +2661,37 @@
       "Potential equity conversion; review contract": "Posible conversión en capital; revisar contrato",
       "Published directory; lender review": "Catálogo publicado; sujeto a evaluación del prestamista",
       "No equity": "Sin cesión de participaciones",
-      "No equity; repayable": "Sin cesión de participaciones; préstamo reembolsable",
-      "Temporary equity; original-price exit": "Participación temporal; salida al precio de adquisición original",
+      "No equity; repayable": "Sin cesión de participaciones; debe devolverse",
+      "Temporary equity; original-price exit": "Participación temporal; salida por el importe aportado",
       "Award / investment terms vary": "Las condiciones de premio o inversión varían",
-      "No equity stated in offer; verify terms": "Sin exigencia de capital declarada; verificar contrato",
+      "No equity stated in offer; verify terms": "Sin cesión de participaciones declarada; revisar contrato",
       "Verify current agreement": "Verificar el acuerdo vigente",
-      "Negotiated equity": "Participación en capital negociada",
-      "No equity; product obligations apply": "Sin cesión de capital; se aplican obligaciones de producto",
-      "No equity for qualifying public support": "Sin cesión de capital para ayudas públicas elegibles",
+      "Negotiated equity": "Participación negociada",
+      "No equity; product obligations apply": "Sin cesión de participaciones; sujeto a condiciones del producto",
+      "No equity for qualifying public support": "Sin cesión de participaciones para ayudas públicas que cumplan los requisitos",
       "Program published; eligibility review": "Programa publicado; sujeto a revisión de elegibilidad",
-      "Historical / confirm continuation": "Programa histórico; confirmar continuidad",
+      "Historical / confirm continuation": "Programa anterior; confirmar si continúa",
       "Regional eligibility to confirm": "Elegibilidad regional pendiente de confirmar",
-      "Published entity; intake to confirm": "Entidad documentada; admisión pendiente de confirmar",
-      "Services / possible incentives": "Servicios de espacio / posibles incentivos públicos",
-      "Equity-free services": "Servicios sin cesión de capital",
-      "Loan / temporary equity": "Préstamo / capital temporal",
+      "Published entity; intake to confirm": "Entidad verificada; admisión actual por confirmar",
+      "Services / possible incentives": "Espacios y servicios / posibles ayudas",
+      "Equity-free services": "Servicios sin cesión de participaciones",
+      "Loan / temporary equity": "Préstamo / participación temporal",
       "Closed": "Plazo cerrado",
       "Policy in force; confirm service and order": "Política vigente; confirmar servicio y pedido",
-      "Policy in force; call not confirmed open": "Política vigente; convocatoria no confirmada como abierta",
-      "Published policy; implementing intake to confirm": "Política publicada; admisión de ejecución por confirmar",
+      "Policy in force; call not confirmed open": "Política vigente; no se ha confirmado una convocatoria abierta",
+      "Published policy; implementing intake to confirm": "Política publicada; confirmar desarrollo y plazo de solicitud",
       "Published service; current terms to confirm": "Servicio publicado; condiciones vigentes por confirmar",
       "Published tax guidance; applicability review": "Guía fiscal publicada; revisar aplicabilidad",
       "Published tax guidance; recognition required": "Guía fiscal publicada; requiere acreditación oficial",
       "2026 call published; deadline check required": "Convocatoria 2026 publicada; verificar fecha límite",
-      "2026 competition published; track intake to confirm": "Competición 2026 publicada; confirmar admisión por pista",
+      "2026 competition published; track intake to confirm": "Concurso de 2026 publicado; confirmar inscripción por categoría",
       "2026 call published; not confirmed open": "Convocatoria 2026 publicada; no confirmada como abierta",
       "Fund announced; deal intake to confirm": "Fondo anunciado; recepción de proyectos por confirmar",
       "Published investment platform; deal review": "Plataforma de inversión publicada; sujeta a evaluación de proyectos",
-      "Quarterly scheme published; current intake to confirm": "Esquema trimestral publicado; confirmar lote actual",
-      "First 2026 batch closed; later batches to verify": "Primer lote de 2026 cerrado; verificar lotes posteriores",
+      "Quarterly scheme published; current intake to confirm": "Solicitudes trimestrales previstas; confirmar convocatoria actual",
+      "First 2026 batch closed; later batches to verify": "Primera convocatoria de 2026 cerrada; confirmar las siguientes",
       "2026 directory published; lender review": "Catálogo 2026 publicado; sujeto a evaluación bancaria",
-      "Published route; current call to confirm": "Vía publicada; convocatoria actual por confirmar",
+      "Published route; current call to confirm": "Apoyo anunciado; confirmar convocatoria vigente",
       "Citywide / global": "Toda la ciudad / global"
     },
     "deadlines": {
@@ -2720,7 +2720,7 @@
     "chapterSummaries": [
       [
         "reading-the-city",
-        "Una ciudad de posibilidades conectadas",
+        "Entender la innovación en Shanghái",
         "Lógica espacial del centro de Shanghái, los corredores industriales, las cinco Nuevas Ciudades y la Isla Ecológica de Chongming, además de notas de diseño sobre la magnolia blanca y créditos de autoría."
       ],
       [
@@ -2730,12 +2730,12 @@
       ],
       [
         "software-ai",
-        "Inteligencia en el software",
+        "Software y aplicaciones de IA",
         "Modelos fundacionales, agentes verticales, Model Speed Space, Comunidad de Modelos de Zhangjiang, bonos de cómputo y corpus, y orientación sobre cumplimiento normativo."
       ],
       [
         "hardware-ai",
-        "Inteligencia en el mundo físico",
+        "Chips, robótica y hardware de IA",
         "Chips de IA, herramientas EDA y tape-out MPW, sensores MEMS, robótica corporeizada, drones de baja altitud, interfaces cerebro-computadora y biocomputación en laboratorio húmedo."
       ],
       [
@@ -2775,7 +2775,7 @@
       ],
       [
         "funding-guide",
-        "Capital, con sus condiciones adjuntas",
+        "Financiación y condiciones de las ayudas",
         "Cómo distinguir entre subvenciones a fondo perdido, reembolsos posteriores al gasto, bonos de innovación, deuda, incentivos fiscales e inversión en capital."
       ],
       [
@@ -2790,12 +2790,12 @@
       ],
       [
         "apply",
-        "De la presentación inicial a la solicitud formal",
-        "Plantillas bilingües de primer contacto, lista de control del cuarto de datos compartido, flujos de decisión y programa de campo de cuatro semanas para aceleradoras."
+        "Del primer contacto a la solicitud",
+        "Plantillas bilingües de primer contacto, lista de control del repositorio de documentación compartido, flujos de decisión y programa de campo de cuatro semanas para aceleradoras."
       ],
       [
         "methodology",
-        "Cómo leer la evidencia",
+        "Fuentes y método de investigación",
         "Reglas de verificación documental, rigor de traducción, advertencias sobre la precisión cartográfica, lagunas conocidas y créditos del equipo de autores."
       ],
       [

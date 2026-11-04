@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../hardware-ai.rst:1
 msgid "Intelligence in the physical world"
-msgstr "Inteligencia en el mundo físico"
+msgstr "Chips, robótica y hardware de IA"
 
 #: ../../hardware-ai.rst:4
 msgid ""
@@ -26,7 +26,7 @@ msgid ""
 "reliability and service. A beautiful prototype is the beginning of a "
 "supply chain. We follow chips, sensors, robots and autonomous systems "
 "through the facilities they need."
-msgstr "El hardware une los algoritmos con los materiales, las tolerancias de fabricación, la fiabilidad y el mantenimiento. Un prototipo atractivo es apenas el comienzo de una cadena de suministro. Recorremos los chips, sensores, robots y sistemas autónomos a través de las instalaciones técnicas que necesitan."
+msgstr "El desarrollo de hardware une algoritmos, materiales, tolerancias de fabricación, fiabilidad y mantenimiento. Un buen prototipo es solo el primer paso. Organizamos los recursos para chips, sensores, robots y sistemas autónomos según las instalaciones y los servicios técnicos que necesitan."
 
 #: ../../hardware-ai.rst:7
 msgid "Engineering gates from research to repeatable production."
@@ -66,7 +66,7 @@ msgstr "El Centro de I+D de Circuitos Integrados de Shanghái (ICRD), en Zhangji
 
 #: ../../hardware-ai.rst:19
 msgid "Robots and embodied AI"
-msgstr "Robots e IA corporeizada (Embodied AI)"
+msgstr "Robótica e IA física (embodied AI)"
 
 #: ../../hardware-ai.rst:22
 msgid ""
@@ -88,7 +88,7 @@ msgstr "Compare la conexión entre investigación y fabricación de Minhang, la 
 
 #: ../../hardware-ai.rst:26
 msgid "Other physical frontiers"
-msgstr "Otras fronteras físicas"
+msgstr "Otros ámbitos de desarrollo"
 
 #: ../../hardware-ai.rst:29
 msgid ""

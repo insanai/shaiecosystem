@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -47,7 +47,7 @@ msgstr "Oficinas elegibles: 3 años sin alquiler y después 2 a mitad de precio;
 
 #: ../../funding/zero-cube-rent.rst:15
 msgid "No equity stated in offer; verify terms"
-msgstr "Sin exigencia de capital declarada; verificar contrato"
+msgstr "Sin cesión de participaciones declarada; revisar contrato"
 
 #: ../../funding/zero-cube-rent.rst:17
 msgid "Eligibility and timing"
@@ -106,7 +106,7 @@ msgstr "Confirmar por escrito el alquiler, las tarifas de servicio, la propiedad
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "Firmar los documentos de admisión acordados y registrar los hitos y los responsables de soporte."
+msgstr "Firmar los acuerdos de admisión y anotar los hitos y las personas responsables del apoyo."
 
 #: ../../funding/zero-cube-rent.rst:41
 msgid ""

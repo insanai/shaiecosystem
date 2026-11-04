@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -26,7 +26,7 @@ msgstr "Subvención / reembolso | Distrito de Jinshan"
 
 #: ../../funding/jinshan-park-2026.rst:6
 msgid "Policy in force; call not confirmed open"
-msgstr "Política vigente; convocatoria no confirmada como abierta"
+msgstr "Política vigente; no se ha confirmado una convocatoria abierta"
 
 #: ../../funding/jinshan-park-2026.rst:8
 msgid ""

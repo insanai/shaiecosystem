@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -29,12 +29,6 @@ msgid "Published service; current terms to confirm"
 msgstr "Servicio publicado; condiciones vigentes por confirmar"
 
 #: ../../funding/startup-guarantee.rst:8
-
-#| msgid ""
-#| "`Evidence S105 "
-#| "<https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. "
-#| "Shanghai's guaranteed start-up loans top 1.3 billion yuan this "
-#| "year_Editor's Pick."
 msgid ""
 "`Evidence S108 "
 "<https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. "
@@ -54,7 +48,7 @@ msgstr "El límite del préstamo y la bonificación de intereses dependen de la 
 
 #: ../../funding/startup-guarantee.rst:15
 msgid "No equity; repayable"
-msgstr "Sin cesión de participaciones; préstamo reembolsable"
+msgstr "Sin cesión de participaciones; debe devolverse"
 
 #: ../../funding/startup-guarantee.rst:17
 msgid "Eligibility and timing"

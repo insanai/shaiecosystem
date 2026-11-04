@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -38,7 +38,7 @@ msgid ""
 "support routes for eligible Chinese university entrepreneurs. "
 "Nationality, age, ownership, full-time work and company age conditions "
 "apply."
-msgstr "La fundación ofrece vías diferenciadas de apoyo mediante préstamos sin intereses y capital temporal para emprendedores universitarios chinos que cumplan los requisitos. Se aplican condiciones de nacionalidad, edad, participación accionarial, dedicación a tiempo completo y antigüedad de la sociedad."
+msgstr "La fundación ofrece vías diferenciadas de apoyo mediante préstamos sin intereses y participación temporal para emprendedores universitarios chinos que cumplan los requisitos. Se aplican condiciones de nacionalidad, edad, participación accionarial, dedicación a tiempo completo y antigüedad de la sociedad."
 
 #: ../../entities/stefg.rst:12
 msgid "`Evidence S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
@@ -50,11 +50,11 @@ msgstr "Estado y tipo de apoyo"
 
 #: ../../entities/stefg.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "Entidad documentada; admisión pendiente de confirmar"
+msgstr "Entidad verificada; admisión actual por confirmar"
 
 #: ../../entities/stefg.rst:19
 msgid "Funding mechanism: Loan / temporary equity."
-msgstr "Mecanismo de financiación: Préstamo / capital temporal."
+msgstr "Mecanismo de financiación: Préstamo / participación temporal."
 
 #: ../../entities/stefg.rst:21
 msgid "Contact and location"

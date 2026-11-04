@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -26,7 +26,7 @@ msgstr "Subvención / acceso al mercado | Nueva Área de Pudong"
 
 #: ../../funding/pudong-foreign-rd.rst:6
 msgid "Published policy; implementing intake to confirm"
-msgstr "Política publicada; admisión de ejecución por confirmar"
+msgstr "Política publicada; confirmar desarrollo y plazo de solicitud"
 
 #: ../../funding/pudong-foreign-rd.rst:8
 msgid ""
@@ -48,7 +48,7 @@ msgstr "Apoyo condicionado a centros de I+D según las normas de acreditación y
 
 #: ../../funding/pudong-foreign-rd.rst:15
 msgid "No equity for qualifying public support"
-msgstr "Sin cesión de capital para ayudas públicas elegibles"
+msgstr "Sin cesión de participaciones para ayudas públicas que cumplan los requisitos"
 
 #: ../../funding/pudong-foreign-rd.rst:17
 msgid "Eligibility and timing"

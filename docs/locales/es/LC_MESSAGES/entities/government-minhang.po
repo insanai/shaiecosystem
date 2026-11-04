@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -37,11 +37,6 @@ msgid ""
 msgstr "La política de innovación empresarial está vigente del 1 de septiembre de 2025 al 31 de agosto de 2030. Las nuevas empresas de transferencia tecnológica pueden optar a hasta 500.000 RMB anuales, con un tope de 1,5 millones de RMB en tres años y el 50 % de la inversión elegible."
 
 #: ../../entities/government-minhang.rst:10
-
-#| msgid ""
-#| "`Evidence S098 "
-#| "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
-#| "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 msgid ""
 "`Evidence S101 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
@@ -54,7 +49,7 @@ msgstr "Estado y tipo de apoyo"
 
 #: ../../entities/government-minhang.rst:15
 msgid "Published entity; intake to confirm"
-msgstr "Entidad documentada; admisión pendiente de confirmar"
+msgstr "Entidad verificada; admisión actual por confirmar"
 
 #: ../../entities/government-minhang.rst:17
 msgid ""

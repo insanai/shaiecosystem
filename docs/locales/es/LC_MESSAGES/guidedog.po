@@ -110,13 +110,13 @@ msgid "districts, connected"
 msgstr "distritos conectados"
 
 msgid "university profiles (+41 colleges)"
-msgstr "perfiles universitarios (+41 institutos)"
+msgstr "universidades (otras 41 en los registros)"
 
 msgid "organization routes"
 msgstr "perfiles de organizaciones"
 
 msgid "funding pathways"
-msgstr "vías de financiación"
+msgstr "opciones de financiación y ayudas"
 
 msgid "verified primary sources"
 msgstr "fuentes primarias verificadas"
@@ -161,7 +161,7 @@ msgid "MODELS & AGENTS"
 msgstr "MODELOS Y AGENTES"
 
 msgid "Intelligence in software"
-msgstr "Inteligencia en el software"
+msgstr "Software y aplicaciones de IA"
 
 msgid "From Model Speed Space and Zhangjiang Model Community to compute vouchers and pilot deployment."
 msgstr "Desde Model Speed Space y la Comunidad de Modelos de Zhangjiang hasta bonos de cómputo y despliegues piloto."
@@ -170,7 +170,7 @@ msgid "CHIPS & ROBOTS"
 msgstr "CHIPS Y ROBÓTICA"
 
 msgid "Intelligence in the physical world"
-msgstr "Inteligencia en el mundo físico"
+msgstr "Chips, robótica y hardware de IA"
 
 msgid "Zhangjiang tape-out, Jiading MEMS pilot lines, embodied robotics, Jinshan UAVs and biomanufacturing."
 msgstr "Tape-out en Zhangjiang, líneas piloto MEMS en Jiading, robótica corporeizada, drones en Jinshan y biofabricación."
@@ -179,7 +179,7 @@ msgid "CAPITAL WITH CONDITIONS"
 msgstr "CAPITAL CON CONDICIONES"
 
 msgid "Know what funding really means"
-msgstr "Comprender qué implica cada financiación"
+msgstr "Entender la financiación y sus condiciones"
 
 msgid "Compare 45 non-repayable grants, vouchers, interest-free loans, convertible support and state funds."
 msgstr "Compare 45 subvenciones a fondo perdido, bonos, préstamos sin intereses, apoyo convertible y fondos públicos."
@@ -206,7 +206,7 @@ msgid "FIELD EXECUTION"
 msgstr "EJECUCIÓN SOBRE EL TERRENO"
 
 msgid "From introduction to application"
-msgstr "Del primer contacto a la solicitud formal"
+msgstr "Del primer contacto a la solicitud"
 
 msgid "Outreach templates, shared data-room checklist, foreign founder work-permit guide and 4-week plan."
 msgstr "Plantillas de contacto, lista de sala de datos, guía de permisos para fundadores extranjeros y plan de 4 semanas."
@@ -260,7 +260,7 @@ msgid "Download research dataset (JSON)"
 msgstr "Descargar conjunto de datos (JSON)"
 
 msgid "Research checked 2026-11-04. Current official notices govern."
-msgstr "Investigación verificada el 04-11-2026. Rigen las convocatorias oficiales vigentes."
+msgstr "Información revisada el 4 de noviembre de 2026. Prevalecen los avisos oficiales vigentes."
 
 msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu."
 msgstr "Escrito por Vikrant Rathore con contribuciones de Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu."

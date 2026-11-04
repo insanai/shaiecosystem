@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 10:45+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: ../../methodology.rst:1
 msgid "How to read the evidence"
-msgstr "Cómo leer la evidencia"
+msgstr "Fuentes y método de investigación"
 
 #: ../../methodology.rst:4
 msgid ""
 "A useful directory makes uncertainty inspectable. We link each source "
 "near its claim and maintain one shared research record for all seven "
 "language editions."
-msgstr "Una guía útil permite comprobar la incertidumbre. Enlazamos cada fuente junto a su afirmación y mantenemos un registro de investigación común para las siete ediciones."
+msgstr "Una guía útil también indica qué información queda por confirmar. Enlazamos las fuentes junto a cada afirmación y mantenemos un registro de investigación común para las siete ediciones."
 
 #: ../../methodology.rst:6
 msgid "Research and translation"
@@ -60,16 +60,24 @@ msgstr "Los nombres de las organizaciones en chino se conservan para facilitar l
 
 #: ../../methodology.rst:15
 msgid "Contacts, workflows and map locations"
-msgstr "Contactos, flujos de trabajo y ubicaciones en el mapa"
+msgstr "Contactos, solicitudes y mapas"
 
 #: ../../methodology.rst:18
+
+#| msgid ""
+#| "Published phone numbers and email addresses are attributed to their "
+#| "source. A general university switchboard is identified as such. Where "
+#| "a direct contact is not established, the record gives the official "
+#| "website or authority route and explicitly requests a named receiving "
+#| "team. We did not contact organizations or submit applications."
 msgid ""
-"Published phone numbers and email addresses are attributed to their "
-"source. A general university switchboard is identified as such. Where a "
-"direct contact is not established, the record gives the official website "
-"or authority route and explicitly requests a named receiving team. We did "
-"not contact organizations or submit applications."
-msgstr "Los números de teléfono y direcciones de correo electrónico publicados se atribuyen a su fuente documental. Cuando se trata de la centralita general de una universidad, se identifica expresamente como tal. Donde no se ha podido verificar un contacto directo, el registro proporciona el sitio web oficial o la vía de la autoridad competente y recomienda solicitar un equipo receptor específico. No hemos contactado a las organizaciones ni presentado solicitudes en nombre de terceros."
+"Published telephone numbers are attributed to their sources, and general "
+"university switchboards are identified. Where a direct contact is "
+"unverified, we provide an official website or authority and suggest "
+"asking for the responsible team. We have not contacted organizations or "
+"submitted applications on readers' behalf. Email addresses are not "
+"published."
+msgstr "Los teléfonos públicos llevan su fuente y las centralitas universitarias se identifican como tales. Si no hay contacto directo confirmado, facilitamos la web oficial o el organismo competente para consultar qué equipo se ocupa del programa. No hemos contactado con las entidades ni presentado solicitudes en nombre de los lectores. No publicamos direcciones de correo electrónico."
 
 #: ../../methodology.rst:20
 msgid ""
@@ -82,7 +90,7 @@ msgstr "Los flujos de trabajo de solicitud se presentan como listas de verificac
 
 #: ../../methodology.rst:22
 msgid "Known gaps and responsible upkeep"
-msgstr "Lagunas conocidas y mantenimiento responsable"
+msgstr "Información pendiente y actualizaciones"
 
 #: ../../methodology.rst:25
 msgid ""
@@ -118,11 +126,9 @@ msgid ""
 "contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
 "Kanak Rathore and Emily Yue Xu. Built with Guidedog as a unified "
 "bilingual HTML website and Typst-typeset PDF book publication."
-msgstr "Créditos y sistema de publicación: Escrito por Vikrant Rathore, con contribuciones de Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu. Construido con Guidedog como sitio web HTML bilingüe unificado y publicación de libro en PDF maquetado con Typst."
+msgstr "Vikrant Rathore es el autor, con la colaboración de Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu. El flujo nativo de Guidedog genera la web HTML y los libros PDF maquetados con Typst en siete idiomas."
 
 #: ../../methodology.rst:33
-
-#| msgid "Research and translation"
 msgid "Reuse and licensing"
 msgstr "Reutilización y licencia"
 

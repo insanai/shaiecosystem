@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -26,14 +26,9 @@ msgstr "Reembolso de gastos | Toda la ciudad / global"
 
 #: ../../funding/municipal-ai-vouchers.rst:6
 msgid "First 2026 batch closed; later batches to verify"
-msgstr "Primer lote de 2026 cerrado; verificar lotes posteriores"
+msgstr "Primera convocatoria de 2026 cerrada; confirmar las siguientes"
 
 #: ../../funding/municipal-ai-vouchers.rst:8
-
-#| msgid ""
-#| "`Evidence S111 "
-#| "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
-#| "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 msgid ""
 "`Evidence S114 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "

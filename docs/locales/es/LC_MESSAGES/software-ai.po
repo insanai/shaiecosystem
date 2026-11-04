@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../software-ai.rst:1
 msgid "Intelligence in software"
-msgstr "Inteligencia en el software"
+msgstr "Software y aplicaciones de IA"
 
 #: ../../software-ai.rst:4
 msgid ""
@@ -26,7 +26,7 @@ msgid ""
 "customer problem, a reliable evaluation set and a lawful route to useful "
 "data. A model community helps when it supplies a concrete resource or a "
 "credible introduction."
-msgstr "Para un equipo de IA de software, el recurso escaso suele ser un problema de cliente repetible, un conjunto de evaluación fiable y una vía legal hacia datos útiles. Una comunidad de modelos aporta valor real cuando proporciona un recurso concreto o una presentación comercial creíble."
+msgstr "Un equipo de software con IA necesita un problema común a varios clientes, datos de evaluación fiables y acceso legal a datos útiles. Una comunidad de desarrollo de modelos aporta valor cuando facilita recursos concretos o contactos adecuados para colaborar."
 
 #: ../../software-ai.rst:7
 msgid "An AI product connects models to a customer workflow."
@@ -34,7 +34,7 @@ msgstr "Un producto de IA conecta los modelos con el flujo de trabajo real del c
 
 #: ../../software-ai.rst:10
 msgid "Choose an entry point"
-msgstr "Elegir un punto de entrada"
+msgstr "Por dónde empezar"
 
 #: ../../software-ai.rst:13
 msgid ""
@@ -66,7 +66,7 @@ msgstr "En los distritos centrales y occidentales, el Parque de Alta Tecnología
 
 #: ../../software-ai.rst:19
 msgid "Build the smallest credible pilot"
-msgstr "Construir el piloto creíble más pequeño"
+msgstr "Un piloto pequeño y bien definido"
 
 #: ../../software-ai.rst:22
 msgid ""
@@ -88,7 +88,7 @@ msgstr "Presupueste por separado el entrenamiento, el ajuste fino (fine-tuning),
 
 #: ../../software-ai.rst:26
 msgid "Before public deployment"
-msgstr "Antes del despliegue público"
+msgstr "Antes de ofrecer el servicio al público"
 
 #: ../../software-ai.rst:29
 msgid ""
@@ -102,11 +102,6 @@ msgid ""
 msgstr "Defina si el servicio es una herramienta interna, un despliegue para clientes empresariales (B2B) o un servicio generativo abierto al público. Consulte con la autoridad competente y un asesor cualificado qué requisitos de registro de modelos, inscripción de algoritmos, etiquetado de contenidos, protección de datos, normativa sectorial y seguridad de red resultan aplicables. Las obligaciones legales se vinculan al servicio real prestado, no a la etiqueta de «IA» en una presentación para inversores. Este atlas ofrece preguntas de orientación, pero no sustituye un procedimiento jurídico exhaustivo."
 
 #: ../../software-ai.rst:31
-
-#| msgid ""
-#| "`Evidence S111 "
-#| "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
-#| "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 msgid ""
 "`Evidence S114 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "

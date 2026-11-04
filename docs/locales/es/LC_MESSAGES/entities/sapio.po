@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -51,11 +51,11 @@ msgstr "Estado y tipo de apoyo"
 
 #: ../../entities/sapio.rst:17
 msgid "Historical / confirm continuation"
-msgstr "Programa histórico; confirmar continuidad"
+msgstr "Programa anterior; confirmar si continúa"
 
 #: ../../entities/sapio.rst:19
 msgid "Funding mechanism: Equity-free services."
-msgstr "Mecanismo de financiación: Servicios sin cesión de capital."
+msgstr "Mecanismo de financiación: Servicios sin cesión de participaciones."
 
 #: ../../entities/sapio.rst:21
 msgid "Contact and location"
@@ -102,7 +102,7 @@ msgstr "Presentar el resumen del producto, la evidencia de pilotos previos y los
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
-msgstr "Confirmar la disponibilidad de una cohorte abierta o acordar un piloto acotado, los derechos sobre los datos y los términos de propiedad intelectual."
+msgstr "Confirmar si el programa admite solicitudes o acordar un piloto acotado, los derechos sobre los datos y la propiedad intelectual."
 
 #: ../../entities/sapio.rst:41
 msgid ""

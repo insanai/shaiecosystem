@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -32,11 +32,6 @@ msgid ""
 msgstr "La política de IA corporeizada abarca modelos robóticos, algoritmos, datos y sistemas operativos. Sus techos máximos de apoyo sujetos a evaluación no constituyen ayudas automáticas para startups."
 
 #: ../../districts/xuhui.rst:8
-
-#| msgid ""
-#| "`Evidence S097 "
-#| "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
-#| "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
 msgid ""
 "`Evidence S100 "
 "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
@@ -114,7 +109,7 @@ msgid ""
 "community on the West Bund. Its operator lists several zones; admission, "
 "workspace, compute support and investment are separate decisions. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Espacio de Velocidad de Modelos de Shanghái (Model Speed Space) </entities/mosu>` (上海模速空间 · Incubadora · IA de software) — Comunidad especializada en la incubación y aceleración de grandes modelos en el West Bund. Su operador gestiona varias zonas; la admisión, el espacio de oficina, el apoyo de cómputo y la inversión constituyen decisiones separadas. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Model Speed Space de Shanghái (模速空间) </entities/mosu>` (上海模速空间 · Incubadora · IA de software) — Comunidad especializada en la incubación y aceleración de grandes modelos en el West Bund. Su operador gestiona varias zonas; la admisión, el espacio de oficina, el apoyo de cómputo y la inversión constituyen decisiones separadas. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/xuhui.rst:38
 msgid ""
@@ -124,7 +119,7 @@ msgid ""
 "general contact supports initial routing; open-source resources, "
 "collaboration and recruitment are separate pathways, not a generic "
 "startup grant. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Laboratorio de Inteligencia Artificial de Shanghái </entities/shlab>` (上海人工智能实验室 · Plataforma de investigación · IA de software, IA para la Ciencia) — Institución de investigación dedicada a la IA fundacional y aplicada. Su contacto general publicado sirve para la orientación inicial; los recursos de código abierto, la colaboración científica y la contratación de talento son vías independientes, no una subvención genérica para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Laboratorio de Inteligencia Artificial de Shanghái </entities/shlab>` (上海人工智能实验室 · Plataforma de investigación · IA de software, IA para la Ciencia) — Institución de investigación dedicada a la IA fundacional y aplicada. Su contacto general publicado sirve para la orientación inicial; los recursos de código abierto, la colaboración científica y la contratación de talento son vías independientes, no una subvención genérica para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/xuhui.rst:39
 msgid ""
@@ -134,7 +129,7 @@ msgid ""
 "the specific sub-park and operating address; the Caohejing name covers "
 "multiple development locations. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`Zona de Desarrollo de Caohejing </entities/caohejing>` (漕河泾开发区 · Parque tecnológico · IA de software, IA de hardware, Industria) — El operador del parque publica vías de servicio empresarial y de propiedad intelectual. Confirme el subparque específico y la dirección operativa; la denominación Caohejing abarca múltiples emplazamientos de desarrollo. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Zona de Desarrollo de Caohejing </entities/caohejing>` (漕河泾开发区 · Parque tecnológico · IA de software, IA de hardware, Industria) — El operador del parque publica vías de servicio empresarial y de propiedad intelectual. Confirme el subparque específico y la dirección operativa; la denominación Caohejing abarca múltiples emplazamientos de desarrollo. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/xuhui.rst:40
 msgid ""
@@ -144,7 +139,7 @@ msgid ""
 "Shanghai's high-quality incubator cultivation system, innovation "
 "vouchers, technology SME filings and the Startup in Shanghai portal. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Innovación Tecnológica de Shanghái (SHTIC) </entities/shtic>` (上海市科技创业中心 · Plataforma de investigación · IA de software, IA de hardware, Industria) — Institución municipal de servicios al emprendimiento científico y tecnológico que coordina el sistema de cultivo de incubadoras de alta calidad de Shanghái, los bonos de innovación, el registro de pymes tecnológicas y el portal Startup in Shanghai. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Innovación Tecnológica de Shanghái (SHTIC) </entities/shtic>` (上海市科技创业中心 · Plataforma de investigación · IA de software, IA de hardware, Industria) — Institución municipal de servicios al emprendimiento científico y tecnológico que coordina el sistema de cultivo de incubadoras de alta calidad de Shanghái, los bonos de innovación, el registro de pymes tecnológicas y el portal Startup in Shanghai. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/xuhui.rst:41
 msgid ""
@@ -157,7 +152,7 @@ msgid ""
 "offer. Ask the operator about affiliation, IP, company formation and "
 "current external-team access. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`Shanghai Innovation Institute / red de emprendimiento de IA de Beiyang </entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · Incubadora · IA de software, IA de hardware, IA para la Ciencia) — SII y Caohejing gestionan conjuntamente el Chuangzhi Future Center para emprendedores de IA surgidos de la investigación. La aceleradora de Beiyang facilita después conexiones comerciales y con la cadena de suministro. La incubación vinculada al instituto no implica admisión abierta a todos. Confirmar requisitos de vinculación, propiedad intelectual, constitución y acceso de equipos externos. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Shanghai Innovation Institute / red de emprendimiento de IA de Beiyang </entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · Incubadora · IA de software, IA de hardware, IA para la Ciencia) — SII y Caohejing gestionan conjuntamente el Chuangzhi Future Center para emprendedores de IA surgidos de la investigación. La aceleradora de Beiyang facilita después conexiones comerciales y con la cadena de suministro. La incubación vinculada al instituto no implica admisión abierta a todos. Confirmar requisitos de vinculación, propiedad intelectual, constitución y acceso de equipos externos. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/xuhui.rst:42
 msgid ""
@@ -170,7 +165,7 @@ msgid ""
 "the camp. Request the receiving manager and current investment terms; "
 "camp attendance is not an investment award. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Fondo Qingmiao de Xuhui para jóvenes emprendedores de IA </entities/qingmiao>` (徐汇人工智能青年创业基金（青苗基金） · Inversor · IA de software, IA de hardware) — Xuhui creó este fondo en septiembre de 2025. Su campamento de agosto de 2026 conectó equipos iniciales de IA con inversores y socios científicos e industriales. Shanghai Xuhui Capital Investment y Shanghai Xuhui Science and Technology Venture Capital Fund Management fueron coorganizadores. Solicitar el gestor receptor y las condiciones de inversión vigentes; participar en el campamento no equivale a recibir inversión. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Fondo Qingmiao de Xuhui para jóvenes emprendedores de IA </entities/qingmiao>` (徐汇人工智能青年创业基金（青苗基金） · Inversor · IA de software, IA de hardware) — Xuhui creó este fondo en septiembre de 2025. Su campamento de agosto de 2026 conectó equipos iniciales de IA con inversores y socios científicos e industriales. Shanghai Xuhui Capital Investment y Shanghai Xuhui Science and Technology Venture Capital Fund Management fueron coorganizadores. Solicitar el gestor receptor y las condiciones de inversión vigentes; participar en el campamento no equivale a recibir inversión. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/xuhui.rst:43
 msgid ""
@@ -180,7 +175,7 @@ msgid ""
 "themes: Materials, chemistry, bioprocessing, AI for Science. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universidad de Ciencia y Tecnología del Este de China (ECUST) </entities/university-ecust>` (华东理工大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Materiales, química, bioprocesos, IA para la Ciencia. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad de Ciencia y Tecnología del Este de China (ECUST) </entities/university-ecust>` (华东理工大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Materiales, química, bioprocesos, IA para la Ciencia. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/xuhui.rst:44
 msgid ""
@@ -190,7 +185,7 @@ msgid ""
 "creative technology. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universidad Normal de Shanghái </entities/university-shnu>` (上海师范大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Educación, ciencias de la computación, tecnología creativa. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Universidad Normal de Shanghái </entities/university-shnu>` (上海师范大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Educación, ciencias de la computación, tecnología creativa. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/xuhui.rst:45
 msgid ""
@@ -200,7 +195,7 @@ msgid ""
 "technology, creative tools. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Conservatorio de Música de Shanghái </entities/university-music>` (上海音乐学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: IA de audio, tecnología musical, herramientas creativas. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Conservatorio de Música de Shanghái </entities/university-music>` (上海音乐学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: IA de audio, tecnología musical, herramientas creativas. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/xuhui.rst:47
 msgid "Funding routes"
@@ -213,7 +208,7 @@ msgid ""
 "10m one-off and RMB 20m annual development support. Status: Published "
 "policy; implementing intake to confirm. Timing: Confirm applicable "
 "implementing notice."
-msgstr ":doc:`Apoyo al desarrollo de la industria de IA corporeizada de Xuhui </funding/xuhui-embodied>` (徐汇具身智能产业支持 · Subvención a fondo perdido · Sin cesión de participaciones) — Límites de apoyo sujetos a evaluación: hasta 10 millones de RMB en pago único y hasta 20 millones de RMB de apoyo anual al desarrollo. Estado: Política publicada; admisión de ejecución por confirmar. Plazo: Confirmar la convocatoria de ejecución aplicable."
+msgstr ":doc:`Apoyo al desarrollo de la industria de IA corporeizada de Xuhui </funding/xuhui-embodied>` (徐汇具身智能产业支持 · Subvención a fondo perdido · Sin cesión de participaciones) — Límites de apoyo sujetos a evaluación: hasta 10 millones de RMB en pago único y hasta 20 millones de RMB de apoyo anual al desarrollo. Estado: Política publicada; confirmar desarrollo y plazo de solicitud. Plazo: Confirmar la convocatoria de ejecución aplicable."
 
 #: ../../districts/xuhui.rst:51
 msgid ""
@@ -223,7 +218,7 @@ msgid ""
 "universal cheque or equity percentage verified. Status: Published "
 "investment platform; deal review. Timing: Manager-led sourcing and due "
 "diligence."
-msgstr ":doc:`Vía de inversión inicial en IA del fondo Qingmiao de Xuhui </funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · Inversión en capital (Equity) · Participación en capital negociada) — Inversión inicial sujeta a revisión del gestor; sin importe o porcentaje de participación universal verificado. Estado: Plataforma de inversión publicada; sujeta a evaluación de proyectos. Plazo: Selección de proyectos y diligencia debida por el gestor."
+msgstr ":doc:`Vía de inversión inicial en IA del fondo Qingmiao de Xuhui </funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · Inversión en capital (Equity) · Participación negociada) — Inversión inicial sujeta a revisión del gestor; sin importe o porcentaje de participación universal verificado. Estado: Plataforma de inversión publicada; sujeta a evaluación de proyectos. Plazo: Selección de proyectos y diligencia debida por el gestor."
 
 #: ../../districts/xuhui.rst:53
 msgid ":doc:`Also compare citywide funding </funding>`"

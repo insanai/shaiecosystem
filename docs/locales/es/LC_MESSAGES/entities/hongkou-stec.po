@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -59,7 +59,7 @@ msgstr "Estado y tipo de apoyo"
 
 #: ../../entities/hongkou-stec.rst:19
 msgid "Published entity; intake to confirm"
-msgstr "Entidad documentada; admisión pendiente de confirmar"
+msgstr "Entidad verificada; admisión actual por confirmar"
 
 #: ../../entities/hongkou-stec.rst:21
 msgid ""
@@ -118,7 +118,7 @@ msgstr "Confirmar por escrito el alquiler, las tarifas de servicio, la propiedad
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "Firmar los documentos de admisión acordados y registrar los hitos y los responsables de soporte."
+msgstr "Firmar los acuerdos de admisión y anotar los hitos y las personas responsables del apoyo."
 
 #: ../../entities/hongkou-stec.rst:45
 msgid ":doc:`Hongkou district route </districts/hongkou>`"

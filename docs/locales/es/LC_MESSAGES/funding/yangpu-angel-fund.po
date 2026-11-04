@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -29,11 +29,6 @@ msgid "Published investment platform; deal review"
 msgstr "Plataforma de inversión publicada; sujeta a evaluación de proyectos"
 
 #: ../../funding/yangpu-angel-fund.rst:8
-
-#| msgid ""
-#| "`Evidence S131 "
-#| "<https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_. "
-#| "杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府."
 msgid ""
 "`Evidence S134 "
 "<https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_. "
@@ -52,7 +47,7 @@ msgstr "Coinversión pública distrital en capital para etapas tempranas; el imp
 
 #: ../../funding/yangpu-angel-fund.rst:15
 msgid "Negotiated equity"
-msgstr "Participación en capital negociada"
+msgstr "Participación negociada"
 
 #: ../../funding/yangpu-angel-fund.rst:17
 msgid "Eligibility and timing"

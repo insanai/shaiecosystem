@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -26,13 +26,9 @@ msgstr "Competición | Toda la ciudad / global"
 
 #: ../../funding/haiju.rst:6
 msgid "2026 competition published; track intake to confirm"
-msgstr "Competición 2026 publicada; confirmar admisión por pista"
+msgstr "Concurso de 2026 publicado; confirmar inscripción por categoría"
 
 #: ../../funding/haiju.rst:8
-
-#| msgid ""
-#| "`Evidence S108 <https://www.hello-sh.com/haijuTalent/competition>`_. "
-#| "海聚英才官网."
 msgid ""
 "`Evidence S111 <https://www.hello-sh.com/haijuTalent/competition>`_. "
 "海聚英才官网."

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -33,11 +33,6 @@ msgid ""
 msgstr "Las medidas para la industria robótica cubren a empresas registradas elegibles que trabajen en robots inteligentes. Oriental Beauty Valley ofrece un entorno industrial diferenciado para la salud y la cosmética. Vincule cada proyecto con el organismo responsable y el lote de solicitud adecuados."
 
 #: ../../districts/fengxian.rst:8
-
-#| msgid ""
-#| "`Evidence S102 "
-#| "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
-#| "奉贤区促进智能机器人产业创新发展若干政策措施."
 msgid ""
 "`Evidence S105 "
 "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
@@ -116,7 +111,7 @@ msgid ""
 "research, inspection, consumer analysis and supply-chain tools; clinical "
 "or laboratory access is a separate arrangement. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Valle de la Belleza Oriental (Oriental Beauty Valley) </entities/oriental-beauty>` (东方美谷 · Parque tecnológico · Salud y biomedicina, Industria) — Ecosistema industrial de belleza y salud en Fengxian. Las aplicaciones de IA relevantes abarcan la investigación de formulaciones, la inspección de calidad, el análisis de consumidores y las herramientas de cadena de suministro; el acceso clínico o de laboratorio se gestiona por separado. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Valle de la Belleza Oriental (Oriental Beauty Valley) </entities/oriental-beauty>` (东方美谷 · Parque tecnológico · Salud y biomedicina, Industria) — Ecosistema industrial de belleza y salud en Fengxian. Las aplicaciones de IA relevantes abarcan la investigación de formulaciones, la inspección de calidad, el análisis de consumidores y las herramientas de cadena de suministro; el acceso clínico o de laboratorio se gestiona por separado. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/fengxian.rst:38
 msgid ""
@@ -126,7 +121,7 @@ msgid ""
 "nucleic-acid drug R&D, AI-assisted molecular design, shared laboratories "
 "and pilot manufacturing. Confirm biosafety level, cleanroom specs and "
 "admission terms. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Base de Innovación en Medicamentos Génicos Life Messenger del Oriental Beauty Valley </entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · Incubadora · Salud y biomedicina, IA para la Ciencia) — Inaugurada en abril de 2025 en Fengxian para conectar la I+D de fármacos génicos y de ácidos nucleicos, el diseño molecular asistido por IA, los laboratorios compartidos y la fabricación piloto. Confirme el nivel de bioseguridad, las especificaciones de sala blanca y las condiciones de admisión. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Base de Innovación en Medicamentos Génicos Life Messenger del Oriental Beauty Valley </entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · Incubadora · Salud y biomedicina, IA para la Ciencia) — Inaugurada en abril de 2025 en Fengxian para conectar la I+D de fármacos génicos y de ácidos nucleicos, el diseño molecular asistido por IA, los laboratorios compartidos y la fabricación piloto. Confirme el nivel de bioseguridad, las especificaciones de sala blanca y las condiciones de admisión. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/fengxian.rst:39
 msgid ""
@@ -136,7 +131,7 @@ msgid ""
 "engineering, materials, industrial AI. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Instituto de Tecnología de Shanghái </entities/university-sit>` (上海应用技术大学 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Ingeniería aplicada, materiales, IA industrial. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Instituto de Tecnología de Shanghái </entities/university-sit>` (上海应用技术大学 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Ingeniería aplicada, materiales, IA industrial. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/fengxian.rst:40
 msgid ""
@@ -146,7 +141,7 @@ msgid ""
 "service innovation. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Escuela de Negocios de Shanghái </entities/university-business>` (上海商学院 · Universidad) — Registro institucional en el padrón del Ministerio de Educación de junio de 2026. Temas de colaboración sugeridos: Comercio minorista digital, comercio electrónico, innovación en servicios. Estos temas constituyen una orientación editorial y no una oferta verificada de acceso a laboratorios o financiación para startups. [Estado: Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Escuela de Negocios de Shanghái </entities/university-business>` (上海商学院 · Universidad) — Institución incluida en el registro del Ministerio de Educación de junio de 2026. Posibles ámbitos de colaboración: Comercio minorista digital, comercio electrónico, innovación en servicios. Son sugerencias editoriales; no confirman acceso a laboratorios ni financiación para startups. [Estado: Entidad verificada; admisión actual por confirmar]"
 
 #: ../../districts/fengxian.rst:42
 msgid "Funding routes"

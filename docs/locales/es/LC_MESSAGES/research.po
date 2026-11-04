@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -21,14 +21,10 @@ msgid "Research and technical platforms"
 msgstr "Plataformas de investigación y servicios técnicos"
 
 #: ../../research.rst:4
-
-#| msgid ""
-#| "10 profiles with evidence, contact routes and an application "
-#| "checklist. Published existence is distinguished from current intake."
 msgid ""
 "11 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "11 perfiles con evidencia, vías de contacto y lista de verificación de solicitud. La existencia publicada se distingue de la recepción activa de candidaturas."
+msgstr "11 perfiles con fuentes, contactos y pasos orientativos para solicitar apoyo. La existencia de una entidad se distingue de su admisión actual."
 
 #: ../../research.rst:8
 msgid "Complete directory summary"
@@ -43,7 +39,7 @@ msgid ""
 "services are selected on the official platform; a voucher is not a "
 "general equipment purchase budget. Tel: +86 21 61609878 ext. 217. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Promoción Tecnológica e Industrial de Circuitos Integrados de Shanghái (ICC) <entities/icc>` (上海集成电路技术与产业促进中心 · Plataforma de investigación · Nueva Área de Pudong · Chips y semiconductores, IA de hardware) — Punto de entrada para servicios técnicos de semiconductores que también publica directrices sobre bonos de innovación. Los servicios elegibles cubiertos por bonos se seleccionan en la plataforma oficial; un bono no constituye un presupuesto general para la compra de equipos. Tel: +86 21 61609878 ext. 217. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Promoción Tecnológica e Industrial de Circuitos Integrados de Shanghái (ICC) <entities/icc>` (上海集成电路技术与产业促进中心 · Plataforma de investigación · Nueva Área de Pudong · Chips y semiconductores, IA de hardware) — Punto de entrada para servicios técnicos de semiconductores que también publica directrices sobre bonos de innovación. Los servicios elegibles cubiertos por bonos se seleccionan en la plataforma oficial; un bono no constituye un presupuesto general para la compra de equipos. Tel: +86 21 61609878 ext. 217. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../research.rst:12
 msgid ""
@@ -54,7 +50,7 @@ msgid ""
 "resources, collaboration and recruitment are separate pathways, not a "
 "generic startup grant. Address: L1, International Media Port, 129 Longwen "
 "Road, Xuhui. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Laboratorio de Inteligencia Artificial de Shanghái <entities/shlab>` (上海人工智能实验室 · Plataforma de investigación · Distrito de Xuhui · IA de software, IA para la Ciencia) — Institución de investigación dedicada a la IA fundacional y aplicada. Su contacto general publicado sirve para la orientación inicial; los recursos de código abierto, la colaboración científica y la contratación de talento son vías independientes, no una subvención genérica para startups. Planta L1, Puerto Internacional de Medios, Calle Longwen 129, Distrito de Xuhui. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Laboratorio de Inteligencia Artificial de Shanghái <entities/shlab>` (上海人工智能实验室 · Plataforma de investigación · Distrito de Xuhui · IA de software, IA para la Ciencia) — Institución de investigación dedicada a la IA fundacional y aplicada. Su contacto general publicado sirve para la orientación inicial; los recursos de código abierto, la colaboración científica y la contratación de talento son vías independientes, no una subvención genérica para startups. Planta L1, Puerto Internacional de Medios, Calle Longwen 129, Distrito de Xuhui. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../research.rst:13
 msgid ""
@@ -65,7 +61,7 @@ msgid ""
 "technical proposal should identify the platform, experiment, data and "
 "proposed industrial partner. Address: 3F, Building 2, Tongji Zhangjiang "
 "Base, 398 Lianchuang Road. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro Científico de Sistemas Autónomos Inteligentes No Tripulados de la Universidad de Tongji <entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Plataforma de investigación · Nueva Área de Pudong · IA de hardware, Movilidad) — Vía de colaboración científica en sistemas autónomos. El contacto de oficina publicado se encuentra en Zhangjiang. Toda propuesta técnica debe especificar la plataforma, el experimento previsto, los datos y el socio industrial propuesto. Planta 3, Edificio 2, Base Zhangjiang de Tongji, Calle Lianchuang 398, Pudong. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro Científico de Sistemas Autónomos Inteligentes No Tripulados de la Universidad de Tongji <entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Plataforma de investigación · Nueva Área de Pudong · IA de hardware, Movilidad) — Vía de colaboración científica en sistemas autónomos. El contacto de oficina publicado se encuentra en Zhangjiang. Toda propuesta técnica debe especificar la plataforma, el experimento previsto, los datos y el socio industrial propuesto. Planta 3, Edificio 2, Base Zhangjiang de Tongji, Calle Lianchuang 398, Pudong. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../research.rst:14
 msgid ""
@@ -76,7 +72,7 @@ msgid ""
 "rather than assuming access through general university admissions. "
 "Address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan Highway. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Investigación PAI de la Universidad de Tongji <entities/tongji-pai>` (同济大学PAI研究中心 · Plataforma de investigación · Distrito de Jiading · IA de hardware, Sensores) — El centro publica una vía de colaboración industrial en localización, detección, comunicaciones y coordinación fiable. Utilizamos su canal de cooperación empresarial en lugar de asumir el acceso a través de la oficina general de admisiones universitarias. Edificio Zhixin, Campus Jiading de la Universidad de Tongji, Carretera Cao'an 4800, Jiading. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Investigación PAI de la Universidad de Tongji <entities/tongji-pai>` (同济大学PAI研究中心 · Plataforma de investigación · Distrito de Jiading · IA de hardware, Sensores) — El centro publica una vía de colaboración industrial en localización, detección, comunicaciones y coordinación fiable. Utilizamos su canal de cooperación empresarial en lugar de asumir el acceso a través de la oficina general de admisiones universitarias. Edificio Zhixin, Campus Jiading de la Universidad de Tongji, Carretera Cao'an 4800, Jiading. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../research.rst:15
 msgid ""
@@ -86,7 +82,7 @@ msgid ""
 "supporting process development, device verification and IP testing. "
 "Request a technical scoping review and written quotation for wafer or "
 "testing runs. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Investigación y Desarrollo de Circuitos Integrados de Shanghái (ICRD) <entities/icrd>` (上海集成电路研发中心 · Plataforma de investigación · Nueva Área de Pudong · Chips y semiconductores, IA de hardware) — Plataforma compartida de investigación e ingeniería en circuitos integrados situada en Zhangjiang que respalda el desarrollo de procesos, la verificación de dispositivos y el ensayo de IP. Solicite una evaluación del alcance técnico y un presupuesto por escrito para lotes de obleas o pruebas. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Investigación y Desarrollo de Circuitos Integrados de Shanghái (ICRD) <entities/icrd>` (上海集成电路研发中心 · Plataforma de investigación · Nueva Área de Pudong · Chips y semiconductores, IA de hardware) — Plataforma compartida de investigación e ingeniería en circuitos integrados situada en Zhangjiang que respalda el desarrollo de procesos, la verificación de dispositivos y el ensayo de IP. Solicite una evaluación del alcance técnico y un presupuesto por escrito para lotes de obleas o pruebas. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../research.rst:16
 msgid ""
@@ -96,7 +92,7 @@ msgid ""
 "institution coordinating Shanghai's high-quality incubator cultivation "
 "system, innovation vouchers, technology SME filings and the Startup in "
 "Shanghai portal. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Innovación Tecnológica de Shanghái (SHTIC) <entities/shtic>` (上海市科技创业中心 · Plataforma de investigación · Distrito de Xuhui · IA de software, IA de hardware, Industria) — Institución municipal de servicios al emprendimiento científico y tecnológico que coordina el sistema de cultivo de incubadoras de alta calidad de Shanghái, los bonos de innovación, el registro de pymes tecnológicas y el portal Startup in Shanghai. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Innovación Tecnológica de Shanghái (SHTIC) <entities/shtic>` (上海市科技创业中心 · Plataforma de investigación · Distrito de Xuhui · IA de software, IA de hardware, Industria) — Institución municipal de servicios al emprendimiento científico y tecnológico que coordina el sistema de cultivo de incubadoras de alta calidad de Shanghái, los bonos de innovación, el registro de pymes tecnológicas y el portal Startup in Shanghai. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../research.rst:17
 msgid ""
@@ -107,7 +103,7 @@ msgid ""
 "Center\" layout, connecting university engineering laboratories with "
 "Yangtze River Delta industrial applications. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Centro Internacional de Innovación Tsinghua de Shanghái <entities/tsinghua-shanghai>` (上海清华国际创新中心 · Plataforma de investigación · Distrito de Putuo · IA de software, IA de hardware, Chips y semiconductores) — Plataforma estratégica de investigación y transferencia tecnológica dentro del esquema «Un Eje, Un Parque, Un Centro» de Putuo, que conecta los laboratorios de ingeniería universitaria con aplicaciones industriales en el delta del río Yangtsé. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro Internacional de Innovación Tsinghua de Shanghái <entities/tsinghua-shanghai>` (上海清华国际创新中心 · Plataforma de investigación · Distrito de Putuo · IA de software, IA de hardware, Chips y semiconductores) — Plataforma estratégica de investigación y transferencia tecnológica dentro del esquema «Un Eje, Un Parque, Un Centro» de Putuo, que conecta los laboratorios de ingeniería universitaria con aplicaciones industriales en el delta del río Yangtsé. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../research.rst:18
 msgid ""
@@ -118,7 +114,7 @@ msgid ""
 "alongside district science authorities to support enterprise R&D centers "
 "in ecological tech, green manufacturing and smart agriculture. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Centro de Tecnología Empresarial y Ruta de Ecoinnovación de Chongming <entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Plataforma de investigación · Distrito de Chongming · Clima y sostenibilidad, Agricultura, Industria) — Coordinada por la Comisión Económica de Chongming (convocatoria del 14.º lote publicada en mayo de 2026) junto con las autoridades científicas distritales para respaldar centros empresariales de I+D en tecnología ecológica, fabricación verde y agricultura inteligente. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro de Tecnología Empresarial y Ruta de Ecoinnovación de Chongming <entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Plataforma de investigación · Distrito de Chongming · Clima y sostenibilidad, Agricultura, Industria) — Coordinada por la Comisión Económica de Chongming (convocatoria del 14.º lote publicada en mayo de 2026) junto con las autoridades científicas distritales para respaldar centros empresariales de I+D en tecnología ecológica, fabricación verde y agricultura inteligente. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../research.rst:19
 msgid ""
@@ -131,7 +127,7 @@ msgid ""
 "validation. Ask for compatibility, queue, sample ownership, safety "
 "responsibilities and a written service quotation. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Centro Nacional-Local de Innovación en Robots Humanoides / planta piloto <entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · Plataforma de investigación · Nueva Área de Pudong · IA de hardware, Robótica, Sensores) — El centro conecta la recogida de datos, el entrenamiento y la validación física de robots con una plataforma piloto gestionada con Shanghai Electric. El anuncio de julio de 2026 describe servicios de fabricación de prueba, ensayos y validación de usos para el sector. Confirmar compatibilidad, plazos, propiedad de muestras, responsabilidades de seguridad y presupuesto escrito. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Centro Nacional-Local de Innovación en Robots Humanoides / planta piloto <entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · Plataforma de investigación · Nueva Área de Pudong · IA de hardware, Robótica, Sensores) — El centro conecta la recogida de datos, el entrenamiento y la validación física de robots con una plataforma piloto gestionada con Shanghai Electric. El anuncio de julio de 2026 describe servicios de fabricación de prueba, ensayos y validación de usos para el sector. Confirmar compatibilidad, plazos, propiedad de muestras, responsabilidades de seguridad y presupuesto escrito. [Entidad verificada; admisión actual por confirmar]"
 
 #: ../../research.rst:20
 msgid ""
@@ -144,7 +140,7 @@ msgid ""
 "incubator or an open funding call. Ask the organizer about the next "
 "startup selection, exhibition fees and investor sessions. [Status: "
 "Historical / confirm continuation]"
-msgstr ":doc:`WAIC / red de emprendimiento Future Tech <entities/waic-future-tech>` (世界人工智能大会／Future Tech创投生态 · Plataforma de investigación · Toda la ciudad / global · IA de software, IA de hardware, Robótica, IA para la Ciencia) — La Conferencia Mundial de Inteligencia Artificial de 2026 incluyó la red Future Tech para conectar startups seleccionadas con inversores. El evento de julio de 2026 terminó. Es una vía de contactos y futuros eventos, no una incubadora permanente ni una convocatoria de financiación abierta. Consultar al organizador sobre la próxima selección, tarifas de exposición y encuentros con inversores. [Programa histórico; confirmar continuidad]"
+msgstr ":doc:`WAIC / red de emprendimiento Future Tech <entities/waic-future-tech>` (世界人工智能大会／Future Tech创投生态 · Plataforma de investigación · Toda la ciudad / global · IA de software, IA de hardware, Robótica, IA para la Ciencia) — La Conferencia Mundial de Inteligencia Artificial de 2026 incluyó la red Future Tech para conectar startups seleccionadas con inversores. El evento de julio de 2026 terminó. Es una vía de contactos y futuros eventos, no una incubadora permanente ni una convocatoria de financiación abierta. Consultar al organizador sobre la próxima selección, tarifas de exposición y encuentros con inversores. [Programa anterior; confirmar si continúa]"
 
 #: ../../research.rst:21
 msgid ""
@@ -159,4 +155,4 @@ msgid ""
 "entity, customs boundary, sector permissions and data handling before "
 "incurring costs. This is a service and collaboration route; the plan is "
 "not a cash-award offer. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Servicios de I+D en régimen aduanero e innovación sanitaria con IA de Waigaoqiao <entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · Plataforma de investigación · Nueva Área de Pudong · IA para la Ciencia, Salud y biomedicina, IA de hardware, Robótica) — El plan 2025–2026 apoya expresamente el descubrimiento de fármacos con IA, la I+D transfronteriza de dispositivos médicos, equipos avanzados y centros de I+D con inversión extranjera. Empresas extranjeras de IA y hardware pueden explorar investigación, ensayos y transferencia locales mediante la autoridad. Confirmar operador, entidad jurídica, perímetro aduanero, permisos sectoriales y tratamiento de datos antes de gastar. Es una vía de servicios y colaboración, no una promesa de efectivo. [Entidad documentada; admisión pendiente de confirmar]"
+msgstr ":doc:`Servicios de I+D en régimen aduanero e innovación sanitaria con IA de Waigaoqiao <entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · Plataforma de investigación · Nueva Área de Pudong · IA para la Ciencia, Salud y biomedicina, IA de hardware, Robótica) — El plan 2025–2026 apoya expresamente el descubrimiento de fármacos con IA, la I+D transfronteriza de dispositivos médicos, equipos avanzados y centros de I+D con inversión extranjera. Empresas extranjeras de IA y hardware pueden explorar investigación, ensayos y transferencia locales mediante la autoridad. Confirmar operador, entidad jurídica, perímetro aduanero, permisos sectoriales y tratamiento de datos antes de gastar. Es una vía de servicios y colaboración, no una promesa de efectivo. [Entidad verificada; admisión actual por confirmar]"
