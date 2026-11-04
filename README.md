@@ -104,30 +104,3 @@ The illustrations were generated in a Chinese ink-and-color style and are artist
 Bundled Libertinus, DejaVu and Noto fonts support Latin, CJK and Devanagari typesetting.
 Font licenses and provenance accompany the assets in `docs/fonts/` and `docs/_static/fonts/`.
 The map, fonts, scripts and data are served locally, with no external runtime dependencies.
-
-## GitHub Pages and Cloudflare
-
-`.github/workflows/pages.yml` builds all seven HTML editions and PDF books, runs verification and deploys the assembled directory with GitHub's official Pages actions.
-Guidedog is installed from a checksum-pinned release by `.github/actions/guidedog/action.yml`.
-GitHub Pages must use the **GitHub Actions** publishing source and the custom domain **bettershanghai.com**.
-`pages.toml` also describes the assembled folder for Guidedog's optional local publisher; we keep Actions as the active deployment route.
-
-We first verify ownership of `bettershanghai.com` through [the repository owner's Pages settings](https://github.com/organizations/insanai/settings/pages).
-GitHub handles TXT ownership verification at the owner level, and we bind the custom domain specifically to [this repository's Pages site](https://github.com/insanai/shaiecosystem/settings/pages).
-After selecting **Add a domain**, we copy GitHub's generated TXT value into Cloudflare with the name `_github-pages-challenge-insanai`, then complete verification in GitHub and retain the TXT record.
-We use the exact value GitHub supplies; the A and CNAME records below do not replace that verification.
-GitHub describes this process in [Verifying a custom domain for GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages).
-
-At Cloudflare, we configure the following records for GitHub Pages:
-
-| Type | Name | Value |
-| --- | --- | --- |
-| A | `@` | `185.199.108.153` |
-| A | `@` | `185.199.109.153` |
-| A | `@` | `185.199.110.153` |
-| A | `@` | `185.199.111.153` |
-| CNAME | `www` | `insanai.github.io` |
-
-We use DNS-only records during domain validation and certificate provisioning, then enable **Enforce HTTPS** in the repository's Pages settings when GitHub makes it available.
-The GitHub custom-domain setting, rather than the artifact's `CNAME` file, controls the domain for an Actions deployment.
-GitHub documents the records and validation steps in [Managing a custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
