@@ -16,7 +16,10 @@
  let gold = rgb("a88b53")
  let pearl = rgb("faf8f2")
  let quiet = rgb("68746d")
- let title = if zh { "上海创新生态图谱" } else if hi { "शंघाई नवाचार पारिस्थितिकी एटलस" } else if ja { "上海イノベーション生態系アトラス" } else if ko { "상하이 혁신 생태계 아틀라스" } else if de { "Shanghai Innovations-Ökosystem-Atlas" } else if es { "Atlas del Ecosistema de Innovación de Shanghái" } else { "Shanghai Ecosystem Atlas" }
+ let words = json("book-labels.json").at(code, default: json("book-labels.json").at("en"))
+ let counts = json("coverage.json")
+ let title = words.title
+ let scope = words.scope.replace("{entities}", str(counts.entities)).replace("{funding}", str(counts.funding))
  let serif = if zh {
   ("Noto Serif CJK SC", "Libertinus Serif")
  } else if ja {
@@ -50,7 +53,7 @@
    pagebreak(weak: true, to: "odd")
    block(above: 0pt, below: 13mm, sticky: true)[
     #v(11mm)
-    #text(font: sans, size: 8pt, tracking: 0.12em, fill: gold, if zh { "上海 / 创新图谱" } else if hi { "शंघाई / नवाचार एटलस" } else if ja { "上海 / フィールドノート" } else if ko { "상하이 / 필드 노트" } else if de { "SHANGHAI / FELDNOTIZEN" } else if es { "SHANGHÁI / NOTAS DE CAMPO" } else { "SHANGHAI / FIELD NOTES" })
+    #text(font: sans, size: 8pt, tracking: 0.12em, fill: gold, if zh { "上海 / 创新图谱" } else if hi { "शंघाई / इनोवेशन गाइड" } else if ja { "上海 / フィールドノート" } else if ko { "상하이 / 필드 노트" } else if de { "SHANGHAI / FELDNOTIZEN" } else if es { "SHANGHÁI / NOTAS DE CAMPO" } else { "SHANGHAI / FIELD NOTES" })
     #v(7mm)
     #text(size: 31pt, weight: "regular", it.body)
     #v(7mm)
@@ -96,15 +99,18 @@
  state("gd-page-ref").update(_ => page-ref)
  page(margin: 0mm, header: none, footer: none, numbering: none, background: none)[
   #if logo != none { place(top + left, image(logo, width: 240mm, height: 300mm, fit: "cover")) }
-  #place(top + left, dx: 23mm, dy: 22mm)[
+  #place(top + center, dy: 18mm)[
+   #block(width: 194mm)[
+   #align(center)[
    #set par(justify: false, leading: 0.35em)
    #text(font: sans, size: 8pt, tracking: 0.16em, fill: jade, if zh { "东方明珠 · 白玉兰水墨珍藏版" } else if hi { "पूरब का मोती · श्वेत मैग्नोलिया संस्करण" } else if ja { "東洋の真珠 · 白玉蘭水墨エディション" } else if ko { "동양의 진주 · 백목련 수묵 에디션" } else if de { "DIE PERLE DES ORIENTS · MAGNOLIEN-EDITION" } else if es { "LA PERLA DE ORIENTE · EDICIÓN MAGNOLIA" } else { "THE PEARL OF THE ORIENT · MAGNOLIA EDITION" })
    #v(7mm)
-   #text(font: serif, size: if zh or ja or ko { 33pt } else if de or es or hi { 32pt } else { 39pt }, fill: ink, if zh { [上海创新\ 生态图谱] } else if hi { [शंघाई नवाचार\ पारिस्थितिकी एटलस] } else if ja { [上海イノベーション\ 生態系アトラス] } else if ko { [상하이 혁신\ 생태계 아틀라스] } else if de { [Shanghai\ Innovations-Atlas] } else if es { [Atlas del Ecosistema\ de Shanghái] } else { [Shanghai\ Ecosystem Atlas] })
+   #text(font: serif, size: if zh or ja or ko { 32pt } else if de or es or hi { 31pt } else { 39pt }, fill: ink, words.cover_lines.map(line => [#line]).join(linebreak()))
    #v(5mm)
-   #text(font: sans, size: 9pt, fill: jade, if zh { "十六区 · 高校 · 软硬件人工智能 · 资金路径" } else if hi { "16 जिले · विश्वविद्यालय · AI · पूंजी" } else if ja { "16行政区 · 大学 · AI · 資金ルート" } else if ko { "16개 행정구 · 대학 · AI · 자금 경로" } else if de { "16 BEZIRKE · UNIVERSITÄTEN · KI · KAPITAL" } else if es { "16 DISTRITOS · UNIVERSIDADES · IA · CAPITAL" } else { "16 DISTRICTS / UNIVERSITIES / AI / CAPITAL" })
+   #text(font: sans, size: 9pt, fill: jade, if zh { "十六区 · 高校 · 软硬件人工智能 · 融资与扶持渠道" } else if hi { "16 जिले · विश्वविद्यालय · AI · पूंजी" } else if ja { "16行政区 · 大学 · AI · 資金ルート" } else if ko { "16개 행정구 · 대학 · AI · 자금 지원" } else if de { "16 BEZIRKE · UNIVERSITÄTEN · KI · KAPITAL" } else if es { "16 DISTRITOS · UNIVERSIDADES · IA · CAPITAL" } else { "16 DISTRICTS / UNIVERSITIES / AI / CAPITAL" })
    #v(4mm)
-   #text(font: sans, size: 8.5pt, fill: ink, if zh { "作者：Vikrant Rathore" } else if hi { "लेखक: Vikrant Rathore" } else if ja { "著者：Vikrant Rathore" } else if ko { "저자: Vikrant Rathore" } else if de { "Verfasst von Vikrant Rathore" } else if es { "Escrito por Vikrant Rathore" } else { "Written by Vikrant Rathore" })
+   #text(font: sans, size: 8.5pt, fill: ink, words.author + " Vikrant Rathore")
+   ]]
   ]
   #place(bottom + left, dx: 23mm, dy: -15mm)[
    #block(fill: rgb("faf8f2eb"), stroke: 0.5pt + rgb("dcded2"), inset: (x: 10pt, y: 7pt), radius: 2pt)[
@@ -119,21 +125,21 @@
   #v(7mm)
   #text(size: 24pt, title)
   #v(6mm)
-  #text(size: 10pt, if zh { "一部为加速器、创始人、研究者及人工智能爱好者编写的实用图谱。" } else if hi { "एक्सेलेरेटर, संस्थापकों, शोधकर्ताओं और AI उत्साही लोगों के लिए एक व्यावहारिक मार्गदर्शिका।" } else if ja { "アクセラレーター、創業者、研究者、AI実践者のための実用フィールドガイド。" } else if ko { "액셀러레이터, 창업자, 연구자 및 AI 실무자를 위한 실용 필드 가이드." } else if de { "Ein praktischer Leitfaden für Acceleratoren, Gründer, Forschende und KI-Pioniere." } else if es { "Una guía práctica para aceleradoras, fundadores, investigadores y entusiastas de la IA." } else { "A field guide for accelerators, founders, researchers and AI enthusiasts." })
+  #text(size: 10pt, if zh { "一部为加速器、创始人、研究者及人工智能爱好者编写的实用图谱。" } else if hi { "एक्सेलेरेटर, संस्थापकों, शोधकर्ताओं और AI उत्साही लोगों के लिए एक व्यावहारिक मार्गदर्शिका।" } else if ja { "アクセラレーター、創業者、研究者、AI実践者のための実用フィールドガイド。" } else if ko { "액셀러레이터, 창업자, 연구자 및 AI 실무자를 위한 실용 필드 가이드." } else if de { "Ein praktischer Leitfaden für Acceleratoren, Gründer, Forschende und KI-Interessierte." } else if es { "Una guía práctica para aceleradoras, fundadores, investigadores y entusiastas de la IA." } else { "A field guide for accelerators, founders, researchers and AI enthusiasts." })
   #v(6mm)
   #block(fill: rgb("f4f2ea"), stroke: 0.5pt + rgb("dcded2"), inset: 12pt, width: 100%)[
-   #text(font: sans, size: 8pt, tracking: 0.08em, fill: gold, if zh { "作者与贡献者署名 / CREDITS" } else { "AUTHORSHIP & PUBLICATION CREDITS" })
+   #text(font: sans, size: 8pt, tracking: 0.08em, fill: gold, words.credits)
    #v(3mm)
-   #text(size: 9.5pt, weight: "bold", fill: ink, if zh { "作者：Vikrant Rathore" } else { "Written by: Vikrant Rathore" })
+   #text(size: 9.5pt, weight: "bold", fill: ink, words.author + " Vikrant Rathore")
    #v(2mm)
-   #text(size: 9pt, fill: ink, if zh { "共同贡献者：Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu" } else { "With contributions from: Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu" })
+   #text(size: 9pt, fill: ink, words.contributors + " Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu")
    #v(2mm)
-   #text(size: 8.5pt, fill: jade, if zh { "出版系统：使用 Guidedog 原生构建为 HTML 交互式网站与 PDF 印刷级图书（支持英语、简体中文、印地语、日语、韩语、德语、西班牙语七种语言版本）。" } else { "Published with Guidedog as a unified multilingual HTML interactive website and Typst-typeset PDF book across seven native language editions (English, Simplified Chinese, Hindi, Japanese, Korean, German and Spanish)." })
+   #text(size: 8.5pt, fill: jade, words.publication)
   ]
   #v(5mm)
-  #text(size: 9pt, fill: quiet, if zh { "研究核对日期：2026年11月4日。覆盖上海全部16个行政区、125份机构档案、45条资金路径、40所本科院校，并附29所专科及12所成人高校名录。项目目录为经研究筛选的集合，并非穷尽。政策有效不代表申报开放。" } else { "Research checked 4 November 2026. Covers all 16 administrative districts, 125 organization profiles, 45 funding pathways and 40 undergraduate institutions, with 29 diploma and 12 adult college registers. Program coverage is a researched selection, not an exhaustive census. A valid policy does not imply an open application window." })
+  #text(size: 9pt, fill: quiet, scope)
   #v(4mm)
-  #text(size: 8pt, fill: quiet, if zh { "封面：原创生成中国水墨淡彩画风（水墨与矿物淡彩），描绘黄浦江薄雾中的上海天际线与盛放的上海市花白玉兰。艺术构图，不作精确地理表达。来源、研究边界及联系说明见书末。" } else { "Cover: original Chinese shuimo ink wash and light mineral color painting of the Shanghai skyline across misty Huangpu water with blooming Shanghai white magnolia (Yulania denudata). Artistic composition rather than a geographically exact view. Sources, research limits and contact notes appear at the end." })
+  #text(size: 8pt, fill: quiet, words.cover_note)
   #v(4mm)
   #text(font: sans, size: 8pt, fill: quiet, "Guidedog (HTML & PDF) / Typst / CeTZ / Fletcher / Graphviz")
   #v(8mm)
@@ -145,7 +151,7 @@
  pagebreak(to: "odd")
  counter(page).update(1)
  set page(numbering: "1",
-  header: [#text(font: sans, size: 7pt, tracking: 0.06em, fill: quiet, if zh { "上海 / 创新生态图谱" } else { "SHANGHAI / ECOSYSTEM ATLAS" }) #h(1fr) #text(font: sans, size: 7pt, fill: gold, "2026 · Vikrant Rathore")],
-  footer: context [#line(length: 100%, stroke: 0.4pt + rgb("d8d8ca")) #v(2mm) #text(font: sans, size: 7pt, fill: quiet, if zh { "白玉兰研究版 · Guidedog HTML & PDF" } else { "THE MAGNOLIA EDITION · Guidedog HTML & PDF" }) #h(1fr) #text(font: sans, size: 9pt, fill: jade, counter(page).display())])
+  header: [#text(font: sans, size: 7pt, tracking: 0.06em, fill: quiet, words.running) #h(1fr) #text(font: sans, size: 7pt, fill: gold, "2026 · Vikrant Rathore")],
+  footer: context [#line(length: 100%, stroke: 0.4pt + rgb("d8d8ca")) #v(2mm) #text(font: sans, size: 7pt, fill: quiet, words.footer + " · Guidedog HTML & PDF") #h(1fr) #text(font: sans, size: 9pt, fill: jade, counter(page).display())])
  body
 }

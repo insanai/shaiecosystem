@@ -1,0 +1,107 @@
+{
+  "en": {
+    "title": "Shanghai Ecosystem Atlas",
+    "cover_lines": [
+      "Shanghai",
+      "Ecosystem Atlas"
+    ],
+    "credits": "AUTHORSHIP & PUBLICATION",
+    "author": "Written by:",
+    "contributors": "With contributions from:",
+    "publication": "Published with Guidedog in seven website and PDF editions: English, Simplified Chinese, Hindi, Japanese, Korean, German and Spanish.",
+    "scope": "Research checked 4 November 2026. {entities} organizations and {funding} funding routes across all 16 districts. Includes 40 undergraduate institutions and registers of 29 diploma colleges and 12 adult institutions. Coverage is a researched selection. A valid policy does not mean applications are open.",
+    "cover_note": "Cover: original generated artwork in a Chinese ink-and-color style, with Shanghai at dawn, white magnolias and a connected-pearl motif. An artistic composition, not a surveyed geographic view. Sources and research limits appear at the end.",
+    "running": "SHANGHAI / ECOSYSTEM ATLAS",
+    "footer": "THE MAGNOLIA EDITION"
+  },
+  "zh": {
+    "title": "上海创新生态图谱",
+    "cover_lines": [
+      "上海创新",
+      "生态图谱"
+    ],
+    "credits": "作者与出版信息",
+    "author": "作者：",
+    "contributors": "共同贡献者：",
+    "publication": "使用 Guidedog 出版英语、简体中文、印地语、日语、韩语、德语和西班牙语七种网站及PDF版本。",
+    "scope": "研究核对日期：2026年11月4日。覆盖16个行政区的{entities}家机构与{funding}条融资及扶持渠道，含40所本科院校，并附29所专科和12所成人高校名录。内容为经研究筛选的集合。政策有效不代表正在申报。",
+    "cover_note": "封面：原创生成的中国彩墨风格插画，描绘上海晨景、白玉兰及相连的珍珠意象。属于艺术构图，不作精确地理表达。资料来源及研究边界见书末。",
+    "running": "上海／创新生态图谱",
+    "footer": "白玉兰研究版"
+  },
+  "hi": {
+    "title": "शंघाई इनोवेशन इकोसिस्टम गाइड",
+    "cover_lines": [
+      "शंघाई इनोवेशन",
+      "इकोसिस्टम गाइड"
+    ],
+    "credits": "लेखन और प्रकाशन",
+    "author": "लेखक:",
+    "contributors": "सहयोग:",
+    "publication": "Guidedog से अंग्रेज़ी, सरलीकृत चीनी, हिन्दी, जापानी, कोरियाई, जर्मन और स्पेनिश में वेबसाइट और PDF संस्करण प्रकाशित किए गए हैं।",
+    "scope": "शोध जाँच: 4 नवंबर 2026। सभी 16 ज़िलों में {entities} संस्थान और {funding} वित्तीय सहायता के विकल्प। 40 स्नातक संस्थान तथा 29 डिप्लोमा कॉलेज और 12 वयस्क उच्च शिक्षा संस्थानों की सूचियाँ शामिल हैं। यह शोध के आधार पर चयनित जानकारी है। नीति लागू होने का अर्थ आवेदन खुले होना नहीं है।",
+    "cover_note": "आवरण: चीनी स्याही और रंगों की शैली में बनाया गया मौलिक जनरेटेड चित्र। भोर का शंघाई, सफेद मैग्नोलिया और जुड़े मोती इसके विषय हैं। यह कलात्मक रचना है, सर्वेक्षण मानचित्र नहीं। स्रोत और शोध की सीमाएँ पुस्तक के अंत में हैं।",
+    "running": "शंघाई / इनोवेशन इकोसिस्टम गाइड",
+    "footer": "श्वेत मैग्नोलिया संस्करण"
+  },
+  "ja": {
+    "title": "上海イノベーション・エコシステム図鑑",
+    "cover_lines": [
+      "上海イノベーション",
+      "エコシステム図鑑"
+    ],
+    "credits": "著者・制作について",
+    "author": "著者：",
+    "contributors": "協力：",
+    "publication": "Guidedogを使用し、英語、簡体字中国語、ヒンディー語、日本語、韓国語、ドイツ語、スペイン語のウェブ版とPDF版を刊行。",
+    "scope": "調査確認日：2026年11月4日。全16区の{entities}機関と{funding}の資金調達・支援制度を収録。学部課程のある40校と、専科29校、成人高等教育12機関の名簿を掲載。調査に基づく選定であり、網羅性を保証するものではない。有効な政策でも募集中とは限らない。",
+    "cover_note": "表紙：中国の水墨彩色を思わせるオリジナル生成イラスト。夜明けの上海、白玉蘭、つながる真珠を描く。芸術的な構図であり、測量に基づく地理表現ではない。出典と調査の限界は巻末に掲載。",
+    "running": "上海／エコシステム図鑑",
+    "footer": "白玉蘭エディション"
+  },
+  "ko": {
+    "title": "상하이 혁신 생태계 가이드",
+    "cover_lines": [
+      "상하이 혁신",
+      "생태계 가이드"
+    ],
+    "credits": "집필 및 출판 정보",
+    "author": "저자:",
+    "contributors": "기여:",
+    "publication": "Guidedog으로 영어, 중국어 간체, 힌디어, 일본어, 한국어, 독일어, 스페인어 웹사이트 및 PDF 판을 발행했습니다.",
+    "scope": "조사 확인일: 2026년 11월 4일. 전체 16개 구의 {entities}개 기관과 {funding}개 자금 조달·지원 경로를 수록했습니다. 학부 과정 운영 대학 40곳, 전문대학 29곳, 성인 고등교육기관 12곳의 목록을 포함합니다. 조사에 따른 선정 자료이며, 정책이 유효해도 접수 중이라는 뜻은 아닙니다.",
+    "cover_note": "표지: 중국 수묵담채풍으로 생성한 독창적인 삽화로, 새벽의 상하이와 백목련, 연결된 진주를 표현했습니다. 측량에 근거한 지리 표현이 아닌 예술적 구성입니다. 출처와 조사 범위의 한계는 책 뒤에 안내합니다.",
+    "running": "상하이 / 혁신 생태계 가이드",
+    "footer": "백목련 에디션"
+  },
+  "de": {
+    "title": "Shanghai: Atlas des Innovationsökosystems",
+    "cover_lines": [
+      "Shanghai",
+      "Innovationsatlas"
+    ],
+    "credits": "AUTORENSCHAFT UND VERÖFFENTLICHUNG",
+    "author": "Verfasst von:",
+    "contributors": "Mit Beiträgen von:",
+    "publication": "Mit Guidedog als Website und PDF in sieben Sprachen veröffentlicht: Englisch, vereinfachtes Chinesisch, Hindi, Japanisch, Koreanisch, Deutsch und Spanisch.",
+    "scope": "Recherche geprüft am 4. November 2026. {entities} Organisationen und {funding} Finanzierungswege in allen 16 Bezirken. Enthält 40 Hochschulen mit grundständigen Studiengängen sowie Register von 29 Fachkollegs und 12 Einrichtungen der Erwachsenenhochschulbildung. Die Auswahl beruht auf Recherche. Eine gültige Richtlinie bedeutet keine offene Antragsrunde.",
+    "cover_note": "Cover: eigens generierte Illustration im Stil chinesischer Tusche- und Farbmalerei. Shanghai im Morgenlicht, weiße Magnolien und verbundene Perlen. Künstlerische Komposition, keine vermessene geografische Ansicht. Quellen und Recherchegrenzen stehen am Ende.",
+    "running": "SHANGHAI / INNOVATIONSATLAS",
+    "footer": "DIE MAGNOLIEN-AUSGABE"
+  },
+  "es": {
+    "title": "Atlas del ecosistema de innovación de Shanghái",
+    "cover_lines": [
+      "Atlas del ecosistema",
+      "de Shanghái"
+    ],
+    "credits": "AUTORÍA Y PUBLICACIÓN",
+    "author": "Autor:",
+    "contributors": "Con la colaboración de:",
+    "publication": "Publicado con Guidedog en web y PDF en siete idiomas: inglés, chino simplificado, hindi, japonés, coreano, alemán y español.",
+    "scope": "Investigación comprobada el 4 de noviembre de 2026. {entities} organizaciones y {funding} vías de financiación en los 16 distritos. Incluye 40 instituciones con estudios de grado y registros de 29 centros de formación superior corta y 12 de educación superior de adultos. Es una selección investigada. Una normativa vigente no implica una convocatoria abierta.",
+    "cover_note": "Cubierta: ilustración original generada en un estilo de tinta y color chino, con Shanghái al amanecer, magnolias blancas y perlas conectadas. Composición artística, no una vista geográfica topográfica. Las fuentes y los límites de la investigación figuran al final.",
+    "running": "SHANGHÁI / ATLAS DE INNOVACIÓN",
+    "footer": "EDICIÓN MAGNOLIA"
+  }
+}
