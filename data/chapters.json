@@ -59,7 +59,7 @@
               "上海市花为白玉兰，1986年确定。本图谱以珍珠白为主色，辅以墨黑、雾玉与香槟金。这是编辑设计配色，并非官方城市色标准。封面为原创生成的中国水墨风格插画，不是纪实照片或精确地理景观。"
             ],
             [
-              "This book and interactive atlas are written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. The publication is produced natively using Guidedog in both HTML and PDF editions (English and Simplified Chinese), sharing one verified dataset across the interactive web atlas and the illustrated print-ready books.",
+              "This book and interactive atlas are written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. The publication is produced natively using Guidedog in both HTML and PDF editions in seven languages, sharing one verified dataset across the interactive web atlas and the illustrated print-ready books.",
               "本书与交互图谱由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu 共同贡献。全书与网站使用 Guidedog 原生构建为 HTML 与 PDF 双格式版本（英文与简体中文），在交互式网页图谱与插图版 PDF 图书之间共用同一套经核实的研究数据。"
             ]
           ]
@@ -314,8 +314,8 @@
         "如何阅读证据"
       ],
       "intro": [
-        "A useful directory makes uncertainty inspectable. We link the source near the claim and keep a shared record behind the English and Simplified Chinese editions.",
-        "实用目录应让不确定性可检查。我们在相关表述旁提供来源，并以共用记录支撑中英文版本。"
+        "A useful directory makes uncertainty inspectable. We link each source near its claim and maintain one shared research record for all seven language editions.",
+        "实用的目录应明确标注不确定性。我们在相关论述旁链接来源，七种语言版本共用一份研究记录。"
       ],
       "sections": [
         [
