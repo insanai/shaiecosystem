@@ -256,6 +256,28 @@ document.addEventListener('DOMContentLoaded',()=>{
  document.querySelectorAll('[data-stat]').forEach(el=>{
   if(data.counts[el.dataset.stat]!==undefined)el.textContent=data.counts[el.dataset.stat];
  });
+ const langMenu=document.querySelector('.gd-language');
+ if(langMenu){
+  const links=Array.from(langMenu.querySelectorAll('a[data-language]'));
+  links.forEach(link=>{
+   const url=new URL(link.href,location.href);
+   url.search=location.search;
+   url.hash=location.hash;
+   link.href=url.href;
+   link.addEventListener('click',()=>{
+    try{localStorage.setItem('shanghai-atlas-language',link.dataset.language);}catch{}
+   });
+  });
+  document.addEventListener('click',event=>{
+   if(!langMenu.contains(event.target))langMenu.open=false;
+  });
+  document.addEventListener('keydown',event=>{
+   if(event.key==='Escape'&&langMenu.open){
+    langMenu.open=false;
+    langMenu.querySelector('summary')?.focus();
+   }
+  });
+ }
  const mount=document.querySelector('#atlas-app');if(!mount)return;
  const params=new URLSearchParams(location.search);
  const state={mode:params.get('mode')==='funding'?'funding':'entities',district:params.get('district')||'',q:params.get('q')||'',type:params.get('type')||'',sector:params.get('sector')||'',equity:params.get('equity')||'',savedOnly:false};
@@ -314,7 +336,7 @@ document.addEventListener('DOMContentLoaded',()=>{
   const q=new URLSearchParams();for(const k of ['mode','district','q','type','sector','equity'])if(state[k])q.set(k,state[k]);
   history.replaceState(null,'',location.pathname+(q.size?'?'+q:''));
   const switcher=document.querySelector('.language-switch');if(switcher)switcher.search=q.toString();
-  document.querySelectorAll('.lang-menu-list a').forEach(a=>{a.search=q.toString();});
+  document.querySelectorAll('.gd-language a[data-language]').forEach(a=>{a.search=q.toString();});
  }
  function render(){
   setTypes();districtSelect.value=state.district;

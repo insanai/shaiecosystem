@@ -26,7 +26,7 @@ const EDITIONS = [
 
 fs.mkdirSync('docs/downloads', { recursive: true });
 for (const [lang] of EDITIONS) {
-  run('guidedog', ['build', '-b', 'pdf', 'docs', `docs/_build/pdf/${lang}`, '-D', `language=${lang}`, '-W']);
+  run('guidedog', ['build', '-b', 'pdf', 'docs', `docs/_build/pdf/${lang}`, '-D', `language=${lang}`, '-W', '-a']);
 }
 for (const [lang] of EDITIONS) {
   const dir = `docs/_build/pdf/${lang}`;
@@ -36,7 +36,7 @@ for (const [lang] of EDITIONS) {
 }
 const baseUrl = process.env.PAGES_BASE_URL || '';
 for (const [lang, folder] of EDITIONS) {
-  const args = ['build', '-b', 'html', 'docs', `docs/_build/site/${folder}`, '-D', `language=${lang}`, '-D', 'html_context.assembled_site=true', '-W'];
+  const args = ['build', '-b', 'html', 'docs', `docs/_build/site/${folder}`, '-D', `language=${lang}`, '-D', 'html_context.assembled_site=true', '-W', '-a'];
   if (baseUrl) args.push('-D', `html_baseurl=${baseUrl.replace(/\/$/, '')}/${folder}/`);
   run('guidedog', args);
 }

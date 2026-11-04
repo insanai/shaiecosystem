@@ -29,17 +29,21 @@
   <a href="{{ pathto_root }}apply.html">{{ _('How to apply') }}</a>
  </nav>
  <div class="masthead-tools">
-  {% if assembled_site %}
   <a class="language-switch" hreflang="{% if zh %}en{% else %}zh-CN{% endif %}" lang="{% if zh %}en{% else %}zh-CN{% endif %}" href="{{ pathto_root }}../{% if zh %}en{% else %}zh-CN{% endif %}/{{ pagename }}.html">{% if zh %}EN{% else %}简体中文{% endif %}</a>
-  <details class="lang-menu">
-   <summary class="lang-menu-trigger" aria-label="{{ _('Language') }}">{{ language|replace('zh_CN', '中文')|upper }} &#9662;</summary>
-   <div class="lang-menu-list" role="menu" aria-label="{{ _('Language') }}">
+  <details class="gd-language" data-page="{{ pagename }}" data-root="{{ pathto_root }}" data-edition="{{ language }}">
+   <summary title="{{ _('Language') }}">
+    <svg class="gd-icon" viewBox="0 0 24 24" aria-hidden="true">
+     <circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c5 5 5 13 0 18M12 3c-5 5-5 13 0 18"/>
+    </svg>
+    <span class="gd-lang-label">{{ _('Language') }}: {{ language|replace('zh_CN', '中文')|upper }} &#9662;</span>
+    <span class="gd-sr">{{ _('Language') }}</span>
+   </summary>
+   <ul aria-label="{{ _('Language') }}">
     {% for ed in atlas_languages %}
-    <a href="{{ pathto_root }}../{{ ed.folder }}/{{ pagename }}.html" lang="{{ ed.tag }}" hreflang="{{ ed.tag }}" {% if ed.code == language %}class="active" aria-current="page"{% endif %}><span>{{ ed.name }}</span><small>{{ ed.tag|upper }}</small></a>
+    <li><a lang="{{ ed.tag }}" hreflang="{{ ed.tag }}" data-language="{{ ed.code }}" {% if ed.code == language %}aria-current="true"{% endif %} href="{{ pathto_root }}../{{ ed.folder }}/{{ pagename }}.html"><span>{{ ed.name }}</span><small>{{ ed.tag|upper }}</small></a></li>
     {% endfor %}
-   </div>
+   </ul>
   </details>
-  {% endif %}
   <a class="button button-small" href="{{ pathto_root }}shanghai-ecosystem-atlas-{{ pdf_lang }}.pdf" download>{{ _('Download PDF Book') }} <span aria-hidden="true">&#8595;</span></a>
  </div>
 </header>

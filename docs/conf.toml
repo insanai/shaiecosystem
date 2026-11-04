@@ -34,15 +34,15 @@ accent = "#315b50"
 default_mode = "light"
 
 [html_context]
-assembled_site = false
+assembled_site = true
 atlas_languages = [
-  {code = "en", tag = "en", name = "English", folder = "en"},
-  {code = "zh_CN", tag = "zh-CN", name = "简体中文", folder = "zh-CN"},
-  {code = "hi", tag = "hi", name = "हिन्दी", folder = "hi"},
-  {code = "ja", tag = "ja", name = "日本語", folder = "ja"},
-  {code = "ko", tag = "ko", name = "한국어", folder = "ko"},
-  {code = "de", tag = "de", name = "Deutsch", folder = "de"},
-  {code = "es", tag = "es", name = "Español", folder = "es"},
+  {code = "en", tag = "en", name = "English", short = "EN", folder = "en"},
+  {code = "zh_CN", tag = "zh-CN", name = "简体中文", short = "中文", folder = "zh-CN"},
+  {code = "hi", tag = "hi", name = "हिन्दी", short = "हिन्दी", folder = "hi"},
+  {code = "ja", tag = "ja", name = "日本語", short = "日本語", folder = "ja"},
+  {code = "ko", tag = "ko", name = "한국어", short = "한국어", folder = "ko"},
+  {code = "de", tag = "de", name = "Deutsch", short = "DE", folder = "de"},
+  {code = "es", tag = "es", name = "Español", short = "ES", folder = "es"},
 ]
 
 [[pdf_documents]]
