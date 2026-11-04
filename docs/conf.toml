@@ -1,6 +1,6 @@
 project = "Shanghai Ecosystem Atlas"
-author = "Shanghai Ecosystem Atlas"
-copyright = "2026, Shanghai Ecosystem Atlas"
+author = "Vikrant Rathore"
+copyright = "2026, Vikrant Rathore and contributors"
 version = "2026.11"
 release = "Research edition 2026-11-04"
 language = "en"
@@ -8,7 +8,7 @@ root_doc = "index"
 source_suffix = [".rst"]
 extensions = []
 templates_path = ["_templates"]
-exclude_patterns = ["_build", "locales", "zh-CN", "downloads", "Thumbs.db", ".DS_Store"]
+exclude_patterns = ["_build", "locales", "zh-CN", "downloads", "fonts", "Thumbs.db", ".DS_Store"]
 locale_dirs = ["locales"]
 gettext_compact = false
 html_theme = "guidedog"
@@ -26,6 +26,7 @@ pdf_paper_size = "a4"
 pdf_logo = "_static/atlas/shanghai-ink-cover.png"
 pdf_packages = "download"
 pdf_fonts = "system"
+pdf_font_paths = ["_static/fonts", "fonts"]
 pdf_show_urls = "no"
 
 [html_theme_options]
@@ -34,9 +35,18 @@ default_mode = "light"
 
 [html_context]
 assembled_site = false
+atlas_languages = [
+  {code = "en", tag = "en", name = "English", folder = "en"},
+  {code = "zh_CN", tag = "zh-CN", name = "简体中文", folder = "zh-CN"},
+  {code = "hi", tag = "hi", name = "हिन्दी", folder = "hi"},
+  {code = "ja", tag = "ja", name = "日本語", folder = "ja"},
+  {code = "ko", tag = "ko", name = "한국어", folder = "ko"},
+  {code = "de", tag = "de", name = "Deutsch", folder = "de"},
+  {code = "es", tag = "es", name = "Español", folder = "es"},
+]
 
 [[pdf_documents]]
 root = "index"
 file = "shanghai-ecosystem-atlas.pdf"
 title = "Shanghai Ecosystem Atlas"
-author = "Shanghai Ecosystem Atlas"
+author = "Vikrant Rathore"
