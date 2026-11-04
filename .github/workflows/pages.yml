@@ -45,6 +45,7 @@ jobs:
           PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
         run: |
           set -euo pipefail
+          node tools/check-language-entry.mjs
           node tools/build.mjs
           node tools/verify.mjs
           test -s docs/_build/site/index.html

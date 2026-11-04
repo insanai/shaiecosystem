@@ -9,7 +9,9 @@ Coverage is a researched selection, rather than an exhaustive census of every pr
 We distinguish published policies, closed calls and opportunities whose current intake needs confirmation.
 
 The website is published from [insanai/shaiecosystem](https://github.com/insanai/shaiecosystem) to **https://bettershanghai.com** using GitHub Pages.
-English is the default edition.
+The language-neutral home page uses our saved language choice, then the browser's preferred supported language, with English as the fallback.
+Links to a specific language stay in that language, and the language menu saves our choice on this browser.
+Chinese browser preferences open the Simplified Chinese edition.
 
 ## Preview and build
 
@@ -70,6 +72,7 @@ We review and commit the updated RST, PO and static dataset inputs together with
 These maintained publication inputs stay in Git so `guidedog serve docs` works in a fresh checkout.
 
 `tools/verify.mjs` checks every edition's local links, organization and funding profiles, PDF downloads, language alternates and translation completeness.
+`node tools/check-language-entry.mjs` checks browser-language matching, saved preferences and entry-page redirects.
 It also compares RMB amounts across all seven languages and checks that PDF coverage metadata matches the dataset.
 The November review corrected literal startup terminology, translated front matter, missing funding conditions and material currency discrepancies.
 Program names and original source titles remain searchable in their official forms.
