@@ -3,7 +3,7 @@
 Written by Vikrant Rathore, with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu.
 
 We publish an interactive website and illustrated PDF books in English, Simplified Chinese, Hindi, Japanese, Korean, German and Spanish using [Guidedog](https://github.com/insanai/guidedog).
-The research edition is dated 4 November 2026 and contains 131 organization profiles, 50 funding and cost-support routes, and 140 cited sources across Shanghai's 16 districts.
+The research edition is dated 4 November 2026 and contains 133 organization profiles, 53 funding and cost-support routes, and 144 cited sources across Shanghai's 16 districts.
 We include profiles for all 40 undergraduate institutions in the June 2026 Ministry of Education Shanghai register, with separate registers of 29 diploma colleges and 12 adult institutions.
 Coverage is a researched selection, rather than an exhaustive census of every program.
 We distinguish published policies, closed calls and opportunities whose current intake needs confirmation.
@@ -79,6 +79,9 @@ We publish names, telephone numbers and official contact websites, while omittin
 
 The custom theme follows Shanghai's white magnolia and the city's Pearl of the Orient identity: pearl white, ink, jade, mineral blue, coral and sunrise gold.
 A wide dawn painting blends into the landing page beneath centered hero text; a matching portrait illustration is used for the books.
+Inside the books, numbered serif chapter openings and four editorial sections replace repeated cover-image banners.
+Larger body text, a dedicated print-map legend, linked contents and mirrored folios support reading across spreads.
+The cover painting appears once; chapter illustrations are maps and technical diagrams tied to the surrounding text.
 The illustrations were generated in a Chinese ink-and-color style and are artistic compositions, rather than surveyed views.
 
 - `docs/_templates/layout.html`: native HTML layout and seven-language navigation.

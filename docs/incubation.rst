@@ -1,7 +1,7 @@
 Incubators, accelerators and parks
 ==================================
 
-44 profiles with evidence, contact routes and an application checklist. Published existence is distinguished from current intake.
+45 profiles with evidence, contact routes and an application checklist. Published existence is distinguished from current intake.
 
 .. only:: html
 
@@ -52,6 +52,7 @@ Incubators, accelerators and parks
    * :doc:`Hongkou Science & Technology Entrepreneurship Center <entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · Incubator · Hongkou · Focus: Software AI, Industry, Climate) — District public entrepreneurship center and postdoctoral innovation practice base route supporting tech SMEs, green-shipping digital tools and R&D talent settlement in Hongkou. [Status: Published entity; intake to confirm]
    * :doc:`Shanghai Innovation Institute / Beiyang AI founder network <entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · Incubator · Xuhui · Focus: Software AI, Hardware AI, AI for Science) — SII and Caohejing jointly operate the Chuangzhi Future Center for research-led AI founders; Beiyang AI Accelerator supports later market and supply-chain connections. Institute-affiliated incubation is not an unrestricted public admission offer. Ask the operator about affiliation, IP, company formation and current external-team access. [Status: Published entity; intake to confirm]
    * :doc:`Lin-gang Zero Cube OPC community <entities/zero-cube-opc>` (临港零界魔方OPC社区 · Incubator · Pudong · Focus: Software AI, Hardware AI, Industry) — A Lin-gang Group community for solo founders and small teams, with startup and living-service teams and AI-Store resource access. The August 2026 operator report describes three rent-free office years followed by two half-price years for qualifying projects. Housing, loans, vouchers and admission have separate conditions; confirm the current tenancy contract. [Status: Published entity; intake to confirm]
+   * :doc:`Waigaoqiao Fudan Science Park Biomedical Innovation Center <entities/waigaoqiao-fudan>` (外高桥复旦科技园生物医药创新中心 · Incubator · Pudong · Focus: Health, AI for Science) — Fudan Science Park operates this biomedical incubation and commercialization center at 8 Jiafeng Road in Waigaoqiao. AI-for-drug-discovery teams can explore laboratory and translational partnerships here; this is an editorial fit, not a verified dedicated AI cohort. Foreign businesses should ask whether a locally incorporated foreign-invested entity is required, then confirm admission, IP, laboratory access and fees. No standard grant or foreign-founder entitlement is established. [Status: Published entity; intake to confirm]
 
 .. toctree::
    :maxdepth: 1
@@ -100,3 +101,4 @@ Incubators, accelerators and parks
    entities/hongkou-stec
    entities/sii-beiyang
    entities/zero-cube-opc
+   entities/waigaoqiao-fudan

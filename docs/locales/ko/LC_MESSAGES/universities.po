@@ -447,15 +447,6 @@ msgid ""
 msgstr ":doc:`상하이사범대학교 톈화학원 <entities/university-tianhua>` (上海师范大学天华学院 · 대학 · 자딩구 · MOE 4131013893) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 응용 교육학, 스마트 엔지니어링, 디지털 비즈니스. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
 
 #: ../../universities.rst:53
-
-#| msgid ""
-#| ":doc:`Shanghai Ocean University <entities/university-ocean>` (上海海洋大学 · "
-#| "University · Pudong · MOE code 4131010264) — Institutional entry in "
-#| "the June 2026 Ministry of Education register. Suggested collaboration "
-#| "themes: Marine science, aquaculture, smart agriculture. These themes "
-#| "are editorial routing guidance, not a verified offer of laboratory "
-#| "access or startup funding. [Status: Published entity; intake to "
-#| "confirm]"
 msgid ""
 ":doc:`ShanghaiTech University <entities/university-shanghaitech>` (上海科技大学 "
 "· University · Pudong · MOE code 4131014423) — Institutional entry in the "

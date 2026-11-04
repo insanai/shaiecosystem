@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -31,11 +31,16 @@ msgid "2026 competition published; track intake to confirm"
 msgstr "2026년 경진대회 공고됨; 세부 트랙 접수 여부 확인 필요"
 
 #: ../../funding/chongming-competition-2026.rst:8
+
+#| msgid ""
+#| "`Evidence S135 "
+#| "<https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_. "
+#| "关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府."
 msgid ""
-"`Evidence S135 "
+"`Evidence S138 "
 "<https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_. "
 "关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府."
-msgstr "`근거 S135 <https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_. 关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府."
+msgstr "`근거 S138 <https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_. 关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府."
 
 #: ../../funding/chongming-competition-2026.rst:10
 msgid "Amount and mechanism"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -41,23 +41,36 @@ msgid ""
 msgstr "जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सॉफ्टवेयर AI, चिप्स, विज्ञान के लिए AI (AI for Science)। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव।"
 
 #: ../../entities/university-fudan.rst:12
+
+#| msgid ""
+#| "`Evidence S081 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. "
+#| "Contact."
 msgid ""
-"`Evidence S081 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. "
+"`Evidence S084 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. "
 "Contact."
-msgstr "`साक्ष्य S081 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. Contact."
+msgstr "`साक्ष्य S084 <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_. Contact."
 
 #: ../../entities/university-fudan.rst:14
+
+#| msgid ""
+#| "`Evidence S082 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - "
+#| "部门设置（联系方式） - 复旦大学科学技术研究院."
 msgid ""
-"`Evidence S082 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - "
+"`Evidence S085 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - "
 "部门设置（联系方式） - 复旦大学科学技术研究院."
-msgstr "`साक्ष्य S082 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院."
+msgstr "`साक्ष्य S085 <https://ist.fudan.edu.cn/Data/View/3276>`_. 技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院."
 
 #: ../../entities/university-fudan.rst:16
+
+#| msgid ""
+#| "`Evidence S083 "
+#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
-"`Evidence S083 "
+"`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`साक्ष्य S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`साक्ष्य S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-fudan.rst:18
 msgid "Status and support"

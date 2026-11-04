@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -29,11 +29,16 @@ msgid "Closed"
 msgstr "Bewerbungsfrist abgelaufen"
 
 #: ../../funding/putuo-intelligent-software.rst:8
+
+#| msgid ""
+#| "`Evidence S118 "
+#| "<https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. "
+#| "关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
 msgid ""
-"`Evidence S118 "
+"`Evidence S121 "
 "<https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. "
 "关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
-msgstr "`Nachweis S118 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. 关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
+msgstr "`Nachweis S121 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. 关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
 
 #: ../../funding/putuo-intelligent-software.rst:10
 msgid "Amount and mechanism"

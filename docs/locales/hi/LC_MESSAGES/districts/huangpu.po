@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -33,11 +33,16 @@ msgid ""
 msgstr "2025-2026 झांगजियांग हुआंगपू पार्क योजना फिनटेक और क्लिनिकल अनुसंधान सेवाओं पर जोर देती है। हुआंगपू चुआंगका (ChuangKa) एक अलग युवा उद्यमिता सहायता मार्ग है; पात्रता और वर्तमान वर्कस्टेशन उपलब्धता की जाँच करें।"
 
 #: ../../districts/huangpu.rst:8
+
+#| msgid ""
+#| "`Evidence S100 "
+#| "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
+#| "黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
 msgid ""
-"`Evidence S100 "
+"`Evidence S103 "
 "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
 "黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
-msgstr "`साक्ष्य S100 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`साक्ष्य S103 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
 
 #: ../../districts/huangpu.rst:10
 msgid "Who receives the inquiry"

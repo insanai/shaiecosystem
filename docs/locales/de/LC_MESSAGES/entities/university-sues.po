@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -41,18 +41,28 @@ msgid ""
 msgstr "Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Automobiltechnik, Schienenverkehr, Fertigungstechnik, industrielle KI. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar."
 
 #: ../../entities/university-sues.rst:12
+
+#| msgid ""
+#| "`Evidence S093 "
+#| "<https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_. "
+#| "上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号."
 msgid ""
-"`Evidence S093 "
+"`Evidence S096 "
 "<https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_. "
 "上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号."
-msgstr "`Nachweis S093 <https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_. 上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号."
+msgstr "`Nachweis S096 <https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_. 上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号."
 
 #: ../../entities/university-sues.rst:14
+
+#| msgid ""
+#| "`Evidence S083 "
+#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
-"`Evidence S083 "
+"`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`Nachweis S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`Nachweis S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-sues.rst:16
 msgid "Status and support"

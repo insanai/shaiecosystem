@@ -1,0 +1,118 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/lingang-ai-tools.rst:1
+msgid "Lin-gang OPC AI-tool service cost support"
+msgstr "린강 OPC AI 도구 서비스 비용 지원"
+
+#: ../../funding/lingang-ai-tools.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "비용 환급 지원 | 푸둥 신구"
+
+#: ../../funding/lingang-ai-tools.rst:6
+msgid "Published policy; implementing intake to confirm"
+msgstr "정책 발표됨; 세부 집행 및 접수 일정 확인 필요"
+
+#: ../../funding/lingang-ai-tools.rst:8
+msgid ""
+"`Evidence S139 "
+"<https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. "
+"Lin-gang OPC policy: AI tool services and open-source development, 2026."
+msgstr "`근거 S139 <https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. Lin-gang OPC policy: AI tool services and open-source development, 2026."
+
+#: ../../funding/lingang-ai-tools.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/lingang-ai-tools.rst:13
+msgid ""
+"Up to 80% of qualifying AI-tool service costs; applicable caps and "
+"conditions require the implementing notice"
+msgstr "적격 AI 도구 서비스 비용의 최대 80%; 한도와 조건은 시행 공고 확인 필요"
+
+#: ../../funding/lingang-ai-tools.rst:15
+msgid "No equity for qualifying public support"
+msgstr "자격 충족 시 공공 지원금 지분 요구 없음"
+
+#: ../../funding/lingang-ai-tools.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/lingang-ai-tools.rst:20
+msgid ""
+"Eligible OPCs purchasing approved technical services under the March 2026 "
+"measures. Foreign-founded teams should confirm the required local entity, "
+"community recognition, eligible invoices and supplier rules. Foreign "
+"ownership or a foreign parent alone does not establish grant eligibility; "
+"verify the written current procedure."
+msgstr "2026년 3월 조치에 따라 승인된 서비스를 구매하는 적격 OPC가 대상입니다. 외국인 창업팀은 현지 법인, 커뮤니티 인정, 적격 증빙 및 공급자 요건을 확인해야 합니다. 외국 지분이나 해외 모회사만으로 보조금 자격이 생기지는 않으며 현행 서면 절차를 확인해야 합니다."
+
+#: ../../funding/lingang-ai-tools.rst:22
+msgid "Confirm current implementing notice and intake"
+msgstr "현행 시행 지침 및 접수 기간 확인"
+
+#: ../../funding/lingang-ai-tools.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/lingang-ai-tools.rst:27
+msgid "`Official application / policy route <https://p.lingang.gov.cn/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://p.lingang.gov.cn/>`_"
+
+#: ../../funding/lingang-ai-tools.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/lingang-ai-tools.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/lingang-ai-tools.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "실제 지원 유형, 적용 지역 범위, 등록된 공급 기업 및 인정 대상 지출 기간을 확인한다."
+
+#: ../../funding/lingang-ai-tools.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "용역 서비스 계약서, 세금계산서(발표), 이체 확인증 및 상세 사용 내역서를 빠짐없이 보관한다."
+
+#: ../../funding/lingang-ai-tools.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "지정 플랫폼의 당해 접수 차수를 이용하며 필수적인 관할 구청 또는 운영사 심사를 완료한다."
+
+#: ../../funding/lingang-ai-tools.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "승인 금액, 공공 지원 중복 수혜 배제 규정 및 최종 지급 정산 조건을 확인한다."
+
+#: ../../funding/lingang-ai-tools.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

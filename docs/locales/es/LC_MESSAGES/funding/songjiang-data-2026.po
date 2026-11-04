@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -29,11 +29,16 @@ msgid "2026 call published; deadline check required"
 msgstr "Convocatoria 2026 publicada; verificar fecha límite"
 
 #: ../../funding/songjiang-data-2026.rst:8
+
+#| msgid ""
+#| "`Evidence S132 "
+#| "<https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. "
+#| "关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
 msgid ""
-"`Evidence S132 "
+"`Evidence S135 "
 "<https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. "
 "关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
-msgstr "`Evidencia S132 <https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. 关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
+msgstr "`Evidencia S135 <https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. 关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
 
 #: ../../funding/songjiang-data-2026.rst:10
 msgid "Amount and mechanism"

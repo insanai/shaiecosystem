@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -29,11 +29,16 @@ msgid ""
 msgstr "हम 17 जून 2026 की तिथि वाली और 18 जून 2026 को प्रकाशित शिक्षा मंत्रालय की सूची का उपयोग करते हैं। डाउनलोड की गई स्रोत वर्कबुक रिपॉजिटरी में सुरक्षित रखी गई हैं। संस्थागत समावेशन किसी स्टार्टअप कार्यक्रम, उपलब्ध फंडिंग या बाहरी संस्थापक के लिए प्रवेश को साबित नहीं करता है।"
 
 #: ../../university-register.rst:6
+
+#| msgid ""
+#| "`Evidence S083 "
+#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
-"`Evidence S083 "
+"`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`साक्ष्य S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`साक्ष्य S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../university-register.rst:8
 msgid "40 undergraduate institutions"
@@ -473,6 +478,10 @@ msgid ""
 msgstr "`CEIBS आधिकारिक संस्थागत मार्ग <https://www.ceibs.edu/>`_. CEIBS शंघाई की अंतर्राष्ट्रीय शिक्षा निर्देशिका में दिखाई देता है और यहां अलग से सूचीबद्ध है; किसी विशिष्ट स्टार्टअप फंडिंग ऑफ़र को सत्यापित नहीं किया गया है।"
 
 #: ../../university-register.rst:110
+
+#| msgid ""
+#| "`Evidence S140 <https://edu.sh.gov.cn/study_cn_school/>`_. "
+#| "院校信息_上海市教育委员会."
 msgid ""
-"`Evidence S140 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
-msgstr "`साक्ष्य S140 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
+"`Evidence S144 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
+msgstr "`साक्ष्य S144 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."

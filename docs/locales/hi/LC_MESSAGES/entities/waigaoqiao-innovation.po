@@ -1,0 +1,132 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/waigaoqiao-innovation.rst:1
+msgid "Waigaoqiao bonded R&D and AI-health innovation services"
+msgstr "वाइगाओछियाओ बॉन्डेड R&D और AI-स्वास्थ्य नवाचार सेवाएँ"
+
+#: ../../entities/waigaoqiao-innovation.rst:4
+msgid "外高桥保税研发与AI健康创新服务"
+msgstr "外高桥保税研发与AI健康创新服务"
+
+#: ../../entities/waigaoqiao-innovation.rst:6
+msgid "Research platform | Pudong | Research checked 2026-11-04"
+msgstr "अनुसंधान प्लेटफॉर्म | पुडोंग (Pudong) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/waigaoqiao-innovation.rst:8
+msgid ""
+"AI and industry focus: AI for Science, Health, Hardware AI, Robotics."
+msgstr "एआई और उद्योग फोकस: विज्ञान के लिए AI, स्वास्थ्य, हार्डवेयर AI, रोबोटिक्स।"
+
+#: ../../entities/waigaoqiao-innovation.rst:10
+msgid ""
+"The 2025-2026 Free Trade Bonded Park plan explicitly supports AI drug "
+"discovery, cross-border medical-device R&D, advanced-equipment innovation "
+"and foreign-funded R&D institutions. Foreign AI and hardware companies "
+"can use the authority route to explore local research, testing and "
+"commercialization arrangements. Confirm the specific operator, legal "
+"entity, customs boundary, sector permissions and data handling before "
+"incurring costs. This is a service and collaboration route; the plan is "
+"not a cash-award offer."
+msgstr "2025–2026 की योजना AI दवा खोज, सीमा-पार चिकित्सा उपकरण R&D, उन्नत उपकरण नवाचार और विदेशी-निवेशित R&D केंद्रों का स्पष्ट समर्थन करती है। विदेशी AI और हार्डवेयर कंपनियाँ स्थानीय शोध, परीक्षण और व्यावसायीकरण के लिए प्राधिकरण से संपर्क कर सकती हैं। खर्च से पहले संचालक, कानूनी इकाई, सीमा-शुल्क क्षेत्र, क्षेत्रीय अनुमतियाँ और डेटा नियम जाँचें। यह सेवा और सहयोग का मार्ग है, नकद पुरस्कार का प्रस्ताव नहीं।"
+
+#: ../../entities/waigaoqiao-innovation.rst:12
+msgid ""
+"`Evidence S082 "
+"<https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html>`_. "
+"Zhangjiang Free Trade Bonded Park innovation action plan, 2025-2026."
+msgstr "`साक्ष्य S082 <https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html>`_. Zhangjiang Free Trade Bonded Park innovation action plan, 2025-2026."
+
+#: ../../entities/waigaoqiao-innovation.rst:14
+msgid ""
+"`Evidence S083 "
+"<https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_. "
+"Pudong foreign-investment measures: foreign-funded R&D and open "
+"innovation centers."
+msgstr "`साक्ष्य S083 <https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_. Pudong foreign-investment measures: foreign-funded R&D and open innovation centers."
+
+#: ../../entities/waigaoqiao-innovation.rst:16
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/waigaoqiao-innovation.rst:19
+msgid "Published entity; intake to confirm"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
+
+#: ../../entities/waigaoqiao-innovation.rst:21
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/waigaoqiao-innovation.rst:23
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/waigaoqiao-innovation.rst:26
+msgid ""
+"`Official website / intake route <https://www.pudong.gov.cn/shftz/>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://www.pudong.gov.cn/shftz/>`_"
+
+#: ../../entities/waigaoqiao-innovation.rst:28
+msgid ""
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "जिम्मेदार टीम और मौजूदा आवेदन प्रक्रिया जानने के लिए आधिकारिक वेबसाइट से संपर्क करें। इस प्रकाशन में ईमेल पते नहीं दिए गए हैं।"
+
+#: ../../entities/waigaoqiao-innovation.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/waigaoqiao-innovation.rst:32
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/waigaoqiao-innovation.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/waigaoqiao-innovation.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "प्रासंगिक अनुसंधान समूह खोजें और वैज्ञानिक या औद्योगिक समस्या बताएं।"
+
+#: ../../entities/waigaoqiao-innovation.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "डेटा, उपकरण, आउटपुट, फंडिंग और समय-सीमा को कवर करने वाला एक संक्षिप्त प्रस्ताव भेजें।"
+
+#: ../../entities/waigaoqiao-innovation.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "सहयोग मार्ग, प्रकाशन, IP और संस्थागत प्राधिकरण पर सहमति बनाएं।"
+
+#: ../../entities/waigaoqiao-innovation.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "काम शुरू करने से पहले लिखित पहुंच या परियोजना अनुमोदन प्राप्त करें।"
+
+#: ../../entities/waigaoqiao-innovation.rst:45
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`पुडोंग (Pudong) ज़िला मार्ग </districts/pudong>`"

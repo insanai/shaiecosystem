@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -20,13 +20,13 @@ msgstr ""
 msgid "Shanghai Ecosystem Atlas"
 msgstr "상하이 혁신 생태계 가이드"
 
-#: ../../index.rst:4
+#: ../../index.rst:6
 msgid ""
 "The Pearl of the Orient. A field guide to research, enterprise and "
 "possibility."
 msgstr "동방의 진주. 연구와 기업, 무한한 가능성을 잇는 현장 가이드."
 
-#: ../../index.rst:6
+#: ../../index.rst:8
 msgid ""
 "An illustrated guide in seven languages for accelerators, founders, "
 "researchers and AI enthusiasts. It connects Shanghai's universities, "
@@ -34,13 +34,17 @@ msgid ""
 "across all 16 districts."
 msgstr "액셀러레이터, 창업자, 연구자 및 AI에 관심 있는 사람을 위한 7개 언어 일러스트 가이드입니다. 상하이 전체 16개 구의 대학, 소프트웨어·하드웨어 AI 커뮤니티와 실질적인 지원 경로를 연결합니다."
 
-#: ../../index.rst:8
-msgid ""
-"Research edition: 2026-11-04. 131 organization profiles. 50 funding "
-"routes. 16 districts. 140 cited sources."
-msgstr "연구 에디션: 2026-11-04. 131개 기관 프로필. 50개 자금 경로. 16개 행정구. 140개 인용 출처."
-
 #: ../../index.rst:10
+
+#| msgid ""
+#| "Research edition: 2026-11-04. 131 organization profiles. 50 funding "
+#| "routes. 16 districts. 140 cited sources."
+msgid ""
+"Research edition: 2026-11-04. 133 organization profiles. 53 funding "
+"routes. 16 districts. 144 cited sources."
+msgstr "연구 에디션: 2026-11-04. 133개 기관 프로필. 53개 자금 경로. 16개 행정구. 144개 인용 출처."
+
+#: ../../index.rst:12
 msgid ""
 "Written by **Vikrant Rathore** with contributions from **Lauren Zhao, "
 "Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. "
@@ -49,18 +53,18 @@ msgid ""
 "(*Yulania denudata*)."
 msgstr "**Vikrant Rathore**가 집필하고 **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu**가 기여했습니다. 상하이의 시화인 백옥란(*Yulania denudata*)에서 영감을 받아 **Guidedog**을 통해 단일한 다국어 **HTML 및 PDF** 출판물로 제작되었습니다."
 
-#: ../../index.rst:12
+#: ../../index.rst:14
 msgid ""
 ":doc:`Explore the interactive atlas <atlas>` | :doc:`Browse all 16 "
 "districts <districts>` | :doc:`Find funding <funding>` | :doc:`Plan an "
 "application <apply>`"
 msgstr ":doc:`인터랙티브 가이드 둘러보기 <atlas>` | :doc:`16개 구 전체 둘러보기 <districts>` | :doc:`자금 지원 경로 찾기 <funding>` | :doc:`지원 계획 수립하기 <apply>`"
 
-#: ../../index.rst:16
+#: ../../index.rst:18
 msgid "All 16 administrative districts of Shanghai"
 msgstr "상하이 16개 행정구 전도"
 
-#: ../../index.rst:19
+#: ../../index.rst:21
 msgid ""
 "Every administrative district of Shanghai is covered in both the website "
 "and the PDF book with its documented industrial focus, receiving "
@@ -68,22 +72,28 @@ msgid ""
 "district funding routes:"
 msgstr "상하이의 모든 행정구는 웹사이트와 PDF 도서 양쪽에서 공식 문서로 입증된 산업 특화 방향, 관할 정부 부처, 현지 혁신 거점, 대학교 및 구 단위 자금 지원 경로와 함께 다루어집니다:"
 
-#: ../../index.rst:21
+#: ../../index.rst:23
+
+#| msgid ""
+#| "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation "
+#| "models, chips, biomedicine and advanced manufacturing**. Authority: "
+#| "Pudong Science, Technology and Economy Commission. (40 organizations, "
+#| "4 district funding routes)"
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
-"Science, Technology and Economy Commission. (40 organizations, 4 district "
+"Science, Technology and Economy Commission. (42 organizations, 7 district "
 "funding routes)"
-msgstr "**[01]** :doc:`푸둥 신구 <districts/pudong>` (浦东新区) — **파운데이션 모델, 반도체 칩, 바이오의약 및 첨단 제조**. 푸둥신구 과학기술경제위원회. (40 / 4)"
+msgstr "**[01]** :doc:`푸둥 신구 <districts/pudong>` (浦东新区) — **파운데이션 모델, 반도체 칩, 바이오의약 및 첨단 제조**. 푸둥신구 과학기술경제위원회. (42 / 7)"
 
-#: ../../index.rst:22
+#: ../../index.rst:24
 msgid ""
 "**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
 "embodied AI and research commercialization**. Authority: Xuhui industry "
 "development authority. (9 organizations, 2 district funding routes)"
 msgstr "**[02]** :doc:`쉬후이구 <districts/xuhui>` (徐汇区) — **파운데이션 모델, 임바디드 AI 및 연구 성과 상용화**. 쉬후이구 산업발전 주무관청. (9 / 2)"
 
-#: ../../index.rst:23
+#: ../../index.rst:25
 msgid ""
 "**[03]** :doc:`Yangpu <districts/yangpu>` (杨浦区) — **University spinouts, "
 "brain-inspired AI and independent AI founders**. Authority: Yangpu "
@@ -91,7 +101,7 @@ msgid ""
 "routes)"
 msgstr "**[03]** :doc:`양푸구 <districts/yangpu>` (杨浦区) — **대학 스핀오프 기업, 뇌 모방 인공지능 및 독립 AI 창업가**. 양푸구 과학기술위원회. (10 / 2)"
 
-#: ../../index.rst:24
+#: ../../index.rst:26
 msgid ""
 "**[04]** :doc:`Minhang <districts/minhang>` (闵行区) — **University "
 "commercialization, robotics, BCI and engineering**. Authority: Minhang "
@@ -99,7 +109,7 @@ msgid ""
 "routes)"
 msgstr "**[04]** :doc:`민항구 <districts/minhang>` (闵行区) — **대학 연구 상용화, 로보틱스, BCI(뇌-컴퓨터 인터페이스) 및 첨단 엔지니어링**. 민항구 과학기술위원회. (6 / 2)"
 
-#: ../../index.rst:25
+#: ../../index.rst:27
 msgid ""
 "**[05]** :doc:`Jiading <districts/jiading>` (嘉定区) — **Automotive "
 "intelligence, sensors, MEMS and pilot production**. Authority: Jiading "
@@ -107,14 +117,14 @@ msgid ""
 "routes)"
 msgstr "**[05]** :doc:`자딩구 <districts/jiading>` (嘉定区) — **지능형 자동차, 센서, MEMS 및 파일럿 생산**. 자딩구 과학기술위원회. (4 / 1)"
 
-#: ../../index.rst:26
+#: ../../index.rst:28
 msgid ""
 "**[06]** :doc:`Baoshan <districts/baoshan>` (宝山区) — **Robotics, advanced "
 "equipment and industrial deployment**. Authority: Baoshan industry and "
 "science authorities. (2 organizations, 1 district funding routes)"
 msgstr "**[06]** :doc:`바오산구 <districts/baoshan>` (宝山区) — **로보틱스, 첨단 장비 및 산업 현장 배치**. 바오산구 산업 및 과학기술 주무관청. (2 / 1)"
 
-#: ../../index.rst:27
+#: ../../index.rst:29
 msgid ""
 "**[07]** :doc:`Putuo <districts/putuo>` (普陀区) — **Industrial testing, "
 "intelligent software and international innovation**. Authority: Putuo "
@@ -122,7 +132,7 @@ msgid ""
 "routes)"
 msgstr "**[07]** :doc:`푸퉈구 <districts/putuo>` (普陀区) — **산업 시험·검증, 지능형 소프트웨어 및 글로벌 혁신 협력**. 푸퉈구 과학기술위원회. (4 / 3)"
 
-#: ../../index.rst:28
+#: ../../index.rst:30
 msgid ""
 "**[08]** :doc:`Changning <districts/changning>` (长宁区) — **Digital "
 "business, AI applications and cross-border services**. Authority: "
@@ -130,14 +140,14 @@ msgid ""
 "funding routes)"
 msgstr "**[08]** :doc:`창닝구 <districts/changning>` (长宁区) — **디지털 커머스, AI 응용 서비스 및 크로스보더 비즈니스**. 창닝구 과학기술위원회. (2 / 2)"
 
-#: ../../index.rst:29
+#: ../../index.rst:31
 msgid ""
 "**[09]** :doc:`Jing'an <districts/jingan>` (静安区) — **Enterprise AI, data "
 "services and digital commerce**. Authority: Jing'an science and economy "
 "authority. (3 organizations, 1 district funding routes)"
 msgstr "**[09]** :doc:`징안구 <districts/jingan>` (静安区) — **엔터프라이즈 AI, 데이터 서비스 및 디지털 커머스**. 징안구 과학기술경제위원회. (3 / 1)"
 
-#: ../../index.rst:30
+#: ../../index.rst:32
 msgid ""
 "**[10]** :doc:`Huangpu <districts/huangpu>` (黄浦区) — **Fintech, clinical "
 "services, design and consumer applications**. Authority: Huangpu science "
@@ -145,7 +155,7 @@ msgid ""
 "routes)"
 msgstr "**[10]** :doc:`황푸구 <districts/huangpu>` (黄浦区) — **핀테크, 임상 연구 서비스, 크리에이티브 디자인 및 컨슈머 응용**. 황푸구 과학기술 및 창업 서비스 부서. (2 / 1)"
 
-#: ../../index.rst:31
+#: ../../index.rst:33
 msgid ""
 "**[11]** :doc:`Hongkou <districts/hongkou>` (虹口区) — **Shipping "
 "technology, green finance and intelligent inspection**. Authority: "
@@ -153,14 +163,14 @@ msgid ""
 "funding routes)"
 msgstr "**[11]** :doc:`훙커우구 <districts/hongkou>` (虹口区) — **해운·물류 테크, 친환경 녹색 금융 및 지능형 검사·인증**. 훙커우구 과학기술경제위원회. (4 / 1)"
 
-#: ../../index.rst:32
+#: ../../index.rst:34
 msgid ""
 "**[12]** :doc:`Songjiang <districts/songjiang>` (松江区) — **G60 innovation, "
 "industrial software and advanced manufacturing**. Authority: Songjiang "
 "G60 innovation services. (8 organizations, 2 district funding routes)"
 msgstr "**[12]** :doc:`쑹장구 <districts/songjiang>` (松江区) — **G60 혁신 회랑, 산업용 소프트웨어 및 첨단 제조업**. 쑹장구 G60 혁신 서비스 부서. (8 / 2)"
 
-#: ../../index.rst:33
+#: ../../index.rst:35
 msgid ""
 "**[13]** :doc:`Qingpu <districts/qingpu>` (青浦区) — **Huawei-linked "
 "research, digital systems and regional collaboration**. Authority: Qingpu "
@@ -168,21 +178,21 @@ msgid ""
 "routes)"
 msgstr "**[13]** :doc:`칭푸구 <districts/qingpu>` (青浦区) — **화웨이 연계 R&D 연구개발, 디지털 시스템 및 광역 지역 협력**. 칭푸구 과학기술위원회. (3 / 2)"
 
-#: ../../index.rst:34
+#: ../../index.rst:36
 msgid ""
 "**[14]** :doc:`Jinshan <districts/jinshan>` (金山区) — **Drones, new "
 "materials and low-altitude systems**. Authority: Jinshan science and "
 "technology authority. (3 organizations, 1 district funding routes)"
 msgstr "**[14]** :doc:`진산구 <districts/jinshan>` (金山区) — **무인기·드론, 신소재 및 저고도 항공 시스템**. 진산구 과학기술 주무관청. (3 / 1)"
 
-#: ../../index.rst:35
+#: ../../index.rst:37
 msgid ""
 "**[15]** :doc:`Fengxian <districts/fengxian>` (奉贤区) — **Robotics, beauty "
 "and health technology, advanced manufacturing**. Authority: Fengxian "
 "economic commission. (4 organizations, 3 district funding routes)"
 msgstr "**[15]** :doc:`펑셴구 <districts/fengxian>` (奉贤区) — **로보틱스, 뷰티·헬스 테크 및 첨단 제조업**. 펑셴구 경제위원회. (4 / 3)"
 
-#: ../../index.rst:36
+#: ../../index.rst:38
 msgid ""
 "**[16]** :doc:`Chongming <districts/chongming>` (崇明区) — **Ecological "
 "technology, smart agriculture and marine systems**. Authority: Chongming "
@@ -190,11 +200,11 @@ msgid ""
 "routes)"
 msgstr "**[16]** :doc:`충밍구 <districts/chongming>` (崇明区) — **생태 환경 기술, 스마트 농업 및 해양·선박 시스템**. 충밍구 과학기술위원회. (2 / 2)"
 
-#: ../../index.rst:38
+#: ../../index.rst:40
 msgid "Complete chapters & directories in this atlas"
 msgstr "본 도감의 전체 챕터 및 디렉터리"
 
-#: ../../index.rst:41
+#: ../../index.rst:43
 msgid ""
 ":doc:`A city of connected possibilities <reading-the-city>` — Spatial "
 "logic across central Shanghai, industrial corridors, five新城 (New Cities) "
@@ -202,111 +212,111 @@ msgid ""
 "credits."
 msgstr ":doc:`기회의 연결망으로 읽는 도시 <reading-the-city>` — 상하이 중심부, 산업 회랑, 5대 신성(新城), 충밍 생태섬을 아우르는 공간적 구조와 백옥란 디자인 해설 및 저자 크레디트."
 
-#: ../../index.rst:42
+#: ../../index.rst:44
 msgid ""
 ":doc:`Explore the Shanghai ecosystem <atlas>` — Interactive 16-district "
 "vector map, bilingual search, sector and equity filters, shortlist and "
 "CSV export."
 msgstr ":doc:`상하이 혁신 생태계 탐색 <atlas>` — 상하이 16개 행정구 인터랙티브 벡터 맵, 한/영/중 검색, 산업 분야 및 지분 조건 필터, 관심 목록 및 CSV 내보내기."
 
-#: ../../index.rst:43
+#: ../../index.rst:45
 msgid ""
 ":doc:`Intelligence in software <software-ai>` — Foundation models, "
 "vertical agents, Model Speed Space, Zhangjiang Model Community, "
 "compute/corpus vouchers and compliance routing."
 msgstr ":doc:`소프트웨어 지능 <software-ai>` — 파운데이션 모델, 버티컬 에이전트, 모수공간(Model Speed Space), 장장 모델 커뮤니티, 연산 자원 및 말뭉치 바우처, 규제 준수 절차."
 
-#: ../../index.rst:44
+#: ../../index.rst:46
 msgid ""
 ":doc:`Intelligence in the physical world <hardware-ai>` — AI chips, "
 "EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, "
 "BCI and wet-lab biocomputing."
 msgstr ":doc:`물리 세계의 지능 <hardware-ai>` — AI 반도체, EDA 및 MPW 파운드리 테이프아웃, MEMS 센서, 피지컬 로보틱스, 저고도 드론, BCI 뇌-컴퓨터 인터페이스 및 바이오 컴퓨팅."
 
-#: ../../index.rst:45
+#: ../../index.rst:47
 msgid ""
 ":doc:`Sixteen districts, sixteen entry routes <districts>` — Dedicated "
 "chapter for each of Shanghai's 16 districts with receiving authorities, "
 "policy boundaries, local carriers and funding."
 msgstr ":doc:`16개 구, 16가지 진입 경로 <districts>` — 관할 접수 부처, 정책적 경계, 현지 혁신 거점 및 펀딩 경로를 망라한 상하이 16개 구별 전용 장."
 
-#: ../../index.rst:46
+#: ../../index.rst:48
 msgid ""
 ":doc:`Universities and commercialization <universities>` — Profiles for "
 "all 40 undergraduate universities in Shanghai with MOE codes, "
 "collaboration themes and tech-transfer contacts."
 msgstr ":doc:`대학과 연구 상용화 <universities>` — 상하이 소재 40개 학사 학위 수여 대학교의 교육부 코드, 산학협력 연구 테마 및 기술이전 센터 연락망."
 
-#: ../../index.rst:47
+#: ../../index.rst:49
 msgid ""
 ":doc:`The higher-education register <university-register>` — Complete "
 "June 2026 Ministry of Education register: 40 undergraduate universities, "
 "29 diploma colleges, 12 adult institutions and CEIBS."
 msgstr ":doc:`고등교육기관 공식 등록부 <university-register>` — 2026년 6월 중국 교육부 공식 승인 고등교육기관 등록부: 40개 학부 과정을 운영하는 대학, 29개 전문대학, 12개 성인고등교육기관 및 CEIBS."
 
-#: ../../index.rst:48
+#: ../../index.rst:50
 msgid ""
 ":doc:`Incubators, accelerators and parks <incubation>` — 28 researched "
 "incubators, accelerators and technology parks across Shanghai with "
 "admission checklists and operator details."
 msgstr ":doc:`인큐베이터, 액셀러레이터 및 테크 파크 <incubation>` — 입주 체크리스트와 운영사 세부 정보가 수록된 상하이 전역의 검증된 인큐베이터, 액셀러레이터, 과학기술단지 38개 거점."
 
-#: ../../index.rst:49
+#: ../../index.rst:51
 msgid ""
 ":doc:`Research and technical platforms <research>` — Shanghai AI Lab, ICC "
 "chip service center and Tongji autonomous and PAI research platforms."
 msgstr ":doc:`연구 및 기술 플랫폼 <research>` — 상하이 인공지능 연구소(Shanghai AI Lab), ICC 집적회로 촉진센터, ICRD 연구개발센터, SHTIC 창업센터, 칭화대 국제혁신센터 및 퉁지대 연구 플랫폼."
 
-#: ../../index.rst:50
+#: ../../index.rst:52
 msgid ""
 ":doc:`Corporate and global programs <corporate>` — Roche, SAP.iO, ABB, "
 "DroidUp, PaddlePaddle, Yangtze AI+ Center, JLABS, Bayer Co.Lab, NVIDIA "
 "Inception, Microsoft, AWS, Siemens and BMW."
 msgstr ":doc:`기업 오픈이노베이션 및 글로벌 프로그램 <corporate>` — 로슈, SAP.iO, ABB, 드로이드업(DroidUp), 바이두 패들패들, 장삼각 AI+ 센터, JLABS, 바이엘 Co.Lab, 엔비디아 인셉션, 마이크로소프트, AWS, 지멘스, BMW."
 
-#: ../../index.rst:51
+#: ../../index.rst:53
 msgid ""
 ":doc:`Government entry points <government>` — All 16 district science, "
 "technology and economy authorities with official portals, published "
 "contacts and policy notes."
 msgstr ":doc:`정부 지원 창구 <government>` — 공식 웹사이트, 공시 연락처 및 정책 해설이 포함된 16개 구 과학기술·경제 부처 진입 창구."
 
-#: ../../index.rst:52
+#: ../../index.rst:54
 msgid ""
 ":doc:`Capital, with its conditions attached <funding-guide>` — How to "
 "distinguish non-repayable grants, post-expenditure reimbursements, "
 "vouchers, debt, tax relief and equity investment."
 msgstr ":doc:`자본과 그 이면의 조건들 <funding-guide>` — 상환 의무 없는 보조금, 사후 비용 환급, 바우처, 대출 부채, 세제 혜택 및 지분 투자를 구분하고 분석하는 방법."
 
-#: ../../index.rst:53
+#: ../../index.rst:55
 msgid ""
 ":doc:`Funding, without mixing the mechanisms <funding>` — All 40 citywide "
 "and district funding pathways with ceilings, equity rules, eligibility "
 "criteria, deadlines and official links."
 msgstr ":doc:`지원금 경로: 자금 조달 메커니즘의 명확한 구분 <funding>` — 지원 상한선, 지분 조건, 자격 요건, 마감 기한 및 공식 링크를 집대성한 상하이 시 전역 및 구 단위 45개 자금 조달 경로."
 
-#: ../../index.rst:54
+#: ../../index.rst:56
 msgid ""
 ":doc:`Investors and patient capital <investors>` — STEFG Angel Fund, "
 "Shanghai Leading Industry Funds, Pudong AI Seed Fund, Embodied AI Fund, "
 "STVC and Qiming Venture Partners."
 msgstr ":doc:`투자 기관과 장기 투자 자본 <investors>` — STEFG 대학생 창업 천사 펀드, 상하이 3대 선도산업 모펀드, 푸둥 AI 시드 펀드, 임바디드 AI 펀드, 상하이과투(STVC), 치밍 벤처 파트너스."
 
-#: ../../index.rst:55
+#: ../../index.rst:57
 msgid ""
 ":doc:`From introduction to application <apply>` — Bilingual outreach "
 "templates, shared data-room checklist, decision workflows and a four-week "
 "accelerator field program."
 msgstr ":doc:`사전 접촉에서 공식 신청까지 <apply>` — 이중언어 지원 서신 템플릿, 공용 데이터룸 체크리스트, 4가지 의사결정 워크플로 및 액셀러레이터 4주 현장 실행 프로그램."
 
-#: ../../index.rst:56
+#: ../../index.rst:58
 msgid ""
 ":doc:`How to read the evidence <methodology>` — Source verification "
 "rules, translation discipline, map accuracy disclosures, known gaps and "
 "authorship credits."
 msgstr ":doc:`출처와 근거를 해석하는 방법 <methodology>` — 출처 검증 원칙, 엄격한 번역 기준, 지도 좌표 정확도 한계 고지, 미확인 공백 사항 및 저자 크레디트."
 
-#: ../../index.rst:57
+#: ../../index.rst:59
 msgid ""
 ":doc:`Sources and reading room <sources>` — Complete bibliography of all "
 "cited government notices, institutional registers and operator pages with "

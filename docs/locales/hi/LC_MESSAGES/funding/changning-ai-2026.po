@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -29,10 +29,15 @@ msgid "Closed"
 msgstr "आवेदन की समय-सीमा समाप्त"
 
 #: ../../funding/changning-ai-2026.rst:8
+
+#| msgid ""
+#| "`Evidence S115 "
+#| "<https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. "
+#| "上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
 msgid ""
-"`Evidence S115 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. "
+"`Evidence S118 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. "
 "上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
-msgstr "`साक्ष्य S115 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. 上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
+msgstr "`साक्ष्य S118 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. 上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
 
 #: ../../funding/changning-ai-2026.rst:10
 msgid "Amount and mechanism"

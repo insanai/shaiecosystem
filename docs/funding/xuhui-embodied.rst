@@ -5,7 +5,7 @@ Grant | Xuhui
 
 Published policy; implementing intake to confirm
 
-`Evidence S097 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知.
+`Evidence S100 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知.
 
 Amount and mechanism
 --------------------

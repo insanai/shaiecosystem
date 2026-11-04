@@ -1,0 +1,132 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/waigaoqiao-innovation.rst:1
+msgid "Waigaoqiao bonded R&D and AI-health innovation services"
+msgstr "Waigaoqiao: Zollgebundene F&E und KI-Gesundheitsinnovation"
+
+#: ../../entities/waigaoqiao-innovation.rst:4
+msgid "外高桥保税研发与AI健康创新服务"
+msgstr "外高桥保税研发与AI健康创新服务"
+
+#: ../../entities/waigaoqiao-innovation.rst:6
+msgid "Research platform | Pudong | Research checked 2026-11-04"
+msgstr "Forschungsplattform | Neuer Stadtbezirk Pudong | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/waigaoqiao-innovation.rst:8
+msgid ""
+"AI and industry focus: AI for Science, Health, Hardware AI, Robotics."
+msgstr "KI- und Branchenfokus: KI in der Wissenschaft (AI for Science), Gesundheit & Life Sciences, Hardware-KI, Robotik."
+
+#: ../../entities/waigaoqiao-innovation.rst:10
+msgid ""
+"The 2025-2026 Free Trade Bonded Park plan explicitly supports AI drug "
+"discovery, cross-border medical-device R&D, advanced-equipment innovation "
+"and foreign-funded R&D institutions. Foreign AI and hardware companies "
+"can use the authority route to explore local research, testing and "
+"commercialization arrangements. Confirm the specific operator, legal "
+"entity, customs boundary, sector permissions and data handling before "
+"incurring costs. This is a service and collaboration route; the plan is "
+"not a cash-award offer."
+msgstr "Der Plan 2025–2026 unterstützt ausdrücklich KI-Wirkstoffforschung, grenzüberschreitende Medizintechnik-F&E, innovative Ausrüstung und ausländisch finanzierte F&E-Institute. Ausländische KI- und Hardwareunternehmen können über die Behörde lokale Forschung, Tests und Verwertung erkunden. Vor Kostenentstehung Betreiber, Rechtsträger, Zollgrenze, Branchengenehmigungen und Datenverarbeitung klären. Dies ist ein Service- und Kooperationsweg, keine Zusage einer Barauszahlung."
+
+#: ../../entities/waigaoqiao-innovation.rst:12
+msgid ""
+"`Evidence S082 "
+"<https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html>`_. "
+"Zhangjiang Free Trade Bonded Park innovation action plan, 2025-2026."
+msgstr "`Nachweis S082 <https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html>`_. Zhangjiang Free Trade Bonded Park innovation action plan, 2025-2026."
+
+#: ../../entities/waigaoqiao-innovation.rst:14
+msgid ""
+"`Evidence S083 "
+"<https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_. "
+"Pudong foreign-investment measures: foreign-funded R&D and open "
+"innovation centers."
+msgstr "`Nachweis S083 <https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_. Pudong foreign-investment measures: foreign-funded R&D and open innovation centers."
+
+#: ../../entities/waigaoqiao-innovation.rst:16
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/waigaoqiao-innovation.rst:19
+msgid "Published entity; intake to confirm"
+msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+
+#: ../../entities/waigaoqiao-innovation.rst:21
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/waigaoqiao-innovation.rst:23
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/waigaoqiao-innovation.rst:26
+msgid ""
+"`Official website / intake route <https://www.pudong.gov.cn/shftz/>`_"
+msgstr "`Offizielle Website / Bewerbungszugang <https://www.pudong.gov.cn/shftz/>`_"
+
+#: ../../entities/waigaoqiao-innovation.rst:28
+msgid ""
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "Über die offizielle Website das zuständige Team und den aktuellen Antragsweg erfragen. E-Mail-Adressen werden in dieser Publikation nicht wiedergegeben."
+
+#: ../../entities/waigaoqiao-innovation.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/waigaoqiao-innovation.rst:32
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/waigaoqiao-innovation.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/waigaoqiao-innovation.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "Die passende Forschungsgruppe identifizieren und die wissenschaftliche oder industrielle Fragestellung formulieren."
+
+#: ../../entities/waigaoqiao-innovation.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "Einen kompakten Projektvorschlag zu Daten, Geräten, Zielergebnissen, Budget und Zeitplan übermitteln."
+
+#: ../../entities/waigaoqiao-innovation.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "Kooperationsform, Publikationsrechte, geistiges Eigentum und institutionelle Freigaben vereinbaren."
+
+#: ../../entities/waigaoqiao-innovation.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "Vor Beginn der Forschungsarbeiten die schriftliche Zugangsberechtigung oder Projektgenehmigung einholen."
+
+#: ../../entities/waigaoqiao-innovation.rst:45
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Bezirksroute Neuer Stadtbezirk Pudong </districts/pudong>`"

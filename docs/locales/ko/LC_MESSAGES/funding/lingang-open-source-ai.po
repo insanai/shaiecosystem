@@ -1,0 +1,118 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/lingang-open-source-ai.rst:1
+msgid "Lin-gang OPC open-source AI-tool development reward"
+msgstr "린강 OPC 오픈소스 AI 도구 개발 장려금"
+
+#: ../../funding/lingang-open-source-ai.rst:4
+msgid "Grant | Pudong"
+msgstr "보조금 | 푸둥 신구"
+
+#: ../../funding/lingang-open-source-ai.rst:6
+msgid "Published policy; implementing intake to confirm"
+msgstr "정책 발표됨; 세부 집행 및 접수 일정 확인 필요"
+
+#: ../../funding/lingang-open-source-ai.rst:8
+msgid ""
+"`Evidence S139 "
+"<https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. "
+"Lin-gang OPC policy: AI tool services and open-source development, 2026."
+msgstr "`근거 S139 <https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. Lin-gang OPC policy: AI tool services and open-source development, 2026."
+
+#: ../../funding/lingang-open-source-ai.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/lingang-open-source-ai.rst:13
+msgid ""
+"Annual reward up to RMB 1 million for qualifying AI-tool development and "
+"listing on major international open-source platforms"
+msgstr "적격 AI 도구 개발 및 주요 국제 오픈소스 플랫폼 공개에 대해 연간 최대 100만 위안"
+
+#: ../../funding/lingang-open-source-ai.rst:15
+msgid "No equity for qualifying public support"
+msgstr "자격 충족 시 공공 지원금 지분 요구 없음"
+
+#: ../../funding/lingang-open-source-ai.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/lingang-open-source-ai.rst:20
+msgid ""
+"A distinct developer reward under the March 2026 OPC measures, rather "
+"than reimbursement for buying AI services. Confirm qualifying deployment, "
+"assessment and local-operation requirements. Foreign teams must obtain a "
+"written eligibility decision for the applicant entity; an overseas "
+"repository listing alone is insufficient."
+msgstr "2026년 3월 OPC 조치의 별도 개발자 장려금으로, AI 서비스 구매비 환급과 다릅니다. 적격 공개, 평가 및 현지 운영 요건을 확인해야 합니다. 외국 팀은 신청 법인의 자격을 서면으로 확인받아야 하며 해외 저장소 공개만으로는 충분하지 않습니다."
+
+#: ../../funding/lingang-open-source-ai.rst:22
+msgid "Confirm current implementing notice and intake"
+msgstr "현행 시행 지침 및 접수 기간 확인"
+
+#: ../../funding/lingang-open-source-ai.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/lingang-open-source-ai.rst:27
+msgid "`Official application / policy route <https://p.lingang.gov.cn/>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://p.lingang.gov.cn/>`_"
+
+#: ../../funding/lingang-open-source-ai.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/lingang-open-source-ai.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/lingang-open-source-ai.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../funding/lingang-open-source-ai.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../funding/lingang-open-source-ai.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../funding/lingang-open-source-ai.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../funding/lingang-open-source-ai.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

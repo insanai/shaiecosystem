@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -37,11 +37,16 @@ msgid ""
 msgstr "एंटरप्राइज नवाचार नीति 1 सितंबर 2025 से 31 अगस्त 2030 तक चलती है। नए रूपांतरण उद्यम सालाना RMB 500,000 तक के लिए पात्र हो सकते हैं, जो तीन वर्षों में RMB 1.5 मिलियन और पात्र निवेश के 50% तक सीमित है।"
 
 #: ../../entities/government-minhang.rst:10
+
+#| msgid ""
+#| "`Evidence S098 "
+#| "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
+#| "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 msgid ""
-"`Evidence S098 "
+"`Evidence S101 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`साक्ष्य S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`साक्ष्य S101 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../entities/government-minhang.rst:12
 msgid "Status and support"

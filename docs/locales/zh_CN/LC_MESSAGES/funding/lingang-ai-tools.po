@@ -1,0 +1,118 @@
+# zh_CN translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/lingang-ai-tools.rst:1
+msgid "Lin-gang OPC AI-tool service cost support"
+msgstr "临港OPC人工智能工具服务费用支持"
+
+#: ../../funding/lingang-ai-tools.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "报销支持｜浦东新区"
+
+#: ../../funding/lingang-ai-tools.rst:6
+msgid "Published policy; implementing intake to confirm"
+msgstr "政策已公布，实施受理待确认"
+
+#: ../../funding/lingang-ai-tools.rst:8
+msgid ""
+"`Evidence S139 "
+"<https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. "
+"Lin-gang OPC policy: AI tool services and open-source development, 2026."
+msgstr "`证据 S139 <https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. Lin-gang OPC policy: AI tool services and open-source development, 2026."
+
+#: ../../funding/lingang-ai-tools.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/lingang-ai-tools.rst:13
+msgid ""
+"Up to 80% of qualifying AI-tool service costs; applicable caps and "
+"conditions require the implementing notice"
+msgstr "符合条件的AI工具服务费用最高支持80%；具体限额及条件须核验实施通知"
+
+#: ../../funding/lingang-ai-tools.rst:15
+msgid "No equity for qualifying public support"
+msgstr "合资格财政支持不占股"
+
+#: ../../funding/lingang-ai-tools.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/lingang-ai-tools.rst:20
+msgid ""
+"Eligible OPCs purchasing approved technical services under the March 2026 "
+"measures. Foreign-founded teams should confirm the required local entity, "
+"community recognition, eligible invoices and supplier rules. Foreign "
+"ownership or a foreign parent alone does not establish grant eligibility; "
+"verify the written current procedure."
+msgstr "适用2026年3月措施、购买合资格技术服务的OPC。外籍创始团队应确认所需本地法人、社区认定、合资格发票及供应商规则。外资股权或境外母公司本身不构成资助资格，须核验现行书面流程。"
+
+#: ../../funding/lingang-ai-tools.rst:22
+msgid "Confirm current implementing notice and intake"
+msgstr "确认现行实施通知及受理安排"
+
+#: ../../funding/lingang-ai-tools.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/lingang-ai-tools.rst:27
+msgid "`Official application / policy route <https://p.lingang.gov.cn/>`_"
+msgstr "`官方申请／政策入口 <https://p.lingang.gov.cn/>`_"
+
+#: ../../funding/lingang-ai-tools.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/lingang-ai-tools.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/lingang-ai-tools.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "确认实际类别、范围、供应商及合资格支出期间。"
+
+#: ../../funding/lingang-ai-tools.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "保留服务合同、发票、付款凭证及明细用量记录。"
+
+#: ../../funding/lingang-ai-tools.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "使用指定平台及当前批次，完成规定区级或运营方审核。"
+
+#: ../../funding/lingang-ai-tools.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "核验认可额度、重复资助限制及拨付条件。"
+
+#: ../../funding/lingang-ai-tools.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

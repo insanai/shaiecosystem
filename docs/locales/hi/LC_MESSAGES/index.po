@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -20,13 +20,13 @@ msgstr ""
 msgid "Shanghai Ecosystem Atlas"
 msgstr "शंघाई इनोवेशन इकोसिस्टम गाइड"
 
-#: ../../index.rst:4
+#: ../../index.rst:6
 msgid ""
 "The Pearl of the Orient. A field guide to research, enterprise and "
 "possibility."
 msgstr "पूर्व का मोती। अनुसंधान, उद्यम और संभावनाओं के लिए एक फील्ड गाइड।"
 
-#: ../../index.rst:6
+#: ../../index.rst:8
 msgid ""
 "An illustrated guide in seven languages for accelerators, founders, "
 "researchers and AI enthusiasts. It connects Shanghai's universities, "
@@ -34,13 +34,17 @@ msgid ""
 "across all 16 districts."
 msgstr "एक्सेलेरेटर, संस्थापकों, शोधकर्ताओं और AI में रुचि रखने वालों के लिए सात भाषाओं में एक सचित्र गाइड। यह शंघाई के सभी 16 ज़िलों में विश्वविद्यालयों, सॉफ्टवेयर और हार्डवेयर AI समुदायों तथा सहायता के व्यावहारिक विकल्पों को जोड़ती है।"
 
-#: ../../index.rst:8
-msgid ""
-"Research edition: 2026-11-04. 131 organization profiles. 50 funding "
-"routes. 16 districts. 140 cited sources."
-msgstr "शोध संस्करण: 2026-11-04। 131 संस्थान प्रोफ़ाइल। 50 वित्तपोषण मार्ग। 16 ज़िले। 140 उद्धृत स्रोत।"
-
 #: ../../index.rst:10
+
+#| msgid ""
+#| "Research edition: 2026-11-04. 131 organization profiles. 50 funding "
+#| "routes. 16 districts. 140 cited sources."
+msgid ""
+"Research edition: 2026-11-04. 133 organization profiles. 53 funding "
+"routes. 16 districts. 144 cited sources."
+msgstr "शोध संस्करण: 2026-11-04। 133 संस्थान प्रोफ़ाइल। 53 वित्तपोषण मार्ग। 16 ज़िले। 144 उद्धृत स्रोत।"
+
+#: ../../index.rst:12
 msgid ""
 "Written by **Vikrant Rathore** with contributions from **Lauren Zhao, "
 "Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. "
@@ -49,18 +53,18 @@ msgid ""
 "(*Yulania denudata*)."
 msgstr "**Vikrant Rathore** द्वारा लिखित, **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore और Emily Yue Xu** के योगदान के साथ। शंघाई के आधिकारिक फूल, सफेद मैग्नोलिया (*Yulania denudata*) से प्रेरित एक एकीकृत सात भाषाओं वाले **HTML और PDF** प्रकाशन के रूप में **Guidedog** का उपयोग करके निर्मित।"
 
-#: ../../index.rst:12
+#: ../../index.rst:14
 msgid ""
 ":doc:`Explore the interactive atlas <atlas>` | :doc:`Browse all 16 "
 "districts <districts>` | :doc:`Find funding <funding>` | :doc:`Plan an "
 "application <apply>`"
 msgstr ":doc:`इंटरैक्टिव एटलस का अन्वेषण करें <atlas>` | :doc:`सभी 16 जिले ब्राउज़ करें <districts>` | :doc:`फंडिंग खोजें <funding>` | :doc:`आवेदन की योजना बनाएं <apply>`"
 
-#: ../../index.rst:16
+#: ../../index.rst:18
 msgid "All 16 administrative districts of Shanghai"
 msgstr "शंघाई के सभी 16 प्रशासनिक जिले"
 
-#: ../../index.rst:19
+#: ../../index.rst:21
 msgid ""
 "Every administrative district of Shanghai is covered in both the website "
 "and the PDF book with its documented industrial focus, receiving "
@@ -68,22 +72,28 @@ msgid ""
 "district funding routes:"
 msgstr "शंघाई के प्रत्येक प्रशासनिक जिले को वेबसाइट और PDF पुस्तक दोनों में उसके प्रलेखित औद्योगिक फोकस, प्राप्तकर्ता सरकारी प्राधिकरण, स्थानीय नवाचार स्टार्टअप सहायता केंद्रों, विश्वविद्यालयों और जिला फंडिंग मार्गों के साथ कवर किया गया है:"
 
-#: ../../index.rst:21
+#: ../../index.rst:23
+
+#| msgid ""
+#| "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation "
+#| "models, chips, biomedicine and advanced manufacturing**. Authority: "
+#| "Pudong Science, Technology and Economy Commission. (40 organizations, "
+#| "4 district funding routes)"
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
-"Science, Technology and Economy Commission. (40 organizations, 4 district "
+"Science, Technology and Economy Commission. (42 organizations, 7 district "
 "funding routes)"
-msgstr "**[01]** :doc:`पुडोंग (Pudong) <districts/pudong>` (浦东新区) — **फाउंडेशन मॉडल, चिप्स, बायोमेडिसिन और उन्नत विनिर्माण**. पुडोंग विज्ञान, प्रौद्योगिकी और अर्थव्यवस्था आयोग. (40 / 4)"
+msgstr "**[01]** :doc:`पुडोंग (Pudong) <districts/pudong>` (浦东新区) — **फाउंडेशन मॉडल, चिप्स, बायोमेडिसिन और उन्नत विनिर्माण**. पुडोंग विज्ञान, प्रौद्योगिकी और अर्थव्यवस्था आयोग. (42 / 7)"
 
-#: ../../index.rst:22
+#: ../../index.rst:24
 msgid ""
 "**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
 "embodied AI and research commercialization**. Authority: Xuhui industry "
 "development authority. (9 organizations, 2 district funding routes)"
 msgstr "**[02]** :doc:`शुहुई (Xuhui) <districts/xuhui>` (徐汇区) — **फाउंडेशन मॉडल, एम्बॉडीड AI और अनुसंधान व्यावसायीकरण**. शुहुई उद्योग विकास प्राधिकरण. (9 / 2)"
 
-#: ../../index.rst:23
+#: ../../index.rst:25
 msgid ""
 "**[03]** :doc:`Yangpu <districts/yangpu>` (杨浦区) — **University spinouts, "
 "brain-inspired AI and independent AI founders**. Authority: Yangpu "
@@ -91,7 +101,7 @@ msgid ""
 "routes)"
 msgstr "**[03]** :doc:`यांगपू (Yangpu) <districts/yangpu>` (杨浦区) — **विश्वविद्यालय स्पिनआउट, मस्तिष्क-प्रेरित (brain-inspired) AI और स्वतंत्र AI संस्थापक**. यांगपू विज्ञान और प्रौद्योगिकी प्राधिकरण. (10 / 2)"
 
-#: ../../index.rst:24
+#: ../../index.rst:26
 msgid ""
 "**[04]** :doc:`Minhang <districts/minhang>` (闵行区) — **University "
 "commercialization, robotics, BCI and engineering**. Authority: Minhang "
@@ -99,7 +109,7 @@ msgid ""
 "routes)"
 msgstr "**[04]** :doc:`मिनहांग (Minhang) <districts/minhang>` (闵行区) — **विश्वविद्यालय व्यावसायीकरण, रोबोटिक्स, BCI और इंजीनियरिंग**. मिनहांग विज्ञान और प्रौद्योगिकी प्राधिकरण. (6 / 2)"
 
-#: ../../index.rst:25
+#: ../../index.rst:27
 msgid ""
 "**[05]** :doc:`Jiading <districts/jiading>` (嘉定区) — **Automotive "
 "intelligence, sensors, MEMS and pilot production**. Authority: Jiading "
@@ -107,14 +117,14 @@ msgid ""
 "routes)"
 msgstr "**[05]** :doc:`जियाडिंग (Jiading) <districts/jiading>` (嘉定区) — **ऑटोमोटिव इंटेलिजेंस, सेंसर, MEMS और पायलट उत्पादन**. जियाडिंग विज्ञान और प्रौद्योगिकी प्राधिकरण. (4 / 1)"
 
-#: ../../index.rst:26
+#: ../../index.rst:28
 msgid ""
 "**[06]** :doc:`Baoshan <districts/baoshan>` (宝山区) — **Robotics, advanced "
 "equipment and industrial deployment**. Authority: Baoshan industry and "
 "science authorities. (2 organizations, 1 district funding routes)"
 msgstr "**[06]** :doc:`बाओशान (Baoshan) <districts/baoshan>` (宝山区) — **रोबोटिक्स, उन्नत उपकरण और औद्योगिक परिनियोजन**. बाओशान उद्योग और विज्ञान प्राधिकरण. (2 / 1)"
 
-#: ../../index.rst:27
+#: ../../index.rst:29
 msgid ""
 "**[07]** :doc:`Putuo <districts/putuo>` (普陀区) — **Industrial testing, "
 "intelligent software and international innovation**. Authority: Putuo "
@@ -122,7 +132,7 @@ msgid ""
 "routes)"
 msgstr "**[07]** :doc:`पुतुओ (Putuo) <districts/putuo>` (普陀区) — **औद्योगिक परीक्षण, इंटेलिजेंट सॉफ्टवेयर और अंतर्राष्ट्रीय नवाचार**. पुतुओ विज्ञान और प्रौद्योगिकी प्राधिकरण. (4 / 3)"
 
-#: ../../index.rst:28
+#: ../../index.rst:30
 msgid ""
 "**[08]** :doc:`Changning <districts/changning>` (长宁区) — **Digital "
 "business, AI applications and cross-border services**. Authority: "
@@ -130,14 +140,14 @@ msgid ""
 "funding routes)"
 msgstr "**[08]** :doc:`चांगनिंग (Changning) <districts/changning>` (长宁区) — **डिजिटल व्यवसाय, AI अनुप्रयोग और सीमा-पार सेवाएं**. चांगनिंग विज्ञान और प्रौद्योगिकी प्राधिकरण. (2 / 2)"
 
-#: ../../index.rst:29
+#: ../../index.rst:31
 msgid ""
 "**[09]** :doc:`Jing'an <districts/jingan>` (静安区) — **Enterprise AI, data "
 "services and digital commerce**. Authority: Jing'an science and economy "
 "authority. (3 organizations, 1 district funding routes)"
 msgstr "**[09]** :doc:`जिंगआन (Jing'an) <districts/jingan>` (静安区) — **एंटरप्राइज AI, डेटा सेवाएं और डिजिटल कॉमर्स**. जिंगआन विज्ञान और अर्थव्यवस्था प्राधिकरण. (3 / 1)"
 
-#: ../../index.rst:30
+#: ../../index.rst:32
 msgid ""
 "**[10]** :doc:`Huangpu <districts/huangpu>` (黄浦区) — **Fintech, clinical "
 "services, design and consumer applications**. Authority: Huangpu science "
@@ -145,7 +155,7 @@ msgid ""
 "routes)"
 msgstr "**[10]** :doc:`हुआंगपू (Huangpu) <districts/huangpu>` (黄浦区) — **फिनटेक, क्लिनिकल सेवाएं, डिज़ाइन और उपभोक्ता अनुप्रयोग**. हुआंगपू विज्ञान और उद्यमिता सेवाएं. (2 / 1)"
 
-#: ../../index.rst:31
+#: ../../index.rst:33
 msgid ""
 "**[11]** :doc:`Hongkou <districts/hongkou>` (虹口区) — **Shipping "
 "technology, green finance and intelligent inspection**. Authority: "
@@ -153,14 +163,14 @@ msgid ""
 "funding routes)"
 msgstr "**[11]** :doc:`होंगकोउ (Hongkou) <districts/hongkou>` (虹口区) — **शिपिंग प्रौद्योगिकी, हरित वित्त और इंटेलिजेंट निरीक्षण**. होंगकोउ विज्ञान और अर्थव्यवस्था प्राधिकरण. (4 / 1)"
 
-#: ../../index.rst:32
+#: ../../index.rst:34
 msgid ""
 "**[12]** :doc:`Songjiang <districts/songjiang>` (松江区) — **G60 innovation, "
 "industrial software and advanced manufacturing**. Authority: Songjiang "
 "G60 innovation services. (8 organizations, 2 district funding routes)"
 msgstr "**[12]** :doc:`सोंगजियांग (Songjiang) <districts/songjiang>` (松江区) — **G60 नवाचार, औद्योगिक सॉफ्टवेयर और उन्नत विनिर्माण**. सोंगजियांग G60 नवाचार सेवाएं. (8 / 2)"
 
-#: ../../index.rst:33
+#: ../../index.rst:35
 msgid ""
 "**[13]** :doc:`Qingpu <districts/qingpu>` (青浦区) — **Huawei-linked "
 "research, digital systems and regional collaboration**. Authority: Qingpu "
@@ -168,21 +178,21 @@ msgid ""
 "routes)"
 msgstr "**[13]** :doc:`चिंगपू (Qingpu) <districts/qingpu>` (青浦区) — **हुआवेई-जुड़ा अनुसंधान, डिजिटल सिस्टम और क्षेत्रीय सहयोग**. चिंगपू विज्ञान और प्रौद्योगिकी प्राधिकरण. (3 / 2)"
 
-#: ../../index.rst:34
+#: ../../index.rst:36
 msgid ""
 "**[14]** :doc:`Jinshan <districts/jinshan>` (金山区) — **Drones, new "
 "materials and low-altitude systems**. Authority: Jinshan science and "
 "technology authority. (3 organizations, 1 district funding routes)"
 msgstr "**[14]** :doc:`जिनशान (Jinshan) <districts/jinshan>` (金山区) — **ड्रोन, नई सामग्री और कम-ऊंचाई (low-altitude) वाली प्रणालियां**. जिनशान विज्ञान और प्रौद्योगिकी प्राधिकरण. (3 / 1)"
 
-#: ../../index.rst:35
+#: ../../index.rst:37
 msgid ""
 "**[15]** :doc:`Fengxian <districts/fengxian>` (奉贤区) — **Robotics, beauty "
 "and health technology, advanced manufacturing**. Authority: Fengxian "
 "economic commission. (4 organizations, 3 district funding routes)"
 msgstr "**[15]** :doc:`फेंगशियान (Fengxian) <districts/fengxian>` (奉贤区) — **रोबोटिक्स, सौंदर्य और स्वास्थ्य प्रौद्योगिकी, उन्नत विनिर्माण**. फेंगशियान आर्थिक आयोग. (4 / 3)"
 
-#: ../../index.rst:36
+#: ../../index.rst:38
 msgid ""
 "**[16]** :doc:`Chongming <districts/chongming>` (崇明区) — **Ecological "
 "technology, smart agriculture and marine systems**. Authority: Chongming "
@@ -190,11 +200,11 @@ msgid ""
 "routes)"
 msgstr "**[16]** :doc:`चोंगमिंग (Chongming) <districts/chongming>` (崇明区) — **पारिस्थितिक प्रौद्योगिकी, स्मार्ट कृषि और समुद्री प्रणालियां**. चोंगमिंग विज्ञान और प्रौद्योगिकी प्राधिकरण. (2 / 2)"
 
-#: ../../index.rst:38
+#: ../../index.rst:40
 msgid "Complete chapters & directories in this atlas"
 msgstr "इस एटलस में संपूर्ण अध्याय और निर्देशिकाएं"
 
-#: ../../index.rst:41
+#: ../../index.rst:43
 msgid ""
 ":doc:`A city of connected possibilities <reading-the-city>` — Spatial "
 "logic across central Shanghai, industrial corridors, five新城 (New Cities) "
@@ -202,111 +212,111 @@ msgid ""
 "credits."
 msgstr ":doc:`जुड़ी हुई संभावनाओं का शहर <reading-the-city>` — मध्य शंघाई, औद्योगिक गलियारों, पांच नए शहरों (New Cities) और चोंगमिंग इको-आइलैंड में स्थानिक तर्क, साथ ही मैग्नोलिया डिज़ाइन नोट्स और लेखकत्व क्रेडिट।"
 
-#: ../../index.rst:42
+#: ../../index.rst:44
 msgid ""
 ":doc:`Explore the Shanghai ecosystem <atlas>` — Interactive 16-district "
 "vector map, bilingual search, sector and equity filters, shortlist and "
 "CSV export."
 msgstr ":doc:`शंघाई इकोसिस्टम का अन्वेषण करें <atlas>` — इंटरैक्टिव 16-जिला वेक्टर मानचित्र, द्विभाषी खोज, सेक्टर और इक्विटी फ़िल्टर, शॉर्टलिस्ट और CSV निर्यात।"
 
-#: ../../index.rst:43
+#: ../../index.rst:45
 msgid ""
 ":doc:`Intelligence in software <software-ai>` — Foundation models, "
 "vertical agents, Model Speed Space, Zhangjiang Model Community, "
 "compute/corpus vouchers and compliance routing."
 msgstr ":doc:`सॉफ्टवेयर में बुद्धिमत्ता <software-ai>` — फाउंडेशन मॉडल, वर्टिकल एजेंट्स, मॉडल स्पीड स्पेस, झांगजियांग मॉडल कम्युनिटी, कंप्यूट/कॉर्पस वाउचर और अनुपालन मार्गदर्शन।"
 
-#: ../../index.rst:44
+#: ../../index.rst:46
 msgid ""
 ":doc:`Intelligence in the physical world <hardware-ai>` — AI chips, "
 "EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, "
 "BCI and wet-lab biocomputing."
 msgstr ":doc:`भौतिक दुनिया में बुद्धिमत्ता <hardware-ai>` — AI चिप्स, EDA/MPW टेप-आउट, MEMS सेंसर, एम्बॉडीड रोबोटिक्स, कम-ऊंचाई वाले ड्रोन, BCI और वेट-लैब बायोकंप्यूटिंग।"
 
-#: ../../index.rst:45
+#: ../../index.rst:47
 msgid ""
 ":doc:`Sixteen districts, sixteen entry routes <districts>` — Dedicated "
 "chapter for each of Shanghai's 16 districts with receiving authorities, "
 "policy boundaries, local carriers and funding."
 msgstr ":doc:`सोलह जिले, सोलह प्रवेश मार्ग <districts>` — शंघाई के सभी 16 जिलों के लिए समर्पित अध्याय, जिनमें प्राप्तकर्ता प्राधिकरण, नीति सीमाएं, स्थानीय स्टार्टअप सहायता केंद्रों और फंडिंग शामिल हैं।"
 
-#: ../../index.rst:46
+#: ../../index.rst:48
 msgid ""
 ":doc:`Universities and commercialization <universities>` — Profiles for "
 "all 40 undergraduate universities in Shanghai with MOE codes, "
 "collaboration themes and tech-transfer contacts."
 msgstr ":doc:`विश्वविद्यालय और व्यावसायीकरण <universities>` — MOE कोड, सहयोग विषयों और प्रौद्योगिकी-हस्तांतरण संपर्कों के साथ शंघाई के सभी 40 स्नातक विश्वविद्यालयों की प्रोफाइल।"
 
-#: ../../index.rst:47
+#: ../../index.rst:49
 msgid ""
 ":doc:`The higher-education register <university-register>` — Complete "
 "June 2026 Ministry of Education register: 40 undergraduate universities, "
 "29 diploma colleges, 12 adult institutions and CEIBS."
 msgstr ":doc:`उच्च-शिक्षा रजिस्टर <university-register>` — जून 2026 का संपूर्ण शिक्षा मंत्रालय रजिस्टर: 40 स्नातक विश्वविद्यालय, 29 डिप्लोमा कॉलेज, 12 वयस्क संस्थान और CEIBS।"
 
-#: ../../index.rst:48
+#: ../../index.rst:50
 msgid ""
 ":doc:`Incubators, accelerators and parks <incubation>` — 28 researched "
 "incubators, accelerators and technology parks across Shanghai with "
 "admission checklists and operator details."
 msgstr ":doc:`इनक्यूबेटर, एक्सेलेरेटर और पार्क <incubation>` — प्रवेश चेकलिस्ट और संचालक विवरण के साथ शंघाई भर में 38 शोधित इनक्यूबेटर, एक्सेलेरेटर और प्रौद्योगिकी पार्क।"
 
-#: ../../index.rst:49
+#: ../../index.rst:51
 msgid ""
 ":doc:`Research and technical platforms <research>` — Shanghai AI Lab, ICC "
 "chip service center and Tongji autonomous and PAI research platforms."
 msgstr ":doc:`अनुसंधान और तकनीकी प्लेटफॉर्म <research>` — शंघाई AI लैब, ICC चिप सेवा केंद्र, ICRD, SHTIC, त्सिंगहुआ इंटरनेशनल इनोवेशन सेंटर और तोंगजी अनुसंधान प्लेटफॉर्म।"
 
-#: ../../index.rst:50
+#: ../../index.rst:52
 msgid ""
 ":doc:`Corporate and global programs <corporate>` — Roche, SAP.iO, ABB, "
 "DroidUp, PaddlePaddle, Yangtze AI+ Center, JLABS, Bayer Co.Lab, NVIDIA "
 "Inception, Microsoft, AWS, Siemens and BMW."
 msgstr ":doc:`कॉर्पोरेट और वैश्विक कार्यक्रम <corporate>` — Roche, SAP.iO, ABB, DroidUp, PaddlePaddle, यांग्त्ज़ी AI+ सेंटर, JLABS, Bayer Co.Lab, NVIDIA Inception, Microsoft, AWS, Siemens और BMW।"
 
-#: ../../index.rst:51
+#: ../../index.rst:53
 msgid ""
 ":doc:`Government entry points <government>` — All 16 district science, "
 "technology and economy authorities with official portals, published "
 "contacts and policy notes."
 msgstr ":doc:`सरकारी प्रवेश बिंदु <government>` — आधिकारिक पोर्टल, प्रकाशित संपर्क और नीति नोट्स के साथ सभी 16 जिला विज्ञान, प्रौद्योगिकी और अर्थव्यवस्था प्राधिकरण।"
 
-#: ../../index.rst:52
+#: ../../index.rst:54
 msgid ""
 ":doc:`Capital, with its conditions attached <funding-guide>` — How to "
 "distinguish non-repayable grants, post-expenditure reimbursements, "
 "vouchers, debt, tax relief and equity investment."
 msgstr ":doc:`पूंजी, अपनी जुड़ी हुई शर्तों के साथ <funding-guide>` — गैर-पुनर्भुगतान योग्य अनुदान, व्यय-पश्चात प्रतिपूर्ति, वाउचर, ऋण, कर राहत और इक्विटी निवेश के बीच अंतर कैसे करें।"
 
-#: ../../index.rst:53
+#: ../../index.rst:55
 msgid ""
 ":doc:`Funding, without mixing the mechanisms <funding>` — All 40 citywide "
 "and district funding pathways with ceilings, equity rules, eligibility "
 "criteria, deadlines and official links."
 msgstr ":doc:`फंडिंग, बिना तंत्रों को मिलाए <funding>` — सीमाओं, इक्विटी नियमों, पात्रता मानदंडों, समय-सीमाओं और आधिकारिक लिंक के साथ सभी 45 शहरव्यापी और जिला फंडिंग मार्ग।"
 
-#: ../../index.rst:54
+#: ../../index.rst:56
 msgid ""
 ":doc:`Investors and patient capital <investors>` — STEFG Angel Fund, "
 "Shanghai Leading Industry Funds, Pudong AI Seed Fund, Embodied AI Fund, "
 "STVC and Qiming Venture Partners."
 msgstr ":doc:`निवेशक और धैर्यशील पूंजी (Patient Capital) <investors>` — STEFG एंजेल फंड, शंघाई लीडिंग इंडस्ट्री फंड्स, पुडोंग AI सीड फंड, एम्बॉडीड AI फंड, STVC और चिमिंग वेंचर पार्टनर्स।"
 
-#: ../../index.rst:55
+#: ../../index.rst:57
 msgid ""
 ":doc:`From introduction to application <apply>` — Bilingual outreach "
 "templates, shared data-room checklist, decision workflows and a four-week "
 "accelerator field program."
 msgstr ":doc:`परिचय से आवेदन तक <apply>` — द्विभाषी संपर्क टेम्पलेट, साझा डेटा-रूम चेकलिस्ट, निर्णय कार्यप्रणाली और चार-सप्ताह का एक्सेलेरेटर फील्ड प्रोग्राम।"
 
-#: ../../index.rst:56
+#: ../../index.rst:58
 msgid ""
 ":doc:`How to read the evidence <methodology>` — Source verification "
 "rules, translation discipline, map accuracy disclosures, known gaps and "
 "authorship credits."
 msgstr ":doc:`साक्ष्य को कैसे पढ़ें <methodology>` — स्रोत सत्यापन नियम, अनुवाद अनुशासन, मानचित्र सटीकता प्रकटीकरण, ज्ञात अंतराल और लेखकत्व क्रेडिट।"
 
-#: ../../index.rst:57
+#: ../../index.rst:59
 msgid ""
 ":doc:`Sources and reading room <sources>` — Complete bibliography of all "
 "cited government notices, institutional registers and operator pages with "

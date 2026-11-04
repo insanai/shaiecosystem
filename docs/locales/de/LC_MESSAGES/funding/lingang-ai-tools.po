@@ -1,0 +1,118 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/lingang-ai-tools.rst:1
+msgid "Lin-gang OPC AI-tool service cost support"
+msgstr "Lin-gang: Zuschuss zu KI-Tool-Services für OPCs"
+
+#: ../../funding/lingang-ai-tools.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "Kostenerstattung | Neuer Stadtbezirk Pudong"
+
+#: ../../funding/lingang-ai-tools.rst:6
+msgid "Published policy; implementing intake to confirm"
+msgstr "Richtlinie veröffentlicht; Annahmeverfahren zu bestätigen"
+
+#: ../../funding/lingang-ai-tools.rst:8
+msgid ""
+"`Evidence S139 "
+"<https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. "
+"Lin-gang OPC policy: AI tool services and open-source development, 2026."
+msgstr "`Nachweis S139 <https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. Lin-gang OPC policy: AI tool services and open-source development, 2026."
+
+#: ../../funding/lingang-ai-tools.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/lingang-ai-tools.rst:13
+msgid ""
+"Up to 80% of qualifying AI-tool service costs; applicable caps and "
+"conditions require the implementing notice"
+msgstr "Bis zu 80 % förderfähiger KI-Tool-Servicekosten; Obergrenzen und Bedingungen nach Durchführungsbekanntmachung"
+
+#: ../../funding/lingang-ai-tools.rst:15
+msgid "No equity for qualifying public support"
+msgstr "Keine Anteilsabgabe bei qualifizierter öffentlicher Förderung"
+
+#: ../../funding/lingang-ai-tools.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/lingang-ai-tools.rst:20
+msgid ""
+"Eligible OPCs purchasing approved technical services under the March 2026 "
+"measures. Foreign-founded teams should confirm the required local entity, "
+"community recognition, eligible invoices and supplier rules. Foreign "
+"ownership or a foreign parent alone does not establish grant eligibility; "
+"verify the written current procedure."
+msgstr "Berechtigte OPCs, die anerkannte technische Leistungen nach den Maßnahmen vom März 2026 beziehen. Ausländische Gründerteams sollten lokale Gesellschaft, Community-Anerkennung, Rechnungen und Anbieterregeln bestätigen. Ausländische Beteiligung oder eine ausländische Muttergesellschaft allein begründen keine Förderberechtigung. Aktuelles schriftliches Verfahren prüfen."
+
+#: ../../funding/lingang-ai-tools.rst:22
+msgid "Confirm current implementing notice and intake"
+msgstr "Aktuelle Durchführungsregeln und Antragsrunde bestätigen"
+
+#: ../../funding/lingang-ai-tools.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/lingang-ai-tools.rst:27
+msgid "`Official application / policy route <https://p.lingang.gov.cn/>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://p.lingang.gov.cn/>`_"
+
+#: ../../funding/lingang-ai-tools.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "Die verlinkte Behörde bzw. der Träger ist der offizielle Kontaktweg. Ein direkter Programm-Ansprechpartner ist in diesem Profil nicht hinterlegt."
+
+#: ../../funding/lingang-ai-tools.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/lingang-ai-tools.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "Gutscheinkategorie, räumliche Grenzen, anerkannte Dienstleister und förderfähigen Zeitraum prüfen."
+
+#: ../../funding/lingang-ai-tools.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "Dienstleistungsverträge, Rechnungen, Zahlungsnachweise und detaillierte Nutzungsberichte aufbewahren."
+
+#: ../../funding/lingang-ai-tools.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "Die festgelegte Plattform und Antragsrunde nutzen sowie die Prüfung durch Bezirk oder Betreiber durchlaufen."
+
+#: ../../funding/lingang-ai-tools.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "Bewilligungssumme, Ausschluss von Mehrfachförderung und Auszahlungsmodalitäten kontrollieren."
+
+#: ../../funding/lingang-ai-tools.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

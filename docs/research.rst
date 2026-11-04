@@ -1,7 +1,7 @@
 Research and technical platforms
 ================================
 
-10 profiles with evidence, contact routes and an application checklist. Published existence is distinguished from current intake.
+11 profiles with evidence, contact routes and an application checklist. Published existence is distinguished from current intake.
 
 .. only:: html
 
@@ -18,6 +18,7 @@ Research and technical platforms
    * :doc:`Chongming Enterprise Technology Center & Eco-Innovation Route <entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Research platform · Chongming · Focus: Climate, Agriculture, Industry) — Coordinated by the Chongming Economic Commission (14th batch call issued in May 2026) alongside district science authorities to support enterprise R&D centers in ecological tech, green manufacturing and smart agriculture. [Status: Published entity; intake to confirm]
    * :doc:`National-Local Humanoid Robot Innovation Center / pilot platform <entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · Research platform · Pudong · Focus: Hardware AI, Robotics, Sensors) — The center links robot data collection, training and physical validation with a pilot-production platform operated with Shanghai Electric. The July 2026 announcement describes industry-facing trial production, testing and scenario validation. Ask for compatibility, queue, sample ownership, safety responsibilities and a written service quotation. [Status: Published entity; intake to confirm]
    * :doc:`WAIC / Future Tech venture network <entities/waic-future-tech>` (世界人工智能大会／Future Tech创投生态 · Research platform · Citywide / global · Focus: Software AI, Hardware AI, Robotics, AI for Science) — The 2026 World Artificial Intelligence Conference included a Future Tech venture network connecting selected startups and investors. The July 2026 event has ended; this is a networking and future-event route, not a permanent incubator or an open funding call. Ask the organizer about the next startup selection, exhibition fees and investor sessions. [Status: Historical / confirm continuation]
+   * :doc:`Waigaoqiao bonded R&D and AI-health innovation services <entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · Research platform · Pudong · Focus: AI for Science, Health, Hardware AI, Robotics) — The 2025-2026 Free Trade Bonded Park plan explicitly supports AI drug discovery, cross-border medical-device R&D, advanced-equipment innovation and foreign-funded R&D institutions. Foreign AI and hardware companies can use the authority route to explore local research, testing and commercialization arrangements. Confirm the specific operator, legal entity, customs boundary, sector permissions and data handling before incurring costs. This is a service and collaboration route; the plan is not a cash-award offer. [Status: Published entity; intake to confirm]
 
 .. toctree::
    :maxdepth: 1
@@ -32,3 +33,4 @@ Research and technical platforms
    entities/chongming-tech-center
    entities/humanoid-pilot
    entities/waic-future-tech
+   entities/waigaoqiao-innovation

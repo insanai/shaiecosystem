@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -32,11 +32,16 @@ msgid ""
 msgstr "Die Ausschreibung für KI-Anwendungen 2026 endete am 31. August 2026. Das Programm bezog sich auf förderfähige Ausgaben für Modelle und Agenten aus dem Jahr 2025; Doppelförderungen aus anderen öffentlichen Kassen sind ausgeschlossen."
 
 #: ../../districts/pudong.rst:8
+
+#| msgid ""
+#| "`Evidence S096 "
+#| "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
+#| "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 msgid ""
-"`Evidence S096 "
+"`Evidence S099 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
 "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
-msgstr "`Nachweis S096 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`Nachweis S099 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 
 #: ../../districts/pudong.rst:10
 msgid "Who receives the inquiry"
@@ -352,6 +357,35 @@ msgstr ":doc:`Lin-gang Zero Cube OPC-Community </entities/zero-cube-opc>` (临�
 
 #: ../../districts/pudong.rst:62
 msgid ""
+":doc:`Waigaoqiao Fudan Science Park Biomedical Innovation Center "
+"</entities/waigaoqiao-fudan>` (外高桥复旦科技园生物医药创新中心 · Incubator · Health, AI "
+"for Science) — Fudan Science Park operates this biomedical incubation and "
+"commercialization center at 8 Jiafeng Road in Waigaoqiao. "
+"AI-for-drug-discovery teams can explore laboratory and translational "
+"partnerships here; this is an editorial fit, not a verified dedicated AI "
+"cohort. Foreign businesses should ask whether a locally incorporated "
+"foreign-invested entity is required, then confirm admission, IP, "
+"laboratory access and fees. No standard grant or foreign-founder "
+"entitlement is established. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Waigaoqiao: Biomedizinisches Innovationszentrum des Fudan Science Park </entities/waigaoqiao-fudan>` (外高桥复旦科技园生物医药创新中心 · Inkubator · Gesundheit & Life Sciences, KI in der Wissenschaft (AI for Science)) — Fudan Science Park betreibt an der Jiafeng Road 8 in Waigaoqiao ein Zentrum für biomedizinische Gründungen und Verwertung. Teams für KI-gestützte Wirkstoffforschung können Labor- und Transferpartnerschaften prüfen. Dies ist eine redaktionelle Zuordnung, keine bestätigte KI-Ausschreibung. Ausländische Unternehmen sollten klären, ob eine lokal gegründete Gesellschaft mit ausländischer Beteiligung erforderlich ist, und Aufnahme, IP, Laborzugang und Gebühren bestätigen. Kein allgemeiner Zuschuss oder automatischer Anspruch für ausländische Gründer belegt. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/pudong.rst:63
+msgid ""
+":doc:`Waigaoqiao bonded R&D and AI-health innovation services "
+"</entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · Research platform "
+"· AI for Science, Health, Hardware AI, Robotics) — The 2025-2026 Free "
+"Trade Bonded Park plan explicitly supports AI drug discovery, "
+"cross-border medical-device R&D, advanced-equipment innovation and "
+"foreign-funded R&D institutions. Foreign AI and hardware companies can "
+"use the authority route to explore local research, testing and "
+"commercialization arrangements. Confirm the specific operator, legal "
+"entity, customs boundary, sector permissions and data handling before "
+"incurring costs. This is a service and collaboration route; the plan is "
+"not a cash-award offer. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`Waigaoqiao: Zollgebundene F&E und KI-Gesundheitsinnovation </entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · Forschungsplattform · KI in der Wissenschaft (AI for Science), Gesundheit & Life Sciences, Hardware-KI, Robotik) — Der Plan 2025–2026 unterstützt ausdrücklich KI-Wirkstoffforschung, grenzüberschreitende Medizintechnik-F&E, innovative Ausrüstung und ausländisch finanzierte F&E-Institute. Ausländische KI- und Hardwareunternehmen können über die Behörde lokale Forschung, Tests und Verwertung erkunden. Vor Kostenentstehung Betreiber, Rechtsträger, Zollgrenze, Branchengenehmigungen und Datenverarbeitung klären. Dies ist ein Service- und Kooperationsweg, keine Zusage einer Barauszahlung. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/pudong.rst:64
+msgid ""
 ":doc:`Shanghai Maritime University </entities/university-maritime>` "
 "(上海海事大学 · University) — Institutional entry in the June 2026 Ministry of "
 "Education register. Suggested collaboration themes: Shipping, logistics, "
@@ -360,7 +394,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`Maritime Universität Shanghai (Shanghai Maritime University) </entities/university-maritime>` (上海海事大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Schifffahrt, Logistik, autonome maritime Systeme. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:63
+#: ../../districts/pudong.rst:65
 msgid ""
 ":doc:`Shanghai University of Electric Power "
 "</entities/university-electric-power>` (上海电力大学 · University) — "
@@ -371,7 +405,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`Elektrizitäts-Universität Shanghai (Shanghai University of Electric Power) </entities/university-electric-power>` (上海电力大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Energiesysteme, intelligente Stromnetze (Smart Grid), Industriesteuerung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:64
+#: ../../districts/pudong.rst:66
 msgid ""
 ":doc:`Shanghai University of Medicine and Health Sciences "
 "</entities/university-sumhs>` (上海健康医学院 · University) — Institutional "
@@ -382,7 +416,7 @@ msgid ""
 "to confirm]"
 msgstr ":doc:`Hochschule für Medizin und Gesundheitswissenschaften Shanghai (SUMHS) </entities/university-sumhs>` (上海健康医学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Medizinische Geräte, Diagnostik, klinische Anwendungen. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:65
+#: ../../districts/pudong.rst:67
 msgid ""
 ":doc:`Shanghai Ocean University </entities/university-ocean>` (上海海洋大学 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -392,7 +426,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`Ozean-Universität Shanghai (Shanghai Ocean University) </entities/university-ocean>` (上海海洋大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Meereswissenschaften, Aquakultur, smarte Agrartechnologie. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:66
+#: ../../districts/pudong.rst:68
 msgid ""
 ":doc:`Shanghai University of Traditional Chinese Medicine "
 "</entities/university-tcm>` (上海中医药大学 · University) — Institutional entry "
@@ -402,7 +436,7 @@ msgid ""
 "startup funding. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`Universität für Traditionelle Chinesische Medizin Shanghai (SHUTCM) </entities/university-tcm>` (上海中医药大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Traditionelle Chinesische Medizin (TCM), Pharmazeutika, Translationale Medizin, Diagnostik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:67
+#: ../../districts/pudong.rst:69
 msgid ""
 ":doc:`Shanghai Customs University </entities/university-customs>` (上海海关学院 "
 "· University) — Institutional entry in the June 2026 Ministry of "
@@ -412,7 +446,7 @@ msgid ""
 "[Status: Published entity; intake to confirm]"
 msgstr ":doc:`Zollhochschule Shanghai (Shanghai Customs University) </entities/university-customs>` (上海海关学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Zollabfertigungstechnik, Lieferkettenüberwachung, Handelskonformität. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:68
+#: ../../districts/pudong.rst:70
 msgid ""
 ":doc:`Shanghai Police College </entities/university-police>` (上海公安学院 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -422,7 +456,7 @@ msgid ""
 "[Status: Published entity; intake to confirm]"
 msgstr ":doc:`Polizeiakademie Shanghai (Shanghai Police College) </entities/university-police>` (上海公安学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Öffentliche Sicherheit, Überwachungstechnik, forensische Analytik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:69
+#: ../../districts/pudong.rst:71
 msgid ""
 ":doc:`Shanghai Lixin University of Accounting and Finance "
 "</entities/university-lixin>` (上海立信会计金融学院 · University) — Institutional "
@@ -433,7 +467,7 @@ msgid ""
 "to confirm]"
 msgstr ":doc:`Shanghai Lixin-Universität für Rechnungswesen und Finanzen </entities/university-lixin>` (上海立信会计金融学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Rechnungswesensysteme, Fintech, Business Analytics. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:70
+#: ../../districts/pudong.rst:72
 msgid ""
 ":doc:`Shanghai DianJi University </entities/university-dianji>` (上海电机学院 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -443,7 +477,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`DianJi-Universität Shanghai (Shanghai DianJi University) </entities/university-dianji>` (上海电机学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Elektrische Ausrüstung, moderne Fertigungstechnik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:71
+#: ../../districts/pudong.rst:73
 msgid ""
 ":doc:`Sanda University </entities/university-sanda>` (上海杉达学院 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -453,7 +487,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`Sanda-Universität Shanghai (Sanda University) </entities/university-sanda>` (上海杉达学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte digitale Geschäftsprozesse und Fachkräftekooperationen. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:72
+#: ../../districts/pudong.rst:74
 msgid ""
 ":doc:`Shanghai Polytechnic University </entities/university-polytechnic>` "
 "(上海第二工业大学 · University) — Institutional entry in the June 2026 Ministry "
@@ -463,7 +497,7 @@ msgid ""
 "funding. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`Polytechnische Universität Shanghai (Zweite Technische Universität Shanghai) </entities/university-polytechnic>` (上海第二工业大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte Ingenieurwissenschaften, Elektronik, Fertigung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:73
+#: ../../districts/pudong.rst:75
 msgid ""
 ":doc:`Shanghai Jian Qiao University </entities/university-jianqiao>` "
 "(上海建桥学院 · University) — Institutional entry in the June 2026 Ministry of "
@@ -473,7 +507,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`Jian-Qiao-Universität Shanghai (Shanghai Jian Qiao University) </entities/university-jianqiao>` (上海建桥学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte Ingenieurwissenschaften, digitale Medien, Wirtschaftswissenschaften. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:74
+#: ../../districts/pudong.rst:76
 msgid ""
 ":doc:`Shanghai Xing Wei College </entities/university-xingwei>` (上海兴伟学院 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -483,7 +517,7 @@ msgid ""
 "[Status: Published entity; intake to confirm]"
 msgstr ":doc:`Xingwei-Kolleg Shanghai (Shanghai Xing Wei College) </entities/university-xingwei>` (上海兴伟学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Interdisziplinäre Ausbildung und Gründungsnetzwerke. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:75
+#: ../../districts/pudong.rst:77
 msgid ""
 ":doc:`ShanghaiTech University </entities/university-shanghaitech>` "
 "(上海科技大学 · University) — Institutional entry in the June 2026 Ministry of "
@@ -493,7 +527,7 @@ msgid ""
 "[Status: Published entity; intake to confirm]"
 msgstr ":doc:`ShanghaiTech-Universität (ShanghaiTech University) </entities/university-shanghaitech>` (上海科技大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Halbleiter, Software-KI, wissenschaftliche Instrumente, Biotechnologie. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:76
+#: ../../districts/pudong.rst:78
 msgid ""
 ":doc:`NYU Shanghai </entities/university-nyu>` (上海纽约大学 · University) — "
 "Institutional entry in the June 2026 Ministry of Education register. "
@@ -503,11 +537,11 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`NYU Shanghai (New York University Shanghai) </entities/university-nyu>` (上海纽约大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Datenwissenschaft, computergestützte Forschung und internationale Kooperationen. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/pudong.rst:78
+#: ../../districts/pudong.rst:80
 msgid "Funding routes"
 msgstr "Finanzierungs- und Förderwege"
 
-#: ../../districts/pudong.rst:81
+#: ../../districts/pudong.rst:83
 msgid ""
 ":doc:`Pudong AI model and agent application support, 2026 "
 "</funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · Reimbursement · No "
@@ -516,7 +550,7 @@ msgid ""
 "Time."
 msgstr ":doc:`Förderprogramm für KI-Modell- und Agentenanwendungen Pudong 2026 </funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · Kostenerstattung · Ohne Anteilsabgabe) — Fördersatz und Höchstbetrag richten sich nach den jeweils geltenden Durchführungsbestimmungen. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Geschlossen am 31. August 2026 um 16:00 Uhr China-Standardzeit."
 
-#: ../../districts/pudong.rst:82
+#: ../../districts/pudong.rst:84
 msgid ""
 ":doc:`Pudong AI Seed Fund </funding/pudong-equity>` (浦东人工智能种子基金 · Equity "
 "investment · Negotiated equity) — Fund target RMB 2bn; first tranche RMB "
@@ -524,7 +558,7 @@ msgid ""
 "intake to confirm. Timing: Manager-led sourcing and due diligence."
 msgstr ":doc:`KI-Seed-Fonds Pudong (Eigenkapitalinvestition) </funding/pudong-equity>` (浦东人工智能种子基金 · Eigenkapitalinvestition · Verhandlungsbasierte Beteiligung) — Angestrebtes Fondsvolumen: 2 Mrd. RMB; erste Tranche: 500 Mio. RMB; kein einheitlicher Investitionsbetrag pro Unternehmen belegt. Status: Fonds angekündigt; Annahme von Investitionsanfragen bestätigen. Zeitrahmen: Projektidentifikation und Due Diligence durch den Fondsmanager."
 
-#: ../../districts/pudong.rst:83
+#: ../../districts/pudong.rst:85
 msgid ""
 ":doc:`Zhangjiang AI Town compute, model and corpus support "
 "</funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Reimbursement · "
@@ -533,7 +567,7 @@ msgid ""
 "intake to confirm. Timing: Quarterly claims; confirm the current batch."
 msgstr ":doc:`Förderung für Rechenleistung, Modelle und Datenkorpora der Zhangjiang KI-Innovationsstadt </funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Kostenerstattung · Ohne Anteilsabgabe) — Bis zu 100 % der anerkannten tatsächlichen Kosten, gedeckelt auf jeweils 1 Mio. RMB pro Kategorie; maximale Förderdauer: 1 Jahr. Status: Quartalsprogramm veröffentlicht; aktuelle Runde zu bestätigen. Zeitrahmen: Vierteljährliche Anträge; aktuelle Runde bestätigen."
 
-#: ../../districts/pudong.rst:84
+#: ../../districts/pudong.rst:86
 msgid ""
 ":doc:`Lin-gang Zero Cube conditional rent support "
 "</funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · In-kind services · No "
@@ -543,6 +577,37 @@ msgid ""
 "current community admission and tenancy terms."
 msgstr ":doc:`Lin-gang Zero Cube: bedingte Mietförderung </funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · Sach- und Dienstleistungen · Keine Anteilsabgabe im Angebot ausgewiesen; Konditionen prüfen) — Berechtigte Büros: 3 Jahre mietfrei, danach 2 Jahre halbe Miete; Wohnen und Services nach getrennten Bedingungen. Status: Dienstleistung veröffentlicht; aktuelle Konditionen zu bestätigen. Zeitrahmen: Aktuelle Aufnahme- und Mietbedingungen bestätigen."
 
-#: ../../districts/pudong.rst:86
+#: ../../districts/pudong.rst:87
+msgid ""
+":doc:`Lin-gang OPC AI-tool service cost support "
+"</funding/lingang-ai-tools>` (临港OPC人工智能工具服务费用支持 · Reimbursement · No "
+"equity for qualifying public support) — Up to 80% of qualifying AI-tool "
+"service costs; applicable caps and conditions require the implementing "
+"notice. Status: Published policy; implementing intake to confirm. Timing: "
+"Confirm current implementing notice and intake."
+msgstr ":doc:`Lin-gang: Zuschuss zu KI-Tool-Services für OPCs </funding/lingang-ai-tools>` (临港OPC人工智能工具服务费用支持 · Kostenerstattung · Keine Anteilsabgabe bei qualifizierter öffentlicher Förderung) — Bis zu 80 % förderfähiger KI-Tool-Servicekosten; Obergrenzen und Bedingungen nach Durchführungsbekanntmachung. Status: Richtlinie veröffentlicht; Annahmeverfahren zu bestätigen. Zeitrahmen: Aktuelle Durchführungsregeln und Antragsrunde bestätigen."
+
+#: ../../districts/pudong.rst:88
+msgid ""
+":doc:`Lin-gang OPC open-source AI-tool development reward "
+"</funding/lingang-open-source-ai>` (临港OPC开源AI工具开发奖励 · Grant · No equity "
+"for qualifying public support) — Annual reward up to RMB 1 million for "
+"qualifying AI-tool development and listing on major international "
+"open-source platforms. Status: Published policy; implementing intake to "
+"confirm. Timing: Confirm current implementing notice and intake."
+msgstr ":doc:`Lin-gang: Prämie für quelloffene KI-Tools von OPCs </funding/lingang-open-source-ai>` (临港OPC开源AI工具开发奖励 · Zuschuss · Keine Anteilsabgabe bei qualifizierter öffentlicher Förderung) — Jährlich bis zu 1 Mio. RMB für anerkannte KI-Tool-Entwicklung und Veröffentlichung auf großen internationalen Open-Source-Plattformen. Status: Richtlinie veröffentlicht; Annahmeverfahren zu bestätigen. Zeitrahmen: Aktuelle Durchführungsregeln und Antragsrunde bestätigen."
+
+#: ../../districts/pudong.rst:89
+msgid ""
+":doc:`Pudong foreign-funded R&D and open-innovation support "
+"</funding/pudong-foreign-rd>` (浦东外资研发与开放创新支持 · Grant / market access · No "
+"equity for qualifying public support) — Conditional R&D-center support "
+"under the applicable recognition and funding rules; no universal cash "
+"ceiling established. Status: Published policy; implementing intake to "
+"confirm. Timing: Policy through 31 December 2027; confirm the "
+"implementing call."
+msgstr ":doc:`Pudong: Förderung ausländisch finanzierter F&E und offener Innovation </funding/pudong-foreign-rd>` (浦东外资研发与开放创新支持 · Zuschuss / Marktzugang · Keine Anteilsabgabe bei qualifizierter öffentlicher Förderung) — Bedingte Unterstützung für F&E-Zentren nach den jeweiligen Anerkennungs- und Förderregeln; keine allgemeine Barzuschussobergrenze belegt. Status: Richtlinie veröffentlicht; Annahmeverfahren zu bestätigen. Zeitrahmen: Richtlinie bis 31. Dezember 2027; konkrete Ausschreibung bestätigen."
+
+#: ../../districts/pudong.rst:91
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`Auch stadtweite Förderprogramme vergleichen </funding>`"

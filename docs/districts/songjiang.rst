@@ -5,7 +5,7 @@ G60 innovation, industrial software and advanced manufacturing
 
 The G60 Sci-Tech Innovation Valley publishes innovation and resource-matching initiatives. We distinguish the nine-city corridor from Shanghai district eligibility: a partner elsewhere in the corridor does not establish Songjiang qualification.
 
-`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang.
+`Evidence S104 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang.
 
 Who receives the inquiry
 ------------------------

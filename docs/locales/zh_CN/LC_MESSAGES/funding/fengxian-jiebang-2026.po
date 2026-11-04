@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: zh_CN\n"
@@ -31,11 +31,16 @@ msgid "2026 call published; deadline check required"
 msgstr "2026通知已公布，须核验截止日"
 
 #: ../../funding/fengxian-jiebang-2026.rst:8
+
+#| msgid ""
+#| "`Evidence S134 "
+#| "<https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_. "
+#| "奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告."
 msgid ""
-"`Evidence S134 "
+"`Evidence S137 "
 "<https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_. "
 "奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告."
-msgstr "`证据 S134 <https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告."
+msgstr "`证据 S137 <https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告."
 
 #: ../../funding/fengxian-jiebang-2026.rst:10
 msgid "Amount and mechanism"

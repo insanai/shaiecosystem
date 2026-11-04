@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -33,10 +33,15 @@ msgid ""
 msgstr "G60科创走廊发布创新与资源对接举措。九城市合作范围与上海区级资格不同，走廊其他城市的合作伙伴不能据此取得松江申报资格。"
 
 #: ../../districts/songjiang.rst:8
+
+#| msgid ""
+#| "`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. "
+#| "G60 unveils comprehensive support plan to fuel innovation valley | "
+#| "Songjiang."
 msgid ""
-"`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S104 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`证据 S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`证据 S104 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../districts/songjiang.rst:10
 msgid "Who receives the inquiry"

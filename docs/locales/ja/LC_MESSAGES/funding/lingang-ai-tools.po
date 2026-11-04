@@ -1,0 +1,118 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/lingang-ai-tools.rst:1
+msgid "Lin-gang OPC AI-tool service cost support"
+msgstr "臨港OPC・AIツールサービス費用支援"
+
+#: ../../funding/lingang-ai-tools.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "事後精算・費用補助 | 浦東新区"
+
+#: ../../funding/lingang-ai-tools.rst:6
+msgid "Published policy; implementing intake to confirm"
+msgstr "政策公表済み（申請受付状況の確認要）"
+
+#: ../../funding/lingang-ai-tools.rst:8
+msgid ""
+"`Evidence S139 "
+"<https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. "
+"Lin-gang OPC policy: AI tool services and open-source development, 2026."
+msgstr "`出典 S139 <https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. Lin-gang OPC policy: AI tool services and open-source development, 2026."
+
+#: ../../funding/lingang-ai-tools.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/lingang-ai-tools.rst:13
+msgid ""
+"Up to 80% of qualifying AI-tool service costs; applicable caps and "
+"conditions require the implementing notice"
+msgstr "適格なAIツールサービス費の最大80％。上限と条件は実施通知の確認が必要"
+
+#: ../../funding/lingang-ai-tools.rst:15
+msgid "No equity for qualifying public support"
+msgstr "適格な公的助成の場合株式希薄化なし"
+
+#: ../../funding/lingang-ai-tools.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/lingang-ai-tools.rst:20
+msgid ""
+"Eligible OPCs purchasing approved technical services under the March 2026 "
+"measures. Foreign-founded teams should confirm the required local entity, "
+"community recognition, eligible invoices and supplier rules. Foreign "
+"ownership or a foreign parent alone does not establish grant eligibility; "
+"verify the written current procedure."
+msgstr "2026年3月の措置に基づき対象サービスを購入する適格OPC。外国人創業チームは現地法人、コミュニティ認定、対象請求書、供給者要件を確認する。外国資本や海外親会社があるだけでは補助対象にならない。現行の書面手続きを確認する。"
+
+#: ../../funding/lingang-ai-tools.rst:22
+msgid "Confirm current implementing notice and intake"
+msgstr "現在の実施要領と受付期間を確認"
+
+#: ../../funding/lingang-ai-tools.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/lingang-ai-tools.rst:27
+msgid "`Official application / policy route <https://p.lingang.gov.cn/>`_"
+msgstr "`公式申請窓口／政策ポータル <https://p.lingang.gov.cn/>`_"
+
+#: ../../funding/lingang-ai-tools.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/lingang-ai-tools.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/lingang-ai-tools.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "バウチャーの対象区分、適用地域境界、指定サプライヤー、および対象経費の支出期間を確認する。"
+
+#: ../../funding/lingang-ai-tools.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "サービス契約書、発票（公式領収証）、支払い証明、および項目別利用ログを保存する。"
+
+#: ../../funding/lingang-ai-tools.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "指定プラットフォームの該当募集枠を利用し、所定の区または運営主体による審査を受ける。"
+
+#: ../../funding/lingang-ai-tools.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "承認金額、他公的補助との重複受給排除規程、および還付・交付条件を確認する。"
+
+#: ../../funding/lingang-ai-tools.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

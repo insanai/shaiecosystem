@@ -9,9 +9,9 @@ Ministry of Education institution code: 4131010255.
 
 Institutional entry in the June 2026 Ministry of Education register. Suggested collaboration themes: Advanced fibers, materials, design, smart textiles. These themes are editorial routing guidance, not a verified offer of laboratory access or startup funding.
 
-`Evidence S089 <https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_. .
+`Evidence S092 <https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_. .
 
-`Evidence S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
+`Evidence S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
 
 Status and support
 ------------------

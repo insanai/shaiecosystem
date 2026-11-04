@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -33,10 +33,15 @@ msgid ""
 msgstr "G60 साई-टेक इनोवेशन वैली नवाचार और संसाधन-मिलान पहल प्रकाशित करती है। हम नौ-शहरों के गलियारे को शंघाई जिला पात्रता से अलग करते हैं: गलियारे में कहीं और स्थित भागीदार से सोंगजियांग की योग्यता स्थापित नहीं होती है।"
 
 #: ../../districts/songjiang.rst:8
+
+#| msgid ""
+#| "`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. "
+#| "G60 unveils comprehensive support plan to fuel innovation valley | "
+#| "Songjiang."
 msgid ""
-"`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S104 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`साक्ष्य S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`साक्ष्य S104 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../districts/songjiang.rst:10
 msgid "Who receives the inquiry"

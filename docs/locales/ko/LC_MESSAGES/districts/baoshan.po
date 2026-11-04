@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -32,11 +32,16 @@ msgid ""
 msgstr "바오산구는 로봇 및 첨단 장비 클러스터를 조성하고 있습니다. 산업단지 입주 승인과 구 지원금 심사는 별도로 진행되어야 하며, 공장 내 실증 프로젝트가 곧바로 스타트업을 위한 지원금 공모를 뜻하지는 않습니다."
 
 #: ../../districts/baoshan.rst:8
+
+#| msgid ""
+#| "`Evidence S099 "
+#| "<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
+#| "机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
 msgid ""
-"`Evidence S099 "
+"`Evidence S102 "
 "<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
 "机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
-msgstr "`근거 S099 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+msgstr "`근거 S102 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
 
 #: ../../districts/baoshan.rst:10
 msgid "Who receives the inquiry"

@@ -447,15 +447,6 @@ msgid ""
 msgstr ":doc:`上海師範大学天華学院 <entities/university-tianhua>` (上海师范大学天华学院 · 大学・高等教育機関 · 嘉定区 · MOE 4131013893) — 2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：応用教育学、実践エンジニアリング、デジタルビジネス。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。 [公表済み組織（公募状況の確認要）]"
 
 #: ../../universities.rst:53
-
-#| msgid ""
-#| ":doc:`Shanghai Ocean University <entities/university-ocean>` (上海海洋大学 · "
-#| "University · Pudong · MOE code 4131010264) — Institutional entry in "
-#| "the June 2026 Ministry of Education register. Suggested collaboration "
-#| "themes: Marine science, aquaculture, smart agriculture. These themes "
-#| "are editorial routing guidance, not a verified offer of laboratory "
-#| "access or startup funding. [Status: Published entity; intake to "
-#| "confirm]"
 msgid ""
 ":doc:`ShanghaiTech University <entities/university-shanghaitech>` (上海科技大学 "
 "· University · Pudong · MOE code 4131014423) — Institutional entry in the "

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -37,10 +37,15 @@ msgid ""
 msgstr "G60 과학기술혁신밸리는 다양한 혁신 및 자원 매칭 정책을 발표하고 있습니다. 장삼각 9개 도시 협력 회랑의 자격과 상하이 쑹장구 관할 지원 자격은 구별되므로, 타 도시 참여 기업이라는 사실만으로 쑹장구 지원 자격이 인정되지는 않습니다."
 
 #: ../../entities/government-songjiang.rst:10
+
+#| msgid ""
+#| "`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. "
+#| "G60 unveils comprehensive support plan to fuel innovation valley | "
+#| "Songjiang."
 msgid ""
-"`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S104 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`근거 S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`근거 S104 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../entities/government-songjiang.rst:12
 msgid "Status and support"

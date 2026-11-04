@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -29,10 +29,14 @@ msgid "2026 directory published; lender review"
 msgstr "2026 निर्देशिका प्रकाशित; ऋणदाता समीक्षा"
 
 #: ../../funding/ip-finance.rst:8
+
+#| msgid ""
+#| "`Evidence S112 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
+#| "知识产权金融服务平台_上海市知识产权局."
 msgid ""
-"`Evidence S112 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
+"`Evidence S115 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
 "知识产权金融服务平台_上海市知识产权局."
-msgstr "`साक्ष्य S112 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
+msgstr "`साक्ष्य S115 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
 
 #: ../../funding/ip-finance.rst:10
 msgid "Amount and mechanism"

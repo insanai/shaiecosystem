@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -29,15 +29,15 @@ msgid ""
 "operator, a buyer or an investment manager."
 msgstr "把项目从科研、样机、首位客户追踪到可复制的业务，我们就能更清楚地理解上海。有效的连接来自实验室、区级服务团队、孵化运营方、采购方与投资管理人。"
 
-#: ../../reading-the-city.rst:10
+#: ../../reading-the-city.rst:12 ../../reading-the-city.rst:20
 msgid "Sixteen districts, connected by people, research and industry."
 msgstr "十六个区，以人才、科研及产业相连。"
 
-#: ../../reading-the-city.rst:12
+#: ../../reading-the-city.rst:22
 msgid "A practical atlas, with a stated boundary"
 msgstr "有边界的实用图谱"
 
-#: ../../reading-the-city.rst:15
+#: ../../reading-the-city.rst:25
 msgid ""
 "This edition covers all 16 administrative districts and the Ministry of "
 "Education's June 2026 Shanghai register of 69 ordinary higher-education "
@@ -47,7 +47,7 @@ msgid ""
 "are not silently added to the ordinary-university count."
 msgstr "本版覆盖16个行政区，以及教育部2026年6月上海69所普通高校名录，其中本科40所、专科29所。附录另列12所成人高校。中欧国际工商学院与军事院校需单独处理，不计入普通高校数量。"
 
-#: ../../reading-the-city.rst:17
+#: ../../reading-the-city.rst:27
 msgid ""
 "The program directory is a researched selection, not a claim that every "
 "organization or funding call in Shanghai has been found. District "
@@ -56,7 +56,7 @@ msgid ""
 "details remain visible."
 msgstr "项目目录为经研究筛选的集合，并不声称已找到上海全部机构或申报事项。区级政策、高校入口、园区、公共平台、民营运营方及企业计划各自变化，尚不明确的信息会直接标注。"
 
-#: ../../reading-the-city.rst:19
+#: ../../reading-the-city.rst:29
 msgid ""
 "Our research date is 4 November 2026. A policy still within its stated "
 "validity period is not necessarily accepting applications. A launch "
@@ -64,11 +64,11 @@ msgid ""
 "that a new cohort is open."
 msgstr "研究核对日期为2026年11月4日。政策仍在有效期内不代表正在受理。启动公告只能证明计划曾经发布，不能证明新一期正在招募。"
 
-#: ../../reading-the-city.rst:21
+#: ../../reading-the-city.rst:31
 msgid "Three geographies, many choices"
 msgstr "三类空间，多种选择"
 
-#: ../../reading-the-city.rst:24
+#: ../../reading-the-city.rst:34
 msgid ""
 "The central city offers proximity to research, professional services and "
 "customers. Xuhui and Yangpu are useful starting points for model and "
@@ -78,7 +78,7 @@ msgid ""
 "address."
 msgstr "中心城区便于连接科研、专业服务与客户。徐汇和杨浦可作为模型及高校合作起点。浦东结合张江科研、芯片及生物医药生态，并包含定位不同的临港片区。这些是选址假设，合适的运营方与客户比地址更重要。"
 
-#: ../../reading-the-city.rst:26
+#: ../../reading-the-city.rst:36
 msgid ""
 "Minhang and Jiading help connect engineering research to industrial work. "
 "Baoshan, Songjiang, Jinshan and Fengxian offer different manufacturing "
@@ -88,7 +88,7 @@ msgid ""
 "each route."
 msgstr "闵行与嘉定有助于连接工程研究与产业实践。宝山、松江、金山及奉贤提供不同制造环境。青浦连接区域协作与西岑研发环境。崇明适合生态、农业及海洋问题。各区章节给出相应证据。"
 
-#: ../../reading-the-city.rst:28
+#: ../../reading-the-city.rst:38
 msgid ""
 "Functional areas are not extra districts. Zhangjiang, Caohejing, "
 "Hongqiao, G60 and Lin-gang can cross administrative or operating "
@@ -96,7 +96,7 @@ msgid ""
 "location and the receiving authority before assuming a policy applies."
 msgstr "功能区不是新增行政区。张江、漕河泾、虹桥、G60与临港具有不同管理及运营边界。适用政策前，我们先确认注册地址、实际经营、项目位置及受理部门。"
 
-#: ../../reading-the-city.rst:30
+#: ../../reading-the-city.rst:40
 msgid ""
 "Recent 2025-2026 municipal and district upgrades have sharpened these "
 "spatial roles: Pudong unveiled the 2-square-kilometer Zhangjiang AI "
@@ -109,11 +109,11 @@ msgid ""
 "bases with industrial transformation."
 msgstr "2025至2026年的市区政策进一步细化了空间分工：浦东揭幕2平方公里的张江人工智能创新小镇并配套算力、模型与语料券；上海高质量孵化器扩围至18家；普陀构建“一轴一园一中心”框架，串联武宁科技园、中以（上海）创新园与上海清华国际创新中心；松江则启动松江大学城科创源专项资金，打通七所高校科研基地与产业转化通道。"
 
-#: ../../reading-the-city.rst:32
+#: ../../reading-the-city.rst:42
 msgid "The magnolia and the pearl"
 msgstr "白玉兰与明珠"
 
-#: ../../reading-the-city.rst:35
+#: ../../reading-the-city.rst:45
 msgid ""
 "Shanghai's official flower is the white magnolia, designated in 1986. "
 "Pearl white is the principal color of this atlas. Ink charcoal, mist jade "
@@ -123,7 +123,7 @@ msgid ""
 "exact skyline."
 msgstr "上海市花为白玉兰，1986年确定。本图谱以珍珠白为主色，辅以墨黑、雾玉与香槟金。这是编辑设计配色，并非官方城市色标准。封面为原创生成的中国水墨风格插画，不是纪实照片或精确地理景观。"
 
-#: ../../reading-the-city.rst:37
+#: ../../reading-the-city.rst:47
 msgid ""
 "This book and interactive atlas are written by Vikrant Rathore with "
 "contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
@@ -133,15 +133,24 @@ msgid ""
 "print-ready books."
 msgstr "本书与交互图谱由 Vikrant Rathore 撰写，Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu 共同贡献。全书与网站使用 Guidedog 原生构建为 HTML 与 PDF 双格式版本（英文与简体中文），在交互式网页图谱与插图版 PDF 图书之间共用同一套经核实的研究数据。"
 
-#: ../../reading-the-city.rst:39
-msgid ""
-"`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
-"municipal flower and overview."
-msgstr "`证据 S136 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
+#: ../../reading-the-city.rst:49
 
-#: ../../reading-the-city.rst:41
+#| msgid ""
+#| "`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. "
+#| "Shanghai municipal flower and overview."
 msgid ""
-"`Evidence S137 "
+"`Evidence S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
+"municipal flower and overview."
+msgstr "`证据 S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
+
+#: ../../reading-the-city.rst:51
+
+#| msgid ""
+#| "`Evidence S137 "
+#| "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
+#| "Shanghai expands list of high-quality incubators."
+msgid ""
+"`Evidence S141 "
 "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
 "Shanghai expands list of high-quality incubators."
-msgstr "`证据 S137 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators."
+msgstr "`证据 S141 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators."

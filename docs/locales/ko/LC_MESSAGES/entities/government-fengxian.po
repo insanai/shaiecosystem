@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -37,11 +37,16 @@ msgid ""
 msgstr "지능형 로봇 산업 지원책은 관할 구에 등록된 적격 로봇 개발 기업을 대상으로 합니다. '동방메이구(Oriental Beauty Valley)'는 별도의 뷰티·헬스 산업 경로를 제공합니다. 프로젝트 성격에 맞는 주관 부처와 신청 차수를 매칭해야 합니다."
 
 #: ../../entities/government-fengxian.rst:10
+
+#| msgid ""
+#| "`Evidence S102 "
+#| "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
+#| "奉贤区促进智能机器人产业创新发展若干政策措施."
 msgid ""
-"`Evidence S102 "
+"`Evidence S105 "
 "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
 "奉贤区促进智能机器人产业创新发展若干政策措施."
-msgstr "`근거 S102 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
+msgstr "`근거 S105 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
 
 #: ../../entities/government-fengxian.rst:12
 msgid "Status and support"

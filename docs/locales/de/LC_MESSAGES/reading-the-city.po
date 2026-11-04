@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -29,15 +29,15 @@ msgid ""
 "operator, a buyer or an investment manager."
 msgstr "Shanghai lässt sich leichter erschließen, wenn man ein Projekt von der Forschung zum Prototyp, vom Prototyp zum ersten Kunden und von diesem Kunden zu einem tragfähigen Geschäftsmodell begleitet. Die entscheidende Einheit ist eine funktionierende Arbeitsbeziehung: ein Labor, ein bezirkliches Serviceteam, ein Inkubatoren-Betreiber, ein industrieller Auftraggeber oder ein Investmentmanager."
 
-#: ../../reading-the-city.rst:10
+#: ../../reading-the-city.rst:12 ../../reading-the-city.rst:20
 msgid "Sixteen districts, connected by people, research and industry."
 msgstr "Sechzehn Bezirke, verbunden durch Köpfe, Forschung und Industrie."
 
-#: ../../reading-the-city.rst:12
+#: ../../reading-the-city.rst:22
 msgid "A practical atlas, with a stated boundary"
 msgstr "Ein praxisorientierter Atlas mit definierten Grenzen"
 
-#: ../../reading-the-city.rst:15
+#: ../../reading-the-city.rst:25
 msgid ""
 "This edition covers all 16 administrative districts and the Ministry of "
 "Education's June 2026 Shanghai register of 69 ordinary higher-education "
@@ -47,7 +47,7 @@ msgid ""
 "are not silently added to the ordinary-university count."
 msgstr "Diese Ausgabe umfasst alle 16 Verwaltungsbezirke sowie das Shanghaier Register des Bildungsministeriums vom Juni 2026 mit 69 regulären Hochschulen, darunter 40 Universitäten und Fachhochschulen mit Bachelor-Abschluss und 29 tertiäre Fachkollegs (Diploma Colleges). Ein gesonderter Anhang führt die 12 Einrichtungen der Erwachsenenbildung auf. Die CEIBS sowie militärische Hochschulen erfordern eine gesonderte Betrachtung und werden nicht stillschweigend zur Zählung der regulären Hochschulen hinzugerechnet."
 
-#: ../../reading-the-city.rst:17
+#: ../../reading-the-city.rst:27
 msgid ""
 "The program directory is a researched selection, not a claim that every "
 "organization or funding call in Shanghai has been found. District "
@@ -56,7 +56,7 @@ msgid ""
 "details remain visible."
 msgstr "Das Programmverzeichnis ist eine recherchierte Auswahl und erhebt keinen Anspruch darauf, jede Organisation oder Förderausschreibung in Shanghai erfasst zu haben. Förderrichtlinien der Bezirke, Zugangswege der Universitäten, Technologieparks, öffentliche Plattformen, private Betreiber und Unternehmensinitiativen verändern sich unabhängig voneinander. Noch ungeklärte Angaben werden transparent ausgewiesen."
 
-#: ../../reading-the-city.rst:19
+#: ../../reading-the-city.rst:29
 msgid ""
 "Our research date is 4 November 2026. A policy still within its stated "
 "validity period is not necessarily accepting applications. A launch "
@@ -64,11 +64,11 @@ msgid ""
 "that a new cohort is open."
 msgstr "Unser Recherche-Stichtag ist der 4. November 2026. Eine Richtlinie, die sich noch innerhalb ihres Gültigkeitszeitraums befindet, nimmt nicht zwangsläufig Anträge entgegen. Eine Ankündigung belegt lediglich, dass eine Initiative ins Leben gerufen wurde; sie beweist nicht, dass ein neuer Förderjahrgang offensteht."
 
-#: ../../reading-the-city.rst:21
+#: ../../reading-the-city.rst:31
 msgid "Three geographies, many choices"
 msgstr "Drei Geografien, vielfältige Möglichkeiten"
 
-#: ../../reading-the-city.rst:24
+#: ../../reading-the-city.rst:34
 msgid ""
 "The central city offers proximity to research, professional services and "
 "customers. Xuhui and Yangpu are useful starting points for model and "
@@ -78,7 +78,7 @@ msgid ""
 "address."
 msgstr "Die Innenstadt bietet räumliche Nähe zu Forschungseinrichtungen, professionellen Dienstleistern und Auftraggebern. Xuhui und Yangpu sind ideale Ausgangspunkte für KI-Modellentwicklungen und universitäre Kooperationen. Pudong verbindet die Spitzenforschung von Zhangjiang sowie Halbleiter- und Biomedizin-Cluster mit dem eigenständigen Entwicklungsgebiet Lin-gang. Dies sind anfängliche Orientierungshilfen; der passende Partner und die richtigen Kunden wiegen schwerer als eine bloße Postadresse."
 
-#: ../../reading-the-city.rst:26
+#: ../../reading-the-city.rst:36
 msgid ""
 "Minhang and Jiading help connect engineering research to industrial work. "
 "Baoshan, Songjiang, Jinshan and Fengxian offer different manufacturing "
@@ -88,7 +88,7 @@ msgid ""
 "each route."
 msgstr "Minhang und Jiading schlagen die Brücke zwischen ingenieurwissenschaftlicher Forschung und industrieller Fertigung. Baoshan, Songjiang, Jinshan und Fengxian bieten unterschiedliche Produktionsumgebungen. Qingpu verknüpft regionale Zusammenarbeit mit dem Forschungscampus Xicen. Chongming bildet ein einzigartiges Umfeld für ökologische, landwirtschaftliche und maritime Vorhaben. Die jeweiligen Bezirkskapitel erläutern die Faktenbasis hinter jedem dieser Wege."
 
-#: ../../reading-the-city.rst:28
+#: ../../reading-the-city.rst:38
 msgid ""
 "Functional areas are not extra districts. Zhangjiang, Caohejing, "
 "Hongqiao, G60 and Lin-gang can cross administrative or operating "
@@ -96,7 +96,7 @@ msgid ""
 "location and the receiving authority before assuming a policy applies."
 msgstr "Funktionszonen sind keine eigenständigen Verwaltungsbezirke. Zhangjiang, Caohejing, Hongqiao, der G60-Korridor und Lin-gang überschreiten mitunter administrative oder organisatorische Grenzen. Vor der Inanspruchnahme einer Förderung prüfen wir stets die Handelsregisteradresse, den tatsächlichen Geschäftsbetrieb, den Projektstandort und die zuständige Bewilligungsbehörde."
 
-#: ../../reading-the-city.rst:30
+#: ../../reading-the-city.rst:40
 msgid ""
 "Recent 2025-2026 municipal and district upgrades have sharpened these "
 "spatial roles: Pudong unveiled the 2-square-kilometer Zhangjiang AI "
@@ -109,11 +109,11 @@ msgid ""
 "bases with industrial transformation."
 msgstr "Die jüngsten städtischen und bezirklichen Initiativen der Jahre 2025–2026 haben diese räumlichen Rollen weiter geschärft: Pudong stellte die 2 Quadratkilometer große Zhangjiang AI Innovation Town zusammen mit Gutscheinen für Rechenleistung, Modelle und Textkorpora vor; Shanghai erweiterte sein Netzwerk exzellenter Inkubatoren auf 18 Flaggschiff-Betreiber; Putuo gliederte seinen Innovationskorridor „Eine Achse, ein Park, ein Zentrum“, der den Wuning-Wissenschaftspark, den Chinesisch-Israelischen Innovationspark und das Internationale Innovationszentrum der Tsinghua-Universität in Shanghai verknüpft; und Songjiang legte den Universitätsstadt-Innovationsfonds auf, um sieben universitäre Forschungsstandorte direkt mit der industriellen Wertschöpfung zu verbinden."
 
-#: ../../reading-the-city.rst:32
+#: ../../reading-the-city.rst:42
 msgid "The magnolia and the pearl"
 msgstr "Die Magnolie und die Perle"
 
-#: ../../reading-the-city.rst:35
+#: ../../reading-the-city.rst:45
 msgid ""
 "Shanghai's official flower is the white magnolia, designated in 1986. "
 "Pearl white is the principal color of this atlas. Ink charcoal, mist jade "
@@ -123,7 +123,7 @@ msgid ""
 "exact skyline."
 msgstr "Shanghais offizielle Stadtblume ist die weiße Magnolie, die 1986 ernannt wurde. Perlweiß ist der dominierende Farbton dieses Atlas. Tuschschwarz, Nebeljade und Champagnergold bilden eine redaktionelle Farbpalette und stellen keine amtliche kommunale Norm dar. Das Titelbild ist eine originäre Illustration im traditionellen chinesischen Tuschstil, keine Dokumentarfotografie und keine geografisch exakte Stadtsilhouette."
 
-#: ../../reading-the-city.rst:37
+#: ../../reading-the-city.rst:47
 msgid ""
 "This book and interactive atlas are written by Vikrant Rathore with "
 "contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
@@ -133,15 +133,24 @@ msgid ""
 "print-ready books."
 msgstr "Dieses Buch und der interaktive Atlas wurden von Vikrant Rathore verfasst, unter Mitwirkung von Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu. Die Veröffentlichung wurde mit Guidedog nativ sowohl als HTML-Ausgabe wie auch als PDF-Buch (in Englisch und vereinfachtem Chinesisch) erstellt, basierend auf einem einheitlichen, verifizierten Datenbestand für den interaktiven Online-Atlas und die druckfertigen illustrierten Bände."
 
-#: ../../reading-the-city.rst:39
-msgid ""
-"`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
-"municipal flower and overview."
-msgstr "`Nachweis S136 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
+#: ../../reading-the-city.rst:49
 
-#: ../../reading-the-city.rst:41
+#| msgid ""
+#| "`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. "
+#| "Shanghai municipal flower and overview."
 msgid ""
-"`Evidence S137 "
+"`Evidence S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
+"municipal flower and overview."
+msgstr "`Nachweis S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
+
+#: ../../reading-the-city.rst:51
+
+#| msgid ""
+#| "`Evidence S137 "
+#| "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
+#| "Shanghai expands list of high-quality incubators."
+msgid ""
+"`Evidence S141 "
 "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
 "Shanghai expands list of high-quality incubators."
-msgstr "`Nachweis S137 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators."
+msgstr "`Nachweis S141 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators."

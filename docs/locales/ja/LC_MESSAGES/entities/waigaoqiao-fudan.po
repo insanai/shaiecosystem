@@ -1,0 +1,123 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/waigaoqiao-fudan.rst:1
+msgid "Waigaoqiao Fudan Science Park Biomedical Innovation Center"
+msgstr "外高橋・復旦科技園バイオ医薬イノベーションセンター"
+
+#: ../../entities/waigaoqiao-fudan.rst:4
+msgid "外高桥复旦科技园生物医药创新中心"
+msgstr "外高桥复旦科技园生物医药创新中心"
+
+#: ../../entities/waigaoqiao-fudan.rst:6
+msgid "Incubator | Pudong | Research checked 2026-11-04"
+msgstr "インキュベーター｜浦東新区｜調査確認日 2026-11-04"
+
+#: ../../entities/waigaoqiao-fudan.rst:8
+msgid "AI and industry focus: Health, AI for Science."
+msgstr "AIおよび産業フォーカス：ヘルスケア・医療、科学知能（AI for Science）。"
+
+#: ../../entities/waigaoqiao-fudan.rst:10
+msgid ""
+"Fudan Science Park operates this biomedical incubation and "
+"commercialization center at 8 Jiafeng Road in Waigaoqiao. "
+"AI-for-drug-discovery teams can explore laboratory and translational "
+"partnerships here; this is an editorial fit, not a verified dedicated AI "
+"cohort. Foreign businesses should ask whether a locally incorporated "
+"foreign-invested entity is required, then confirm admission, IP, "
+"laboratory access and fees. No standard grant or foreign-founder "
+"entitlement is established."
+msgstr "復旦科技園が外高橋の加楓路8号で運営する、バイオ医薬の起業・事業化支援拠点。AI創薬チームも実験室や研究成果の実用化に向けた連携を検討できるが、これは編集上の提案であり、AI専用の募集を確認したものではない。外国企業は現地の外商投資企業の設立が必要か確認し、入居、知的財産、実験室利用、料金を照会する。一律の補助金や外国人創業者の自動的な受給資格は確認されていない。"
+
+#: ../../entities/waigaoqiao-fudan.rst:12
+msgid ""
+"`Evidence S081 <https://fudanusp.com/solutions/17.html>`_. Fudan Science "
+"Park: Waigaoqiao Biomedical Innovation Center."
+msgstr "`出典 S081 <https://fudanusp.com/solutions/17.html>`_. Fudan Science Park: Waigaoqiao Biomedical Innovation Center."
+
+#: ../../entities/waigaoqiao-fudan.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/waigaoqiao-fudan.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/waigaoqiao-fudan.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/waigaoqiao-fudan.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/waigaoqiao-fudan.rst:24
+msgid ""
+"`Official website / intake route "
+"<https://fudanusp.com/solutions/17.html>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://fudanusp.com/solutions/17.html>`_"
+
+#: ../../entities/waigaoqiao-fudan.rst:26
+msgid ""
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "公式サイトを通じて担当部署と現在の申請窓口を確認する。本書にはメールアドレスを掲載していない。"
+
+#: ../../entities/waigaoqiao-fudan.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/waigaoqiao-fudan.rst:30
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/waigaoqiao-fudan.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/waigaoqiao-fudan.rst:35
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "関連する研究グループを特定し、解決すべき学術的または産業的課題を明確にする。"
+
+#: ../../entities/waigaoqiao-fudan.rst:37
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "データ、設備、研究成果、必要予算、およびタイムラインを網羅した簡潔な共同研究提案書を送付する。"
+
+#: ../../entities/waigaoqiao-fudan.rst:39
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "連携スキーム、論文発表、知的財産の帰属、および所属機関の承認手続きについて合意する。"
+
+#: ../../entities/waigaoqiao-fudan.rst:41
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "研究業務を開始する前に、書面による施設利用許可またはプロジェクト承認を取得する。"
+
+#: ../../entities/waigaoqiao-fudan.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`浦東新区の案内ルート </districts/pudong>`"

@@ -1,0 +1,122 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/pudong-foreign-rd.rst:1
+msgid "Pudong foreign-funded R&D and open-innovation support"
+msgstr "浦東・外資研究開発とオープンイノベーション支援"
+
+#: ../../funding/pudong-foreign-rd.rst:4
+msgid "Grant / market access | Pudong"
+msgstr "助成金・市場アクセス支援 | 浦東新区"
+
+#: ../../funding/pudong-foreign-rd.rst:6
+msgid "Published policy; implementing intake to confirm"
+msgstr "政策公表済み（申請受付状況の確認要）"
+
+#: ../../funding/pudong-foreign-rd.rst:8
+msgid ""
+"`Evidence S083 "
+"<https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_. "
+"Pudong foreign-investment measures: foreign-funded R&D and open "
+"innovation centers."
+msgstr "`出典 S083 <https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_. Pudong foreign-investment measures: foreign-funded R&D and open innovation centers."
+
+#: ../../funding/pudong-foreign-rd.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/pudong-foreign-rd.rst:13
+msgid ""
+"Conditional R&D-center support under the applicable recognition and "
+"funding rules; no universal cash ceiling established"
+msgstr "認定・資金支援規則に基づく条件付きの研究開発拠点支援。一律の現金給付上限は未確認"
+
+#: ../../funding/pudong-foreign-rd.rst:15
+msgid "No equity for qualifying public support"
+msgstr "適格な公的助成の場合株式希薄化なし"
+
+#: ../../funding/pudong-foreign-rd.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/pudong-foreign-rd.rst:20
+msgid ""
+"The 2025 measures explicitly support qualifying foreign-funded R&D "
+"centers and foreign-invested open innovation centers (GOI). Relevant to "
+"AI and hardware companies considering a Pudong or Waigaoqiao research "
+"presence. A foreign parent alone is insufficient: confirm local "
+"registration, center recognition, project location, sector restrictions "
+"and the actual funding call with the Pudong commerce authority."
+msgstr "2025年措置は、適格な外資研究開発センターと外資企業のオープンイノベーションセンター（GOI）を明示的に支援する。浦東や外高橋で研究拠点を検討するAI・ハードウェア企業に関連する。海外親会社があるだけでは不十分。現地登録、拠点認定、事業場所、業種制限、実際の公募を浦東の商務当局に確認する。"
+
+#: ../../funding/pudong-foreign-rd.rst:22
+msgid "Policy through 31 December 2027; confirm the implementing call"
+msgstr "政策有効期限は2027年12月31日。実施公募を確認"
+
+#: ../../funding/pudong-foreign-rd.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/pudong-foreign-rd.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_"
+
+#: ../../funding/pudong-foreign-rd.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/pudong-foreign-rd.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/pudong-foreign-rd.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../funding/pudong-foreign-rd.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../funding/pudong-foreign-rd.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../funding/pudong-foreign-rd.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../funding/pudong-foreign-rd.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

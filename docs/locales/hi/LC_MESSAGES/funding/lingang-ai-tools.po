@@ -1,0 +1,118 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/lingang-ai-tools.rst:1
+msgid "Lin-gang OPC AI-tool service cost support"
+msgstr "लिन-गांग OPC AI उपकरण सेवा व्यय सहायता"
+
+#: ../../funding/lingang-ai-tools.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "प्रतिपूर्ति (Reimbursement) | पुडोंग (Pudong)"
+
+#: ../../funding/lingang-ai-tools.rst:6
+msgid "Published policy; implementing intake to confirm"
+msgstr "प्रकाशित नीति; कार्यान्वयन आवेदन की स्थिति की पुष्टि शेष"
+
+#: ../../funding/lingang-ai-tools.rst:8
+msgid ""
+"`Evidence S139 "
+"<https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. "
+"Lin-gang OPC policy: AI tool services and open-source development, 2026."
+msgstr "`साक्ष्य S139 <https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_. Lin-gang OPC policy: AI tool services and open-source development, 2026."
+
+#: ../../funding/lingang-ai-tools.rst:10
+msgid "Amount and mechanism"
+msgstr "राशि और तंत्र"
+
+#: ../../funding/lingang-ai-tools.rst:13
+msgid ""
+"Up to 80% of qualifying AI-tool service costs; applicable caps and "
+"conditions require the implementing notice"
+msgstr "पात्र AI उपकरण सेवा लागत का अधिकतम 80%; सीमा और शर्तें कार्यान्वयन नोटिस से तय होंगी"
+
+#: ../../funding/lingang-ai-tools.rst:15
+msgid "No equity for qualifying public support"
+msgstr "अर्हकारी सार्वजनिक सहायता के लिए कोई इक्विटी नहीं"
+
+#: ../../funding/lingang-ai-tools.rst:17
+msgid "Eligibility and timing"
+msgstr "पात्रता और समय-सीमा"
+
+#: ../../funding/lingang-ai-tools.rst:20
+msgid ""
+"Eligible OPCs purchasing approved technical services under the March 2026 "
+"measures. Foreign-founded teams should confirm the required local entity, "
+"community recognition, eligible invoices and supplier rules. Foreign "
+"ownership or a foreign parent alone does not establish grant eligibility; "
+"verify the written current procedure."
+msgstr "मार्च 2026 के उपायों के तहत स्वीकृत सेवाएँ खरीदने वाले पात्र OPC। विदेशी संस्थापक स्थानीय इकाई, समुदाय मान्यता, चालान और आपूर्तिकर्ता नियमों की पुष्टि करें। विदेशी स्वामित्व या विदेशी मूल कंपनी अपने आप अनुदान की पात्रता नहीं देता; लिखित प्रक्रिया जाँचें।"
+
+#: ../../funding/lingang-ai-tools.rst:22
+msgid "Confirm current implementing notice and intake"
+msgstr "मौजूदा कार्यान्वयन निर्देश और आवेदन अवधि की पुष्टि करें"
+
+#: ../../funding/lingang-ai-tools.rst:24
+msgid "Contact and application"
+msgstr "संपर्क और आवेदन"
+
+#: ../../funding/lingang-ai-tools.rst:27
+msgid "`Official application / policy route <https://p.lingang.gov.cn/>`_"
+msgstr "`आधिकारिक आवेदन / नीति मार्ग <https://p.lingang.gov.cn/>`_"
+
+#: ../../funding/lingang-ai-tools.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "लिंक किया गया प्राधिकरण या संचालक ही संपर्क मार्ग है। इस प्रोफाइल में वर्तमान कार्यक्रम का कोई सीधा संपर्क स्थापित नहीं है।"
+
+#: ../../funding/lingang-ai-tools.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../funding/lingang-ai-tools.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "वास्तविक श्रेणी, क्षेत्र सीमा, आपूर्तिकर्ता और पात्र व्यय अवधि की पुष्टि करें।"
+
+#: ../../funding/lingang-ai-tools.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "सेवा अनुबंध, चालान, भुगतान साक्ष्य और मदवार उपयोग लॉग रखें।"
+
+#: ../../funding/lingang-ai-tools.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "नामित प्लेटफॉर्म और वर्तमान बैच का उपयोग करें; आवश्यक जिला या संचालक समीक्षा प्राप्त करें।"
+
+#: ../../funding/lingang-ai-tools.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "स्वीकृत राशि, दोहरे-फंडिंग बहिष्करण और भुगतान शर्तों की जाँच करें।"
+
+#: ../../funding/lingang-ai-tools.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "प्रकाशित अधिकतम राशि एक उच्चतम सीमा है, न कि स्वतः मिलने वाला अधिकार। लागू सूचना, पात्र लागत अवधि, अन्य सार्वजनिक सहायता और लिखित भुगतान शर्तों की जाँच करें।"

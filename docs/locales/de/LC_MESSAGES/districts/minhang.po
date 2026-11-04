@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -33,11 +33,16 @@ msgid ""
 msgstr "Die Förderrichtlinie für Unternehmenssinnovation gilt vom 1. September 2025 bis zum 31. August 2030. Neu gegründete Transferunternehmen können bis zu 500.000 RMB jährlich erhalten, gedeckelt auf maximal 1,5 Millionen RMB über drei Jahre und 50 % der förderfähigen Investitionen."
 
 #: ../../districts/minhang.rst:8
+
+#| msgid ""
+#| "`Evidence S098 "
+#| "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
+#| "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 msgid ""
-"`Evidence S098 "
+"`Evidence S101 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`Nachweis S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`Nachweis S101 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../districts/minhang.rst:10
 msgid "Who receives the inquiry"

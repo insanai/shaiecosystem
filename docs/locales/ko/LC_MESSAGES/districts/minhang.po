@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -33,11 +33,16 @@ msgid ""
 msgstr "기업 과학기술 혁신 정책의 유효기간은 2025년 9월 1일부터 2030년 8월 31일까지입니다. 신설된 과학기술 성과 전환 기업은 적격 투자액의 50% 한도 내에서 연간 최대 50만 위안, 3년간 누적 최대 150만 위안까지 지원받을 수 있습니다."
 
 #: ../../districts/minhang.rst:8
+
+#| msgid ""
+#| "`Evidence S098 "
+#| "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
+#| "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 msgid ""
-"`Evidence S098 "
+"`Evidence S101 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`근거 S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`근거 S101 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../districts/minhang.rst:10
 msgid "Who receives the inquiry"

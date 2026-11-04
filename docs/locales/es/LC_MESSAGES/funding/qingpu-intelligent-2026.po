@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -29,11 +29,16 @@ msgid "2026 call published; deadline check required"
 msgstr "Convocatoria 2026 publicada; verificar fecha límite"
 
 #: ../../funding/qingpu-intelligent-2026.rst:8
+
+#| msgid ""
+#| "`Evidence S133 "
+#| "<https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. "
+#| "关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
 msgid ""
-"`Evidence S133 "
+"`Evidence S136 "
 "<https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. "
 "关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
-msgstr "`Evidencia S133 <https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. 关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
+msgstr "`Evidencia S136 <https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. 关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
 
 #: ../../funding/qingpu-intelligent-2026.rst:10
 msgid "Amount and mechanism"

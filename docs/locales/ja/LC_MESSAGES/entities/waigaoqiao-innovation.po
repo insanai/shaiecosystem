@@ -1,0 +1,132 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/waigaoqiao-innovation.rst:1
+msgid "Waigaoqiao bonded R&D and AI-health innovation services"
+msgstr "外高橋の保税研究開発・AIヘルスケアイノベーション支援"
+
+#: ../../entities/waigaoqiao-innovation.rst:4
+msgid "外高桥保税研发与AI健康创新服务"
+msgstr "外高桥保税研发与AI健康创新服务"
+
+#: ../../entities/waigaoqiao-innovation.rst:6
+msgid "Research platform | Pudong | Research checked 2026-11-04"
+msgstr "研究プラットフォーム｜浦東新区｜調査確認日 2026-11-04"
+
+#: ../../entities/waigaoqiao-innovation.rst:8
+msgid ""
+"AI and industry focus: AI for Science, Health, Hardware AI, Robotics."
+msgstr "AIおよび産業フォーカス：科学知能（AI for Science）、ヘルスケア・医療、ハードウェアAI、ロボティクス。"
+
+#: ../../entities/waigaoqiao-innovation.rst:10
+msgid ""
+"The 2025-2026 Free Trade Bonded Park plan explicitly supports AI drug "
+"discovery, cross-border medical-device R&D, advanced-equipment innovation "
+"and foreign-funded R&D institutions. Foreign AI and hardware companies "
+"can use the authority route to explore local research, testing and "
+"commercialization arrangements. Confirm the specific operator, legal "
+"entity, customs boundary, sector permissions and data handling before "
+"incurring costs. This is a service and collaboration route; the plan is "
+"not a cash-award offer."
+msgstr "2025〜2026年計画は、AI創薬、医療機器の国際共同研究開発、先端設備のイノベーション、外資研究開発機関を明示的に支援する。外国のAI・ハードウェア企業は担当当局を通じ、現地での研究、試験、事業化の連携を検討できる。支出前に運営主体、法人、税関管理区域、業種別許可、データ取扱要件を確認する。サービスと協力の窓口であり、現金給付の確約ではない。"
+
+#: ../../entities/waigaoqiao-innovation.rst:12
+msgid ""
+"`Evidence S082 "
+"<https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html>`_. "
+"Zhangjiang Free Trade Bonded Park innovation action plan, 2025-2026."
+msgstr "`出典 S082 <https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html>`_. Zhangjiang Free Trade Bonded Park innovation action plan, 2025-2026."
+
+#: ../../entities/waigaoqiao-innovation.rst:14
+msgid ""
+"`Evidence S083 "
+"<https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_. "
+"Pudong foreign-investment measures: foreign-funded R&D and open "
+"innovation centers."
+msgstr "`出典 S083 <https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_. Pudong foreign-investment measures: foreign-funded R&D and open innovation centers."
+
+#: ../../entities/waigaoqiao-innovation.rst:16
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/waigaoqiao-innovation.rst:19
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/waigaoqiao-innovation.rst:21
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/waigaoqiao-innovation.rst:23
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/waigaoqiao-innovation.rst:26
+msgid ""
+"`Official website / intake route <https://www.pudong.gov.cn/shftz/>`_"
+msgstr "`公式サイト／申請・相談窓口 <https://www.pudong.gov.cn/shftz/>`_"
+
+#: ../../entities/waigaoqiao-innovation.rst:28
+msgid ""
+"Use the official website to request the responsible team and current "
+"application route. Email addresses are not reproduced in this publication."
+msgstr "公式サイトを通じて担当部署と現在の申請窓口を確認する。本書にはメールアドレスを掲載していない。"
+
+#: ../../entities/waigaoqiao-innovation.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/waigaoqiao-innovation.rst:32
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/waigaoqiao-innovation.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/waigaoqiao-innovation.rst:37
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "関連する研究グループを特定し、解決すべき学術的または産業的課題を明確にする。"
+
+#: ../../entities/waigaoqiao-innovation.rst:39
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "データ、設備、研究成果、必要予算、およびタイムラインを網羅した簡潔な共同研究提案書を送付する。"
+
+#: ../../entities/waigaoqiao-innovation.rst:41
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "連携スキーム、論文発表、知的財産の帰属、および所属機関の承認手続きについて合意する。"
+
+#: ../../entities/waigaoqiao-innovation.rst:43
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "研究業務を開始する前に、書面による施設利用許可またはプロジェクト承認を取得する。"
+
+#: ../../entities/waigaoqiao-innovation.rst:45
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`浦東新区の案内ルート </districts/pudong>`"

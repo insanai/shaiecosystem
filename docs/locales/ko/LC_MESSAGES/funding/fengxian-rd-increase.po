@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -29,11 +29,16 @@ msgid "Closed"
 msgstr "접수 마감"
 
 #: ../../funding/fengxian-rd-increase.rst:8
+
+#| msgid ""
+#| "`Evidence S122 "
+#| "<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. "
+#| "奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
 msgid ""
-"`Evidence S122 "
+"`Evidence S125 "
 "<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. "
 "奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
-msgstr "`근거 S122 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
+msgstr "`근거 S125 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
 
 #: ../../funding/fengxian-rd-increase.rst:10
 msgid "Amount and mechanism"

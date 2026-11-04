@@ -11,9 +11,9 @@ Institutional entry in the June 2026 Ministry of Education register. Suggested c
 
 `Evidence S003 <https://global.sjtu.edu.cn/hmt/news/view/1737>`_. Official Launch of the Zero Kilometer Incubator in Grand Neobay - 上海交通大学港澳台办公室.
 
-`Evidence S086 <https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_. People – Entrepreneurship.
+`Evidence S089 <https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_. People – Entrepreneurship.
 
-`Evidence S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
+`Evidence S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站.
 
 Status and support
 ------------------

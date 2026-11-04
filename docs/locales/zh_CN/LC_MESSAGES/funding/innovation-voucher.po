@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -29,11 +29,16 @@ msgid "Policy in force; confirm service and order"
 msgstr "政策有效，须核验服务与订单"
 
 #: ../../funding/innovation-voucher.rst:8
+
+#| msgid ""
+#| "`Evidence S103 "
+#| "<https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. "
+#| "关于印发《上海市科技创新券管理办法》的通知."
 msgid ""
-"`Evidence S103 "
+"`Evidence S106 "
 "<https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. "
 "关于印发《上海市科技创新券管理办法》的通知."
-msgstr "`证据 S103 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. 关于印发《上海市科技创新券管理办法》的通知."
+msgstr "`证据 S106 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. 关于印发《上海市科技创新券管理办法》的通知."
 
 #: ../../funding/innovation-voucher.rst:10
 msgid "Amount and mechanism"

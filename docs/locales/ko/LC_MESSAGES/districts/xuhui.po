@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -32,11 +32,16 @@ msgid ""
 msgstr "쉬후이구의 임바디드 AI 정책은 로봇 모델, 알고리즘, 데이터 및 운영체제를 포괄합니다. 심사를 통해 책정되는 지원금 상한액은 스타트업에 무조건 지급되는 보조금이 아닙니다."
 
 #: ../../districts/xuhui.rst:8
+
+#| msgid ""
+#| "`Evidence S097 "
+#| "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
+#| "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
 msgid ""
-"`Evidence S097 "
+"`Evidence S100 "
 "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
 "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
-msgstr "`근거 S097 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`근거 S100 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
 
 #: ../../districts/xuhui.rst:10
 msgid "Who receives the inquiry"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -29,11 +29,16 @@ msgid "Closed"
 msgstr "Plazo cerrado"
 
 #: ../../funding/baoshan-conversion.rst:8
+
+#| msgid ""
+#| "`Evidence S127 "
+#| "<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. "
+#| "宝山人才政策月历·1月刊."
 msgid ""
-"`Evidence S127 "
+"`Evidence S130 "
 "<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. "
 "宝山人才政策月历·1月刊."
-msgstr "`Evidencia S127 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. 宝山人才政策月历·1月刊."
+msgstr "`Evidencia S130 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. 宝山人才政策月历·1月刊."
 
 #: ../../funding/baoshan-conversion.rst:10
 msgid "Amount and mechanism"

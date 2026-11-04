@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -32,11 +32,16 @@ msgid ""
 msgstr "全区正在发展机器人及高端装备产业集群。园区准入与政策资助需分别审核；工厂示范项目不等于面向初创企业的资金申报。"
 
 #: ../../districts/baoshan.rst:8
+
+#| msgid ""
+#| "`Evidence S099 "
+#| "<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
+#| "机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
 msgid ""
-"`Evidence S099 "
+"`Evidence S102 "
 "<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
 "机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
-msgstr "`证据 S099 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+msgstr "`证据 S102 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
 
 #: ../../districts/baoshan.rst:10
 msgid "Who receives the inquiry"

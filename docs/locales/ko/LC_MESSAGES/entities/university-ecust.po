@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -41,19 +41,29 @@ msgid ""
 msgstr "2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 첨단 소재, 화학 공학, 바이오 공정, 과학을 위한 AI(AI for Science). 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다."
 
 #: ../../entities/university-ecust.rst:12
-msgid "`Evidence S087 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园."
-msgstr "`근거 S087 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园."
+
+#| msgid ""
+#| "`Evidence S087 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园."
+msgid "`Evidence S090 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园."
+msgstr "`근거 S090 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_. 科技园."
 
 #: ../../entities/university-ecust.rst:14
-msgid "`Evidence S088 <https://www.ecustpark.com/1001370>`_. 创业服务."
-msgstr "`근거 S088 <https://www.ecustpark.com/1001370>`_. 创业服务."
+
+#| msgid "`Evidence S088 <https://www.ecustpark.com/1001370>`_. 创业服务."
+msgid "`Evidence S091 <https://www.ecustpark.com/1001370>`_. 创业服务."
+msgstr "`근거 S091 <https://www.ecustpark.com/1001370>`_. 创业服务."
 
 #: ../../entities/university-ecust.rst:16
+
+#| msgid ""
+#| "`Evidence S083 "
+#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
-"`Evidence S083 "
+"`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`근거 S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`근거 S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-ecust.rst:18
 msgid "Status and support"

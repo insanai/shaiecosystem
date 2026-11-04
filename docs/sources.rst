@@ -726,13 +726,40 @@ Source language: zh-CN. Research date: 2026-11-04.
 S081
 ------------
 
+`Fudan Science Park: Waigaoqiao Biomedical Innovation Center <https://fudanusp.com/solutions/17.html>`_
+
+Source URL: https://fudanusp.com/solutions/17.html
+
+Source language: zh-CN. Research date: 2026-11-04.
+
+S082
+------------
+
+`Zhangjiang Free Trade Bonded Park innovation action plan, 2025-2026 <https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html>`_
+
+Source URL: https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html
+
+Source language: zh-CN. Research date: 2026-11-04.
+
+S083
+------------
+
+`Pudong foreign-investment measures: foreign-funded R&D and open innovation centers <https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html>`_
+
+Source URL: https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html
+
+Source language: zh-CN. Research date: 2026-11-04.
+
+S084
+------------
+
 `Contact <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_
 
 Source URL: https://www.fudan.edu.cn/en/Contact_931/list.htm
 
 Source language: en. Research date: 2026-11-04.
 
-S082
+S085
 ------------
 
 `技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院 <https://ist.fudan.edu.cn/Data/View/3276>`_
@@ -741,7 +768,7 @@ Source URL: https://ist.fudan.edu.cn/Data/View/3276
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S083
+S086
 ------------
 
 `全国高等学校名单 - 中华人民共和国教育部政府门户网站 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_
@@ -750,7 +777,7 @@ Source URL: https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S084
+S087
 ------------
 
 `联系方式 <https://tjkg.tongji.edu.cn/33864/list.htm>`_
@@ -759,7 +786,7 @@ Source URL: https://tjkg.tongji.edu.cn/33864/list.htm
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S085
+S088
 ------------
 
 `孵化器 <https://tjkg.tongji.edu.cn/16738/list.htm>`_
@@ -768,7 +795,7 @@ Source URL: https://tjkg.tongji.edu.cn/16738/list.htm
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S086
+S089
 ------------
 
 `People – Entrepreneurship <https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_
@@ -777,7 +804,7 @@ Source URL: https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/
 
 Source language: en. Research date: 2026-11-04.
 
-S087
+S090
 ------------
 
 `科技园 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_
@@ -786,7 +813,7 @@ Source URL: https://cyc.ecust.edu.cn/kjyyypt/list.htm
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S088
+S091
 ------------
 
 `创业服务 <https://www.ecustpark.com/1001370>`_
@@ -795,7 +822,7 @@ Source URL: https://www.ecustpark.com/1001370
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S089
+S092
 ------------
 
 ` <https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_
@@ -804,7 +831,7 @@ Source URL: https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d6
 
 Source language: en. Research date: 2026-11-04.
 
-S090
+S093
 ------------
 
 `华东师范大学研究生招生单位联系方式 <https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf>`_
@@ -813,7 +840,7 @@ Source URL: https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S091
+S094
 ------------
 
 `上海大学科技园区 <https://sustp.shu.edu.cn/>`_
@@ -822,7 +849,7 @@ Source URL: https://sustp.shu.edu.cn/
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S092
+S095
 ------------
 
 `基地与成果处-上海大学科研管理部 <https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm>`_
@@ -831,7 +858,7 @@ Source URL: https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S093
+S096
 ------------
 
 `上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号 <https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_
@@ -840,7 +867,7 @@ Source URL: https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S094
+S097
 ------------
 
 `技术转移办公室 <https://ott.shanghaitech.edu.cn/zxdt/list2.htm>`_
@@ -849,7 +876,7 @@ Source URL: https://ott.shanghaitech.edu.cn/zxdt/list2.htm
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S095
+S098
 ------------
 
 `技术转移办公室 <https://ott.shanghaitech.edu.cn/9078/list.htm>`_
@@ -858,7 +885,7 @@ Source URL: https://ott.shanghaitech.edu.cn/9078/list.htm
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S096
+S099
 ------------
 
 `关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_
@@ -867,7 +894,7 @@ Source URL: https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S097
+S100
 ------------
 
 `关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_
@@ -876,7 +903,7 @@ Source URL: https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S098
+S101
 ------------
 
 `Minhang amplifies enterprise sci-tech innovation_Policy Insights <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_
@@ -885,7 +912,7 @@ Source URL: https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698
 
 Source language: en. Research date: 2026-11-04.
 
-S099
+S102
 ------------
 
 `机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_
@@ -894,7 +921,7 @@ Source URL: https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S100
+S103
 ------------
 
 `黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_
@@ -903,7 +930,7 @@ Source URL: https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S101
+S104
 ------------
 
 `G60 unveils comprehensive support plan to fuel innovation valley | Songjiang <https://english.songjiang.gov.cn/news/3249.shtml>`_
@@ -912,7 +939,7 @@ Source URL: https://english.songjiang.gov.cn/news/3249.shtml
 
 Source language: en. Research date: 2026-11-04.
 
-S102
+S105
 ------------
 
 `奉贤区促进智能机器人产业创新发展若干政策措施 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_
@@ -921,7 +948,7 @@ Source URL: https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b1
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S103
+S106
 ------------
 
 `关于印发《上海市科技创新券管理办法》的通知 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_
@@ -930,7 +957,7 @@ Source URL: https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffd
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S104
+S107
 ------------
 
 `Shanghai updates innovation fund rules for tech SMEs_Policy Insights <https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_
@@ -939,7 +966,7 @@ Source URL: https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624
 
 Source language: en. Research date: 2026-11-04.
 
-S105
+S108
 ------------
 
 `Shanghai's guaranteed start-up loans top 1.3 billion yuan this year_Editor's Pick <https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_
@@ -948,7 +975,7 @@ Source URL: https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee5619
 
 Source language: en. Research date: 2026-11-04.
 
-S106
+S109
 ------------
 
 `上海市“2366”产业税收优惠政策指引 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_
@@ -957,7 +984,7 @@ Source URL: https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t4
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S107
+S110
 ------------
 
 `2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_
@@ -966,7 +993,7 @@ Source URL: https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S108
+S111
 ------------
 
 `海聚英才官网 <https://www.hello-sh.com/haijuTalent/competition>`_
@@ -975,7 +1002,7 @@ Source URL: https://www.hello-sh.com/haijuTalent/competition
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S109
+S112
 ------------
 
 `关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会 <https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_
@@ -984,7 +1011,7 @@ Source URL: https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S110
+S113
 ------------
 
 `浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_
@@ -993,7 +1020,7 @@ Source URL: https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S111
+S114
 ------------
 
 `上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_
@@ -1002,7 +1029,7 @@ Source URL: https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafc
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S112
+S115
 ------------
 
 `知识产权金融服务平台_上海市知识产权局 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_
@@ -1011,7 +1038,7 @@ Source URL: https://sipa.sh.gov.cn/zscqjrfwpt/index.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S113
+S116
 ------------
 
 `市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况 <https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_
@@ -1020,7 +1047,7 @@ Source URL: https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S114
+S117
 ------------
 
 `Shanghai startup social-insurance, incubation rent and first-startup subsidies, valid through 2027 <https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html>`_
@@ -1029,7 +1056,7 @@ Source URL: https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111a
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S115
+S118
 ------------
 
 `上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_
@@ -1038,7 +1065,7 @@ Source URL: https://www.shcn.gov.cn/col5713/20260306/1306521.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S116
+S119
 ------------
 
 `上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知 <https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_
@@ -1047,7 +1074,7 @@ Source URL: https://www.shcn.gov.cn/col11010/20260602/1310341.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S117
+S120
 ------------
 
 `关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀 <https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_
@@ -1056,7 +1083,7 @@ Source URL: https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S118
+S121
 ------------
 
 `关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_
@@ -1065,7 +1092,7 @@ Source URL: https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S119
+S122
 ------------
 
 `关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_
@@ -1074,7 +1101,7 @@ Source URL: https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.ht
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S120
+S123
 ------------
 
 `关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知 <https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_
@@ -1083,7 +1110,7 @@ Source URL: https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S121
+S124
 ------------
 
 `关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府 <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_
@@ -1092,7 +1119,7 @@ Source URL: https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S122
+S125
 ------------
 
 `奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_
@@ -1101,7 +1128,7 @@ Source URL: https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S123
+S126
 ------------
 
 `奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告 <https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_
@@ -1110,7 +1137,7 @@ Source URL: https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S124
+S127
 ------------
 
 `上海市崇明区人力资源和社会保障局关于印发《崇明区关于新时期强化创业创新促进产业高质量发展的若干政策措施》的通知-上海市崇明区人民政府 <https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html>`_
@@ -1119,7 +1146,7 @@ Source URL: https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S125
+S128
 ------------
 
 `虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_
@@ -1128,7 +1155,7 @@ Source URL: https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S126
+S129
 ------------
 
 `Jiading launches 800m-yuan future industry fund <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_
@@ -1137,7 +1164,7 @@ Source URL: https://english.jiading.gov.cn/2026-02/06/c_1160145.htm
 
 Source language: en. Research date: 2026-11-04.
 
-S127
+S130
 ------------
 
 `宝山人才政策月历·1月刊 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_
@@ -1146,7 +1173,7 @@ Source URL: https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S128
+S131
 ------------
 
 `黄浦区融资信用服务平台-银行产品 <https://xydhp.shhuangpu.gov.cn/finance-product>`_
@@ -1155,7 +1182,7 @@ Source URL: https://xydhp.shhuangpu.gov.cn/finance-product
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S129
+S132
 ------------
 
 `金融产品 <https://xyd.shyp.gov.cn/finance>`_
@@ -1164,7 +1191,7 @@ Source URL: https://xyd.shyp.gov.cn/finance
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S130
+S133
 ------------
 
 `关于开展2026年第二批静安区服务业发展引导资金项目申报工作的通知 <https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_
@@ -1173,7 +1200,7 @@ Source URL: https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S131
+S134
 ------------
 
 `杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府 <https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_
@@ -1182,7 +1209,7 @@ Source URL: https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S132
+S135
 ------------
 
 `关于开展2026年度第二批松江区数据要素专项资金项目申报的通知 <https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_
@@ -1191,7 +1218,7 @@ Source URL: https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S133
+S136
 ------------
 
 `关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府 <https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_
@@ -1200,7 +1227,7 @@ Source URL: https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S134
+S137
 ------------
 
 `奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告 <https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_
@@ -1209,7 +1236,7 @@ Source URL: https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S135
+S138
 ------------
 
 `关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府 <https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_
@@ -1218,7 +1245,16 @@ Source URL: https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S136
+S139
+------------
+
+`Lin-gang OPC policy: AI tool services and open-source development, 2026 <https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html>`_
+
+Source URL: https://lingang.gov.cn/html/website/lg/English/Policies/Texts/2039941467013750785.html
+
+Source language: en. Research date: 2026-11-04.
+
+S140
 ------------
 
 `Shanghai municipal flower and overview <https://english.shanghai.gov.cn/en-Overview/>`_
@@ -1227,7 +1263,7 @@ Source URL: https://english.shanghai.gov.cn/en-Overview/
 
 Source language: en. Research date: 2026-11-04.
 
-S137
+S141
 ------------
 
 `Shanghai expands list of high-quality incubators <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_
@@ -1236,7 +1272,7 @@ Source URL: https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d
 
 Source language: en. Research date: 2026-11-04.
 
-S138
+S142
 ------------
 
 `Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_
@@ -1245,7 +1281,7 @@ Source URL: https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202
 
 Source language: en. Research date: 2026-11-04.
 
-S139
+S143
 ------------
 
 `DataV Shanghai district geometry <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_
@@ -1254,7 +1290,7 @@ Source URL: https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json
 
 Source language: zh-CN. Research date: 2026-11-04.
 
-S140
+S144
 ------------
 
 `院校信息_上海市教育委员会 <https://edu.sh.gov.cn/study_cn_school/>`_

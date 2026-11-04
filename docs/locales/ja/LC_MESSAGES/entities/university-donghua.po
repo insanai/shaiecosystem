@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -41,18 +41,28 @@ msgid ""
 msgstr "2026年6月の教育部名簿に掲載された機関プロファイル。推奨される連携テーマ：先端繊維、高機能材料、デザイン、スマートテキスタイル。これらは編集上の案内であり、研究室の受け入れやスタートアップ資金提供を保証するものではありません。"
 
 #: ../../entities/university-donghua.rst:12
+
+#| msgid ""
+#| "`Evidence S089 "
+#| "<https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_. "
+#| "."
 msgid ""
-"`Evidence S089 "
+"`Evidence S092 "
 "<https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_. "
 "."
-msgstr "`出典 S089 <https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_. ."
+msgstr "`出典 S092 <https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_. ."
 
 #: ../../entities/university-donghua.rst:14
+
+#| msgid ""
+#| "`Evidence S083 "
+#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
-"`Evidence S083 "
+"`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`出典 S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`出典 S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-donghua.rst:16
 msgid "Status and support"

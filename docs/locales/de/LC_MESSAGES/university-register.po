@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 09:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -29,11 +29,16 @@ msgid ""
 msgstr "Grundlage ist die Liste des Bildungsministeriums vom 17. Juni 2026, veröffentlicht am 18. Juni 2026. Die heruntergeladenen Originaltabellen sind im Repository hinterlegt. Die Aufnahme einer Institution belegt kein bestehendes Startup-Programm, keine verfügbaren Fördergelder und keine Aufnahmeberechtigung für externe Gründer."
 
 #: ../../university-register.rst:6
+
+#| msgid ""
+#| "`Evidence S083 "
+#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
+#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
-"`Evidence S083 "
+"`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`Nachweis S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`Nachweis S086 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../university-register.rst:8
 msgid "40 undergraduate institutions"
@@ -473,6 +478,10 @@ msgid ""
 msgstr "`Offizieller institutioneller Zugang der CEIBS <https://www.ceibs.edu/>`_. Die CEIBS wird im Shanghaier Verzeichnis für internationale Bildung geführt und hier gesondert aufgeführt; spezifische Förderangebote für Startups sind nicht verifiziert."
 
 #: ../../university-register.rst:110
+
+#| msgid ""
+#| "`Evidence S140 <https://edu.sh.gov.cn/study_cn_school/>`_. "
+#| "院校信息_上海市教育委员会."
 msgid ""
-"`Evidence S140 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
-msgstr "`Nachweis S140 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
+"`Evidence S144 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."
+msgstr "`Nachweis S144 <https://edu.sh.gov.cn/study_cn_school/>`_. 院校信息_上海市教育委员会."

@@ -5,7 +5,7 @@ Tax relief | Citywide / global
 
 Published tax guidance; recognition required
 
-`Evidence S106 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引.
+`Evidence S109 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引.
 
 Amount and mechanism
 --------------------
