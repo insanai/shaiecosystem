@@ -1,0 +1,43 @@
+# Local agent guidance.
+AGENTS.md
+AGENT.md
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
+# Guidedog output, incremental state and generated translation catalogs.
+_build/
+.*.guidedog/
+.doctrees/
+/docs/locales/
+/docs/downloads/
+
+# RST publication sources generated from the maintained bilingual data records.
+/docs/*.rst
+/docs/districts/
+/docs/entities/
+/docs/funding/
+
+# Generated research exports, browser data and vector compositions.
+/data/published-sources.json
+/data/translation-pairs.json
+/data/*-report.json
+/docs/_static/atlas/catalog.js
+/docs/_static/atlas/catalog.json
+/docs/_static/atlas/geometry.js
+/docs/_static/atlas/magnolia.svg
+/docs/_static/atlas/shanghai-map.svg
+
+# Local dependencies, QA output and temporary files.
+node_modules/
+.qa/
+.tmp/
+tmp/
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
