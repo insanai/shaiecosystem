@@ -403,5 +403,41 @@
     "deadline": "Implementation plan issued 20 August 2026; check track schedule",
     "deadlineZh": "实施方案于2026年8月20日印发，须核验赛程安排",
     "status": "2026 competition published; track intake to confirm"
+  },
+  {
+    "id": "zero-cube-rent",
+    "name": "Lin-gang Zero Cube conditional rent support",
+    "zh": "临港零界魔方有条件办公租金支持",
+    "district": "pudong",
+    "type": "In-kind services",
+    "equity": "No equity stated in offer; verify terms",
+    "amount": "Qualifying offices: 3 years rent-free, then 2 years at half rent; separate housing and service terms",
+    "amountZh": "符合条件的办公空间三年免租，后两年租金减半；住房及服务另有条款",
+    "eligibility": "Selected OPC and small-team projects admitted by the community. The August 2026 operator report is not a tenancy offer for every applicant. Confirm current selection, eligible premises, deposits, service charges and exit terms in writing.",
+    "eligibilityZh": "由社区筛选入驻的OPC及小团队项目。2026年8月运营报告并非向所有申请者发出的租赁承诺，须书面确认现行遴选、适用空间、押金、服务费及退出条款。",
+    "source": "https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html",
+    "apply": "https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html",
+    "status": "Published service; current terms to confirm",
+    "deadline": "Confirm current community admission and tenancy terms",
+    "deadlineZh": "确认社区现行入驻及租赁条款",
+    "workflow": "incubation"
+  },
+  {
+    "id": "qingmiao-investment",
+    "name": "Xuhui Qingmiao early AI investment route",
+    "zh": "徐汇青苗基金早期AI投资渠道",
+    "district": "xuhui",
+    "type": "Equity investment",
+    "equity": "Negotiated equity",
+    "amount": "Manager-reviewed early-stage investment; no universal cheque or equity percentage verified",
+    "amountZh": "由管理人审核早期投资，未核实统一投资额或股权比例",
+    "eligibility": "Youth-led early AI projects matching the fund mandate. The August 2026 camp notice documents investment activity and organizers, not an always-open application or guaranteed grant. Request the responsible manager, screening pack, local-operation conditions and term sheet.",
+    "eligibilityZh": "符合基金方向的青年早期AI项目。2026年8月创业营公告证明存在投资活动及组织方，并不证明始终开放申请或保证获得补助。须索取负责管理人、筛选材料、属地经营条件及投资条款清单。",
+    "source": "https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html",
+    "apply": "https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html",
+    "status": "Published investment platform; deal review",
+    "deadline": "Manager-led sourcing and due diligence",
+    "deadlineZh": "管理人开展项目筛选与尽调",
+    "workflow": "investment"
   }
 ]

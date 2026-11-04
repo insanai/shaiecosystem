@@ -1395,6 +1395,106 @@
       "source": "bmwgroup.com/en/innovation/innovation-network/startup-garage",
       "website": "https://www.bmwgroup.com/en/innovation/innovation-network/startup-garage.html",
       "workflow": "corporate"
+    },
+    {
+      "id": "sii-beiyang",
+      "name": "Shanghai Innovation Institute / Beiyang AI founder network",
+      "zh": "上海创智学院／北杨人工智能创业网络",
+      "district": "xuhui",
+      "category": "Incubator",
+      "sectors": [
+        "Software AI",
+        "Hardware AI",
+        "AI for Science"
+      ],
+      "summary": "SII and Caohejing jointly operate the Chuangzhi Future Center for research-led AI founders; Beiyang AI Accelerator supports later market and supply-chain connections. Institute-affiliated incubation is not an unrestricted public admission offer. Ask the operator about affiliation, IP, company formation and current external-team access.",
+      "summaryZh": "上海创智学院与漕河泾共同运营创智未来中心，服务科研型AI创业者，北杨AI加速器承接后续市场及产业链对接。学院相关孵化不等于面向所有团队开放；须向运营方确认身份、知识产权、企业设立及外部团队当前准入条件。",
+      "source": "https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260917/4547dd382eb245988cc12f945923bc0b.html",
+      "website": "https://www.sii.edu.cn/",
+      "workflow": "research"
+    },
+    {
+      "id": "humanoid-pilot",
+      "name": "National-Local Humanoid Robot Innovation Center / pilot platform",
+      "zh": "国家地方共建人形机器人创新中心／中试服务平台",
+      "district": "pudong",
+      "category": "Research platform",
+      "sectors": [
+        "Hardware AI",
+        "Robotics",
+        "Sensors"
+      ],
+      "summary": "The center links robot data collection, training and physical validation with a pilot-production platform operated with Shanghai Electric. The July 2026 announcement describes industry-facing trial production, testing and scenario validation. Ask for compatibility, queue, sample ownership, safety responsibilities and a written service quotation.",
+      "summaryZh": "国地中心将机器人数据采集、训练和真机验证，与联合上海电气建设的中试平台衔接。2026年7月公告介绍面向行业的试制、检测和场景验证服务。须确认设备兼容性、排期、样机归属、安全责任及书面报价。",
+      "source": "https://www.shanghai.gov.cn/nw15343/20260722/dc0b915f171c4ab5a52e495c3a2cc09e.html",
+      "workflow": "hardware"
+    },
+    {
+      "id": "zero-cube-opc",
+      "name": "Lin-gang Zero Cube OPC community",
+      "zh": "临港零界魔方OPC社区",
+      "district": "pudong",
+      "category": "Incubator",
+      "sectors": [
+        "Software AI",
+        "Hardware AI",
+        "Industry"
+      ],
+      "summary": "A Lin-gang Group community for solo founders and small teams, with startup and living-service teams and AI-Store resource access. The August 2026 operator report describes three rent-free office years followed by two half-price years for qualifying projects. Housing, loans, vouchers and admission have separate conditions; confirm the current tenancy contract.",
+      "summaryZh": "临港集团面向一人及小团队创业的社区，配备创业及生活服务专班，衔接AI-Store资源。2026年8月运营报告介绍符合条件项目办公三年免租、后两年租金减半。住房、贷款、资源券及入驻分别设条件，须核验现行租赁合同。",
+      "source": "https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html",
+      "workflow": "incubation"
+    },
+    {
+      "id": "qingmiao",
+      "name": "Xuhui Qingmiao AI Youth Entrepreneurship Fund",
+      "zh": "徐汇人工智能青年创业基金（青苗基金）",
+      "district": "xuhui",
+      "category": "Investor",
+      "sectors": [
+        "Software AI",
+        "Hardware AI"
+      ],
+      "summary": "Xuhui established this youth-focused AI fund in September 2025. Its August 2026 entrepreneurship camp connected early AI teams with investment, research and industrial partners. Shanghai Xuhui Capital Investment and Shanghai Xuhui Science and Technology Venture Capital Fund Management co-hosted the camp. Request the receiving manager and current investment terms; camp attendance is not an investment award.",
+      "summaryZh": "徐汇于2025年9月设立面向青年AI创业者的基金。2026年8月创业营对接早期AI团队、投资机构、科研及产业资源，由上海徐汇资本投资有限公司、上海徐汇科创投私募基金管理有限公司等共同主办。须索取接收项目的管理人及现行投资条款，参加创业营不代表获投。",
+      "source": "https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html",
+      "workflow": "investment"
+    },
+    {
+      "id": "waic-future-tech",
+      "name": "WAIC / Future Tech venture network",
+      "zh": "世界人工智能大会／Future Tech创投生态",
+      "district": "citywide",
+      "category": "Research platform",
+      "sectors": [
+        "Software AI",
+        "Hardware AI",
+        "Robotics",
+        "AI for Science"
+      ],
+      "summary": "The 2026 World Artificial Intelligence Conference included a Future Tech venture network connecting selected startups and investors. The July 2026 event has ended; this is a networking and future-event route, not a permanent incubator or an open funding call. Ask the organizer about the next startup selection, exhibition fees and investor sessions.",
+      "summaryZh": "2026世界人工智能大会设置Future Tech创投生态，对接入选创业团队与投资机构。2026年7月活动已结束，本条用于联系大会及后续活动，并非常设孵化器或正在开放的资助申报。请向主办方咨询下一期项目征集、参展收费及投资人对接活动。",
+      "source": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260710/6cd94d78f71a42e3a747541b9021fe2b.html",
+      "sourceDetail": "https://www.worldaic.com.cn/",
+      "website": "https://www.worldaic.com.cn/",
+      "email": "info@worldaic.com.cn",
+      "status": "Historical / confirm continuation",
+      "workflow": "competition"
+    },
+    {
+      "id": "returnee-services",
+      "name": "Shanghai overseas-returnee entrepreneurship service windows",
+      "zh": "上海留学人员创业服务窗口",
+      "district": "citywide",
+      "category": "Government",
+      "sectors": [
+        "Software AI",
+        "Hardware AI"
+      ],
+      "summary": "The 2026 municipal rules identify the talent authority and district service windows for eligible overseas returnees, including qualifying people who acquired foreign citizenship. Recognition and startup-park services can lead to separate support applications. Returnee status is not a category covering every foreign founder and is not an automatic grant or residence permit.",
+      "summaryZh": "2026年市级规定明确由人才工作部门及各区服务窗口为符合条件的留学人员提供服务，包括符合规定的入外籍人员。资格认定及创业园服务可衔接独立的支持申报。留学人员身份不涵盖所有外国创始人，也不自动带来资助或居留许可。",
+      "source": "https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html",
+      "workflow": "grant"
     }
   ],
   "citywideFunding": [
@@ -1793,6 +1893,60 @@
       "source": "7afb62949bac416386811c9c6cfaf655",
       "apply": "https://www.sheitc.sh.gov.cn/",
       "deadline": "Track-specific notices",
+      "workflow": "grant"
+    },
+    {
+      "id": "startup-insurance",
+      "name": "Shanghai early-stage startup social-insurance subsidy",
+      "zh": "上海初创期创业组织社会保险补贴",
+      "district": "citywide",
+      "type": "Reimbursement",
+      "equity": "No equity",
+      "amount": "50% of specified employer contributions at the minimum contribution base; up to 8 people per month, within 36 months of registration",
+      "amountZh": "按最低缴费基数核算的指定单位缴费部分补贴50%；每月最多8人，期限不超过注册后36个月",
+      "eligibility": "Qualifying new startup organizations led by eligible local workers or specified residence/returnee categories, after employing workers for 6 months. Support is calculated against eligible local workers; avoid duplicate employment subsidies for the same person.",
+      "eligibilityZh": "符合户籍、规定居住证或留学人员资格条件的劳动者新办创业组织，吸纳就业满6个月后，按吸纳本市劳动者人数核定；同一人员不得重复享受相关就业社保补贴。",
+      "source": "https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html",
+      "apply": "https://zwdt.sh.gov.cn/",
+      "status": "Policy in force; call not confirmed open",
+      "deadline": "Policy through 31 Dec 2027; confirm district procedure",
+      "deadlineZh": "政策至2027年12月31日，须核验本区办理流程",
+      "workflow": "grant"
+    },
+    {
+      "id": "startup-incubation-rent",
+      "name": "Shanghai pre-registration incubation rent subsidy",
+      "zh": "上海创业孵化期场地房租补贴",
+      "district": "citywide",
+      "type": "Reimbursement",
+      "equity": "No equity",
+      "amount": "Actual workstation cost before registration; up to RMB 10,000 and at most 6 months",
+      "amountZh": "补贴注册前实际承担的工位费，最高1万元，最长6个月",
+      "eligibility": "Teams entering a municipal demonstration incubation base and establishing a qualifying startup organization during incubation. Only the period from admission to registration is covered. Ask the base and district employment service for the current evidence and filing procedure.",
+      "eligibilityZh": "入驻市级创业孵化示范基地，并在孵化期内成功创办规定创业组织的团队。仅覆盖入孵至注册之间的工位费，须向基地及本区就业服务部门确认凭证与办理流程。",
+      "source": "https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html",
+      "apply": "https://zwdt.sh.gov.cn/",
+      "status": "Policy in force; call not confirmed open",
+      "deadline": "Policy through 31 Dec 2027; confirm district procedure",
+      "deadlineZh": "政策至2027年12月31日，须核验本区办理流程",
+      "workflow": "grant"
+    },
+    {
+      "id": "first-startup-subsidy",
+      "name": "Shanghai first-startup one-off subsidy",
+      "zh": "上海首次创业一次性补贴",
+      "district": "citywide",
+      "type": "Grant",
+      "equity": "No equity",
+      "amount": "One-off RMB 8,000 for qualifying founders",
+      "amountZh": "符合条件的首次创业者一次性8000元",
+      "eligibility": "Shanghai-hukou graduates within 2 years of graduation or recognized local people with employment difficulties. First qualifying startup must have operated for 1 year and paid employee social insurance for at least one person for 6 months. This is not a universal incorporation award.",
+      "eligibilityZh": "本市户籍、毕业2年内高校毕业生，或本市就业困难人员。须首次创办规定创业组织满1年，并依法至少为1人缴纳职工社保满6个月，并非普遍性公司注册奖励。",
+      "source": "https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html",
+      "apply": "https://www.shanghai.gov.cn/affairs_affairs/0595cbd5c4974649b9cfb03b3d217daf.html",
+      "status": "Policy in force; call not confirmed open",
+      "deadline": "Policy through 31 Dec 2027; confirm district procedure",
+      "deadlineZh": "政策至2027年12月31日，须核验本区办理流程",
       "workflow": "grant"
     }
   ]
