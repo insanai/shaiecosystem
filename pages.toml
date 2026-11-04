@@ -1,0 +1,5 @@
+# Guidedog GitHub Pages configuration for the assembled multi-language site.
+site = "docs/_build/site"
+branch = "gh-pages"
+profile = "default"
+strict = true
