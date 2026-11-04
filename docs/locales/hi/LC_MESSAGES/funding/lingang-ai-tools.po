@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -22,11 +22,11 @@ msgstr "लिन-गांग OPC AI उपकरण सेवा व्यय 
 
 #: ../../funding/lingang-ai-tools.rst:4
 msgid "Reimbursement | Pudong"
-msgstr "प्रतिपूर्ति (Reimbursement) | पुडोंग (Pudong)"
+msgstr "खर्च की प्रतिपूर्ति | पुडोंग (Pudong)"
 
 #: ../../funding/lingang-ai-tools.rst:6
 msgid "Published policy; implementing intake to confirm"
-msgstr "प्रकाशित नीति; कार्यान्वयन आवेदन की स्थिति की पुष्टि शेष"
+msgstr "नीति घोषित है; आवेदन का तरीका और समय पूछें"
 
 #: ../../funding/lingang-ai-tools.rst:8
 msgid ""
@@ -47,7 +47,7 @@ msgstr "पात्र AI उपकरण सेवा लागत का अ�
 
 #: ../../funding/lingang-ai-tools.rst:15
 msgid "No equity for qualifying public support"
-msgstr "अर्हकारी सार्वजनिक सहायता के लिए कोई इक्विटी नहीं"
+msgstr "पात्र सरकारी सहायता में हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/lingang-ai-tools.rst:17
 msgid "Eligibility and timing"
@@ -90,25 +90,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Confirm the actual category, area boundary, supplier and eligible "
 "expenditure period."
-msgstr "वास्तविक श्रेणी, क्षेत्र सीमा, आपूर्तिकर्ता और पात्र व्यय अवधि की पुष्टि करें।"
+msgstr "वाउचर का प्रकार, दायरा, सेवा प्रदाता और खर्च की पात्र अवधि जाँचें।"
 
 #: ../../funding/lingang-ai-tools.rst:35
 msgid ""
 "Keep service contracts, invoices, payment evidence and itemized usage "
 "logs."
-msgstr "सेवा अनुबंध, चालान, भुगतान साक्ष्य और मदवार उपयोग लॉग रखें।"
+msgstr "सेवा अनुबंध, बिल, भुगतान प्रमाण और उपयोग का विस्तृत रिकॉर्ड रखें।"
 
 #: ../../funding/lingang-ai-tools.rst:37
 msgid ""
 "Use the named platform and current batch; obtain the required district or "
 "operator review."
-msgstr "नामित प्लेटफॉर्म और वर्तमान बैच का उपयोग करें; आवश्यक जिला या संचालक समीक्षा प्राप्त करें।"
+msgstr "निर्दिष्ट पोर्टल पर सही दौर में आवेदन करें और आवश्यक ज़िला या संचालक समीक्षा पूरी करें।"
 
 #: ../../funding/lingang-ai-tools.rst:39
 msgid ""
 "Check approved amount, duplicate-funding exclusions and payment "
 "conditions."
-msgstr "स्वीकृत राशि, दोहरे-फंडिंग बहिष्करण और भुगतान शर्तों की जाँच करें।"
+msgstr "मंज़ूर राशि, दोहरी सहायता की पाबंदी और भुगतान की शर्तें जाँचें।"
 
 #: ../../funding/lingang-ai-tools.rst:41
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -70,25 +70,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+msgstr "तारीख वाली आधिकारिक सूचना पढ़ें और ज़िला, आवेदक, कारोबार व खर्च की अवधि की शर्तें जाँचें।"
 
 #: ../../districts/putuo.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+msgstr "ज़रूरी दस्तावेज़ तैयार करें और जहाँ माँगी गई हो, संस्थान या ज़िले की सिफारिश लें।"
 
 #: ../../districts/putuo.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+msgstr "अंतिम तारीख से पहले आधिकारिक पोर्टल पर आवेदन करें और रसीद सँभालें।"
 
 #: ../../districts/putuo.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+msgstr "सूचना के अनुसार समीक्षा, मंज़ूरी, रिपोर्ट, अंतिम स्वीकृति और भुगतान की प्रक्रिया पूरी करें।"
 
 #: ../../districts/putuo.rst:32
 msgid ""
@@ -109,7 +109,7 @@ msgid ""
 "operated by the Shanghai Electrical Apparatus Research Institute group. "
 "Robot and industrial-internet testing are useful entry points for "
 "hardware validation. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`वुनिंग साइंस पार्क (Wuning Science Park) </entities/wuning>` (上海武宁科技园 · प्रौद्योगिकी पार्क · हार्डवेयर AI, उद्योग) — शंघाई इलेक्ट्रिकल अप्लायंसेज रिसर्च इंस्टीट्यूट समूह द्वारा संचालित एक औद्योगिक अनुसंधान और परीक्षण वातावरण। हार्डवेयर सत्यापन के लिए रोबोट और इंडस्ट्रियल-इंटरनेट परीक्षण उपयोगी प्रवेश बिंदु हैं। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`वुनिंग साइंस पार्क (Wuning Science Park) </entities/wuning>` (上海武宁科技园 · टेक्नोलॉजी पार्क · हार्डवेयर AI, उद्योग) — शंघाई इलेक्ट्रिकल अप्लायंसेज रिसर्च इंस्टीट्यूट समूह द्वारा संचालित एक औद्योगिक अनुसंधान और परीक्षण वातावरण। हार्डवेयर सत्यापन के लिए रोबोट और इंडस्ट्रियल-इंटरनेट परीक्षण उपयोगी प्रवेश बिंदु हैं। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/putuo.rst:38
 msgid ""
@@ -119,7 +119,7 @@ msgid ""
 "manufacturing, AI, robotics and information technology. It supports "
 "market, capital and industrial connections; the listing does not "
 "guarantee cash support. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`चाइना-इज़राइल इनोवेशन हब, शंघाई (China-Israel Innovation Hub) </entities/china-israel>` (中以（上海）创新园 · प्रौद्योगिकी पार्क · सॉफ्टवेयर AI, हार्डवेयर AI) — इंटेलिजेंट विनिर्माण, AI, रोबोटिक्स और सूचना प्रौद्योगिकी में अंतर्राष्ट्रीय सहयोग के लिए जिला-सूचीबद्ध स्टार्टअप सहायता केंद्र। यह बाजार, पूंजी और औद्योगिक संपर्कों का समर्थन करता है; सूचीबद्ध होने से नकद सहायता की गारंटी नहीं मिलती है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`चाइना-इज़राइल इनोवेशन हब, शंघाई (China-Israel Innovation Hub) </entities/china-israel>` (中以（上海）创新园 · टेक्नोलॉजी पार्क · सॉफ्टवेयर AI, हार्डवेयर AI) — इंटेलिजेंट विनिर्माण, AI, रोबोटिक्स और सूचना प्रौद्योगिकी में अंतर्राष्ट्रीय सहयोग के लिए जिला-सूचीबद्ध स्टार्टअप सहायता केंद्र। यह बाजार, पूंजी और औद्योगिक संपर्कों का समर्थन करता है; सूचीबद्ध होने से नकद सहायता की गारंटी नहीं मिलती है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/putuo.rst:39
 msgid ""
@@ -129,7 +129,7 @@ msgid ""
 "platform in Putuo's \"One Axis, One Park, One Center\" layout, connecting "
 "university engineering laboratories with Yangtze River Delta industrial "
 "applications. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई त्सिंगहुआ इंटरनेशनल इनोवेशन सेंटर (Shanghai Tsinghua Innovation Center) </entities/tsinghua-shanghai>` (上海清华国际创新中心 · अनुसंधान प्लेटफॉर्म · सॉफ्टवेयर AI, हार्डवेयर AI, चिप्स) — पुतुओ के \"एक अक्ष, एक पार्क, एक केंद्र\" लेआउट में एक रणनीतिक अनुसंधान और प्रौद्योगिकी-हस्तांतरण प्लेटफॉर्म, जो विश्वविद्यालय की इंजीनियरिंग प्रयोगशालाओं को यांग्त्ज़ी रिवर डेल्टा के औद्योगिक अनुप्रयोगों से जोड़ता है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई त्सिंगहुआ इंटरनेशनल इनोवेशन सेंटर (Shanghai Tsinghua Innovation Center) </entities/tsinghua-shanghai>` (上海清华国际创新中心 · शोध केंद्र · सॉफ्टवेयर AI, हार्डवेयर AI, चिप्स) — पुतुओ के \"एक अक्ष, एक पार्क, एक केंद्र\" लेआउट में एक रणनीतिक अनुसंधान और प्रौद्योगिकी-हस्तांतरण प्लेटफॉर्म, जो विश्वविद्यालय की इंजीनियरिंग प्रयोगशालाओं को यांग्त्ज़ी रिवर डेल्टा के औद्योगिक अनुप्रयोगों से जोड़ता है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/putuo.rst:40
 msgid ""
@@ -139,11 +139,11 @@ msgid ""
 "science, microelectronics. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`ईस्ट चाइना नॉर्मल यूनिवर्सिटी (East China Normal University) </entities/university-ecnu>` (华东师范大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सॉफ्टवेयर, शिक्षा AI, डेटा साइंस, माइक्रोइलेक्ट्रॉनिक्स। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`ईस्ट चाइना नॉर्मल यूनिवर्सिटी (East China Normal University) </entities/university-ecnu>` (华东师范大学 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: सॉफ्टवेयर, शिक्षा AI, डेटा साइंस, माइक्रोइलेक्ट्रॉनिक्स। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/putuo.rst:42
 msgid "Funding routes"
-msgstr "फंडिंग मार्ग"
+msgstr "फंडिंग के विकल्प"
 
 #: ../../districts/putuo.rst:45
 msgid ""
@@ -151,7 +151,7 @@ msgid ""
 "</funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Grant · No equity) — RMB "
 "300,000 per selected company; 50% initially, remainder after one-year "
 "development review. Status: Closed. Timing: Closed 31 August 2026."
-msgstr ":doc:`पुतुओ प्रौद्योगिकी उद्यम सीड प्लान, दूसरा 2026 बैच </funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · अनुदान (Grant) · कंपनी की हिस्सेदारी नहीं देनी होती) — प्रति चयनित कंपनी RMB 300,000; प्रारंभ में 50%, शेष एक-वर्षीय विकास समीक्षा के बाद। स्थिति: आवेदन की समय-सीमा समाप्त। समय-सीमा: 31 अगस्त 2026 को बंद।"
+msgstr ":doc:`पुतुओ प्रौद्योगिकी उद्यम सीड प्लान, दूसरा 2026 बैच </funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · अनुदान · कंपनी की हिस्सेदारी नहीं देनी होती) — प्रति चयनित कंपनी RMB 300,000; प्रारंभ में 50%, शेष एक-वर्षीय विकास समीक्षा के बाद। स्थिति: आवेदन की समय-सीमा समाप्त। समय-सीमा: 31 अगस्त 2026 को बंद।"
 
 #: ../../districts/putuo.rst:46
 msgid ""
@@ -169,7 +169,7 @@ msgid ""
 "at most 50%, balance subject to acceptance. Status: 2026 call published; "
 "not confirmed open. Timing: Confirm the deadline in the September 2026 "
 "notice."
-msgstr ":doc:`पुतुओ R&D प्लेटफॉर्म परियोजनाएं, 2026 </funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · अनुदान (Grant) · कंपनी की हिस्सेदारी नहीं देनी होती) — RMB 2 मिलियन तक; पहला भुगतान अधिकतम 50%, शेष स्वीकृति के अधीन। स्थिति: 2026 का आवेदन आमंत्रण प्रकाशित; आवेदन अभी खुले होने की पुष्टि नहीं। समय-सीमा: सितंबर 2026 की सूचना में समय सीमा की पुष्टि करें।"
+msgstr ":doc:`पुतुओ R&D प्लेटफॉर्म परियोजनाएं, 2026 </funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · अनुदान · कंपनी की हिस्सेदारी नहीं देनी होती) — RMB 2 मिलियन तक; पहला भुगतान अधिकतम 50%, शेष स्वीकृति के अधीन। स्थिति: 2026 का आवेदन आमंत्रण प्रकाशित; आवेदन अभी खुले होने की पुष्टि नहीं। समय-सीमा: सितंबर 2026 की सूचना में समय सीमा की पुष्टि करें।"
 
 #: ../../districts/putuo.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"

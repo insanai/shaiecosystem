@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -22,11 +22,11 @@ msgstr "एनवीडिया इनसेप्शन (NVIDIA Inception)"
 
 #: ../../funding/nvidia-service.rst:4
 msgid "In-kind services | Citywide / global"
-msgstr "गैर-नकद सेवाएँ | शहर-व्यापी / वैश्विक"
+msgstr "सुविधाओं और सेवाओं के रूप में सहायता | शहर-व्यापी / वैश्विक"
 
 #: ../../funding/nvidia-service.rst:6
 msgid "Program published; eligibility review"
-msgstr "कार्यक्रम प्रकाशित; पात्रता समीक्षा"
+msgstr "कार्यक्रम घोषित है; पात्रता की जाँच होगी"
 
 #: ../../funding/nvidia-service.rst:8
 msgid ""
@@ -55,7 +55,7 @@ msgid ""
 "Qualifying AI startups; check incorporation, developer, age and regional "
 "conditions. Product availability and partner credits are separately "
 "governed."
-msgstr "अर्हकारी AI स्टार्टअप; निगमन, डेवलपर, आयु और क्षेत्रीय शर्तों की जाँच करें। उत्पाद उपलब्धता और भागीदार क्रेडिट अलग से नियंत्रित होते हैं।"
+msgstr "पात्र AI स्टार्टअप; निगमन, डेवलपर, आयु और क्षेत्रीय शर्तों की जाँच करें। उत्पाद उपलब्धता और भागीदार क्रेडिट अलग से नियंत्रित होते हैं।"
 
 #: ../../funding/nvidia-service.rst:22
 msgid "Online application; regional eligibility review"
@@ -86,20 +86,20 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 #: ../../funding/nvidia-service.rst:33
 msgid ""
 "Check incorporation, company age, account region and existing benefits."
-msgstr "निगमन, कंपनी की आयु, खाता क्षेत्र और मौजूदा लाभों की जाँच करें।"
+msgstr "पंजीकरण, कंपनी की उम्र, खाते का क्षेत्र और पहले मिले लाभ जाँचें।"
 
 #: ../../funding/nvidia-service.rst:35
 msgid "Apply through the official program form or qualifying partner route."
-msgstr "आधिकारिक कार्यक्रम फॉर्म या योग्य भागीदार मार्ग के माध्यम से आवेदन करें।"
+msgstr "आधिकारिक फॉर्म या पात्र साझेदार की सिफारिश से आवेदन करें।"
 
 #: ../../funding/nvidia-service.rst:37
 msgid ""
 "Confirm covered services, expiry, fees, usage limits and overage billing."
-msgstr "कवर की गई सेवाओं, समाप्ति तिथि, शुल्क, उपयोग सीमा और अतिरिक्त बिलिंग की पुष्टि करें।"
+msgstr "कौन-सी सेवाएँ मिलेंगी, कब तक, किस शुल्क पर और कितनी सीमा तक—यह स्पष्ट करें; अतिरिक्त उपयोग का शुल्क भी पूछें।"
 
 #: ../../funding/nvidia-service.rst:39
 msgid "Keep usage records and do not describe credits as unrestricted cash."
-msgstr "उपयोग रिकॉर्ड रखें और क्रेडिट को अप्रतिबंधित नकदी के रूप में वर्णित न करें।"
+msgstr "उपयोग का रिकॉर्ड रखें। क्रेडिट मनचाहे खर्च के लिए नकद रकम नहीं हैं।"
 
 #: ../../funding/nvidia-service.rst:41
 msgid ""

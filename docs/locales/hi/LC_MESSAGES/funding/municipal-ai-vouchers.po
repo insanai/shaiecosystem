@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -22,18 +22,13 @@ msgstr "शंघाई AI कंप्यूट, टोकन और कॉर�
 
 #: ../../funding/municipal-ai-vouchers.rst:4
 msgid "Reimbursement | Citywide / global"
-msgstr "प्रतिपूर्ति (Reimbursement) | शहर-व्यापी / वैश्विक"
+msgstr "खर्च की प्रतिपूर्ति | शहर-व्यापी / वैश्विक"
 
 #: ../../funding/municipal-ai-vouchers.rst:6
 msgid "First 2026 batch closed; later batches to verify"
 msgstr "पहला 2026 बैच बंद; बाद के बैचों का सत्यापन शेष"
 
 #: ../../funding/municipal-ai-vouchers.rst:8
-
-#| msgid ""
-#| "`Evidence S111 "
-#| "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
-#| "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 msgid ""
 "`Evidence S114 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
@@ -61,7 +56,7 @@ msgid ""
 "Qualifying Shanghai AI model or agent developers and users purchasing "
 "eligible non-related-party services. Projects already receiving other "
 "municipal fiscal subsidy are excluded."
-msgstr "पात्र गैर-संबंधित-पक्ष सेवाएं खरीदने वाले अर्हकारी शंघाई AI मॉडल या एजेंट डेवलपर्स और उपयोगकर्ता। पहले से ही अन्य नगर राजकोषीय सब्सिडी प्राप्त कर रही परियोजनाएं बाहर रखी गई हैं।"
+msgstr "पात्र गैर-संबंधित-पक्ष सेवाएं खरीदने वाले पात्र शंघाई AI मॉडल या एजेंट डेवलपर्स और उपयोगकर्ता। पहले से ही अन्य नगर राजकोषीय सब्सिडी प्राप्त कर रही परियोजनाएं बाहर रखी गई हैं।"
 
 #: ../../funding/municipal-ai-vouchers.rst:22
 msgid ""
@@ -92,25 +87,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Confirm the actual category, area boundary, supplier and eligible "
 "expenditure period."
-msgstr "वास्तविक श्रेणी, क्षेत्र सीमा, आपूर्तिकर्ता और पात्र व्यय अवधि की पुष्टि करें।"
+msgstr "वाउचर का प्रकार, दायरा, सेवा प्रदाता और खर्च की पात्र अवधि जाँचें।"
 
 #: ../../funding/municipal-ai-vouchers.rst:35
 msgid ""
 "Keep service contracts, invoices, payment evidence and itemized usage "
 "logs."
-msgstr "सेवा अनुबंध, चालान, भुगतान साक्ष्य और मदवार उपयोग लॉग रखें।"
+msgstr "सेवा अनुबंध, बिल, भुगतान प्रमाण और उपयोग का विस्तृत रिकॉर्ड रखें।"
 
 #: ../../funding/municipal-ai-vouchers.rst:37
 msgid ""
 "Use the named platform and current batch; obtain the required district or "
 "operator review."
-msgstr "नामित प्लेटफॉर्म और वर्तमान बैच का उपयोग करें; आवश्यक जिला या संचालक समीक्षा प्राप्त करें।"
+msgstr "निर्दिष्ट पोर्टल पर सही दौर में आवेदन करें और आवश्यक ज़िला या संचालक समीक्षा पूरी करें।"
 
 #: ../../funding/municipal-ai-vouchers.rst:39
 msgid ""
 "Check approved amount, duplicate-funding exclusions and payment "
 "conditions."
-msgstr "स्वीकृत राशि, दोहरे-फंडिंग बहिष्करण और भुगतान शर्तों की जाँच करें।"
+msgstr "मंज़ूर राशि, दोहरी सहायता की पाबंदी और भुगतान की शर्तें जाँचें।"
 
 #: ../../funding/municipal-ai-vouchers.rst:41
 msgid ""

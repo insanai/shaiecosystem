@@ -38,7 +38,7 @@ msgid "Incubation"
 msgstr "इनक्यूबेशन"
 
 msgid "Funding"
-msgstr "वित्तपोषण"
+msgstr "फंडिंग व सहायता"
 
 msgid "How to apply"
 msgstr "आवेदन कैसे करें"
@@ -62,7 +62,7 @@ msgid "possibility."
 msgstr "संभावनाओं का संसार।"
 
 msgid "Where Shanghai's 16 administrative districts, 40 undergraduate universities, 125 innovation organizations and 45 funding pathways meet. A white-magnolia and Chinese ink-wash field guide from research to repeatable enterprise."
-msgstr "जहाँ शंघाई के 16 प्रशासनिक ज़िले, 40 स्नातक विश्वविद्यालय, 125 नवाचार संस्थान और 45 वित्तपोषण मार्ग मिलते हैं। श्वेत मैग्नोलिया और पारंपरिक चीनी स्याही चित्रकला से प्रेरित एक व्यावहारिक मार्गदर्शिका।"
+msgstr "जहाँ शंघाई के 16 प्रशासनिक ज़िले, 40 स्नातक विश्वविद्यालय, 125 नवाचार संस्थान और 45 फंडिंग के विकल्प मिलते हैं। श्वेत मैग्नोलिया और पारंपरिक चीनी स्याही चित्रकला से प्रेरित एक व्यावहारिक मार्गदर्शिका।"
 
 msgid "Shanghai coverage highlights"
 msgstr "शंघाई कवरेज की मुख्य विशेषताएँ"
@@ -89,7 +89,7 @@ msgid "Written by:"
 msgstr "लेखक:"
 
 msgid "With contributions from:"
-msgstr "सहयोगी योगदानकर्ता:"
+msgstr "सहयोग:"
 
 msgid "Made using Guidedog in HTML and PDF · Available in English, 简体中文, हिन्दी, 日本語, 한국어, Deutsch & Español"
 msgstr "Guidedog द्वारा HTML और PDF में निर्मित · अंग्रेज़ी, चीनी, हिन्दी, जापानी, कोरियाई, जर्मन और स्पेनिश में उपलब्ध"
@@ -110,16 +110,16 @@ msgid "districts, connected"
 msgstr "संबद्ध प्रशासनिक ज़िले"
 
 msgid "university profiles (+41 colleges)"
-msgstr "विश्वविद्यालय प्रोफ़ाइल (+41 कॉलेज)"
+msgstr "विश्वविद्यालय प्रोफाइल (साथ में 41 कॉलेज)"
 
 msgid "organization routes"
-msgstr "संस्थान व इनक्यूबेशन मार्ग"
+msgstr "संस्थान"
 
 msgid "funding pathways"
-msgstr "वित्तपोषण मार्ग"
+msgstr "फंडिंग के विकल्प"
 
 msgid "verified primary sources"
-msgstr "सत्यापित प्राथमिक स्रोत"
+msgstr "जाँचे गए मूल स्रोत"
 
 msgid "Download the Complete Illustrated PDF Book"
 msgstr "संपूर्ण सचित्र PDF पुस्तक डाउनलोड करें"
@@ -134,7 +134,7 @@ msgid "THE MAGNOLIA PRINT EDITION / COMPLETE ILLUSTRATED PDF BOOK"
 msgstr "मैग्नोलिया प्रिंट संस्करण / संपूर्ण सचित्र PDF पुस्तक"
 
 msgid "Typeset in a generous 240 × 300 mm art-book format by Guidedog's embedded Typst engine, the PDF book contains every chapter, vector district map, architecture diagram, 125 organization profiles, 45 funding pathways, 81 higher-education registry entries and 133 cited sources for offline reading and field trips."
-msgstr "Guidedog के अंतर्निहित Typst इंजन द्वारा 240 × 300 मिमी आर्ट-बुक प्रारूप में टाइपसेट की गई इस PDF पुस्तक में सभी अध्याय, 16 ज़िलों के नक्शे, 125 संस्थान प्रोफ़ाइल, 45 वित्तपोषण मार्ग, 81 उच्च-शिक्षा संस्थान और 133 प्राथमिक स्रोत शामिल हैं।"
+msgstr "Guidedog के अंतर्निहित Typst इंजन द्वारा 240 × 300 मिमी आर्ट-बुक प्रारूप में टाइपसेट की गई इस PDF पुस्तक में सभी अध्याय, 16 ज़िलों के नक्शे, 125 संस्थान प्रोफ़ाइल, 45 फंडिंग के विकल्प, 81 उच्च-शिक्षा संस्थान और 133 प्राथमिक स्रोत शामिल हैं।"
 
 msgid "AUTHOR"
 msgstr "लेखक"
@@ -161,7 +161,7 @@ msgid "MODELS & AGENTS"
 msgstr "मॉडल और एजेंट"
 
 msgid "Intelligence in software"
-msgstr "सॉफ़्टवेयर में बुद्धिमत्ता"
+msgstr "सॉफ्टवेयर और AI एप्लिकेशन"
 
 msgid "From Model Speed Space and Zhangjiang Model Community to compute vouchers and pilot deployment."
 msgstr "मॉडल स्पीड स्पेस और झांगजियांग मॉडल कम्युनिटी से लेकर कंप्यूट वाउचर और पायलट परिनियोजन तक।"
@@ -170,7 +170,7 @@ msgid "CHIPS & ROBOTS"
 msgstr "चिप्स और रोबोटिक्स"
 
 msgid "Intelligence in the physical world"
-msgstr "भौतिक दुनिया में बुद्धिमत्ता"
+msgstr "चिप, रोबोट और स्मार्ट हार्डवेयर"
 
 msgid "Zhangjiang tape-out, Jiading MEMS pilot lines, embodied robotics, Jinshan UAVs and biomanufacturing."
 msgstr "झांगजियांग चिप टेप-आउट, जियाडिंग MEMS पायलट लाइनें, एम्बॉडीड रोबोटिक्स, जिनशान ड्रोन और बायोमैन्युफैक्चरिंग।"
@@ -179,7 +179,7 @@ msgid "CAPITAL WITH CONDITIONS"
 msgstr "शर्तों के साथ पूंजी"
 
 msgid "Know what funding really means"
-msgstr "वित्तपोषण का वास्तविक अर्थ समझें"
+msgstr "फंडिंग की शर्तें समझें"
 
 msgid "Compare 45 non-repayable grants, vouchers, interest-free loans, convertible support and state funds."
 msgstr "45 गैर-पुनर्भुगतान अनुदान, वाउचर, ब्याज-मुक्त ऋण, परिवर्तनीय सहायता और सरकारी फंडों की तुलना करें।"
@@ -206,7 +206,7 @@ msgid "FIELD EXECUTION"
 msgstr "क्षेत्रीय क्रियान्वयन"
 
 msgid "From introduction to application"
-msgstr "परिचय से आवेदन तक"
+msgstr "पहले संपर्क से आवेदन तक"
 
 msgid "Outreach templates, shared data-room checklist, foreign founder work-permit guide and 4-week plan."
 msgstr "संपर्क टेम्पलेट, डेटा-रूम चेकलिस्ट, विदेशी संस्थापक वर्क-परमिट गाइड और 4-सप्ताह की योजना।"
@@ -221,7 +221,7 @@ msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni,
 msgstr "Vikrant Rathore द्वारा लिखित; Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore और Emily Yue Xu का योगदान। Guidedog से निर्मित।"
 
 msgid "Sources, credits & research limits"
-msgstr "स्रोत, श्रेय और शोध सीमाएँ"
+msgstr "स्रोत, योगदान और शोध का दायरा"
 
 msgid "Atlas"
 msgstr "एटलस होम"
@@ -254,13 +254,13 @@ msgid "Sources & reading room (133 sources)"
 msgstr "स्रोत और अध्ययन कक्ष (133 स्रोत)"
 
 msgid "Research methods, gaps & credits"
-msgstr "शोध पद्धति, सीमाएँ और श्रेय"
+msgstr "शोध पद्धति, बाकी जानकारी और योगदान"
 
 msgid "Download research dataset (JSON)"
 msgstr "शोध डेटासेट डाउनलोड करें (JSON)"
 
 msgid "Research checked 2026-11-04. Current official notices govern."
-msgstr "शोध सत्यापन तिथि: 2026-11-04। वर्तमान आधिकारिक सूचनाएँ ही मान्य होंगी।"
+msgstr "जानकारी 4 नवंबर 2026 तक जाँची गई है। आवेदन के लिए ताज़ा आधिकारिक सूचना देखें।"
 
 msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu."
 msgstr "Vikrant Rathore द्वारा लिखित, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore और Emily Yue Xu के योगदान सहित।"

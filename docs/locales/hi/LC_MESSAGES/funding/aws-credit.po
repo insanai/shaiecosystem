@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -44,7 +44,7 @@ msgstr "पात्र चीन सेवाओं के लिए पैक�
 
 #: ../../funding/aws-credit.rst:15
 msgid "No equity stated in offer; verify terms"
-msgstr "ऑफ़र में कोई इक्विटी नहीं बताई गई; शर्तों को सत्यापित करें"
+msgstr "घोषित शर्तों में हिस्सेदारी की माँग नहीं; अनुबंध जाँचें"
 
 #: ../../funding/aws-credit.rst:17
 msgid "Eligibility and timing"
@@ -55,7 +55,7 @@ msgid ""
 "China-established unlisted startup and qualifying new-customer / "
 "participating partner relationship. Do not substitute global AWS account "
 "rules or credit ceilings."
-msgstr "चीन में स्थापित गैर-सूचीबद्ध स्टार्टअप और अर्हकारी नए-ग्राहक / सहभागी भागीदार संबंध। वैश्विक AWS खाता नियमों या क्रेडिट सीमाओं को यहां प्रतिस्थापित न करें।"
+msgstr "चीन में स्थापित गैर-सूचीबद्ध स्टार्टअप और पात्र नए-ग्राहक / सहभागी भागीदार संबंध। वैश्विक AWS खाता नियमों या क्रेडिट सीमाओं को यहां प्रतिस्थापित न करें।"
 
 #: ../../funding/aws-credit.rst:22
 msgid "Confirm current package and expiration"
@@ -86,20 +86,20 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 #: ../../funding/aws-credit.rst:33
 msgid ""
 "Check incorporation, company age, account region and existing benefits."
-msgstr "निगमन, कंपनी की आयु, खाता क्षेत्र और मौजूदा लाभों की जाँच करें।"
+msgstr "पंजीकरण, कंपनी की उम्र, खाते का क्षेत्र और पहले मिले लाभ जाँचें।"
 
 #: ../../funding/aws-credit.rst:35
 msgid "Apply through the official program form or qualifying partner route."
-msgstr "आधिकारिक कार्यक्रम फॉर्म या योग्य भागीदार मार्ग के माध्यम से आवेदन करें।"
+msgstr "आधिकारिक फॉर्म या पात्र साझेदार की सिफारिश से आवेदन करें।"
 
 #: ../../funding/aws-credit.rst:37
 msgid ""
 "Confirm covered services, expiry, fees, usage limits and overage billing."
-msgstr "कवर की गई सेवाओं, समाप्ति तिथि, शुल्क, उपयोग सीमा और अतिरिक्त बिलिंग की पुष्टि करें।"
+msgstr "कौन-सी सेवाएँ मिलेंगी, कब तक, किस शुल्क पर और कितनी सीमा तक—यह स्पष्ट करें; अतिरिक्त उपयोग का शुल्क भी पूछें।"
 
 #: ../../funding/aws-credit.rst:39
 msgid "Keep usage records and do not describe credits as unrestricted cash."
-msgstr "उपयोग रिकॉर्ड रखें और क्रेडिट को अप्रतिबंधित नकदी के रूप में वर्णित न करें।"
+msgstr "उपयोग का रिकॉर्ड रखें। क्रेडिट मनचाहे खर्च के लिए नकद रकम नहीं हैं।"
 
 #: ../../funding/aws-credit.rst:41
 msgid ""

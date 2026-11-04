@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -33,14 +33,9 @@ msgid ""
 "2026 AI application call closed on 31 August 2026. The published route "
 "covers qualifying 2025 model and agent expenditure; duplicate public "
 "funding is excluded."
-msgstr "2026 AI अनुप्रयोग कॉल 31 अगस्त 2026 को बंद हो गई। प्रकाशित मार्ग अर्हकारी 2025 मॉडल और एजेंट व्यय को कवर करता है; दोहरी सार्वजनिक फंडिंग को बाहर रखा गया है।"
+msgstr "2026 AI अनुप्रयोग कॉल 31 अगस्त 2026 को बंद हो गई। प्रकाशित मार्ग पात्र 2025 मॉडल और एजेंट व्यय को कवर करता है; दोहरी सार्वजनिक फंडिंग को बाहर रखा गया है।"
 
 #: ../../entities/government-pudong.rst:10
-
-#| msgid ""
-#| "`Evidence S096 "
-#| "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
-#| "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 msgid ""
 "`Evidence S099 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
@@ -81,7 +76,7 @@ msgstr "मानचित्र स्थिति जिला या कै�
 
 #: ../../entities/government-pudong.rst:28
 msgid "Application workflow"
-msgstr "आवेदन कार्यप्रणाली"
+msgstr "आवेदन प्रक्रिया"
 
 #: ../../entities/government-pudong.rst:31
 msgid ""
@@ -93,25 +88,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+msgstr "तारीख वाली आधिकारिक सूचना पढ़ें और ज़िला, आवेदक, कारोबार व खर्च की अवधि की शर्तें जाँचें।"
 
 #: ../../entities/government-pudong.rst:35
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+msgstr "ज़रूरी दस्तावेज़ तैयार करें और जहाँ माँगी गई हो, संस्थान या ज़िले की सिफारिश लें।"
 
 #: ../../entities/government-pudong.rst:37
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+msgstr "अंतिम तारीख से पहले आधिकारिक पोर्टल पर आवेदन करें और रसीद सँभालें।"
 
 #: ../../entities/government-pudong.rst:39
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+msgstr "सूचना के अनुसार समीक्षा, मंज़ूरी, रिपोर्ट, अंतिम स्वीकृति और भुगतान की प्रक्रिया पूरी करें।"
 
 #: ../../entities/government-pudong.rst:41
 msgid ":doc:`Pudong district route </districts/pudong>`"

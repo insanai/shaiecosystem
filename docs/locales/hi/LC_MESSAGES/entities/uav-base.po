@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,7 +26,7 @@ msgstr "华东无人机基地"
 
 #: ../../entities/uav-base.rst:6
 msgid "Technology park | Jinshan | Research checked 2026-11-04"
-msgstr "प्रौद्योगिकी पार्क | जिनशान (Jinshan) | शोध सत्यापन तिथि 2026-11-04"
+msgstr "टेक्नोलॉजी पार्क | जिनशान (Jinshan) | शोध सत्यापन तिथि 2026-11-04"
 
 #: ../../entities/uav-base.rst:8
 msgid "AI and industry focus: Hardware AI, Drones."
@@ -84,7 +84,7 @@ msgstr "मानचित्र स्थिति जिला या कै�
 
 #: ../../entities/uav-base.rst:30
 msgid "Application workflow"
-msgstr "आवेदन कार्यप्रणाली"
+msgstr "आवेदन प्रक्रिया"
 
 #: ../../entities/uav-base.rst:33
 msgid ""
@@ -95,22 +95,22 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 #: ../../entities/uav-base.rst:35
 msgid ""
 "Describe the prototype, required equipment, process and testing needs."
-msgstr "प्रोटोटाइप, आवश्यक उपकरण, प्रक्रिया और परीक्षण आवश्यकताओं का वर्णन करें।"
+msgstr "प्रोटोटाइप और ज़रूरी उपकरण, निर्माण प्रक्रिया व परीक्षण की माँग बताएँ।"
 
 #: ../../entities/uav-base.rst:37
 msgid "Ask for a technical review, facility visit and itemized quotation."
-msgstr "तकनीकी समीक्षा, सुविधा के दौरे और मदवार कोटेशन के लिए पूछें।"
+msgstr "तकनीकी समीक्षा, सुविधा का दौरा और हर सेवा का अलग कोटेशन माँगें।"
 
 #: ../../entities/uav-base.rst:39
 msgid ""
 "Agree access, safety, sample and IP ownership, test scope and acceptance."
-msgstr "पहुंच, सुरक्षा, नमूना और IP स्वामित्व, परीक्षण दायरे और स्वीकृति पर सहमति बनाएं।"
+msgstr "उपयोग, सुरक्षा, नमूनों व IP के अधिकार, परीक्षण का दायरा और स्वीकृति मानदंड तय करें।"
 
 #: ../../entities/uav-base.rst:41
 msgid ""
 "Separate the facility contract from investment or public-funding "
 "applications."
-msgstr "सुविधा अनुबंध को निवेश या सार्वजनिक-फंडिंग आवेदनों से अलग रखें।"
+msgstr "सुविधा के उपयोग का समझौता निवेश या सरकारी सहायता के आवेदन से अलग करें।"
 
 #: ../../entities/uav-base.rst:43
 msgid ":doc:`Jinshan district route </districts/jinshan>`"

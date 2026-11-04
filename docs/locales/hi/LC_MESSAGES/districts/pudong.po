@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -29,14 +29,9 @@ msgid ""
 "2026 AI application call closed on 31 August 2026. The published route "
 "covers qualifying 2025 model and agent expenditure; duplicate public "
 "funding is excluded."
-msgstr "2026 AI अनुप्रयोग कॉल 31 अगस्त 2026 को बंद हो गई। प्रकाशित मार्ग अर्हकारी 2025 मॉडल और एजेंट व्यय को कवर करता है; दोहरी सार्वजनिक फंडिंग को बाहर रखा गया है।"
+msgstr "2026 AI अनुप्रयोग कॉल 31 अगस्त 2026 को बंद हो गई। प्रकाशित मार्ग पात्र 2025 मॉडल और एजेंट व्यय को कवर करता है; दोहरी सार्वजनिक फंडिंग को बाहर रखा गया है।"
 
 #: ../../districts/pudong.rst:8
-
-#| msgid ""
-#| "`Evidence S096 "
-#| "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
-#| "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 msgid ""
 "`Evidence S099 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
@@ -73,25 +68,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+msgstr "तारीख वाली आधिकारिक सूचना पढ़ें और ज़िला, आवेदक, कारोबार व खर्च की अवधि की शर्तें जाँचें।"
 
 #: ../../districts/pudong.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+msgstr "ज़रूरी दस्तावेज़ तैयार करें और जहाँ माँगी गई हो, संस्थान या ज़िले की सिफारिश लें।"
 
 #: ../../districts/pudong.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+msgstr "अंतिम तारीख से पहले आधिकारिक पोर्टल पर आवेदन करें और रसीद सँभालें।"
 
 #: ../../districts/pudong.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+msgstr "सूचना के अनुसार समीक्षा, मंज़ूरी, रिपोर्ट, अंतिम स्वीकृति और भुगतान की प्रक्रिया पूरी करें।"
 
 #: ../../districts/pudong.rst:32
 msgid ""
@@ -161,7 +156,7 @@ msgid ""
 "Corporate innovation, office space and venture investment have different "
 "admission and commercial terms. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`प्लग एंड प्ले चाइना, शंघाई (Plug and Play China, Shanghai) </entities/plugplay>` (璞跃中国上海中心 · एक्सेलेरेटर · सॉफ्टवेयर AI, हार्डवेयर AI, गतिशीलता (Mobility)) — संचालक झांगजियांग गुओचुआंग सेंटर में अपने यांग्त्ज़ी रिवर डेल्टा नवाचार केंद्र को सूचीबद्ध करता है। कॉर्पोरेट नवाचार, कार्यालय स्थान और वेंचर निवेश की प्रवेश और वाणिज्यिक शर्तें अलग-अलग हैं। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`प्लग एंड प्ले चाइना, शंघाई (Plug and Play China, Shanghai) </entities/plugplay>` (璞跃中国上海中心 · एक्सेलेरेटर · सॉफ्टवेयर AI, हार्डवेयर AI, परिवहन तकनीक) — संचालक झांगजियांग गुओचुआंग सेंटर में अपने यांग्त्ज़ी रिवर डेल्टा नवाचार केंद्र को सूचीबद्ध करता है। कॉर्पोरेट नवाचार, कार्यालय स्थान और वेंचर निवेश की प्रवेश और वाणिज्यिक शर्तें अलग-अलग हैं। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:43
 msgid ""
@@ -181,7 +176,7 @@ msgid ""
 "development targets. Lin-gang is a functional area, not Shanghai's "
 "seventeenth district. Establish the administering boundary before seeking "
 "incentives. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`लिन-गांग साइंस एंड इनोवेशन सिटी (Lin-gang Science and Innovation City) </entities/lin-gang>` (临港科创城 · प्रौद्योगिकी पार्क · हार्डवेयर AI, चिप्स, सॉफ्टवेयर AI) — जनवरी 2026 की योजना में दिशुई लेक AI और IC इनोवेशन पोर्ट्स तथा चरणबद्ध विकास लक्ष्यों की पहचान की गई है। लिन-गांग एक कार्यात्मक क्षेत्र है, न कि शंघाई का सत्रहवां जिला। प्रोत्साहन मांगने से पहले प्रशासनिक सीमा की पुष्टि करें। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`लिन-गांग साइंस एंड इनोवेशन सिटी (Lin-gang Science and Innovation City) </entities/lin-gang>` (临港科创城 · टेक्नोलॉजी पार्क · हार्डवेयर AI, चिप्स, सॉफ्टवेयर AI) — जनवरी 2026 की योजना में दिशुई लेक AI और IC इनोवेशन पोर्ट्स तथा चरणबद्ध विकास लक्ष्यों की पहचान की गई है। लिन-गांग एक कार्यात्मक क्षेत्र है, न कि शंघाई का सत्रहवां जिला। प्रोत्साहन मांगने से पहले प्रशासनिक सीमा की पुष्टि करें। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:45
 msgid ""
@@ -191,7 +186,7 @@ msgid ""
 "starting point for AI chip teams, with specific EDA, IP, tape-out, "
 "packaging and testing access negotiated with providers. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई IC डिज़ाइन इंडस्ट्रियल पार्क (Shanghai IC Design Industrial Park) </entities/ic-design>` (上海集成电路设计产业园 · प्रौद्योगिकी पार्क · चिप्स, हार्डवेयर AI) — डिज़ाइन और औद्योगिक सेवाओं को जोड़ने वाला झांगजियांग चिप डिज़ाइन इकोसिस्टम। AI चिप टीमों के लिए एक मजबूत शुरुआती बिंदु, जहां विशिष्ट EDA, IP, टेप-आउट, पैकेजिंग और परीक्षण पहुंच पर प्रदाताओं के साथ बातचीत की जाती है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई IC डिज़ाइन इंडस्ट्रियल पार्क (Shanghai IC Design Industrial Park) </entities/ic-design>` (上海集成电路设计产业园 · टेक्नोलॉजी पार्क · चिप्स, हार्डवेयर AI) — डिज़ाइन और औद्योगिक सेवाओं को जोड़ने वाला झांगजियांग चिप डिज़ाइन इकोसिस्टम। AI चिप टीमों के लिए एक मजबूत शुरुआती बिंदु, जहां विशिष्ट EDA, IP, टेप-आउट, पैकेजिंग और परीक्षण पहुंच पर प्रदाताओं के साथ बातचीत की जाती है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:46
 msgid ""
@@ -201,7 +196,7 @@ msgid ""
 "innovation-voucher guidance. Eligible voucher-covered services are "
 "selected on the official platform; a voucher is not a general equipment "
 "purchase budget. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई इंटीग्रेटेड सर्किट टेक्नोलॉजी एंड इंडस्ट्री प्रमोशन सेंटर (ICC) </entities/icc>` (上海集成电路技术与产业促进中心 · अनुसंधान प्लेटफॉर्म · चिप्स, हार्डवेयर AI) — एक IC तकनीकी-सेवा प्रवेश बिंदु जो इनोवेशन-वाउचर मार्गदर्शन भी प्रकाशित करता है। वाउचर द्वारा कवर की जाने वाली पात्र सेवाएं आधिकारिक प्लेटफॉर्म पर चुनी जाती हैं; वाउचर कोई सामान्य उपकरण खरीद बजट नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई इंटीग्रेटेड सर्किट टेक्नोलॉजी एंड इंडस्ट्री प्रमोशन सेंटर (ICC) </entities/icc>` (上海集成电路技术与产业促进中心 · शोध केंद्र · चिप्स, हार्डवेयर AI) — एक IC तकनीकी-सेवा प्रवेश बिंदु जो इनोवेशन-वाउचर मार्गदर्शन भी प्रकाशित करता है। वाउचर द्वारा कवर की जाने वाली पात्र सेवाएं आधिकारिक प्लेटफॉर्म पर चुनी जाती हैं; वाउचर कोई सामान्य उपकरण खरीद बजट नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:47
 msgid ""
@@ -211,7 +206,7 @@ msgid ""
 "systems. The published office contact is in Zhangjiang. A technical "
 "proposal should identify the platform, experiment, data and proposed "
 "industrial partner. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`तोंगजी ऑटोनोमस इंटेलिजेंट अनमैंड सिस्टम्स सेंटर (Tongji Autonomous Systems Center) </entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · अनुसंधान प्लेटफॉर्म · हार्डवेयर AI, गतिशीलता (Mobility)) — स्वायत्त प्रणालियों के लिए एक अनुसंधान सहयोग मार्ग। प्रकाशित कार्यालय संपर्क झांगजियांग में है। तकनीकी प्रस्ताव में प्लेटफॉर्म, प्रयोग, डेटा और प्रस्तावित औद्योगिक भागीदार की पहचान होनी चाहिए। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`तोंगजी ऑटोनोमस इंटेलिजेंट अनमैंड सिस्टम्स सेंटर (Tongji Autonomous Systems Center) </entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · शोध केंद्र · हार्डवेयर AI, परिवहन तकनीक) — स्वायत्त प्रणालियों के लिए एक अनुसंधान सहयोग मार्ग। प्रकाशित कार्यालय संपर्क झांगजियांग में है। तकनीकी प्रस्ताव में प्लेटफॉर्म, प्रयोग, डेटा और प्रस्तावित औद्योगिक भागीदार की पहचान होनी चाहिए। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:48
 msgid ""
@@ -230,7 +225,7 @@ msgid ""
 "equity-free intelligent-manufacturing accelerator. It is included as a "
 "historical corporate route; the source does not establish a 2026 Shanghai "
 "intake. [Status: Historical / confirm continuation]"
-msgstr ":doc:`SAP.iO फाउंड्री शंघाई (SAP.iO Foundry Shanghai) </entities/sapio>` (SAP.iO上海加速器 · कॉर्पोरेट कार्यक्रम · सॉफ्टवेयर AI, उद्योग) — 2021 के लॉन्च में एक इक्विटी-मुक्त इंटेलिजेंट-विनिर्माण एक्सेलेरेटर का वर्णन किया गया था। इसे एक ऐतिहासिक कॉर्पोरेट मार्ग के रूप में शामिल किया गया है; स्रोत 2026 में शंघाई आवेदन की स्थिति की पुष्टि नहीं करता है। [स्थिति: ऐतिहासिक / निरंतरता की पुष्टि करें]"
+msgstr ":doc:`SAP.iO फाउंड्री शंघाई (SAP.iO Foundry Shanghai) </entities/sapio>` (SAP.iO上海加速器 · कॉर्पोरेट कार्यक्रम · सॉफ्टवेयर AI, उद्योग) — 2021 के लॉन्च में एक इक्विटी-मुक्त इंटेलिजेंट-विनिर्माण एक्सेलेरेटर का वर्णन किया गया था। इसे एक ऐतिहासिक कॉर्पोरेट मार्ग के रूप में शामिल किया गया है; स्रोत 2026 में शंघाई आवेदन की स्थिति की पुष्टि नहीं करता है। [स्थिति: पुराना कार्यक्रम; जारी है या नहीं, पुष्टि करें]"
 
 #: ../../districts/pudong.rst:50
 msgid ""
@@ -299,7 +294,7 @@ msgid ""
 "compute, model and corpus vouchers. Confirm whether the company's "
 "registered and operating address falls inside the designated town "
 "boundary. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`झांगजियांग AI इनोवेशन टाउन (Zhangjiang AI Innovation Town) </entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · प्रौद्योगिकी पार्क · सॉफ्टवेयर AI, हार्डवेयर AI, विज्ञान के लिए AI) — झांगजियांग साइंस सिटी में 700,000 वर्ग मीटर के औद्योगिक स्थान, स्पैटियोटेम्पोरल डिजिटल इंफ्रास्ट्रक्चर और जुड़े हुए कंप्यूट, मॉडल तथा कॉर्पस वाउचर के साथ 2-वर्ग-किलोमीटर का एक कोर ज़ोन। पुष्टि करें कि क्या कंपनी का पंजीकृत और परिचालन पता निर्दिष्ट टाउन सीमा के भीतर आता है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`झांगजियांग AI इनोवेशन टाउन (Zhangjiang AI Innovation Town) </entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · टेक्नोलॉजी पार्क · सॉफ्टवेयर AI, हार्डवेयर AI, विज्ञान के लिए AI) — झांगजियांग साइंस सिटी में 700,000 वर्ग मीटर के औद्योगिक स्थान, स्पैटियोटेम्पोरल डिजिटल इंफ्रास्ट्रक्चर और जुड़े हुए कंप्यूट, मॉडल तथा कॉर्पस वाउचर के साथ 2-वर्ग-किलोमीटर का एक कोर ज़ोन। पुष्टि करें कि क्या कंपनी का पंजीकृत और परिचालन पता निर्दिष्ट टाउन सीमा के भीतर आता है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:57
 msgid ""
@@ -309,7 +304,7 @@ msgid ""
 "supporting process development, device verification and IP testing. "
 "Request a technical scoping review and written quotation for wafer or "
 "testing runs. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई इंटीग्रेटेड सर्किट R&D सेंटर (Shanghai IC R&D Center) </entities/icrd>` (上海集成电路研发中心 · अनुसंधान प्लेटफॉर्म · चिप्स, हार्डवेयर AI) — प्रोसेस विकास, डिवाइस सत्यापन और IP परीक्षण का समर्थन करने वाला झांगजियांग में एक साझा इंटीग्रेटेड-सर्किट अनुसंधान और इंजीनियरिंग प्लेटफॉर्म। वेफर या परीक्षण रन के लिए तकनीकी स्कोपिंग समीक्षा और लिखित कोटेशन का अनुरोध करें। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई इंटीग्रेटेड सर्किट R&D सेंटर (Shanghai IC R&D Center) </entities/icrd>` (上海集成电路研发中心 · शोध केंद्र · चिप्स, हार्डवेयर AI) — प्रोसेस विकास, डिवाइस सत्यापन और IP परीक्षण का समर्थन करने वाला झांगजियांग में एक साझा इंटीग्रेटेड-सर्किट अनुसंधान और इंजीनियरिंग प्लेटफॉर्म। वेफर या परीक्षण रन के लिए तकनीकी स्कोपिंग समीक्षा और लिखित कोटेशन का अनुरोध करें। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:58
 msgid ""
@@ -341,7 +336,7 @@ msgid ""
 "industry-facing trial production, testing and scenario validation. Ask "
 "for compatibility, queue, sample ownership, safety responsibilities and a "
 "written service quotation. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`राष्ट्रीय-स्थानीय ह्यूमनॉइड रोबोट नवाचार केंद्र / पायलट उत्पादन प्लेटफॉर्म </entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · अनुसंधान प्लेटफॉर्म · हार्डवेयर AI, रोबोटिक्स, सेंसर) — केंद्र रोबोट डेटा संग्रह, प्रशिक्षण और वास्तविक परीक्षण को शंघाई इलेक्ट्रिक के साथ संचालित पायलट उत्पादन प्लेटफॉर्म से जोड़ता है। जुलाई 2026 की घोषणा में उद्योग के लिए परीक्षण उत्पादन और उपयोग-परिदृश्य सत्यापन सेवाएँ बताई गई हैं। अनुकूलता, प्रतीक्षा समय, नमूने के स्वामित्व, सुरक्षा जिम्मेदारियों और लिखित शुल्क की पुष्टि करें। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`राष्ट्रीय-स्थानीय ह्यूमनॉइड रोबोट नवाचार केंद्र / पायलट उत्पादन प्लेटफॉर्म </entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · शोध केंद्र · हार्डवेयर AI, रोबोटिक्स, सेंसर) — केंद्र रोबोट डेटा संग्रह, प्रशिक्षण और वास्तविक परीक्षण को शंघाई इलेक्ट्रिक के साथ संचालित पायलट उत्पादन प्लेटफॉर्म से जोड़ता है। जुलाई 2026 की घोषणा में उद्योग के लिए परीक्षण उत्पादन और उपयोग-परिदृश्य सत्यापन सेवाएँ बताई गई हैं। अनुकूलता, प्रतीक्षा समय, नमूने के स्वामित्व, सुरक्षा जिम्मेदारियों और लिखित शुल्क की पुष्टि करें। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:61
 msgid ""
@@ -382,7 +377,7 @@ msgid ""
 "entity, customs boundary, sector permissions and data handling before "
 "incurring costs. This is a service and collaboration route; the plan is "
 "not a cash-award offer. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`वाइगाओछियाओ बॉन्डेड R&D और AI-स्वास्थ्य नवाचार सेवाएँ </entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · अनुसंधान प्लेटफॉर्म · विज्ञान के लिए AI, स्वास्थ्य, हार्डवेयर AI, रोबोटिक्स) — 2025–2026 की योजना AI दवा खोज, सीमा-पार चिकित्सा उपकरण R&D, उन्नत उपकरण नवाचार और विदेशी-निवेशित R&D केंद्रों का स्पष्ट समर्थन करती है। विदेशी AI और हार्डवेयर कंपनियाँ स्थानीय शोध, परीक्षण और व्यावसायीकरण के लिए प्राधिकरण से संपर्क कर सकती हैं। खर्च से पहले संचालक, कानूनी इकाई, सीमा-शुल्क क्षेत्र, क्षेत्रीय अनुमतियाँ और डेटा नियम जाँचें। यह सेवा और सहयोग का मार्ग है, नकद पुरस्कार का प्रस्ताव नहीं। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`वाइगाओछियाओ बॉन्डेड R&D और AI-स्वास्थ्य नवाचार सेवाएँ </entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · शोध केंद्र · विज्ञान के लिए AI, स्वास्थ्य, हार्डवेयर AI, रोबोटिक्स) — 2025–2026 की योजना AI दवा खोज, सीमा-पार चिकित्सा उपकरण R&D, उन्नत उपकरण नवाचार और विदेशी-निवेशित R&D केंद्रों का स्पष्ट समर्थन करती है। विदेशी AI और हार्डवेयर कंपनियाँ स्थानीय शोध, परीक्षण और व्यावसायीकरण के लिए प्राधिकरण से संपर्क कर सकती हैं। खर्च से पहले संचालक, कानूनी इकाई, सीमा-शुल्क क्षेत्र, क्षेत्रीय अनुमतियाँ और डेटा नियम जाँचें। यह सेवा और सहयोग का मार्ग है, नकद पुरस्कार का प्रस्ताव नहीं। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:64
 msgid ""
@@ -392,7 +387,7 @@ msgid ""
 "autonomous maritime systems. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई मैरीटाइम यूनिवर्सिटी (Shanghai Maritime University) </entities/university-maritime>` (上海海事大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: शिपिंग, लॉजिस्टिक्स, स्वायत्त समुद्री प्रणालियां। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई मैरीटाइम यूनिवर्सिटी (Shanghai Maritime University) </entities/university-maritime>` (上海海事大学 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: शिपिंग, लॉजिस्टिक्स, स्वायत्त समुद्री प्रणालियां। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:65
 msgid ""
@@ -403,7 +398,7 @@ msgid ""
 "industrial control. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इलेक्ट्रिक पावर (Shanghai University of Electric Power) </entities/university-electric-power>` (上海电力大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: ऊर्जा प्रणालियां, ग्रिड इंटेलिजेंस, औद्योगिक नियंत्रण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इलेक्ट्रिक पावर (Shanghai University of Electric Power) </entities/university-electric-power>` (上海电力大学 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: ऊर्जा प्रणालियां, ग्रिड इंटेलिजेंस, औद्योगिक नियंत्रण। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:66
 msgid ""
@@ -414,7 +409,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ मेडिसिन एंड हेल्थ साइंसेज (SUMHS) </entities/university-sumhs>` (上海健康医学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: स्वास्थ्य उपकरण, निदान (diagnostics), क्लिनिकल अनुप्रयोग। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ मेडिसिन एंड हेल्थ साइंसेज (SUMHS) </entities/university-sumhs>` (上海健康医学院 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: स्वास्थ्य उपकरण, निदान (diagnostics), क्लिनिकल अनुप्रयोग। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:67
 msgid ""
@@ -424,7 +419,7 @@ msgid ""
 "smart agriculture. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई ओशन यूनिवर्सिटी (Shanghai Ocean University) </entities/university-ocean>` (上海海洋大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: समुद्री विज्ञान, जलीय कृषि (aquaculture), स्मार्ट कृषि। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई ओशन यूनिवर्सिटी (Shanghai Ocean University) </entities/university-ocean>` (上海海洋大学 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: समुद्री विज्ञान, जलीय कृषि (aquaculture), स्मार्ट कृषि। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:68
 msgid ""
@@ -434,7 +429,7 @@ msgid ""
 "themes: Healthcare, drug discovery, medical data. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ ट्रेडिशनल चाइनीज मेडिसिन (SHUTCM) </entities/university-tcm>` (上海中医药大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: हेल्थकेयर, दवा खोज (drug discovery), मेडिकल डेटा। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ ट्रेडिशनल चाइनीज मेडिसिन (SHUTCM) </entities/university-tcm>` (上海中医药大学 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: हेल्थकेयर, दवा खोज (drug discovery), मेडिकल डेटा। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:69
 msgid ""
@@ -444,7 +439,7 @@ msgid ""
 "processes, compliance systems. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई कस्टम्स यूनिवर्सिटी (Shanghai Customs University) </entities/university-customs>` (上海海关学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सीमा शुल्क, व्यापार प्रक्रियाएं, अनुपालन प्रणालियां। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई कस्टम्स यूनिवर्सिटी (Shanghai Customs University) </entities/university-customs>` (上海海关学院 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: सीमा शुल्क, व्यापार प्रक्रियाएं, अनुपालन प्रणालियां। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:70
 msgid ""
@@ -454,7 +449,7 @@ msgid ""
 "external project access unverified. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई पुलिस कॉलेज (Shanghai Police College) </entities/university-police>` (上海公安学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सार्वजनिक-सुरक्षा शिक्षा; बाहरी परियोजना पहुंच असत्यापित। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई पुलिस कॉलेज (Shanghai Police College) </entities/university-police>` (上海公安学院 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: सार्वजनिक-सुरक्षा शिक्षा; बाहरी परियोजना पहुंच असत्यापित। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:71
 msgid ""
@@ -465,7 +460,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`शंघाई लिशिन यूनिवर्सिटी ऑफ अकाउंटिंग एंड फाइनेंस (Lixin University) </entities/university-lixin>` (上海立信会计金融学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: लेखांकन प्रणालियां, फिनटेक, बिजनेस एनालिटिक्स। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई लिशिन यूनिवर्सिटी ऑफ अकाउंटिंग एंड फाइनेंस (Lixin University) </entities/university-lixin>` (上海立信会计金融学院 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: लेखांकन प्रणालियां, फिनटेक, बिजनेस एनालिटिक्स। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:72
 msgid ""
@@ -475,7 +470,7 @@ msgid ""
 "manufacturing. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई दियनजी विश्वविद्यालय (Shanghai DianJi University) </entities/university-dianji>` (上海电机学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: विद्युत उपकरण, उन्नत विनिर्माण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई दियनजी विश्वविद्यालय (Shanghai DianJi University) </entities/university-dianji>` (上海电机学院 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: विद्युत उपकरण, उन्नत विनिर्माण। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:73
 msgid ""
@@ -485,7 +480,7 @@ msgid ""
 "talent partnerships. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`सांडा विश्वविद्यालय (Sanda University) </entities/university-sanda>` (上海杉达学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त डिजिटल व्यवसाय और प्रतिभा साझेदारियां। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`सांडा विश्वविद्यालय (Sanda University) </entities/university-sanda>` (上海杉达学院 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: अनुप्रयुक्त डिजिटल व्यवसाय और प्रतिभा साझेदारियां। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:74
 msgid ""
@@ -495,7 +490,7 @@ msgid ""
 "engineering, electronics, manufacturing. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई पॉलिटेक्निक यूनिवर्सिटी (Shanghai Polytechnic University) </entities/university-polytechnic>` (上海第二工业大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त इंजीनियरिंग, इलेक्ट्रॉनिक्स, विनिर्माण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई पॉलिटेक्निक यूनिवर्सिटी (Shanghai Polytechnic University) </entities/university-polytechnic>` (上海第二工业大学 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: अनुप्रयुक्त इंजीनियरिंग, इलेक्ट्रॉनिक्स, विनिर्माण। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:75
 msgid ""
@@ -505,7 +500,7 @@ msgid ""
 "digital media, business. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई जियान कियाओ विश्वविद्यालय (Shanghai Jian Qiao University) </entities/university-jianqiao>` (上海建桥学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त इंजीनियरिंग, डिजिटल मीडिया, व्यवसाय। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई जियान कियाओ विश्वविद्यालय (Shanghai Jian Qiao University) </entities/university-jianqiao>` (上海建桥学院 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: अनुप्रयुक्त इंजीनियरिंग, डिजिटल मीडिया, व्यवसाय। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:76
 msgid ""
@@ -515,7 +510,7 @@ msgid ""
 "entrepreneurship conversations. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई शिंग वेई कॉलेज (Shanghai Xing Wei College) </entities/university-xingwei>` (上海兴伟学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अंतर-विषयक शिक्षा और उद्यमिता संवाद। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई शिंग वेई कॉलेज (Shanghai Xing Wei College) </entities/university-xingwei>` (上海兴伟学院 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: अंतर-विषयक शिक्षा और उद्यमिता संवाद। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:77
 msgid ""
@@ -525,7 +520,7 @@ msgid ""
 "scientific instruments, biotech. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाईटेक विश्वविद्यालय (ShanghaiTech University) </entities/university-shanghaitech>` (上海科技大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: चिप्स, सॉफ्टवेयर AI, वैज्ञानिक उपकरण, बायोटेक। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाईटेक विश्वविद्यालय (ShanghaiTech University) </entities/university-shanghaitech>` (上海科技大学 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: चिप्स, सॉफ्टवेयर AI, वैज्ञानिक उपकरण, बायोटेक। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:78
 msgid ""
@@ -535,11 +530,11 @@ msgid ""
 "international research. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`NYU शंघाई (NYU Shanghai) </entities/university-nyu>` (上海纽约大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: डेटा साइंस, कंप्यूटेशन और अंतर्राष्ट्रीय अनुसंधान। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`NYU शंघाई (NYU Shanghai) </entities/university-nyu>` (上海纽约大学 · विश्वविद्यालय) — यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: डेटा साइंस, कंप्यूटेशन और अंतर्राष्ट्रीय अनुसंधान। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/pudong.rst:80
 msgid "Funding routes"
-msgstr "फंडिंग मार्ग"
+msgstr "फंडिंग के विकल्प"
 
 #: ../../districts/pudong.rst:83
 msgid ""
@@ -548,7 +543,7 @@ msgid ""
 "equity) — Support rate and amount subject to applicable implementing "
 "rules. Status: Closed. Timing: Closed 31 Aug 2026, 16:00 China Standard "
 "Time."
-msgstr ":doc:`पुडोंग AI मॉडल और एजेंट अनुप्रयोग सहायता, 2026 </funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · प्रतिपूर्ति (Reimbursement) · कंपनी की हिस्सेदारी नहीं देनी होती) — सहायता दर और राशि लागू कार्यान्वयन नियमों के अधीन। स्थिति: आवेदन की समय-सीमा समाप्त। समय-सीमा: 31 अगस्त 2026, 16:00 चीन मानक समय पर बंद।"
+msgstr ":doc:`पुडोंग AI मॉडल और एजेंट अनुप्रयोग सहायता, 2026 </funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · खर्च की प्रतिपूर्ति · कंपनी की हिस्सेदारी नहीं देनी होती) — सहायता दर और राशि लागू कार्यान्वयन नियमों के अधीन। स्थिति: आवेदन की समय-सीमा समाप्त। समय-सीमा: 31 अगस्त 2026, 16:00 चीन मानक समय पर बंद।"
 
 #: ../../districts/pudong.rst:84
 msgid ""
@@ -556,7 +551,7 @@ msgid ""
 "investment · Negotiated equity) — Fund target RMB 2bn; first tranche RMB "
 "500m; individual cheque not established. Status: Fund announced; deal "
 "intake to confirm. Timing: Manager-led sourcing and due diligence."
-msgstr ":doc:`पुडोंग AI सीड फंड </funding/pudong-equity>` (浦东人工智能种子基金 · इक्विटी निवेश · बातचीत के अधीन इक्विटी) — फंड का लक्षित आकार 200 करोड़ RMB; पहली किस्त 50 करोड़ RMB; प्रति कंपनी निवेश की राशि की पुष्टि नहीं हुई है। स्थिति: फंड घोषित; निवेश प्रस्तावों की स्वीकृति की पुष्टि शेष। समय-सीमा: प्रबंधक-नेतृत्व वाली सोर्सिंग और ड्यू डिलिजेंस।"
+msgstr ":doc:`पुडोंग AI सीड फंड </funding/pudong-equity>` (浦东人工智能种子基金 · इक्विटी निवेश · हिस्सेदारी बातचीत से तय होगी) — फंड का लक्षित आकार 200 करोड़ RMB; पहली किस्त 50 करोड़ RMB; प्रति कंपनी निवेश की राशि की पुष्टि नहीं हुई है। स्थिति: फंड घोषित; निवेश प्रस्तावों की स्वीकृति की पुष्टि शेष। समय-सीमा: प्रबंधक-नेतृत्व वाली सोर्सिंग और ड्यू डिलिजेंस।"
 
 #: ../../districts/pudong.rst:85
 msgid ""
@@ -565,7 +560,7 @@ msgid ""
 "No equity) — Up to 100% of approved actual cost, capped at RMB 1m in each "
 "category; at most one year. Status: Quarterly scheme published; current "
 "intake to confirm. Timing: Quarterly claims; confirm the current batch."
-msgstr ":doc:`झांगजियांग AI टाउन कंप्यूट, मॉडल और कॉर्पस सहायता </funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · प्रतिपूर्ति (Reimbursement) · कंपनी की हिस्सेदारी नहीं देनी होती) — मंज़ूर वास्तविक लागत का अधिकतम 100%, हर श्रेणी में 10 लाख RMB तक; अधिकतम एक वर्ष। स्थिति: तिमाही योजना प्रकाशित; वर्तमान आवेदन की स्थिति की पुष्टि शेष। समय-सीमा: तिमाही दावे; वर्तमान बैच की पुष्टि करें।"
+msgstr ":doc:`झांगजियांग AI टाउन कंप्यूट, मॉडल और कॉर्पस सहायता </funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · खर्च की प्रतिपूर्ति · कंपनी की हिस्सेदारी नहीं देनी होती) — मंज़ूर वास्तविक लागत का अधिकतम 100%, हर श्रेणी में 10 लाख RMB तक; अधिकतम एक वर्ष। स्थिति: तिमाही आवेदन व्यवस्था; मौजूदा दौर की पुष्टि बाकी। समय-सीमा: तिमाही दावे; वर्तमान बैच की पुष्टि करें।"
 
 #: ../../districts/pudong.rst:86
 msgid ""
@@ -575,7 +570,7 @@ msgid ""
 "rent-free, then 2 years at half rent; separate housing and service terms. "
 "Status: Published service; current terms to confirm. Timing: Confirm "
 "current community admission and tenancy terms."
-msgstr ":doc:`लिन-गांग ज़ीरो क्यूब की सशर्त किराया सहायता </funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · गैर-नकद सेवाएँ · ऑफ़र में कोई इक्विटी नहीं बताई गई; शर्तों को सत्यापित करें) — पात्र कार्यालय: 3 वर्ष किराया माफ, अगले 2 वर्ष आधा किराया; आवास और सेवाओं की अलग शर्तें। स्थिति: प्रकाशित सेवा; वर्तमान शर्तों की पुष्टि शेष। समय-सीमा: मौजूदा प्रवेश और किरायेदारी शर्तों की पुष्टि करें।"
+msgstr ":doc:`लिन-गांग ज़ीरो क्यूब की सशर्त किराया सहायता </funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · सुविधाओं और सेवाओं के रूप में सहायता · घोषित शर्तों में हिस्सेदारी की माँग नहीं; अनुबंध जाँचें) — पात्र कार्यालय: 3 वर्ष किराया माफ, अगले 2 वर्ष आधा किराया; आवास और सेवाओं की अलग शर्तें। स्थिति: प्रकाशित सेवा; वर्तमान शर्तों की पुष्टि शेष। समय-सीमा: मौजूदा प्रवेश और किरायेदारी शर्तों की पुष्टि करें।"
 
 #: ../../districts/pudong.rst:87
 msgid ""
@@ -585,7 +580,7 @@ msgid ""
 "service costs; applicable caps and conditions require the implementing "
 "notice. Status: Published policy; implementing intake to confirm. Timing: "
 "Confirm current implementing notice and intake."
-msgstr ":doc:`लिन-गांग OPC AI उपकरण सेवा व्यय सहायता </funding/lingang-ai-tools>` (临港OPC人工智能工具服务费用支持 · प्रतिपूर्ति (Reimbursement) · अर्हकारी सार्वजनिक सहायता के लिए कोई इक्विटी नहीं) — पात्र AI उपकरण सेवा लागत का अधिकतम 80%; सीमा और शर्तें कार्यान्वयन नोटिस से तय होंगी। स्थिति: प्रकाशित नीति; कार्यान्वयन आवेदन की स्थिति की पुष्टि शेष। समय-सीमा: मौजूदा कार्यान्वयन निर्देश और आवेदन अवधि की पुष्टि करें।"
+msgstr ":doc:`लिन-गांग OPC AI उपकरण सेवा व्यय सहायता </funding/lingang-ai-tools>` (临港OPC人工智能工具服务费用支持 · खर्च की प्रतिपूर्ति · पात्र सरकारी सहायता में हिस्सेदारी नहीं देनी होती) — पात्र AI उपकरण सेवा लागत का अधिकतम 80%; सीमा और शर्तें कार्यान्वयन नोटिस से तय होंगी। स्थिति: नीति घोषित है; आवेदन का तरीका और समय पूछें। समय-सीमा: मौजूदा कार्यान्वयन निर्देश और आवेदन अवधि की पुष्टि करें।"
 
 #: ../../districts/pudong.rst:88
 msgid ""
@@ -595,7 +590,7 @@ msgid ""
 "qualifying AI-tool development and listing on major international "
 "open-source platforms. Status: Published policy; implementing intake to "
 "confirm. Timing: Confirm current implementing notice and intake."
-msgstr ":doc:`लिन-गांग OPC ओपन-सोर्स AI उपकरण विकास पुरस्कार </funding/lingang-open-source-ai>` (临港OPC开源AI工具开发奖励 · अनुदान (Grant) · अर्हकारी सार्वजनिक सहायता के लिए कोई इक्विटी नहीं) — पात्र AI उपकरण विकसित कर प्रमुख अंतरराष्ट्रीय ओपन-सोर्स प्लेटफॉर्म पर सूचीबद्ध करने पर सालाना अधिकतम 10 लाख RMB। स्थिति: प्रकाशित नीति; कार्यान्वयन आवेदन की स्थिति की पुष्टि शेष। समय-सीमा: मौजूदा कार्यान्वयन निर्देश और आवेदन अवधि की पुष्टि करें।"
+msgstr ":doc:`लिन-गांग OPC ओपन-सोर्स AI उपकरण विकास पुरस्कार </funding/lingang-open-source-ai>` (临港OPC开源AI工具开发奖励 · अनुदान · पात्र सरकारी सहायता में हिस्सेदारी नहीं देनी होती) — पात्र AI उपकरण विकसित कर प्रमुख अंतरराष्ट्रीय ओपन-सोर्स प्लेटफॉर्म पर सूचीबद्ध करने पर सालाना अधिकतम 10 लाख RMB। स्थिति: नीति घोषित है; आवेदन का तरीका और समय पूछें। समय-सीमा: मौजूदा कार्यान्वयन निर्देश और आवेदन अवधि की पुष्टि करें।"
 
 #: ../../districts/pudong.rst:89
 msgid ""
@@ -606,7 +601,7 @@ msgid ""
 "ceiling established. Status: Published policy; implementing intake to "
 "confirm. Timing: Policy through 31 December 2027; confirm the "
 "implementing call."
-msgstr ":doc:`पुदोंग विदेशी-निवेशित R&D और खुला नवाचार सहायता </funding/pudong-foreign-rd>` (浦东外资研发与开放创新支持 · अनुदान / बाजार पहुंच · अर्हकारी सार्वजनिक सहायता के लिए कोई इक्विटी नहीं) — लागू मान्यता और वित्तपोषण नियमों के अनुसार सशर्त R&D केंद्र सहायता; कोई समान नकद सीमा स्थापित नहीं। स्थिति: प्रकाशित नीति; कार्यान्वयन आवेदन की स्थिति की पुष्टि शेष। समय-सीमा: नीति 31 दिसंबर 2027 तक; कार्यान्वयन आवेदन नोटिस की पुष्टि करें।"
+msgstr ":doc:`पुदोंग विदेशी-निवेशित R&D और खुला नवाचार सहायता </funding/pudong-foreign-rd>` (浦东外资研发与开放创新支持 · अनुदान / बाजार पहुंच · पात्र सरकारी सहायता में हिस्सेदारी नहीं देनी होती) — लागू मान्यता और वित्तपोषण नियमों के अनुसार सशर्त R&D केंद्र सहायता; कोई समान नकद सीमा स्थापित नहीं। स्थिति: नीति घोषित है; आवेदन का तरीका और समय पूछें। समय-सीमा: नीति 31 दिसंबर 2027 तक; कार्यान्वयन आवेदन नोटिस की पुष्टि करें।"
 
 #: ../../districts/pudong.rst:91
 msgid ":doc:`Also compare citywide funding </funding>`"

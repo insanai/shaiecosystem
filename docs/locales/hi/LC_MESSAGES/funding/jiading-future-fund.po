@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -29,11 +29,6 @@ msgid "Fund announced; deal intake to confirm"
 msgstr "फंड घोषित; निवेश प्रस्तावों की स्वीकृति की पुष्टि शेष"
 
 #: ../../funding/jiading-future-fund.rst:8
-
-#| msgid ""
-#| "`Evidence S126 "
-#| "<https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading "
-#| "launches 800m-yuan future industry fund."
 msgid ""
 "`Evidence S129 "
 "<https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading "
@@ -52,7 +47,7 @@ msgstr "घोषित फंड का आकार 80 करोड़ RMB; �
 
 #: ../../funding/jiading-future-fund.rst:15
 msgid "Negotiated equity"
-msgstr "बातचीत के अधीन इक्विटी"
+msgstr "हिस्सेदारी बातचीत से तय होगी"
 
 #: ../../funding/jiading-future-fund.rst:17
 msgid "Eligibility and timing"
@@ -93,23 +88,23 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 
 #: ../../funding/jiading-future-fund.rst:33
 msgid "Confirm the manager, sector, stage and legal-entity fit."
-msgstr "प्रबंधक, क्षेत्र, चरण और कानूनी-इकाई की उपयुक्तता की पुष्टि करें।"
+msgstr "फंड मैनेजर, निवेश क्षेत्र, विकास चरण और कंपनी की पात्रता जाँचें।"
 
 #: ../../funding/jiading-future-fund.rst:35
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
-msgstr "डेक, कैप टेबल, प्रौद्योगिकी साक्ष्य, प्रगति (traction) और वित्तपोषण योजना जमा करें।"
+msgstr "पिच डेक, शेयरहोल्डिंग, तकनीकी नतीजे, कारोबारी प्रगति और फंडिंग योजना भेजें।"
 
 #: ../../funding/jiading-future-fund.rst:37
 msgid "Complete commercial, financial, technical and legal due diligence."
-msgstr "वाणिज्यिक, वित्तीय, तकनीकी और कानूनी ड्यू डिलिजेंस पूरा करें।"
+msgstr "कारोबार, वित्त, तकनीक और कानूनी मामलों की ड्यू डिलिजेंस पूरी करें।"
 
 #: ../../funding/jiading-future-fund.rst:39
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
-msgstr "टर्म शीट, निवेश समिति की शर्तों और अंतिम समझौतों की समीक्षा करें।"
+msgstr "टर्म शीट, निवेश समिति की शर्तें और अंतिम समझौते जाँचें।"
 
 #: ../../funding/jiading-future-fund.rst:41
 msgid ""

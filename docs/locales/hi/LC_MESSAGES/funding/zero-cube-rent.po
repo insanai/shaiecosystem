@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -22,7 +22,7 @@ msgstr "लिन-गांग ज़ीरो क्यूब की सशर�
 
 #: ../../funding/zero-cube-rent.rst:4
 msgid "In-kind services | Pudong"
-msgstr "गैर-नकद सेवाएँ | पुडोंग (Pudong)"
+msgstr "सुविधाओं और सेवाओं के रूप में सहायता | पुडोंग (Pudong)"
 
 #: ../../funding/zero-cube-rent.rst:6
 msgid "Published service; current terms to confirm"
@@ -47,7 +47,7 @@ msgstr "पात्र कार्यालय: 3 वर्ष किराय
 
 #: ../../funding/zero-cube-rent.rst:15
 msgid "No equity stated in offer; verify terms"
-msgstr "ऑफ़र में कोई इक्विटी नहीं बताई गई; शर्तों को सत्यापित करें"
+msgstr "घोषित शर्तों में हिस्सेदारी की माँग नहीं; अनुबंध जाँचें"
 
 #: ../../funding/zero-cube-rent.rst:17
 msgid "Eligibility and timing"
@@ -89,24 +89,24 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 
 #: ../../funding/zero-cube-rent.rst:33
 msgid "Send a project brief and request the current admission checklist."
-msgstr "परियोजना का संक्षिप्त विवरण भेजें और वर्तमान प्रवेश चेकलिस्ट का अनुरोध करें।"
+msgstr "परियोजना का संक्षिप्त परिचय भेजें और मौजूदा प्रवेश शर्तें व दस्तावेज़ सूची माँगें।"
 
 #: ../../funding/zero-cube-rent.rst:35
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "संचालक की पात्रता और तकनीकी या वाणिज्यिक समीक्षा पूरी करें।"
+msgstr "संचालक की पात्रता जाँच और तकनीकी या व्यावसायिक समीक्षा पूरी करें।"
 
 #: ../../funding/zero-cube-rent.rst:37
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "किराया, सेवा शुल्क, IP, कंप्यूट मूल्य निर्धारण और किसी भी इक्विटी अधिकार की लिखित रूप में पुष्टि करें।"
+msgstr "किराया, सेवा शुल्क, IP, कंप्यूट दरें और हिस्सेदारी संबंधी अधिकार लिखित रूप में तय करें।"
 
 #: ../../funding/zero-cube-rent.rst:39
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "सहमत प्रवेश दस्तावेजों पर हस्ताक्षर करें और मील के पत्थर तथा सहायता प्रभारियों को दर्ज करें।"
+msgstr "प्रवेश के समझौतों पर हस्ताक्षर करें और अगले लक्ष्य व ज़िम्मेदार व्यक्ति दर्ज करें।"
 
 #: ../../funding/zero-cube-rent.rst:41
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -22,18 +22,13 @@ msgstr "फेंगशियान R&D व्यय वृद्धि प्�
 
 #: ../../funding/fengxian-rd-increase.rst:4
 msgid "Reimbursement | Fengxian"
-msgstr "प्रतिपूर्ति (Reimbursement) | फेंगशियान (Fengxian)"
+msgstr "खर्च की प्रतिपूर्ति | फेंगशियान (Fengxian)"
 
 #: ../../funding/fengxian-rd-increase.rst:6
 msgid "Closed"
 msgstr "आवेदन की समय-सीमा समाप्त"
 
 #: ../../funding/fengxian-rd-increase.rst:8
-
-#| msgid ""
-#| "`Evidence S122 "
-#| "<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. "
-#| "奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
 msgid ""
 "`Evidence S125 "
 "<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. "
@@ -47,7 +42,7 @@ msgstr "राशि और तंत्र"
 #: ../../funding/fengxian-rd-increase.rst:13
 msgid ""
 "30% of the qualifying annual R&D net increase, capped at RMB 1 million"
-msgstr "अर्हकारी वार्षिक R&D शुद्ध वृद्धि का 30%, RMB 1 मिलियन पर सीमित"
+msgstr "पात्र वार्षिक R&D शुद्ध वृद्धि का 30%, RMB 1 मिलियन पर सीमित"
 
 #: ../../funding/fengxian-rd-increase.rst:15
 msgid "No equity"
@@ -94,25 +89,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Confirm the actual category, area boundary, supplier and eligible "
 "expenditure period."
-msgstr "वास्तविक श्रेणी, क्षेत्र सीमा, आपूर्तिकर्ता और पात्र व्यय अवधि की पुष्टि करें।"
+msgstr "वाउचर का प्रकार, दायरा, सेवा प्रदाता और खर्च की पात्र अवधि जाँचें।"
 
 #: ../../funding/fengxian-rd-increase.rst:35
 msgid ""
 "Keep service contracts, invoices, payment evidence and itemized usage "
 "logs."
-msgstr "सेवा अनुबंध, चालान, भुगतान साक्ष्य और मदवार उपयोग लॉग रखें।"
+msgstr "सेवा अनुबंध, बिल, भुगतान प्रमाण और उपयोग का विस्तृत रिकॉर्ड रखें।"
 
 #: ../../funding/fengxian-rd-increase.rst:37
 msgid ""
 "Use the named platform and current batch; obtain the required district or "
 "operator review."
-msgstr "नामित प्लेटफॉर्म और वर्तमान बैच का उपयोग करें; आवश्यक जिला या संचालक समीक्षा प्राप्त करें।"
+msgstr "निर्दिष्ट पोर्टल पर सही दौर में आवेदन करें और आवश्यक ज़िला या संचालक समीक्षा पूरी करें।"
 
 #: ../../funding/fengxian-rd-increase.rst:39
 msgid ""
 "Check approved amount, duplicate-funding exclusions and payment "
 "conditions."
-msgstr "स्वीकृत राशि, दोहरे-फंडिंग बहिष्करण और भुगतान शर्तों की जाँच करें।"
+msgstr "मंज़ूर राशि, दोहरी सहायता की पाबंदी और भुगतान की शर्तें जाँचें।"
 
 #: ../../funding/fengxian-rd-increase.rst:41
 msgid ""

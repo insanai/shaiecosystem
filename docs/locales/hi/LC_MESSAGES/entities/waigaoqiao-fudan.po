@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -88,7 +88,7 @@ msgstr "मानचित्र स्थिति जिला या कै�
 
 #: ../../entities/waigaoqiao-fudan.rst:30
 msgid "Application workflow"
-msgstr "आवेदन कार्यप्रणाली"
+msgstr "आवेदन प्रक्रिया"
 
 #: ../../entities/waigaoqiao-fudan.rst:33
 msgid ""
@@ -100,23 +100,23 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Find the relevant research group and state the scientific or industrial "
 "problem."
-msgstr "प्रासंगिक अनुसंधान समूह खोजें और वैज्ञानिक या औद्योगिक समस्या बताएं।"
+msgstr "सही शोध टीम खोजें और वैज्ञानिक या औद्योगिक समस्या स्पष्ट करें।"
 
 #: ../../entities/waigaoqiao-fudan.rst:37
 msgid ""
 "Send a short proposal covering data, equipment, outputs, funding and "
 "timescale."
-msgstr "डेटा, उपकरण, आउटपुट, फंडिंग और समय-सीमा को कवर करने वाला एक संक्षिप्त प्रस्ताव भेजें।"
+msgstr "डेटा, उपकरण, अपेक्षित नतीजे, बजट और समय-सारणी की संक्षिप्त योजना भेजें।"
 
 #: ../../entities/waigaoqiao-fudan.rst:39
 msgid ""
 "Agree the collaboration route, publication, IP and institutional "
 "authorization."
-msgstr "सहयोग मार्ग, प्रकाशन, IP और संस्थागत प्राधिकरण पर सहमति बनाएं।"
+msgstr "सहयोग, प्रकाशन, IP और संस्थान की मंज़ूरी की शर्तें तय करें।"
 
 #: ../../entities/waigaoqiao-fudan.rst:41
 msgid "Obtain written access or project approval before beginning the work."
-msgstr "काम शुरू करने से पहले लिखित पहुंच या परियोजना अनुमोदन प्राप्त करें।"
+msgstr "काम शुरू करने से पहले उपयोग की लिखित अनुमति या परियोजना की मंज़ूरी लें।"
 
 #: ../../entities/waigaoqiao-fudan.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"

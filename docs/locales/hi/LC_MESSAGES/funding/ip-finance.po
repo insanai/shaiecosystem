@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -29,10 +29,6 @@ msgid "2026 directory published; lender review"
 msgstr "2026 निर्देशिका प्रकाशित; ऋणदाता समीक्षा"
 
 #: ../../funding/ip-finance.rst:8
-
-#| msgid ""
-#| "`Evidence S112 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
-#| "知识产权金融服务平台_上海市知识产权局."
 msgid ""
 "`Evidence S115 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
 "知识产权金融服务平台_上海市知识产权局."
@@ -48,7 +44,7 @@ msgstr "बैंक और उत्पाद-विशिष्ट ऋण, ब
 
 #: ../../funding/ip-finance.rst:15
 msgid "No equity; product obligations apply"
-msgstr "कोई इक्विटी नहीं; उत्पाद दायित्व लागू होते हैं"
+msgstr "हिस्सेदारी नहीं देनी होती; उत्पाद की शर्तें लागू"
 
 #: ../../funding/ip-finance.rst:17
 msgid "Eligibility and timing"
@@ -91,25 +87,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Select the current bank or public guarantee product and check borrower "
 "eligibility."
-msgstr "वर्तमान बैंक या सार्वजनिक गारंटी उत्पाद चुनें और उधारकर्ता पात्रता की जाँच करें।"
+msgstr "मौजूदा बैंक या सार्वजनिक गारंटी योजना चुनें और उधार लेने की पात्रता जाँचें।"
 
 #: ../../funding/ip-finance.rst:35
 msgid ""
 "Prepare accounts, cash-flow forecast, ownership and requested security "
 "documents."
-msgstr "खाते, नकदी-प्रवाह पूर्वानुमान, स्वामित्व और मांगे गए सुरक्षा दस्तावेज तैयार करें।"
+msgstr "वित्तीय विवरण, नकदी प्रवाह का अनुमान, शेयरहोल्डिंग और ज़रूरी गारंटी के दस्तावेज़ तैयार करें।"
 
 #: ../../funding/ip-finance.rst:37
 msgid ""
 "Complete lender and guarantee assessment; compare all costs and repayment "
 "terms."
-msgstr "ऋणदाता और गारंटी मूल्यांकन पूरा करें; सभी लागतों और पुनर्भुगतान शर्तों की तुलना करें।"
+msgstr "ऋण व गारंटी मूल्यांकन पूरा करें और कुल लागत व भुगतान की शर्तों की तुलना करें।"
 
 #: ../../funding/ip-finance.rst:39
 msgid ""
 "Sign and track debt service; claim interest support only if independently "
 "eligible."
-msgstr "हस्ताक्षर करें और ऋण सेवा को ट्रैक करें; ब्याज सहायता का दावा तभी करें जब स्वतंत्र रूप से पात्र हों।"
+msgstr "अनुबंध के बाद समय पर भुगतान करें। ब्याज सहायता के लिए अलग पात्रता पूरी करनी होगी।"
 
 #: ../../funding/ip-finance.rst:41
 msgid ""

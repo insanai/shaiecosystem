@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -22,11 +22,11 @@ msgstr "STEFG यंग ईगल प्लान (Young Eagle Plan)"
 
 #: ../../funding/stefg-loan.rst:4
 msgid "Loan | Citywide / global"
-msgstr "ऋण (Loan) | शहर-व्यापी / वैश्विक"
+msgstr "ऋण | शहर-व्यापी / वैश्विक"
 
 #: ../../funding/stefg-loan.rst:6
 msgid "Program published; eligibility review"
-msgstr "कार्यक्रम प्रकाशित; पात्रता समीक्षा"
+msgstr "कार्यक्रम घोषित है; पात्रता की जाँच होगी"
 
 #: ../../funding/stefg-loan.rst:8
 msgid "`Evidence S043 <https://fund.stefg.org/Angel/Intro.aspx>`_. 创业基金会."
@@ -85,24 +85,24 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Read the foundation's current eligibility rules and choose loan or "
 "temporary equity."
-msgstr "फाउंडेशन के वर्तमान पात्रता नियम पढ़ें और ऋण या अस्थायी इक्विटी चुनें।"
+msgstr "फाउंडेशन की मौजूदा पात्रता पढ़ें और ऋण या अस्थायी हिस्सेदारी का विकल्प चुनें।"
 
 #: ../../funding/stefg-loan.rst:35
 msgid ""
 "Identify a receiving branch and submit the prescribed founder and project "
 "documents."
-msgstr "प्राप्तकर्ता शाखा की पहचान करें और निर्धारित संस्थापक तथा परियोजना दस्तावेज जमा करें।"
+msgstr "संबंधित शाखा से पुष्टि करके संस्थापक व परियोजना के दस्तावेज़ भेजें।"
 
 #: ../../funding/stefg-loan.rst:37
 msgid ""
 "Complete review and examine repayment, founder funding and exit "
 "obligations."
-msgstr "समीक्षा पूरी करें और पुनर्भुगतान, संस्थापक फंडिंग तथा एग्जिट दायित्वों की जाँच करें।"
+msgstr "समीक्षा पूरी करें और भुगतान, स्वयं के अंशदान तथा हिस्सेदारी वापसी की शर्तें समझें।"
 
 #: ../../funding/stefg-loan.rst:39
 msgid ""
 "Sign the correct agreement and track the full three-year obligations."
-msgstr "सही समझौते पर हस्ताक्षर करें और पूरे तीन-वर्षीय दायित्वों को ट्रैक करें।"
+msgstr "संबंधित समझौते पर हस्ताक्षर करें और तीन साल की सभी ज़िम्मेदारियाँ निभाएँ।"
 
 #: ../../funding/stefg-loan.rst:41
 msgid ""

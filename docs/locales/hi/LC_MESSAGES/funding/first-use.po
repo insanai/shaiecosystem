@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,14 +26,9 @@ msgstr "अनुदान / बाजार पहुंच | शहर-व्�
 
 #: ../../funding/first-use.rst:6
 msgid "Published route; current call to confirm"
-msgstr "प्रकाशित मार्ग; मौजूदा आवेदन आमंत्रण की पुष्टि शेष"
+msgstr "सहायता का विकल्प घोषित; ताज़ा आवेदन सूचना जाँचें"
 
 #: ../../funding/first-use.rst:8
-
-#| msgid ""
-#| "`Evidence S113 "
-#| "<https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. "
-#| "市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
 msgid ""
 "`Evidence S116 "
 "<https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. "
@@ -50,7 +45,7 @@ msgstr "कार्यक्रम-विशिष्ट; कोई साम�
 
 #: ../../funding/first-use.rst:15
 msgid "No equity for qualifying public support"
-msgstr "अर्हकारी सार्वजनिक सहायता के लिए कोई इक्विटी नहीं"
+msgstr "पात्र सरकारी सहायता में हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/first-use.rst:17
 msgid "Eligibility and timing"
@@ -61,7 +56,7 @@ msgid ""
 "Shanghai policy identifies these routes for qualifying specialized SMEs "
 "and new products. Recognition, insurance compensation, procurement and "
 "R&D support are separate mechanisms; obtain the current call."
-msgstr "शंघाई नीति अर्हकारी विशेषीकृत SMEs और नए उत्पादों के लिए इन मार्गों की पहचान करती है। मान्यता, बीमा मुआवजा, खरीद और R&D सहायता अलग-अलग तंत्र हैं; मौजूदा आवेदन आमंत्रण प्राप्त करें।"
+msgstr "शंघाई नीति पात्र विशेषीकृत SMEs और नए उत्पादों के लिए इन मार्गों की पहचान करती है। मान्यता, बीमा मुआवजा, खरीद और R&D सहायता अलग-अलग तंत्र हैं; मौजूदा आवेदन आमंत्रण प्राप्त करें।"
 
 #: ../../funding/first-use.rst:22
 msgid "Track-specific notices"
@@ -92,25 +87,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+msgstr "तारीख वाली आधिकारिक सूचना पढ़ें और ज़िला, आवेदक, कारोबार व खर्च की अवधि की शर्तें जाँचें।"
 
 #: ../../funding/first-use.rst:35
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+msgstr "ज़रूरी दस्तावेज़ तैयार करें और जहाँ माँगी गई हो, संस्थान या ज़िले की सिफारिश लें।"
 
 #: ../../funding/first-use.rst:37
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+msgstr "अंतिम तारीख से पहले आधिकारिक पोर्टल पर आवेदन करें और रसीद सँभालें।"
 
 #: ../../funding/first-use.rst:39
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+msgstr "सूचना के अनुसार समीक्षा, मंज़ूरी, रिपोर्ट, अंतिम स्वीकृति और भुगतान की प्रक्रिया पूरी करें।"
 
 #: ../../funding/first-use.rst:41
 msgid ""

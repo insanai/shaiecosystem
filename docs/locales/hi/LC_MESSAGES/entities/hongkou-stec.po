@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -91,7 +91,7 @@ msgstr "मानचित्र स्थिति जिला या कै�
 
 #: ../../entities/hongkou-stec.rst:32
 msgid "Application workflow"
-msgstr "आवेदन कार्यप्रणाली"
+msgstr "आवेदन प्रक्रिया"
 
 #: ../../entities/hongkou-stec.rst:35
 msgid ""
@@ -101,24 +101,24 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 
 #: ../../entities/hongkou-stec.rst:37
 msgid "Send a project brief and request the current admission checklist."
-msgstr "परियोजना का संक्षिप्त विवरण भेजें और वर्तमान प्रवेश चेकलिस्ट का अनुरोध करें।"
+msgstr "परियोजना का संक्षिप्त परिचय भेजें और मौजूदा प्रवेश शर्तें व दस्तावेज़ सूची माँगें।"
 
 #: ../../entities/hongkou-stec.rst:39
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "संचालक की पात्रता और तकनीकी या वाणिज्यिक समीक्षा पूरी करें।"
+msgstr "संचालक की पात्रता जाँच और तकनीकी या व्यावसायिक समीक्षा पूरी करें।"
 
 #: ../../entities/hongkou-stec.rst:41
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "किराया, सेवा शुल्क, IP, कंप्यूट मूल्य निर्धारण और किसी भी इक्विटी अधिकार की लिखित रूप में पुष्टि करें।"
+msgstr "किराया, सेवा शुल्क, IP, कंप्यूट दरें और हिस्सेदारी संबंधी अधिकार लिखित रूप में तय करें।"
 
 #: ../../entities/hongkou-stec.rst:43
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "सहमत प्रवेश दस्तावेजों पर हस्ताक्षर करें और मील के पत्थर तथा सहायता प्रभारियों को दर्ज करें।"
+msgstr "प्रवेश के समझौतों पर हस्ताक्षर करें और अगले लक्ष्य व ज़िम्मेदार व्यक्ति दर्ज करें।"
 
 #: ../../entities/hongkou-stec.rst:45
 msgid ":doc:`Hongkou district route </districts/hongkou>`"

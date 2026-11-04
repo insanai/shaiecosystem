@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -84,7 +84,7 @@ msgstr "मानचित्र स्थिति जिला या कै�
 
 #: ../../entities/droidup.rst:30
 msgid "Application workflow"
-msgstr "आवेदन कार्यप्रणाली"
+msgstr "आवेदन प्रक्रिया"
 
 #: ../../entities/droidup.rst:33
 msgid ""
@@ -94,25 +94,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 
 #: ../../entities/droidup.rst:35
 msgid "Identify the corporate business owner and one measurable use case."
-msgstr "कॉर्पोरेट व्यवसाय स्वामी और एक मापने योग्य उपयोग परिदृश्य (use case) की पहचान करें।"
+msgstr "कंपनी के संबंधित कारोबार की ज़िम्मेदार टीम और मापने योग्य उपयोग का मामला तय करें।"
 
 #: ../../entities/droidup.rst:37
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
-msgstr "उत्पाद विवरण, पायलट साक्ष्य और प्रासंगिक तकनीकी आवश्यकताएं जमा करें।"
+msgstr "उत्पाद परिचय, पायलट के नतीजे और तकनीकी ज़रूरतें भेजें।"
 
 #: ../../entities/droidup.rst:39
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
-msgstr "बैच (cohort) की उपलब्धता की पुष्टि करें या निर्धारित पायलट, डेटा अधिकारों और IP शर्तों पर सहमति बनाएं।"
+msgstr "पूछें कि कार्यक्रम आवेदन ले रहा है या नहीं; या अलग पायलट के दायरे, डेटा अधिकार और IP पर सहमति बनाएँ।"
 
 #: ../../entities/droidup.rst:41
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
-msgstr "खरीद, भुगतान, स्वीकृति और उत्पादन निर्णय की अलग से समीक्षा करें।"
+msgstr "खरीद, भुगतान, स्वीकृति और नियमित उपयोग के फैसले की अलग-अलग जाँच करें।"
 
 #: ../../entities/droidup.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"

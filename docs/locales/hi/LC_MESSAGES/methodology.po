@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 10:45+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -18,18 +18,18 @@ msgstr ""
 
 #: ../../methodology.rst:1
 msgid "How to read the evidence"
-msgstr "साक्ष्य को कैसे पढ़ें"
+msgstr "स्रोत और शोध पद्धति"
 
 #: ../../methodology.rst:4
 msgid ""
 "A useful directory makes uncertainty inspectable. We link each source "
 "near its claim and maintain one shared research record for all seven "
 "language editions."
-msgstr "उपयोगी गाइड अनिश्चित जानकारी को स्पष्ट करती है। हम हर दावे के पास उसका स्रोत देते हैं और सभी सात भाषाओं के लिए एक साझा शोध रिकॉर्ड रखते हैं।"
+msgstr "उपयोगी गाइड यह भी बताती है कि किस जानकारी की पुष्टि अभी बाकी है। हर दावे के साथ स्रोत दिया गया है और सातों भाषा संस्करण एक ही शोध रिकॉर्ड का उपयोग करते हैं।"
 
 #: ../../methodology.rst:6
 msgid "Research and translation"
-msgstr "अनुसंधान और अनुवाद"
+msgstr "शोध और अनुवाद"
 
 #: ../../methodology.rst:9
 msgid ""
@@ -38,7 +38,7 @@ msgid ""
 "operators. The Ministry of Education register supplies institutional "
 "scope. Sources are linked, not copied wholesale. Search discovery alone "
 "is weaker than a program's own current notice."
-msgstr "हमने नगर निगम और जिला प्राधिकरणों, आधिकारिक विश्वविद्यालय पृष्ठों और कार्यक्रम संचालकों को प्राथमिकता देते हुए अंग्रेजी और सरलीकृत चीनी स्रोतों की खोज की। शिक्षा मंत्रालय का रजिस्टर संस्थागत दायरा प्रदान करता है। स्रोतों को लिंक किया गया है, पूरी तरह से कॉपी नहीं किया गया है। केवल सर्च इंजन से मिली जानकारी किसी कार्यक्रम की स्वयं की वर्तमान सूचना की तुलना में कमज़ोर होती है।"
+msgstr "हमने अंग्रेज़ी और सरलीकृत चीनी में शोध किया और शहर व ज़िला प्रशासन, विश्वविद्यालयों तथा कार्यक्रम संचालकों के स्रोतों को प्राथमिकता दी। संस्थानों का दायरा शिक्षा मंत्रालय की सूची से तय हुआ है। स्रोतों के लिंक दिए गए हैं, पूरे लेख नहीं दोहराए गए हैं। खोज परिणाम किसी कार्यक्रम की ताज़ा आधिकारिक अधिसूचना का विकल्प नहीं है।"
 
 #: ../../methodology.rst:11
 msgid ""
@@ -47,7 +47,7 @@ msgid ""
 "retain old pages. Current validity, open intake, available capacity and a "
 "responsive contact are separate facts. We do not label an opportunity "
 "open without a dated supporting notice."
-msgstr "स्रोत-पहुंच तिथि हमारे शोध सत्र को दर्ज करती है, न कि निरंतर निगरानी के वादे को। कुछ आधिकारिक साइटें स्वचालित पहुंच को अवरुद्ध करती हैं या पुराने पृष्ठों को बनाए रखती हैं। वर्तमान वैधता, खुला प्रवेश, उपलब्ध क्षमता और उत्तरदायी संपर्क अलग-अलग तथ्य हैं। हम बिना किसी दिनांकित सहायक सूचना के किसी अवसर को 'खुला' (open) लेबल नहीं करते हैं।"
+msgstr "स्रोत देखने की तारीख उस जाँच का रिकॉर्ड है, लगातार निगरानी का वादा नहीं। कुछ आधिकारिक वेबसाइटें स्वचालित पहुँच रोकती हैं या पुराने पन्ने रखती हैं। नीति लागू होना, आवेदन खुले होना, जगह उपलब्ध होना और संपर्क का जवाब देना अलग बातें हैं। तारीख वाली पुष्टि के बिना किसी अवसर को खुला नहीं बताया जाता।"
 
 #: ../../methodology.rst:13
 msgid ""
@@ -56,20 +56,28 @@ msgid ""
 "edition translates the editorial text, interface and research records; "
 "third-party source pages retain their original language. A linked Chinese "
 "policy controls over our English summary."
-msgstr "खोज और संपर्क के लिए चीनी संगठन के नाम बरकरार रखे गए हैं। वर्णनात्मक अंग्रेजी नाम संपादकीय अनुवाद हो सकते हैं। चीनी संस्करण संपादकीय पाठ, इंटरफ़ेस और शोध रिकॉर्ड का अनुवाद करता है; तृतीय-पक्ष स्रोत पृष्ठ अपनी मूल भाषा बनाए रखते हैं। लिंक की गई चीनी नीति हमारे अंग्रेजी सारांश पर प्रभावी होती है।"
+msgstr "खोज और संपर्क आसान बनाने के लिए संस्थानों के चीनी नाम रखे गए हैं। कुछ वर्णनात्मक अंग्रेज़ी नाम संपादकीय अनुवाद हैं। चीनी संस्करण मेंमुख्य पाठ, इंटरफ़ेस और शोध रिकॉर्ड का अनुवाद है, जबकि तीसरे पक्ष के स्रोत मूल भाषा में हैं। चीनी नीति का मूल पाठ अंग्रेज़ी सारांश से अधिक प्रामाणिक है।"
 
 #: ../../methodology.rst:15
 msgid "Contacts, workflows and map locations"
-msgstr "संपर्क, कार्यप्रणाली और मानचित्र स्थान"
+msgstr "संपर्क, आवेदन और मानचित्र"
 
 #: ../../methodology.rst:18
+
+#| msgid ""
+#| "Published phone numbers and email addresses are attributed to their "
+#| "source. A general university switchboard is identified as such. Where "
+#| "a direct contact is not established, the record gives the official "
+#| "website or authority route and explicitly requests a named receiving "
+#| "team. We did not contact organizations or submit applications."
 msgid ""
-"Published phone numbers and email addresses are attributed to their "
-"source. A general university switchboard is identified as such. Where a "
-"direct contact is not established, the record gives the official website "
-"or authority route and explicitly requests a named receiving team. We did "
-"not contact organizations or submit applications."
-msgstr "प्रकाशित फोन नंबर और ईमेल पते उनके स्रोत को समर्पित हैं। सामान्य विश्वविद्यालय स्विचबोर्ड को उसी रूप में पहचाना गया है। जहां सीधा संपर्क स्थापित नहीं है, वहां रिकॉर्ड आधिकारिक वेबसाइट या प्राधिकरण मार्ग देता है और स्पष्ट रूप से नामित प्राप्तकर्ता टीम का अनुरोध करने को कहता है। हमने संगठनों से संपर्क नहीं किया और न ही आवेदन जमा किए।"
+"Published telephone numbers are attributed to their sources, and general "
+"university switchboards are identified. Where a direct contact is "
+"unverified, we provide an official website or authority and suggest "
+"asking for the responsible team. We have not contacted organizations or "
+"submitted applications on readers' behalf. Email addresses are not "
+"published."
+msgstr "सार्वजनिक फोन नंबरों के स्रोत दिए गए हैं और विश्वविद्यालय का सामान्य फोन उसी रूप में बताया गया है। सीधे संपर्क की पुष्टि न होने पर आधिकारिक वेबसाइट या विभाग का रास्ता दिया जाता है, जहाँ संबंधित टीम पूछी जा सकती है। हमने संस्थानों से संपर्क या उनकी ओर से आवेदन नहीं किया है। ईमेल पते प्रकाशित नहीं किए जाते।"
 
 #: ../../methodology.rst:20
 msgid ""
@@ -78,11 +86,11 @@ msgid ""
 "locate an ecosystem, not a verified entrance. Even street-based plotted "
 "points are approximate. The district boundaries are an illustrative DataV "
 "dataset, with no claim to survey, legal-boundary or navigation accuracy."
-msgstr "जब तक कोई रिकॉर्ड किसी सूचना-विशिष्ट प्रक्रिया का हवाला नहीं देता, तब तक आवेदन कार्यप्रणालियों (workflows) को संपादकीय चेकलिस्ट के रूप में लेबल किया जाता है। कैंपस और जिला एंकर किसी सत्यापित प्रवेश द्वार के बजाय इकोसिस्टम का स्थान दर्शाते हैं। यहां तक कि सड़क-आधारित प्लॉट किए गए बिंदु भी अनुमानित हैं। जिला सीमाएं एक उदाहरणात्मक DataV डेटासेट हैं, जो सर्वेक्षण, कानूनी-सीमा या नेविगेशन सटीकता का कोई दावा नहीं करती हैं।"
+msgstr "जब किसी अधिसूचना की खास प्रक्रिया का उल्लेख न हो, आवेदन के चरण हमारी संदर्भ सूची हैं। परिसर और ज़िले के संदर्भ बिंदु केवल संसाधनों का स्थान बताते हैं, सत्यापित प्रवेश द्वार नहीं। सड़क के आधार पर लगाए बिंदु भी अनुमानित हो सकते हैं। DataV की ज़िला सीमाएँ केवल संकेत हैं; सर्वेक्षण, कानूनी सीमा या नेविगेशन के लिए नहीं।"
 
 #: ../../methodology.rst:22
 msgid "Known gaps and responsible upkeep"
-msgstr "ज्ञात अंतराल और जिम्मेदार रखरखाव"
+msgstr "क्या बाकी है और कैसे अपडेट करें"
 
 #: ../../methodology.rst:25
 msgid ""
@@ -91,7 +99,7 @@ msgid ""
 "we could not establish as open. Several universities have no verified "
 "external startup program in this edition. Their institutional entry is "
 "included without inventing an accelerator or grant."
-msgstr "कवरेज व्यापक है लेकिन संपूर्ण नहीं है। कई निजी इनक्यूबेटर कोई वर्तमान शर्तें प्रकाशित नहीं करते हैं। कुछ जिला नियमों के लिए वर्तमान वार्षिक सूचना की आवश्यकता होती है जिसे हम खुले के रूप में स्थापित नहीं कर सके। इस संस्करण में कई विश्वविद्यालयों का कोई सत्यापित बाहरी स्टार्टअप कार्यक्रम नहीं है। बिना किसी एक्सेलेरेटर या अनुदान का आविष्कार किए उनकी संस्थागत प्रविष्टि शामिल की गई है।"
+msgstr "दायरा व्यापक है, लेकिन पूरी सूची का दावा नहीं है। कई निजी इनक्यूबेटर मौजूदा शर्तें सार्वजनिक नहीं करते। कुछ ज़िला नीतियों के लिए ताज़ा वार्षिक अधिसूचना चाहिए, जिसकी खुली आवेदन स्थिति की पुष्टि नहीं हुई। जिन विश्वविद्यालयों का बाहरी स्टार्टअप कार्यक्रम पुष्ट नहीं है, उनके संस्थागत संपर्क दिए गए हैं; कोई काल्पनिक एक्सेलेरेटर या अनुदान नहीं जोड़ा गया।"
 
 #: ../../methodology.rst:27
 msgid ""
@@ -100,7 +108,7 @@ msgid ""
 "profiles, suggested thematic fit and office-routing questions are "
 "editorial guidance rather than a verified inventory of laboratories, "
 "contacts or available awards."
-msgstr "रजिस्ट्री में 29 डिप्लोमा कॉलेज और 12 वयस्क संस्थान शामिल हैं, प्रत्येक के लिए कार्यक्रम-स्तरीय शोध का दावा किए बिना। विश्वविद्यालय प्रोफाइल के लिए, सुझाए गए विषयगत मिलान और कार्यालय-मार्गदर्शन प्रश्न संपादकीय मार्गदर्शन हैं, न कि प्रयोगशालाओं, संपर्कों या उपलब्ध पुरस्कारों की सत्यापित सूची।"
+msgstr "सूची में 29 डिप्लोमा कॉलेज और 12 प्रौढ़ उच्च शिक्षा संस्थान हैं, लेकिन हर संस्थान के कार्यक्रमों का अलग शोध पूरा होने का दावा नहीं है। विश्वविद्यालय प्रोफाइल में विषय और संपर्क विभाग के सुझाव संपादकीय हैं, उपलब्ध लैब, संपर्क व्यक्ति या अनुदान की पुष्ट सूची नहीं।"
 
 #: ../../methodology.rst:29
 msgid ""
@@ -110,7 +118,7 @@ msgid ""
 "claims with their historical status instead of silently reusing them. The "
 "source repository contains the data, translations, artwork provenance and "
 "reproducible Guidedog build commands."
-msgstr "नए संस्करण से पहले, स्रोत तिथियां, संचालक पहचान, नीति समाप्ति, प्रवेश समय सीमा, संपर्क, फंडिंग तंत्र, पात्रता, जिला सीमाएं और दोहरे-फंडिंग नियमों की पुनः जाँच करें। पुराने हो चुके दावों को चुपचाप पुनः उपयोग करने के बजाय उनकी ऐतिहासिक स्थिति के साथ संरक्षित करें। स्रोत रिपॉजिटरी में डेटा, अनुवाद, कलाकृति उत्पत्ति और पुनरुत्पादनीय Guidedog बिल्ड कमांड शामिल हैं।"
+msgstr "नया संस्करण जारी करने से पहले स्रोत की तारीख, संचालक, नीति की अवधि, आवेदन की अंतिम तारीख, संपर्क, फंडिंग का प्रकार, पात्रता, क्षेत्र और दोहरी सहायता के नियम जाँचें। पुरानी जानकारी को मौजूदा मानकर दोहराने के बजाय उसका ऐतिहासिक दर्जा स्पष्ट रखें। रिपॉजिटरी में डेटा, अनुवाद, चित्रों के स्रोत और दोहराए जा सकने वाले Guidedog बिल्ड कमांड हैं।"
 
 #: ../../methodology.rst:31
 msgid ""
@@ -118,11 +126,9 @@ msgid ""
 "contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
 "Kanak Rathore and Emily Yue Xu. Built with Guidedog as a unified "
 "bilingual HTML website and Typst-typeset PDF book publication."
-msgstr "क्रेडिट और प्रकाशन प्रणाली: Vikrant Rathore द्वारा लिखित, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore और Emily Yue Xu के योगदान के साथ। एक एकीकृत द्विभाषी HTML वेबसाइट और Typst-टाइपसेट PDF पुस्तक प्रकाशन के रूप में Guidedog के साथ निर्मित।"
+msgstr "लेखन और प्रकाशन: लेखक Vikrant Rathore हैं। Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore और Emily Yue Xu ने योगदान दिया है। वेबसाइट और Typst में तैयार PDF पुस्तकें Guidedog के मूल वर्कफ़्लो से सात भाषाओं में प्रकाशित होती हैं।"
 
 #: ../../methodology.rst:33
-
-#| msgid "Research and translation"
 msgid "Reuse and licensing"
 msgstr "पुनः उपयोग और लाइसेंस"
 

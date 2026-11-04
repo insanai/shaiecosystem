@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -22,18 +22,13 @@ msgstr "पुडोंग AI मॉडल और एजेंट अनुप�
 
 #: ../../funding/pudong-model.rst:4
 msgid "Reimbursement | Pudong"
-msgstr "प्रतिपूर्ति (Reimbursement) | पुडोंग (Pudong)"
+msgstr "खर्च की प्रतिपूर्ति | पुडोंग (Pudong)"
 
 #: ../../funding/pudong-model.rst:6
 msgid "Closed"
 msgstr "आवेदन की समय-सीमा समाप्त"
 
 #: ../../funding/pudong-model.rst:8
-
-#| msgid ""
-#| "`Evidence S096 "
-#| "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
-#| "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 msgid ""
 "`Evidence S099 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
@@ -61,7 +56,7 @@ msgid ""
 "Qualifying Pudong-benefiting projects with eligible 2025 model or agent "
 "expenses. Required filing or registration conditions apply; previously "
 "publicly funded projects cannot duplicate this support."
-msgstr "पात्र 2025 मॉडल या एजेंट व्यय वाली अर्हकारी पुडोंग-लाभकारी परियोजनाएं। आवश्यक फाइलिंग या पंजीकरण शर्तें लागू होती हैं; पूर्व में सार्वजनिक रूप से वित्तपोषित परियोजनाएं इस सहायता को दोहरा नहीं सकती हैं।"
+msgstr "पात्र 2025 मॉडल या एजेंट व्यय वाली पात्र पुडोंग-लाभकारी परियोजनाएं। आवश्यक फाइलिंग या पंजीकरण शर्तें लागू होती हैं; पूर्व में सार्वजनिक रूप से वित्तपोषित परियोजनाएं इस सहायता को दोहरा नहीं सकती हैं।"
 
 #: ../../funding/pudong-model.rst:22
 msgid "Closed 31 Aug 2026, 16:00 China Standard Time"
@@ -89,25 +84,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Historical 2026 procedure: prepare the signed application, use report and "
 "commitments."
-msgstr "ऐतिहासिक 2026 प्रक्रिया: हस्ताक्षरित आवेदन, उपयोग रिपोर्ट और प्रतिबद्धताएं तैयार करें।"
+msgstr "2026 के बंद हो चुके दौर की प्रक्रिया: हस्ताक्षरित व मुहर लगे आवेदन, उपयोग रिपोर्ट और घोषणापत्र तैयार करें।"
 
 #: ../../funding/pudong-model.rst:35
 msgid ""
 "Add application logs, special audit, expenditure schedule, contracts, "
 "invoices and payments."
-msgstr "आवेदन लॉग, विशेष ऑडिट, व्यय अनुसूची, अनुबंध, चालान और भुगतान जोड़ें।"
+msgstr "उपयोग लॉग, विशेष ऑडिट, खर्च का विवरण, अनुबंध, बिल और भुगतान प्रमाण जोड़ें।"
 
 #: ../../funding/pudong-model.rst:37
 msgid ""
 "Submit on the Pudong policy platform; the 31 August 2026 deadline has "
 "passed."
-msgstr "पुडोंग नीति प्लेटफॉर्म पर जमा करें; 31 अगस्त 2026 की समय सीमा बीत चुकी है।"
+msgstr "पुडोंग के उद्यम सहायता पोर्टल पर जमा करें; इस दौर की अंतिम तारीख 31 अगस्त 2026 थी।"
 
 #: ../../funding/pudong-model.rst:39
 msgid ""
 "The receiving area administration or town reviews and recommends; seek a "
 "new notice for future claims."
-msgstr "प्राप्तकर्ता क्षेत्र प्रशासन या टाउन समीक्षा और सिफारिश करता है; भविष्य के दावों के लिए नई सूचना की प्रतीक्षा करें।"
+msgstr "क्षेत्र प्रबंधन कार्यालय या टाउन प्रशासन समीक्षा व सिफारिश करता है। अगले आवेदन के लिए नई सूचना का इंतज़ार करें।"
 
 #: ../../funding/pudong-model.rst:41
 msgid ""

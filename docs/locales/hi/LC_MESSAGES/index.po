@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -35,10 +35,6 @@ msgid ""
 msgstr "एक्सेलेरेटर, संस्थापकों, शोधकर्ताओं और AI में रुचि रखने वालों के लिए सात भाषाओं में एक सचित्र गाइड। यह शंघाई के सभी 16 ज़िलों में विश्वविद्यालयों, सॉफ्टवेयर और हार्डवेयर AI समुदायों तथा सहायता के व्यावहारिक विकल्पों को जोड़ती है।"
 
 #: ../../index.rst:10
-
-#| msgid ""
-#| "Research edition: 2026-11-04. 131 organization profiles. 50 funding "
-#| "routes. 16 districts. 140 cited sources."
 msgid ""
 "Research edition: 2026-11-04. 133 organization profiles. 53 funding "
 "routes. 16 districts. 144 cited sources."
@@ -70,15 +66,9 @@ msgid ""
 "and the PDF book with its documented industrial focus, receiving "
 "government authority, local innovation carriers, universities and "
 "district funding routes:"
-msgstr "शंघाई के प्रत्येक प्रशासनिक जिले को वेबसाइट और PDF पुस्तक दोनों में उसके प्रलेखित औद्योगिक फोकस, प्राप्तकर्ता सरकारी प्राधिकरण, स्थानीय नवाचार स्टार्टअप सहायता केंद्रों, विश्वविद्यालयों और जिला फंडिंग मार्गों के साथ कवर किया गया है:"
+msgstr "शंघाई के प्रत्येक प्रशासनिक जिले को वेबसाइट और PDF पुस्तक दोनों में उसके प्रलेखित औद्योगिक फोकस, प्राप्तकर्ता सरकारी प्राधिकरण, स्थानीय नवाचार स्टार्टअप सहायता केंद्रों, विश्वविद्यालयों और जिला फंडिंग के विकल्पों के साथ कवर किया गया है:"
 
 #: ../../index.rst:23
-
-#| msgid ""
-#| "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation "
-#| "models, chips, biomedicine and advanced manufacturing**. Authority: "
-#| "Pudong Science, Technology and Economy Commission. (40 organizations, "
-#| "4 district funding routes)"
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
@@ -238,7 +228,7 @@ msgid ""
 ":doc:`Sixteen districts, sixteen entry routes <districts>` — Dedicated "
 "chapter for each of Shanghai's 16 districts with receiving authorities, "
 "policy boundaries, local carriers and funding."
-msgstr ":doc:`सोलह जिले, सोलह प्रवेश मार्ग <districts>` — शंघाई के सभी 16 जिलों के लिए समर्पित अध्याय, जिनमें प्राप्तकर्ता प्राधिकरण, नीति सीमाएं, स्थानीय स्टार्टअप सहायता केंद्रों और फंडिंग शामिल हैं।"
+msgstr ":doc:`सोलह जिले, सोलह प्रवेश मार्ग <districts>` — शंघाई के सभी 16 जिलों के लिए समर्पित अध्याय, जिनमें संबंधित विभाग, नीति सीमाएं, स्थानीय स्टार्टअप सहायता केंद्रों और फंडिंग शामिल हैं।"
 
 #: ../../index.rst:48
 msgid ""
@@ -259,7 +249,7 @@ msgid ""
 ":doc:`Incubators, accelerators and parks <incubation>` — 28 researched "
 "incubators, accelerators and technology parks across Shanghai with "
 "admission checklists and operator details."
-msgstr ":doc:`इनक्यूबेटर, एक्सेलेरेटर और पार्क <incubation>` — प्रवेश चेकलिस्ट और संचालक विवरण के साथ शंघाई भर में 38 शोधित इनक्यूबेटर, एक्सेलेरेटर और प्रौद्योगिकी पार्क।"
+msgstr ":doc:`इनक्यूबेटर, एक्सेलेरेटर और पार्क <incubation>` — प्रवेश चेकलिस्ट और संचालक विवरण के साथ शंघाई भर में 38 शोधित इनक्यूबेटर, एक्सेलेरेटर और टेक्नोलॉजी पार्क।"
 
 #: ../../index.rst:51
 msgid ""
@@ -293,7 +283,7 @@ msgid ""
 ":doc:`Funding, without mixing the mechanisms <funding>` — All 40 citywide "
 "and district funding pathways with ceilings, equity rules, eligibility "
 "criteria, deadlines and official links."
-msgstr ":doc:`फंडिंग, बिना तंत्रों को मिलाए <funding>` — सीमाओं, इक्विटी नियमों, पात्रता मानदंडों, समय-सीमाओं और आधिकारिक लिंक के साथ सभी 45 शहरव्यापी और जिला फंडिंग मार्ग।"
+msgstr ":doc:`फंडिंग, बिना तंत्रों को मिलाए <funding>` — सीमाओं, इक्विटी नियमों, पात्रता मानदंडों, समय-सीमाओं और आधिकारिक लिंक के साथ सभी 45 शहरव्यापी और जिला फंडिंग के विकल्प।"
 
 #: ../../index.rst:56
 msgid ""
@@ -307,7 +297,7 @@ msgid ""
 ":doc:`From introduction to application <apply>` — Bilingual outreach "
 "templates, shared data-room checklist, decision workflows and a four-week "
 "accelerator field program."
-msgstr ":doc:`परिचय से आवेदन तक <apply>` — द्विभाषी संपर्क टेम्पलेट, साझा डेटा-रूम चेकलिस्ट, निर्णय कार्यप्रणाली और चार-सप्ताह का एक्सेलेरेटर फील्ड प्रोग्राम।"
+msgstr ":doc:`परिचय से आवेदन तक <apply>` — द्विभाषी संपर्क टेम्पलेट, साझा डेटा-रूम चेकलिस्ट, निर्णय प्रक्रिया और चार-सप्ताह का एक्सेलेरेटर फील्ड प्रोग्राम।"
 
 #: ../../index.rst:58
 msgid ""

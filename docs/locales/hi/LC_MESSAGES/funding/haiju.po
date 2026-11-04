@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,13 +26,9 @@ msgstr "प्रतियोगिता | शहर-व्यापी / व�
 
 #: ../../funding/haiju.rst:6
 msgid "2026 competition published; track intake to confirm"
-msgstr "2026 प्रतियोगिता प्रकाशित; संबंधित श्रेणी में आवेदन की पुष्टि शेष"
+msgstr "2026 प्रतियोगिता घोषित; संबंधित श्रेणी की तारीखें पूछें"
 
 #: ../../funding/haiju.rst:8
-
-#| msgid ""
-#| "`Evidence S108 <https://www.hello-sh.com/haijuTalent/competition>`_. "
-#| "海聚英才官网."
 msgid ""
 "`Evidence S111 <https://www.hello-sh.com/haijuTalent/competition>`_. "
 "海聚英才官网."
@@ -59,7 +55,7 @@ msgid ""
 "Apply through the official competition portal and qualifying division. "
 "District selection and final competition do not establish automatic "
 "funding or immigration status."
-msgstr "आधिकारिक प्रतियोगिता पोर्टल और अर्हकारी प्रभाग के माध्यम से आवेदन करें। जिला चयन और अंतिम प्रतियोगिता स्वतः फंडिंग या आव्रजन स्थिति स्थापित नहीं करते हैं।"
+msgstr "आधिकारिक प्रतियोगिता पोर्टल और पात्र प्रभाग के माध्यम से आवेदन करें। जिला चयन और अंतिम प्रतियोगिता स्वतः फंडिंग या आव्रजन स्थिति स्थापित नहीं करते हैं।"
 
 #: ../../funding/haiju.rst:22
 msgid "Confirm track and division dates"
@@ -89,24 +85,24 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 
 #: ../../funding/haiju.rst:33
 msgid "Choose the correct competition track, region and applicant category."
-msgstr "सही प्रतियोगिता ट्रैक, क्षेत्र और आवेदक श्रेणी चुनें।"
+msgstr "सही श्रेणी, क्षेत्र और आवेदन प्रकार चुनें।"
 
 #: ../../funding/haiju.rst:35
 msgid ""
 "Read the rules and submit the required project, team and IP evidence."
-msgstr "नियम पढ़ें और आवश्यक परियोजना, टीम तथा IP साक्ष्य जमा करें।"
+msgstr "नियम पढ़ें और परियोजना, टीम व IP के माँगे गए प्रमाण भेजें।"
 
 #: ../../funding/haiju.rst:37
 msgid ""
 "Complete selection or pitching; confirm prize and service conditions in "
 "writing."
-msgstr "चयन या पिचिंग पूरी करें; पुरस्कार और सेवा शर्तों की लिखित पुष्टि करें।"
+msgstr "चयन या पिचिंग में भाग लें और पुरस्कार व सेवाओं की शर्तें लिखित रूप में लें।"
 
 #: ../../funding/haiju.rst:39
 msgid ""
 "Treat investor introductions and district funding as separate follow-up "
 "decisions."
-msgstr "निवेशक परिचय और जिला फंडिंग को अलग अनुवर्ती निर्णयों के रूप में लें।"
+msgstr "निवेशकों से परिचय और ज़िला सहायता अलग फैसले हैं; प्रतियोगिता से वे अपने-आप नहीं मिलते।"
 
 #: ../../funding/haiju.rst:41
 msgid ""

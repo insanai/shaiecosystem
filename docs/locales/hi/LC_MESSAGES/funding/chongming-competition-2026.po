@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -28,14 +28,9 @@ msgstr "प्रतियोगिता | चोंगमिंग (Chongming)
 
 #: ../../funding/chongming-competition-2026.rst:6
 msgid "2026 competition published; track intake to confirm"
-msgstr "2026 प्रतियोगिता प्रकाशित; संबंधित श्रेणी में आवेदन की पुष्टि शेष"
+msgstr "2026 प्रतियोगिता घोषित; संबंधित श्रेणी की तारीखें पूछें"
 
 #: ../../funding/chongming-competition-2026.rst:8
-
-#| msgid ""
-#| "`Evidence S135 "
-#| "<https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_. "
-#| "关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府."
 msgid ""
 "`Evidence S138 "
 "<https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_. "
@@ -93,24 +88,24 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 
 #: ../../funding/chongming-competition-2026.rst:33
 msgid "Choose the correct competition track, region and applicant category."
-msgstr "सही प्रतियोगिता ट्रैक, क्षेत्र और आवेदक श्रेणी चुनें।"
+msgstr "सही श्रेणी, क्षेत्र और आवेदन प्रकार चुनें।"
 
 #: ../../funding/chongming-competition-2026.rst:35
 msgid ""
 "Read the rules and submit the required project, team and IP evidence."
-msgstr "नियम पढ़ें और आवश्यक परियोजना, टीम तथा IP साक्ष्य जमा करें।"
+msgstr "नियम पढ़ें और परियोजना, टीम व IP के माँगे गए प्रमाण भेजें।"
 
 #: ../../funding/chongming-competition-2026.rst:37
 msgid ""
 "Complete selection or pitching; confirm prize and service conditions in "
 "writing."
-msgstr "चयन या पिचिंग पूरी करें; पुरस्कार और सेवा शर्तों की लिखित पुष्टि करें।"
+msgstr "चयन या पिचिंग में भाग लें और पुरस्कार व सेवाओं की शर्तें लिखित रूप में लें।"
 
 #: ../../funding/chongming-competition-2026.rst:39
 msgid ""
 "Treat investor introductions and district funding as separate follow-up "
 "decisions."
-msgstr "निवेशक परिचय और जिला फंडिंग को अलग अनुवर्ती निर्णयों के रूप में लें।"
+msgstr "निवेशकों से परिचय और ज़िला सहायता अलग फैसले हैं; प्रतियोगिता से वे अपने-आप नहीं मिलते।"
 
 #: ../../funding/chongming-competition-2026.rst:41
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -38,14 +38,9 @@ msgid ""
 "Suggested collaboration themes: Sports science, motion analysis, "
 "wearables. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding."
-msgstr "जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: खेल विज्ञान, गति विश्लेषण (motion analysis), वियरेबल्स। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव।"
+msgstr "यह संस्थान शिक्षा मंत्रालय की जून 2026 की सूची में है। सहयोग के संभावित विषय: खेल विज्ञान, गति विश्लेषण (motion analysis), वियरेबल्स। ये संपादकीय सुझाव हैं; लैब के उपयोग या स्टार्टअप फंडिंग की पुष्टि नहीं है।"
 
 #: ../../entities/university-sport.rst:12
-
-#| msgid ""
-#| "`Evidence S083 "
-#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
-#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
 "`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
@@ -94,7 +89,7 @@ msgstr "मानचित्र स्थिति जिला या कै�
 
 #: ../../entities/university-sport.rst:32
 msgid "Application workflow"
-msgstr "आवेदन कार्यप्रणाली"
+msgstr "आवेदन प्रक्रिया"
 
 #: ../../entities/university-sport.rst:35
 msgid ""
@@ -106,23 +101,23 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Find the relevant research group and state the scientific or industrial "
 "problem."
-msgstr "प्रासंगिक अनुसंधान समूह खोजें और वैज्ञानिक या औद्योगिक समस्या बताएं।"
+msgstr "सही शोध टीम खोजें और वैज्ञानिक या औद्योगिक समस्या स्पष्ट करें।"
 
 #: ../../entities/university-sport.rst:39
 msgid ""
 "Send a short proposal covering data, equipment, outputs, funding and "
 "timescale."
-msgstr "डेटा, उपकरण, आउटपुट, फंडिंग और समय-सीमा को कवर करने वाला एक संक्षिप्त प्रस्ताव भेजें।"
+msgstr "डेटा, उपकरण, अपेक्षित नतीजे, बजट और समय-सारणी की संक्षिप्त योजना भेजें।"
 
 #: ../../entities/university-sport.rst:41
 msgid ""
 "Agree the collaboration route, publication, IP and institutional "
 "authorization."
-msgstr "सहयोग मार्ग, प्रकाशन, IP और संस्थागत प्राधिकरण पर सहमति बनाएं।"
+msgstr "सहयोग, प्रकाशन, IP और संस्थान की मंज़ूरी की शर्तें तय करें।"
 
 #: ../../entities/university-sport.rst:43
 msgid "Obtain written access or project approval before beginning the work."
-msgstr "काम शुरू करने से पहले लिखित पहुंच या परियोजना अनुमोदन प्राप्त करें।"
+msgstr "काम शुरू करने से पहले उपयोग की लिखित अनुमति या परियोजना की मंज़ूरी लें।"
 
 #: ../../entities/university-sport.rst:45
 msgid ""
@@ -130,7 +125,7 @@ msgid ""
 "status is required, who owns the research IP, and whether support is a "
 "service, a loan, a grant or equity. The thematic match in this profile is "
 "editorial guidance."
-msgstr "पुष्टि करें कि क्या बाहरी संस्थापक आवेदन कर सकते हैं, क्या छात्र या पूर्व छात्र (alumni) स्थिति आवश्यक है, अनुसंधान IP का स्वामी कौन है, और क्या सहायता एक सेवा, ऋण, अनुदान या इक्विटी है। इस प्रोफाइल में विषयगत मिलान संपादकीय मार्गदर्शन है।"
+msgstr "पुष्टि करें कि क्या बाहरी संस्थापक आवेदन कर सकते हैं, क्या छात्र या पूर्व छात्र (alumni) स्थिति आवश्यक है, अनुसंधान IP का स्वामी कौन है, और क्या सहायता एक सेवा, ऋण, अनुदान या इक्विटी है। इस प्रोफाइल में विषयगत मिलान संपादकीय सुझाव है।"
 
 #: ../../entities/university-sport.rst:47
 msgid ":doc:`Yangpu district route </districts/yangpu>`"

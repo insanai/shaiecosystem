@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -21,14 +21,10 @@ msgid "Incubators, accelerators and parks"
 msgstr "इनक्यूबेटर, एक्सेलेरेटर और पार्क"
 
 #: ../../incubation.rst:4
-
-#| msgid ""
-#| "44 profiles with evidence, contact routes and an application "
-#| "checklist. Published existence is distinguished from current intake."
 msgid ""
 "45 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "साक्ष्य, संपर्क मार्ग और आवेदन चेकलिस्ट के साथ 45 प्रोफ़ाइल। प्रकाशित अस्तित्व और वर्तमान प्रवेश को अलग-अलग दर्शाया गया है।"
+msgstr "45 संस्थानों की जानकारी, स्रोत, संपर्क और आवेदन की संदर्भ सूची के साथ। संस्थान की जानकारी की पुष्टि और मौजूदा आवेदन की स्थिति अलग-अलग बताई गई हैं।"
 
 #: ../../incubation.rst:8
 msgid "Complete directory summary"
@@ -42,7 +38,7 @@ msgid ""
 "zones; admission, workspace, compute support and investment are separate "
 "decisions. Support: Services / possible incentives. Address: Zone A, 180 "
 "Longtai Road, Xuhui. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई मॉडल स्पीड स्पेस (Shanghai Model Speed Space) <entities/mosu>` (上海模速空间 · इनक्यूबेटर · शुहुई (Xuhui) · सॉफ्टवेयर AI) — वेस्ट बंड पर एक विशेषज्ञ लार्ज-मॉडल इनक्यूबेशन और एक्सेलेरेशन समुदाय। इसका संचालक कई ज़ोन सूचीबद्ध करता है; प्रवेश, कार्यस्थल, कंप्यूट सहायता और निवेश अलग-अलग निर्णय हैं। [सेवाएं / संभावित प्रोत्साहन]. ज़ोन A, 180 लोंगताई रोड, शुहुई (Xuhui). [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई मॉडल स्पीड स्पेस (Shanghai Model Speed Space) <entities/mosu>` (上海模速空间 · इनक्यूबेटर · शुहुई (Xuhui) · सॉफ्टवेयर AI) — वेस्ट बंड में बड़े AI मॉडल के लिए विशेष इनक्यूबेशन और एक्सेलेरेशन समुदाय। संचालक कई क्षेत्रों का प्रबंधन करता है। प्रवेश, ऑफिस की जगह, कंप्यूट सहायता और निवेश की शर्तें अलग-अलग तय होती हैं। [सुविधाएँ व सेवाएँ; अतिरिक्त सहायता संभव]. ज़ोन A, 180 लोंगताई रोड, शुहुई (Xuhui). [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:12
 msgid ""
@@ -144,7 +140,7 @@ msgid ""
 "investment have different admission and commercial terms. Address: 2F, "
 "Building 1, Phase II, Zhangjiang Guochuang Center, 899 Dangui Road. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`प्लग एंड प्ले चाइना, शंघाई (Plug and Play China, Shanghai) <entities/plugplay>` (璞跃中国上海中心 · एक्सेलेरेटर · पुडोंग (Pudong) · सॉफ्टवेयर AI, हार्डवेयर AI, गतिशीलता (Mobility)) — संचालक झांगजियांग गुओचुआंग सेंटर में अपने यांग्त्ज़ी रिवर डेल्टा नवाचार केंद्र को सूचीबद्ध करता है। कॉर्पोरेट नवाचार, कार्यालय स्थान और वेंचर निवेश की प्रवेश और वाणिज्यिक शर्तें अलग-अलग हैं। दूसरी मंजिल, बिल्डिंग 1, फेज II, झांगजियांग गुओचुआंग सेंटर, 899 दानगुई रोड. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`प्लग एंड प्ले चाइना, शंघाई (Plug and Play China, Shanghai) <entities/plugplay>` (璞跃中国上海中心 · एक्सेलेरेटर · पुडोंग (Pudong) · सॉफ्टवेयर AI, हार्डवेयर AI, परिवहन तकनीक) — संचालक झांगजियांग गुओचुआंग सेंटर में अपने यांग्त्ज़ी रिवर डेल्टा नवाचार केंद्र को सूचीबद्ध करता है। कॉर्पोरेट नवाचार, कार्यालय स्थान और वेंचर निवेश की प्रवेश और वाणिज्यिक शर्तें अलग-अलग हैं। दूसरी मंजिल, बिल्डिंग 1, फेज II, झांगजियांग गुओचुआंग सेंटर, 899 दानगुई रोड. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:22
 msgid ""
@@ -165,7 +161,7 @@ msgid ""
 "useful entry points for hardware validation. Address: Wuning Road area, "
 "Putuo; confirm the service building. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`वुनिंग साइंस पार्क (Wuning Science Park) <entities/wuning>` (上海武宁科技园 · प्रौद्योगिकी पार्क · पुतुओ (Putuo) · हार्डवेयर AI, उद्योग) — शंघाई इलेक्ट्रिकल अप्लायंसेज रिसर्च इंस्टीट्यूट समूह द्वारा संचालित एक औद्योगिक अनुसंधान और परीक्षण वातावरण। हार्डवेयर सत्यापन के लिए रोबोट और इंडस्ट्रियल-इंटरनेट परीक्षण उपयोगी प्रवेश बिंदु हैं। वुनिंग रोड क्षेत्र, पुतुओ; सेवा भवन की पुष्टि करें. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`वुनिंग साइंस पार्क (Wuning Science Park) <entities/wuning>` (上海武宁科技园 · टेक्नोलॉजी पार्क · पुतुओ (Putuo) · हार्डवेयर AI, उद्योग) — शंघाई इलेक्ट्रिकल अप्लायंसेज रिसर्च इंस्टीट्यूट समूह द्वारा संचालित एक औद्योगिक अनुसंधान और परीक्षण वातावरण। हार्डवेयर सत्यापन के लिए रोबोट और इंडस्ट्रियल-इंटरनेट परीक्षण उपयोगी प्रवेश बिंदु हैं। वुनिंग रोड क्षेत्र, पुतुओ; सेवा भवन की पुष्टि करें. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:24
 msgid ""
@@ -176,7 +172,7 @@ msgid ""
 "market, capital and industrial connections; the listing does not "
 "guarantee cash support. Address: Lane 111, Qilianshan Road, Putuo. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`चाइना-इज़राइल इनोवेशन हब, शंघाई (China-Israel Innovation Hub) <entities/china-israel>` (中以（上海）创新园 · प्रौद्योगिकी पार्क · पुतुओ (Putuo) · सॉफ्टवेयर AI, हार्डवेयर AI) — इंटेलिजेंट विनिर्माण, AI, रोबोटिक्स और सूचना प्रौद्योगिकी में अंतर्राष्ट्रीय सहयोग के लिए जिला-सूचीबद्ध स्टार्टअप सहायता केंद्र। यह बाजार, पूंजी और औद्योगिक संपर्कों का समर्थन करता है; सूचीबद्ध होने से नकद सहायता की गारंटी नहीं मिलती है। लेन 111, चिलियानशान रोड, पुतुओ. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`चाइना-इज़राइल इनोवेशन हब, शंघाई (China-Israel Innovation Hub) <entities/china-israel>` (中以（上海）创新园 · टेक्नोलॉजी पार्क · पुतुओ (Putuo) · सॉफ्टवेयर AI, हार्डवेयर AI) — इंटेलिजेंट विनिर्माण, AI, रोबोटिक्स और सूचना प्रौद्योगिकी में अंतर्राष्ट्रीय सहयोग के लिए जिला-सूचीबद्ध स्टार्टअप सहायता केंद्र। यह बाजार, पूंजी और औद्योगिक संपर्कों का समर्थन करता है; सूचीबद्ध होने से नकद सहायता की गारंटी नहीं मिलती है। लेन 111, चिलियानशान रोड, पुतुओ. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:25
 msgid ""
@@ -196,7 +192,7 @@ msgid ""
 "with Bay Valley in the north. Suitable for neuromorphic computing and "
 "commercial AI collaborations. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`चांगयांग कैंपस (Changyang Campus) <entities/changyang>` (长阳创谷 · प्रौद्योगिकी पार्क · यांगपू (Yangpu) · सॉफ्टवेयर AI, हार्डवेयर AI) — यांगपू की मस्तिष्क-प्रेरित बुद्धिमत्ता योजना उत्तर में बे वैली के साथ जोड़े गए दक्षिणी केंद्र के रूप में चांगयांग कैंपस की पहचान करती है। न्यूरोमॉर्फिक कंप्यूटिंग और वाणिज्यिक AI सहयोग के लिए उपयुक्त। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`चांगयांग कैंपस (Changyang Campus) <entities/changyang>` (长阳创谷 · टेक्नोलॉजी पार्क · यांगपू (Yangpu) · सॉफ्टवेयर AI, हार्डवेयर AI) — यांगपू की मस्तिष्क-प्रेरित बुद्धिमत्ता योजना उत्तर में बे वैली के साथ जोड़े गए दक्षिणी केंद्र के रूप में चांगयांग कैंपस की पहचान करती है। न्यूरोमॉर्फिक कंप्यूटिंग और वाणिज्यिक AI सहयोग के लिए उपयुक्त। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:27
 msgid ""
@@ -206,7 +202,7 @@ msgid ""
 "communities. Ask for an approved community operator, the qualifying "
 "activity definition, housing conditions and any service or equity "
 "agreement. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`फुशिंग द्वीप मेकर / OPC समुदाय (Fuxing Island maker / OPC communities) <entities/fuxing>` (复兴岛创客与OPC社区 · इनक्यूबेटर · यांगपू (Yangpu) · सॉफ्टवेयर AI) — मई 2026 की जिला नीति AI-सक्षम स्वतंत्र संस्थापकों और मेकर समुदायों का समर्थन करती है। अनुमोदित समुदाय संचालक, अर्हकारी गतिविधि परिभाषा, आवास शर्तों और किसी भी सेवा या इक्विटी समझौते के बारे में पूछें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`फुशिंग द्वीप मेकर / OPC समुदाय (Fuxing Island maker / OPC communities) <entities/fuxing>` (复兴岛创客与OPC社区 · इनक्यूबेटर · यांगपू (Yangpu) · सॉफ्टवेयर AI) — मई 2026 की जिला नीति AI-सक्षम स्वतंत्र संस्थापकों और मेकर समुदायों का समर्थन करती है। अनुमोदित समुदाय संचालक, पात्र गतिविधि परिभाषा, आवास शर्तों और किसी भी सेवा या इक्विटी समझौते के बारे में पूछें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:28
 msgid ""
@@ -215,7 +211,7 @@ msgid ""
 "2025-2026 park plan links Grand neoBay R&D with Maqiao manufacturing. A "
 "useful pathway from a robot prototype to supply-chain and production "
 "conversations. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`माकियाओ AI इनोवेशन ज़ोन (Maqiao AI Innovation Zone) <entities/maqiao>` (马桥人工智能创新试验区 · प्रौद्योगिकी पार्क · मिनहांग (Minhang) · हार्डवेयर AI, रोबोटिक्स) — मिनहांग की 2025-2026 पार्क योजना ग्रैंड नियोबे R&D को माकियाओ विनिर्माण से जोड़ती है। रोबोट प्रोटोटाइप से आपूर्ति-श्रृंखला और उत्पादन चर्चाओं तक जाने के लिए एक उपयोगी मार्ग। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`माकियाओ AI इनोवेशन ज़ोन (Maqiao AI Innovation Zone) <entities/maqiao>` (马桥人工智能创新试验区 · टेक्नोलॉजी पार्क · मिनहांग (Minhang) · हार्डवेयर AI, रोबोटिक्स) — मिनहांग की 2025-2026 पार्क योजना ग्रैंड नियोबे R&D को माकियाओ विनिर्माण से जोड़ती है। रोबोट प्रोटोटाइप से आपूर्ति-श्रृंखला और उत्पादन चर्चाओं तक जाने के लिए एक उपयोगी मार्ग। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:29
 msgid ""
@@ -225,7 +221,7 @@ msgid ""
 "supply chains and deployment; we distinguish it from ABB facilities in "
 "Pudong and from the broader Baoshan industrial park. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`शंघाई रोबोट इंडस्ट्रियल पार्क (Shanghai Robot Industrial Park) <entities/robot-park>` (上海机器人产业园 · प्रौद्योगिकी पार्क · बाओशान (Baoshan) · हार्डवेयर AI, रोबोटिक्स) — गुचुन, बाओशान में एक रोबोटिक्स औद्योगिक पार्क। औद्योगिक रोबोटिक्स आपूर्ति श्रृंखलाओं और परिनियोजन के लिए उपयुक्त; हम इसे पुडोंग में ABB सुविधाओं और व्यापक बाओशान औद्योगिक पार्क से अलग करते हैं। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई रोबोट इंडस्ट्रियल पार्क (Shanghai Robot Industrial Park) <entities/robot-park>` (上海机器人产业园 · टेक्नोलॉजी पार्क · बाओशान (Baoshan) · हार्डवेयर AI, रोबोटिक्स) — गुचुन, बाओशान में एक रोबोटिक्स औद्योगिक पार्क। औद्योगिक रोबोटिक्स आपूर्ति श्रृंखलाओं और परिनियोजन के लिए उपयुक्त; हम इसे पुडोंग में ABB सुविधाओं और व्यापक बाओशान औद्योगिक पार्क से अलग करते हैं। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:30
 msgid ""
@@ -236,7 +232,7 @@ msgid ""
 "This is a separate park from the Gucun robot industrial park. Address: "
 "1688 Jinshi Road, Baoshan | Tel: +86 21 66879800. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`बाओशान इंडस्ट्रियल पार्क (Baoshan Industrial Park) <entities/baoshan-industrial>` (宝山工业园区 · प्रौद्योगिकी पार्क · बाओशान (Baoshan) · उद्योग, हार्डवेयर AI) — पार्क समिति एक आधिकारिक संपर्क प्रकाशित करती है और औद्योगिक प्रवेश, परियोजना आकर्षण, नीति समन्वय और व्यावसायिक सेवाएं प्रदान करती है। यह गुचुन रोबोट इंडस्ट्रियल पार्क से एक अलग पार्क है। 1688 जिनशी रोड, बाओशान | Tel: +86 21 66879800. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`बाओशान इंडस्ट्रियल पार्क (Baoshan Industrial Park) <entities/baoshan-industrial>` (宝山工业园区 · टेक्नोलॉजी पार्क · बाओशान (Baoshan) · उद्योग, हार्डवेयर AI) — पार्क समिति एक आधिकारिक संपर्क प्रकाशित करती है और औद्योगिक प्रवेश, परियोजना आकर्षण, नीति समन्वय और व्यावसायिक सेवाएं प्रदान करती है। यह गुचुन रोबोट इंडस्ट्रियल पार्क से एक अलग पार्क है। 1688 जिनशी रोड, बाओशान | Tel: +86 21 66879800. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:31
 msgid ""
@@ -246,7 +242,7 @@ msgid ""
 "information-technology innovation. For an AI infrastructure team, "
 "establish compatibility requirements, lab access and real customer demand "
 "before choosing space. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`G60 सोंगजियांग शिनचुआंग इंडस्ट्रियल पार्क (G60 Songjiang Xinchuang Industrial Park) <entities/g60-xinchuang>` (G60松江信创产业园 · प्रौद्योगिकी पार्क · सोंगजियांग (Songjiang) · सॉफ्टवेयर AI, चिप्स) — घरेलू सूचना-प्रौद्योगिकी नवाचार के लिए आधिकारिक रूप से प्रोफाइल किया गया औद्योगिक पार्क। एक AI इंफ्रास्ट्रक्चर टीम के लिए, स्थान चुनने से पहले संगतता आवश्यकताओं, लैब पहुंच और वास्तविक ग्राहक मांग को स्थापित करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`G60 सोंगजियांग शिनचुआंग इंडस्ट्रियल पार्क (G60 Songjiang Xinchuang Industrial Park) <entities/g60-xinchuang>` (G60松江信创产业园 · टेक्नोलॉजी पार्क · सोंगजियांग (Songjiang) · सॉफ्टवेयर AI, चिप्स) — घरेलू सूचना-प्रौद्योगिकी नवाचार के लिए आधिकारिक रूप से प्रोफाइल किया गया औद्योगिक पार्क। एक AI इंफ्रास्ट्रक्चर टीम के लिए, स्थान चुनने से पहले संगतता आवश्यकताओं, लैब पहुंच और वास्तविक ग्राहक मांग को स्थापित करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:32
 msgid ""
@@ -256,7 +252,7 @@ msgid ""
 "offers an ecosystem connection, not automatic access to Huawei "
 "laboratories, procurement or investment. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`शीत्सेन साइंस एंड इनोवेशन सेंटर (Xicen Science and Innovation Center) <entities/xicen>` (西岑科创中心 · प्रौद्योगिकी पार्क · चिंगपू (Qingpu) · हार्डवेयर AI, सॉफ्टवेयर AI) — हुआवेई लियानकिउ लेक और शीत्सेन विकास पर केंद्रित एक चिंगपू नवाचार क्षेत्र। यह एक इकोसिस्टम जुड़ाव प्रदान करता है, न कि हुआवेई प्रयोगशालाओं, खरीद या निवेश तक स्वचालित पहुंच। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शीत्सेन साइंस एंड इनोवेशन सेंटर (Xicen Science and Innovation Center) <entities/xicen>` (西岑科创中心 · टेक्नोलॉजी पार्क · चिंगपू (Qingpu) · हार्डवेयर AI, सॉफ्टवेयर AI) — हुआवेई लियानकिउ लेक और शीत्सेन विकास पर केंद्रित एक चिंगपू नवाचार क्षेत्र। यह एक इकोसिस्टम जुड़ाव प्रदान करता है, न कि हुआवेई प्रयोगशालाओं, खरीद या निवेश तक स्वचालित पहुंच। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:33
 msgid ""
@@ -265,7 +261,7 @@ msgid ""
 "test-flight services and a low-altitude incubation platform. Airspace, "
 "testing and airworthiness services require separate confirmation from "
 "physical workspace. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`ईस्ट चाइना UAV बेस (East China UAV Base) <entities/uav-base>` (华东无人机基地 · प्रौद्योगिकी पार्क · जिनशान (Jinshan) · हार्डवेयर AI, ड्रोन) — जिनशान पार्क योजना में परीक्षण-उड़ान सेवाएं और कम-ऊंचाई वाला इनक्यूबेशन प्लेटफॉर्म शामिल है। हवाई क्षेत्र, परीक्षण और उड़ान योग्यता (airworthiness) सेवाओं के लिए भौतिक कार्यस्थल से अलग पुष्टि की आवश्यकता होती है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`ईस्ट चाइना UAV बेस (East China UAV Base) <entities/uav-base>` (华东无人机基地 · टेक्नोलॉजी पार्क · जिनशान (Jinshan) · हार्डवेयर AI, ड्रोन) — जिनशान पार्क योजना में परीक्षण-उड़ान सेवाएं और कम-ऊंचाई वाला इनक्यूबेशन प्लेटफॉर्म शामिल है। हवाई क्षेत्र, परीक्षण और उड़ान योग्यता (airworthiness) सेवाओं के लिए भौतिक कार्यस्थल से अलग पुष्टि की आवश्यकता होती है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:34
 msgid ""
@@ -275,7 +271,7 @@ msgid ""
 "sensors, electronic materials and manufacturing inputs; specify process "
 "equipment and environmental constraints in the inquiry. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`जिनशान न्यू मटेरियल्स इनक्यूबेटर (Jinshan New Materials Incubator) <entities/jinshan-materials>` (金山新材料孵化器 · इनक्यूबेटर · जिनशान (Jinshan) · सामग्री (Materials), हार्डवेयर AI) — कार्बन वैली ग्रीन बे से जुड़ा एक सामग्री इनक्यूबेशन मार्ग। सेंसर, इलेक्ट्रॉनिक सामग्री और विनिर्माण इनपुट के लिए प्रासंगिक; पूछताछ में प्रोसेस उपकरण और पर्यावरणीय बाधाओं को निर्दिष्ट करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`जिनशान न्यू मटेरियल्स इनक्यूबेटर (Jinshan New Materials Incubator) <entities/jinshan-materials>` (金山新材料孵化器 · इनक्यूबेटर · जिनशान (Jinshan) · सामग्री विज्ञान, हार्डवेयर AI) — कार्बन वैली ग्रीन बे से जुड़ा एक सामग्री इनक्यूबेशन मार्ग। सेंसर, इलेक्ट्रॉनिक सामग्री और विनिर्माण इनपुट के लिए प्रासंगिक; पूछताछ में प्रोसेस उपकरण और पर्यावरणीय बाधाओं को निर्दिष्ट करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:35
 msgid ""
@@ -285,7 +281,7 @@ msgid ""
 "formulation research, inspection, consumer analysis and supply-chain "
 "tools; clinical or laboratory access is a separate arrangement. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`ओरिएंटल ब्यूटी वैली (Oriental Beauty Valley) <entities/oriental-beauty>` (东方美谷 · प्रौद्योगिकी पार्क · फेंगशियान (Fengxian) · स्वास्थ्य, उद्योग) — फेंगशियान का एक सौंदर्य और स्वास्थ्य उद्योग इकोसिस्टम। प्रासंगिक AI अनुप्रयोगों में फॉर्मूलेशन अनुसंधान, निरीक्षण, उपभोक्ता विश्लेषण और आपूर्ति-श्रृंखला उपकरण शामिल हैं; क्लिनिकल या प्रयोगशाला पहुंच एक अलग व्यवस्था है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`ओरिएंटल ब्यूटी वैली (Oriental Beauty Valley) <entities/oriental-beauty>` (东方美谷 · टेक्नोलॉजी पार्क · फेंगशियान (Fengxian) · स्वास्थ्य, उद्योग) — फेंगशियान का एक सौंदर्य और स्वास्थ्य उद्योग इकोसिस्टम। प्रासंगिक AI अनुप्रयोगों में फॉर्मूलेशन अनुसंधान, निरीक्षण, उपभोक्ता विश्लेषण और आपूर्ति-श्रृंखला उपकरण शामिल हैं; क्लिनिकल या प्रयोगशाला पहुंच एक अलग व्यवस्था है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:36
 msgid ""
@@ -295,7 +291,7 @@ msgid ""
 "the district authority for matching smart agriculture, ecological sensing "
 "and marine technology projects to a concrete carrier. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`झांगजियांग चोंगमिंग पार्क (Zhangjiang Chongming Park) <entities/chongming-park>` (张江高新区崇明园 · प्रौद्योगिकी पार्क · चोंगमिंग (Chongming) · जलवायु, कृषि) — 2025-2026 सुधार योजना पारिस्थितिक नवाचार के लिए एक रूपरेखा निर्धारित करती है। हम स्मार्ट कृषि, पारिस्थितिक सेंसिंग और समुद्री प्रौद्योगिकी परियोजनाओं को किसी ठोस स्टार्टअप सहायता केंद्र से मिलाने के लिए जिला प्राधिकरण का उपयोग करते हैं। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`झांगजियांग चोंगमिंग पार्क (Zhangjiang Chongming Park) <entities/chongming-park>` (张江高新区崇明园 · टेक्नोलॉजी पार्क · चोंगमिंग (Chongming) · जलवायु, कृषि) — 2025-2026 सुधार योजना पारिस्थितिक नवाचार के लिए एक रूपरेखा निर्धारित करती है। हम स्मार्ट कृषि, पारिस्थितिक सेंसिंग और समुद्री प्रौद्योगिकी परियोजनाओं को किसी ठोस स्टार्टअप सहायता केंद्र से मिलाने के लिए जिला प्राधिकरण का उपयोग करते हैं। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:37
 msgid ""
@@ -305,7 +301,7 @@ msgid ""
 "technology transfer and investment services. Request the relevant "
 "sub-park and named operating company for a project-specific response. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`झांगजियांग होंगकोउ पार्क / बेइकेचुआंग (Zhangjiang Hongkou Park / Beikechuang) <entities/hongkou-park>` (张江虹口园／北科创 · प्रौद्योगिकी पार्क · होंगकोउ (Hongkou) · सॉफ्टवेयर AI, उद्योग) — पार्क योजना बेइकेचुआंग को इनक्यूबेशन, प्रौद्योगिकी हस्तांतरण और निवेश सेवाओं में समन्वयकारी भूमिका देती है। परियोजना-विशिष्ट प्रतिक्रिया के लिए प्रासंगिक सब-पार्क और नामित परिचालन कंपनी का अनुरोध करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`झांगजियांग होंगकोउ पार्क / बेइकेचुआंग (Zhangjiang Hongkou Park / Beikechuang) <entities/hongkou-park>` (张江虹口园／北科创 · टेक्नोलॉजी पार्क · होंगकोउ (Hongkou) · सॉफ्टवेयर AI, उद्योग) — पार्क योजना बेइकेचुआंग को इनक्यूबेशन, प्रौद्योगिकी हस्तांतरण और निवेश सेवाओं में समन्वयकारी भूमिका देती है। परियोजना-विशिष्ट प्रतिक्रिया के लिए प्रासंगिक सब-पार्क और नामित परिचालन कंपनी का अनुरोध करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:38
 msgid ""
@@ -325,7 +321,7 @@ msgid ""
 "staged development targets. Lin-gang is a functional area, not Shanghai's "
 "seventeenth district. Establish the administering boundary before seeking "
 "incentives. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`लिन-गांग साइंस एंड इनोवेशन सिटी (Lin-gang Science and Innovation City) <entities/lin-gang>` (临港科创城 · प्रौद्योगिकी पार्क · पुडोंग (Pudong) · हार्डवेयर AI, चिप्स, सॉफ्टवेयर AI) — जनवरी 2026 की योजना में दिशुई लेक AI और IC इनोवेशन पोर्ट्स तथा चरणबद्ध विकास लक्ष्यों की पहचान की गई है। लिन-गांग एक कार्यात्मक क्षेत्र है, न कि शंघाई का सत्रहवां जिला। प्रोत्साहन मांगने से पहले प्रशासनिक सीमा की पुष्टि करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`लिन-गांग साइंस एंड इनोवेशन सिटी (Lin-gang Science and Innovation City) <entities/lin-gang>` (临港科创城 · टेक्नोलॉजी पार्क · पुडोंग (Pudong) · हार्डवेयर AI, चिप्स, सॉफ्टवेयर AI) — जनवरी 2026 की योजना में दिशुई लेक AI और IC इनोवेशन पोर्ट्स तथा चरणबद्ध विकास लक्ष्यों की पहचान की गई है। लिन-गांग एक कार्यात्मक क्षेत्र है, न कि शंघाई का सत्रहवां जिला। प्रोत्साहन मांगने से पहले प्रशासनिक सीमा की पुष्टि करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:40
 msgid ""
@@ -335,7 +331,7 @@ msgid ""
 "services. A strong starting point for AI chip teams, with specific EDA, "
 "IP, tape-out, packaging and testing access negotiated with providers. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई IC डिज़ाइन इंडस्ट्रियल पार्क (Shanghai IC Design Industrial Park) <entities/ic-design>` (上海集成电路设计产业园 · प्रौद्योगिकी पार्क · पुडोंग (Pudong) · चिप्स, हार्डवेयर AI) — डिज़ाइन और औद्योगिक सेवाओं को जोड़ने वाला झांगजियांग चिप डिज़ाइन इकोसिस्टम। AI चिप टीमों के लिए एक मजबूत शुरुआती बिंदु, जहां विशिष्ट EDA, IP, टेप-आउट, पैकेजिंग और परीक्षण पहुंच पर प्रदाताओं के साथ बातचीत की जाती है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शंघाई IC डिज़ाइन इंडस्ट्रियल पार्क (Shanghai IC Design Industrial Park) <entities/ic-design>` (上海集成电路设计产业园 · टेक्नोलॉजी पार्क · पुडोंग (Pudong) · चिप्स, हार्डवेयर AI) — डिज़ाइन और औद्योगिक सेवाओं को जोड़ने वाला झांगजियांग चिप डिज़ाइन इकोसिस्टम। AI चिप टीमों के लिए एक मजबूत शुरुआती बिंदु, जहां विशिष्ट EDA, IP, टेप-आउट, पैकेजिंग और परीक्षण पहुंच पर प्रदाताओं के साथ बातचीत की जाती है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:41
 msgid ""
@@ -346,7 +342,7 @@ msgid ""
 "Caohejing name covers multiple development locations. Address: 1015 "
 "Caobao Road, Shanghai | Tel: +86 21 64850000. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`काओहेजिंग डेवलपमेंट ज़ोन (Caohejing Development Zone) <entities/caohejing>` (漕河泾开发区 · प्रौद्योगिकी पार्क · शुहुई (Xuhui) · सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग) — पार्क संचालक उद्यम और बौद्धिक-संपदा सेवा मार्ग प्रकाशित करता है। विशिष्ट सब-पार्क और परिचालन पते की पुष्टि करें; काओहेजिंग नाम कई विकास स्थानों को कवर करता है। 1015 काओबाओ रोड, शंघाई | Tel: +86 21 64850000. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`काओहेजिंग डेवलपमेंट ज़ोन (Caohejing Development Zone) <entities/caohejing>` (漕河泾开发区 · टेक्नोलॉजी पार्क · शुहुई (Xuhui) · सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग) — पार्क संचालक उद्यम और बौद्धिक-संपदा सेवा मार्ग प्रकाशित करता है। विशिष्ट सब-पार्क और परिचालन पते की पुष्टि करें; काओहेजिंग नाम कई विकास स्थानों को कवर करता है। 1015 काओबाओ रोड, शंघाई | Tel: +86 21 64850000. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:42
 msgid ""
@@ -390,7 +386,7 @@ msgid ""
 "Hi-Tech Park, Daning and Suhewan. Confirm the specific carrier operator, "
 "data-compliance services and tenancy terms. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`शिबेई हाई-टेक पार्क / शुतोंग वैली और दनिंग स्टार्टअप सहायता केंद्रों (Shibei Hi-Tech Park / Shutong Valley) <entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · प्रौद्योगिकी पार्क · जिंगआन (Jing'an) · सॉफ्टवेयर AI, उद्योग) — जिंगआन की 2026-2028 AI प्रदर्शन योजना और जिला स्टार्टअप सहायता केंद्र कार्यक्रम शिबेई हाई-टेक पार्क, दनिंग और सुहेवान में बिग-डेटा, ब्लॉकचेन (शुतोंग वैली), क्लाउड कंप्यूटिंग और एंटरप्राइज AI कार्यस्थलों को आधार प्रदान करते हैं। विशिष्ट स्टार्टअप सहायता केंद्र संचालक, डेटा-अनुपालन सेवाओं और किरायेदारी शर्तों की पुष्टि करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`शिबेई हाई-टेक पार्क / शुतोंग वैली और दनिंग स्टार्टअप सहायता केंद्रों (Shibei Hi-Tech Park / Shutong Valley) <entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · टेक्नोलॉजी पार्क · जिंगआन (Jing'an) · सॉफ्टवेयर AI, उद्योग) — जिंगआन की 2026-2028 AI प्रदर्शन योजना और जिला स्टार्टअप सहायता केंद्र कार्यक्रम शिबेई हाई-टेक पार्क, दनिंग और सुहेवान में बिग-डेटा, ब्लॉकचेन (शुतोंग वैली), क्लाउड कंप्यूटिंग और एंटरप्राइज AI कार्यस्थलों को आधार प्रदान करते हैं। विशिष्ट स्टार्टअप सहायता केंद्र संचालक, डेटा-अनुपालन सेवाओं और किरायेदारी शर्तों की पुष्टि करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:46
 msgid ""
@@ -412,7 +408,7 @@ msgid ""
 "infrastructure and linked compute, model and corpus vouchers. Confirm "
 "whether the company's registered and operating address falls inside the "
 "designated town boundary. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`झांगजियांग AI इनोवेशन टाउन (Zhangjiang AI Innovation Town) <entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · प्रौद्योगिकी पार्क · पुडोंग (Pudong) · सॉफ्टवेयर AI, हार्डवेयर AI, विज्ञान के लिए AI) — झांगजियांग साइंस सिटी में 700,000 वर्ग मीटर के औद्योगिक स्थान, स्पैटियोटेम्पोरल डिजिटल इंफ्रास्ट्रक्चर और जुड़े हुए कंप्यूट, मॉडल तथा कॉर्पस वाउचर के साथ 2-वर्ग-किलोमीटर का एक कोर ज़ोन। पुष्टि करें कि क्या कंपनी का पंजीकृत और परिचालन पता निर्दिष्ट टाउन सीमा के भीतर आता है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`झांगजियांग AI इनोवेशन टाउन (Zhangjiang AI Innovation Town) <entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · टेक्नोलॉजी पार्क · पुडोंग (Pudong) · सॉफ्टवेयर AI, हार्डवेयर AI, विज्ञान के लिए AI) — झांगजियांग साइंस सिटी में 700,000 वर्ग मीटर के औद्योगिक स्थान, स्पैटियोटेम्पोरल डिजिटल इंफ्रास्ट्रक्चर और जुड़े हुए कंप्यूट, मॉडल तथा कॉर्पस वाउचर के साथ 2-वर्ग-किलोमीटर का एक कोर ज़ोन। पुष्टि करें कि क्या कंपनी का पंजीकृत और परिचालन पता निर्दिष्ट टाउन सीमा के भीतर आता है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:48
 msgid ""
@@ -444,7 +440,7 @@ msgid ""
 "seven universities in Songjiang University Town with technology-transfer "
 "platforms and incubation operators. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`सोंगजियांग यूनिवर्सिटी टाउन साई-टेक सोर्स (Songjiang University Town Sci-Tech Source) <entities/songjiang-uni-source>` (松江大学城科创源 · इनक्यूबेटर · सोंगजियांग (Songjiang) · सॉफ्टवेयर AI, हार्डवेयर AI, सामग्री (Materials)) — सोंगजियांग यूनिवर्सिटी टाउन के सात विश्वविद्यालयों को प्रौद्योगिकी-हस्तांतरण प्लेटफॉर्मों और इनक्यूबेशन संचालकों से जोड़ने के लिए सितंबर 2026 की विशेष-फंड सूचना द्वारा समर्थित एक सोंगजियांग जिला पहल। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+msgstr ":doc:`सोंगजियांग यूनिवर्सिटी टाउन साई-टेक सोर्स (Songjiang University Town Sci-Tech Source) <entities/songjiang-uni-source>` (松江大学城科创源 · इनक्यूबेटर · सोंगजियांग (Songjiang) · सॉफ्टवेयर AI, हार्डवेयर AI, सामग्री विज्ञान) — सोंगजियांग यूनिवर्सिटी टाउन के सात विश्वविद्यालयों को प्रौद्योगिकी-हस्तांतरण प्लेटफॉर्मों और इनक्यूबेशन संचालकों से जोड़ने के लिए सितंबर 2026 की विशेष-फंड सूचना द्वारा समर्थित एक सोंगजियांग जिला पहल। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../incubation.rst:51
 msgid ""

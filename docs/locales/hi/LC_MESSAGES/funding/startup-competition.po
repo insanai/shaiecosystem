@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -29,11 +29,6 @@ msgid "2026 call published; deadline check required"
 msgstr "2026 कॉल प्रकाशित; समय सीमा की जाँच आवश्यक"
 
 #: ../../funding/startup-competition.rst:8
-
-#| msgid ""
-#| "`Evidence S107 "
-#| "<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
-#| "2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
 msgid ""
 "`Evidence S110 "
 "<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
@@ -90,24 +85,24 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 
 #: ../../funding/startup-competition.rst:33
 msgid "Choose the correct competition track, region and applicant category."
-msgstr "सही प्रतियोगिता ट्रैक, क्षेत्र और आवेदक श्रेणी चुनें।"
+msgstr "सही श्रेणी, क्षेत्र और आवेदन प्रकार चुनें।"
 
 #: ../../funding/startup-competition.rst:35
 msgid ""
 "Read the rules and submit the required project, team and IP evidence."
-msgstr "नियम पढ़ें और आवश्यक परियोजना, टीम तथा IP साक्ष्य जमा करें।"
+msgstr "नियम पढ़ें और परियोजना, टीम व IP के माँगे गए प्रमाण भेजें।"
 
 #: ../../funding/startup-competition.rst:37
 msgid ""
 "Complete selection or pitching; confirm prize and service conditions in "
 "writing."
-msgstr "चयन या पिचिंग पूरी करें; पुरस्कार और सेवा शर्तों की लिखित पुष्टि करें।"
+msgstr "चयन या पिचिंग में भाग लें और पुरस्कार व सेवाओं की शर्तें लिखित रूप में लें।"
 
 #: ../../funding/startup-competition.rst:39
 msgid ""
 "Treat investor introductions and district funding as separate follow-up "
 "decisions."
-msgstr "निवेशक परिचय और जिला फंडिंग को अलग अनुवर्ती निर्णयों के रूप में लें।"
+msgstr "निवेशकों से परिचय और ज़िला सहायता अलग फैसले हैं; प्रतियोगिता से वे अपने-आप नहीं मिलते।"
 
 #: ../../funding/startup-competition.rst:41
 msgid ""

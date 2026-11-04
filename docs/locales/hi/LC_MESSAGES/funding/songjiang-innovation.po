@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -22,18 +22,13 @@ msgstr "सोंगजियांग प्रौद्योगिकी-उ�
 
 #: ../../funding/songjiang-innovation.rst:4
 msgid "Grant | Songjiang"
-msgstr "अनुदान (Grant) | सोंगजियांग (Songjiang)"
+msgstr "अनुदान | सोंगजियांग (Songjiang)"
 
 #: ../../funding/songjiang-innovation.rst:6
 msgid "Policy in force; call not confirmed open"
 msgstr "नीति लागू है; आवेदन अभी खुले हैं या नहीं, इसकी पुष्टि बाकी"
 
 #: ../../funding/songjiang-innovation.rst:8
-
-#| msgid ""
-#| "`Evidence S120 "
-#| "<https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. "
-#| "关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
 msgid ""
 "`Evidence S123 "
 "<https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. "
@@ -63,7 +58,7 @@ msgid ""
 "Qualifying technology enterprises under the 2026-2027 measures and "
 "implementing rules. Different recognition, commercialization and voucher "
 "provisions must be checked separately."
-msgstr "2026-2027 उपायों और कार्यान्वयन नियमों के तहत अर्हकारी प्रौद्योगिकी उद्यम। विभिन्न मान्यता, व्यावसायीकरण और वाउचर प्रावधानों की अलग से जाँच की जानी चाहिए।"
+msgstr "2026-2027 उपायों और कार्यान्वयन नियमों के तहत पात्र प्रौद्योगिकी उद्यम। विभिन्न मान्यता, व्यावसायीकरण और वाउचर प्रावधानों की अलग से जाँच की जानी चाहिए।"
 
 #: ../../funding/songjiang-innovation.rst:22
 msgid ""
@@ -95,25 +90,25 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+msgstr "तारीख वाली आधिकारिक सूचना पढ़ें और ज़िला, आवेदक, कारोबार व खर्च की अवधि की शर्तें जाँचें।"
 
 #: ../../funding/songjiang-innovation.rst:35
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+msgstr "ज़रूरी दस्तावेज़ तैयार करें और जहाँ माँगी गई हो, संस्थान या ज़िले की सिफारिश लें।"
 
 #: ../../funding/songjiang-innovation.rst:37
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+msgstr "अंतिम तारीख से पहले आधिकारिक पोर्टल पर आवेदन करें और रसीद सँभालें।"
 
 #: ../../funding/songjiang-innovation.rst:39
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+msgstr "सूचना के अनुसार समीक्षा, मंज़ूरी, रिपोर्ट, अंतिम स्वीकृति और भुगतान की प्रक्रिया पूरी करें।"
 
 #: ../../funding/songjiang-innovation.rst:41
 msgid ""

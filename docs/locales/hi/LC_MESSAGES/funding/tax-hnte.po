@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -29,11 +29,6 @@ msgid "Published tax guidance; recognition required"
 msgstr "प्रकाशित कर मार्गदर्शन; मान्यता आवश्यक"
 
 #: ../../funding/tax-hnte.rst:8
-
-#| msgid ""
-#| "`Evidence S106 "
-#| "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
-#| "上海市“2366”产业税收优惠政策指引."
 msgid ""
 "`Evidence S109 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
@@ -90,22 +85,22 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 #: ../../funding/tax-hnte.rst:33
 msgid ""
 "Check the current tax rules and recognition or accounting requirements."
-msgstr "वर्तमान कर नियमों और मान्यता या लेखांकन आवश्यकताओं की जाँच करें।"
+msgstr "मौजूदा कर नियम और मान्यता या लेखांकन की शर्तें जाँचें।"
 
 #: ../../funding/tax-hnte.rst:35
 msgid ""
 "Maintain qualifying R&D and income records with a qualified tax adviser."
-msgstr "योग्य कर सलाहकार के साथ अर्हकारी R&D और आय रिकॉर्ड बनाए रखें।"
+msgstr "योग्य कर सलाहकार के साथ R&D और आय के रिकॉर्ड रखें।"
 
 #: ../../funding/tax-hnte.rst:37
 msgid ""
 "Complete recognition where required and claim in the correct tax filing."
-msgstr "जहां आवश्यक हो मान्यता पूरी करें और सही कर फाइलिंग में दावा करें।"
+msgstr "ज़रूरी मान्यता लें और सही कर रिटर्न में लाभ का दावा करें।"
 
 #: ../../funding/tax-hnte.rst:39
 msgid ""
 "Retain evidence for review and separate tax savings from cash grants."
-msgstr "समीक्षा के लिए साक्ष्य सुरक्षित रखें और कर बचत को नकद अनुदान से अलग रखें।"
+msgstr "जाँच के लिए प्रमाण रखें और कर बचत को नकद अनुदान से अलग समझें।"
 
 #: ../../funding/tax-hnte.rst:41
 msgid ""

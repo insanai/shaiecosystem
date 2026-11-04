@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../reading-the-city.rst:1
 msgid "A city of connected possibilities"
-msgstr "जुड़ी हुई संभावनाओं का शहर"
+msgstr "शंघाई में इनोवेशन और उद्यमिता"
 
 #: ../../reading-the-city.rst:4
 msgid ""
@@ -27,7 +27,7 @@ msgid ""
 "customer to a repeatable business. The useful unit is a working "
 "relationship: a laboratory, a district service team, an incubation "
 "operator, a buyer or an investment manager."
-msgstr "जब हम किसी परियोजना को अनुसंधान से प्रोटोटाइप तक, प्रोटोटाइप से पहले ग्राहक तक, और उस ग्राहक से एक दोहराए जाने योग्य व्यवसाय तक ले जाते हैं, तो शंघाई को समझना और उसमें आगे बढ़ना आसान हो जाता है। यहाँ सबसे उपयोगी इकाई एक कार्यशील संबंध है: एक प्रयोगशाला, एक जिला सेवा टीम, एक इनक्यूबेशन संचालक, एक खरीदार या एक निवेश प्रबंधक।"
+msgstr "शोध से प्रोटोटाइप, प्रोटोटाइप से पहले ग्राहक और फिर एक टिकाऊ कारोबार तक की यात्रा पर नज़र डालें तो शंघाई के अवसर समझना आसान हो जाता है। इस यात्रा में लैब, ज़िले की उद्यम सहायता टीम, इनक्यूबेटर, ग्राहक और निवेशक से सही सहयोग बनाना सबसे काम आता है।"
 
 #: ../../reading-the-city.rst:12 ../../reading-the-city.rst:20
 msgid "Sixteen districts, connected by people, research and industry."
@@ -35,7 +35,7 @@ msgstr "सोलह जिले, जो लोगों, अनुसंधा
 
 #: ../../reading-the-city.rst:22
 msgid "A practical atlas, with a stated boundary"
-msgstr "स्पष्ट सीमाओं वाला एक व्यावहारिक एटलस"
+msgstr "इस गाइड का दायरा"
 
 #: ../../reading-the-city.rst:25
 msgid ""
@@ -45,7 +45,7 @@ msgid ""
 "colleges. A separate appendix includes the 12 adult higher-education "
 "institutions. CEIBS and military institutions need separate treatment and "
 "are not silently added to the ordinary-university count."
-msgstr "यह संस्करण सभी 16 प्रशासनिक जिलों और शिक्षा मंत्रालय के जून 2026 के शंघाई रजिस्टर में शामिल 69 सामान्य उच्च-शिक्षा संस्थानों को कवर करता है, जिनमें 40 स्नातक संस्थान और 29 डिप्लोमा कॉलेज शामिल हैं। एक अलग परिशिष्ट में 12 वयस्क उच्च-शिक्षा संस्थान शामिल किए गए हैं। CEIBS और सैन्य संस्थानों को अलग से देखने की आवश्यकता है और उन्हें सामान्य विश्वविद्यालयों की संख्या में चुपचाप नहीं जोड़ा गया है।"
+msgstr "इस संस्करण में शंघाई के सभी 16 प्रशासनिक ज़िले शामिल हैं। शिक्षा मंत्रालय की जून 2026 की सूची के अनुसार यहाँ 69 सामान्य उच्च शिक्षा संस्थान हैं: 40 स्नातक स्तर के संस्थान और 29 डिप्लोमा कॉलेज। 12 प्रौढ़ उच्च शिक्षा संस्थानों की अलग सूची दी गई है। CEIBS और सैन्य संस्थानों की श्रेणी अलग है; उन्हें इन 69 संस्थानों में नहीं गिना गया है।"
 
 #: ../../reading-the-city.rst:27
 msgid ""
@@ -54,7 +54,7 @@ msgid ""
 "policies, university entry routes, technology parks, public platforms, "
 "private operators and corporate initiatives change independently. Unknown "
 "details remain visible."
-msgstr "कार्यक्रम निर्देशिका एक शोधित चयन है, न कि यह दावा कि शंघाई में प्रत्येक संगठन या फंडिंग कॉल को खोज लिया गया है। जिला नीतियां, विश्वविद्यालय प्रवेश मार्ग, प्रौद्योगिकी पार्क, सार्वजनिक प्लेटफॉर्म, निजी संचालक और कॉर्पोरेट पहलें स्वतंत्र रूप से बदलती रहती हैं। अज्ञात विवरण स्पष्ट रूप से दर्शाए गए हैं।"
+msgstr "यह निर्देशिका शोध के आधार पर चुने गए कार्यक्रमों का संकलन है। इसमें शंघाई के हर संस्थान या हर फंडिंग अवसर के शामिल होने का दावा नहीं है। ज़िला नीतियाँ, विश्वविद्यालयों के सहयोग कार्यक्रम, टेक्नोलॉजी पार्क, सार्वजनिक सुविधाएँ, निजी इनक्यूबेटर और कॉर्पोरेट कार्यक्रम अलग-अलग समय पर बदलते हैं। जिस जानकारी की पुष्टि नहीं हो सकी है, उसे स्पष्ट किया गया है।"
 
 #: ../../reading-the-city.rst:29
 msgid ""
@@ -62,11 +62,11 @@ msgid ""
 "validity period is not necessarily accepting applications. A launch "
 "announcement proves that an initiative was announced; it does not prove "
 "that a new cohort is open."
-msgstr "हमारी शोध तिथि 4 नवंबर 2026 है। अपनी घोषित वैधता अवधि के भीतर चल रही कोई नीति आवश्यक रूप से आवेदन स्वीकार नहीं कर रही होती है। लॉन्च की घोषणा केवल यह साबित करती है कि एक पहल की घोषणा की गई थी; यह साबित नहीं करती कि नया बैच (cohort) खुला है।"
+msgstr "इस संस्करण की जानकारी 4 नवंबर 2026 तक जाँची गई है। किसी नीति का लागू होना यह नहीं बताता कि आवेदन भी खुले हैं। कार्यक्रम शुरू होने की घोषणा से यह भी साबित नहीं होता कि अगले बैच के लिए आवेदन लिए जा रहे हैं।"
 
 #: ../../reading-the-city.rst:31
 msgid "Three geographies, many choices"
-msgstr "तीन भौगोलिक क्षेत्र, अनेक विकल्प"
+msgstr "इलाके चुनें, सहयोग तलाशें"
 
 #: ../../reading-the-city.rst:34
 msgid ""
@@ -76,7 +76,7 @@ msgid ""
 "biomedical activity with a distinct Lin-gang development area. These are "
 "starting hypotheses; the right operator and customer matter more than an "
 "address."
-msgstr "मध्य शहर अनुसंधान, पेशेवर सेवाओं और ग्राहकों से निकटता प्रदान करता है। मॉडल और विश्वविद्यालय संपर्कों के लिए शुहुई (Xuhui) और यांगपू (Yangpu) उपयोगी शुरुआती बिंदु हैं। पुडोंग (Pudong) झांगजियांग अनुसंधान, चिप और बायोमेडिकल गतिविधियों को एक विशिष्ट लिन-गांग विकास क्षेत्र के साथ जोड़ता है। ये प्रारंभिक परिकल्पनाएं हैं; किसी पते से अधिक सही संचालक और ग्राहक मायने रखते हैं।"
+msgstr "शहर के केंद्रीय इलाकों में शोध संस्थानों, पेशेवर सेवाओं और ग्राहकों तक पहुँचना आसान है। मॉडल डेवलपमेंट और विश्वविद्यालयों से सहयोग के लिए शुहुई और यांगपू से शुरुआत की जा सकती है। पुडोंग में झांगजियांग का शोध, चिप और बायोमेडिकल उद्योग है, जबकि लिन-गांग विकास क्षेत्र की अपनी भूमिका है। ये शुरुआती संकेत हैं; सही संचालक और ग्राहक मिलना केवल पते से अधिक मायने रखता है।"
 
 #: ../../reading-the-city.rst:36
 msgid ""
@@ -86,7 +86,7 @@ msgid ""
 "environment. Chongming is a distinct setting for ecological, agricultural "
 "and marine questions. The district chapters explain the evidence behind "
 "each route."
-msgstr "मिनहांग (Minhang) और जियाडिंग (Jiading) इंजीनियरिंग अनुसंधान को औद्योगिक कार्य से जोड़ने में मदद करते हैं। बाओशान (Baoshan), सोंगजियांग (Songjiang), जिनशान (Jinshan) और फेंगशियान (Fengxian) विभिन्न विनिर्माण संदर्भ प्रदान करते हैं। चिंगपू (Qingpu) क्षेत्रीय सहयोग और शीत्सेन (Xicen) अनुसंधान वातावरण को जोड़ता है। चोंगमिंग (Chongming) पारिस्थितिक, कृषि और समुद्री प्रश्नों के लिए एक विशिष्ट स्थान है। जिला अध्याय प्रत्येक मार्ग के पीछे के प्रमाणों की व्याख्या करते हैं।"
+msgstr "मिनहांग और जियाडिंग में इंजीनियरिंग शोध को औद्योगिक काम से जोड़ने के अवसर हैं। बाओशान, सोंगजियांग, जिनशान और फेंगशियान की विनिर्माण क्षमताएँ अलग हैं। चिंगपू क्षेत्रीय सहयोग और शीत्सेन के शोध संसाधनों से जुड़ा है। चोंगमिंग में पर्यावरण, कृषि और समुद्री तकनीक पर ध्यान दिया जा सकता है। हर ज़िले के अध्याय में इन सुझावों के स्रोत दिए गए हैं।"
 
 #: ../../reading-the-city.rst:38
 msgid ""
@@ -94,7 +94,7 @@ msgid ""
 "Hongqiao, G60 and Lin-gang can cross administrative or operating "
 "boundaries. We confirm registered address, actual operations, project "
 "location and the receiving authority before assuming a policy applies."
-msgstr "कार्यात्मक क्षेत्र अतिरिक्त जिले नहीं हैं। झांगजियांग (Zhangjiang), काओहेजिंग (Caohejing), होंगकियाओ (Hongqiao), G60 और लिन-गांग (Lin-gang) प्रशासनिक या परिचालन सीमाओं को पार कर सकते हैं। किसी नीति के लागू होने का अनुमान लगाने से पहले हम पंजीकृत पता, वास्तविक संचालन, परियोजना स्थान और प्राप्तकर्ता प्राधिकरण की पुष्टि करते हैं।"
+msgstr "विशेष विकास क्षेत्र अलग प्रशासनिक ज़िले नहीं हैं। झांगजियांग, काओहेजिंग, होंगकियाओ, G60 और लिन-गांग की प्रशासनिक और परिचालन सीमाएँ भिन्न हो सकती हैं। नीति लागू मानने से पहले पंजीकृत पता, वास्तविक कारोबारी गतिविधि, परियोजना स्थल और संबंधित विभाग की पुष्टि ज़रूरी है।"
 
 #: ../../reading-the-city.rst:40
 msgid ""
@@ -107,11 +107,11 @@ msgid ""
 "Shanghai Tsinghua International Innovation Center; and Songjiang launched "
 "the University Town Sci-Tech Source fund to connect seven campus research "
 "bases with industrial transformation."
-msgstr "हाल के 2025-2026 के नगर निगम और जिला उन्नयनों ने इन स्थानिक भूमिकाओं को और स्पष्ट कर दिया है: पुडोंग ने अपने कंप्यूट, मॉडल और कॉर्पस वाउचरों के साथ 2-वर्ग-किलोमीटर के झांगजियांग AI इनोवेशन टाउन का अनावरण किया; शंघाई ने अपने उच्च-गुणवत्ता वाले इनक्यूबेटर नेटवर्क का विस्तार 18 प्रमुख संचालकों तक किया; पुतुओ (Putuo) ने वुनिंग साइंस पार्क, चाइना-इज़राइल इनोवेशन हब और शंघाई त्सिंगहुआ इंटरनेशनल इनोवेशन सेंटर को जोड़ते हुए अपने \"एक अक्ष, एक पार्क, एक केंद्र\" गलियारे का निर्माण किया; और सोंगजियांग ने सात कैंपस अनुसंधान केंद्रों को औद्योगिक रूपांतरण से जोड़ने के लिए यूनिवर्सिटी टाउन साई-टेक सोर्स फंड शुरू किया।"
+msgstr "2025-2026 की नई पहलों ने इन इलाकों की भूमिका और स्पष्ट की है। पुडोंग ने कंप्यूट, मॉडल और कॉर्पस वाउचर के साथ 2 वर्ग किलोमीटर का झांगजियांग AI इनोवेशन टाउन शुरू किया। शंघाई का उच्च गुणवत्ता वाला इनक्यूबेटर नेटवर्क 18 प्रमुख संचालकों तक पहुँचा। पुतुओ ने वुनिंग साइंस पार्क, चाइना-इज़राइल इनोवेशन हब और शंघाई त्सिंगहुआ इंटरनेशनल इनोवेशन सेंटर को अपने “एक अक्ष, एक पार्क, एक केंद्र” ढाँचे में जोड़ा। सोंगजियांग का यूनिवर्सिटी टाउन साइंस एंड टेक्नोलॉजी सोर्स फंड सात विश्वविद्यालयों के शोध को उद्योग तक पहुँचाने के लिए शुरू हुआ।"
 
 #: ../../reading-the-city.rst:42
 msgid "The magnolia and the pearl"
-msgstr "मैग्नोलिया और मोती"
+msgstr "मैग्नोलिया और पूरब का मोती"
 
 #: ../../reading-the-city.rst:45
 msgid ""
@@ -121,7 +121,7 @@ msgid ""
 "municipal color standard. The cover is an original generated Chinese "
 "ink-style illustration, not a documentary photograph or a geographically "
 "exact skyline."
-msgstr "शंघाई का आधिकारिक फूल सफेद मैग्नोलिया (White Magnolia) है, जिसे 1986 में नामित किया गया था। पर्ल व्हाइट (मोती जैसा सफेद) इस एटलस का मुख्य रंग है। इंक चारकोल, मिस्ट जेड और शैम्पेन गोल्ड आधिकारिक नगर रंग मानक के बजाय एक संपादकीय पैलेट बनाते हैं। कवर एक मौलिक रूप से जनित चीनी स्याही-शैली का चित्रण है, न कि कोई वृत्तचित्र तस्वीर या भौगोलिक रूप से सटीक क्षितिज।"
+msgstr "सफेद मैग्नोलिया को 1986 में शंघाई का आधिकारिक फूल चुना गया था। इसी से प्रेरित मोती जैसा सफेद इस गाइड का मुख्य रंग है। साथ में स्याही जैसा गहरा रंग, हल्का जेड और शैम्पेन गोल्ड इस्तेमाल हुए हैं। यह हमारी डिज़ाइन की पसंद है, शहर का आधिकारिक रंग मानक नहीं। कवर चीनी इंक पेंटिंग की शैली में बनाया गया मौलिक जनरेटेड चित्र है, न कि वास्तविक दृश्य की तस्वीर या भौगोलिक रूप से सटीक चित्र।"
 
 #: ../../reading-the-city.rst:47
 msgid ""
@@ -131,24 +131,15 @@ msgid ""
 "using Guidedog in both HTML and PDF editions in seven languages, sharing "
 "one verified dataset across the interactive web atlas and the illustrated "
 "print-ready books."
-msgstr "यह पुस्तक और इंटरैक्टिव एटलस Vikrant Rathore द्वारा लिखा गया है, जिसमें Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore और Emily Yue Xu का योगदान है। यह प्रकाशन मूल रूप से Guidedog का उपयोग करके HTML और PDF दोनों संस्करणों (सात भाषाओं में) में तैयार किया गया है, जो इंटरैक्टिव वेब एटलस और सचित्र प्रिंट-तैयार पुस्तकों के बीच एक ही सत्यापित डेटासेट साझा करता है।"
+msgstr "इस पुस्तक और इंटरैक्टिव गाइड के लेखक Vikrant Rathore हैं। Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore और Emily Yue Xu ने योगदान दिया है। वेबसाइट और PDF पुस्तकें Guidedog के मूल वर्कफ़्लो से सात भाषाओं में तैयार होती हैं और एक ही जाँचे गए डेटासेट का उपयोग करती हैं।"
 
 #: ../../reading-the-city.rst:49
-
-#| msgid ""
-#| "`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. "
-#| "Shanghai municipal flower and overview."
 msgid ""
 "`Evidence S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
 "municipal flower and overview."
 msgstr "`साक्ष्य S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
 
 #: ../../reading-the-city.rst:51
-
-#| msgid ""
-#| "`Evidence S137 "
-#| "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
-#| "Shanghai expands list of high-quality incubators."
 msgid ""
 "`Evidence S141 "
 "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "

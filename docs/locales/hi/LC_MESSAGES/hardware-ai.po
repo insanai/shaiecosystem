@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../hardware-ai.rst:1
 msgid "Intelligence in the physical world"
-msgstr "भौतिक दुनिया में बुद्धिमत्ता"
+msgstr "चिप, रोबोट और स्मार्ट हार्डवेयर"
 
 #: ../../hardware-ai.rst:4
 msgid ""
@@ -26,7 +26,7 @@ msgid ""
 "reliability and service. A beautiful prototype is the beginning of a "
 "supply chain. We follow chips, sensors, robots and autonomous systems "
 "through the facilities they need."
-msgstr "हार्डवेयर एल्गोरिदम को सामग्रियों, विनिर्माण सहनशीलता (manufacturing tolerances), विश्वसनीयता और सेवा से जोड़ता है। एक सुंदर प्रोटोटाइप आपूर्ति श्रृंखला की केवल शुरुआत है। हम चिप्स, सेंसर, रोबोट और स्वायत्त प्रणालियों को उन सुविधाओं के माध्यम से ट्रैक करते हैं जिनकी उन्हें आवश्यकता होती है।"
+msgstr "हार्डवेयर में एल्गोरिदम के साथ सामग्री, निर्माण की सटीकता, भरोसेमंद प्रदर्शन और रखरखाव जुड़ते हैं। अच्छा प्रोटोटाइप उत्पादन तक पहुँचने की शुरुआत है। इस अध्याय में चिप, सेंसर, रोबोट और स्वायत्त प्रणालियों के लिए ज़रूरी सुविधाओं के आधार पर विकल्प दिए गए हैं।"
 
 #: ../../hardware-ai.rst:7
 msgid "Engineering gates from research to repeatable production."
@@ -34,7 +34,7 @@ msgstr "अनुसंधान से दोहराए जाने यो�
 
 #: ../../hardware-ai.rst:10
 msgid "Chips and sensing"
-msgstr "चिप्स और सेंसिंग"
+msgstr "चिप और सेंसर"
 
 #: ../../hardware-ai.rst:13
 msgid ""
@@ -43,7 +43,7 @@ msgid ""
 "EDA access, licensed IP, multi-project wafer participation, full mask "
 "sets, packaging, testing and characterization. A shared lab or incubator "
 "does not automatically pay for a tape-out."
-msgstr "AI चिप परियोजना के लिए, आर्किटेक्चर, वर्कलोड, प्रोसेस चयन, टूलचेन, IP निर्भरता और सॉफ्टवेयर सहायता योजना तैयार करें। EDA एक्सेस, लाइसेंस प्राप्त IP, मल्टी-प्रोजेक्ट वेफर (MPW) भागीदारी, पूर्ण मास्क सेट, पैकेजिंग, परीक्षण और कैरेक्टराइजेशन को अलग-अलग रखें। एक साझा प्रयोगशाला या इनक्यूबेटर स्वतः ही टेप-आउट का खर्च नहीं उठाता है।"
+msgstr "AI चिप टीम को आर्किटेक्चर, लक्षित वर्कलोड, निर्माण प्रक्रिया, टूलचेन, IP निर्भरता और सॉफ्टवेयर समर्थन की योजना तैयार रखनी चाहिए। EDA, लाइसेंस प्राप्त IP, मल्टी-प्रोजेक्ट वेफर, फुल-मास्क टेप-आउट, पैकेजिंग, टेस्टिंग और कैरेक्टराइज़ेशन की लागत अलग-अलग जाँचें। साझा लैब या इनक्यूबेटर अपने-आप टेप-आउट का खर्च नहीं उठाता।"
 
 #: ../../hardware-ai.rst:15
 msgid ""
@@ -52,7 +52,7 @@ msgid ""
 "relationship is relevant to beyond-Moore devices, sensors and pilot "
 "production. We ask for equipment, process capability, queue time, sample "
 "ownership and a written quotation."
-msgstr "झांगजियांग IC डिज़ाइन इंडस्ट्रियल पार्क और IC प्रमोशन सेंटर प्रारंभिक सेवा मार्ग हैं। जियाडिंग में, SITRI और इनोस्प्रिंग (InnoSpring) का प्रलेखित संबंध बियॉन्ड-मूर (beyond-Moore) उपकरणों, सेंसरों और पायलट उत्पादन के लिए प्रासंगिक है। हम उपकरण, प्रोसेस क्षमता, कतार समय (queue time), नमूना स्वामित्व और लिखित कोटेशन की मांग करते हैं।"
+msgstr "झांगजियांग IC डिज़ाइन पार्क और IC तकनीक एवं उद्योग प्रोत्साहन केंद्र से शुरुआत की जा सकती है। जियाडिंग का औद्योगिक प्रौद्योगिकी संस्थान और InnoSpring मिलकर बियॉन्ड-मूर डिवाइस, सेंसर तथा पायलट उत्पादन के संसाधन जोड़ते हैं। उपकरण, प्रक्रिया क्षमता, बुकिंग, नमूनों के अधिकार और लिखित कोटेशन माँगें।"
 
 #: ../../hardware-ai.rst:17
 msgid ""
@@ -62,11 +62,11 @@ msgid ""
 "photonic sensing teams. In Fengxian, the Oriental Beauty Valley Life "
 "Messenger Gene Drug Base opened in April 2025 to link AI-assisted "
 "molecular design with shared wet labs and pilot manufacturing."
-msgstr "झांगजियांग में शंघाई इंटीग्रेटेड सर्किट R&D सेंटर (ICRD) साझा प्रोसेस विकास और डिवाइस सत्यापन का समर्थन करता है, जबकि जियाडिंग में शीहे ऑप्टिक वैली (Xihe Optic Valley) वैज्ञानिकों द्वारा स्थापित ऑप्टोइलेक्ट्रॉनिक्स, लेजर और फोटोनिक सेंसिंग टीमों को इनक्यूबेट करती है। फेंगशियान में, AI-सहायता प्राप्त आणविक डिज़ाइन को साझा वेट लैब और पायलट विनिर्माण से जोड़ने के लिए अप्रैल 2025 में ओरिएंटल ब्यूटी वैली लाइफ मैसेंजर जीन ड्रग बेस खोला गया।"
+msgstr "झांगजियांग का Shanghai ICRD प्रक्रिया विकास और डिवाइस सत्यापन की सार्वजनिक सुविधाएँ देता है। जियाडिंग का Xihe Optics Valley वैज्ञानिक संस्थापकों को ऑप्टिकल और लेज़र सेंसर के क्षेत्र में इनक्यूबेशन सहायता देता है। अप्रैल 2025 में खुला फेंगशियान का Oriental Beauty Valley Life Messenger आधार AI-सहायता प्राप्त अणु डिज़ाइन, साझा लैब और पायलट उत्पादन को जोड़ता है।"
 
 #: ../../hardware-ai.rst:19
 msgid "Robots and embodied AI"
-msgstr "रोबोट और एम्बॉडीड AI (Embodied AI)"
+msgstr "रोबोटिक्स और एम्बॉडीड AI"
 
 #: ../../hardware-ai.rst:22
 msgid ""
@@ -75,7 +75,7 @@ msgid ""
 "batteries and the mechanical platform. Test the complete system against a "
 "named use case. Demonstrations should state payload, cycle time, failure "
 "conditions, human intervention and maintenance cost."
-msgstr "रोबोट फाउंडेशन मॉडल, परसेप्शन, प्लानिंग, कंट्रोल और सुरक्षा आर्किटेक्चर को मोटर्स, ट्रांसमिशन, टैक्टाइल सेंसिंग, बैटरी और मैकेनिकल प्लेटफॉर्म से अलग करके देखें। किसी नामित उपयोग परिदृश्य (use case) के विरुद्ध संपूर्ण प्रणाली का परीक्षण करें। प्रदर्शनों में पेलोड, साइकिल समय, विफलता की स्थितियां, मानवीय हस्तक्षेप और रखरखाव लागत का उल्लेख होना चाहिए।"
+msgstr "रोबोट मॉडल, परसेप्शन, प्लानिंग, कंट्रोल और सुरक्षा आर्किटेक्चर को मोटर, ट्रांसमिशन, स्पर्श सेंसर, बैटरी और यांत्रिक प्लेटफॉर्म से अलग समझें, फिर पूरे रोबोट को वास्तविक उपयोग में परखें। डेमो में भार क्षमता, काम का चक्र, विफलता की स्थितियाँ, मानवीय हस्तक्षेप और रखरखाव की लागत बताएँ।"
 
 #: ../../hardware-ai.rst:24
 msgid ""
@@ -84,11 +84,11 @@ msgid ""
 "Corporate programs can provide a deployment conversation. They do not "
 "replace production qualification, applicable certification or a customer "
 "acceptance plan."
-msgstr "मिनहांग के अनुसंधान-से-विनिर्माण जुड़ाव, बाओशान के रोबोट उद्योग, वुनिंग की परीक्षण सेवाओं और झांगजियांग के रोबोटिक्स इकोसिस्टम की तुलना करें। कॉर्पोरेट कार्यक्रम परिनियोजन वार्ता प्रदान कर सकते हैं। वे उत्पादन योग्यता, लागू प्रमाणन या ग्राहक स्वीकृति योजना का स्थान नहीं लेते हैं।"
+msgstr "मिनहांग के शोध-निर्माण सहयोग, बाओशान के रोबोट उद्योग, वुनिंग की परीक्षण सेवाओं और झांगजियांग के रोबोटिक्स नेटवर्क की तुलना करें। कॉर्पोरेट कार्यक्रम उपयोग के अवसर खोल सकते हैं, लेकिन उत्पादन लाइसेंस, आवश्यक प्रमाणन या ग्राहक की स्वीकृति प्रक्रिया की जगह नहीं लेते।"
 
 #: ../../hardware-ai.rst:26
 msgid "Other physical frontiers"
-msgstr "अन्य भौतिक मोर्चे"
+msgstr "अन्य उभरते क्षेत्र"
 
 #: ../../hardware-ai.rst:29
 msgid ""
@@ -98,7 +98,7 @@ msgid ""
 "research from regulated product development. For AI-enabled biology, "
 "confirm biosafety, instrument availability, sample handling and clinical "
 "access before renting a lab."
-msgstr "ड्रोन के लिए, वास्तविक परिचालन परिदृश्य से शुरुआत करें और जिनशान के UAV मार्ग से परीक्षण सेवाओं और लागू परिचालन अनुमतियों के बारे में पूछें। ब्रेन-कंप्यूटर इंटरफेस (BCI) और चिकित्सा उपकरणों के लिए, खोजपूर्ण अनुसंधान को विनियमित उत्पाद विकास से अलग करें। AI-सक्षम जीवविज्ञान के लिए, प्रयोगशाला किराए पर लेने से पहले जैव सुरक्षा (biosafety), उपकरण उपलब्धता, नमूना प्रबंधन और नैदानिक पहुंच की पुष्टि करें।"
+msgstr "ड्रोन के लिए वास्तविक उपयोग से शुरुआत करें और जिनशान के संबंधित केंद्रों से परीक्षण व संचालन की अनुमति जाँचें। ब्रेन-कंप्यूटर इंटरफेस और मेडिकल डिवाइस में शुरुआती शोध को विनियमित उत्पाद विकास से अलग रखें। AI-बायोटेक टीम लैब लेने से पहले जैव सुरक्षा, उपकरण, नमूने और क्लिनिकल संसाधन सुनिश्चित करे।"
 
 #: ../../hardware-ai.rst:31
 msgid ""
@@ -106,7 +106,7 @@ msgid ""
 "engineering milestones, manufacturing partner plan, test fixtures, "
 "reliability plan and a working demonstration. We identify what the "
 "incubator can actually supply and what the team must buy elsewhere."
-msgstr "हमारे हार्डवेयर आवेदन पैक में सामग्री का बिल (bill of materials), लागत सहित इंजीनियरिंग मील के पत्थर, विनिर्माण भागीदार योजना, परीक्षण फिक्स्चर, विश्वसनीयता योजना और एक कार्यशील प्रदर्शन शामिल होता है। हम यह पहचानते हैं कि इनक्यूबेटर वास्तव में क्या प्रदान कर सकता है और टीम को बाहर से क्या खरीदना होगा।"
+msgstr "हार्डवेयर आवेदन में बिल ऑफ मटीरियल्स, हर इंजीनियरिंग पड़ाव का बजट, निर्माण साझेदारी, टेस्ट फिक्स्चर, विश्वसनीयता जाँच की योजना और चालू डेमो जोड़ें। कौन-सी सुविधा इनक्यूबेटर देगा और कौन-सी टीम को खरीदनी है, यह स्पष्ट करें।"
 
 #: ../../hardware-ai.rst:33
 msgid ""

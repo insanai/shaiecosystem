@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -37,7 +37,7 @@ msgid ""
 "A specialist large-model incubation and acceleration community on the "
 "West Bund. Its operator lists several zones; admission, workspace, "
 "compute support and investment are separate decisions."
-msgstr "वेस्ट बंड पर एक विशेषज्ञ लार्ज-मॉडल इनक्यूबेशन और एक्सेलेरेशन समुदाय। इसका संचालक कई ज़ोन सूचीबद्ध करता है; प्रवेश, कार्यस्थल, कंप्यूट सहायता और निवेश अलग-अलग निर्णय हैं।"
+msgstr "वेस्ट बंड में बड़े AI मॉडल के लिए विशेष इनक्यूबेशन और एक्सेलेरेशन समुदाय। संचालक कई क्षेत्रों का प्रबंधन करता है। प्रवेश, ऑफिस की जगह, कंप्यूट सहायता और निवेश की शर्तें अलग-अलग तय होती हैं।"
 
 #: ../../entities/mosu.rst:12
 msgid "`Evidence S001 <https://www.opensmc.com/>`_. 模速空间."
@@ -53,7 +53,7 @@ msgstr "संस्था की पुष्टि है; आवेदन स
 
 #: ../../entities/mosu.rst:19
 msgid "Published support note: Services / possible incentives."
-msgstr "प्रकाशित सहायता विवरण: सेवाएं / संभावित प्रोत्साहन।"
+msgstr "प्रकाशित सहायता विवरण: सुविधाएँ व सेवाएँ; अतिरिक्त सहायता संभव।"
 
 #: ../../entities/mosu.rst:21
 msgid ""
@@ -87,7 +87,7 @@ msgstr "मानचित्र बिंदु प्रकाशित सड
 
 #: ../../entities/mosu.rst:34
 msgid "Application workflow"
-msgstr "आवेदन कार्यप्रणाली"
+msgstr "आवेदन प्रक्रिया"
 
 #: ../../entities/mosu.rst:37
 msgid ""
@@ -97,24 +97,24 @@ msgstr "संपादकीय आवेदन चेकलिस्ट। व
 
 #: ../../entities/mosu.rst:39
 msgid "Send a project brief and request the current admission checklist."
-msgstr "परियोजना का संक्षिप्त विवरण भेजें और वर्तमान प्रवेश चेकलिस्ट का अनुरोध करें।"
+msgstr "परियोजना का संक्षिप्त परिचय भेजें और मौजूदा प्रवेश शर्तें व दस्तावेज़ सूची माँगें।"
 
 #: ../../entities/mosu.rst:41
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "संचालक की पात्रता और तकनीकी या वाणिज्यिक समीक्षा पूरी करें।"
+msgstr "संचालक की पात्रता जाँच और तकनीकी या व्यावसायिक समीक्षा पूरी करें।"
 
 #: ../../entities/mosu.rst:43
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "किराया, सेवा शुल्क, IP, कंप्यूट मूल्य निर्धारण और किसी भी इक्विटी अधिकार की लिखित रूप में पुष्टि करें।"
+msgstr "किराया, सेवा शुल्क, IP, कंप्यूट दरें और हिस्सेदारी संबंधी अधिकार लिखित रूप में तय करें।"
 
 #: ../../entities/mosu.rst:45
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "सहमत प्रवेश दस्तावेजों पर हस्ताक्षर करें और मील के पत्थर तथा सहायता प्रभारियों को दर्ज करें।"
+msgstr "प्रवेश के समझौतों पर हस्ताक्षर करें और अगले लक्ष्य व ज़िम्मेदार व्यक्ति दर्ज करें।"
 
 #: ../../entities/mosu.rst:47
 msgid ":doc:`Xuhui district route </districts/xuhui>`"
