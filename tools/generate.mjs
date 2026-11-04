@@ -883,6 +883,7 @@ for (const lang of ['hi', 'ja', 'ko', 'de', 'es']) {
 }
 
 const dataset = {
+  license: { name: "CC BY-SA 4.0", url: "https://creativecommons.org/licenses/by-sa/4.0/", attribution: "Shanghai Ecosystem Atlas, Vikrant Rathore and contributors", exceptions: "Third-party material retains its respective rights and licenses.", notice: "https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md" },
   checked,
   credits,
   districts: districts.map(d => ({ ...d, source: source(d.source) })),
