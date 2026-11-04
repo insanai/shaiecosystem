@@ -5770,11 +5770,11 @@
   "de": {
     "chapters": {
       "reading-the-city": {
-        "title": "Eine Stadt der vernetzten Möglichkeiten",
-        "intro": "Shanghai lässt sich leichter erschließen, wenn man ein Projekt von der Forschung zum Prototyp, vom Prototyp zum ersten Kunden und von diesem Kunden zu einem tragfähigen Geschäftsmodell begleitet. Die entscheidende Einheit ist eine funktionierende Arbeitsbeziehung: ein Labor, ein bezirkliches Serviceteam, ein Inkubatoren-Betreiber, ein industrieller Auftraggeber oder ein Investmentmanager.",
+        "title": "Shanghais Innovationslandschaft verstehen",
+        "intro": "Von der Forschung zum Prototyp, zum ersten Kunden und schließlich zu einem tragfähigen Geschäft: Entlang dieses Weges lassen sich Shanghais Angebote gezielt erschließen. Entscheidend sind konkrete Arbeitsbeziehungen zu Laboren, bezirklichen Servicestellen, Inkubatoren, Kunden und Investmentmanagern.",
         "sections": [
           [
-            "Ein praxisorientierter Atlas mit definierten Grenzen",
+            "Was dieser Atlas abdeckt",
             [
               "Diese Ausgabe umfasst alle 16 Verwaltungsbezirke sowie das Shanghaier Register des Bildungsministeriums vom Juni 2026 mit 69 regulären Hochschulen, darunter 40 Universitäten und Fachhochschulen mit Bachelor-Abschluss und 29 tertiäre Fachkollegs (Diploma Colleges). Ein gesonderter Anhang führt die 12 Einrichtungen der Erwachsenenbildung auf. Die CEIBS sowie militärische Hochschulen erfordern eine gesonderte Betrachtung und werden nicht stillschweigend zur Zählung der regulären Hochschulen hinzugerechnet.",
               "Das Programmverzeichnis ist eine recherchierte Auswahl und erhebt keinen Anspruch darauf, jede Organisation oder Förderausschreibung in Shanghai erfasst zu haben. Förderrichtlinien der Bezirke, Zugangswege der Universitäten, Technologieparks, öffentliche Plattformen, private Betreiber und Unternehmensinitiativen verändern sich unabhängig voneinander. Noch ungeklärte Angaben werden transparent ausgewiesen.",
@@ -5782,7 +5782,7 @@
             ]
           ],
           [
-            "Drei Geografien, vielfältige Möglichkeiten",
+            "Standorte nach Bedarf wählen",
             [
               "Die Innenstadt bietet räumliche Nähe zu Forschungseinrichtungen, professionellen Dienstleistern und Auftraggebern. Xuhui und Yangpu sind ideale Ausgangspunkte für KI-Modellentwicklungen und universitäre Kooperationen. Pudong verbindet die Spitzenforschung von Zhangjiang sowie Halbleiter- und Biomedizin-Cluster mit dem eigenständigen Entwicklungsgebiet Lin-gang. Dies sind anfängliche Orientierungshilfen; der passende Partner und die richtigen Kunden wiegen schwerer als eine bloße Postadresse.",
               "Minhang und Jiading schlagen die Brücke zwischen ingenieurwissenschaftlicher Forschung und industrieller Fertigung. Baoshan, Songjiang, Jinshan und Fengxian bieten unterschiedliche Produktionsumgebungen. Qingpu verknüpft regionale Zusammenarbeit mit dem Forschungscampus Xicen. Chongming bildet ein einzigartiges Umfeld für ökologische, landwirtschaftliche und maritime Vorhaben. Die jeweiligen Bezirkskapitel erläutern die Faktenbasis hinter jedem dieser Wege.",
@@ -5791,35 +5791,35 @@
             ]
           ],
           [
-            "Die Magnolie und die Perle",
+            "Magnolie und Perle",
             [
               "Shanghais offizielle Stadtblume ist die weiße Magnolie, die 1986 ernannt wurde. Perlweiß ist der dominierende Farbton dieses Atlas. Tuschschwarz, Nebeljade und Champagnergold bilden eine redaktionelle Farbpalette und stellen keine amtliche kommunale Norm dar. Das Titelbild ist eine originäre Illustration im traditionellen chinesischen Tuschstil, keine Dokumentarfotografie und keine geografisch exakte Stadtsilhouette.",
-              "Dieses Buch und der interaktive Atlas wurden von Vikrant Rathore verfasst, unter Mitwirkung von Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu. Die Veröffentlichung wurde mit Guidedog nativ sowohl als HTML-Ausgabe wie auch als PDF-Buch (in Englisch und vereinfachtem Chinesisch) erstellt, basierend auf einem einheitlichen, verifizierten Datenbestand für den interaktiven Online-Atlas und die druckfertigen illustrierten Bände."
+              "Vikrant Rathore hat dieses Buch und den interaktiven Atlas verfasst. Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu haben Beiträge geleistet. Mit dem nativen Guidedog-Workflow entstehen HTML- und PDF-Ausgaben in sieben Sprachen. Website und Bücher greifen auf denselben geprüften Datenbestand zu."
             ]
           ]
         ]
       },
       "software-ai": {
-        "title": "Intelligenz in Software",
-        "intro": "Für ein Software-KI-Team ist die knappste Ressource oft ein wiederkehrendes Kundenproblem, ein verlässlicher Evaluierungsdatensatz und ein rechtskonformer Zugang zu nutzbaren Daten. Eine Entwickler- und Modell-Community stiftet dann echten Nutzen, wenn sie konkrete Ressourcen bereitstellt oder belastbare Kontakte vermittelt.",
+        "title": "Software und KI-Anwendungen",
+        "intro": "Software-KI-Teams brauchen vor allem ein Kundenproblem mit wiederholbarem Lösungsansatz, verlässliche Evaluierungsdaten und einen rechtmäßigen Zugang zu geeigneten Daten. Eine Modell-Community hilft, wenn sie konkrete Ressourcen oder passende Geschäftskontakte vermittelt.",
         "sections": [
           [
-            "Einen Einstiegspunkt wählen",
+            "Die passende Anlaufstelle finden",
             [
-              "Für Modellentwicklung und den Austausch mit Entwicklern bieten sich Model Speed Space (Moxu Space), die Zhangjiang Model Community, die Ressourcen des Shanghai AI Laboratory oder spezialisierte universitäre Forschungsgruppen als erste Anlaufstellen an. Für B2B-Anwendungen sollten Sie die tatsächlichen Kundenkontakte des Betreibers mit Ihren Branchenanforderungen abgleichen. Für Solopreneure und unabhängige Gründer empfiehlt sich ein Blick auf die aktuellen Förderrichtlinien für One-Person-Company-Communitys (OPC) in Yangpu sowie auf die von Changning ausgewiesenen Zentren.",
+              "Für Modellentwicklung und den Austausch mit Entwicklern bieten sich Model Speed Space (模速空间), die Zhangjiang Model Community, die Ressourcen des Shanghai AI Laboratory oder spezialisierte universitäre Forschungsgruppen als erste Anlaufstellen an. Für B2B-Anwendungen sollten Sie die tatsächlichen Kundenkontakte des Betreibers mit Ihren Branchenanforderungen abgleichen. Für Solopreneure und unabhängige Gründer empfiehlt sich ein Blick auf die aktuellen Förderrichtlinien für One-Person-Company-Communitys (OPC) in Yangpu sowie auf die von Changning ausgewiesenen Zentren.",
               "Wir betrachten Basismodelle, vertikale Branchenmodelle, KI-Agenten, multimodale Systeme, Industriesoftware, Evaluierung, KI-Sicherheit und wissenschaftliche KI (AI for Science) als grundlegend unterschiedliche Geschäftsfelder. Ein Accelerator, der den Kontakt zu einem Industriehersteller herstellen kann, verfügt womöglich über keinerlei Zugang zu regulierten Finanzdaten oder Inferenzverträgen.",
               "In den zentralen und westlichen Bezirken konzentrieren sich der Shibei Hi-Tech Park und das Shutong Valley in Jing'an auf Big Data, Blockchain und Compliance für Unternehmens-KI; Huangpu verknüpft seine fünfjährige Schwerpunktinitiative für Fintech mit dem Mentoring-Netzwerk des Entrepreneurship Mentorship Plan; und der Sonderfonds für Datenelemente 2026 in Songjiang fördert die Korpuskuration sowie KI-Datenraum-Anwendungen."
             ]
           ],
           [
-            "Den kleinsten glaubwürdigen Piloten bauen",
+            "Ein kleines, belastbares Pilotprojekt",
             [
               "Definieren Sie eine klar umrissene Aufgabe, eine Baseline, ein separates Testset und eine eindeutige Zielmetrik. Weisen Sie die Stückkosten pro erledigter Aufgabe, Latenzen, Fehlermuster und manuelle Prüfprozesse (Human-in-the-Loop) transparent aus. Benennen Sie den Dateneigentümer, die Ziel-Bereitstellungsumgebung und den verantwortlichen fachlichen Ansprechpartner. Jeder Pilotversuch benötigt einen internen Projektverantwortlichen, ein Budget, Abnahmekriterien und einen realistischen Weg zur kommerziellen Beschaffung.",
               "Kalkulieren Sie Training, Feinabstimmung (Fine-Tuning), Inferenz, Retrieval, Speicher, Netzwerk, Datenannotation und Evaluierung getrennt voneinander. Eine Erstattung von Rechenkosten schließt Speicherplatz oder Netzwerk-Traffic mitunter aus. Ein Gutschein für Modelle oder Textkorpora gilt häufig nur für akkreditierte Anbieter und einen fest definierten Ausgabenzeitraum in der Vergangenheit. Bewahren Sie Nutzungsprotokolle, Rechnungen, Verträge und Zahlungsbelege vom ersten Tag an sorgfältig auf."
             ]
           ],
           [
-            "Vor dem öffentlichen Produktivstart",
+            "Vor dem öffentlichen Betrieb",
             [
               "Klären Sie verbindlich, ob es sich bei dem Dienst um ein internes Werkzeug, eine Lösung für Unternehmenskunden (B2B) oder einen öffentlich zugänglichen generativen KI-Dienst handelt. Prüfen Sie mit den zuständigen Behörden und qualifizierten Rechtsberatern, welche Anforderungen bezüglich Modellregistrierung, Algorithmen-Anmeldung, Inhaltskennzeichnung, Datensicherheit, Branchenregulierung und Cybersicherheit greifen. Gesetzliche Pflichten richten sich nach dem tatsächlich erbrachten Dienst, nicht nach dem KI-Label auf einem Pitchdeck. Dieser Atlas liefert orientierende Fragen, ersetzt jedoch keine rechtliche Prüfung."
             ]
@@ -5827,11 +5827,11 @@
         ]
       },
       "hardware-ai": {
-        "title": "Intelligenz in der physischen Welt",
-        "intro": "Hardware verbindet Algorithmen mit Werkstoffen, Fertigungstoleranzen, Zuverlässigkeit und Service. Ein gelungener Prototyp ist erst der Anfang einer industriellen Lieferkette. Wir begleiten Chips, Sensoren, Roboter und autonome Systeme durch die Fertigungs- und Testeinrichtungen, die sie erfordern.",
+        "title": "Chips, Robotik und KI-Hardware",
+        "intro": "Hardwareentwicklung verbindet Algorithmen mit Werkstoffen, Fertigungstoleranzen, Zuverlässigkeit und Wartung. Ein guter Prototyp ist erst der Anfang. Wir ordnen Chips, Sensoren, Roboter und autonome Systeme nach den benötigten Anlagen und technischen Leistungen.",
         "sections": [
           [
-            "Chips und Sensorik",
+            "Chips und Sensoren",
             [
               "Für ein KI-Chipprojekt müssen Systemarchitektur, Workload-Spezifikationen, Technologieknoten, Toolchain, IP-Abhängigkeiten und Software-Supportpläne präzise aufbereitet sein. Trennen Sie EDA-Lizenzen, lizenziertes Drittanbieter-IP, MPW-Shuttle-Läufe (Multi-Project Wafer), vollständige Maskensätze, Gehäusefertigung (Packaging), Testing und Bauelemente-Charakterisierung sauber voneinander. Ein Gemeinschaftslabor oder ein Inkubator übernimmt einen Tape-out keineswegs automatisch.",
               "Der Zhangjiang IC Design Industrial Park und das Integrated Circuit Promotion Center sind erste infrastrukturelle Anlaufstellen. In Jiading bietet die dokumentierte Kooperation zwischen SITRI und InnoSpring gezielte Unterstützung für Beyond-Moore-Bauelemente, Sensorik und die Pilotfertigung. Verlangen Sie stets verbindliche Auskünfte über Maschinenpark, Prozessfähigkeiten, Durchlaufzeiten, Mustereigentum sowie ein detailliertes schriftliches Angebot.",
@@ -5839,14 +5839,14 @@
             ]
           ],
           [
-            "Robotik und verkörperte KI (Embodied AI)",
+            "Robotik und Embodied AI",
             [
               "Trennen Sie Basis-Robotikmodelle, Perzeption, Bahnplanung, Regelung und Sicherheitsarchitektur klar von Motoren, Getrieben, taktiler Sensorik, Batteriesystemen und der mechanischen Plattform. Testen Sie das Gesamtsystem an einem konkreten industriellen Anwendungsfall. Live-Demonstrationen sollten Nutzlast, Zykluszeiten, Fehlerszenarien, Eingriffe durch Bedienpersonal und Wartungskosten transparent belegen.",
               "Vergleichen Sie die Anbindung von Forschung an die Fertigung in Minhang, die Robotik-Industrie in Baoshan, die Prüfdienstleistungen in Wuning und das Robotik-Ökosystem von Zhangjiang. Innovationsprogramme von Großkonzernen können Türen für Pilotprojekte öffnen. Sie ersetzen jedoch weder die industrielle Produktionsqualifikation noch gesetzliche Zertifizierungen oder einen verbindlichen Kunden-Abnahmeplan."
             ]
           ],
           [
-            "Weitere physische Innovationsfelder",
+            "Weitere Entwicklungsfelder",
             [
               "Für Drohnensysteme sollten Sie von einem realen Einsatzszenario ausgehen und über Jinshans UAV-Zentrum Testmöglichkeiten und luftfahrtrechtliche Betriebsgenehmigungen einholen. Bei Gehirn-Computer-Schnittstellen (BCI) und Medizintechnik ist explorative Grundlagenforschung strikt von der regulierten Medizinproduktentwicklung zu trennen. Im Bereich KI-gestützter Biowissenschaften müssen Biosicherheitsstufen, Geräteverfügbarkeit, Probenlogistik und klinische Zugänge geklärt sein, bevor Laborflächen angemietet werden.",
               "Unsere Hardware-Bewerbungsunterlagen umfassen Stücklisten (BOM), vorkalkulierte Meilensteine der Entwicklung, Pläne für Fertigungspartner, Testvorrichtungen, Zuverlässigkeitsprüfpläne und eine funktionstüchtige Live-Demonstration. Wir grenzen exakt ab, welche Leistungen der Inkubator tatsächlich beisteuern kann und was das Team anderweitig beschaffen muss."
@@ -5855,18 +5855,18 @@
         ]
       },
       "apply": {
-        "title": "Vom Erstkontakt zur formellen Bewerbung",
-        "intro": "Eine erfolgversprechende Bewerbung beginnt mit der Prüfung der Programmeignung und endet mit einer nachvollziehbaren Dokumentation. Wir pflegen einen zentralen Datenraum für das Unternehmen und passen ihn gezielt an Inkubationsprüfungen, öffentliche Förderausschreibungen, Firmenpiloten oder Investorenprozesse an.",
+        "title": "Vom Erstkontakt zum Antrag",
+        "intro": "Ein guter Antrag beginnt mit der Prüfung, ob Vorhaben und Bedingungen zusammenpassen. Wir halten gemeinsame Unternehmensunterlagen bereit und ergänzen sie für die Aufnahme in einen Inkubator, öffentliche Förderung, ein Pilotprojekt oder eine Finanzierungsrunde. Jeden Schritt dokumentieren wir.",
         "sections": [
           [
-            "Das Erstgespräch",
+            "Der erste Kontakt",
             [
               "Wir versenden eine einseitige Kurzvorstellung auf Englisch und vereinfachtem Chinesisch: Unternehmen und Gründerteam, Kundenproblem, Produkt, Nachweise, Entwicklungsphase, lokale Präsenz in Shanghai und die konkret nachgefragte Ressource. Wir bitten um Nennung des zuständigen Bearbeiterteams und die aktuellen schriftlichen Konditionen. Eine Erstnachricht sollte so kompakt sein, dass sie intern mühelos an die zuständige Person weitergeleitet werden kann.",
               "Empfohlene Betreffzeile: „Shanghai ecosystem inquiry / Projektname / Inkubation, Pilotprojekt oder Finanzierung“. Empfohlener Anfragetext: „Wir entwickeln [Produkt] für [Kundensegment]. Unser Leistungsnachweis besteht aus [Kennzahl oder Prototyp]. Wir suchen [spezifische Ressource] im Zeitraum [Zeitraum]. Bitte bestätigen Sie Teilnahmeberechtigung, Bewerbungsfristen, die Antrags-Checkliste, Kosten- oder Beteiligungskonditionen sowie den zuständigen Ansprechpartner.“"
             ]
           ],
           [
-            "Der gemeinsame Datenraum",
+            "Gemeinsame Unterlagen vorbereiten",
             [
               "Unternehmen: Gewerbelizenz (Business Licence), einheitlicher Sozialkreditcode, Gesellschaftsvertrag, Gesellschafterliste (Cap Table), wirtschaftlich Berechtigte, Bankverbindung, Handelsregister- und Betriebsadressen, frühere öffentliche Fördermittel und Liste verbundener Unternehmen. Team: Gründerrollen, Vollzeit-Verpflichtung, relevante Ausbildung, Nachweise der Antragsberechtigung sowie ggf. gültiger Aufenthalts- und Arbeitsstatus.",
               "Für internationale Gründer und aus dem Ausland zurückkehrende Fachkräfte veröffentlicht Shanghai gesonderte Richtlinien für die Beantragung der Arbeitserlaubnis für Ausländer (Kategorie A/B) während der Gründungsphase, Aufenthaltsgenehmigungen für Fachkräfte aus Übersee sowie die Bestimmungen von 2026 zur Förderung von Rückkehrern bei Arbeit und Unternehmensgründung in Shanghai. Die Bestätigung des betreuenden Technologieparks und aufenthaltsrechtliche Vorgaben sind unabhängig von der Förderfähigkeit zu prüfen.",
@@ -5874,7 +5874,7 @@
             ]
           ],
           [
-            "Vier grundlegende Entscheidungswege",
+            "Vier verschiedene Entscheidungswege",
             [
               "Inkubation: Voranfrage zur Passgenauigkeit, Bewerbungsunterlagen, technische oder kaufmännische Prüfung, schriftliche Vereinbarung über Miet- und Servicekonditionen, Zulassung und Onboarding. Prüfen Sie vor der Unterschrift Arbeitsplatzmiete, Servicegebühren, Rechenzentrumspreise, Zugangszeiten, geistiges Eigentum und eventuelle Investitionsrechte.",
               "Öffentliche Zuschüsse oder Kostenerstattungen: aktuelle Ausschreibung, Antragsberechtigungsprüfung, Benutzerkonto auf dem Förderportal, Vollmacht des Unternehmensträgers, Einreichung von Nachweisen, Vorprüfung durch Bezirk oder Träger, Gutachterprüfung, Bewilligungsbescheid oder Vertrag, Berichterstattung, Verwendungsnachweisprüfung und Auszahlung. Dieser Ablauf dient der Orientierung; maßgeblich ist stets die verlinkte offizielle Bekanntmachung.",
@@ -5882,7 +5882,7 @@
             ]
           ],
           [
-            "Vierwöchiges Vor-Ort-Programm eines Accelerators",
+            "Vier Wochen vor Ort",
             [
               "Woche 1: Auswahl einer Shortlist aus zwei Bezirken, einem Forschungspartner und zwei Betreibern anhand von Branchenschwerpunkt und Zulassungskriterien. Woche 2: Treffen mit Betreiber und potentiellem Unternehmenskunden; Besichtigung der Infrastruktur. Woche 3: Definition eines Piloten und Erstellung eines kalkulierten Nachweisplans. Woche 4: Einreichung des Förder- oder Beteiligungsantrags und Erfassung des nächsten Entscheidungstermins. Dies ist ein redaktionelles Planungsmodell, kein behördliches Leistungsversprechen.",
               "Wir führen ein Antragsjournal mit Projektverantwortlichem, Bewilligungsbehörde, Richtlinienfassung, Nachweiszeitraum, Frist in China-Standardzeit (CST), Einreichungsbestätigung, Ausschluss von Doppelförderung, Berichtspflichten und nächster Maßnahme. Eine Kalendererinnerung hilft nur dann, wenn Frist und Zeitzone zuvor zweifelsfrei verifiziert wurden."
@@ -5891,35 +5891,35 @@
         ]
       },
       "funding-guide": {
-        "title": "Kapital und seine Bedingungen",
-        "intro": "Wir stellen gegenüber, welche Kosten ein Förderprogramm übernimmt, wann Mittel tatsächlich zufließen, was zurückgezahlt werden muss und ob sich die Eigentumsverhältnisse verändern. Das Schlagwort „ohne Anteilsabgabe“ (equity-free) greift allein viel zu kurz.",
+        "title": "Finanzierung und Förderbedingungen",
+        "intro": "Wir vergleichen, welche Ausgaben ein Angebot abdeckt, wann Mittel fließen, ob eine Rückzahlung nötig ist und ob Unternehmensanteile abgegeben werden. Die Angabe „ohne Anteilsabgabe“ allein beschreibt die Kosten und Pflichten noch nicht vollständig.",
         "sections": [
           [
-            "Sechs Finanzierungsmechanismen",
+            "Sechs Formen der Unterstützung",
             [
-              "Ein Zuschuss ist eine zweckgebundene öffentliche oder philanthropische Zuwendung. Eine Kostenerstattung gleicht genehmigte Ausgaben aus – meist erst nach deren Anfall. Ein Gutschein oder Guthaben kann nur mit förderfähigen Dienstleistungen verrechnet werden. Ein Darlehen muss getilgt werden. Eine Steuervergünstigung modifiziert die steuerliche Bemessungsgrundlage. Eigenkapitalinvestitionen tauschen Kapital gegen Anteile oder damit verbundene gesellschaftsrechtliche Kontrollrechte.",
-              "Wettbewerbe verknüpfen oft Preisgelder, Sachleistungen und Investorenkontakte – jeweils mit separaten Bedingungen. Ein subventionierter Schreibtisch ist eine Sachleistung, keine frei verfügbare Liquidität. Ein staatlicher Fonds agiert als klassischer Investor, wenn er Unternehmensanteile übernimmt. Auch ein zinsloses Darlehen bleibt eine Verbindlichkeit."
+              "Ein Zuschuss ist eine öffentliche oder gemeinnützige Unterstützung mit Bedingungen. Eine Kostenerstattung deckt anerkannte Ausgaben, häufig erst nach deren Zahlung. Gutscheine oder Guthaben gelten nur für bestimmte Leistungen. Darlehen müssen zurückgezahlt werden. Steuervergünstigungen wirken sich auf die Steuerberechnung aus. Bei einer Beteiligungsfinanzierung werden Kapital und Unternehmensanteile oder damit verbundene Vertragsrechte getauscht.",
+              "Ein Wettbewerb kann Preisgeld, Leistungen und Investorenkontakte bieten. Dafür gelten jeweils eigene Bedingungen. Ein vergünstigter Arbeitsplatz ist eine Sachleistung, kein frei verfügbares Geld. Auch ein staatlich finanzierter Fonds ist ein Investor, wenn er Anteile erwirbt. Ein zinsloses Darlehen bleibt rückzahlungspflichtig."
             ]
           ],
           [
-            "Einen mehrstufigen Finanzierungsplan aufbauen",
+            "Die Finanzierung nach Entwicklungsphase planen",
             [
-              "Prüfen Sie vor der Firmengründung, ob Gutscheine auf Teamebene, universitäre Proof-of-Concept-Förderungen oder Wettbewerbe für die Gründerperson zugänglich sind. Gleichen Sie nach der Registereintragung den Sitzbezirk und den Unternehmensgegenstand mit öffentlichen Ausschreibungen ab. Konzentrieren Sie sich beim Bau eines Prototyps auf echten Laborbedarf, Rechenkapazitäten oder Kundenfeedback. Richten Sie für die Skalierungsphase Fördersummen und Zeitpläne an den Maßstäben von Wagniskapitalgebern oder Banken aus.",
-              "Wir addieren niemals sich überschneidende Förderhöchstbeträge zu einer vermeintlichen Gesamtförderung. Richtlinien schließen Doppelförderungen häufig aus, verbieten Geschäfte mit verbundenen Dienstleistern, fordern lokale Betriebsstätten, verlangen Eigenanteile (Matching Funds) oder zahlen erst nach formeller Endabnahme aus. Ein Startup benötigt ausreichendes Umlaufvermögen für Ausgaben, die weit vor der Erstattung anfallen."
+              "Vor der Gründung prüfen wir, ob Team-Gutscheine, universitäre Proof-of-Concept-Angebote oder Wettbewerbe die tatsächlichen Antragsteller zulassen. Nach der Gründung gleichen wir Standort und Tätigkeit mit den Förderbedingungen ab. Beim Prototyp stehen Laborbedarf, Rechenleistung und Kundenerprobung im Vordergrund. Für die Expansion stimmen wir Betrag und Zeitpunkt auf die Kriterien von Investoren oder Banken ab.",
+              "Wir addieren die Höchstbeträge überlappender Richtlinien nicht zu einer vermeintlich zugesagten Gesamtsumme. Programme können Doppelförderung oder verbundene Anbieter ausschließen, örtliche Geschäftstätigkeit und Eigenmittel verlangen oder erst nach Abnahme zahlen. Für die Vorfinanzierung brauchen Unternehmen ausreichend Betriebsmittel."
             ]
           ],
           [
-            "Die tatsächlichen Kosten vergleichen",
+            "Kosten und Pflichten vergleichen",
             [
-              "Vergleichen Sie bei öffentlichen Fördermitteln den förderfähigen Kostenzeitraum, die Kofinanzierungsquote, Prüfungskosten, steuerliche Behandlung, Berichtspflichten und Rückforderungsklauseln. Wägen Sie bei Eigenkapital Bewertung, Verwässerung, Liquidationspräferenzen, Beiratsrechte, Informationsrechte und Exit-Bestimmungen ab. Analysieren Sie bei Fremdkapital Kreditsumme, Effektivzins, Gebühren, Bürgschaften oder Sicherheiten, Tilgungspläne und Verzugsfolgen.",
-              "Prüfen Sie bei Cloud-Credits Kontoregion, nutzbare Dienste, Verfallsdaten, bestehende Guthaben und Abrechnungsregeln bei Überschreitung. Angebote für Festlandchina und globale Programme werden oft über getrennte Betreibergesellschaften und Konten abgewickelt. Eine kostenlose Aufnahme in ein Partnernetzwerk garantiert weder Hardwarelieferungen noch Rechenguthaben oder Beteiligungskapital."
+              "Bei öffentlicher Förderung vergleichen wir Kostenzeitraum, Eigenanteil, Prüfungskosten, Steuern, Berichtspflichten und Rückforderungsklauseln. Bei Beteiligungen prüfen wir Bewertung, Anteilsquote, Liquidationspräferenzen, Sitze im Leitungs- oder Aufsichtsgremium, Rechte bei Folgeinvestitionen und Exit-Bedingungen. Bei Darlehen zählen Kapitalbetrag, Zinsen, Gebühren, Bürgschaften oder Sicherheiten, Tilgung und Folgen eines Zahlungsausfalls.",
+              "Bei Cloud-Guthaben prüfen wir Kontoregion, nutzbare Dienste, Gültigkeit, vorhandene Guthaben und Mehrverbrauchskosten. Angebote für China und globale Programme können unterschiedliche Betreiber und Konten nutzen. Die kostenlose Mitgliedschaft in einem Technologienetzwerk garantiert weder Hardware noch Guthaben oder Investitionen."
             ]
           ]
         ]
       },
       "methodology": {
-        "title": "Wie die Belege zu verstehen sind",
-        "intro": "Ein nützliches Verzeichnis macht Unsicherheiten überprüfbar. Wir verlinken die Quelle unmittelbar bei der jeweiligen Angabe und pflegen eine gemeinsame Recherchegrundlage für alle sieben Sprachausgaben.",
+        "title": "Quellen und Recherchemethoden",
+        "intro": "Ein brauchbares Verzeichnis benennt auch, was noch ungeklärt ist. Wir verlinken die Quelle bei der jeweiligen Aussage. Alle sieben Sprachausgaben beruhen auf derselben Recherchegrundlage.",
         "sections": [
           [
             "Recherche und Übersetzung",
@@ -5930,19 +5930,19 @@
             ]
           ],
           [
-            "Kontakte, Abläufe und Kartenstandorte",
+            "Kontakte, Anträge und Karten",
             [
-              "Veröffentlichte Telefonnummern und E-Mail-Adressen werden mit ihrer Fundstelle nachgewiesen. Eine allgemeine Telefonzentrale einer Universität wird als solche gekennzeichnet. Wo kein direkter Durchwahlanlaufpunkt ermittelt werden konnte, verweist der Eintrag auf die offizielle Website oder Behördenstruktur und rät zur Erfragung des zuständigen Sachgebiets. Wir haben Organisationen nicht selbst kontaktiert und keine Anträge gestellt.",
+              "Öffentliche Telefonnummern sind mit Quellen belegt; allgemeine Hochschulzentralen kennzeichnen wir als solche. Ist kein direkter Kontakt bestätigt, verweisen wir auf die offizielle Website oder Behörde und empfehlen, nach dem zuständigen Team zu fragen. Wir haben keine Organisationen kontaktiert und keine Anträge im Namen der Leserschaft gestellt. E-Mail-Adressen veröffentlichen wir nicht.",
               "Bewerbungsabläufe sind ausdrücklich als redaktionelle Checklisten deklariert, sofern nicht das behördliche Verfahren der Richtlinie zitiert wird. Markierungen für Universitäten und Bezirke verorten ein Innovationsökosystem, keinen verifizierten Gebäudeeingang. Auch straßenbasierte Koordinaten sind Näherungswerte. Die Bezirksgrenzen basieren auf einem illustrativen DataV-Datensatz und erheben keinen Anspruch auf vermessungstechnische, juristische oder navigatorische Exaktheit."
             ]
           ],
           [
-            "Bekannte Lücken und gewissenhafte Pflege",
+            "Offene Punkte und Aktualisierung",
             [
               "Die Erfassung ist umfangreich, aber nicht lückenlos. Viele private Inkubatoren veröffentlichen keine aktuellen Konditionen. Manche bezirkliche Förderprogramme bedürfen einer jährlichen Neuausschreibung, deren Öffnung zum Stichtag nicht nachweisbar war. Mehrere Universitäten weisen in dieser Ausgabe kein verifiziertes Förderprogramm für externe Gründer auf. Ihr Institutionseintrag wird aufgeführt, ohne Förderungen oder Accelerator-Programme zu erfinden.",
               "Das Verzeichnis enthält 29 tertiäre Fachkollegs und 12 Einrichtungen der Erwachsenenbildung, ohne für jede einzelne Institution Detailrecherchen zu beanspruchen. Bei den Hochschulprofilen verstehen sich thematische Zuordnungen und Hinweise zur Kontaktaufnahme als redaktionelle Orientierungshilfe, nicht als verifiziertes Inventar von Laboren, festen Ansprechpartnern oder verfügbaren Stipendien.",
               "Vor einer Neuauflage sind Quelldaten, Trägeridentitäten, Gültigkeitsfristen, Ausschreibungsenden, Ansprechpartner, Förderinstrumente, Antragsberechtigungen, Bezirksgrenzen und Doppelförderungsverbote neu zu prüfen. Veraltete Bestimmungen müssen als historisch gekennzeichnet und dürfen nicht stillschweigend fortgeschrieben werden. Das Quell-Repository enthält Rohdaten, Übersetzungen, Nachweise zum Bildmaterial und reproduzierbare Guidedog-Build-Befehle.",
-              "Autorenschaft und Publikationssystem: Verfasst von Vikrant Rathore, unter Mitwirkung von Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu. Erstellt mit Guidedog als einheitliche zweisprachige HTML-Website und typografisch mit Typst gesetzte PDF-Buchpublikation."
+              "Verfasst von Vikrant Rathore, mit Beiträgen von Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu. Wir erstellen mit dem nativen Guidedog-Workflow eine HTML-Website und mit Typst gesetzte PDF-Bücher in sieben Sprachen."
             ]
           ],
           [
@@ -5971,7 +5971,7 @@
         "Den internen Projektverantwortlichen im Konzern und einen klar messbaren Anwendungsfall identifizieren.",
         "Produktübersicht, Nachweise aus Pilottests und relevante technische Spezifikationen einreichen.",
         "Verfügbarkeit von Aufnahmeplätzen klären oder Pilotumfang, Datenrechte und IP-Klauseln verbindlich vereinbaren.",
-        "Einkaufsprozesse, Zahlungsmeilensteine, Abnahme und Serienentscheidung als eigenständige Schritte behandeln."
+        "Einkauf, Zahlung, Abnahme und die Entscheidung über den Regelbetrieb getrennt prüfen."
       ],
       "research": [
         "Die passende Forschungsgruppe identifizieren und die wissenschaftliche oder industrielle Fragestellung formulieren.",
@@ -6159,7 +6159,7 @@
       "Grant": "Zuschuss",
       "Reimbursement": "Kostenerstattung",
       "Loan": "Darlehen",
-      "Equity investment": "Eigenkapitalinvestition",
+      "Equity investment": "Beteiligungsfinanzierung",
       "Tax relief": "Steuervergünstigung",
       "Competition": "Wettbewerb",
       "In-kind services": "Sach- und Dienstleistungen",
@@ -6170,9 +6170,9 @@
       "Convertible support": "Wandelbare Förderung",
       "Potential equity conversion; review contract": "Mögliche Wandlung in Eigenkapital; Vertrag prüfen",
       "Published directory; lender review": "Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich",
-      "No equity": "Ohne Anteilsabgabe",
+      "No equity": "Ohne Abgabe von Unternehmensanteilen",
       "No equity; repayable": "Ohne Anteilsabgabe; rückzahlungspflichtig",
-      "Temporary equity; original-price exit": "Befristete Beteiligung; Ausstieg zum ursprünglichen Investitionsbetrag",
+      "Temporary equity; original-price exit": "Befristete Beteiligung; Ausstieg zum ursprünglichen Einsatz",
       "Award / investment terms vary": "Preisgeld- und Beteiligungsbedingungen variieren",
       "No equity stated in offer; verify terms": "Keine Anteilsabgabe im Angebot ausgewiesen; Konditionen prüfen",
       "Verify current agreement": "Aktuelle Vereinbarung überprüfen",
@@ -6180,16 +6180,16 @@
       "No equity; product obligations apply": "Ohne Anteilsabgabe; Produktauflagen gelten",
       "No equity for qualifying public support": "Keine Anteilsabgabe bei qualifizierter öffentlicher Förderung",
       "Program published; eligibility review": "Programm veröffentlicht; Prüfung der Förderfähigkeit erforderlich",
-      "Historical / confirm continuation": "Historisch / Fortführung überprüfen",
+      "Historical / confirm continuation": "Früheres Programm; Fortführung bitte prüfen",
       "Regional eligibility to confirm": "Regionale Förderfähigkeit zu bestätigen",
-      "Published entity; intake to confirm": "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen",
-      "Services / possible incentives": "Flächen & Services / potenzielle Förderanreize",
+      "Published entity; intake to confirm": "Einrichtung belegt; aktuelle Aufnahme bitte prüfen",
+      "Services / possible incentives": "Flächen und Dienstleistungen; mögliche Förderung",
       "Equity-free services": "Dienstleistungen ohne Anteilsabgabe",
       "Loan / temporary equity": "Darlehen / temporäre Beteiligung",
       "Closed": "Bewerbungsfrist abgelaufen",
       "Policy in force; confirm service and order": "Richtlinie in Kraft; Leistungsumfang und Auftrag prüfen",
-      "Policy in force; call not confirmed open": "Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet",
-      "Published policy; implementing intake to confirm": "Richtlinie veröffentlicht; Annahmeverfahren zu bestätigen",
+      "Policy in force; call not confirmed open": "Richtlinie gültig; offene Antragsrunde nicht bestätigt",
+      "Published policy; implementing intake to confirm": "Richtlinie veröffentlicht; Umsetzung und Antragsrunde bitte prüfen",
       "Published service; current terms to confirm": "Dienstleistung veröffentlicht; aktuelle Konditionen zu bestätigen",
       "Published tax guidance; applicability review": "Steuerleitfaden veröffentlicht; Anwendbarkeit prüfen",
       "Published tax guidance; recognition required": "Steuerleitfaden veröffentlicht; Anerkennung erforderlich",
@@ -6198,10 +6198,10 @@
       "2026 call published; not confirmed open": "Ausschreibung 2026 veröffentlicht; nicht nachweislich geöffnet",
       "Fund announced; deal intake to confirm": "Fonds angekündigt; Annahme von Investitionsanfragen bestätigen",
       "Published investment platform; deal review": "Investitionsplattform veröffentlicht; Projektprüfung erforderlich",
-      "Quarterly scheme published; current intake to confirm": "Quartalsprogramm veröffentlicht; aktuelle Runde zu bestätigen",
+      "Quarterly scheme published; current intake to confirm": "Vierteljährliche Anträge vorgesehen; aktuelle Runde bitte prüfen",
       "First 2026 batch closed; later batches to verify": "Erste Tranche 2026 geschlossen; Folgetranchen zu prüfen",
       "2026 directory published; lender review": "Verzeichnis 2026 veröffentlicht; Prüfung durch Kreditgeber erforderlich",
-      "Published route; current call to confirm": "Förderweg veröffentlicht; aktuelle Ausschreibung zu bestätigen",
+      "Published route; current call to confirm": "Förderangebot veröffentlicht; aktuelle Ausschreibung bitte prüfen",
       "Citywide / global": "Stadtweit / International"
     },
     "deadlines": {
@@ -6230,7 +6230,7 @@
     "chapterSummaries": [
       [
         "reading-the-city",
-        "Eine Stadt der vernetzten Möglichkeiten",
+        "Shanghais Innovationslandschaft verstehen",
         "Räumliche Logik von Innenstadt, Industriekorridoren, fünf Neuen Städten und der Öko-Insel Chongming sowie Gestaltungshinweise zur weißen Magnolie und Autorenangaben."
       ],
       [
@@ -6240,12 +6240,12 @@
       ],
       [
         "software-ai",
-        "Intelligenz in Software",
+        "Software und KI-Anwendungen",
         "Basismodelle, vertikale KI-Agenten, Model Speed Space, Zhangjiang Model Community, Gutscheine für Rechenleistung und Datenkorpora sowie Compliance-Pfade."
       ],
       [
         "hardware-ai",
-        "Intelligenz in der physischen Welt",
+        "Chips, Robotik und KI-Hardware",
         "KI-Halbleiter, EDA/MPW-Tape-outs, MEMS-Sensoren, verkörperte Robotik, Tiefflugdrohnen, Gehirn-Computer-Schnittstellen (BCI) und Nasslabor-Biocomputing."
       ],
       [
@@ -6285,7 +6285,7 @@
       ],
       [
         "funding-guide",
-        "Kapital und seine Bedingungen",
+        "Finanzierung und Förderbedingungen",
         "Differenzierung zwischen nicht rückzahlbaren Zuschüssen, nachträglichen Kostenerstattungen, Gutscheinen, Krediten, Steuervergünstigungen und Eigenkapital."
       ],
       [
@@ -6300,12 +6300,12 @@
       ],
       [
         "apply",
-        "Vom Erstkontakt zur formellen Bewerbung",
+        "Vom Erstkontakt zum Antrag",
         "Zweisprachige Anschreibevorlagen, Checkliste für den Datenraum, Entscheidungsprozesse und ein vierwöchiges Vor-Ort-Programm eines Accelerators."
       ],
       [
         "methodology",
-        "Wie die Belege zu verstehen sind",
+        "Quellen und Recherchemethoden",
         "Regeln zur Quellenprüfung, Übersetzungsgrundsätze, Hinweise zur Kartengenauigkeit, bekannte Erfassungslücken und Autorennachweise."
       ],
       [
@@ -6399,7 +6399,7 @@
       },
       "mosu": {
         "name": "Shanghai Model Speed Space (Mó Sù Kōng Jiān)",
-        "summary": "Ein spezialisierter Inkubations- und Beschleunigungsstandort für Basis- und Großmodelle am West Bund. Der Betreiber unterteilt das Areal in mehrere Zonen; Aufnahme, Büroflächen, Rechenleistungsförderung und Eigenkapitalinvestitionen sind jeweils eigenständige Entscheidungen.",
+        "summary": "Ein spezialisierter Inkubations- und Accelerator-Standort für Basis- und Großmodelle am West Bund. Der Betreiber unterteilt das Areal in mehrere Zonen; Aufnahme, Büroflächen, Rechenleistungsförderung und Eigenkapitalinvestitionen sind jeweils eigenständige Entscheidungen.",
         "address": "Bereich A, Longtai-Straße 180, Bezirk Xuhui"
       },
       "model-community": {

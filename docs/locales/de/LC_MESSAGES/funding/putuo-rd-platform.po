@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -29,11 +29,6 @@ msgid "2026 call published; not confirmed open"
 msgstr "Ausschreibung 2026 veröffentlicht; nicht nachweislich geöffnet"
 
 #: ../../funding/putuo-rd-platform.rst:8
-
-#| msgid ""
-#| "`Evidence S119 "
-#| "<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. "
-#| "关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
 msgid ""
 "`Evidence S122 "
 "<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. "
@@ -52,7 +47,7 @@ msgstr "Bis zu 2 Mio. RMB; Erstauszahlung maximal 50 %, Restzahlung vorbehaltlic
 
 #: ../../funding/putuo-rd-platform.rst:15
 msgid "No equity"
-msgstr "Ohne Anteilsabgabe"
+msgstr "Ohne Abgabe von Unternehmensanteilen"
 
 #: ../../funding/putuo-rd-platform.rst:17
 msgid "Eligibility and timing"

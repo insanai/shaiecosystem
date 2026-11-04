@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -26,14 +26,9 @@ msgstr "Zuschuss | Bezirk Minhang"
 
 #: ../../funding/minhang-rd.rst:6
 msgid "Policy in force; call not confirmed open"
-msgstr "Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet"
+msgstr "Richtlinie gültig; offene Antragsrunde nicht bestätigt"
 
 #: ../../funding/minhang-rd.rst:8
-
-#| msgid ""
-#| "`Evidence S098 "
-#| "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
-#| "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 msgid ""
 "`Evidence S101 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
@@ -52,7 +47,7 @@ msgstr "Allgemeine Projekte: bis zu 3 Mio. RMB und bis zu 30 % der F&E-Kosten; S
 
 #: ../../funding/minhang-rd.rst:15
 msgid "No equity"
-msgstr "Ohne Anteilsabgabe"
+msgstr "Ohne Abgabe von Unternehmensanteilen"
 
 #: ../../funding/minhang-rd.rst:17
 msgid "Eligibility and timing"

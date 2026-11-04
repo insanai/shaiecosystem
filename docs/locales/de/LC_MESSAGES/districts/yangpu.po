@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -109,7 +109,7 @@ msgid ""
 "corporate open innovation and startup incubation and acceleration. Bring "
 "a concrete industrial use case; program participation does not imply a "
 "corporate purchase order. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`InnoSpace Shanghai </entities/innospace>` (创智空间InnoSpace · Accelerator · Software-KI, Industrie) — Ein erfahrener Technologie-Inkubator am KIC in Yangpu, der Raum-, Netzwerk- und Förderprogramme anbietet. Klären Sie, welche Mentoring- und Beschleunigungsprogramme derzeit aktiv neue Kohorten aufnehmen. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`InnoSpace Shanghai </entities/innospace>` (创智空间InnoSpace · Accelerator · Software-KI, Industrie) — Ein erfahrener Technologie-Inkubator am KIC in Yangpu, der Raum-, Netzwerk- und Förderprogramme anbietet. Klären Sie, welche Mentoring- und Beschleunigungsprogramme derzeit aktiv neue Kohorten aufnehmen. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/yangpu.rst:38
 msgid ""
@@ -118,7 +118,7 @@ msgid ""
 "identifies Changyang Campus as a southern core, paired with Bay Valley in "
 "the north. Suitable for neuromorphic computing and commercial AI "
 "collaborations. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Changyang Campus (Changyang Chuanggu) </entities/changyang>` (长阳创谷 · Technologiepark · Software-KI, Hardware-KI) — Ein weitläufiger Innovationscampus in Yangpu, entstanden auf einem ehemaligen Textilfabrikgelände. Er beherbergt führende Technologie- und Plattformunternehmen; Büroflächenvergabe und kommunale Fördermittel werden getrennt verhandelt. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Changyang Campus (Changyang Chuanggu) </entities/changyang>` (长阳创谷 · Technologiepark · Software-KI, Hardware-KI) — Ein weitläufiger Innovationscampus in Yangpu, entstanden auf einem ehemaligen Textilfabrikgelände. Er beherbergt führende Technologie- und Plattformunternehmen; Büroflächenvergabe und kommunale Fördermittel werden getrennt verhandelt. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/yangpu.rst:39
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "an approved community operator, the qualifying activity definition, "
 "housing conditions and any service or equity agreement. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Maker- und OPC-Gemeinschaften der Insel Fuxing </entities/fuxing>` (复兴岛创客与OPC社区 · Inkubator · Software-KI) — Eine zukunftsorientierte Modellzone in Yangpu für Maker, Open-Source-Hardware und One-Person-Companies (OPC). Pilotprojekte und Raumnutzungen unterliegen den jeweils aktuellen Entwicklungsplänen des Bezirks. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Maker- und OPC-Gemeinschaften der Insel Fuxing </entities/fuxing>` (复兴岛创客与OPC社区 · Inkubator · Software-KI) — Eine zukunftsorientierte Modellzone in Yangpu für Maker, Open-Source-Hardware und One-Person-Companies (OPC). Pilotprojekte und Raumnutzungen unterliegen den jeweils aktuellen Entwicklungsplänen des Bezirks. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/yangpu.rst:40
 msgid ""
@@ -138,7 +138,7 @@ msgid ""
 "Chinese university entrepreneurs. Nationality, age, ownership, full-time "
 "work and company age conditions apply. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`STEFG Angel-Fonds (Shanghai EFGF) </entities/stefg>` (上海市大学生科技创业基金会天使基金 · Investor · Software-KI, Hardware-KI, Industrie) — Der Angel-Fonds der Shanghaier Stiftung für studentische Technologiegründungen. Er bietet zinslose Darlehen („Jungadler“) und Eigenkapitalbeteiligungen („Adler“) für berechtigte Hochschulabsolventen und Studierende in Shanghai. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`STEFG Angel-Fonds (Shanghai EFGF) </entities/stefg>` (上海市大学生科技创业基金会天使基金 · Investor · Software-KI, Hardware-KI, Industrie) — Der Angel-Fonds der Shanghaier Stiftung für studentische Technologiegründungen. Er bietet zinslose Darlehen („Jungadler“) und Eigenkapitalbeteiligungen („Adler“) für berechtigte Hochschulabsolventen und Studierende in Shanghai. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/yangpu.rst:41
 msgid ""
@@ -148,7 +148,7 @@ msgid ""
 "entrepreneurship training, prototyping and incubation base in Yangpu "
 "linking founder skills training, product trial spaces and startup service "
 "agencies. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Öffentliche Praxistrainingsbasis für Gründer China (Shanghai) </entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Inkubator · Software-KI, Hardware-KI, Industrie) — Eine städtische öffentliche Ausbildungseinrichtung in Yangpu mit Versuchswerkstätten, Prototypenbau, Laborgeräten und Gründungsbegleitung für angehende Unternehmer und studentische Teams. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Öffentliche Praxistrainingsbasis für Gründer China (Shanghai) </entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · Inkubator · Software-KI, Hardware-KI, Industrie) — Eine städtische öffentliche Ausbildungseinrichtung in Yangpu mit Versuchswerkstätten, Prototypenbau, Laborgeräten und Gründungsbegleitung für angehende Unternehmer und studentische Teams. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/yangpu.rst:42
 msgid ""
@@ -157,7 +157,7 @@ msgid ""
 "Suggested collaboration themes: Software AI, chips, AI for Science. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Fudan-Universität (Fudan University) </entities/university-fudan>` (复旦大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Software-KI, Halbleiter / Chips, KI für die Wissenschaft (AI for Science). Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Fudan-Universität (Fudan University) </entities/university-fudan>` (复旦大学 · Hochschule) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Software-KI, Halbleiter / Chips, KI für die Wissenschaft (AI for Science). Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/yangpu.rst:43
 msgid ""
@@ -167,7 +167,7 @@ msgid ""
 "robotics, built environment. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Tongji-Universität (Tongji University) </entities/university-tongji>` (同济大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Autonome Systeme, Mobilität, Robotik, gebaute Umwelt. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Tongji-Universität (Tongji University) </entities/university-tongji>` (同济大学 · Hochschule) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Autonome Systeme, Mobilität, Robotik, gebaute Umwelt. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/yangpu.rst:44
 msgid ""
@@ -177,7 +177,7 @@ msgid ""
 "themes: Optics, medical devices, sensors, advanced equipment. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universität Shanghai für Wissenschaft und Technik (USST) </entities/university-usst>` (上海理工大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Optik, Medizintechnik, Sensoren, fortschrittliche Ausrüstung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Universität Shanghai für Wissenschaft und Technik (USST) </entities/university-usst>` (上海理工大学 · Hochschule) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Optik, Medizintechnik, Sensoren, fortschrittliche Ausrüstung. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/yangpu.rst:45
 msgid ""
@@ -187,7 +187,7 @@ msgid ""
 "themes: Fintech, analytics, business models. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Finanz- und Wirtschaftsuniversität Shanghai (SUFE) </entities/university-sufe>` (上海财经大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Finanztechnologie (Fintech), quantitative Finanzen, Unternehmensdaten, Wirtschaftsmodellierung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Finanz- und Wirtschaftsuniversität Shanghai (SUFE) </entities/university-sufe>` (上海财经大学 · Hochschule) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Finanztechnologie (Fintech), quantitative Finanzen, Unternehmensdaten, Wirtschaftsmodellierung. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/yangpu.rst:46
 msgid ""
@@ -197,7 +197,7 @@ msgid ""
 "motion analysis, wearables. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Sportuniversität Shanghai (Shanghai University of Sport) </entities/university-sport>` (上海体育大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Sporttechnologie, Biomechanik, Rehabilitation, Sensorik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Sportuniversität Shanghai (Shanghai University of Sport) </entities/university-sport>` (上海体育大学 · Hochschule) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Sporttechnologie, Biomechanik, Rehabilitation, Sensorik. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/yangpu.rst:48
 msgid "Funding routes"
@@ -220,7 +220,7 @@ msgid ""
 "co-investment; individual cheque subject to investment committee review. "
 "Status: Published investment platform; deal review. Timing: Manager-led "
 "sourcing and due diligence."
-msgstr ":doc:`Angel-Koinvestitionsfonds „Dream Start“ Yangpu </funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Eigenkapitalinvestition · Verhandlungsbasierte Beteiligung) — Bezirkliche staatliche Co-Investitionen für die Frühphase; Einzelbeteiligungen nach Begutachtung durch den Investitionsausschuss. Status: Investitionsplattform veröffentlicht; Projektprüfung erforderlich. Zeitrahmen: Projektidentifikation und Due Diligence durch den Fondsmanager."
+msgstr ":doc:`Angel-Koinvestitionsfonds „Dream Start“ Yangpu </funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Beteiligungsfinanzierung · Verhandlungsbasierte Beteiligung) — Bezirkliche staatliche Co-Investitionen für die Frühphase; Einzelbeteiligungen nach Begutachtung durch den Investitionsausschuss. Status: Investitionsplattform veröffentlicht; Projektprüfung erforderlich. Zeitrahmen: Projektidentifikation und Due Diligence durch den Fondsmanager."
 
 #: ../../districts/yangpu.rst:54
 msgid ":doc:`Also compare citywide funding </funding>`"

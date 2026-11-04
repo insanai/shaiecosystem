@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -35,10 +35,6 @@ msgid ""
 msgstr "Ein illustrierter Leitfaden in sieben Sprachen für Acceleratoren, Gründer, Forschende und KI-Interessierte. Er verbindet Shanghais Hochschulen, Software- und Hardware-KI-Communitys sowie praktische Förderwege in allen 16 Bezirken."
 
 #: ../../index.rst:10
-
-#| msgid ""
-#| "Research edition: 2026-11-04. 131 organization profiles. 50 funding "
-#| "routes. 16 districts. 140 cited sources."
 msgid ""
 "Research edition: 2026-11-04. 133 organization profiles. 53 funding "
 "routes. 16 districts. 144 cited sources."
@@ -73,12 +69,6 @@ msgid ""
 msgstr "Jeder Verwaltungsbezirk Shanghais wird sowohl auf der Website als auch im PDF-Buch mit seinen dokumentierten Branchenschwerpunkten, zuständigen Fachbehörden, lokalen Innovationszentren, Universitäten und bezirklichen Förderprogrammen vorgestellt:"
 
 #: ../../index.rst:23
-
-#| msgid ""
-#| "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation "
-#| "models, chips, biomedicine and advanced manufacturing**. Authority: "
-#| "Pudong Science, Technology and Economy Commission. (40 organizations, "
-#| "4 district funding routes)"
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
@@ -210,7 +200,7 @@ msgid ""
 "logic across central Shanghai, industrial corridors, five新城 (New Cities) "
 "and Chongming Eco-Island, plus magnolia design notes and authorship "
 "credits."
-msgstr ":doc:`Eine Stadt der vernetzten Möglichkeiten <reading-the-city>` — Räumliche Logik von Innenstadt, Industriekorridoren, fünf Neuen Städten und der Öko-Insel Chongming sowie Gestaltungshinweise zur weißen Magnolie und Autorenangaben."
+msgstr ":doc:`Shanghais Innovationslandschaft verstehen <reading-the-city>` — Räumliche Logik von Innenstadt, Industriekorridoren, fünf Neuen Städten und der Öko-Insel Chongming sowie Gestaltungshinweise zur weißen Magnolie und Autorenangaben."
 
 #: ../../index.rst:44
 msgid ""
@@ -224,14 +214,14 @@ msgid ""
 ":doc:`Intelligence in software <software-ai>` — Foundation models, "
 "vertical agents, Model Speed Space, Zhangjiang Model Community, "
 "compute/corpus vouchers and compliance routing."
-msgstr ":doc:`Intelligenz in Software <software-ai>` — Basismodelle, vertikale KI-Agenten, Model Speed Space, Zhangjiang Model Community, Gutscheine für Rechenleistung und Datenkorpora sowie Compliance-Pfade."
+msgstr ":doc:`Software und KI-Anwendungen <software-ai>` — Basismodelle, vertikale KI-Agenten, Model Speed Space, Zhangjiang Model Community, Gutscheine für Rechenleistung und Datenkorpora sowie Compliance-Pfade."
 
 #: ../../index.rst:46
 msgid ""
 ":doc:`Intelligence in the physical world <hardware-ai>` — AI chips, "
 "EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, "
 "BCI and wet-lab biocomputing."
-msgstr ":doc:`Intelligenz in der physischen Welt <hardware-ai>` — KI-Halbleiter, EDA/MPW-Tape-outs, MEMS-Sensoren, verkörperte Robotik, Tiefflugdrohnen, Gehirn-Computer-Schnittstellen (BCI) und Nasslabor-Biocomputing."
+msgstr ":doc:`Chips, Robotik und KI-Hardware <hardware-ai>` — KI-Halbleiter, EDA/MPW-Tape-outs, MEMS-Sensoren, verkörperte Robotik, Tiefflugdrohnen, Gehirn-Computer-Schnittstellen (BCI) und Nasslabor-Biocomputing."
 
 #: ../../index.rst:47
 msgid ""
@@ -286,7 +276,7 @@ msgid ""
 ":doc:`Capital, with its conditions attached <funding-guide>` — How to "
 "distinguish non-repayable grants, post-expenditure reimbursements, "
 "vouchers, debt, tax relief and equity investment."
-msgstr ":doc:`Kapital und seine Bedingungen <funding-guide>` — Differenzierung zwischen nicht rückzahlbaren Zuschüssen, nachträglichen Kostenerstattungen, Gutscheinen, Krediten, Steuervergünstigungen und Eigenkapital."
+msgstr ":doc:`Finanzierung und Förderbedingungen <funding-guide>` — Differenzierung zwischen nicht rückzahlbaren Zuschüssen, nachträglichen Kostenerstattungen, Gutscheinen, Krediten, Steuervergünstigungen und Eigenkapital."
 
 #: ../../index.rst:55
 msgid ""
@@ -307,14 +297,14 @@ msgid ""
 ":doc:`From introduction to application <apply>` — Bilingual outreach "
 "templates, shared data-room checklist, decision workflows and a four-week "
 "accelerator field program."
-msgstr ":doc:`Vom Erstkontakt zur formellen Bewerbung <apply>` — Zweisprachige Anschreibevorlagen, Checkliste für den Datenraum, Entscheidungsprozesse und ein vierwöchiges Vor-Ort-Programm eines Accelerators."
+msgstr ":doc:`Vom Erstkontakt zum Antrag <apply>` — Zweisprachige Anschreibevorlagen, Checkliste für den Datenraum, Entscheidungsprozesse und ein vierwöchiges Vor-Ort-Programm eines Accelerators."
 
 #: ../../index.rst:58
 msgid ""
 ":doc:`How to read the evidence <methodology>` — Source verification "
 "rules, translation discipline, map accuracy disclosures, known gaps and "
 "authorship credits."
-msgstr ":doc:`Wie die Belege zu verstehen sind <methodology>` — Regeln zur Quellenprüfung, Übersetzungsgrundsätze, Hinweise zur Kartengenauigkeit, bekannte Erfassungslücken und Autorennachweise."
+msgstr ":doc:`Quellen und Recherchemethoden <methodology>` — Regeln zur Quellenprüfung, Übersetzungsgrundsätze, Hinweise zur Kartengenauigkeit, bekannte Erfassungslücken und Autorennachweise."
 
 #: ../../index.rst:59
 msgid ""

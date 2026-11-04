@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../hardware-ai.rst:1
 msgid "Intelligence in the physical world"
-msgstr "Intelligenz in der physischen Welt"
+msgstr "Chips, Robotik und KI-Hardware"
 
 #: ../../hardware-ai.rst:4
 msgid ""
@@ -26,7 +26,7 @@ msgid ""
 "reliability and service. A beautiful prototype is the beginning of a "
 "supply chain. We follow chips, sensors, robots and autonomous systems "
 "through the facilities they need."
-msgstr "Hardware verbindet Algorithmen mit Werkstoffen, Fertigungstoleranzen, Zuverlässigkeit und Service. Ein gelungener Prototyp ist erst der Anfang einer industriellen Lieferkette. Wir begleiten Chips, Sensoren, Roboter und autonome Systeme durch die Fertigungs- und Testeinrichtungen, die sie erfordern."
+msgstr "Hardwareentwicklung verbindet Algorithmen mit Werkstoffen, Fertigungstoleranzen, Zuverlässigkeit und Wartung. Ein guter Prototyp ist erst der Anfang. Wir ordnen Chips, Sensoren, Roboter und autonome Systeme nach den benötigten Anlagen und technischen Leistungen."
 
 #: ../../hardware-ai.rst:7
 msgid "Engineering gates from research to repeatable production."
@@ -34,7 +34,7 @@ msgstr "Entwicklungsstufen von der Grundlagenforschung bis zur reproduzierbaren 
 
 #: ../../hardware-ai.rst:10
 msgid "Chips and sensing"
-msgstr "Chips und Sensorik"
+msgstr "Chips und Sensoren"
 
 #: ../../hardware-ai.rst:13
 msgid ""
@@ -66,7 +66,7 @@ msgstr "Das Shanghai Integrated Circuit R&D Center (ICRD) in Zhangjiang unterst�
 
 #: ../../hardware-ai.rst:19
 msgid "Robots and embodied AI"
-msgstr "Robotik und verkörperte KI (Embodied AI)"
+msgstr "Robotik und Embodied AI"
 
 #: ../../hardware-ai.rst:22
 msgid ""
@@ -88,7 +88,7 @@ msgstr "Vergleichen Sie die Anbindung von Forschung an die Fertigung in Minhang,
 
 #: ../../hardware-ai.rst:26
 msgid "Other physical frontiers"
-msgstr "Weitere physische Innovationsfelder"
+msgstr "Weitere Entwicklungsfelder"
 
 #: ../../hardware-ai.rst:29
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -37,7 +37,7 @@ msgid ""
 "A specialist large-model incubation and acceleration community on the "
 "West Bund. Its operator lists several zones; admission, workspace, "
 "compute support and investment are separate decisions."
-msgstr "Ein spezialisierter Inkubations- und Beschleunigungsstandort für Basis- und Großmodelle am West Bund. Der Betreiber unterteilt das Areal in mehrere Zonen; Aufnahme, Büroflächen, Rechenleistungsförderung und Eigenkapitalinvestitionen sind jeweils eigenständige Entscheidungen."
+msgstr "Ein spezialisierter Inkubations- und Accelerator-Standort für Basis- und Großmodelle am West Bund. Der Betreiber unterteilt das Areal in mehrere Zonen; Aufnahme, Büroflächen, Rechenleistungsförderung und Eigenkapitalinvestitionen sind jeweils eigenständige Entscheidungen."
 
 #: ../../entities/mosu.rst:12
 msgid "`Evidence S001 <https://www.opensmc.com/>`_. 模速空间."
@@ -49,11 +49,11 @@ msgstr "Status und Förderumfang"
 
 #: ../../entities/mosu.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+msgstr "Einrichtung belegt; aktuelle Aufnahme bitte prüfen"
 
 #: ../../entities/mosu.rst:19
 msgid "Published support note: Services / possible incentives."
-msgstr "Veröffentlichter Unterstützungshinweis: Flächen & Services / potenzielle Förderanreize."
+msgstr "Veröffentlichter Unterstützungshinweis: Flächen und Dienstleistungen; mögliche Förderung."
 
 #: ../../entities/mosu.rst:21
 msgid ""

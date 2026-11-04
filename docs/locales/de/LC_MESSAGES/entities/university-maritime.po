@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -38,14 +38,9 @@ msgid ""
 "Suggested collaboration themes: Shipping, logistics, autonomous maritime "
 "systems. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding."
-msgstr "Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Schifffahrt, Logistik, autonome maritime Systeme. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar."
+msgstr "Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Schifffahrt, Logistik, autonome maritime Systeme. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung."
 
 #: ../../entities/university-maritime.rst:12
-
-#| msgid ""
-#| "`Evidence S083 "
-#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
-#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
 "`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
@@ -58,7 +53,7 @@ msgstr "Status und Förderumfang"
 
 #: ../../entities/university-maritime.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+msgstr "Einrichtung belegt; aktuelle Aufnahme bitte prüfen"
 
 #: ../../entities/university-maritime.rst:19
 msgid ""

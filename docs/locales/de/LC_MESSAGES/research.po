@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -21,14 +21,10 @@ msgid "Research and technical platforms"
 msgstr "Forschungs- und Technologieplattformen"
 
 #: ../../research.rst:4
-
-#| msgid ""
-#| "10 profiles with evidence, contact routes and an application "
-#| "checklist. Published existence is distinguished from current intake."
 msgid ""
 "11 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "11 Profile mit Quellenbelegen, Kontaktwegen und Bewerbungs-Checkliste. Veröffentlichte Existenz wird von laufenden Bewerbungsrunden unterschieden."
+msgstr "11 Profile mit Quellen, Kontakten und einer Checkliste für den Antrag. Die belegte Existenz einer Einrichtung und ihre aktuelle Aufnahme sind getrennt ausgewiesen."
 
 #: ../../research.rst:8
 msgid "Complete directory summary"
@@ -43,7 +39,7 @@ msgid ""
 "services are selected on the official platform; a voucher is not a "
 "general equipment purchase budget. Tel: +86 21 61609878 ext. 217. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Zentrum zur Förderung von Technologie und Industrie integrierter Schaltkreise Shanghai (ICC) <entities/icc>` (上海集成电路技术与产业促进中心 · Forschungsplattform · Neuer Stadtbezirk Pudong · Halbleiter & Chips, Hardware-KI) — Eine zentrale technische Servicestelle für Halbleiter, die auch Richtlinien für Innovationsgutscheine herausgibt. Förderfähige Dienstleistungen werden über die offizielle Plattform gebucht; ein Gutschein stellt kein allgemeines Gerätebeschaffungsbudget dar. Tel: +86 21 61609878 ext. 217. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Zentrum zur Förderung von Technologie und Industrie integrierter Schaltkreise Shanghai (ICC) <entities/icc>` (上海集成电路技术与产业促进中心 · Forschungsplattform · Neuer Stadtbezirk Pudong · Halbleiter & Chips, Hardware-KI) — Eine zentrale technische Servicestelle für Halbleiter, die auch Richtlinien für Innovationsgutscheine herausgibt. Förderfähige Dienstleistungen werden über die offizielle Plattform gebucht; ein Gutschein stellt kein allgemeines Gerätebeschaffungsbudget dar. Tel: +86 21 61609878 ext. 217. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../research.rst:12
 msgid ""
@@ -54,7 +50,7 @@ msgid ""
 "resources, collaboration and recruitment are separate pathways, not a "
 "generic startup grant. Address: L1, International Media Port, 129 Longwen "
 "Road, Xuhui. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Shanghai Artificial Intelligence Laboratory <entities/shlab>` (上海人工智能实验室 · Forschungsplattform · Bezirk Xuhui · Software-KI, KI in der Wissenschaft (AI for Science)) — Eine nationale Spitzenforschungseinrichtung für künstliche Intelligenz. Partnerschaften im Rahmen von Open-Source-Gemeinschaften, akademischem Austausch oder Co-Entwicklungen erfordern maßgeschneiderte Vereinbarungen und begründen keinen automatischen Anspruch auf Rechenzeit. Ebene L1, International Media Port, Longwen-Straße 129, Bezirk Xuhui. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Shanghai Artificial Intelligence Laboratory <entities/shlab>` (上海人工智能实验室 · Forschungsplattform · Bezirk Xuhui · Software-KI, KI in der Wissenschaft (AI for Science)) — Eine nationale Spitzenforschungseinrichtung für künstliche Intelligenz. Partnerschaften im Rahmen von Open-Source-Gemeinschaften, akademischem Austausch oder Co-Entwicklungen erfordern maßgeschneiderte Vereinbarungen und begründen keinen automatischen Anspruch auf Rechenzeit. Ebene L1, International Media Port, Longwen-Straße 129, Bezirk Xuhui. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../research.rst:13
 msgid ""
@@ -65,7 +61,7 @@ msgid ""
 "technical proposal should identify the platform, experiment, data and "
 "proposed industrial partner. Address: 3F, Building 2, Tongji Zhangjiang "
 "Base, 398 Lianchuang Road. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Wissenschaftszentrum für autonome intelligente unbemannte Systeme der Tongji-Universität <entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Forschungsplattform · Neuer Stadtbezirk Pudong · Hardware-KI, Mobilität) — Eine hochmoderne Forschungseinrichtung der Tongji-Universität in Zhangjiang. Die Kooperationsanbahnung konzentriert sich auf gemeinsame Grundlagenforschung, Sensorfusion und autonome Navigation; es handelt sich nicht um einen kommerziellen Co-Working-Space. 3. OG, Gebäude 2, Tongji-Basis Zhangjiang, Lianchuang-Straße 398, Pudong. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Wissenschaftszentrum für autonome intelligente unbemannte Systeme der Tongji-Universität <entities/tongji-autonomy>` (同济大学上海自主智能无人系统科学中心 · Forschungsplattform · Neuer Stadtbezirk Pudong · Hardware-KI, Mobilität) — Eine hochmoderne Forschungseinrichtung der Tongji-Universität in Zhangjiang. Die Kooperationsanbahnung konzentriert sich auf gemeinsame Grundlagenforschung, Sensorfusion und autonome Navigation; es handelt sich nicht um einen kommerziellen Co-Working-Space. 3. OG, Gebäude 2, Tongji-Basis Zhangjiang, Lianchuang-Straße 398, Pudong. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../research.rst:14
 msgid ""
@@ -76,7 +72,7 @@ msgid ""
 "rather than assuming access through general university admissions. "
 "Address: Zhixin Building, Tongji Jiading Campus, 4800 Caoan Highway. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`PAI-Forschungszentrum der Tongji-Universität <entities/tongji-pai>` (同济大学PAI研究中心 · Forschungsplattform · Bezirk Jiading · Hardware-KI, Sensorik) — Ein akademisches Zentrum für Musteranalyse und maschinelle Intelligenz auf dem Campus Jiading. Kooperationspfade beziehen sich auf wissenschaftliche Projekte, Nachwuchsförderung und gemeinsame Publikationen. Zhixin-Gebäude, Campus Jiading der Tongji-Universität, Cao'an-Chaussee 4800, Jiading. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`PAI-Forschungszentrum der Tongji-Universität <entities/tongji-pai>` (同济大学PAI研究中心 · Forschungsplattform · Bezirk Jiading · Hardware-KI, Sensorik) — Ein akademisches Zentrum für Musteranalyse und maschinelle Intelligenz auf dem Campus Jiading. Kooperationspfade beziehen sich auf wissenschaftliche Projekte, Nachwuchsförderung und gemeinsame Publikationen. Zhixin-Gebäude, Campus Jiading der Tongji-Universität, Cao'an-Chaussee 4800, Jiading. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../research.rst:15
 msgid ""
@@ -86,7 +82,7 @@ msgid ""
 "supporting process development, device verification and IP testing. "
 "Request a technical scoping review and written quotation for wafer or "
 "testing runs. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Forschungs- und Entwicklungszentrum für integrierte Schaltkreise Shanghai (ICRD) <entities/icrd>` (上海集成电路研发中心 · Forschungsplattform · Neuer Stadtbezirk Pudong · Halbleiter & Chips, Hardware-KI) — Ein nationales Forschungszentrum mit Pilotfertigungslinien und fortschrittlichen Prüfeinrichtungen für die Halbleiterindustrie. Prozessunterstützung, Waferprüfungen und F&E-Dienstleistungen erfordern formelle technische Prüfverfahren. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Forschungs- und Entwicklungszentrum für integrierte Schaltkreise Shanghai (ICRD) <entities/icrd>` (上海集成电路研发中心 · Forschungsplattform · Neuer Stadtbezirk Pudong · Halbleiter & Chips, Hardware-KI) — Ein nationales Forschungszentrum mit Pilotfertigungslinien und fortschrittlichen Prüfeinrichtungen für die Halbleiterindustrie. Prozessunterstützung, Waferprüfungen und F&E-Dienstleistungen erfordern formelle technische Prüfverfahren. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../research.rst:16
 msgid ""
@@ -96,7 +92,7 @@ msgid ""
 "institution coordinating Shanghai's high-quality incubator cultivation "
 "system, innovation vouchers, technology SME filings and the Startup in "
 "Shanghai portal. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Technologie-Innovationszentrum Shanghai (SHTIC) <entities/shtic>` (上海市科技创业中心 · Forschungsplattform · Bezirk Xuhui · Software-KI, Hardware-KI, Industrie) — Die zentrale städtische Dienstleistungseinrichtung zur Förderung von Technologie-Startups, Verwaltung des Innovationsfonds für KMU und Koordination öffentlicher Förderprogramme. Eine Schlüsseladresse für Förderberatung und Inkubatorzertifizierungen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Technologie-Innovationszentrum Shanghai (SHTIC) <entities/shtic>` (上海市科技创业中心 · Forschungsplattform · Bezirk Xuhui · Software-KI, Hardware-KI, Industrie) — Die zentrale städtische Dienstleistungseinrichtung zur Förderung von Technologie-Startups, Verwaltung des Innovationsfonds für KMU und Koordination öffentlicher Förderprogramme. Eine Schlüsseladresse für Förderberatung und Inkubatorzertifizierungen. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../research.rst:17
 msgid ""
@@ -107,7 +103,7 @@ msgid ""
 "Center\" layout, connecting university engineering laboratories with "
 "Yangtze River Delta industrial applications. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Internationales Innovationszentrum der Tsinghua-Universität in Shanghai <entities/tsinghua-shanghai>` (上海清华国际创新中心 · Forschungsplattform · Bezirk Putuo · Software-KI, Hardware-KI, Halbleiter & Chips) — Ein von der Stadt Shanghai und der Tsinghua-Universität gemeinsam betriebenes Institut im Putuo-Korridor. Der Schwerpunkt liegt auf Schlüsseltechnologien, industrieller Software, Chip-Architekturen und Technologietransfer. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Internationales Innovationszentrum der Tsinghua-Universität in Shanghai <entities/tsinghua-shanghai>` (上海清华国际创新中心 · Forschungsplattform · Bezirk Putuo · Software-KI, Hardware-KI, Halbleiter & Chips) — Ein von der Stadt Shanghai und der Tsinghua-Universität gemeinsam betriebenes Institut im Putuo-Korridor. Der Schwerpunkt liegt auf Schlüsseltechnologien, industrieller Software, Chip-Architekturen und Technologietransfer. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../research.rst:18
 msgid ""
@@ -118,7 +114,7 @@ msgid ""
 "alongside district science authorities to support enterprise R&D centers "
 "in ecological tech, green manufacturing and smart agriculture. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Unternehmens-Technologiezentrum und Öko-Innovationsroute Chongming <entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Forschungsplattform · Bezirk Chongming · Klima & Umwelt, Agrartechnologie, Industrie) — Ein Förderpfad für ökologische Spitzentechnologien, smarte Landwirtschaft, kohlenstoffarme Systeme und maritime Geräte im Bezirk Chongming. Die Abstimmung erfolgt über die bezirkliche Kommission für Wirtschaft und Informationstechnologie. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Unternehmens-Technologiezentrum und Öko-Innovationsroute Chongming <entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Forschungsplattform · Bezirk Chongming · Klima & Umwelt, Agrartechnologie, Industrie) — Ein Förderpfad für ökologische Spitzentechnologien, smarte Landwirtschaft, kohlenstoffarme Systeme und maritime Geräte im Bezirk Chongming. Die Abstimmung erfolgt über die bezirkliche Kommission für Wirtschaft und Informationstechnologie. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../research.rst:19
 msgid ""
@@ -131,7 +127,7 @@ msgid ""
 "validation. Ask for compatibility, queue, sample ownership, safety "
 "responsibilities and a written service quotation. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`National-Local Humanoid Robot Innovation Center / Pilotfertigung <entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · Forschungsplattform · Neuer Stadtbezirk Pudong · Hardware-KI, Robotik, Sensorik) — Das Zentrum verbindet Roboterdatenerfassung, Training und reale Validierung mit einer gemeinsam mit Shanghai Electric betriebenen Pilotfertigung. Die Ankündigung vom Juli 2026 beschreibt branchenoffene Versuchsproduktion, Prüfung und Einsatzvalidierung. Kompatibilität, Wartezeit, Eigentum an Mustern, Sicherheitsverantwortung und schriftliches Angebot klären. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`National-Local Humanoid Robot Innovation Center / Pilotfertigung <entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · Forschungsplattform · Neuer Stadtbezirk Pudong · Hardware-KI, Robotik, Sensorik) — Das Zentrum verbindet Roboterdatenerfassung, Training und reale Validierung mit einer gemeinsam mit Shanghai Electric betriebenen Pilotfertigung. Die Ankündigung vom Juli 2026 beschreibt branchenoffene Versuchsproduktion, Prüfung und Einsatzvalidierung. Kompatibilität, Wartezeit, Eigentum an Mustern, Sicherheitsverantwortung und schriftliches Angebot klären. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../research.rst:20
 msgid ""
@@ -144,7 +140,7 @@ msgid ""
 "incubator or an open funding call. Ask the organizer about the next "
 "startup selection, exhibition fees and investor sessions. [Status: "
 "Historical / confirm continuation]"
-msgstr ":doc:`WAIC / Future Tech-Gründungsnetzwerk <entities/waic-future-tech>` (世界人工智能大会／Future Tech创投生态 · Forschungsplattform · Stadtweit / global · Software-KI, Hardware-KI, Robotik, KI in der Wissenschaft (AI for Science)) — Die World Artificial Intelligence Conference 2026 verband über Future Tech ausgewählte Startups und Investoren. Die Veranstaltung vom Juli 2026 ist beendet. Dies ist ein Kontaktweg für Vernetzung und künftige Veranstaltungen, kein dauerhafter Inkubator und keine offene Förderausschreibung. Nächste Projektauswahl, Ausstellungsgebühren und Investorentermine beim Veranstalter erfragen. [Historisch / Fortführung überprüfen]"
+msgstr ":doc:`WAIC / Future Tech-Gründungsnetzwerk <entities/waic-future-tech>` (世界人工智能大会／Future Tech创投生态 · Forschungsplattform · Stadtweit / global · Software-KI, Hardware-KI, Robotik, KI in der Wissenschaft (AI for Science)) — Die World Artificial Intelligence Conference 2026 verband über Future Tech ausgewählte Startups und Investoren. Die Veranstaltung vom Juli 2026 ist beendet. Dies ist ein Kontaktweg für Vernetzung und künftige Veranstaltungen, kein dauerhafter Inkubator und keine offene Förderausschreibung. Nächste Projektauswahl, Ausstellungsgebühren und Investorentermine beim Veranstalter erfragen. [Früheres Programm; Fortführung bitte prüfen]"
 
 #: ../../research.rst:21
 msgid ""
@@ -159,4 +155,4 @@ msgid ""
 "entity, customs boundary, sector permissions and data handling before "
 "incurring costs. This is a service and collaboration route; the plan is "
 "not a cash-award offer. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Waigaoqiao: Zollgebundene F&E und KI-Gesundheitsinnovation <entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · Forschungsplattform · Neuer Stadtbezirk Pudong · KI in der Wissenschaft (AI for Science), Gesundheit & Life Sciences, Hardware-KI, Robotik) — Der Plan 2025–2026 unterstützt ausdrücklich KI-Wirkstoffforschung, grenzüberschreitende Medizintechnik-F&E, innovative Ausrüstung und ausländisch finanzierte F&E-Institute. Ausländische KI- und Hardwareunternehmen können über die Behörde lokale Forschung, Tests und Verwertung erkunden. Vor Kostenentstehung Betreiber, Rechtsträger, Zollgrenze, Branchengenehmigungen und Datenverarbeitung klären. Dies ist ein Service- und Kooperationsweg, keine Zusage einer Barauszahlung. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Waigaoqiao: Zollgebundene F&E und KI-Gesundheitsinnovation <entities/waigaoqiao-innovation>` (外高桥保税研发与AI健康创新服务 · Forschungsplattform · Neuer Stadtbezirk Pudong · KI in der Wissenschaft (AI for Science), Gesundheit & Life Sciences, Hardware-KI, Robotik) — Der Plan 2025–2026 unterstützt ausdrücklich KI-Wirkstoffforschung, grenzüberschreitende Medizintechnik-F&E, innovative Ausrüstung und ausländisch finanzierte F&E-Institute. Ausländische KI- und Hardwareunternehmen können über die Behörde lokale Forschung, Tests und Verwertung erkunden. Vor Kostenentstehung Betreiber, Rechtsträger, Zollgrenze, Branchengenehmigungen und Datenverarbeitung klären. Dies ist ein Service- und Kooperationsweg, keine Zusage einer Barauszahlung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"

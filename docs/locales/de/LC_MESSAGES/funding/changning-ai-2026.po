@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -29,11 +29,6 @@ msgid "Closed"
 msgstr "Bewerbungsfrist abgelaufen"
 
 #: ../../funding/changning-ai-2026.rst:8
-
-#| msgid ""
-#| "`Evidence S115 "
-#| "<https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. "
-#| "上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
 msgid ""
 "`Evidence S118 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. "
 "上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
@@ -50,7 +45,7 @@ msgstr "Projektspezifische Förderung nach Begutachtung; keine einheitliche Paus
 
 #: ../../funding/changning-ai-2026.rst:15
 msgid "No equity"
-msgstr "Ohne Anteilsabgabe"
+msgstr "Ohne Abgabe von Unternehmensanteilen"
 
 #: ../../funding/changning-ai-2026.rst:17
 msgid "Eligibility and timing"

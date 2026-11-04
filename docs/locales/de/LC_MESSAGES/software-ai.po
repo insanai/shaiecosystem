@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../software-ai.rst:1
 msgid "Intelligence in software"
-msgstr "Intelligenz in Software"
+msgstr "Software und KI-Anwendungen"
 
 #: ../../software-ai.rst:4
 msgid ""
@@ -26,7 +26,7 @@ msgid ""
 "customer problem, a reliable evaluation set and a lawful route to useful "
 "data. A model community helps when it supplies a concrete resource or a "
 "credible introduction."
-msgstr "Für ein Software-KI-Team ist die knappste Ressource oft ein wiederkehrendes Kundenproblem, ein verlässlicher Evaluierungsdatensatz und ein rechtskonformer Zugang zu nutzbaren Daten. Eine Entwickler- und Modell-Community stiftet dann echten Nutzen, wenn sie konkrete Ressourcen bereitstellt oder belastbare Kontakte vermittelt."
+msgstr "Software-KI-Teams brauchen vor allem ein Kundenproblem mit wiederholbarem Lösungsansatz, verlässliche Evaluierungsdaten und einen rechtmäßigen Zugang zu geeigneten Daten. Eine Modell-Community hilft, wenn sie konkrete Ressourcen oder passende Geschäftskontakte vermittelt."
 
 #: ../../software-ai.rst:7
 msgid "An AI product connects models to a customer workflow."
@@ -34,7 +34,7 @@ msgstr "Ein KI-Produkt verknüpft Modelle mit den Arbeitsabläufen der Kunden."
 
 #: ../../software-ai.rst:10
 msgid "Choose an entry point"
-msgstr "Einen Einstiegspunkt wählen"
+msgstr "Die passende Anlaufstelle finden"
 
 #: ../../software-ai.rst:13
 msgid ""
@@ -44,7 +44,7 @@ msgid ""
 "operator's actual buyer relationships with the industry requirements. For "
 "an independent founder, check the current Yangpu OPC community policy and "
 "Changning's published carriers."
-msgstr "Für Modellentwicklung und den Austausch mit Entwicklern bieten sich Model Speed Space (Moxu Space), die Zhangjiang Model Community, die Ressourcen des Shanghai AI Laboratory oder spezialisierte universitäre Forschungsgruppen als erste Anlaufstellen an. Für B2B-Anwendungen sollten Sie die tatsächlichen Kundenkontakte des Betreibers mit Ihren Branchenanforderungen abgleichen. Für Solopreneure und unabhängige Gründer empfiehlt sich ein Blick auf die aktuellen Förderrichtlinien für One-Person-Company-Communitys (OPC) in Yangpu sowie auf die von Changning ausgewiesenen Zentren."
+msgstr "Für Modellentwicklung und den Austausch mit Entwicklern bieten sich Model Speed Space (模速空间), die Zhangjiang Model Community, die Ressourcen des Shanghai AI Laboratory oder spezialisierte universitäre Forschungsgruppen als erste Anlaufstellen an. Für B2B-Anwendungen sollten Sie die tatsächlichen Kundenkontakte des Betreibers mit Ihren Branchenanforderungen abgleichen. Für Solopreneure und unabhängige Gründer empfiehlt sich ein Blick auf die aktuellen Förderrichtlinien für One-Person-Company-Communitys (OPC) in Yangpu sowie auf die von Changning ausgewiesenen Zentren."
 
 #: ../../software-ai.rst:15
 msgid ""
@@ -66,7 +66,7 @@ msgstr "In den zentralen und westlichen Bezirken konzentrieren sich der Shibei H
 
 #: ../../software-ai.rst:19
 msgid "Build the smallest credible pilot"
-msgstr "Den kleinsten glaubwürdigen Piloten bauen"
+msgstr "Ein kleines, belastbares Pilotprojekt"
 
 #: ../../software-ai.rst:22
 msgid ""
@@ -88,7 +88,7 @@ msgstr "Kalkulieren Sie Training, Feinabstimmung (Fine-Tuning), Inferenz, Retrie
 
 #: ../../software-ai.rst:26
 msgid "Before public deployment"
-msgstr "Vor dem öffentlichen Produktivstart"
+msgstr "Vor dem öffentlichen Betrieb"
 
 #: ../../software-ai.rst:29
 msgid ""
@@ -102,11 +102,6 @@ msgid ""
 msgstr "Klären Sie verbindlich, ob es sich bei dem Dienst um ein internes Werkzeug, eine Lösung für Unternehmenskunden (B2B) oder einen öffentlich zugänglichen generativen KI-Dienst handelt. Prüfen Sie mit den zuständigen Behörden und qualifizierten Rechtsberatern, welche Anforderungen bezüglich Modellregistrierung, Algorithmen-Anmeldung, Inhaltskennzeichnung, Datensicherheit, Branchenregulierung und Cybersicherheit greifen. Gesetzliche Pflichten richten sich nach dem tatsächlich erbrachten Dienst, nicht nach dem KI-Label auf einem Pitchdeck. Dieser Atlas liefert orientierende Fragen, ersetzt jedoch keine rechtliche Prüfung."
 
 #: ../../software-ai.rst:31
-
-#| msgid ""
-#| "`Evidence S111 "
-#| "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
-#| "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 msgid ""
 "`Evidence S114 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "

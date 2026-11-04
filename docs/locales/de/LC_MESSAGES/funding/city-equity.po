@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -22,7 +22,7 @@ msgstr "Fonds für Leitindustrien und spezialisierte KI-Fonds"
 
 #: ../../funding/city-equity.rst:4
 msgid "Equity investment | Citywide / global"
-msgstr "Eigenkapitalinvestition | Stadtweit / global"
+msgstr "Beteiligungsfinanzierung | Stadtweit / global"
 
 #: ../../funding/city-equity.rst:6
 msgid "Published investment platform; deal review"

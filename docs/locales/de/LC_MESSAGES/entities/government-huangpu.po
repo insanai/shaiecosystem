@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -37,11 +37,6 @@ msgid ""
 msgstr "Der Zhangjiang-Huangpu-Park-Plan für 2025–2026 hebt Fintech und klinische Forschungsdienstleistungen hervor. Die Huangpu ChuangKa ist ein separater Förderweg für junge Gründer; Teilnahmeberechtigung und Verfügbarkeit freier Arbeitsplätze müssen vorab geprüft werden."
 
 #: ../../entities/government-huangpu.rst:10
-
-#| msgid ""
-#| "`Evidence S100 "
-#| "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
-#| "黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
 msgid ""
 "`Evidence S103 "
 "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
@@ -54,7 +49,7 @@ msgstr "Status und Förderumfang"
 
 #: ../../entities/government-huangpu.rst:15
 msgid "Published entity; intake to confirm"
-msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+msgstr "Einrichtung belegt; aktuelle Aufnahme bitte prüfen"
 
 #: ../../entities/government-huangpu.rst:17
 msgid ""

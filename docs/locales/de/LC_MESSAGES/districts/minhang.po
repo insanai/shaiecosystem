@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -33,11 +33,6 @@ msgid ""
 msgstr "Die Förderrichtlinie für Unternehmenssinnovation gilt vom 1. September 2025 bis zum 31. August 2030. Neu gegründete Transferunternehmen können bis zu 500.000 RMB jährlich erhalten, gedeckelt auf maximal 1,5 Millionen RMB über drei Jahre und 50 % der förderfähigen Investitionen."
 
 #: ../../districts/minhang.rst:8
-
-#| msgid ""
-#| "`Evidence S098 "
-#| "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
-#| "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 msgid ""
 "`Evidence S101 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
@@ -116,7 +111,7 @@ msgid ""
 "projects with incubation. SJTU documents the Zero Kilometer launch and "
 "its AI, integrated-circuit, manufacturing and low-carbon participants. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Grand neoBay / Inkubator „Kilometer Null“ </entities/neobay>` (大零号湾／零公里孵化器 · Inkubator · Hardware-KI, Software-KI) — Ein an Universitäten angebundener Verwertungspfad, der Technologieprojekte in der Frühphase mit Inkubationsressourcen verbindet. Die Jiao-Tong-Universität Shanghai dokumentiert den Start des Inkubators „Kilometer Null“ sowie beteiligte Unternehmen aus den Bereichen KI, integrierte Schaltkreise, Fertigung und Dekarbonisierung. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Grand neoBay / Inkubator „Kilometer Null“ </entities/neobay>` (大零号湾／零公里孵化器 · Inkubator · Hardware-KI, Software-KI) — Ein an Universitäten angebundener Verwertungspfad, der Technologieprojekte in der Frühphase mit Inkubationsressourcen verbindet. Die Jiao-Tong-Universität Shanghai dokumentiert den Start des Inkubators „Kilometer Null“ sowie beteiligte Unternehmen aus den Bereichen KI, integrierte Schaltkreise, Fertigung und Dekarbonisierung. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/minhang.rst:38
 msgid ""
@@ -126,7 +121,7 @@ msgid ""
 "include electrodes, neural interfaces, sensing, rehabilitation and "
 "translational engineering; wet-lab and device requirements need explicit "
 "confirmation. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Synlonx-Inkubator für Gehirn-Computer-Schnittstellen </entities/synlonx>` (司南脑机智能孵化器 · Inkubator · Hardware-KI, Gesundheit & Life Sciences) — Eine in Huacao gegründete Plattform zur Inkubation von Gehirn-Computer-Schnittstellen (BCI). Geeignete Gesprächsthemen umfassen Elektroden, neuronale Schnittstellen, Sensorik, Rehabilitation und Translationstechnik; Anforderungen an Nasslabore und Medizingerätezulassungen müssen explizit geklärt werden. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Synlonx-Inkubator für Gehirn-Computer-Schnittstellen </entities/synlonx>` (司南脑机智能孵化器 · Inkubator · Hardware-KI, Gesundheit & Life Sciences) — Eine in Huacao gegründete Plattform zur Inkubation von Gehirn-Computer-Schnittstellen (BCI). Geeignete Gesprächsthemen umfassen Elektroden, neuronale Schnittstellen, Sensorik, Rehabilitation und Translationstechnik; Anforderungen an Nasslabore und Medizingerätezulassungen müssen explizit geklärt werden. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/minhang.rst:39
 msgid ""
@@ -135,7 +130,7 @@ msgid ""
 "plan links Grand neoBay R&D with Maqiao manufacturing. A useful pathway "
 "from a robot prototype to supply-chain and production conversations. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Maqiao KI-Innovations- und Pilotzone </entities/maqiao>` (马桥人工智能创新试验区 · Technologiepark · Hardware-KI, Robotik) — Eine Sonderzone im Bezirk Minhang, die sich auf Industrie-KI, autonomes Fahren und Großanwendungen spezialisiert hat. Testfeld- und Hallenkapazitäten müssen gesondert mit der Zonenverwaltung abgestimmt werden. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Maqiao KI-Innovations- und Pilotzone </entities/maqiao>` (马桥人工智能创新试验区 · Technologiepark · Hardware-KI, Robotik) — Eine Sonderzone im Bezirk Minhang, die sich auf Industrie-KI, autonomes Fahren und Großanwendungen spezialisiert hat. Testfeld- und Hallenkapazitäten müssen gesondert mit der Zonenverwaltung abgestimmt werden. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/minhang.rst:40
 msgid ""
@@ -145,7 +140,7 @@ msgid ""
 "and manufacturing ecosystem. Its operator describes industry challenges "
 "and collaborative innovation; current admission, space and fees require "
 "an intake discussion. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Nationaler Hightech-Park Zizhu / Inkubator ET Space </entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · Inkubator · Software-KI, Hardware-KI, Industrie) — Der parkeigene Inkubator verbindet Neugründungen mit der ansässigen Software-, Avionik- und Fertigungsindustrie. Aufnahmebedingungen, Mietkonditionen und gemeinsame Innovationsprojekte erfordern ein Vorgespräch. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Nationaler Hightech-Park Zizhu / Inkubator ET Space </entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · Inkubator · Software-KI, Hardware-KI, Industrie) — Der parkeigene Inkubator verbindet Neugründungen mit der ansässigen Software-, Avionik- und Fertigungsindustrie. Aufnahmebedingungen, Mietkonditionen und gemeinsame Innovationsprojekte erfordern ein Vorgespräch. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/minhang.rst:41
 msgid ""
@@ -155,7 +150,7 @@ msgid ""
 "business-service hub in Hongqiao. The reported workstation offer depends "
 "on qualification and available space, not simply arrival at the transport "
 "hub. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Internationaler Jugend-Innovationshub Hongqiao </entities/hongqiao-youth>` (虹桥国际青年创业港 · Inkubator · Software-KI, Industrie) — Im Juli 2026 als Zentrum für Jugendgründungen und Unternehmensdienstleistungen in Hongqiao eröffnet. Angebote für freie Arbeitsplätze hängen von den Qualifikationskriterien und Raumkontingenten ab. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Internationaler Jugend-Innovationshub Hongqiao </entities/hongqiao-youth>` (虹桥国际青年创业港 · Inkubator · Software-KI, Industrie) — Im Juli 2026 als Zentrum für Jugendgründungen und Unternehmensdienstleistungen in Hongqiao eröffnet. Angebote für freie Arbeitsplätze hängen von den Qualifikationskriterien und Raumkontingenten ab. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/minhang.rst:42
 msgid ""
@@ -165,7 +160,7 @@ msgid ""
 "engineering, medical AI. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Jiao-Tong-Universität Shanghai (Shanghai Jiao Tong University) </entities/university-sjtu>` (上海交通大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Robotik, Halbleiter / Chips, Ingenieurwesen, Medizinische KI. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Jiao-Tong-Universität Shanghai (Shanghai Jiao Tong University) </entities/university-sjtu>` (上海交通大学 · Hochschule) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Robotik, Halbleiter / Chips, Ingenieurwesen, Medizinische KI. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/minhang.rst:44
 msgid "Funding routes"
@@ -178,7 +173,7 @@ msgid ""
 "conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; "
 "up to 50% of investment. Status: Policy in force; call not confirmed "
 "open. Timing: Policy: 1 Sep 2025 to 31 Aug 2030."
-msgstr ":doc:`Förderung der Verwertung wissenschaftlich-technischer Forschungsergebnisse Minhang </funding/minhang-conversion>` (闵行科技成果转化支持 · Zuschuss · Ohne Anteilsabgabe) — Neu gegründete Verwertungsunternehmen: bis zu 500.000 RMB/Jahr; maximal 1,5 Mio. RMB über drei Jahre; bis zu 50 % der Investitionssumme. Status: Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet. Zeitrahmen: Richtlinienlaufzeit: 1. September 2025 bis 31. August 2030."
+msgstr ":doc:`Förderung der Verwertung wissenschaftlich-technischer Forschungsergebnisse Minhang </funding/minhang-conversion>` (闵行科技成果转化支持 · Zuschuss · Ohne Abgabe von Unternehmensanteilen) — Neu gegründete Verwertungsunternehmen: bis zu 500.000 RMB/Jahr; maximal 1,5 Mio. RMB über drei Jahre; bis zu 50 % der Investitionssumme. Status: Richtlinie gültig; offene Antragsrunde nicht bestätigt. Zeitrahmen: Richtlinienlaufzeit: 1. September 2025 bis 31. August 2030."
 
 #: ../../districts/minhang.rst:48
 msgid ""
@@ -186,7 +181,7 @@ msgid ""
 "(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
 "R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
 "confirmed open. Timing: Policy through 31 Aug 2030."
-msgstr ":doc:`F&E-Schlüsselprojekte für Kerntechnologien Minhang </funding/minhang-rd>` (闵行关键核心技术攻关 · Zuschuss · Ohne Anteilsabgabe) — Allgemeine Projekte: bis zu 3 Mio. RMB und bis zu 30 % der F&E-Kosten; Schwerpunktprojekte: bis zu 10 Mio. RMB und bis zu 50 %. Status: Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet. Zeitrahmen: Richtlinie gültig bis 31. August 2030."
+msgstr ":doc:`F&E-Schlüsselprojekte für Kerntechnologien Minhang </funding/minhang-rd>` (闵行关键核心技术攻关 · Zuschuss · Ohne Abgabe von Unternehmensanteilen) — Allgemeine Projekte: bis zu 3 Mio. RMB und bis zu 30 % der F&E-Kosten; Schwerpunktprojekte: bis zu 10 Mio. RMB und bis zu 50 %. Status: Richtlinie gültig; offene Antragsrunde nicht bestätigt. Zeitrahmen: Richtlinie gültig bis 31. August 2030."
 
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"

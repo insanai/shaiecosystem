@@ -50,7 +50,7 @@ msgid "Download PDF Book"
 msgstr "PDF-Buch herunterladen"
 
 msgid "THE PEARL OF THE ORIENT / WHITE MAGNOLIA EDITION 2026"
-msgstr "DIE PERLE DES ORIENTS / WEISSE-MAGNOLIE-EDITION 2026"
+msgstr "DIE PERLE DES ORIENTS / MAGNOLIEN-EDITION 2026"
 
 msgid "A city."
 msgstr "Eine Stadt."
@@ -110,13 +110,13 @@ msgid "districts, connected"
 msgstr "verbundene Stadtbezirke"
 
 msgid "university profiles (+41 colleges)"
-msgstr "Universitätsprofile (+41 Kollegs)"
+msgstr "Hochschulprofile (weitere 41 im Register)"
 
 msgid "organization routes"
 msgstr "Organisationsprofile"
 
 msgid "funding pathways"
-msgstr "Förder- & Kapitalwege"
+msgstr "Finanzierungs- und Förderangebote"
 
 msgid "verified primary sources"
 msgstr "geprüfte Primärquellen"
@@ -161,7 +161,7 @@ msgid "MODELS & AGENTS"
 msgstr "MODELLE & AGENTEN"
 
 msgid "Intelligence in software"
-msgstr "Intelligenz in Software"
+msgstr "Software und KI-Anwendungen"
 
 msgid "From Model Speed Space and Zhangjiang Model Community to compute vouchers and pilot deployment."
 msgstr "Vom Model Speed Space und der Zhangjiang Model Community bis zu Rechengutscheinen und Pilotprojekten."
@@ -170,7 +170,7 @@ msgid "CHIPS & ROBOTS"
 msgstr "CHIPS & ROBOTIK"
 
 msgid "Intelligence in the physical world"
-msgstr "Intelligenz in der physischen Welt"
+msgstr "Chips, Robotik und KI-Hardware"
 
 msgid "Zhangjiang tape-out, Jiading MEMS pilot lines, embodied robotics, Jinshan UAVs and biomanufacturing."
 msgstr "Tape-out in Zhangjiang, MEMS-Pilotlinien in Jiading, verkörperte Robotik, UAVs in Jinshan und Bioproduktion."
@@ -179,7 +179,7 @@ msgid "CAPITAL WITH CONDITIONS"
 msgstr "KAPITAL MIT BEDINGUNGEN"
 
 msgid "Know what funding really means"
-msgstr "Fördermechanismen richtig einordnen"
+msgstr "Finanzierung und Förderung verstehen"
 
 msgid "Compare 45 non-repayable grants, vouchers, interest-free loans, convertible support and state funds."
 msgstr "Vergleich von 45 nicht rückzahlbaren Zuschüssen, Gutscheinen, zinslosen Darlehen, Wandelinstrumenten und Staatsfonds."

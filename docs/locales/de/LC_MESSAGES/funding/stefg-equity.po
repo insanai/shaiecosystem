@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -22,7 +22,7 @@ msgstr "Adler-Plan des STEFG-Angelfonds (Eagle Plan)"
 
 #: ../../funding/stefg-equity.rst:4
 msgid "Equity investment | Citywide / global"
-msgstr "Eigenkapitalinvestition | Stadtweit / global"
+msgstr "Beteiligungsfinanzierung | Stadtweit / global"
 
 #: ../../funding/stefg-equity.rst:6
 msgid "Program published; eligibility review"
@@ -44,7 +44,7 @@ msgstr "Bis zu 800.000 RMB für 3 Jahre; keine Beteiligung an Dividenden; Aussti
 
 #: ../../funding/stefg-equity.rst:15
 msgid "Temporary equity; original-price exit"
-msgstr "Befristete Beteiligung; Ausstieg zum ursprünglichen Investitionsbetrag"
+msgstr "Befristete Beteiligung; Ausstieg zum ursprünglichen Einsatz"
 
 #: ../../funding/stefg-equity.rst:17
 msgid "Eligibility and timing"

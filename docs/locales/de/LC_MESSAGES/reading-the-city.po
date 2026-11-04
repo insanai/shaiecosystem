@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../reading-the-city.rst:1
 msgid "A city of connected possibilities"
-msgstr "Eine Stadt der vernetzten Möglichkeiten"
+msgstr "Shanghais Innovationslandschaft verstehen"
 
 #: ../../reading-the-city.rst:4
 msgid ""
@@ -27,7 +27,7 @@ msgid ""
 "customer to a repeatable business. The useful unit is a working "
 "relationship: a laboratory, a district service team, an incubation "
 "operator, a buyer or an investment manager."
-msgstr "Shanghai lässt sich leichter erschließen, wenn man ein Projekt von der Forschung zum Prototyp, vom Prototyp zum ersten Kunden und von diesem Kunden zu einem tragfähigen Geschäftsmodell begleitet. Die entscheidende Einheit ist eine funktionierende Arbeitsbeziehung: ein Labor, ein bezirkliches Serviceteam, ein Inkubatoren-Betreiber, ein industrieller Auftraggeber oder ein Investmentmanager."
+msgstr "Von der Forschung zum Prototyp, zum ersten Kunden und schließlich zu einem tragfähigen Geschäft: Entlang dieses Weges lassen sich Shanghais Angebote gezielt erschließen. Entscheidend sind konkrete Arbeitsbeziehungen zu Laboren, bezirklichen Servicestellen, Inkubatoren, Kunden und Investmentmanagern."
 
 #: ../../reading-the-city.rst:12 ../../reading-the-city.rst:20
 msgid "Sixteen districts, connected by people, research and industry."
@@ -35,7 +35,7 @@ msgstr "Sechzehn Bezirke, verbunden durch Köpfe, Forschung und Industrie."
 
 #: ../../reading-the-city.rst:22
 msgid "A practical atlas, with a stated boundary"
-msgstr "Ein praxisorientierter Atlas mit definierten Grenzen"
+msgstr "Was dieser Atlas abdeckt"
 
 #: ../../reading-the-city.rst:25
 msgid ""
@@ -66,7 +66,7 @@ msgstr "Unser Recherche-Stichtag ist der 4. November 2026. Eine Richtlinie, die 
 
 #: ../../reading-the-city.rst:31
 msgid "Three geographies, many choices"
-msgstr "Drei Geografien, vielfältige Möglichkeiten"
+msgstr "Standorte nach Bedarf wählen"
 
 #: ../../reading-the-city.rst:34
 msgid ""
@@ -111,7 +111,7 @@ msgstr "Die jüngsten städtischen und bezirklichen Initiativen der Jahre 2025�
 
 #: ../../reading-the-city.rst:42
 msgid "The magnolia and the pearl"
-msgstr "Die Magnolie und die Perle"
+msgstr "Magnolie und Perle"
 
 #: ../../reading-the-city.rst:45
 msgid ""
@@ -131,24 +131,15 @@ msgid ""
 "using Guidedog in both HTML and PDF editions in seven languages, sharing "
 "one verified dataset across the interactive web atlas and the illustrated "
 "print-ready books."
-msgstr "Dieses Buch und der interaktive Atlas wurden von Vikrant Rathore verfasst, unter Mitwirkung von Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu. Die Veröffentlichung wurde mit Guidedog nativ sowohl als HTML-Ausgabe wie auch als PDF-Buch (in Englisch und vereinfachtem Chinesisch) erstellt, basierend auf einem einheitlichen, verifizierten Datenbestand für den interaktiven Online-Atlas und die druckfertigen illustrierten Bände."
+msgstr "Vikrant Rathore hat dieses Buch und den interaktiven Atlas verfasst. Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu haben Beiträge geleistet. Mit dem nativen Guidedog-Workflow entstehen HTML- und PDF-Ausgaben in sieben Sprachen. Website und Bücher greifen auf denselben geprüften Datenbestand zu."
 
 #: ../../reading-the-city.rst:49
-
-#| msgid ""
-#| "`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. "
-#| "Shanghai municipal flower and overview."
 msgid ""
 "`Evidence S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
 "municipal flower and overview."
 msgstr "`Nachweis S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
 
 #: ../../reading-the-city.rst:51
-
-#| msgid ""
-#| "`Evidence S137 "
-#| "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
-#| "Shanghai expands list of high-quality incubators."
 msgid ""
 "`Evidence S141 "
 "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "

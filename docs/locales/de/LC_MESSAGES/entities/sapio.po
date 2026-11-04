@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -51,7 +51,7 @@ msgstr "Status und Förderumfang"
 
 #: ../../entities/sapio.rst:17
 msgid "Historical / confirm continuation"
-msgstr "Historisch / Fortführung überprüfen"
+msgstr "Früheres Programm; Fortführung bitte prüfen"
 
 #: ../../entities/sapio.rst:19
 msgid "Funding mechanism: Equity-free services."
@@ -108,7 +108,7 @@ msgstr "Verfügbarkeit von Aufnahmeplätzen klären oder Pilotumfang, Datenrecht
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
-msgstr "Einkaufsprozesse, Zahlungsmeilensteine, Abnahme und Serienentscheidung als eigenständige Schritte behandeln."
+msgstr "Einkauf, Zahlung, Abnahme und die Entscheidung über den Regelbetrieb getrennt prüfen."
 
 #: ../../entities/sapio.rst:43
 msgid ":doc:`Pudong district route </districts/pudong>`"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -38,14 +38,9 @@ msgid ""
 "Suggested collaboration themes: Software, education AI, data science, "
 "microelectronics. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding."
-msgstr "Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Software-Engineering, Datenwissenschaft, Kognition, Bildungstechnologie (EdTech). Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar."
+msgstr "Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Software-Engineering, Datenwissenschaft, Kognition, Bildungstechnologie (EdTech). Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung."
 
 #: ../../entities/university-ecnu.rst:12
-
-#| msgid ""
-#| "`Evidence S090 "
-#| "<https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf>`_. "
-#| "华东师范大学研究生招生单位联系方式."
 msgid ""
 "`Evidence S093 "
 "<https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf>`_. "
@@ -53,11 +48,6 @@ msgid ""
 msgstr "`Nachweis S093 <https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf>`_. 华东师范大学研究生招生单位联系方式."
 
 #: ../../entities/university-ecnu.rst:14
-
-#| msgid ""
-#| "`Evidence S083 "
-#| "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
-#| "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 msgid ""
 "`Evidence S086 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
@@ -70,7 +60,7 @@ msgstr "Status und Förderumfang"
 
 #: ../../entities/university-ecnu.rst:19
 msgid "Published entity; intake to confirm"
-msgstr "Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen"
+msgstr "Einrichtung belegt; aktuelle Aufnahme bitte prüfen"
 
 #: ../../entities/university-ecnu.rst:21
 msgid ""

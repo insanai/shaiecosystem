@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -26,14 +26,9 @@ msgstr "Kostenerstattung | Neuer Stadtbezirk Pudong"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:6
 msgid "Quarterly scheme published; current intake to confirm"
-msgstr "Quartalsprogramm veröffentlicht; aktuelle Runde zu bestätigen"
+msgstr "Vierteljährliche Anträge vorgesehen; aktuelle Runde bitte prüfen"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:8
-
-#| msgid ""
-#| "`Evidence S110 "
-#| "<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
-#| "浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
 msgid ""
 "`Evidence S113 "
 "<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
@@ -52,7 +47,7 @@ msgstr "Bis zu 100 % der anerkannten tatsächlichen Kosten, gedeckelt auf jeweil
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:15
 msgid "No equity"
-msgstr "Ohne Anteilsabgabe"
+msgstr "Ohne Abgabe von Unternehmensanteilen"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:17
 msgid "Eligibility and timing"

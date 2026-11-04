@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -110,7 +110,7 @@ msgid ""
 "centered on Huawei Lianqiu Lake and Xicen development. It offers an "
 "ecosystem connection, not automatic access to Huawei laboratories, "
 "procurement or investment. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Wissenschafts- und Innovationszentrum Xicen </entities/xicen>` (西岑科创中心 · Technologiepark · Hardware-KI, Software-KI) — Ein Innovationsbezirk in Qingpu rund um das Huawei Lianqiu-See-Forschungszentrum. Der Standort eröffnet Ökosystemkontakte, beinhaltet jedoch keinen automatischen Zugang zu Laboren, Beschaffungsprogrammen oder Investitionen von Huawei. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Wissenschafts- und Innovationszentrum Xicen </entities/xicen>` (西岑科创中心 · Technologiepark · Hardware-KI, Software-KI) — Ein Innovationsbezirk in Qingpu rund um das Huawei Lianqiu-See-Forschungszentrum. Der Standort eröffnet Ökosystemkontakte, beinhaltet jedoch keinen automatischen Zugang zu Laboren, Beschaffungsprogrammen oder Investitionen von Huawei. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/qingpu.rst:38
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "operations in Qingpu. Confirm the operator, technical scope, Huawei "
 "ecosystem interface and actual startup admission before describing a "
 "benefit package. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Gemeinsames KI+-Innovationszentrum des Jangtse-Deltas </entities/huawei-ai>` (长三角AI+联合创新中心 · Unternehmensprogramm · Software-KI, Hardware-KI) — Eine Kooperationsinitiative zur industriellen KI-Anwendung im Jangtse-Delta unter Nutzung von Ascend- und Kunpeng-Technologien. Teilnehmende Teams klären Hardwarespezifikationen, Portierungsunterstützung und Testumgebungen vorab. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Gemeinsames KI+-Innovationszentrum des Jangtse-Deltas </entities/huawei-ai>` (长三角AI+联合创新中心 · Unternehmensprogramm · Software-KI, Hardware-KI) — Eine Kooperationsinitiative zur industriellen KI-Anwendung im Jangtse-Delta unter Nutzung von Ascend- und Kunpeng-Technologien. Teilnehmende Teams klären Hardwarespezifikationen, Portierungsunterstützung und Testumgebungen vorab. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/qingpu.rst:39
 msgid ""
@@ -130,7 +130,7 @@ msgid ""
 "themes: Legal technology, IP, governance. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universität für Politikwissenschaft und Recht Shanghai (SHUPL) </entities/university-shupl>` (上海政法学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Rechtstechnologie (LegalTech), IP-Management, Governance. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Universität für Politikwissenschaft und Recht Shanghai (SHUPL) </entities/university-shupl>` (上海政法学院 · Hochschule) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Rechtstechnologie (LegalTech), IP-Management, Governance. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/qingpu.rst:41
 msgid "Funding routes"
@@ -143,7 +143,7 @@ msgid ""
 "— Amount under the applicable digital-economy rules; reviewed against "
 "eligible actual cost. Status: Closed. Timing: Closed 23 October 2026, "
 "17:00 China Standard Time."
-msgstr ":doc:`Erstattung von Rechenleistungskosten für die digitale Wirtschaft Qingpu (Kosten September 2026) </funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Kostenerstattung · Ohne Anteilsabgabe) — Fördersatz und Höchstbetrag richten sich nach den Richtlinien für die digitale Wirtschaft; bezuschusst werden nachgewiesene Rechnungen für den Monat September 2026. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Antragsfrist der Bekanntmachung vom Oktober 2026 prüfen."
+msgstr ":doc:`Erstattung von Rechenleistungskosten für die digitale Wirtschaft Qingpu (Kosten September 2026) </funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Kostenerstattung · Ohne Abgabe von Unternehmensanteilen) — Fördersatz und Höchstbetrag richten sich nach den Richtlinien für die digitale Wirtschaft; bezuschusst werden nachgewiesene Rechnungen für den Monat September 2026. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Antragsfrist der Bekanntmachung vom Oktober 2026 prüfen."
 
 #: ../../districts/qingpu.rst:45
 msgid ""
@@ -153,7 +153,7 @@ msgid ""
 "equipment, industrial software and digital-workshop investment. Status: "
 "2026 call published; deadline check required. Timing: 2026 notice issued "
 "31 July 2026; confirm current batch window."
-msgstr ":doc:`Förderfonds für intelligente Unternehmenstransformation Qingpu 2026 </funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Zuschuss / Kostenerstattung · Ohne Anteilsabgabe) — Prozentualer Zuschuss zu anerkannten Investitionen in intelligente Ausrüstung, Industriesoftware und digitale Werkstätten. Status: Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen. Zeitrahmen: Die Bekanntmachung 2026 wurde am 31. Juli 2026 veröffentlicht; aktuelle Antragsfenster prüfen."
+msgstr ":doc:`Förderfonds für intelligente Unternehmenstransformation Qingpu 2026 </funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Zuschuss / Kostenerstattung · Ohne Abgabe von Unternehmensanteilen) — Prozentualer Zuschuss zu anerkannten Investitionen in intelligente Ausrüstung, Industriesoftware und digitale Werkstätten. Status: Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen. Zeitrahmen: Die Bekanntmachung 2026 wurde am 31. Juli 2026 veröffentlicht; aktuelle Antragsfenster prüfen."
 
 #: ../../districts/qingpu.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"

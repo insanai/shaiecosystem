@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -24,7 +24,7 @@ msgstr "Universitäten und Technologieverwertung"
 msgid ""
 "40 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "40 Profile mit Quellenbelegen, Kontaktwegen und Bewerbungs-Checkliste. Veröffentlichte Existenz wird von laufenden Bewerbungsrunden unterschieden."
+msgstr "40 Profile mit Quellen, Kontakten und einer Checkliste für den Antrag. Die belegte Existenz einer Einrichtung und ihre aktuelle Aufnahme sind getrennt ausgewiesen."
 
 #: ../../universities.rst:6
 msgid ""
@@ -53,7 +53,7 @@ msgid ""
 "not a verified offer of laboratory access or startup funding. Address: "
 "220 Handan Road, Yangpu | Tel: +86 21 65642222. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Fudan-Universität (Fudan University) <entities/university-fudan>` (复旦大学 · Hochschule · Bezirk Yangpu · MOE 4131010246) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Software-KI, Halbleiter / Chips, KI für die Wissenschaft (AI for Science). Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. Handan-Straße 220, Bezirk Yangpu | Tel: +86 21 65642222. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Fudan-Universität (Fudan University) <entities/university-fudan>` (复旦大学 · Hochschule · Bezirk Yangpu · MOE 4131010246) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Software-KI, Halbleiter / Chips, KI für die Wissenschaft (AI for Science). Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. Handan-Straße 220, Bezirk Yangpu | Tel: +86 21 65642222. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:16
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. Address: 2F, West Building, 100 Guokang Road, Yangpu "
 "| Tel: +86 21 65069006. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Tongji-Universität (Tongji University) <entities/university-tongji>` (同济大学 · Hochschule · Bezirk Yangpu · MOE 4131010247) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Autonome Systeme, Mobilität, Robotik, gebaute Umwelt. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. 2. OG, Westgebäude, Guokang-Straße 100, Bezirk Yangpu | Tel: +86 21 65069006. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Tongji-Universität (Tongji University) <entities/university-tongji>` (同济大学 · Hochschule · Bezirk Yangpu · MOE 4131010247) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Autonome Systeme, Mobilität, Robotik, gebaute Umwelt. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. 2. OG, Westgebäude, Guokang-Straße 100, Bezirk Yangpu | Tel: +86 21 65069006. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:17
 msgid ""
@@ -74,7 +74,7 @@ msgid ""
 "Robotics, chips, engineering, medical AI. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Jiao-Tong-Universität Shanghai (Shanghai Jiao Tong University) <entities/university-sjtu>` (上海交通大学 · Hochschule · Bezirk Minhang · MOE 4131010248) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Robotik, Halbleiter / Chips, Ingenieurwesen, Medizinische KI. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Jiao-Tong-Universität Shanghai (Shanghai Jiao Tong University) <entities/university-sjtu>` (上海交通大学 · Hochschule · Bezirk Minhang · MOE 4131010248) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Robotik, Halbleiter / Chips, Ingenieurwesen, Medizinische KI. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:18
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "bioprocessing, AI for Science. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Ostchinesische Universität für Wissenschaft und Technik (ECUST) <entities/university-ecust>` (华东理工大学 · Hochschule · Bezirk Xuhui · MOE 4131010251) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Materialwissenschaften, Chemie, Bioprozessierung, KI für die Wissenschaft. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Ostchinesische Universität für Wissenschaft und Technik (ECUST) <entities/university-ecust>` (华东理工大学 · Hochschule · Bezirk Xuhui · MOE 4131010251) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Materialwissenschaften, Chemie, Bioprozessierung, KI für die Wissenschaft. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:19
 msgid ""
@@ -96,7 +96,7 @@ msgid ""
 "sensors, advanced equipment. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Universität Shanghai für Wissenschaft und Technik (USST) <entities/university-usst>` (上海理工大学 · Hochschule · Bezirk Yangpu · MOE 4131010252) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Optik, Medizintechnik, Sensoren, fortschrittliche Ausrüstung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Universität Shanghai für Wissenschaft und Technik (USST) <entities/university-usst>` (上海理工大学 · Hochschule · Bezirk Yangpu · MOE 4131010252) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Optik, Medizintechnik, Sensoren, fortschrittliche Ausrüstung. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:20
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Maritime Universität Shanghai (Shanghai Maritime University) <entities/university-maritime>` (上海海事大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010254) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Schifffahrt, Logistik, autonome maritime Systeme. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Maritime Universität Shanghai (Shanghai Maritime University) <entities/university-maritime>` (上海海事大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010254) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Schifffahrt, Logistik, autonome maritime Systeme. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:21
 msgid ""
@@ -117,7 +117,7 @@ msgid ""
 "themes: Advanced fibers, materials, design, smart textiles. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Donghua-Universität (Donghua University) <entities/university-donghua>` (东华大学 · Hochschule · Bezirk Songjiang · MOE 4131010255) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Hochleistungsmaterialien & Fasern, Materialwissenschaften, Design, intelligente Textilien. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Donghua-Universität (Donghua University) <entities/university-donghua>` (东华大学 · Hochschule · Bezirk Songjiang · MOE 4131010255) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Hochleistungsmaterialien & Fasern, Materialwissenschaften, Design, intelligente Textilien. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:22
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "intelligence, industrial control. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Elektrizitäts-Universität Shanghai (Shanghai University of Electric Power) <entities/university-electric-power>` (上海电力大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010256) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Energiesysteme, intelligente Stromnetze (Smart Grid), Industriesteuerung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Elektrizitäts-Universität Shanghai (Shanghai University of Electric Power) <entities/university-electric-power>` (上海电力大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010256) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Energiesysteme, intelligente Stromnetze (Smart Grid), Industriesteuerung. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:23
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Hochschule für Angewandte Wissenschaften Shanghai (Shanghai Institute of Technology) <entities/university-sit>` (上海应用技术大学 · Hochschule · Bezirk Fengxian · MOE 4131010259) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte Ingenieurwissenschaften, Materialforschung, industrielle KI. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Hochschule für Angewandte Wissenschaften Shanghai (Shanghai Institute of Technology) <entities/university-sit>` (上海应用技术大学 · Hochschule · Bezirk Fengxian · MOE 4131010259) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Angewandte Ingenieurwissenschaften, Materialforschung, industrielle KI. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:24
 msgid ""
@@ -150,7 +150,7 @@ msgid ""
 "clinical applications. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Hochschule für Medizin und Gesundheitswissenschaften Shanghai (SUMHS) <entities/university-sumhs>` (上海健康医学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010262) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Medizinische Geräte, Diagnostik, klinische Anwendungen. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Hochschule für Medizin und Gesundheitswissenschaften Shanghai (SUMHS) <entities/university-sumhs>` (上海健康医学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010262) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Medizinische Geräte, Diagnostik, klinische Anwendungen. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:25
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "Marine science, aquaculture, smart agriculture. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Ozean-Universität Shanghai (Shanghai Ocean University) <entities/university-ocean>` (上海海洋大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010264) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Meereswissenschaften, Aquakultur, smarte Agrartechnologie. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Ozean-Universität Shanghai (Shanghai Ocean University) <entities/university-ocean>` (上海海洋大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010264) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Meereswissenschaften, Aquakultur, smarte Agrartechnologie. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:26
 msgid ""
@@ -171,7 +171,7 @@ msgid ""
 "medical data. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Universität für Traditionelle Chinesische Medizin Shanghai (SHUTCM) <entities/university-tcm>` (上海中医药大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010268) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Traditionelle Chinesische Medizin (TCM), Pharmazeutika, Translationale Medizin, Diagnostik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Universität für Traditionelle Chinesische Medizin Shanghai (SHUTCM) <entities/university-tcm>` (上海中医药大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010268) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Traditionelle Chinesische Medizin (TCM), Pharmazeutika, Translationale Medizin, Diagnostik. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:27
 msgid ""
@@ -181,7 +181,7 @@ msgid ""
 "Software, education AI, data science, microelectronics. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Pädagogische Universität Ostchina (ECNU) <entities/university-ecnu>` (华东师范大学 · Hochschule · Bezirk Putuo · MOE 4131010269) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Software-Engineering, Datenwissenschaft, Kognition, Bildungstechnologie (EdTech). Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Pädagogische Universität Ostchina (ECNU) <entities/university-ecnu>` (华东师范大学 · Hochschule · Bezirk Putuo · MOE 4131010269) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Software-Engineering, Datenwissenschaft, Kognition, Bildungstechnologie (EdTech). Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:28
 msgid ""
@@ -191,7 +191,7 @@ msgid ""
 "Education, computer science, creative technology. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Pädagogische Universität Shanghai (Shanghai Normal University) <entities/university-shnu>` (上海师范大学 · Hochschule · Bezirk Xuhui · MOE 4131010270) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Bildungstechnologie, Geisteswissenschaften, angewandte Datenwissenschaft. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Pädagogische Universität Shanghai (Shanghai Normal University) <entities/university-shnu>` (上海师范大学 · Hochschule · Bezirk Xuhui · MOE 4131010270) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Bildungstechnologie, Geisteswissenschaften, angewandte Datenwissenschaft. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:29
 msgid ""
@@ -202,7 +202,7 @@ msgid ""
 "translation, international markets. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Fremdsprachenuniversität Shanghai (SISU) <entities/university-sisu>` (上海外国语大学 · Hochschule · Bezirk Hongkou · MOE 4131010271) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Mehrsprachige Korpora, grenzüberschreitender Handel, Lokalisierung, globale Kommunikation. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Fremdsprachenuniversität Shanghai (SISU) <entities/university-sisu>` (上海外国语大学 · Hochschule · Bezirk Hongkou · MOE 4131010271) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Mehrsprachige Korpora, grenzüberschreitender Handel, Lokalisierung, globale Kommunikation. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:30
 msgid ""
@@ -213,7 +213,7 @@ msgid ""
 "models. These themes are editorial routing guidance, not a verified offer "
 "of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Finanz- und Wirtschaftsuniversität Shanghai (SUFE) <entities/university-sufe>` (上海财经大学 · Hochschule · Bezirk Yangpu · MOE 4131010272) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Finanztechnologie (Fintech), quantitative Finanzen, Unternehmensdaten, Wirtschaftsmodellierung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Finanz- und Wirtschaftsuniversität Shanghai (SUFE) <entities/university-sufe>` (上海财经大学 · Hochschule · Bezirk Yangpu · MOE 4131010272) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Finanztechnologie (Fintech), quantitative Finanzen, Unternehmensdaten, Wirtschaftsmodellierung. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:31
 msgid ""
@@ -224,7 +224,7 @@ msgid ""
 "cross-border business. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Außenwirtschaftsuniversität Shanghai (SUIBE) <entities/university-suibe>` (上海对外经贸大学 · Hochschule · Bezirk Songjiang · MOE 4131010273) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Internationaler Handel, Datenregulierung im Handel, grenzüberschreitender E-Commerce. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Außenwirtschaftsuniversität Shanghai (SUIBE) <entities/university-suibe>` (上海对外经贸大学 · Hochschule · Bezirk Songjiang · MOE 4131010273) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Internationaler Handel, Datenregulierung im Handel, grenzüberschreitender E-Commerce. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:32
 msgid ""
@@ -234,7 +234,7 @@ msgid ""
 "Customs, trade processes, compliance systems. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Zollhochschule Shanghai (Shanghai Customs University) <entities/university-customs>` (上海海关学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010274) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Zollabfertigungstechnik, Lieferkettenüberwachung, Handelskonformität. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Zollhochschule Shanghai (Shanghai Customs University) <entities/university-customs>` (上海海关学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010274) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Zollabfertigungstechnik, Lieferkettenüberwachung, Handelskonformität. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:33
 msgid ""
@@ -245,7 +245,7 @@ msgid ""
 "technology. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Ostchinesische Universität für Politikwissenschaft und Recht (ECUPL) <entities/university-ecupl>` (华东政法大学 · Hochschule · Bezirk Songjiang · MOE 4131010276) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Rechtstechnologie (LegalTech), KI-Governance, Datenschutz, geistiges Eigentum (IP). Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Ostchinesische Universität für Politikwissenschaft und Recht (ECUPL) <entities/university-ecupl>` (华东政法大学 · Hochschule · Bezirk Songjiang · MOE 4131010276) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Rechtstechnologie (LegalTech), KI-Governance, Datenschutz, geistiges Eigentum (IP). Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:34
 msgid ""
@@ -255,7 +255,7 @@ msgid ""
 "Sports science, motion analysis, wearables. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Sportuniversität Shanghai (Shanghai University of Sport) <entities/university-sport>` (上海体育大学 · Hochschule · Bezirk Yangpu · MOE 4131010277) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Sporttechnologie, Biomechanik, Rehabilitation, Sensorik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Sportuniversität Shanghai (Shanghai University of Sport) <entities/university-sport>` (上海体育大学 · Hochschule · Bezirk Yangpu · MOE 4131010277) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Sporttechnologie, Biomechanik, Rehabilitation, Sensorik. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:35
 msgid ""
@@ -265,7 +265,7 @@ msgid ""
 "Audio AI, music technology, creative tools. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Musikkonservatorium Shanghai <entities/university-music>` (上海音乐学院 · Hochschule · Bezirk Xuhui · MOE 4131010278) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Audio-KI, Musiktechnologie, digitale Akustik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Musikkonservatorium Shanghai <entities/university-music>` (上海音乐学院 · Hochschule · Bezirk Xuhui · MOE 4131010278) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Audio-KI, Musiktechnologie, digitale Akustik. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:36
 msgid ""
@@ -275,7 +275,7 @@ msgid ""
 "Performance, virtual production, creative media. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Theaterakademie Shanghai <entities/university-theatre>` (上海戏剧学院 · Hochschule · Bezirk Jing'an · MOE 4131010279) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Virtuelle Produktion, digitale Medien, Performance-Technologien. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Theaterakademie Shanghai <entities/university-theatre>` (上海戏剧学院 · Hochschule · Bezirk Jing'an · MOE 4131010279) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Virtuelle Produktion, digitale Medien, Performance-Technologien. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:37
 msgid ""
@@ -286,7 +286,7 @@ msgid ""
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. Address: 3F, Science Building, 788 Guangzhong Road, "
 "Jing'an. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Universität Shanghai (Shanghai University) <entities/university-shu>` (上海大学 · Hochschule · Bezirk Jing'an · MOE 4131010280) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Materialwissenschaften, Robotik, digitale Medien, Biomedizin. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. 3. OG, Wissenschaftsgebäude, Guangzhong-Straße 788, Bezirk Jing'an. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Universität Shanghai (Shanghai University) <entities/university-shu>` (上海大学 · Hochschule · Bezirk Jing'an · MOE 4131010280) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Materialwissenschaften, Robotik, digitale Medien, Biomedizin. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. 3. OG, Wissenschaftsgebäude, Guangzhong-Straße 788, Bezirk Jing'an. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:38
 msgid ""
@@ -296,7 +296,7 @@ msgid ""
 "Public-safety education; external project access unverified. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Polizeiakademie Shanghai (Shanghai Police College) <entities/university-police>` (上海公安学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010283) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Öffentliche Sicherheit, Überwachungstechnik, forensische Analytik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Polizeiakademie Shanghai (Shanghai Police College) <entities/university-police>` (上海公安学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131010283) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Öffentliche Sicherheit, Überwachungstechnik, forensische Analytik. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:39
 msgid ""
@@ -307,7 +307,7 @@ msgid ""
 "manufacturing, design. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Ingenieurwissenschaftliche Universität Shanghai (SUES) <entities/university-sues>` (上海工程技术大学 · Hochschule · Bezirk Songjiang · MOE 4131010856) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Automobiltechnik, Schienenverkehr, Fertigungstechnik, industrielle KI. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Ingenieurwissenschaftliche Universität Shanghai (SUES) <entities/university-sues>` (上海工程技术大学 · Hochschule · Bezirk Songjiang · MOE 4131010856) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Automobiltechnik, Schienenverkehr, Fertigungstechnik, industrielle KI. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:40
 msgid ""
@@ -318,7 +318,7 @@ msgid ""
 "business analytics. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Shanghai Lixin-Universität für Rechnungswesen und Finanzen <entities/university-lixin>` (上海立信会计金融学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131011047) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Rechnungswesensysteme, Fintech, Business Analytics. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Shanghai Lixin-Universität für Rechnungswesen und Finanzen <entities/university-lixin>` (上海立信会计金融学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131011047) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Rechnungswesensysteme, Fintech, Business Analytics. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:41
 msgid ""
@@ -328,7 +328,7 @@ msgid ""
 "Electrical equipment, advanced manufacturing. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`DianJi-Universität Shanghai (Shanghai DianJi University) <entities/university-dianji>` (上海电机学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131011458) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Elektrische Ausrüstung, moderne Fertigungstechnik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`DianJi-Universität Shanghai (Shanghai DianJi University) <entities/university-dianji>` (上海电机学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131011458) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Elektrische Ausrüstung, moderne Fertigungstechnik. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:42
 msgid ""
@@ -338,7 +338,7 @@ msgid ""
 "digital business and talent partnerships. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Sanda-Universität Shanghai (Sanda University) <entities/university-sanda>` (上海杉达学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131011833) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte digitale Geschäftsprozesse und Fachkräftekooperationen. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Sanda-Universität Shanghai (Sanda University) <entities/university-sanda>` (上海杉达学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131011833) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Angewandte digitale Geschäftsprozesse und Fachkräftekooperationen. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:43
 msgid ""
@@ -349,7 +349,7 @@ msgid ""
 "governance. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`Universität für Politikwissenschaft und Recht Shanghai (SHUPL) <entities/university-shupl>` (上海政法学院 · Hochschule · Bezirk Qingpu · MOE 4131011835) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Rechtstechnologie (LegalTech), IP-Management, Governance. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Universität für Politikwissenschaft und Recht Shanghai (SHUPL) <entities/university-shupl>` (上海政法学院 · Hochschule · Bezirk Qingpu · MOE 4131011835) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Rechtstechnologie (LegalTech), IP-Management, Governance. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:44
 msgid ""
@@ -360,7 +360,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Polytechnische Universität Shanghai (Zweite Technische Universität Shanghai) <entities/university-polytechnic>` (上海第二工业大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131012044) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte Ingenieurwissenschaften, Elektronik, Fertigung. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Polytechnische Universität Shanghai (Zweite Technische Universität Shanghai) <entities/university-polytechnic>` (上海第二工业大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131012044) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Angewandte Ingenieurwissenschaften, Elektronik, Fertigung. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:45
 msgid ""
@@ -370,7 +370,7 @@ msgid ""
 "Digital retail, commerce, service innovation. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Wirtschaftshochschule Shanghai (Shanghai Business School) <entities/university-business>` (上海商学院 · Hochschule · Bezirk Fengxian · MOE 4131012050) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Digitaler Einzelhandel, E-Commerce, Dienstleistungsinnovation. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Wirtschaftshochschule Shanghai (Shanghai Business School) <entities/university-business>` (上海商学院 · Hochschule · Bezirk Fengxian · MOE 4131012050) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Digitaler Einzelhandel, E-Commerce, Dienstleistungsinnovation. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:46
 msgid ""
@@ -380,7 +380,7 @@ msgid ""
 "themes: Applied business, design and creative technology. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Lida-Universität Shanghai (Shanghai Lida University) <entities/university-lida>` (上海立达学院 · Hochschule · Bezirk Songjiang · MOE 4131012587) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte Betriebswirtschaft, Design und Kreativtechnologien. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Lida-Universität Shanghai (Shanghai Lida University) <entities/university-lida>` (上海立达学院 · Hochschule · Bezirk Songjiang · MOE 4131012587) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Angewandte Betriebswirtschaft, Design und Kreativtechnologien. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:47
 msgid ""
@@ -390,7 +390,7 @@ msgid ""
 "collaboration themes: Applied engineering, digital media, business. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Jian-Qiao-Universität Shanghai (Shanghai Jian Qiao University) <entities/university-jianqiao>` (上海建桥学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131012799) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte Ingenieurwissenschaften, digitale Medien, Wirtschaftswissenschaften. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Jian-Qiao-Universität Shanghai (Shanghai Jian Qiao University) <entities/university-jianqiao>` (上海建桥学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131012799) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Angewandte Ingenieurwissenschaften, digitale Medien, Wirtschaftswissenschaften. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:48
 msgid ""
@@ -400,7 +400,7 @@ msgid ""
 "Interdisciplinary education and entrepreneurship conversations. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Xingwei-Kolleg Shanghai (Shanghai Xing Wei College) <entities/university-xingwei>` (上海兴伟学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131012914) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Interdisziplinäre Ausbildung und Gründungsnetzwerke. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Xingwei-Kolleg Shanghai (Shanghai Xing Wei College) <entities/university-xingwei>` (上海兴伟学院 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131012914) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Interdisziplinäre Ausbildung und Gründungsnetzwerke. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:49
 msgid ""
@@ -411,7 +411,7 @@ msgid ""
 "undergraduate engineering and applied skills. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Berufliche und Technische Universität Shanghai Zhongqiao <entities/university-zhongqiao>` (上海中侨职业技术大学 · Hochschule · Bezirk Jinshan · MOE 4131012915) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Berufsbildende Ingenieurstudiengänge und angewandte Fachkompetenzen. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Berufliche und Technische Universität Shanghai Zhongqiao <entities/university-zhongqiao>` (上海中侨职业技术大学 · Hochschule · Bezirk Jinshan · MOE 4131012915) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Berufsbildende Ingenieurstudiengänge und angewandte Fachkompetenzen. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:50
 msgid ""
@@ -422,7 +422,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Institut für Bildende Künste Shanghai (SIVA) <entities/university-siva>` (上海视觉艺术学院 · Hochschule · Bezirk Songjiang · MOE 4131013632) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Design, digitale Inhalte und kreative Technologien. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Institut für Bildende Künste Shanghai (SIVA) <entities/university-siva>` (上海视觉艺术学院 · Hochschule · Bezirk Songjiang · MOE 4131013632) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Design, digitale Inhalte und kreative Technologien. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:51
 msgid ""
@@ -433,7 +433,7 @@ msgid ""
 "and creative applications. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Xianda-Kolleg für Wirtschaft und Geisteswissenschaften der SISU <entities/university-xianda>` (上海外国语大学贤达经济人文学院 · Hochschule · Bezirk Hongkou · MOE 4131013636) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Sprachwissenschaft, Handel und kreative Anwendungen. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Xianda-Kolleg für Wirtschaft und Geisteswissenschaften der SISU <entities/university-xianda>` (上海外国语大学贤达经济人文学院 · Hochschule · Bezirk Hongkou · MOE 4131013636) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Sprachwissenschaft, Handel und kreative Anwendungen. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:52
 msgid ""
@@ -444,7 +444,7 @@ msgid ""
 "engineering and digital business. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Tianhua-Kolleg der Pädagogischen Universität Shanghai <entities/university-tianhua>` (上海师范大学天华学院 · Hochschule · Bezirk Jiading · MOE 4131013893) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Angewandte Pädagogik, Ingenieurwesen und digitale Wirtschaft. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Tianhua-Kolleg der Pädagogischen Universität Shanghai <entities/university-tianhua>` (上海师范大学天华学院 · Hochschule · Bezirk Jiading · MOE 4131013893) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Angewandte Pädagogik, Ingenieurwesen und digitale Wirtschaft. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:53
 msgid ""
@@ -454,7 +454,7 @@ msgid ""
 "Chips, software AI, scientific instruments, biotech. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`ShanghaiTech-Universität (ShanghaiTech University) <entities/university-shanghaitech>` (上海科技大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131014423) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Halbleiter, Software-KI, wissenschaftliche Instrumente, Biotechnologie. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`ShanghaiTech-Universität (ShanghaiTech University) <entities/university-shanghaitech>` (上海科技大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131014423) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Halbleiter, Software-KI, wissenschaftliche Instrumente, Biotechnologie. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../universities.rst:54
 msgid ""
@@ -464,4 +464,4 @@ msgid ""
 "science, computation and international research. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`NYU Shanghai (New York University Shanghai) <entities/university-nyu>` (上海纽约大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131016404) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Datenwissenschaft, computergestützte Forschung und internationale Kooperationen. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`NYU Shanghai (New York University Shanghai) <entities/university-nyu>` (上海纽约大学 · Hochschule · Neuer Stadtbezirk Pudong · MOE 4131016404) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Datenwissenschaft, computergestützte Forschung und internationale Kooperationen. Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"

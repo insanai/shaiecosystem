@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -109,7 +109,7 @@ msgid ""
 "operated by the Shanghai Electrical Apparatus Research Institute group. "
 "Robot and industrial-internet testing are useful entry points for "
 "hardware validation. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Technologiepark Wuning Shanghai </entities/wuning>` (上海武宁科技园 · Technologiepark · Hardware-KI, Industrie) — Ein staatlicher Technologiepark in Putuo mit Schwerpunkt auf industrieller Software, Prüfdienstleistungen und intelligenten Systemen. Die Zulassung und Fördersätze sind an die tatsächliche Ansiedlung vor Ort gebunden. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Technologiepark Wuning Shanghai </entities/wuning>` (上海武宁科技园 · Technologiepark · Hardware-KI, Industrie) — Ein staatlicher Technologiepark in Putuo mit Schwerpunkt auf industrieller Software, Prüfdienstleistungen und intelligenten Systemen. Die Zulassung und Fördersätze sind an die tatsächliche Ansiedlung vor Ort gebunden. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/putuo.rst:38
 msgid ""
@@ -119,7 +119,7 @@ msgid ""
 "manufacturing, AI, robotics and information technology. It supports "
 "market, capital and industrial connections; the listing does not "
 "guarantee cash support. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Chinesisch-Israelischer Innovationspark Shanghai </entities/china-israel>` (中以（上海）创新园 · Technologiepark · Software-KI, Hardware-KI) — Ein bilateraler Innovationshub in Taopu (Putuo), spezialisiert auf KI, Robotik, Medizintechnik und geistiges Eigentum. Prüfen Sie die spezifischen Kriterien für bilaterale Zuschüsse und Ansiedlungsprämien. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Chinesisch-Israelischer Innovationspark Shanghai </entities/china-israel>` (中以（上海）创新园 · Technologiepark · Software-KI, Hardware-KI) — Ein bilateraler Innovationshub in Taopu (Putuo), spezialisiert auf KI, Robotik, Medizintechnik und geistiges Eigentum. Prüfen Sie die spezifischen Kriterien für bilaterale Zuschüsse und Ansiedlungsprämien. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/putuo.rst:39
 msgid ""
@@ -129,7 +129,7 @@ msgid ""
 "platform in Putuo's \"One Axis, One Park, One Center\" layout, connecting "
 "university engineering laboratories with Yangtze River Delta industrial "
 "applications. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Internationales Innovationszentrum der Tsinghua-Universität in Shanghai </entities/tsinghua-shanghai>` (上海清华国际创新中心 · Forschungsplattform · Software-KI, Hardware-KI, Halbleiter & Chips) — Ein von der Stadt Shanghai und der Tsinghua-Universität gemeinsam betriebenes Institut im Putuo-Korridor. Der Schwerpunkt liegt auf Schlüsseltechnologien, industrieller Software, Chip-Architekturen und Technologietransfer. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Internationales Innovationszentrum der Tsinghua-Universität in Shanghai </entities/tsinghua-shanghai>` (上海清华国际创新中心 · Forschungsplattform · Software-KI, Hardware-KI, Halbleiter & Chips) — Ein von der Stadt Shanghai und der Tsinghua-Universität gemeinsam betriebenes Institut im Putuo-Korridor. Der Schwerpunkt liegt auf Schlüsseltechnologien, industrieller Software, Chip-Architekturen und Technologietransfer. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/putuo.rst:40
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "science, microelectronics. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Pädagogische Universität Ostchina (ECNU) </entities/university-ecnu>` (华东师范大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Software-Engineering, Datenwissenschaft, Kognition, Bildungstechnologie (EdTech). Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Pädagogische Universität Ostchina (ECNU) </entities/university-ecnu>` (华东师范大学 · Hochschule) — Die Hochschule steht im Register des Bildungsministeriums vom Juni 2026. Mögliche Kooperationsthemen: Software-Engineering, Datenwissenschaft, Kognition, Bildungstechnologie (EdTech). Diese redaktionelle Einordnung bestätigt weder einen Laborzugang noch eine Gründungsförderung. [Status: Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../districts/putuo.rst:42
 msgid "Funding routes"
@@ -151,7 +151,7 @@ msgid ""
 "</funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Grant · No equity) — RMB "
 "300,000 per selected company; 50% initially, remainder after one-year "
 "development review. Status: Closed. Timing: Closed 31 August 2026."
-msgstr ":doc:`Saatgut-Plan für Technologieunternehmen Putuo 2026 (Zweite Tranche) </funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Zuschuss · Ohne Anteilsabgabe) — 300.000 RMB pro ausgewähltem Unternehmen; 50 % bei Bewilligung, Restzahlung nach einjähriger Entwicklungsprüfung. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Bewerbungsschluss war der 31. August 2026."
+msgstr ":doc:`Saatgut-Plan für Technologieunternehmen Putuo 2026 (Zweite Tranche) </funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Zuschuss · Ohne Abgabe von Unternehmensanteilen) — 300.000 RMB pro ausgewähltem Unternehmen; 50 % bei Bewilligung, Restzahlung nach einjähriger Entwicklungsprüfung. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Bewerbungsschluss war der 31. August 2026."
 
 #: ../../districts/putuo.rst:46
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "reimbursement · No equity) — Direction-specific R&D, compute, "
 "first-product matching and related support. Status: Closed. Timing: "
 "Closed 26 June 2026."
-msgstr ":doc:`Sonderprogramm für intelligente Softwareindustrie Putuo 2026 </funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Zuschuss / Kostenerstattung · Ohne Anteilsabgabe) — Je nach Förderrichtung Unterstützung für F&E, Rechenleistung, die Kofinanzierung erster Produkte und weitere Leistungen. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Bewerbungsschluss war der 26. Juni 2026."
+msgstr ":doc:`Sonderprogramm für intelligente Softwareindustrie Putuo 2026 </funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Zuschuss / Kostenerstattung · Ohne Abgabe von Unternehmensanteilen) — Je nach Förderrichtung Unterstützung für F&E, Rechenleistung, die Kofinanzierung erster Produkte und weitere Leistungen. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Bewerbungsschluss war der 26. Juni 2026."
 
 #: ../../districts/putuo.rst:47
 msgid ""
@@ -169,7 +169,7 @@ msgid ""
 "at most 50%, balance subject to acceptance. Status: 2026 call published; "
 "not confirmed open. Timing: Confirm the deadline in the September 2026 "
 "notice."
-msgstr ":doc:`Projekte für technologische F&E-Plattformen Putuo 2026 </funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · Zuschuss · Ohne Anteilsabgabe) — Bis zu 2 Mio. RMB; Erstauszahlung maximal 50 %, Restzahlung vorbehaltlich der erfolgreichen Projektabnahme. Status: Ausschreibung 2026 veröffentlicht; nicht nachweislich geöffnet. Zeitrahmen: Genaue Frist der Bekanntmachung vom September 2026 entnehmen."
+msgstr ":doc:`Projekte für technologische F&E-Plattformen Putuo 2026 </funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · Zuschuss · Ohne Abgabe von Unternehmensanteilen) — Bis zu 2 Mio. RMB; Erstauszahlung maximal 50 %, Restzahlung vorbehaltlich der erfolgreichen Projektabnahme. Status: Ausschreibung 2026 veröffentlicht; nicht nachweislich geöffnet. Zeitrahmen: Genaue Frist der Bekanntmachung vom September 2026 entnehmen."
 
 #: ../../districts/putuo.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"

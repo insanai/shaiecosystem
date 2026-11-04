@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: ../../apply.rst:1
 msgid "From introduction to application"
-msgstr "Vom Erstkontakt zur formellen Bewerbung"
+msgstr "Vom Erstkontakt zum Antrag"
 
 #: ../../apply.rst:4
 msgid ""
 "A useful application starts with a fit check and ends with an evidence "
 "trail. We keep one company data room, then adapt it to an incubation "
 "review, a public funding call, a corporate pilot or an investment process."
-msgstr "Eine erfolgversprechende Bewerbung beginnt mit der Prüfung der Programmeignung und endet mit einer nachvollziehbaren Dokumentation. Wir pflegen einen zentralen Datenraum für das Unternehmen und passen ihn gezielt an Inkubationsprüfungen, öffentliche Förderausschreibungen, Firmenpiloten oder Investorenprozesse an."
+msgstr "Ein guter Antrag beginnt mit der Prüfung, ob Vorhaben und Bedingungen zusammenpassen. Wir halten gemeinsame Unternehmensunterlagen bereit und ergänzen sie für die Aufnahme in einen Inkubator, öffentliche Förderung, ein Pilotprojekt oder eine Finanzierungsrunde. Jeden Schritt dokumentieren wir."
 
 #: ../../apply.rst:7
 msgid ""
@@ -34,7 +34,7 @@ msgstr "Ein strukturierter Antrag trennt formelle Zulassung, Nachweisführung un
 
 #: ../../apply.rst:10
 msgid "The first conversation"
-msgstr "Das Erstgespräch"
+msgstr "Der erste Kontakt"
 
 #: ../../apply.rst:13
 msgid ""
@@ -57,7 +57,7 @@ msgstr "Empfohlene Betreffzeile: „Shanghai ecosystem inquiry / Projektname / I
 
 #: ../../apply.rst:17
 msgid "The shared data room"
-msgstr "Der gemeinsame Datenraum"
+msgstr "Gemeinsame Unterlagen vorbereiten"
 
 #: ../../apply.rst:20
 msgid ""
@@ -90,7 +90,7 @@ msgstr "Technologie: Produktbeschreibung, Demo, Evaluierungsergebnisse, IP-Eigen
 
 #: ../../apply.rst:26
 msgid "Four different decisions"
-msgstr "Vier grundlegende Entscheidungswege"
+msgstr "Vier verschiedene Entscheidungswege"
 
 #: ../../apply.rst:29
 msgid ""
@@ -120,7 +120,7 @@ msgstr "Unternehmenspilot: Fachbereichsleiter, Problemdefinition, Vereinbarung �
 
 #: ../../apply.rst:35
 msgid "An accelerator's four-week field program"
-msgstr "Vierwöchiges Vor-Ort-Programm eines Accelerators"
+msgstr "Vier Wochen vor Ort"
 
 #: ../../apply.rst:38
 msgid ""
@@ -142,12 +142,6 @@ msgid ""
 msgstr "Wir führen ein Antragsjournal mit Projektverantwortlichem, Bewilligungsbehörde, Richtlinienfassung, Nachweiszeitraum, Frist in China-Standardzeit (CST), Einreichungsbestätigung, Ausschluss von Doppelförderung, Berichtspflichten und nächster Maßnahme. Eine Kalendererinnerung hilft nur dann, wenn Frist und Zeitzone zuvor zweifelsfrei verifiziert wurden."
 
 #: ../../apply.rst:42
-
-#| msgid ""
-#| "`Evidence S138 "
-#| "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
-#| "Guide for foreign talent and team members (Category A/B) applying for "
-#| "a Foreigner's Work Permit during the startup phase_Latest."
 msgid ""
 "`Evidence S142 "
 "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "

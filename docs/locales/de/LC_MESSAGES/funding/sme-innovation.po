@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -26,14 +26,9 @@ msgstr "Zuschuss | Stadtweit / global"
 
 #: ../../funding/sme-innovation.rst:6
 msgid "Policy in force; call not confirmed open"
-msgstr "Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet"
+msgstr "Richtlinie gültig; offene Antragsrunde nicht bestätigt"
 
 #: ../../funding/sme-innovation.rst:8
-
-#| msgid ""
-#| "`Evidence S104 "
-#| "<https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_. "
-#| "Shanghai updates innovation fund rules for tech SMEs_Policy Insights."
 msgid ""
 "`Evidence S107 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_. "
@@ -50,7 +45,7 @@ msgstr "Fördersumme und ergänzende Kofinanzierung richten sich nach der jeweil
 
 #: ../../funding/sme-innovation.rst:15
 msgid "No equity"
-msgstr "Ohne Anteilsabgabe"
+msgstr "Ohne Abgabe von Unternehmensanteilen"
 
 #: ../../funding/sme-innovation.rst:17
 msgid "Eligibility and timing"

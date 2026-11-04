@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -24,7 +24,7 @@ msgstr "Behördliche Anlaufstellen"
 msgid ""
 "17 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "17 Profile mit Quellenbelegen, Kontaktwegen und Bewerbungs-Checkliste. Veröffentlichte Existenz wird von laufenden Bewerbungsrunden unterschieden."
+msgstr "17 Profile mit Quellen, Kontakten und einer Checkliste für den Antrag. Die belegte Existenz einer Einrichtung und ihre aktuelle Aufnahme sind getrennt ausgewiesen."
 
 #: ../../government.rst:8
 msgid "Complete directory summary"
@@ -41,7 +41,7 @@ msgid ""
 "support applications. Returnee status is not a category covering every "
 "foreign founder and is not an automatic grant or residence permit. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Shanghaier Servicestellen für Gründungen von Auslandsrückkehrern <entities/returnee-services>` (上海留学人员创业服务窗口 · Behörde · Stadtweit / global · Software-KI, Hardware-KI) — Die städtischen Regeln 2026 nennen Talentbehörde und Bezirksservicestellen für berechtigte Auslandsrückkehrer, einschließlich qualifizierter Personen mit inzwischen ausländischer Staatsangehörigkeit. Anerkennung und Gründungsparkservices können zu getrennten Förderanträgen führen. Nicht jeder ausländische Gründer zählt als Rückkehrer. Weder Zuschuss noch Aufenthaltstitel werden automatisch gewährt. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Shanghaier Servicestellen für Gründungen von Auslandsrückkehrern <entities/returnee-services>` (上海留学人员创业服务窗口 · Behörde · Stadtweit / global · Software-KI, Hardware-KI) — Die städtischen Regeln 2026 nennen Talentbehörde und Bezirksservicestellen für berechtigte Auslandsrückkehrer, einschließlich qualifizierter Personen mit inzwischen ausländischer Staatsangehörigkeit. Anerkennung und Gründungsparkservices können zu getrennten Förderanträgen führen. Nicht jeder ausländische Gründer zählt als Rückkehrer. Weder Zuschuss noch Aufenthaltstitel werden automatisch gewährt. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:12
 msgid ""
@@ -51,7 +51,7 @@ msgid ""
 "qualifying 2025 model and agent expenditure; duplicate public funding is "
 "excluded. Tel: +86 21 68811090. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`Kommission für Wissenschaft, Technologie und Wirtschaft von Pudong <entities/government-pudong>` (浦东新区科技和经济委员会 · Behörde · Neuer Stadtbezirk Pudong) — Die Ausschreibung für KI-Anwendungen 2026 endete am 31. August 2026. Das Programm bezog sich auf förderfähige Ausgaben für Modelle und Agenten aus dem Jahr 2025; Doppelförderungen aus anderen öffentlichen Kassen sind ausgeschlossen. Tel: +86 21 68811090. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Kommission für Wissenschaft, Technologie und Wirtschaft von Pudong <entities/government-pudong>` (浦东新区科技和经济委员会 · Behörde · Neuer Stadtbezirk Pudong) — Die Ausschreibung für KI-Anwendungen 2026 endete am 31. August 2026. Das Programm bezog sich auf förderfähige Ausgaben für Modelle und Agenten aus dem Jahr 2025; Doppelförderungen aus anderen öffentlichen Kassen sind ausgeschlossen. Tel: +86 21 68811090. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:13
 msgid ""
@@ -60,7 +60,7 @@ msgid ""
 "robot models, algorithms, data and operating systems. Its evaluated "
 "support ceilings are not automatic startup awards. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`Behörde für Industrieentwicklung von Xuhui <entities/government-xuhui>` (徐汇区产业主管部门 · Behörde · Bezirk Xuhui) — Die Förderrichtlinie für verkörperte KI umfasst Robotikmodelle, Algorithmen, Daten und Betriebssysteme. Die ermittelten Förderhöchstbeträge sind keine automatischen Zuschüsse für Startups. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Behörde für Industrieentwicklung von Xuhui <entities/government-xuhui>` (徐汇区产业主管部门 · Behörde · Bezirk Xuhui) — Die Förderrichtlinie für verkörperte KI umfasst Robotikmodelle, Algorithmen, Daten und Betriebssysteme. Die ermittelten Förderhöchstbeträge sind keine automatischen Zuschüsse für Startups. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:14
 msgid ""
@@ -70,7 +70,7 @@ msgid ""
 "separate May 2026 OPC policy supports communities around Fuxing Island; "
 "an action plan does not itself constitute a cash award. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Behörde für Wissenschaft und Technologie von Yangpu <entities/government-yangpu>` (杨浦区科技主管部门 · Behörde · Bezirk Yangpu) — Die Richtlinie für hirninspirierte KI benennt den Changyang Campus und das Bay Valley. Eine gesonderte OPC-Richtlinie vom Mai 2026 unterstützt Gründer-Communitys rund um die Insel Fuxing; ein Aktionsplan begründet für sich genommen keinen Anspruch auf Barzuschüsse. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Behörde für Wissenschaft und Technologie von Yangpu <entities/government-yangpu>` (杨浦区科技主管部门 · Behörde · Bezirk Yangpu) — Die Richtlinie für hirninspirierte KI benennt den Changyang Campus und das Bay Valley. Eine gesonderte OPC-Richtlinie vom Mai 2026 unterstützt Gründer-Communitys rund um die Insel Fuxing; ein Aktionsplan begründet für sich genommen keinen Anspruch auf Barzuschüsse. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:15
 msgid ""
@@ -80,7 +80,7 @@ msgid ""
 "2030. New conversion enterprises may qualify for up to RMB 500,000 "
 "annually, capped at RMB 1.5 million over three years and 50% of eligible "
 "investment. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Behörde für Wissenschaft und Technologie von Minhang <entities/government-minhang>` (闵行区科技主管部门 · Behörde · Bezirk Minhang) — Die Förderrichtlinie für Unternehmenssinnovation gilt vom 1. September 2025 bis zum 31. August 2030. Neu gegründete Transferunternehmen können bis zu 500.000 RMB jährlich erhalten, gedeckelt auf maximal 1,5 Millionen RMB über drei Jahre und 50 % der förderfähigen Investitionen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Behörde für Wissenschaft und Technologie von Minhang <entities/government-minhang>` (闵行区科技主管部门 · Behörde · Bezirk Minhang) — Die Förderrichtlinie für Unternehmenssinnovation gilt vom 1. September 2025 bis zum 31. August 2030. Neu gegründete Transferunternehmen können bis zu 500.000 RMB jährlich erhalten, gedeckelt auf maximal 1,5 Millionen RMB über drei Jahre und 50 % der förderfähigen Investitionen. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:16
 msgid ""
@@ -90,7 +90,7 @@ msgid ""
 "InnoSpring in connecting research, pilot production and incubation. The "
 "2026 district service program provides policy interpretation and project "
 "coordination. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Behörde für Wissenschaft und Technologie von Jiading <entities/government-jiading>` (嘉定区科技主管部门 · Behörde · Bezirk Jiading) — Die städtische Wissenschaftskommission dokumentiert das Zusammenwirken von SITRI und InnoSpring bei der Verknüpfung von Forschung, Pilotfertigung und Inkubation. Das bezirkliche Serviceprogramm 2026 bietet Richtlinienberatung und Projektkoordination. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Behörde für Wissenschaft und Technologie von Jiading <entities/government-jiading>` (嘉定区科技主管部门 · Behörde · Bezirk Jiading) — Die städtische Wissenschaftskommission dokumentiert das Zusammenwirken von SITRI und InnoSpring bei der Verknüpfung von Forschung, Pilotfertigung und Inkubation. Das bezirkliche Serviceprogramm 2026 bietet Richtlinienberatung und Projektkoordination. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:17
 msgid ""
@@ -100,7 +100,7 @@ msgid ""
 "Separate industrial-park admission and district support reviews are "
 "needed; a factory demonstration is not a startup funding call. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`Behörden für Industrie, Wissenschaft und Technologie von Baoshan <entities/government-baoshan>` (宝山区产业与科技主管部门 · Behörde · Bezirk Baoshan) — Der Bezirk baut ein Cluster für Robotik und moderne Industrieausrüstung auf. Die Zulassung zu Industrieparks und bezirkliche Förderungen erfordern getrennte Prüfungen; ein industrielles Demonstrationsprojekt ist keine Förderausschreibung für Startups. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Behörden für Industrie, Wissenschaft und Technologie von Baoshan <entities/government-baoshan>` (宝山区产业与科技主管部门 · Behörde · Bezirk Baoshan) — Der Bezirk baut ein Cluster für Robotik und moderne Industrieausrüstung auf. Die Zulassung zu Industrieparks und bezirkliche Förderungen erfordern getrennte Prüfungen; ein industrielles Demonstrationsprojekt ist keine Förderausschreibung für Startups. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:18
 msgid ""
@@ -110,7 +110,7 @@ msgid ""
 "incubator register also lists the China-Israel Innovation Hub; tenancy "
 "and investment require separate terms. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`Behörde für Wissenschaft und Technologie von Putuo <entities/government-putuo>` (普陀区科技主管部门 · Behörde · Bezirk Putuo) — Der Wuning-Wissenschaftspark verknüpft Industrieforschung, Testdienstleistungen und Technologietransfer. Das bezirkliche Inkubatorenverzeichnis führt zudem den China-Israel Innovation Hub auf; Anmietung und Beteiligungen erfordern gesonderte Vereinbarungen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Behörde für Wissenschaft und Technologie von Putuo <entities/government-putuo>` (普陀区科技主管部门 · Behörde · Bezirk Putuo) — Der Wuning-Wissenschaftspark verknüpft Industrieforschung, Testdienstleistungen und Technologietransfer. Das bezirkliche Inkubatorenverzeichnis führt zudem den China-Israel Innovation Hub auf; Anmietung und Beteiligungen erfordern gesonderte Vereinbarungen. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:19
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
 "MAKE021 as parts of its incubation landscape. Confirm the correct "
 "operator before submitting. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Kommission für Wissenschaft und Technologie von Changning <entities/government-changning>` (长宁区科技主管部门 · Behörde · Bezirk Changning) — Die Zehn-Maßnahmen-Richtlinie von Changning zur Stärkung der Innovationskraft von Unternehmen umfasst Unterstützung bei Miete, Kreditzinsen und geistigem Eigentum. Prüfen Sie die aktuelle Runde sowie die Einbindung der Shanghai Silicon Alley vor einer Antragstellung. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Kommission für Wissenschaft und Technologie von Changning <entities/government-changning>` (长宁区科技主管部门 · Behörde · Bezirk Changning) — Die Zehn-Maßnahmen-Richtlinie von Changning zur Stärkung der Innovationskraft von Unternehmen umfasst Unterstützung bei Miete, Kreditzinsen und geistigem Eigentum. Prüfen Sie die aktuelle Runde sowie die Einbindung der Shanghai Silicon Alley vor einer Antragstellung. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:20
 msgid ""
@@ -129,7 +129,7 @@ msgid ""
 "demonstration plan focuses on industry integration and talent. Its stated "
 "objectives must be distinguished from implementing rules and currently "
 "accepting applications. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Kommission für Wissenschaft und Technologie von Jing'an <entities/government-jingan>` (静安区科技和经济委员会 · Behörde · Bezirk Jing'an) — Der Shibei Hi-Tech Park und das Shutong Valley bilden Schwerpunkte für vertikale KI-Modelle und Datenwirtschaft. Verlangen Sie stets die aktuelle Förderausschreibung und verwechseln Sie Branchenförderrichtlinien nicht mit gesicherten Zusagen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Kommission für Wissenschaft und Technologie von Jing'an <entities/government-jingan>` (静安区科技和经济委员会 · Behörde · Bezirk Jing'an) — Der Shibei Hi-Tech Park und das Shutong Valley bilden Schwerpunkte für vertikale KI-Modelle und Datenwirtschaft. Verlangen Sie stets die aktuelle Förderausschreibung und verwechseln Sie Branchenförderrichtlinien nicht mit gesicherten Zusagen. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:21
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "clinical research services. Huangpu ChuangKa is a separate youth "
 "entrepreneurship support route; check eligibility and current workstation "
 "availability. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Kommission für Wissenschaft und Technologie von Huangpu <entities/government-huangpu>` (黄浦区科技与创业服务部门 · Behörde · Bezirk Huangpu) — Der Zhangjiang-Huangpu-Park-Plan für 2025–2026 hebt Fintech und klinische Forschungsdienstleistungen hervor. Die Huangpu ChuangKa ist ein separater Förderweg für junge Gründer; Teilnahmeberechtigung und Verfügbarkeit freier Arbeitsplätze müssen vorab geprüft werden. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Kommission für Wissenschaft und Technologie von Huangpu <entities/government-huangpu>` (黄浦区科技与创业服务部门 · Behörde · Bezirk Huangpu) — Der Zhangjiang-Huangpu-Park-Plan für 2025–2026 hebt Fintech und klinische Forschungsdienstleistungen hervor. Die Huangpu ChuangKa ist ein separater Förderweg für junge Gründer; Teilnahmeberechtigung und Verfügbarkeit freier Arbeitsplätze müssen vorab geprüft werden. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:22
 msgid ""
@@ -149,7 +149,7 @@ msgid ""
 "investment role to the district state-owned Beikechuang group. Ask for "
 "the operating carrier and current application notice, rather than relying "
 "on older subsidy summaries. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Kommission für Wissenschaft und Wirtschaft von Hongkou <entities/government-hongkou>` (虹口区科技和经济委员会 · Behörde · Bezirk Hongkou) — Der Hongkou-Park-Plan 2025–2026 überträgt der bezirkseigenen Beikechuang-Gruppe koordinierende Aufgaben bei Inkubation und Investitionen. Erkundigen Sie sich nach dem konkreten Betreiber und der aktuellen Ausschreibung, statt sich auf ältere Förderübersichten zu verlassen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Kommission für Wissenschaft und Wirtschaft von Hongkou <entities/government-hongkou>` (虹口区科技和经济委员会 · Behörde · Bezirk Hongkou) — Der Hongkou-Park-Plan 2025–2026 überträgt der bezirkseigenen Beikechuang-Gruppe koordinierende Aufgaben bei Inkubation und Investitionen. Erkundigen Sie sich nach dem konkreten Betreiber und der aktuellen Ausschreibung, statt sich auf ältere Förderübersichten zu verlassen. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:23
 msgid ""
@@ -159,7 +159,7 @@ msgid ""
 "distinguish the nine-city corridor from Shanghai district eligibility: a "
 "partner elsewhere in the corridor does not establish Songjiang "
 "qualification. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`G60-Innovationsservice von Songjiang <entities/government-songjiang>` (松江区G60科创服务部门 · Behörde · Bezirk Songjiang) — Das G60 Sci-Tech Innovation Valley veröffentlicht Initiativen zur Innovationsförderung und Ressourcenvermittlung. Wir unterscheiden den Neun-Städte-Korridor von bezirklichen Ansprüchen in Shanghai: Ein Kooperationspartner an einem anderen Ort des Korridors begründet keine Förderberechtigung in Songjiang. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`G60-Innovationsservice von Songjiang <entities/government-songjiang>` (松江区G60科创服务部门 · Behörde · Bezirk Songjiang) — Das G60 Sci-Tech Innovation Valley veröffentlicht Initiativen zur Innovationsförderung und Ressourcenvermittlung. Wir unterscheiden den Neun-Städte-Korridor von bezirklichen Ansprüchen in Shanghai: Ein Kooperationspartner an einem anderen Ort des Korridors begründet keine Förderberechtigung in Songjiang. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:24
 msgid ""
@@ -169,7 +169,7 @@ msgid ""
 "district. The official 2025 reply discusses early investment and "
 "technology transfer, but proposed funds are not treated here as open "
 "startup applications. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Kommission für Wissenschaft und Technologie von Qingpu <entities/government-qingpu>` (青浦区科学技术委员会 · Behörde · Bezirk Qingpu) — Xicen verbindet das Forschungszentrum am Lianqiu-See mit einem aufstrebenden Innovationsbezirk. Die offizielle Stellungnahme von 2025 thematisiert Frühphaseninvestitionen und Technologietransfer; geplante Fonds werden hier jedoch nicht als offene Antragswege für Startups gewertet. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Kommission für Wissenschaft und Technologie von Qingpu <entities/government-qingpu>` (青浦区科学技术委员会 · Behörde · Bezirk Qingpu) — Xicen verbindet das Forschungszentrum am Lianqiu-See mit einem aufstrebenden Innovationsbezirk. Die offizielle Stellungnahme von 2025 thematisiert Frühphaseninvestitionen und Technologietransfer; geplante Fonds werden hier jedoch nicht als offene Antragswege für Startups gewertet. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:25
 msgid ""
@@ -179,7 +179,7 @@ msgid ""
 "Base and Bay Area incubation carriers. It connects testing and "
 "industrialization, subject to park admission and the applicable aviation "
 "permissions. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Behörde für Wissenschaft und Technologie von Jinshan <entities/government-jinshan>` (金山区科技主管部门 · Behörde · Bezirk Jinshan) — Der Parkentwicklungsplan 2025–2026 nennt den Inkubator für neue Werkstoffe in Jinshan, die Drohnenbasis Ostchina und die Bay-Area-Inkubationszentren. Er verknüpft Tests und Industrialisierung, vorbehaltlich der Parkaufnahme und geltender luftfahrtrechtlicher Genehmigungen. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Behörde für Wissenschaft und Technologie von Jinshan <entities/government-jinshan>` (金山区科技主管部门 · Behörde · Bezirk Jinshan) — Der Parkentwicklungsplan 2025–2026 nennt den Inkubator für neue Werkstoffe in Jinshan, die Drohnenbasis Ostchina und die Bay-Area-Inkubationszentren. Er verknüpft Tests und Industrialisierung, vorbehaltlich der Parkaufnahme und geltender luftfahrtrechtlicher Genehmigungen. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:26
 msgid ""
@@ -189,7 +189,7 @@ msgid ""
 "Beauty Valley provides a separate beauty and health industry context. "
 "Match the project to the correct policy owner and application batch. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`Wirtschaftskommission von Fengxian <entities/government-fengxian>` (奉贤区经济委员会 · Behörde · Bezirk Fengxian) — Die Fördermaßnahmen für die Robotikindustrie richten sich an förderfähige, im Bezirk registrierte Unternehmen im Bereich intelligenter Roboter. Das Oriental Beauty Valley bildet ein eigenständiges Umfeld für Kosmetik und Gesundheit. Ordnen Sie Ihr Projekt der richtigen Fachbehörde und Ausschreibungsrunde zu. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Wirtschaftskommission von Fengxian <entities/government-fengxian>` (奉贤区经济委员会 · Behörde · Bezirk Fengxian) — Die Fördermaßnahmen für die Robotikindustrie richten sich an förderfähige, im Bezirk registrierte Unternehmen im Bereich intelligenter Roboter. Das Oriental Beauty Valley bildet ein eigenständiges Umfeld für Kosmetik und Gesundheit. Ordnen Sie Ihr Projekt der richtigen Fachbehörde und Ausschreibungsrunde zu. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
 
 #: ../../government.rst:27
 msgid ""
@@ -199,4 +199,4 @@ msgid ""
 "separate 2024 science innovation subsidy measures expired on 31 December "
 "2025; we do not present those ceilings as current entitlements. Tel: +86 "
 "21 69695910. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`Kommission für Wissenschaft und Technologie von Chongming <entities/government-chongming>` (崇明区科学技术委员会 · Behörde · Bezirk Chongming) — Der Chongming-Park-Plan 2025–2026 liefert den aktuellen strategischen Rahmen. Die gesonderten Innovationsförderrichtlinien von 2024 liefen am 31. Dezember 2025 aus; deren frühere Förderhöchstgrenzen führen wir nicht als bestehende Leistungsansprüche auf. Tel: +86 21 69695910. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Kommission für Wissenschaft und Technologie von Chongming <entities/government-chongming>` (崇明区科学技术委员会 · Behörde · Bezirk Chongming) — Der Chongming-Park-Plan 2025–2026 liefert den aktuellen strategischen Rahmen. Die gesonderten Innovationsförderrichtlinien von 2024 liefen am 31. Dezember 2025 aus; deren frühere Förderhöchstgrenzen führen wir nicht als bestehende Leistungsansprüche auf. Tel: +86 21 69695910. [Einrichtung belegt; aktuelle Aufnahme bitte prüfen]"
