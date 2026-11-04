@@ -301,8 +301,10 @@ for (const [id, c] of Object.entries(chapters)) {
   const introDict = Object.fromEntries(LANGS.map(l => [l, l === 'zh_CN' ? c.intro[1] : i18nData[l].chapters[id].intro]));
   let s = heading(c.title[0], titleDict) + p(c.intro[0], introDict);
   if (id === 'reading-the-city') {
-    s += '.. figure:: _static/atlas/shanghai-map.svg\n   :alt: Illustrative Shanghai district map, with numbered district anchors and a bilingual legend.\n   :width: 100%\n\n   ' +
-      trS('Sixteen districts, connected by people, research and industry.', '十六个区，以人才、科研及产业相连。') + '\n\n';
+    const caption = trS('Sixteen districts, connected by people, research and industry.', '十六个区，以人才、科研及产业相连。');
+    for (const [builder, map] of [['html', 'shanghai-map.svg'], ['pdf', 'shanghai-map-print.svg']]) {
+      s += `.. only:: ${builder}\n\n   .. figure:: _static/atlas/${map}\n      :alt: Illustrative Shanghai district map, with numbered district anchors and a bilingual legend.\n      :width: 100%\n\n      ${caption}\n\n`;
+    }
   }
   if (id === 'software-ai') {
     s += `.. graphviz:: figures/ai-stack.dot\n   :caption: ${trS('An AI product connects models to a customer workflow.', '人工智能产品把模型连接到客户流程。')}\n   :alt: Data, compute and models support an evaluated product connected to customers.\n\n`;
@@ -730,7 +732,8 @@ registerRst += evidence('edu.sh.gov.cn/study_cn_school');
 write('docs/university-register.rst', registerRst);
 
 // 6. Interactive Atlas Page
-let atlas = heading('Explore the Shanghai ecosystem', '探索上海创新生态') +
+// The custom website navigation links the interactive map; print uses the district plate.
+let atlas = ':orphan:\n\n' + heading('Explore the Shanghai ecosystem', '探索上海创新生态') +
   p('Select a district, search a Chinese or English organization name, and filter by organization type or funding mechanism. Each result opens a sourced profile with contact and application steps.', '选择行政区，搜索中英文机构名称，按类型或资助机制筛选。每个结果均可打开附来源、联系与申请步骤的档案。');
 atlas += '.. only:: html\n\n   .. raw:: html\n\n      <div id="atlas-app" aria-live="polite"></div>\n      <noscript><p>Use the district and directory links below. / 请使用下方行政区与目录链接。</p></noscript>\n\n';
 const bDistDoc = doc('Browse all district chapters', '浏览全部行政区章节', 'districts');
@@ -741,8 +744,8 @@ write('docs/atlas.rst', atlas);
 
 // 7. Home Index Page
 const tree = ['reading-the-city', 'atlas', 'software-ai', 'hardware-ai', 'districts', 'universities', 'university-register', 'incubation', 'research', 'corporate', 'government', 'funding-guide', 'funding', 'investors', 'apply', 'methodology', 'sources'];
-let index = heading('Shanghai Ecosystem Atlas', '上海创新生态图谱') +
-  p('The Pearl of the Orient. A field guide to research, enterprise and possibility.', '东方明珠。连接科研、企业与机遇的实用图谱。') +
+let index = heading('Shanghai Ecosystem Atlas', '上海创新生态图谱');
+let indexPrelude = p('The Pearl of the Orient. A field guide to research, enterprise and possibility.', '东方明珠。连接科研、企业与机遇的实用图谱。') +
   p("An illustrated guide in seven languages for accelerators, founders, researchers and AI enthusiasts. It connects Shanghai's universities, software and hardware AI communities, and practical routes to support across all 16 districts.", '为加速器、创始人、研究者及人工智能爱好者编写的七语插图指南，连接上海16个行政区的高校、软硬件人工智能社区及实用扶持渠道。');
 
 const EDITION_STAT_TPL = {
@@ -753,14 +756,17 @@ const EDITION_STAT_TPL = {
   de: `Forschungsausgabe: ${checked}. ${allEntities.length} Organisationsprofile. ${funding.length} Förderwege. 16 Bezirke. ${used.length} zitierte Quellen.`,
   es: `Edición de investigación: ${checked}. ${allEntities.length} perfiles de organizaciones. ${funding.length} vías de financiación. 16 distritos. ${used.length} fuentes citadas.`
 };
-index += p(`Research edition: ${checked}. ${allEntities.length} organization profiles. ${funding.length} funding routes. 16 districts. ${used.length} cited sources.`, EDITION_STAT_TPL);
-index += p("Written by **Vikrant Rathore** with contributions from **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. Produced using **Guidedog** as a unified seven-language **HTML and PDF** publication inspired by Shanghai's official flower, the white magnolia (*Yulania denudata*).", '本书由 **Vikrant Rathore** 撰写，**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu** 共同贡献。采用 **Guidedog** 原生构建为七语 **HTML 网站与 PDF 图书**，视觉设计汲取上海市花白玉兰之灵感。');
+indexPrelude += p(`Research edition: ${checked}. ${allEntities.length} organization profiles. ${funding.length} funding routes. 16 districts. ${used.length} cited sources.`, EDITION_STAT_TPL);
+indexPrelude += p("Written by **Vikrant Rathore** with contributions from **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. Produced using **Guidedog** as a unified seven-language **HTML and PDF** publication inspired by Shanghai's official flower, the white magnolia (*Yulania denudata*).", '本书由 **Vikrant Rathore** 撰写，**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu** 共同贡献。采用 **Guidedog** 原生构建为七语 **HTML 网站与 PDF 图书**，视觉设计汲取上海市花白玉兰之灵感。');
 
 const nav1 = doc('Explore the interactive atlas', '探索交互图谱', 'atlas');
 const nav2 = doc('Browse all 16 districts', '浏览全部16个行政区', 'districts');
 const nav3 = doc('Find funding', '寻找资金', 'funding');
 const nav4 = doc('Plan an application', '规划申请', 'apply');
-index += p(`${nav1} | ${nav2} | ${nav3} | ${nav4}`, Object.fromEntries(LANGS.map(l => [l, `${maps[l].get(nav1)} | ${maps[l].get(nav2)} | ${maps[l].get(nav3)} | ${maps[l].get(nav4)}`])));
+indexPrelude += p(`${nav1} | ${nav2} | ${nav3} | ${nav4}`, Object.fromEntries(LANGS.map(l => [l, `${maps[l].get(nav1)} | ${maps[l].get(nav2)} | ${maps[l].get(nav3)} | ${maps[l].get(nav4)}`])));
+
+// The colophon and opening essay provide the print introduction.
+index += onlyHtml(indexPrelude);
 
 let indexHtml = heading('All 16 administrative districts of Shanghai', '上海十六个行政区全景导览', 1);
 indexHtml += p('Every administrative district of Shanghai is covered in both the website and the PDF book with its documented industrial focus, receiving government authority, local innovation carriers, universities and district funding routes:', '网站与PDF图书完整收录上海全部16个行政区的定位方向、受理政府部门、本地创新载体、高校及区级融资与扶持渠道：');
@@ -808,7 +814,7 @@ for (const [idx, [cid, ctEn, ctZh, cdEn, cdZh]] of chapterSummaries.entries()) {
   indexHtml += bullet(`${cLink} — ${cdEn}`, dict);
 }
 index += onlyHtml(indexHtml);
-index += '.. toctree::\n   :maxdepth: 2\n   :hidden:\n\n' + tree.map(x => '   ' + x).join('\n') + '\n';
+index += '.. toctree::\n   :maxdepth: 2\n   :hidden:\n\n' + tree.filter(x => x !== 'atlas').map(x => '   ' + x).join('\n') + '\n';
 write('docs/index.rst', index);
 
 // 8. Sources & Bibliography

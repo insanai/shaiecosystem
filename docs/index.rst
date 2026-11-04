@@ -1,15 +1,17 @@
 Shanghai Ecosystem Atlas
 ========================
 
-The Pearl of the Orient. A field guide to research, enterprise and possibility.
+.. only:: html
 
-An illustrated guide in seven languages for accelerators, founders, researchers and AI enthusiasts. It connects Shanghai's universities, software and hardware AI communities, and practical routes to support across all 16 districts.
+   The Pearl of the Orient. A field guide to research, enterprise and possibility.
 
-Research edition: 2026-11-04. 131 organization profiles. 50 funding routes. 16 districts. 140 cited sources.
+   An illustrated guide in seven languages for accelerators, founders, researchers and AI enthusiasts. It connects Shanghai's universities, software and hardware AI communities, and practical routes to support across all 16 districts.
 
-Written by **Vikrant Rathore** with contributions from **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. Produced using **Guidedog** as a unified seven-language **HTML and PDF** publication inspired by Shanghai's official flower, the white magnolia (*Yulania denudata*).
+   Research edition: 2026-11-04. 133 organization profiles. 53 funding routes. 16 districts. 144 cited sources.
 
-:doc:`Explore the interactive atlas <atlas>` | :doc:`Browse all 16 districts <districts>` | :doc:`Find funding <funding>` | :doc:`Plan an application <apply>`
+   Written by **Vikrant Rathore** with contributions from **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. Produced using **Guidedog** as a unified seven-language **HTML and PDF** publication inspired by Shanghai's official flower, the white magnolia (*Yulania denudata*).
+
+   :doc:`Explore the interactive atlas <atlas>` | :doc:`Browse all 16 districts <districts>` | :doc:`Find funding <funding>` | :doc:`Plan an application <apply>`
 
 .. only:: html
 
@@ -18,7 +20,7 @@ Written by **Vikrant Rathore** with contributions from **Lauren Zhao, Vicky Ni, 
 
    Every administrative district of Shanghai is covered in both the website and the PDF book with its documented industrial focus, receiving government authority, local innovation carriers, universities and district funding routes:
 
-   * **[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, chips, biomedicine and advanced manufacturing**. Authority: Pudong Science, Technology and Economy Commission. (40 organizations, 4 district funding routes)
+   * **[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, chips, biomedicine and advanced manufacturing**. Authority: Pudong Science, Technology and Economy Commission. (42 organizations, 7 district funding routes)
    * **[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, embodied AI and research commercialization**. Authority: Xuhui industry development authority. (9 organizations, 2 district funding routes)
    * **[03]** :doc:`Yangpu <districts/yangpu>` (杨浦区) — **University spinouts, brain-inspired AI and independent AI founders**. Authority: Yangpu science and technology authority. (10 organizations, 2 district funding routes)
    * **[04]** :doc:`Minhang <districts/minhang>` (闵行区) — **University commercialization, robotics, BCI and engineering**. Authority: Minhang science and technology authority. (6 organizations, 2 district funding routes)
@@ -61,7 +63,6 @@ Written by **Vikrant Rathore** with contributions from **Lauren Zhao, Vicky Ni, 
    :hidden:
 
    reading-the-city
-   atlas
    software-ai
    hardware-ai
    districts

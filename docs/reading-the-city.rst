@@ -3,11 +3,21 @@ A city of connected possibilities
 
 Shanghai becomes easier to navigate when we follow a project from research to prototype, from prototype to a first customer, and from that customer to a repeatable business. The useful unit is a working relationship: a laboratory, a district service team, an incubation operator, a buyer or an investment manager.
 
-.. figure:: _static/atlas/shanghai-map.svg
-   :alt: Illustrative Shanghai district map, with numbered district anchors and a bilingual legend.
-   :width: 100%
+.. only:: html
 
-   Sixteen districts, connected by people, research and industry.
+   .. figure:: _static/atlas/shanghai-map.svg
+      :alt: Illustrative Shanghai district map, with numbered district anchors and a bilingual legend.
+      :width: 100%
+
+      Sixteen districts, connected by people, research and industry.
+
+.. only:: pdf
+
+   .. figure:: _static/atlas/shanghai-map-print.svg
+      :alt: Illustrative Shanghai district map, with numbered district anchors and a bilingual legend.
+      :width: 100%
+
+      Sixteen districts, connected by people, research and industry.
 
 A practical atlas, with a stated boundary
 -----------------------------------------
@@ -36,6 +46,6 @@ Shanghai's official flower is the white magnolia, designated in 1986. Pearl whit
 
 This book and interactive atlas are written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. The publication is produced natively using Guidedog in both HTML and PDF editions in seven languages, sharing one verified dataset across the interactive web atlas and the illustrated print-ready books.
 
-`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview.
+`Evidence S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview.
 
-`Evidence S137 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators.
+`Evidence S141 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators.

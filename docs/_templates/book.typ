@@ -3,7 +3,7 @@
 #let book(title: "", author: "", version: "", date: "", lang: "en", paper: "a4",
  logo: none, copyright: "", accent: rgb("315b50"), numbering: false,
  version-label: "Edition", serif: gd-serif, sans: gd-sans, mono: gd-mono,
- size: 10.5pt, page-ref: none, body) = {
+ size: 11.5pt, page-ref: none, body) = {
  let code = lower(lang.replace("_", "-").split("-").first())
  let zh = code == "zh"
  let hi = code == "hi"
@@ -43,25 +43,37 @@
  show: configure-document.with(lang: lang, serif: serif, sans: sans, mono: mono, size: size, accent: jade)
  set document(title: title, author: "Vikrant Rathore")
  set text(fill: ink, font: serif, size: size)
- set par(justify: true, leading: 0.67em, spacing: 0.8em)
+ set par(justify: true, leading: 0.75em, spacing: 0.9em)
  set page(width: 240mm, height: 300mm, margin: (x: 24mm, top: 23mm, bottom: 24mm), fill: pearl)
- show heading: set text(font: sans, fill: ink, hyphenate: false)
+ // Chapter labels follow the source document IDs, so every translation uses the same structure.
+ let roots = ("reading-the-city", "software-ai", "hardware-ai", "districts", "universities", "university-register", "incubation", "research", "corporate", "government", "funding-guide", "funding", "investors", "apply", "methodology", "sources")
+ let chapter-index(it) = {
+  let key = if it.has("label") { repr(it.label) } else { "" }
+  let number = 0
+  for (n, root) in roots.enumerate() {
+   if key.starts-with("<" + root + "-") { number = n + 1; break }
+  }
+  number
+ }
+ let part-index(n) = if n <= 3 { 0 } else if n <= 10 { 1 } else if n <= 14 { 2 } else { 3 }
+ let part-colors = (rgb("4b737f"), jade, rgb("8f6a3e"), quiet)
+ show heading: set text(font: serif, fill: ink, hyphenate: false)
  show heading: set par(justify: false, first-line-indent: 0pt)
  set heading(numbering: none)
  show heading.where(level: 1): it => {
   if it.outlined {
-   pagebreak(weak: true, to: "odd")
-   block(above: 0pt, below: 13mm, sticky: true)[
-    #v(11mm)
-    #text(font: sans, size: 8pt, tracking: 0.12em, fill: gold, if zh { "上海 / 创新图谱" } else if hi { "शंघाई / इनोवेशन गाइड" } else if ja { "上海 / フィールドノート" } else if ko { "상하이 / 필드 노트" } else if de { "SHANGHAI / FELDNOTIZEN" } else if es { "SHANGHÁI / NOTAS DE CAMPO" } else { "SHANGHAI / FIELD NOTES" })
-    #v(7mm)
-    #text(size: 31pt, weight: "regular", it.body)
-    #v(7mm)
-    #line(length: 23mm, stroke: 1.2pt + gold)
-    #if logo != none {
-     v(5mm)
-     image(logo, width: 100%, height: 45mm, fit: "cover")
-    }
+   let n = chapter-index(it)
+   let section = part-index(n)
+   pagebreak(weak: true)
+   block(above: 3mm, below: 9mm, sticky: true)[
+    #grid(columns: (23mm, 1fr), gutter: 7mm,
+     text(font: serif, size: 57pt, fill: rgb("cdd7ce"), if n > 0 { if n < 10 { "0" + str(n) } else { str(n) } } else { "" }),
+     [#text(font: sans, size: 7.5pt, tracking: 0.08em, fill: part-colors.at(section), words.parts.at(section))
+      #v(3mm)
+      #text(size: 32pt, weight: "regular", it.body)]
+    )
+    #v(5mm)
+    #line(length: 100%, stroke: 0.55pt + rgb("cbd5cb"))
    ]
   } else { block(above: 5mm, below: 5mm, text(size: 22pt, it.body)) }
  }
@@ -70,28 +82,27 @@
   let profile = key.contains("entities-") or key.contains("districts-") or (key.contains("funding-") and not key.contains("funding-guide-"))
   if profile {
    pagebreak(weak: true)
-   block(above: 0pt, below: 7mm, sticky: true)[
-    #v(4mm)
-    #text(font: sans, size: 7pt, tracking: 0.12em, fill: gold, if zh { "机构 / 资源 / 对接路径" } else if hi { "संस्थान / संसाधन / प्रवेश मार्ग" } else if ja { "機関 / リソース / 窓口" } else if ko { "기관 / 자원 / 진입 경로" } else if de { "AKTEURE / RESSOURCEN / ZUGANGSWEGE" } else if es { "ORGANIZACIONES / RECURSOS / RUTAS DE ACCESO" } else { "PEOPLE / RESOURCES / ENTRY POINTS" })
+   block(above: 3mm, below: 8mm, sticky: true)[
+    #text(font: sans, size: 7.5pt, tracking: 0.08em, fill: gold, words.profile)
     #v(5mm)
-    #text(size: 25pt, weight: "regular", fill: jade, it.body)
-    #v(4mm)
-    #line(length: 100%, stroke: 0.5pt + rgb("d8d8ca"))
+    #text(size: 29pt, weight: "regular", fill: ink, it.body)
+    #v(5mm)
+    #line(length: 26mm, stroke: 1.4pt + jade)
    ]
   } else {
-   block(above: 10mm, below: 4mm, sticky: true, text(size: 17pt, weight: "regular", fill: jade, it.body))
+   block(above: 9mm, below: 4mm, sticky: true, text(size: 20pt, weight: "regular", fill: jade, it.body))
   }
  }
  show heading.where(level: 3): it => block(above: 6mm, below: 2.5mm, sticky: true,
-  text(size: 10.5pt, weight: "bold", fill: jade, it.body))
+  text(size: 10pt, font: sans, weight: "bold", fill: jade, it.body))
  show heading.where(level: 4): set text(size: 10pt, weight: "bold")
  show link: set text(fill: jade)
  show regex("https?://[^\\s]+"): it => text(size: 7.5pt, it.text.replace("/", "/\u{200b}").replace("%", "%\u{200b}"))
  set figure(numbering: none, gap: 3mm)
- show figure: set block(above: 7mm, below: 7mm)
+ show figure: it => align(center, block(width: 100%, above: 6mm, below: 6mm, it))
  show figure.caption: set text(size: 8pt, font: sans, fill: quiet)
  show figure.caption: set par(justify: false)
- set table(stroke: none, inset: (x: 5pt, y: 5pt), align: start)
+ set table(stroke: (bottom: 0.35pt + rgb("d8dfd4")), inset: (x: 6pt, y: 7pt), align: start)
  show table: set text(size: 9pt)
  set list(indent: 0.8em, body-indent: 0.6em, spacing: 0.65em)
  set enum(indent: 0.8em, body-indent: 0.6em, spacing: 0.7em)
@@ -120,13 +131,21 @@
  ]
  page(header: none, footer: none, numbering: none)[
   #set par(justify: false)
-  #v(1fr)
+  #v(12mm)
   #text(font: sans, size: 9pt, tracking: 0.1em, fill: gold, if zh { "白玉兰 / 珍珠白 / 上海" } else if hi { "श्वेत मैग्नोलिया / पर्ल व्हाइट / शंघाई" } else if ja { "白玉蘭 / パールホワイト / 上海" } else if ko { "백목련 / 펄 화이트 / 상하이" } else if de { "WEISSE MAGNOLIE / PERLENWEISS / SHANGHAI" } else if es { "MAGNOLIA BLANCA / BLANCO PERLA / SHANGHÁI" } else { "MAGNOLIA / PEARL WHITE / SHANGHAI" })
   #v(7mm)
   #text(size: 24pt, title)
   #v(6mm)
   #text(size: 10pt, if zh { "一部为加速器、创始人、研究者及人工智能爱好者编写的实用图谱。" } else if hi { "एक्सेलेरेटर, संस्थापकों, शोधकर्ताओं और AI उत्साही लोगों के लिए एक व्यावहारिक मार्गदर्शिका।" } else if ja { "アクセラレーター、創業者、研究者、AI実践者のための実用フィールドガイド。" } else if ko { "액셀러레이터, 창업자, 연구자 및 AI 실무자를 위한 실용 필드 가이드." } else if de { "Ein praktischer Leitfaden für Acceleratoren, Gründer, Forschende und KI-Interessierte." } else if es { "Una guía práctica para aceleradoras, fundadores, investigadores y entusiastas de la IA." } else { "A field guide for accelerators, founders, researchers and AI enthusiasts." })
-  #v(6mm)
+  #v(14mm)
+  #grid(columns: (1fr, 1fr, 1fr, 1fr), gutter: 6mm,
+   ..(str(counts.districts), str(counts.entities), str(counts.funding), str(counts.sources)).enumerate().map(((n, value)) => [
+    #text(size: 34pt, fill: jade, value)
+    #v(3mm)
+    #text(font: sans, size: 8pt, fill: quiet, words.statistics.at(n))
+   ])
+  )
+  #v(1fr)
   #block(fill: rgb("f4f2ea"), stroke: 0.5pt + rgb("dcded2"), inset: 12pt, width: 100%)[
    #text(font: sans, size: 8pt, tracking: 0.08em, fill: gold, words.credits)
    #v(3mm)
@@ -147,11 +166,25 @@
  set page(numbering: "i", header: none,
   footer: context align(right, text(font: sans, size: 8pt, fill: quiet, counter(page).display())))
  counter(page).update(1)
+ set text(size: 11.5pt)
+ show outline.entry: it => context {
+  let n = chapter-index(it.element)
+  block(width: 100%, above: 3.5mm, below: 0pt)[
+   #grid(columns: (12mm, 1fr, 13mm), gutter: 3mm,
+    text(font: sans, size: 9pt, fill: gold, if n < 10 { "0" + str(n) } else { str(n) }),
+    link(it.element.location(), text(font: serif, size: 13pt, it.body())),
+    align(right, link(it.element.location(), text(font: sans, size: 10pt, it.page()))))
+  ]
+ }
  outline(title: if zh { "目录" } else if hi { "विषय-सूची" } else if ja { "目次" } else if ko { "목차" } else if de { "Inhaltsverzeichnis" } else if es { "Índice" } else { "Contents" }, depth: 1, indent: auto)
- pagebreak(to: "odd")
+ pagebreak()
  counter(page).update(1)
  set page(numbering: "1",
   header: [#text(font: sans, size: 7pt, tracking: 0.06em, fill: quiet, words.running) #h(1fr) #text(font: sans, size: 7pt, fill: gold, "2026 · Vikrant Rathore")],
-  footer: context [#line(length: 100%, stroke: 0.4pt + rgb("d8d8ca")) #v(2mm) #text(font: sans, size: 7pt, fill: quiet, words.footer + " · Guidedog HTML & PDF") #h(1fr) #text(font: sans, size: 9pt, fill: jade, counter(page).display())])
+  footer: context {
+   let folio = text(font: serif, size: 11pt, fill: jade, counter(page).display())
+   let edition = text(font: sans, size: 7pt, tracking: 0.04em, fill: quiet, words.footer)
+   if calc.odd(here().page()) { [#edition #h(1fr) #folio] } else { [#folio #h(1fr) #edition] }
+  })
  body
 }

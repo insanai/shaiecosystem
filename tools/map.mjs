@@ -17,6 +17,15 @@ for(const [i,d]of districts.entries()){
 }
 svg+='<text x="790" y="55" fill="#315b50" font-size="18" font-family="serif">Shanghai / 上海</text><text x="790" y="78" fill="#68746d" font-size="10">16 DISTRICTS / 十六区</text><text x="30" y="854" fill="#68746d" font-size="10">Illustrative district anchors, not office locations. / 区级锚点，不代表办公地点。</text><text x="30" y="874" fill="#68746d" font-size="9">Boundary source: DataV. Not for navigation or legal boundary determination. / 区界来源：DataV，仅供示意。</text></svg>';
 fs.writeFileSync('docs/_static/atlas/shanghai-map.svg',svg);
+// The print plate uses a larger legend and two-line names at the final book size.
+let printMap = svg.replace(/<text x="790" y="\d+" fill="#a88b53"[^<]+<\/text><text x="825"[^<]+<\/text>/g, '');
+for (const [i, d] of districts.entries()) {
+ const y = 108 + i * 43;
+ printMap = printMap.replace('</svg>', `<text x="778" y="${y}" fill="#8f6a3e" font-size="18" font-family="DejaVu Sans">${String(i + 1).padStart(2, '0')}</text><text x="822" y="${y}" fill="#263b36" font-size="21" font-family="Libertinus Serif">${d.name}</text><text x="822" y="${y + 19}" fill="#526b60" font-size="17" font-family="Noto Serif CJK SC">${d.zh}</text></svg>`);
+}
+printMap = printMap.replace('font-size="10">Illustrative', 'font-size="15">Illustrative').replace('font-size="9">Boundary', 'font-size="14">Boundary');
+fs.writeFileSync('docs/_static/atlas/shanghai-map-print.svg', printMap);
+
 const logo='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80"><circle cx="40" cy="40" r="37" fill="#fffefa" stroke="#dcded2" stroke-width="1"/><g fill="#f4f2ea" stroke="#315b50" stroke-width="0.9" opacity="0.88"><ellipse cx="40" cy="23" rx="9" ry="19" transform="rotate(30 40 40)"/><ellipse cx="40" cy="23" rx="9" ry="19" transform="rotate(90 40 40)"/><ellipse cx="40" cy="23" rx="9" ry="19" transform="rotate(150 40 40)"/><ellipse cx="40" cy="23" rx="9" ry="19" transform="rotate(210 40 40)"/><ellipse cx="40" cy="23" rx="9" ry="19" transform="rotate(270 40 40)"/><ellipse cx="40" cy="23" rx="9" ry="19" transform="rotate(330 40 40)"/></g><g fill="#fffefa" stroke="#a88b53" stroke-width="1.15"><path d="M40 12 C47 20,48 31,40 40 C32 31,33 20,40 12 Z"/><path d="M40 12 C47 20,48 31,40 40 C32 31,33 20,40 12 Z" transform="rotate(60 40 40)"/><path d="M40 12 C47 20,48 31,40 40 C32 31,33 20,40 12 Z" transform="rotate(120 40 40)"/><path d="M40 12 C47 20,48 31,40 40 C32 31,33 20,40 12 Z" transform="rotate(180 40 40)"/><path d="M40 12 C47 20,48 31,40 40 C32 31,33 20,40 12 Z" transform="rotate(240 40 40)"/><path d="M40 12 C47 20,48 31,40 40 C32 31,33 20,40 12 Z" transform="rotate(300 40 40)"/></g><circle cx="40" cy="40" r="6.5" fill="#a88b53"/><circle cx="40" cy="40" r="3" fill="#315b50"/></svg>';
 fs.writeFileSync('docs/_static/atlas/magnolia.svg',logo);
 console.log('Created print map and magnolia mark.');
