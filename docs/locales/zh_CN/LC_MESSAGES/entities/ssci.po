@@ -1,0 +1,108 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/ssci.rst:1
+msgid "Shanghai Leading Industry Funds"
+msgstr "上海三大先导产业母基金"
+
+#: ../../entities/ssci.rst:4
+msgid "上海三大先导产业母基金"
+msgstr "上海三大先导产业母基金"
+
+#: ../../entities/ssci.rst:6
+msgid "Investor | Citywide / global | Research checked 2026-11-04"
+msgstr "投资机构｜全市／全球｜研究核对日期 2026-11-04"
+
+#: ../../entities/ssci.rst:8
+msgid ""
+"A state-backed fund platform for leading industries, with AI interests "
+"including general AI, computing systems, humanoids, vertical models and "
+"edge AI. A fund-of-funds commitment is not a startup award or a direct "
+"application entitlement."
+msgstr "面向先导产业的国资基金平台，人工智能方向包括通用智能、算力系统、人形机器人、垂类模型及端侧智能。母基金出资不等于创业补助或直接申报资格。"
+
+#: ../../entities/ssci.rst:10
+msgid "`Evidence S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+msgstr "`证据 S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+
+#: ../../entities/ssci.rst:12
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/ssci.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/ssci.rst:17
+msgid "Funding mechanism: Equity investment."
+msgstr "支持机制：股权投资。"
+
+#: ../../entities/ssci.rst:19
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/ssci.rst:22
+msgid ""
+"`Official website / intake route <https://www.ssci-leadingfund.com/>`_"
+msgstr "`官网／对接入口 <https://www.ssci-leadingfund.com/>`_"
+
+#: ../../entities/ssci.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/ssci.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/ssci.rst:28
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/ssci.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/ssci.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "确认管理人、行业、阶段及主体匹配。"
+
+#: ../../entities/ssci.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+
+#: ../../entities/ssci.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "完成商业、财务、技术及法律尽职调查。"
+
+#: ../../entities/ssci.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "审核条款书、投委会条件及正式协议。"
+
+#: ../../entities/ssci.rst:41
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`全市／全球对接路径 </funding>`"

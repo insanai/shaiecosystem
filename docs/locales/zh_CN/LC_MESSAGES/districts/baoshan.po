@@ -1,0 +1,125 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/baoshan.rst:1
+msgid "Baoshan"
+msgstr "宝山区"
+
+#: ../../districts/baoshan.rst:4
+msgid "Robotics, advanced equipment and industrial deployment"
+msgstr "机器人、高端装备与工业应用"
+
+#: ../../districts/baoshan.rst:6
+msgid ""
+"The district is developing a robotics and advanced equipment cluster. "
+"Separate industrial-park admission and district support reviews are "
+"needed; a factory demonstration is not a startup funding call."
+msgstr "全区正在发展机器人及高端装备产业集群。园区准入与政策资助需分别审核；工厂示范项目不等于面向初创企业的资金申报。"
+
+#: ../../districts/baoshan.rst:8
+msgid ""
+"`Evidence S066 "
+"<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
+"机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+msgstr "`证据 S066 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+
+#: ../../districts/baoshan.rst:10
+msgid "Who receives the inquiry"
+msgstr "咨询受理"
+
+#: ../../districts/baoshan.rst:13
+msgid "Baoshan industry and science authorities"
+msgstr "宝山区产业与科技主管部门"
+
+#: ../../districts/baoshan.rst:15
+msgid "`Official district website <https://www.shbsq.gov.cn/>`_"
+msgstr "`区政府官网 <https://www.shbsq.gov.cn/>`_"
+
+#: ../../districts/baoshan.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "本记录未核实现行项目直线电话或邮箱。请通过官网索取具体受理团队。"
+
+#: ../../districts/baoshan.rst:19
+msgid "Before applying"
+msgstr "申请之前"
+
+#: ../../districts/baoshan.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../districts/baoshan.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../districts/baoshan.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../districts/baoshan.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../districts/baoshan.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../districts/baoshan.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。"
+
+#: ../../districts/baoshan.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本图谱中的本区机构"
+
+#: ../../districts/baoshan.rst:37
+msgid ":doc:`Shanghai Robot Industrial Park </entities/robot-park>`"
+msgstr ":doc:`上海机器人产业园 </entities/robot-park>`"
+
+#: ../../districts/baoshan.rst:38
+msgid ":doc:`Baoshan Industrial Park </entities/baoshan-industrial>`"
+msgstr ":doc:`宝山工业园区 </entities/baoshan-industrial>`"
+
+#: ../../districts/baoshan.rst:40
+msgid "Funding routes"
+msgstr "资金路径"
+
+#: ../../districts/baoshan.rst:43
+msgid ""
+":doc:`Baoshan pre-investment / later equity project call "
+"</funding/baoshan-conversion>`"
+msgstr ":doc:`宝山先投后股项目征集 </funding/baoshan-conversion>`"
+
+#: ../../districts/baoshan.rst:45
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`同时比较全市资金路径 </funding>`"

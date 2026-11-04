@@ -1,0 +1,109 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/ms-startups.rst:1
+msgid "Microsoft for Startups"
+msgstr "微软初创企业计划"
+
+#: ../../entities/ms-startups.rst:4
+msgid "微软初创企业计划"
+msgstr "微软初创企业计划"
+
+#: ../../entities/ms-startups.rst:6
+msgid "Global program | Citywide / global | Research checked 2026-11-04"
+msgstr "全球计划｜全市／全球｜研究核对日期 2026-11-04"
+
+#: ../../entities/ms-startups.rst:8
+msgid ""
+"The current program provides Azure-related startup resources through "
+"online application. We do not transfer historic Shanghai accelerator "
+"terms or global credit ceilings to China-region accounts. Validate the "
+"legal entity and region first."
+msgstr "现行计划通过在线申请提供Azure相关创业资源。本书不将历史上海加速器条款或全球积分上限套用于中国区账户，须先核实主体与地区。"
+
+#: ../../entities/ms-startups.rst:10
+msgid ""
+"`Evidence S041 <https://learn.microsoft.com/en-us/startups/overview>`_. "
+"What is Microsoft for Startups? | Microsoft Learn."
+msgstr "`证据 S041 <https://learn.microsoft.com/en-us/startups/overview>`_. What is Microsoft for Startups? | Microsoft Learn."
+
+#: ../../entities/ms-startups.rst:12
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/ms-startups.rst:15
+msgid "Regional eligibility to confirm"
+msgstr "地区资格待确认"
+
+#: ../../entities/ms-startups.rst:17
+msgid "Funding mechanism: Cloud credits."
+msgstr "支持机制：云积分。"
+
+#: ../../entities/ms-startups.rst:19
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/ms-startups.rst:22
+msgid ""
+"`Official website / intake route "
+"<https://learn.microsoft.com/en-us/startups/overview>`_"
+msgstr "`官网／对接入口 <https://learn.microsoft.com/en-us/startups/overview>`_"
+
+#: ../../entities/ms-startups.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/ms-startups.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/ms-startups.rst:28
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/ms-startups.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/ms-startups.rst:33
+msgid ""
+"Check incorporation, company age, account region and existing benefits."
+msgstr "核验注册、企业年限、账户地区及已有权益。"
+
+#: ../../entities/ms-startups.rst:35
+msgid "Apply through the official program form or qualifying partner route."
+msgstr "通过官方表格或合资格合作方路径申请。"
+
+#: ../../entities/ms-startups.rst:37
+msgid ""
+"Confirm covered services, expiry, fees, usage limits and overage billing."
+msgstr "确认支持服务、到期、费用、用量限制及超额计费。"
+
+#: ../../entities/ms-startups.rst:39
+msgid "Keep usage records and do not describe credits as unrestricted cash."
+msgstr "保留使用记录，不把积分视为自由现金。"
+
+#: ../../entities/ms-startups.rst:41
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`全市／全球对接路径 </funding>`"

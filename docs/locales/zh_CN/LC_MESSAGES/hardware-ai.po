@@ -1,0 +1,106 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../hardware-ai.rst:1
+msgid "Intelligence in the physical world"
+msgstr "物理世界中的智能"
+
+#: ../../hardware-ai.rst:4
+msgid ""
+"Hardware joins algorithms to materials, manufacturing tolerances, "
+"reliability and service. A beautiful prototype is the beginning of a "
+"supply chain. We follow chips, sensors, robots and autonomous systems "
+"through the facilities they need."
+msgstr "硬件把算法与材料、制造公差、可靠性及服务连接起来。漂亮的样机只是供应链的起点。我们按所需设施梳理芯片、传感器、机器人及自主系统。"
+
+#: ../../hardware-ai.rst:7
+msgid "Engineering gates from research to repeatable production."
+msgstr "从科研到可重复生产的工程关口。"
+
+#: ../../hardware-ai.rst:10
+msgid "Chips and sensing"
+msgstr "芯片与传感"
+
+#: ../../hardware-ai.rst:13
+msgid ""
+"For an AI chip project, prepare the architecture, workload, process "
+"choice, toolchain, IP dependencies and software support plan. Separate "
+"EDA access, licensed IP, multi-project wafer participation, full mask "
+"sets, packaging, testing and characterization. A shared lab or incubator "
+"does not automatically pay for a tape-out."
+msgstr "人工智能芯片项目应准备架构、工作负载、工艺选择、工具链、IP依赖及软件支持计划。分别核对EDA、授权IP、多项目晶圆、全掩模、封装、测试及表征。共享实验室或孵化器不自动承担流片费用。"
+
+#: ../../hardware-ai.rst:15
+msgid ""
+"Zhangjiang IC Design Industrial Park and the IC promotion center are "
+"initial service routes. In Jiading, the documented SITRI and InnoSpring "
+"relationship is relevant to beyond-Moore devices, sensors and pilot "
+"production. We ask for equipment, process capability, queue time, sample "
+"ownership and a written quotation."
+msgstr "张江集成电路设计产业园及集成电路促进中心可作为服务入口。嘉定工研院与新微创源的联动适合超越摩尔器件、传感器及中试。我们应索取设备、工艺能力、排期、样品权属及书面报价。"
+
+#: ../../hardware-ai.rst:17
+msgid "Robots and embodied AI"
+msgstr "机器人与具身智能"
+
+#: ../../hardware-ai.rst:20
+msgid ""
+"Separate the robot foundation model, perception, planning, control and "
+"safety architecture from motors, transmissions, tactile sensing, "
+"batteries and the mechanical platform. Test the complete system against a "
+"named use case. Demonstrations should state payload, cycle time, failure "
+"conditions, human intervention and maintenance cost."
+msgstr "将机器人大模型、感知、规划、控制及安全架构与电机、传动、触觉、电池及机械平台分别分析，并在具体场景验证整机。演示应说明载荷、节拍、失效条件、人工介入及维护成本。"
+
+#: ../../hardware-ai.rst:22
+msgid ""
+"Compare Minhang's research-to-manufacturing connection, Baoshan's robot "
+"industry, Wuning's testing services and Zhangjiang's robotics ecosystem. "
+"Corporate programs can provide a deployment conversation. They do not "
+"replace production qualification, applicable certification or a customer "
+"acceptance plan."
+msgstr "可比较闵行研发制造衔接、宝山机器人产业、武宁检测服务及张江机器人生态。企业计划可以打开应用对话，但不能替代生产资质、适用认证或客户验收方案。"
+
+#: ../../hardware-ai.rst:24
+msgid "Other physical frontiers"
+msgstr "其他物理前沿"
+
+#: ../../hardware-ai.rst:27
+msgid ""
+"For drones, begin with a real operating scenario and ask Jinshan's UAV "
+"route about test services and applicable operating permissions. For "
+"brain-computer interfaces and medical devices, separate exploratory "
+"research from regulated product development. For AI-enabled biology, "
+"confirm biosafety, instrument availability, sample handling and clinical "
+"access before renting a lab."
+msgstr "无人机应从真实运行场景出发，经金山无人机渠道确认测试及适用运行许可。脑机接口与医疗器械应区分探索研究与受监管产品开发。人工智能生物研发在租实验室前须确认生物安全、仪器、样本及临床资源。"
+
+#: ../../hardware-ai.rst:29
+msgid ""
+"Our hardware application pack adds a bill of materials, costed "
+"engineering milestones, manufacturing partner plan, test fixtures, "
+"reliability plan and a working demonstration. We identify what the "
+"incubator can actually supply and what the team must buy elsewhere."
+msgstr "硬件申请材料应增加物料清单、有成本的工程里程碑、制造合作计划、测试夹具、可靠性计划及可运行演示，明确孵化器实际提供内容与团队另行采购内容。"
+
+#: ../../hardware-ai.rst:31
+msgid ""
+"`Evidence S006 "
+"<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "
+"市科委、嘉定区联合调研高质量孵化器建设工作."
+msgstr "`证据 S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."

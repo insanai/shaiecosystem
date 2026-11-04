@@ -1,0 +1,37 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding.rst:1
+msgid "Funding, without mixing the mechanisms"
+msgstr "资金路径：分清不同机制"
+
+#: ../../funding.rst:4
+
+#| msgid ""
+#| "23 researched routes. We distinguish equity-free support from "
+#| "repayable debt, credits and investment. No item is labelled open "
+#| "merely because its policy or web page exists."
+msgid ""
+"38 researched routes. We distinguish equity-free support from repayable "
+"debt, credits and investment. No item is labelled open merely because its "
+"policy or web page exists."
+msgstr "38条研究路径，区分不占股支持、须偿还债务、积分及投资。不会仅因政策或网页存在便标记正在开放。"
+
+#: ../../funding.rst:6
+msgid ":doc:`Read the funding guide first <funding-guide>`"
+msgstr ":doc:`先阅读资金指南 <funding-guide>`"

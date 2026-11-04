@@ -1,0 +1,118 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/songjiang-innovation.rst:1
+msgid "Songjiang technology-enterprise innovation and matching support"
+msgstr "松江科技企业创新与配套支持"
+
+#: ../../funding/songjiang-innovation.rst:4
+msgid "Grant | Songjiang"
+msgstr "补助｜松江区"
+
+#: ../../funding/songjiang-innovation.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "政策有效，未确认正在申报"
+
+#: ../../funding/songjiang-innovation.rst:8
+msgid ""
+"`Evidence S087 "
+"<https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. "
+"关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
+msgstr "`证据 S087 <https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. 关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
+
+#: ../../funding/songjiang-innovation.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/songjiang-innovation.rst:13
+msgid ""
+"District innovation project up to RMB 100,000; approved municipal "
+"innovation projects matched 1:1 under the policy"
+msgstr "区级创新资金每项最高10万元，市级创新资金立项按政策1:1配套"
+
+#: ../../funding/songjiang-innovation.rst:15
+msgid "No equity"
+msgstr "不占股"
+
+#: ../../funding/songjiang-innovation.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/songjiang-innovation.rst:20
+msgid ""
+"Qualifying technology enterprises under the 2026-2027 measures and "
+"implementing rules. Different recognition, commercialization and voucher "
+"provisions must be checked separately."
+msgstr "符合2026至2027年措施及实施细则的科技企业；认定、成果转化及创新券条款须分别核验。"
+
+#: ../../funding/songjiang-innovation.rst:22
+msgid ""
+"Policy: 1 January 2026 to 31 December 2027; confirm the applicable call"
+msgstr "政策有效期2026年1月1日至2027年12月31日，须核验相应申报"
+
+#: ../../funding/songjiang-innovation.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/songjiang-innovation.rst:27
+msgid ""
+"`Official application / policy route <https://www.songjiang.gov.cn/>`_"
+msgstr "`官方申请／政策入口 <https://www.songjiang.gov.cn/>`_"
+
+#: ../../funding/songjiang-innovation.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/songjiang-innovation.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/songjiang-innovation.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../funding/songjiang-innovation.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../funding/songjiang-innovation.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../funding/songjiang-innovation.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../funding/songjiang-innovation.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

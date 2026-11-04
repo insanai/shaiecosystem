@@ -1,0 +1,115 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/minhang-rd.rst:1
+msgid "Minhang core technology R&D projects"
+msgstr "闵行关键核心技术攻关"
+
+#: ../../funding/minhang-rd.rst:4
+msgid "Grant | Minhang"
+msgstr "补助｜闵行区"
+
+#: ../../funding/minhang-rd.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "政策有效，未确认正在申报"
+
+#: ../../funding/minhang-rd.rst:8
+msgid ""
+"`Evidence S065 "
+"<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
+"Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`证据 S065 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+
+#: ../../funding/minhang-rd.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/minhang-rd.rst:13
+msgid ""
+"General: up to RMB 3m at up to 30% of R&D; major: up to RMB 10m at up to "
+"50%"
+msgstr "一般项目按研发投入最高30%、最高300万元；重大项目按最高50%、最高1000万元"
+
+#: ../../funding/minhang-rd.rst:15
+msgid "No equity"
+msgstr "不占股"
+
+#: ../../funding/minhang-rd.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/minhang-rd.rst:20
+msgid ""
+"Project classification and investment thresholds apply. This is selective "
+"R&D support, not a general startup incorporation bonus."
+msgstr "适用项目分类与投资门槛，为择优研发支持，不是普遍适用的企业开办奖励。"
+
+#: ../../funding/minhang-rd.rst:22
+msgid "Policy through 31 Aug 2030"
+msgstr "政策有效期至2030年8月31日"
+
+#: ../../funding/minhang-rd.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/minhang-rd.rst:27
+msgid "`Official application / policy route <https://www.shmh.gov.cn/>`_"
+msgstr "`官方申请／政策入口 <https://www.shmh.gov.cn/>`_"
+
+#: ../../funding/minhang-rd.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/minhang-rd.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/minhang-rd.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../funding/minhang-rd.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../funding/minhang-rd.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../funding/minhang-rd.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../funding/minhang-rd.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

@@ -1,0 +1,132 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../apply.rst:1
+msgid "From introduction to application"
+msgstr "从初次对接到正式申请"
+
+#: ../../apply.rst:4
+msgid ""
+"A useful application starts with a fit check and ends with an evidence "
+"trail. We keep one company data room, then adapt it to an incubation "
+"review, a public funding call, a corporate pilot or an investment process."
+msgstr "有效申请始于匹配核验，终于证据记录。我们维护统一企业资料库，再按孵化、公资申报、企业试点或投资流程调整。"
+
+#: ../../apply.rst:7
+msgid ""
+"A clear application separates eligibility, evidence and the decision."
+msgstr "清晰的申请区分资格、证据与决策。"
+
+#: ../../apply.rst:10
+msgid "The first conversation"
+msgstr "第一次沟通"
+
+#: ../../apply.rst:13
+msgid ""
+"We send a one-page introduction in English and Simplified Chinese: "
+"company and team, customer problem, product, evidence, current stage, "
+"Shanghai presence and the exact resource requested. We ask for the named "
+"receiving team and written current terms. A first message should be small "
+"enough to forward to the right person."
+msgstr "发送中英双语一页简介，包含企业团队、客户问题、产品、证据、阶段、上海情况及具体资源需求，并索取明确受理团队与现行书面条款。首封信息应简洁，便于转交合适人员。"
+
+#: ../../apply.rst:15
+msgid ""
+"Suggested subject: Shanghai ecosystem inquiry / project name / "
+"incubation, pilot or funding. Suggested request: We are developing "
+"[product] for [customer]. Our evidence is [metric or prototype]. We seek "
+"[specific resource] during [period]. Please confirm eligibility, intake "
+"dates, the application checklist, fees or equity terms, and the "
+"responsible contact."
+msgstr "建议主题：上海生态对接／项目名称／孵化、试点或融资。建议正文：我们正在为【客户】开发【产品】，目前证据为【指标或样机】，计划于【期间】申请【具体资源】。请确认资格、受理日期、材料清单、收费或股权条件及负责联系人。"
+
+#: ../../apply.rst:17
+msgid "The shared data room"
+msgstr "共用资料库"
+
+#: ../../apply.rst:20
+msgid ""
+"Company: business licence, unified social credit code, articles, cap "
+"table, beneficial ownership, bank details, registered and operating "
+"addresses, prior public awards and related-party list. Team: founder "
+"roles, full-time commitment, relevant education, eligibility evidence and "
+"lawful work status where required."
+msgstr "企业：营业执照、统一社会信用代码、章程、股权表、实际受益人、银行信息、注册及经营地址、已获财政支持与关联方名单。团队：创始人职责、全职投入、相关学历、资格证据及必要工作身份。"
+
+#: ../../apply.rst:22
+msgid ""
+"Technology: product note, demo, evaluation, IP ownership and licences, "
+"patent and software records, data rights, security controls and sector "
+"approvals where applicable. Commercial: pilot evidence, customer "
+"references, pricing, procurement path and unit economics. Finance: "
+"management accounts, annual audit where required, R&D ledger, contracts, "
+"invoices and payment evidence."
+msgstr "技术：产品说明、演示、评测、知识产权及授权、专利软件记录、数据权利、安全控制及适用行业许可。商业：试点证据、客户证明、定价、采购路径与单位经济性。财务：管理报表、必要年审、研发台账、合同、发票及付款凭证。"
+
+#: ../../apply.rst:24
+msgid "Four different decisions"
+msgstr "四种不同决策"
+
+#: ../../apply.rst:27
+msgid ""
+"Incubation: fit inquiry, application pack, technical or commercial "
+"review, written service and space terms, admission and onboarding. "
+"Confirm workspace rent, service fee, compute price, access restrictions, "
+"IP and any investment rights before signing."
+msgstr "孵化：匹配咨询、申请材料、技术或商业评审、书面服务及空间条款、录取及入驻。签约前确认租金、服务费、算力价、访问限制、知识产权及任何投资权利。"
+
+#: ../../apply.rst:29
+msgid ""
+"Public grant or reimbursement: current notice, eligibility check, "
+"platform account, legal-entity authorization, evidence submission, "
+"district or host review, expert review, award or contract, reporting, "
+"acceptance and payment. This sequence is a general guide; the linked "
+"notice governs the actual workflow."
+msgstr "财政资助或报销：现行通知、资格核验、平台账户、法人授权、证据提交、区级或单位审核、专家评审、立项或签约、报告、验收及拨付。这是一般流程，具体以所链通知为准。"
+
+#: ../../apply.rst:31
+msgid ""
+"Corporate pilot: business owner, problem definition, data and IP "
+"agreement, scoped pilot, procurement and legal review, acceptance, "
+"production decision. Investment: manager fit, deck, meeting, diligence, "
+"term sheet, investment committee, definitive agreements and closing. "
+"Neither begins with a guaranteed outcome."
+msgstr "企业试点：业务负责人、问题定义、数据及知识产权协议、限定试点、采购及法务审核、验收、转生产决策。投资：管理人匹配、材料、会议、尽调、条款书、投委会、正式协议及交割。两者均不保证结果。"
+
+#: ../../apply.rst:33
+msgid "An accelerator's four-week field program"
+msgstr "加速器四周实地计划"
+
+#: ../../apply.rst:36
+msgid ""
+"Week 1: shortlist two districts, one research partner and two operators "
+"using sector fit and written eligibility. Week 2: meet the operator and a "
+"plausible buyer; inspect facilities. Week 3: define one pilot and a "
+"costed evidence plan. Week 4: submit the relevant application or "
+"investment pack and record the next decision date. This is an editorial "
+"planning model, not an official service promise."
+msgstr "第一周：按行业匹配与书面资格筛选两个区、一家科研伙伴及两家运营方。第二周：会见运营方与潜在客户，实地查看设施。第三周：明确一个试点及有成本的证据计划。第四周：提交相应申请或投资材料并记录下一决策日。本安排为编辑规划模型，不是官方服务时限。"
+
+#: ../../apply.rst:38
+msgid ""
+"We maintain an application ledger with owner, authority, policy version, "
+"evidence period, deadline in China Standard Time, submission receipt, "
+"duplicate-funding exclusions, reporting duty and next action. A calendar "
+"alert is useful only after the correct deadline and timezone have been "
+"confirmed."
+msgstr "申请台账应记录负责人、主管部门、政策版本、证据期间、中国标准时间截止日、提交回执、重复资助限制、报告义务及下一行动。日历提醒应在确认日期与时区后设置。"

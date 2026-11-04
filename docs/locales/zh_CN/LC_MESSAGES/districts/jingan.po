@@ -1,0 +1,119 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/jingan.rst:1
+msgid "Jing'an"
+msgstr "静安区"
+
+#: ../../districts/jingan.rst:4
+msgid "Enterprise AI, data services and digital commerce"
+msgstr "企业人工智能、数据服务与数字商业"
+
+#: ../../districts/jingan.rst:6
+msgid ""
+"The 2026-2028 AI application demonstration plan focuses on industry "
+"integration and talent. Its stated objectives must be distinguished from "
+"implementing rules and currently accepting applications."
+msgstr "2026至2028年人工智能创新应用示范区方案聚焦产业融合与人才。规划目标应与实施细则及正在受理的申报事项区分。"
+
+#: ../../districts/jingan.rst:8
+msgid ""
+"`Evidence S067 "
+"<https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. "
+"静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+msgstr "`证据 S067 <https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. 静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+
+#: ../../districts/jingan.rst:10
+msgid "Who receives the inquiry"
+msgstr "咨询受理"
+
+#: ../../districts/jingan.rst:13
+msgid "Jing'an science and economy authority"
+msgstr "静安区科技和经济委员会"
+
+#: ../../districts/jingan.rst:15
+msgid "`Official district website <https://www.jingan.gov.cn/>`_"
+msgstr "`区政府官网 <https://www.jingan.gov.cn/>`_"
+
+#: ../../districts/jingan.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "本记录未核实现行项目直线电话或邮箱。请通过官网索取具体受理团队。"
+
+#: ../../districts/jingan.rst:19
+msgid "Before applying"
+msgstr "申请之前"
+
+#: ../../districts/jingan.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../districts/jingan.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../districts/jingan.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../districts/jingan.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../districts/jingan.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../districts/jingan.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。"
+
+#: ../../districts/jingan.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本图谱中的本区机构"
+
+#: ../../districts/jingan.rst:37
+msgid ":doc:`Shanghai Theatre Academy </entities/university-theatre>`"
+msgstr ":doc:`上海戏剧学院 </entities/university-theatre>`"
+
+#: ../../districts/jingan.rst:38
+msgid ":doc:`Shanghai University </entities/university-shu>`"
+msgstr ":doc:`上海大学 </entities/university-shu>`"
+
+#: ../../districts/jingan.rst:40
+msgid "Funding routes"
+msgstr "资金路径"
+
+#: ../../districts/jingan.rst:44
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`同时比较全市资金路径 </funding>`"

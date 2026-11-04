@@ -24,13 +24,16 @@ html_copy_source = false
 numfig = true
 pdf_paper_size = "a4"
 pdf_logo = "_static/atlas/shanghai-ink-cover.png"
-pdf_packages = "offline"
+pdf_packages = "download"
 pdf_fonts = "system"
 pdf_show_urls = "no"
 
 [html_theme_options]
 accent = "#315b50"
 default_mode = "light"
+
+[html_context]
+assembled_site = false
 
 [[pdf_documents]]
 root = "index"

@@ -1,0 +1,283 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/pudong.rst:1
+msgid "Pudong"
+msgstr "浦东新区"
+
+#: ../../districts/pudong.rst:4
+msgid "Foundation models, chips, biomedicine and advanced manufacturing"
+msgstr "大模型、芯片、生物医药与先进制造"
+
+#: ../../districts/pudong.rst:6
+msgid ""
+"2026 AI application call closed on 31 August 2026. The published route "
+"covers qualifying 2025 model and agent expenditure; duplicate public "
+"funding is excluded."
+msgstr "2026年人工智能应用项目申报已于2026年8月31日截止。该通知面向符合条件的2025年模型与智能体支出，已获其他财政资金资助的项目不得重复申报。"
+
+#: ../../districts/pudong.rst:8
+msgid ""
+"`Evidence S063 "
+"<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
+"关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`证据 S063 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+
+#: ../../districts/pudong.rst:10
+msgid "Who receives the inquiry"
+msgstr "咨询受理"
+
+#: ../../districts/pudong.rst:13
+msgid "Pudong Science, Technology and Economy Commission"
+msgstr "浦东新区科技和经济委员会"
+
+#: ../../districts/pudong.rst:15
+msgid "`Official district website <https://www.pudong.gov.cn/>`_"
+msgstr "`区政府官网 <https://www.pudong.gov.cn/>`_"
+
+#: ../../districts/pudong.rst:17
+msgid "Published contact: +86 21 68811090."
+msgstr "已公布联系电话：+86 21 68811090。"
+
+#: ../../districts/pudong.rst:19
+msgid "Before applying"
+msgstr "申请之前"
+
+#: ../../districts/pudong.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../districts/pudong.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../districts/pudong.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../districts/pudong.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../districts/pudong.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../districts/pudong.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。"
+
+#: ../../districts/pudong.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本图谱中的本区机构"
+
+#: ../../districts/pudong.rst:37
+msgid ":doc:`Zhangjiang Model Community </entities/model-community>`"
+msgstr ":doc:`张江模力社区 </entities/model-community>`"
+
+#: ../../districts/pudong.rst:38
+msgid ":doc:`Zhangjiang Hi-Tech 895 Incubator </entities/895>`"
+msgstr ":doc:`张江高科895孵化器 </entities/895>`"
+
+#: ../../districts/pudong.rst:39
+msgid ":doc:`ATLATL Zhangjiang Center </entities/atlatl>`"
+msgstr ":doc:`ATLATL飞镖张江中心 </entities/atlatl>`"
+
+#: ../../districts/pudong.rst:40
+msgid ":doc:`Nest.Bio Shanghai Innovation Platform </entities/nestbio>`"
+msgstr ":doc:`巢生上海创新孵化平台 </entities/nestbio>`"
+
+#: ../../districts/pudong.rst:41
+msgid ":doc:`XNode </entities/xnode>`"
+msgstr ":doc:`创极无限XNode </entities/xnode>`"
+
+#: ../../districts/pudong.rst:42
+msgid ":doc:`Plug and Play China, Shanghai </entities/plugplay>`"
+msgstr ":doc:`璞跃中国上海中心 </entities/plugplay>`"
+
+#: ../../districts/pudong.rst:43
+msgid ":doc:`PwC x Zhangjiang Healthcare Accelerator </entities/pwc>`"
+msgstr ":doc:`普华永道张江数字医疗加速营 </entities/pwc>`"
+
+#: ../../districts/pudong.rst:44
+msgid ":doc:`Lin-gang Science and Innovation City </entities/lin-gang>`"
+msgstr ":doc:`临港科创城 </entities/lin-gang>`"
+
+#: ../../districts/pudong.rst:45
+msgid ":doc:`Shanghai IC Design Industrial Park </entities/ic-design>`"
+msgstr ":doc:`上海集成电路设计产业园 </entities/ic-design>`"
+
+#: ../../districts/pudong.rst:46
+msgid ""
+":doc:`Shanghai Integrated Circuit Technology and Industry Promotion "
+"Center </entities/icc>`"
+msgstr ":doc:`上海集成电路技术与产业促进中心 </entities/icc>`"
+
+#: ../../districts/pudong.rst:47
+msgid ""
+":doc:`Tongji Autonomous Intelligent Unmanned Systems Center "
+"</entities/tongji-autonomy>`"
+msgstr ":doc:`同济大学上海自主智能无人系统科学中心 </entities/tongji-autonomy>`"
+
+#: ../../districts/pudong.rst:48
+msgid ":doc:`Roche Accelerator </entities/roche>`"
+msgstr ":doc:`罗氏加速器 </entities/roche>`"
+
+#: ../../districts/pudong.rst:49
+msgid ":doc:`SAP.iO Foundry Shanghai </entities/sapio>`"
+msgstr ":doc:`SAP.iO上海加速器 </entities/sapio>`"
+
+#: ../../districts/pudong.rst:50
+msgid ":doc:`ABB open innovation / Shanghai robotics </entities/abb>`"
+msgstr ":doc:`ABB开放创新／上海机器人生态 </entities/abb>`"
+
+#: ../../districts/pudong.rst:51
+msgid ":doc:`DroidUp Ecosystem Accelerator </entities/droidup>`"
+msgstr ":doc:`卓益得生态加速器 </entities/droidup>`"
+
+#: ../../districts/pudong.rst:52
+msgid ""
+":doc:`Shanghai AI Public Technology Service Platform </entities/paddle>`"
+msgstr ":doc:`上海人工智能公共技术服务平台 </entities/paddle>`"
+
+#: ../../districts/pudong.rst:53
+msgid ":doc:`Pudong AI Seed Fund </entities/pudong-seed>`"
+msgstr ":doc:`浦东人工智能种子基金 </entities/pudong-seed>`"
+
+#: ../../districts/pudong.rst:54
+msgid ":doc:`Shanghai Embodied AI Fund </entities/embodied-fund>`"
+msgstr ":doc:`上海具身智能基金 </entities/embodied-fund>`"
+
+#: ../../districts/pudong.rst:55
+msgid ":doc:`Qiming Venture Partners </entities/qiming>`"
+msgstr ":doc:`启明创投 </entities/qiming>`"
+
+#: ../../districts/pudong.rst:56
+msgid ":doc:`JLABS Shanghai </entities/jlabs>`"
+msgstr ":doc:`强生创新JLABS上海 </entities/jlabs>`"
+
+#: ../../districts/pudong.rst:57
+msgid ":doc:`Bayer Co.Lab Shanghai </entities/bayer>`"
+msgstr ":doc:`拜耳Co.Lab上海 </entities/bayer>`"
+
+#: ../../districts/pudong.rst:58
+msgid ":doc:`Shanghai Maritime University </entities/university-maritime>`"
+msgstr ":doc:`上海海事大学 </entities/university-maritime>`"
+
+#: ../../districts/pudong.rst:59
+msgid ""
+":doc:`Shanghai University of Electric Power "
+"</entities/university-electric-power>`"
+msgstr ":doc:`上海电力大学 </entities/university-electric-power>`"
+
+#: ../../districts/pudong.rst:60
+msgid ""
+":doc:`Shanghai University of Medicine and Health Sciences "
+"</entities/university-sumhs>`"
+msgstr ":doc:`上海健康医学院 </entities/university-sumhs>`"
+
+#: ../../districts/pudong.rst:61
+msgid ":doc:`Shanghai Ocean University </entities/university-ocean>`"
+msgstr ":doc:`上海海洋大学 </entities/university-ocean>`"
+
+#: ../../districts/pudong.rst:62
+msgid ""
+":doc:`Shanghai University of Traditional Chinese Medicine "
+"</entities/university-tcm>`"
+msgstr ":doc:`上海中医药大学 </entities/university-tcm>`"
+
+#: ../../districts/pudong.rst:63
+msgid ":doc:`Shanghai Customs University </entities/university-customs>`"
+msgstr ":doc:`上海海关学院 </entities/university-customs>`"
+
+#: ../../districts/pudong.rst:64
+msgid ":doc:`Shanghai Police College </entities/university-police>`"
+msgstr ":doc:`上海公安学院 </entities/university-police>`"
+
+#: ../../districts/pudong.rst:65
+msgid ""
+":doc:`Shanghai Lixin University of Accounting and Finance "
+"</entities/university-lixin>`"
+msgstr ":doc:`上海立信会计金融学院 </entities/university-lixin>`"
+
+#: ../../districts/pudong.rst:66
+msgid ":doc:`Shanghai DianJi University </entities/university-dianji>`"
+msgstr ":doc:`上海电机学院 </entities/university-dianji>`"
+
+#: ../../districts/pudong.rst:67
+msgid ":doc:`Sanda University </entities/university-sanda>`"
+msgstr ":doc:`上海杉达学院 </entities/university-sanda>`"
+
+#: ../../districts/pudong.rst:68
+msgid ""
+":doc:`Shanghai Polytechnic University </entities/university-polytechnic>`"
+msgstr ":doc:`上海第二工业大学 </entities/university-polytechnic>`"
+
+#: ../../districts/pudong.rst:69
+msgid ":doc:`Shanghai Jian Qiao University </entities/university-jianqiao>`"
+msgstr ":doc:`上海建桥学院 </entities/university-jianqiao>`"
+
+#: ../../districts/pudong.rst:70
+msgid ":doc:`Shanghai Xing Wei College </entities/university-xingwei>`"
+msgstr ":doc:`上海兴伟学院 </entities/university-xingwei>`"
+
+#: ../../districts/pudong.rst:71
+msgid ":doc:`ShanghaiTech University </entities/university-shanghaitech>`"
+msgstr ":doc:`上海科技大学 </entities/university-shanghaitech>`"
+
+#: ../../districts/pudong.rst:72
+msgid ":doc:`NYU Shanghai </entities/university-nyu>`"
+msgstr ":doc:`上海纽约大学 </entities/university-nyu>`"
+
+#: ../../districts/pudong.rst:74
+msgid "Funding routes"
+msgstr "资金路径"
+
+#: ../../districts/pudong.rst:77
+msgid ""
+":doc:`Pudong AI model and agent application support, 2026 "
+"</funding/pudong-model>`"
+msgstr ":doc:`浦东2026年大模型等AI新技术应用项目 </funding/pudong-model>`"
+
+#: ../../districts/pudong.rst:78
+msgid ":doc:`Pudong AI Seed Fund </funding/pudong-equity>`"
+msgstr ":doc:`浦东人工智能种子基金 </funding/pudong-equity>`"
+
+#: ../../districts/pudong.rst:79
+msgid ""
+":doc:`Zhangjiang AI Town compute, model and corpus support "
+"</funding/zhangjiang-ai-vouchers>`"
+msgstr ":doc:`张江AI创新小镇算力券、模型券、语料券 </funding/zhangjiang-ai-vouchers>`"
+
+#: ../../districts/pudong.rst:81
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`同时比较全市资金路径 </funding>`"

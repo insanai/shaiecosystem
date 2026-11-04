@@ -1,0 +1,41 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../universities.rst:1
+msgid "Universities and commercialization"
+msgstr "高校与成果转化"
+
+#: ../../universities.rst:4
+msgid ""
+"40 profiles with evidence, contact routes and an application checklist. "
+"Published existence is distinguished from current intake."
+msgstr "40份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。"
+
+#: ../../universities.rst:6
+msgid ""
+"All 40 undergraduate institutions in the official Shanghai register have "
+"an institutional profile here. Some have documented science-park or "
+"technology-transfer contacts; others have a general institutional route. "
+"A profile does not assert that a dedicated startup program is open."
+msgstr "官方上海名录中的40所本科院校均有机构档案。部分有科技园或技术转移联系渠道，其他仅有机构对接入口。档案不代表专属创业项目正在开放。"
+
+#: ../../universities.rst:8
+msgid ""
+":doc:`Full higher-education register, including diploma and adult "
+"institutions <university-register>`"
+msgstr ":doc:`含专科与成人高校的完整名录 <university-register>`"

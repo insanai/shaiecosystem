@@ -1,0 +1,134 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/changning.rst:1
+msgid "Changning"
+msgstr "长宁区"
+
+#: ../../districts/changning.rst:4
+msgid "Digital business, AI applications and cross-border services"
+msgstr "数字商业、人工智能应用与跨境服务"
+
+#: ../../districts/changning.rst:6
+msgid ""
+"The August 2026 district account identifies Digital Silicon Alley, "
+"Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
+"MAKE021 as parts of its incubation landscape. Confirm the correct "
+"operator before submitting."
+msgstr "2026年8月区级报道列出数字硅巷、虹桥智域、东虹桥国际青年科创中心与马克沪MAKE021等孵化载体。申请前应确认具体运营主体。"
+
+#: ../../districts/changning.rst:8
+msgid ""
+"`Evidence S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. "
+"上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+msgstr "`证据 S015 <https://www.shcn.gov.cn/col3991/20260818/1316910.html>`_. 上海市长宁区人民政府-区情-从“数字大区”迈向“数智强区”，长宁如何走好攀峰之路."
+
+#: ../../districts/changning.rst:10
+msgid "Who receives the inquiry"
+msgstr "咨询受理"
+
+#: ../../districts/changning.rst:13
+msgid "Changning science and technology authority"
+msgstr "长宁区科技主管部门"
+
+#: ../../districts/changning.rst:15
+msgid "`Official district website <https://www.shcn.gov.cn/>`_"
+msgstr "`区政府官网 <https://www.shcn.gov.cn/>`_"
+
+#: ../../districts/changning.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "本记录未核实现行项目直线电话或邮箱。请通过官网索取具体受理团队。"
+
+#: ../../districts/changning.rst:19
+msgid "Before applying"
+msgstr "申请之前"
+
+#: ../../districts/changning.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../districts/changning.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../districts/changning.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../districts/changning.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../districts/changning.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../districts/changning.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。"
+
+#: ../../districts/changning.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本图谱中的本区机构"
+
+#: ../../districts/changning.rst:37
+msgid ""
+":doc:`Digital Silicon Alley / Hongqiao innovation carriers "
+"</entities/digital-silicon>`"
+msgstr ":doc:`数字硅巷／虹桥创新载体 </entities/digital-silicon>`"
+
+#: ../../districts/changning.rst:38
+msgid ""
+":doc:`East Hongqiao International Youth Innovation Center "
+"</entities/east-hongqiao>`"
+msgstr ":doc:`东虹桥国际青年科创中心 </entities/east-hongqiao>`"
+
+#: ../../districts/changning.rst:40
+msgid "Funding routes"
+msgstr "资金路径"
+
+#: ../../districts/changning.rst:43
+msgid ""
+":doc:`Changning AI Industry Projects, 2026 </funding/changning-ai-2026>`"
+msgstr ":doc:`2026长宁人工智能产业项目 </funding/changning-ai-2026>`"
+
+#: ../../districts/changning.rst:44
+msgid ""
+":doc:`Changning Technology Star Teams, 2026 "
+"</funding/changning-tech-star>`"
+msgstr ":doc:`2026长宁科技之星团队 </funding/changning-tech-star>`"
+
+#: ../../districts/changning.rst:46
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`同时比较全市资金路径 </funding>`"

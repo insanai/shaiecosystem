@@ -1,0 +1,108 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/city-equity.rst:1
+msgid "Leading-industry and specialist AI funds"
+msgstr "先导产业与人工智能专项基金"
+
+#: ../../funding/city-equity.rst:4
+msgid "Equity investment | Citywide / global"
+msgstr "股权投资｜全市／全球"
+
+#: ../../funding/city-equity.rst:6
+msgid "Published investment platform; deal review"
+msgstr "投资平台已公布，须项目审核"
+
+#: ../../funding/city-equity.rst:8
+msgid "`Evidence S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+msgstr "`证据 S044 <https://www.ssci-leadingfund.com/>`_. 上海国投先导."
+
+#: ../../funding/city-equity.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/city-equity.rst:13
+msgid "Vehicle-specific investment; fund size is not startup funding"
+msgstr "依具体基金投资，基金规模不等于企业获资额"
+
+#: ../../funding/city-equity.rst:15
+msgid "Negotiated equity"
+msgstr "协商股权"
+
+#: ../../funding/city-equity.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/city-equity.rst:20
+msgid ""
+"AI, chip, healthcare and other mandate-compatible companies. Identify the "
+"direct-investment or subfund manager and review stage, domicile, return "
+"and ownership terms."
+msgstr "符合人工智能、芯片、医疗等投资范围的企业；确认直投或子基金管理人及阶段、属地、收益与持股条款。"
+
+#: ../../funding/city-equity.rst:22
+msgid "Investment committee process; no guaranteed award"
+msgstr "经投委会程序，不保证获资"
+
+#: ../../funding/city-equity.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/city-equity.rst:27
+msgid ""
+"`Official application / policy route <https://www.ssci-leadingfund.com/>`_"
+msgstr "`官方申请／政策入口 <https://www.ssci-leadingfund.com/>`_"
+
+#: ../../funding/city-equity.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/city-equity.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/city-equity.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "确认管理人、行业、阶段及主体匹配。"
+
+#: ../../funding/city-equity.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+
+#: ../../funding/city-equity.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "完成商业、财务、技术及法律尽职调查。"
+
+#: ../../funding/city-equity.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "审核条款书、投委会条件及正式协议。"
+
+#: ../../funding/city-equity.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

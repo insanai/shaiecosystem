@@ -1,0 +1,112 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/startup-competition.rst:1
+msgid "Startup in Shanghai International Competition, 2026"
+msgstr "2026创在上海国际创新创业大赛"
+
+#: ../../funding/startup-competition.rst:4
+msgid "Competition | Citywide / global"
+msgstr "比赛｜全市／全球"
+
+#: ../../funding/startup-competition.rst:6
+msgid "2026 call published; deadline check required"
+msgstr "2026通知已公布，须核验截止日"
+
+#: ../../funding/startup-competition.rst:8
+msgid ""
+"`Evidence S075 "
+"<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
+"2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
+msgstr "`证据 S075 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
+
+#: ../../funding/startup-competition.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/startup-competition.rst:13
+msgid "Awards and connected investment depend on track; not guaranteed"
+msgstr "奖励及对接投资依赛道确定，不保证获得"
+
+#: ../../funding/startup-competition.rst:15
+msgid "Award / investment terms vary"
+msgstr "奖励与投资条款各异"
+
+#: ../../funding/startup-competition.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/startup-competition.rst:20
+msgid ""
+"Domestic and overseas teams and companies under the official track rules. "
+"Competition admission, innovation funding and investor interest are "
+"separate outcomes."
+msgstr "依官方赛道规则面向境内外团队与企业；参赛、创新资金及投资意向为不同结果。"
+
+#: ../../funding/startup-competition.rst:22
+msgid "Check the specific 2026 track; not labelled open"
+msgstr "核验2026年具体赛道，不标记正在开放"
+
+#: ../../funding/startup-competition.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/startup-competition.rst:27
+msgid ""
+"`Official application / policy route <https://www.startup-sh.cn/cyds>`_"
+msgstr "`官方申请／政策入口 <https://www.startup-sh.cn/cyds>`_"
+
+#: ../../funding/startup-competition.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/startup-competition.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/startup-competition.rst:33
+msgid "Choose the correct competition track, region and applicant category."
+msgstr "选择正确赛道、地区及申请类别。"
+
+#: ../../funding/startup-competition.rst:35
+msgid ""
+"Read the rules and submit the required project, team and IP evidence."
+msgstr "阅读规则，提交所需项目、团队及知识产权证据。"
+
+#: ../../funding/startup-competition.rst:37
+msgid ""
+"Complete selection or pitching; confirm prize and service conditions in "
+"writing."
+msgstr "完成选拔或路演，书面确认奖励及服务条件。"
+
+#: ../../funding/startup-competition.rst:39
+msgid ""
+"Treat investor introductions and district funding as separate follow-up "
+"decisions."
+msgstr "将投资对接及区级资助视为后续独立决策。"
+
+#: ../../funding/startup-competition.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

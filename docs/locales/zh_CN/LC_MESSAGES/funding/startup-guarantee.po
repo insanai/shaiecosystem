@@ -1,0 +1,119 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/startup-guarantee.rst:1
+msgid "Shanghai guaranteed startup loans"
+msgstr "上海创业担保贷款"
+
+#: ../../funding/startup-guarantee.rst:4
+msgid "Loan | Citywide / global"
+msgstr "贷款｜全市／全球"
+
+#: ../../funding/startup-guarantee.rst:6
+msgid "Published service; current terms to confirm"
+msgstr "服务已公布，现行条款待确认"
+
+#: ../../funding/startup-guarantee.rst:8
+msgid ""
+"`Evidence S073 "
+"<https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. "
+"Shanghai's guaranteed start-up loans top 1.3 billion yuan this "
+"year_Editor's Pick."
+msgstr "`证据 S073 <https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. Shanghai's guaranteed start-up loans top 1.3 billion yuan this year_Editor's Pick."
+
+#: ../../funding/startup-guarantee.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/startup-guarantee.rst:13
+msgid ""
+"Loan ceiling and interest support depend on applicant class and current "
+"rules"
+msgstr "贷款上限与贴息依申请类别及现行规则确定"
+
+#: ../../funding/startup-guarantee.rst:15
+msgid "No equity; repayable"
+msgstr "不占股，须偿还"
+
+#: ../../funding/startup-guarantee.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/startup-guarantee.rst:20
+msgid ""
+"Individual, pre-startup and enterprise routes have different residence, "
+"education, registration and employment conditions. Bank underwriting "
+"still applies; an interest subsidy does not remove principal repayment."
+msgstr "个人、创业前与企业路径的居住、学历、注册及就业条件不同，仍需银行审核；贴息不免除本金偿还。"
+
+#: ../../funding/startup-guarantee.rst:22
+msgid "Confirm current HRSS service rules"
+msgstr "核验现行人社服务规则"
+
+#: ../../funding/startup-guarantee.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/startup-guarantee.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://zzjb.rsj.sh.gov.cn/zzjbdl/jsp/login.html>`_"
+msgstr "`官方申请／政策入口 <https://zzjb.rsj.sh.gov.cn/zzjbdl/jsp/login.html>`_"
+
+#: ../../funding/startup-guarantee.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/startup-guarantee.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/startup-guarantee.rst:33
+msgid ""
+"Select the current bank or public guarantee product and check borrower "
+"eligibility."
+msgstr "选择现行银行或公共担保产品，核验借款资格。"
+
+#: ../../funding/startup-guarantee.rst:35
+msgid ""
+"Prepare accounts, cash-flow forecast, ownership and requested security "
+"documents."
+msgstr "准备报表、现金流预测、股权及要求的担保材料。"
+
+#: ../../funding/startup-guarantee.rst:37
+msgid ""
+"Complete lender and guarantee assessment; compare all costs and repayment "
+"terms."
+msgstr "完成贷款及担保评估，比较全部成本与还款条件。"
+
+#: ../../funding/startup-guarantee.rst:39
+msgid ""
+"Sign and track debt service; claim interest support only if independently "
+"eligible."
+msgstr "签约并管理偿债，贴息须另行符合资格。"
+
+#: ../../funding/startup-guarantee.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

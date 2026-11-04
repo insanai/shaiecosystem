@@ -1,0 +1,115 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/baoshan-industrial.rst:1
+msgid "Baoshan Industrial Park"
+msgstr "宝山工业园区"
+
+#: ../../entities/baoshan-industrial.rst:4
+msgid "宝山工业园区"
+msgstr "宝山工业园区"
+
+#: ../../entities/baoshan-industrial.rst:6
+msgid "Technology park | Baoshan | Research checked 2026-11-04"
+msgstr "科技园区｜宝山区｜研究核对日期 2026-11-04"
+
+#: ../../entities/baoshan-industrial.rst:8
+msgid ""
+"The park committee publishes an official contact and provides industrial "
+"admission, project attraction, policy coordination and business services. "
+"This is a separate park from the Gucun robot industrial park."
+msgstr "园区管委会公布官方联系方式，负责产业准入、项目招商、政策协调及企业服务，与顾村机器人产业园为不同园区。"
+
+#: ../../entities/baoshan-industrial.rst:10
+msgid ""
+"`Evidence S020 "
+"<https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. "
+"信息公开机构_上海市宝山区人民政府门户网站."
+msgstr "`证据 S020 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_. 信息公开机构_上海市宝山区人民政府门户网站."
+
+#: ../../entities/baoshan-industrial.rst:12
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/baoshan-industrial.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/baoshan-industrial.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/baoshan-industrial.rst:19
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/baoshan-industrial.rst:22
+msgid ""
+"`Official evidence and authority route "
+"<https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
+msgstr "`官方来源与主管部门入口 <https://xxgk.shbsq.gov.cn/department.html?infoid=502d938e-44e4-4afb-8e7f-6be0dc1ef20d>`_"
+
+#: ../../entities/baoshan-industrial.rst:24
+msgid "Telephone: +86 21 66879800."
+msgstr "电话：+86 21 66879800。"
+
+#: ../../entities/baoshan-industrial.rst:26
+msgid "Published address: 1688 Jinshi Road, Baoshan."
+msgstr "公布地址：宝山区金石路1688号。"
+
+#: ../../entities/baoshan-industrial.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/baoshan-industrial.rst:30
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/baoshan-industrial.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/baoshan-industrial.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "说明样机、所需设备、工艺与测试需求。"
+
+#: ../../entities/baoshan-industrial.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "申请技术审核、设施参观及逐项报价。"
+
+#: ../../entities/baoshan-industrial.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "约定准入、安全、样本与知识产权、测试范围及验收。"
+
+#: ../../entities/baoshan-industrial.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "设施合同与投资或财政资助分别申请。"
+
+#: ../../entities/baoshan-industrial.rst:43
+msgid ":doc:`Baoshan district route </districts/baoshan>`"
+msgstr ":doc:`宝山区对接路径 </districts/baoshan>`"

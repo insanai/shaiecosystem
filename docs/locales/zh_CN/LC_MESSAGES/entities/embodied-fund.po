@@ -1,0 +1,112 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/embodied-fund.rst:1
+msgid "Shanghai Embodied AI Fund"
+msgstr "上海具身智能基金"
+
+#: ../../entities/embodied-fund.rst:4
+msgid "上海具身智能基金"
+msgstr "上海具身智能基金"
+
+#: ../../entities/embodied-fund.rst:6
+msgid "Investor | Pudong | Research checked 2026-11-04"
+msgstr "投资机构｜浦东新区｜研究核对日期 2026-11-04"
+
+#: ../../entities/embodied-fund.rst:8
+msgid ""
+"A state-backed embodied-intelligence investment route announced in April "
+"2025, including core components and edge chips. Confirm the current "
+"manager and investment mandate; no uniform cheque size or ownership "
+"percentage is established here."
+msgstr "2025年4月公布的国资具身智能投资路径，涉及核心零部件与边缘芯片。须确认现任管理人及投资范围；本书不推定统一投资额或持股比例。"
+
+#: ../../entities/embodied-fund.rst:10
+msgid ""
+"`Evidence S046 "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_. "
+"上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态."
+msgstr "`证据 S046 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_. 上海具身智能基金亮相，上海国投公司加速布局下一代人工智能战略高地_国企动态."
+
+#: ../../entities/embodied-fund.rst:12
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/embodied-fund.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/embodied-fund.rst:17
+msgid "Funding mechanism: Equity investment."
+msgstr "支持机制：股权投资。"
+
+#: ../../entities/embodied-fund.rst:19
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/embodied-fund.rst:22
+msgid ""
+"`Official evidence and authority route "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_"
+msgstr "`官方来源与主管部门入口 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20250422/0df6032bc73b4dbe9d363086336ca821.html>`_"
+
+#: ../../entities/embodied-fund.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/embodied-fund.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/embodied-fund.rst:28
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/embodied-fund.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/embodied-fund.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "确认管理人、行业、阶段及主体匹配。"
+
+#: ../../entities/embodied-fund.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+
+#: ../../entities/embodied-fund.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "完成商业、财务、技术及法律尽职调查。"
+
+#: ../../entities/embodied-fund.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "审核条款书、投委会条件及正式协议。"
+
+#: ../../entities/embodied-fund.rst:41
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"

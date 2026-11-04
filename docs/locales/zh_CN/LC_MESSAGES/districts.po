@@ -1,0 +1,93 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts.rst:1
+msgid "Sixteen districts, sixteen entry routes"
+msgstr "十六区，十六条对接路径"
+
+#: ../../districts.rst:4
+msgid ""
+"Every district has a chapter. We begin with its documented specialization "
+"and receiving authority, then follow the local organizations. An official "
+"portal remains the contact route when no current named officer or direct "
+"intake form is established."
+msgstr "每个区均设章节，从有来源的产业方向和主管部门出发，再了解本地机构。尚无经核实现任联系人或直接表格时，以官方门户作为联系入口。"
+
+#: ../../districts.rst:6
+msgid ":doc:`Pudong <districts/pudong>`"
+msgstr ":doc:`浦东新区 <districts/pudong>`"
+
+#: ../../districts.rst:7
+msgid ":doc:`Xuhui <districts/xuhui>`"
+msgstr ":doc:`徐汇区 <districts/xuhui>`"
+
+#: ../../districts.rst:8
+msgid ":doc:`Yangpu <districts/yangpu>`"
+msgstr ":doc:`杨浦区 <districts/yangpu>`"
+
+#: ../../districts.rst:9
+msgid ":doc:`Minhang <districts/minhang>`"
+msgstr ":doc:`闵行区 <districts/minhang>`"
+
+#: ../../districts.rst:10
+msgid ":doc:`Jiading <districts/jiading>`"
+msgstr ":doc:`嘉定区 <districts/jiading>`"
+
+#: ../../districts.rst:11
+msgid ":doc:`Baoshan <districts/baoshan>`"
+msgstr ":doc:`宝山区 <districts/baoshan>`"
+
+#: ../../districts.rst:12
+msgid ":doc:`Putuo <districts/putuo>`"
+msgstr ":doc:`普陀区 <districts/putuo>`"
+
+#: ../../districts.rst:13
+msgid ":doc:`Changning <districts/changning>`"
+msgstr ":doc:`长宁区 <districts/changning>`"
+
+#: ../../districts.rst:14
+msgid ":doc:`Jing'an <districts/jingan>`"
+msgstr ":doc:`静安区 <districts/jingan>`"
+
+#: ../../districts.rst:15
+msgid ":doc:`Huangpu <districts/huangpu>`"
+msgstr ":doc:`黄浦区 <districts/huangpu>`"
+
+#: ../../districts.rst:16
+msgid ":doc:`Hongkou <districts/hongkou>`"
+msgstr ":doc:`虹口区 <districts/hongkou>`"
+
+#: ../../districts.rst:17
+msgid ":doc:`Songjiang <districts/songjiang>`"
+msgstr ":doc:`松江区 <districts/songjiang>`"
+
+#: ../../districts.rst:18
+msgid ":doc:`Qingpu <districts/qingpu>`"
+msgstr ":doc:`青浦区 <districts/qingpu>`"
+
+#: ../../districts.rst:19
+msgid ":doc:`Jinshan <districts/jinshan>`"
+msgstr ":doc:`金山区 <districts/jinshan>`"
+
+#: ../../districts.rst:20
+msgid ":doc:`Fengxian <districts/fengxian>`"
+msgstr ":doc:`奉贤区 <districts/fengxian>`"
+
+#: ../../districts.rst:21
+msgid ":doc:`Chongming <districts/chongming>`"
+msgstr ":doc:`崇明区 <districts/chongming>`"

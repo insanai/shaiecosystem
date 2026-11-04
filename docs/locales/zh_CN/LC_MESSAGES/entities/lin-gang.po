@@ -1,0 +1,114 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/lin-gang.rst:1
+msgid "Lin-gang Science and Innovation City"
+msgstr "临港科创城"
+
+#: ../../entities/lin-gang.rst:4
+msgid "临港科创城"
+msgstr "临港科创城"
+
+#: ../../entities/lin-gang.rst:6
+msgid "Technology park | Pudong | Research checked 2026-11-04"
+msgstr "科技园区｜浦东新区｜研究核对日期 2026-11-04"
+
+#: ../../entities/lin-gang.rst:8
+msgid ""
+"The January 2026 plan identifies Dishui Lake AI and IC innovation ports "
+"and staged development targets. Lin-gang is a functional area, not "
+"Shanghai's seventeenth district. Establish the administering boundary "
+"before seeking incentives."
+msgstr "2026年1月方案明确滴水湖AI及IC创新港与分阶段发展目标。临港为功能区，并非上海第十七个区；申请支持前应确认实际管理范围。"
+
+#: ../../entities/lin-gang.rst:10
+msgid ""
+"`Evidence S028 "
+"<https://www.shanghai.gov.cn/nw4411/20260122/a0d2d4e5531145fcb18cce45ebcfb216.html?siteId=1>`_. "
+"在临港 打造青年创业理想城 “临港科创城”建设方案发布 建设国际科创中心重要基地."
+msgstr "`证据 S028 <https://www.shanghai.gov.cn/nw4411/20260122/a0d2d4e5531145fcb18cce45ebcfb216.html?siteId=1>`_. 在临港 打造青年创业理想城 “临港科创城”建设方案发布 建设国际科创中心重要基地."
+
+#: ../../entities/lin-gang.rst:12
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/lin-gang.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/lin-gang.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/lin-gang.rst:19
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/lin-gang.rst:22
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw4411/20260122/a0d2d4e5531145fcb18cce45ebcfb216.html?siteId=1>`_"
+msgstr "`官方来源与主管部门入口 <https://www.shanghai.gov.cn/nw4411/20260122/a0d2d4e5531145fcb18cce45ebcfb216.html?siteId=1>`_"
+
+#: ../../entities/lin-gang.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/lin-gang.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/lin-gang.rst:28
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/lin-gang.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/lin-gang.rst:33
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "说明样机、所需设备、工艺与测试需求。"
+
+#: ../../entities/lin-gang.rst:35
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "申请技术审核、设施参观及逐项报价。"
+
+#: ../../entities/lin-gang.rst:37
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "约定准入、安全、样本与知识产权、测试范围及验收。"
+
+#: ../../entities/lin-gang.rst:39
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "设施合同与投资或财政资助分别申请。"
+
+#: ../../entities/lin-gang.rst:41
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"

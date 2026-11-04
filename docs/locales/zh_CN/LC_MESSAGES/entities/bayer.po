@@ -1,0 +1,115 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/bayer.rst:1
+msgid "Bayer Co.Lab Shanghai"
+msgstr "拜耳Co.Lab上海"
+
+#: ../../entities/bayer.rst:4
+msgid "拜耳Co.Lab上海"
+msgstr "拜耳Co.Lab上海"
+
+#: ../../entities/bayer.rst:6
+msgid "Corporate program | Pudong | Research checked 2026-11-04"
+msgstr "企业创新计划｜浦东新区｜研究核对日期 2026-11-04"
+
+#: ../../entities/bayer.rst:8
+msgid ""
+"Bayer's September 2024 Shanghai site launch describes shared laboratories "
+"and office space for early biotech teams in SH-INNO Park. Confirm "
+"available residency and collaboration terms; the historic capacity is not "
+"a current vacancy count."
+msgstr "拜耳2024年9月上海基地启动资料介绍SH-INNO园区内早期生物科技团队的共享实验及办公空间。应确认当前入驻与合作条款，历史容量不是实时空位。"
+
+#: ../../entities/bayer.rst:10
+msgid ""
+"`Evidence S054 <https://colab.bayer.com/en/page/co-lab-shanghai-en>`_. "
+"Bayer Co.Lab."
+msgstr "`证据 S054 <https://colab.bayer.com/en/page/co-lab-shanghai-en>`_. Bayer Co.Lab."
+
+#: ../../entities/bayer.rst:12
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/bayer.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/bayer.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/bayer.rst:19
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/bayer.rst:22
+msgid ""
+"`Official website / intake route "
+"<https://colab.bayer.com/en/page/co-lab-shanghai-en>`_"
+msgstr "`官网／对接入口 <https://colab.bayer.com/en/page/co-lab-shanghai-en>`_"
+
+#: ../../entities/bayer.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/bayer.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/bayer.rst:28
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/bayer.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/bayer.rst:33
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "确认企业业务负责人及可量化场景。"
+
+#: ../../entities/bayer.rst:35
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "提交产品简介、试点证据及相关技术要求。"
+
+#: ../../entities/bayer.rst:37
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "确认招募情况或约定试点范围、数据权利与知识产权。"
+
+#: ../../entities/bayer.rst:39
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "分别审核采购、付款、验收及转生产决策。"
+
+#: ../../entities/bayer.rst:41
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"

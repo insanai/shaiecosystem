@@ -1,0 +1,115 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/ip-finance.rst:1
+msgid "Shanghai IP-backed finance product directory"
+msgstr "上海知识产权金融产品清单"
+
+#: ../../funding/ip-finance.rst:4
+msgid "Loan / insurance | Citywide / global"
+msgstr "贷款与保险｜全市／全球"
+
+#: ../../funding/ip-finance.rst:6
+msgid "2026 directory published; lender review"
+msgstr "2026清单已公布，须贷款方审核"
+
+#: ../../funding/ip-finance.rst:8
+msgid ""
+"`Evidence S080 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
+"知识产权金融服务平台_上海市知识产权局."
+msgstr "`证据 S080 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
+
+#: ../../funding/ip-finance.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/ip-finance.rst:13
+msgid "Bank and product-specific loan, insurance or trust terms"
+msgstr "贷款、保险与信托条件依银行及产品确定"
+
+#: ../../funding/ip-finance.rst:15
+msgid "No equity; product obligations apply"
+msgstr "不占股，适用产品义务"
+
+#: ../../funding/ip-finance.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/ip-finance.rst:20
+msgid ""
+"The 2026 IP bureau directory supplies borrower criteria, collateral, "
+"rates, repayment, application steps and contacts by product. IP ownership "
+"and bank assessment matter."
+msgstr "2026年知识产权局清单逐项列出借款主体、担保、利率、还款、申请流程及联系方式，须核验知识产权及银行评估。"
+
+#: ../../funding/ip-finance.rst:22
+msgid "Product-specific"
+msgstr "依具体产品"
+
+#: ../../funding/ip-finance.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/ip-finance.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+msgstr "`官方申请／政策入口 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+
+#: ../../funding/ip-finance.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/ip-finance.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/ip-finance.rst:33
+msgid ""
+"Select the current bank or public guarantee product and check borrower "
+"eligibility."
+msgstr "选择现行银行或公共担保产品，核验借款资格。"
+
+#: ../../funding/ip-finance.rst:35
+msgid ""
+"Prepare accounts, cash-flow forecast, ownership and requested security "
+"documents."
+msgstr "准备报表、现金流预测、股权及要求的担保材料。"
+
+#: ../../funding/ip-finance.rst:37
+msgid ""
+"Complete lender and guarantee assessment; compare all costs and repayment "
+"terms."
+msgstr "完成贷款及担保评估，比较全部成本与还款条件。"
+
+#: ../../funding/ip-finance.rst:39
+msgid ""
+"Sign and track debt service; claim interest support only if independently "
+"eligible."
+msgstr "签约并管理偿债，贴息须另行符合资格。"
+
+#: ../../funding/ip-finance.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

@@ -1,0 +1,108 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/azure-credit.rst:1
+msgid "Microsoft startup cloud resources"
+msgstr "微软创业云资源"
+
+#: ../../funding/azure-credit.rst:4
+msgid "Cloud credits | Citywide / global"
+msgstr "云积分｜全市／全球"
+
+#: ../../funding/azure-credit.rst:6
+msgid "Regional eligibility to confirm"
+msgstr "地区资格待确认"
+
+#: ../../funding/azure-credit.rst:8
+msgid ""
+"`Evidence S041 <https://learn.microsoft.com/en-us/startups/overview>`_. "
+"What is Microsoft for Startups? | Microsoft Learn."
+msgstr "`证据 S041 <https://learn.microsoft.com/en-us/startups/overview>`_. What is Microsoft for Startups? | Microsoft Learn."
+
+#: ../../funding/azure-credit.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/azure-credit.rst:13
+msgid "Offer-specific credits and technical resources"
+msgstr "依当前方案提供积分与技术资源"
+
+#: ../../funding/azure-credit.rst:15
+msgid "Verify current agreement"
+msgstr "核验现行协议"
+
+#: ../../funding/azure-credit.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/azure-credit.rst:20
+msgid ""
+"Apply online and verify company, region and account eligibility. Global "
+"benefits are not represented as China-region entitlements."
+msgstr "在线申请并核验企业、地区与账户资格，不将全球权益视为中国区当然权益。"
+
+#: ../../funding/azure-credit.rst:22
+msgid "Confirm current application and credit validity"
+msgstr "确认现行申请及积分有效期"
+
+#: ../../funding/azure-credit.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/azure-credit.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://learn.microsoft.com/en-us/startups/overview>`_"
+msgstr "`官方申请／政策入口 <https://learn.microsoft.com/en-us/startups/overview>`_"
+
+#: ../../funding/azure-credit.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/azure-credit.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/azure-credit.rst:33
+msgid ""
+"Check incorporation, company age, account region and existing benefits."
+msgstr "核验注册、企业年限、账户地区及已有权益。"
+
+#: ../../funding/azure-credit.rst:35
+msgid "Apply through the official program form or qualifying partner route."
+msgstr "通过官方表格或合资格合作方路径申请。"
+
+#: ../../funding/azure-credit.rst:37
+msgid ""
+"Confirm covered services, expiry, fees, usage limits and overage billing."
+msgstr "确认支持服务、到期、费用、用量限制及超额计费。"
+
+#: ../../funding/azure-credit.rst:39
+msgid "Keep usage records and do not describe credits as unrestricted cash."
+msgstr "保留使用记录，不把积分视为自由现金。"
+
+#: ../../funding/azure-credit.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

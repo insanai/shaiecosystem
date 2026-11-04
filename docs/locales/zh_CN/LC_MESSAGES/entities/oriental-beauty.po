@@ -1,0 +1,116 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/oriental-beauty.rst:1
+msgid "Oriental Beauty Valley"
+msgstr "东方美谷"
+
+#: ../../entities/oriental-beauty.rst:4
+msgid "东方美谷"
+msgstr "东方美谷"
+
+#: ../../entities/oriental-beauty.rst:6
+msgid "Technology park | Fengxian | Research checked 2026-11-04"
+msgstr "科技园区｜奉贤区｜研究核对日期 2026-11-04"
+
+#: ../../entities/oriental-beauty.rst:8
+msgid ""
+"A Fengxian beauty and health industry ecosystem. Relevant AI applications "
+"include formulation research, inspection, consumer analysis and "
+"supply-chain tools; clinical or laboratory access is a separate "
+"arrangement."
+msgstr "奉贤美丽健康产业生态，相关人工智能场景包括配方研究、检测、消费者分析及供应链工具；临床或实验设施须另行安排。"
+
+#: ../../entities/oriental-beauty.rst:10
+msgid ""
+"`Evidence S024 "
+"<https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_. "
+"奉贤区领导调研东方美谷集团、临港南桥科技城."
+msgstr "`证据 S024 <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_. 奉贤区领导调研东方美谷集团、临港南桥科技城."
+
+#: ../../entities/oriental-beauty.rst:12
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/oriental-beauty.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/oriental-beauty.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/oriental-beauty.rst:19
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/oriental-beauty.rst:22
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_"
+msgstr "`官方来源与主管部门入口 <https://www.shanghai.gov.cn/nw15343/20260605/4242e7830c464a5fb0fe98b951d9a2cc.html>`_"
+
+#: ../../entities/oriental-beauty.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/oriental-beauty.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/oriental-beauty.rst:28
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/oriental-beauty.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/oriental-beauty.rst:33
+msgid "Identify the corporate business owner and one measurable use case."
+msgstr "确认企业业务负责人及可量化场景。"
+
+#: ../../entities/oriental-beauty.rst:35
+msgid ""
+"Submit the product brief, pilot evidence and relevant technical "
+"requirements."
+msgstr "提交产品简介、试点证据及相关技术要求。"
+
+#: ../../entities/oriental-beauty.rst:37
+msgid ""
+"Confirm cohort availability or agree a scoped pilot, data rights and IP "
+"terms."
+msgstr "确认招募情况或约定试点范围、数据权利与知识产权。"
+
+#: ../../entities/oriental-beauty.rst:39
+msgid ""
+"Review procurement, payment, acceptance and the production decision "
+"separately."
+msgstr "分别审核采购、付款、验收及转生产决策。"
+
+#: ../../entities/oriental-beauty.rst:41
+msgid ":doc:`Fengxian district route </districts/fengxian>`"
+msgstr ":doc:`奉贤区对接路径 </districts/fengxian>`"

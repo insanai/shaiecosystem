@@ -1,0 +1,114 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/changning-tech-star.rst:1
+msgid "Changning Technology Star Teams, 2026"
+msgstr "2026长宁科技之星团队"
+
+#: ../../funding/changning-tech-star.rst:4
+msgid "Grant | Changning"
+msgstr "补助｜长宁区"
+
+#: ../../funding/changning-tech-star.rst:6
+msgid "Closed"
+msgstr "已截止"
+
+#: ../../funding/changning-tech-star.rst:8
+msgid ""
+"`Evidence S083 "
+"<https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_. "
+"上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知."
+msgstr "`证据 S083 <https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_. 上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知."
+
+#: ../../funding/changning-tech-star.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/changning-tech-star.rst:13
+msgid ""
+"Funding for assessed and recognized teams under the district talent fund "
+"plan"
+msgstr "依区人才资金计划对评审认定团队给予支持"
+
+#: ../../funding/changning-tech-star.rst:15
+msgid "No equity"
+msgstr "不占股"
+
+#: ../../funding/changning-tech-star.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/changning-tech-star.rst:20
+msgid ""
+"Eligible teams in AI, industrial internet and biomedicine at "
+"organizations established or operating lawfully in Changning. Required "
+"evidence includes research outcomes, employment contracts and commitments."
+msgstr "在长宁依法设立或开展经营单位的人工智能、工业互联网及生物医药等团队，须提供科研成果、劳动合同及承诺等。"
+
+#: ../../funding/changning-tech-star.rst:22
+msgid "Closed 26 June 2026"
+msgstr "已于2026年6月26日截止"
+
+#: ../../funding/changning-tech-star.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/changning-tech-star.rst:27
+msgid "`Official application / policy route <https://zwdt.sh.gov.cn/>`_"
+msgstr "`官方申请／政策入口 <https://zwdt.sh.gov.cn/>`_"
+
+#: ../../funding/changning-tech-star.rst:29
+msgid "Published consultation: +86 21 22050986."
+msgstr "公布咨询电话：+86 21 22050986。"
+
+#: ../../funding/changning-tech-star.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/changning-tech-star.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../funding/changning-tech-star.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../funding/changning-tech-star.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../funding/changning-tech-star.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../funding/changning-tech-star.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

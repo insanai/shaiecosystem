@@ -1,0 +1,112 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/baoshan-conversion.rst:1
+msgid "Baoshan pre-investment / later equity project call"
+msgstr "宝山先投后股项目征集"
+
+#: ../../funding/baoshan-conversion.rst:4
+msgid "Convertible support | Baoshan"
+msgstr "可转股支持｜宝山区"
+
+#: ../../funding/baoshan-conversion.rst:6
+msgid "Closed"
+msgstr "已截止"
+
+#: ../../funding/baoshan-conversion.rst:8
+msgid ""
+"`Evidence S094 "
+"<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. "
+"宝山人才政策月历·1月刊."
+msgstr "`证据 S094 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_. 宝山人才政策月历·1月刊."
+
+#: ../../funding/baoshan-conversion.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/baoshan-conversion.rst:13
+msgid ""
+"Amount and conversion terms require the actual project guide and agreement"
+msgstr "额度及转股条件须以项目指南及协议为准"
+
+#: ../../funding/baoshan-conversion.rst:15
+msgid "Potential equity conversion; review contract"
+msgstr "可能转为股权，须审核协议"
+
+#: ../../funding/baoshan-conversion.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/baoshan-conversion.rst:20
+msgid ""
+"The district January 2026 policy calendar identifies a science-commission "
+"call for pre-investment / later equity projects. Verify the recipient, "
+"milestone and conversion conditions rather than labelling this an "
+"unrestricted equity-free grant."
+msgstr "区级2026年1月政策月历列明科委先投后股项目征集，须核验主体、里程碑及转股条件，不能视为自由使用的不占股补助。"
+
+#: ../../funding/baoshan-conversion.rst:22
+msgid "Closed 10 February 2026"
+msgstr "已于2026年2月10日截止"
+
+#: ../../funding/baoshan-conversion.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/baoshan-conversion.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
+msgstr "`官方申请／政策入口 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
+
+#: ../../funding/baoshan-conversion.rst:29
+msgid "Published consultation: +86 21 56160454."
+msgstr "公布咨询电话：+86 21 56160454。"
+
+#: ../../funding/baoshan-conversion.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/baoshan-conversion.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "确认管理人、行业、阶段及主体匹配。"
+
+#: ../../funding/baoshan-conversion.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+
+#: ../../funding/baoshan-conversion.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "完成商业、财务、技术及法律尽职调查。"
+
+#: ../../funding/baoshan-conversion.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "审核条款书、投委会条件及正式协议。"
+
+#: ../../funding/baoshan-conversion.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

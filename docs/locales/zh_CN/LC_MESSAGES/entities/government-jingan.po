@@ -1,0 +1,115 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/government-jingan.rst:1
+msgid "Jing'an science and economy authority"
+msgstr "静安区科技和经济委员会"
+
+#: ../../entities/government-jingan.rst:4
+msgid "静安区科技和经济委员会"
+msgstr "静安区科技和经济委员会"
+
+#: ../../entities/government-jingan.rst:6
+msgid "Government | Jing'an | Research checked 2026-11-04"
+msgstr "政府部门｜静安区｜研究核对日期 2026-11-04"
+
+#: ../../entities/government-jingan.rst:8
+msgid ""
+"The 2026-2028 AI application demonstration plan focuses on industry "
+"integration and talent. Its stated objectives must be distinguished from "
+"implementing rules and currently accepting applications."
+msgstr "2026至2028年人工智能创新应用示范区方案聚焦产业融合与人才。规划目标应与实施细则及正在受理的申报事项区分。"
+
+#: ../../entities/government-jingan.rst:10
+msgid ""
+"`Evidence S067 "
+"<https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. "
+"静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+msgstr "`证据 S067 <https://www.jingan.gov.cn/govxxgk/JA2/2026-03-27/1b9b0944-356c-4561-b157-502a9e1af84d.html>`_. 静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知."
+
+#: ../../entities/government-jingan.rst:12
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/government-jingan.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/government-jingan.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/government-jingan.rst:19
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/government-jingan.rst:22
+msgid "`Official website / intake route <https://www.jingan.gov.cn/>`_"
+msgstr "`官网／对接入口 <https://www.jingan.gov.cn/>`_"
+
+#: ../../entities/government-jingan.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/government-jingan.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/government-jingan.rst:28
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/government-jingan.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/government-jingan.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../entities/government-jingan.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../entities/government-jingan.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../entities/government-jingan.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../entities/government-jingan.rst:41
+msgid ":doc:`Jing'an district route </districts/jingan>`"
+msgstr ":doc:`静安区对接路径 </districts/jingan>`"

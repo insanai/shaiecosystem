@@ -1,0 +1,113 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/government-pudong.rst:1
+msgid "Pudong Science, Technology and Economy Commission"
+msgstr "浦东新区科技和经济委员会"
+
+#: ../../entities/government-pudong.rst:4
+msgid "浦东新区科技和经济委员会"
+msgstr "浦东新区科技和经济委员会"
+
+#: ../../entities/government-pudong.rst:6
+msgid "Government | Pudong | Research checked 2026-11-04"
+msgstr "政府部门｜浦东新区｜研究核对日期 2026-11-04"
+
+#: ../../entities/government-pudong.rst:8
+msgid ""
+"2026 AI application call closed on 31 August 2026. The published route "
+"covers qualifying 2025 model and agent expenditure; duplicate public "
+"funding is excluded."
+msgstr "2026年人工智能应用项目申报已于2026年8月31日截止。该通知面向符合条件的2025年模型与智能体支出，已获其他财政资金资助的项目不得重复申报。"
+
+#: ../../entities/government-pudong.rst:10
+msgid ""
+"`Evidence S063 "
+"<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
+"关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`证据 S063 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+
+#: ../../entities/government-pudong.rst:12
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/government-pudong.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/government-pudong.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/government-pudong.rst:19
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/government-pudong.rst:22
+msgid "`Official website / intake route <https://www.pudong.gov.cn/>`_"
+msgstr "`官网／对接入口 <https://www.pudong.gov.cn/>`_"
+
+#: ../../entities/government-pudong.rst:24
+msgid "Telephone: +86 21 68811090."
+msgstr "电话：+86 21 68811090。"
+
+#: ../../entities/government-pudong.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/government-pudong.rst:28
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/government-pudong.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/government-pudong.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../entities/government-pudong.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../entities/government-pudong.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../entities/government-pudong.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../entities/government-pudong.rst:41
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`浦东新区对接路径 </districts/pudong>`"

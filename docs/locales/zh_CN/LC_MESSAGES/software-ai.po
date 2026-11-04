@@ -1,0 +1,99 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../software-ai.rst:1
+msgid "Intelligence in software"
+msgstr "软件中的智能"
+
+#: ../../software-ai.rst:4
+msgid ""
+"For a software AI team, the scarce resource is often a repeatable "
+"customer problem, a reliable evaluation set and a lawful route to useful "
+"data. A model community helps when it supplies a concrete resource or a "
+"credible introduction."
+msgstr "软件人工智能团队往往最需要可复制的客户问题、可靠评测集及合规数据路径。模型社区的价值在于提供具体资源或可信对接。"
+
+#: ../../software-ai.rst:7
+msgid "An AI product connects models to a customer workflow."
+msgstr "人工智能产品把模型连接到客户流程。"
+
+#: ../../software-ai.rst:10
+msgid "Choose an entry point"
+msgstr "选择入口"
+
+#: ../../software-ai.rst:13
+msgid ""
+"For model engineering and developer connections, begin with Model Speed "
+"Space, Zhangjiang Model Community, Shanghai AI Laboratory resources or a "
+"relevant university group. For enterprise deployment, compare an "
+"operator's actual buyer relationships with the industry requirements. For "
+"an independent founder, check the current Yangpu OPC community policy and "
+"Changning's published carriers."
+msgstr "模型工程及开发者连接可从模速空间、张江模力社区、上海人工智能实验室资源或相关高校团队入手。企业部署应核对运营方的真实采购关系与行业要求。独立创业者可核验杨浦OPC社区政策及长宁已公布载体。"
+
+#: ../../software-ai.rst:15
+msgid ""
+"We treat foundation models, domain models, agents, multimodal systems, "
+"industrial software, evaluation, AI security and scientific software as "
+"different businesses. An accelerator that can introduce a manufacturer "
+"may not supply a regulated financial dataset or an inference contract."
+msgstr "我们区分基础模型、垂类模型、智能体、多模态系统、工业软件、评测、人工智能安全与科学软件。能够介绍制造商的加速器未必能提供受监管金融数据或推理服务合同。"
+
+#: ../../software-ai.rst:17
+msgid "Build the smallest credible pilot"
+msgstr "构建最小可信试点"
+
+#: ../../software-ai.rst:20
+msgid ""
+"Prepare one task, a baseline, a held-out evaluation set and a target "
+"metric. State cost per completed task, latency, error handling and human "
+"review. Name the data owner, deployment environment and accountable "
+"buyer. A pilot needs an owner, a budget, acceptance criteria and a path "
+"to a production contract."
+msgstr "准备单一任务、基线、独立评测集与目标指标，说明每次任务成本、延迟、异常处理及人工复核，并明确数据权利人、部署环境与负责采购方。试点需要负责人、预算、验收标准及转生产合同路径。"
+
+#: ../../software-ai.rst:22
+msgid ""
+"Budget training, fine-tuning, inference, retrieval, storage, networking, "
+"annotation and evaluation separately. A compute reimbursement may exclude "
+"storage or networking. A model or corpus voucher may cover only an "
+"approved supplier and a specified historical cost period. Retain usage "
+"logs, invoices, contracts and payment records from the beginning."
+msgstr "训练、微调、推理、检索、存储、网络、标注及评测须分别预算。算力补贴可能不含存储或网络，模型及语料券可能限定供应商和支出期间。应从项目开始保存使用日志、发票、合同及付款记录。"
+
+#: ../../software-ai.rst:24
+msgid "Before public deployment"
+msgstr "公开部署之前"
+
+#: ../../software-ai.rst:27
+msgid ""
+"Define whether the service is an internal tool, a business-facing "
+"deployment or a public-facing generative service. Ask the relevant "
+"authority and a qualified adviser which model registration, algorithm "
+"filing, content labelling, data, sector and network requirements apply. "
+"Requirements attach to the actual service, not to an AI label on a pitch "
+"deck. This atlas supplies routing questions rather than an exhaustive "
+"legal procedure."
+msgstr "先定义服务属于内部工具、企业部署还是面向公众的生成式服务，再向主管部门与专业顾问核实模型登记、算法备案、内容标识、数据、行业及网络要求。要求取决于实际服务，而非路演材料中的人工智能标签。本图谱提供对接问题，不代替完整法律程序。"
+
+#: ../../software-ai.rst:29
+msgid ""
+"`Evidence S079 "
+"<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
+"上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`证据 S079 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."

@@ -1,0 +1,117 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/innovation-voucher.rst:1
+msgid "Shanghai Science and Technology Innovation Vouchers"
+msgstr "上海市科技创新券"
+
+#: ../../funding/innovation-voucher.rst:4
+msgid "Reimbursement | Citywide / global"
+msgstr "报销支持｜全市／全球"
+
+#: ../../funding/innovation-voucher.rst:6
+msgid "Policy in force; confirm service and order"
+msgstr "政策有效，须核验服务与订单"
+
+#: ../../funding/innovation-voucher.rst:8
+msgid ""
+"`Evidence S071 "
+"<https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. "
+"关于印发《上海市科技创新券管理办法》的通知."
+msgstr "`证据 S071 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. 关于印发《上海市科技创新券管理办法》的通知."
+
+#: ../../funding/innovation-voucher.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/innovation-voucher.rst:13
+msgid ""
+"Up to 50% of eligible orders; annual cap RMB 300,000 per company or RMB "
+"100,000 per team"
+msgstr "合资格订单最高50%；企业每年最高30万元，团队每年最高10万元"
+
+#: ../../funding/innovation-voucher.rst:15
+msgid "No equity"
+msgstr "不占股"
+
+#: ../../funding/innovation-voucher.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/innovation-voucher.rst:20
+msgid ""
+"Qualifying technology SMEs and innovation teams using approved platform "
+"services. Service-provider qualification is separate from applicant "
+"eligibility."
+msgstr "使用平台认可服务的合资格科技型中小企业及创新团队。服务机构资格不等同于申请方资格。"
+
+#: ../../funding/innovation-voucher.rst:22
+msgid "Policy: 1 Sep 2025 to 31 Aug 2030"
+msgstr "政策有效期：2025年9月1日至2030年8月31日"
+
+#: ../../funding/innovation-voucher.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/innovation-voucher.rst:27
+msgid ""
+"`Official application / policy route <https://kjcxq.stcsm.sh.gov.cn/>`_"
+msgstr "`官方申请／政策入口 <https://kjcxq.stcsm.sh.gov.cn/>`_"
+
+#: ../../funding/innovation-voucher.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/innovation-voucher.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/innovation-voucher.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "确认实际类别、范围、供应商及合资格支出期间。"
+
+#: ../../funding/innovation-voucher.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "保留服务合同、发票、付款凭证及明细用量记录。"
+
+#: ../../funding/innovation-voucher.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "使用指定平台及当前批次，完成规定区级或运营方审核。"
+
+#: ../../funding/innovation-voucher.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "核验认可额度、重复资助限制及拨付条件。"
+
+#: ../../funding/innovation-voucher.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

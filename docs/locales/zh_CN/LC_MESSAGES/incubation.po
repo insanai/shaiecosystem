@@ -1,0 +1,27 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../incubation.rst:1
+msgid "Incubators, accelerators and parks"
+msgstr "孵化器、加速器及园区"
+
+#: ../../incubation.rst:4
+msgid ""
+"34 profiles with evidence, contact routes and an application checklist. "
+"Published existence is distinguished from current intake."
+msgstr "34份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。"

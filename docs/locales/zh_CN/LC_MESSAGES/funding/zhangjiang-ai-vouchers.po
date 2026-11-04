@@ -1,0 +1,115 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:1
+msgid "Zhangjiang AI Town compute, model and corpus support"
+msgstr "张江AI创新小镇算力券、模型券、语料券"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:4
+msgid "Reimbursement | Pudong"
+msgstr "报销支持｜浦东新区"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:6
+msgid "Quarterly scheme published; current intake to confirm"
+msgstr "季度机制已公布，当前批次待确认"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:8
+msgid ""
+"`Evidence S078 "
+"<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
+"浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
+msgstr "`证据 S078 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. 浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:13
+msgid ""
+"Up to 100% of approved actual cost, capped at RMB 1m in each category; at "
+"most one year"
+msgstr "核定实际支出最高100%，各类最高100万元，单个企业最多享受一年"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:15
+msgid "No equity"
+msgstr "不占股"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:20
+msgid ""
+"AI companies registered and operating inside the specified town boundary, "
+"established or moved there no earlier than 1 Jan 2025. Expenses must be "
+"for qualifying model R&D or deployment; review the current quarterly "
+"guide."
+msgstr "注册经营在明确小镇范围内，且成立或迁入不早于2025年1月1日的人工智能企业；支出须用于合资格模型研发应用，并审核当季指南。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:22
+msgid "Quarterly claims; confirm the current batch"
+msgstr "按季度申报，确认当前批次"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:27
+msgid "`Official application / policy route <https://pyd.pudong.gov.cn/>`_"
+msgstr "`官方申请／政策入口 <https://pyd.pudong.gov.cn/>`_"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:29
+msgid "Published consultation: +86 21 58811024 ext. 5091."
+msgstr "公布咨询电话：+86 21 58811024 ext. 5091。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:33
+msgid ""
+"Confirm the actual category, area boundary, supplier and eligible "
+"expenditure period."
+msgstr "确认实际类别、范围、供应商及合资格支出期间。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:35
+msgid ""
+"Keep service contracts, invoices, payment evidence and itemized usage "
+"logs."
+msgstr "保留服务合同、发票、付款凭证及明细用量记录。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:37
+msgid ""
+"Use the named platform and current batch; obtain the required district or "
+"operator review."
+msgstr "使用指定平台及当前批次，完成规定区级或运营方审核。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:39
+msgid ""
+"Check approved amount, duplicate-funding exclusions and payment "
+"conditions."
+msgstr "核验认可额度、重复资助限制及拨付条件。"
+
+#: ../../funding/zhangjiang-ai-vouchers.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

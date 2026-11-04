@@ -5,28 +5,19 @@ CLAUDE.md
 CLAUDE.local.md
 .claude/
 
-# Guidedog output, incremental state and generated translation catalogs.
+# Guidedog output, incremental state and compiled translation catalogs.
 _build/
 .*.guidedog/
 .doctrees/
-/docs/locales/
-/docs/downloads/
+/docs/locales/templates/
+/docs/locales/**/*.mo
+/docs/downloads/*
+!/docs/downloads/.gitkeep
 
-# RST publication sources generated from the maintained bilingual data records.
-/docs/*.rst
-/docs/districts/
-/docs/entities/
-/docs/funding/
-
-# Generated research exports, browser data and vector compositions.
+# Intermediate research exports and verification reports.
 /data/published-sources.json
 /data/translation-pairs.json
 /data/*-report.json
-/docs/_static/atlas/catalog.js
-/docs/_static/atlas/catalog.json
-/docs/_static/atlas/geometry.js
-/docs/_static/atlas/magnolia.svg
-/docs/_static/atlas/shanghai-map.svg
 
 # Local dependencies, QA output and temporary files.
 node_modules/

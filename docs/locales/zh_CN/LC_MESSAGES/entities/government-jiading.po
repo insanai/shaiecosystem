@@ -1,0 +1,116 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/government-jiading.rst:1
+msgid "Jiading science and technology authority"
+msgstr "嘉定区科技主管部门"
+
+#: ../../entities/government-jiading.rst:4
+msgid "嘉定区科技主管部门"
+msgstr "嘉定区科技主管部门"
+
+#: ../../entities/government-jiading.rst:6
+msgid "Government | Jiading | Research checked 2026-11-04"
+msgstr "政府部门｜嘉定区｜研究核对日期 2026-11-04"
+
+#: ../../entities/government-jiading.rst:8
+msgid ""
+"The municipal science commission documents the joint role of SITRI and "
+"InnoSpring in connecting research, pilot production and incubation. The "
+"2026 district service program provides policy interpretation and project "
+"coordination."
+msgstr "市科委记录了工研院与新微创源联动科研、中试与孵化的工作。2026年区级企业服务活动提供政策解读与项目协调。"
+
+#: ../../entities/government-jiading.rst:10
+msgid ""
+"`Evidence S006 "
+"<https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. "
+"市科委、嘉定区联合调研高质量孵化器建设工作."
+msgstr "`证据 S006 <https://stcsm.sh.gov.cn/xwzx/gzdt/20240510/992800bb77b6492b97ba4a9c14c09944.html>`_. 市科委、嘉定区联合调研高质量孵化器建设工作."
+
+#: ../../entities/government-jiading.rst:12
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/government-jiading.rst:15
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/government-jiading.rst:17
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/government-jiading.rst:19
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/government-jiading.rst:22
+msgid "`Official website / intake route <https://www.jiading.gov.cn/>`_"
+msgstr "`官网／对接入口 <https://www.jiading.gov.cn/>`_"
+
+#: ../../entities/government-jiading.rst:24
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/government-jiading.rst:26
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/government-jiading.rst:28
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/government-jiading.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/government-jiading.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../entities/government-jiading.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../entities/government-jiading.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../entities/government-jiading.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../entities/government-jiading.rst:41
+msgid ":doc:`Jiading district route </districts/jiading>`"
+msgstr ":doc:`嘉定区对接路径 </districts/jiading>`"

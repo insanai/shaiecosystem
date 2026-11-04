@@ -1,0 +1,121 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/hongkou-talent-2026.rst:1
+msgid ""
+"Hongkou international and overseas young talent support, first 2026 batch"
+msgstr "2026虹口国际顶尖及海外优秀青年人才扶持第一批"
+
+#: ../../funding/hongkou-talent-2026.rst:4
+msgid "Grant | Hongkou"
+msgstr "补助｜虹口区"
+
+#: ../../funding/hongkou-talent-2026.rst:6
+msgid "Closed"
+msgstr "已截止"
+
+#: ../../funding/hongkou-talent-2026.rst:8
+msgid ""
+"`Evidence S092 "
+"<https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. "
+"虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
+msgstr "`证据 S092 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. 虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
+
+#: ../../funding/hongkou-talent-2026.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/hongkou-talent-2026.rst:13
+msgid ""
+"Recognized top talent and core team: up to RMB 1m; eligible overseas "
+"young talent: RMB 50,000 per person"
+msgstr "认定顶尖人才及核心团队最高100万元，合资格海外优秀青年人才每人5万元"
+
+#: ../../funding/hongkou-talent-2026.rst:15
+msgid "No equity"
+msgstr "不占股"
+
+#: ../../funding/hongkou-talent-2026.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/hongkou-talent-2026.rst:20
+msgid ""
+"Strict category-specific talent recognition and Hongkou employment rules "
+"apply. Email pre-review is followed by paper submission at the district "
+"talent service center; this is not a grant for every foreign founder."
+msgstr "适用严格分类人才认定及虹口就业条件；邮箱预审后到区人才中心交纸质材料，并非所有外籍创始人均可申请。"
+
+#: ../../funding/hongkou-talent-2026.rst:22
+msgid "Closed 31 March 2026"
+msgstr "已于2026年3月31日截止"
+
+#: ../../funding/hongkou-talent-2026.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/hongkou-talent-2026.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_"
+msgstr "`官方申请／政策入口 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_"
+
+#: ../../funding/hongkou-talent-2026.rst:29
+msgid "Published consultation: +86 21 65123028."
+msgstr "公布咨询电话：+86 21 65123028。"
+
+#: ../../funding/hongkou-talent-2026.rst:31
+msgid "`hkrc_zp@163.com <mailto:hkrc_zp@163.com>`_"
+msgstr "`hkrc_zp@163.com <mailto:hkrc_zp@163.com>`_"
+
+#: ../../funding/hongkou-talent-2026.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/hongkou-talent-2026.rst:35
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../funding/hongkou-talent-2026.rst:37
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../funding/hongkou-talent-2026.rst:39
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../funding/hongkou-talent-2026.rst:41
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../funding/hongkou-talent-2026.rst:43
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

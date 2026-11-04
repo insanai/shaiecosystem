@@ -22,8 +22,10 @@
   <a href="{{ pathto_root }}apply.html">{% if zh %}申请指南{% else %}How to apply{% endif %}</a>
  </nav>
  <div class="masthead-tools">
+  {% if assembled_site %}
   <a class="language-switch" hreflang="{% if zh %}en{% else %}zh-CN{% endif %}" lang="{% if zh %}en{% else %}zh-CN{% endif %}" href="{{ pathto_root }}../{% if zh %}en{% else %}zh-CN{% endif %}/{{ pagename }}.html">{% if zh %}EN{% else %}简体中文{% endif %}</a>
   <a class="button button-small" href="{{ pathto_root }}shanghai-ecosystem-atlas-{% if zh %}zh_CN{% else %}en{% endif %}.pdf">{% if zh %}下载图书{% else %}The book{% endif %} <span aria-hidden="true">&#8599;</span></a>
+  {% endif %}
  </div>
 </header>
 {% if pagename == 'index' %}
@@ -31,7 +33,7 @@
  <div class="hero-copy"><p class="eyebrow">{% if zh %}东方明珠 · 2026研究版{% else %}THE PEARL OF THE ORIENT / RESEARCH EDITION 2026{% endif %}</p>
   <h1 id="hero-title">{% if zh %}一座城市。<br>万千<span class="italic">可能。</span>{% else %}A city.<br>A world of<br><span class="italic">possibility.</span>{% endif %}</h1>
   <p class="hero-description">{% if zh %}连接上海的高校、创始人、实验室与资本。一本以白玉兰为灵感的创新生态指南，从第一个想法到下一次突破。{% else %}Where Shanghai's universities, founders, laboratories and capital meet. A magnolia-inspired guide from the first idea to the next breakthrough.{% endif %}</p>
-  <div class="hero-actions"><a class="button" href="{{ pathto_root }}atlas.html">{% if zh %}探索创新生态{% else %}Explore the ecosystem{% endif %}<span aria-hidden="true">&#8599;</span></a><a class="text-link" href="{{ pathto_root }}shanghai-ecosystem-atlas-{% if zh %}zh_CN{% else %}en{% endif %}.pdf">{% if zh %}阅读图书{% else %}Read the book{% endif %} <span aria-hidden="true">&#8594;</span></a></div>
+  <div class="hero-actions"><a class="button" href="{{ pathto_root }}atlas.html">{% if zh %}探索创新生态{% else %}Explore the ecosystem{% endif %}<span aria-hidden="true">&#8599;</span></a>{% if assembled_site %}<a class="text-link" href="{{ pathto_root }}shanghai-ecosystem-atlas-{% if zh %}zh_CN{% else %}en{% endif %}.pdf">{% if zh %}阅读图书{% else %}Read the book{% endif %} <span aria-hidden="true">&#8594;</span></a>{% else %}<a class="text-link" href="{{ pathto_root }}reading-the-city.html">{% if zh %}阅读图谱{% else %}Read the atlas{% endif %} <span aria-hidden="true">&#8594;</span></a>{% endif %}</div>
   <p class="hero-caption">{% if zh %}软件与硬件人工智能 · 科研与创业 · 不占股及股权资金{% else %}Software &amp; hardware AI / Research &amp; enterprise / Equity &amp; equity-free routes{% endif %}</p>
  </div>
  <div class="hero-art"><img src="{{ pathto_root }}_static/atlas/shanghai-ink-cover.png" alt="{% if zh %}水墨风上海天际线、白玉兰与珍珠般的人工智能网络{% else %}Shanghai skyline in Chinese ink wash, with white magnolia and a pearl-like AI constellation{% endif %}"><span class="art-label">{% if zh %}上海 · 白玉兰 · 智能未来{% else %}SHANGHAI / MAGNOLIA / INTELLIGENT FUTURES{% endif %}</span></div>

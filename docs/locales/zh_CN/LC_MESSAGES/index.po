@@ -1,0 +1,51 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../index.rst:1
+msgid "Shanghai Ecosystem Atlas"
+msgstr "上海创新生态图谱"
+
+#: ../../index.rst:4
+msgid ""
+"The Pearl of the Orient. A field guide to research, enterprise and "
+"possibility."
+msgstr "东方明珠。连接科研、企业与机遇的实用图谱。"
+
+#: ../../index.rst:6
+msgid ""
+"An illustrated English and Simplified Chinese guide for accelerators, "
+"founders, researchers and AI enthusiasts. Explore Shanghai's districts, "
+"universities, innovation programs, software and hardware AI, and the "
+"practical routes to support."
+msgstr "为加速器、创始人、研究者及人工智能爱好者编写的中英双语插图指南，探索上海各区、高校、创新计划、软件与硬件人工智能，以及获得支持的实用路径。"
+
+#: ../../index.rst:8
+
+#| msgid ""
+#| "Research edition: 2026-11-04. 113 organization profiles. 23 funding "
+#| "routes. 16 districts."
+msgid ""
+"Research edition: 2026-11-04. 113 organization profiles. 38 funding "
+"routes. 16 districts."
+msgstr "研究版本：2026-11-04。113份机构档案，38条资金路径，覆盖16个区。"
+
+#: ../../index.rst:10
+msgid ""
+":doc:`Explore the interactive atlas <atlas>` | :doc:`Find funding "
+"<funding>` | :doc:`Plan an application <apply>`"
+msgstr ":doc:`探索交互图谱 <atlas>` | :doc:`寻找资金 <funding>` | :doc:`规划申请 <apply>`"

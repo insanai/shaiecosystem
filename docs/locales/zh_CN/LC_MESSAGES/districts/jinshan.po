@@ -1,0 +1,126 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:21+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../districts/jinshan.rst:1
+msgid "Jinshan"
+msgstr "金山区"
+
+#: ../../districts/jinshan.rst:4
+msgid "Drones, new materials and low-altitude systems"
+msgstr "无人机、新材料与低空系统"
+
+#: ../../districts/jinshan.rst:6
+msgid ""
+"The 2025-2026 park plan names Jinshan New Materials Incubator, East China "
+"UAV Base and Bay Area incubation carriers. It connects testing and "
+"industrialization, subject to park admission and the applicable aviation "
+"permissions."
+msgstr "2025至2026年园区方案列出金山新材料孵化器、华东无人机基地与湾区孵化载体，衔接检测及产业化；须分别办理园区准入与适用的航空许可。"
+
+#: ../../districts/jinshan.rst:8
+msgid ""
+"`Evidence S023 "
+"<https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. "
+"金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+msgstr "`证据 S023 <https://www.shanghai.gov.cn/gwk/search/content/7eeec00799b34f9b9288a57ce0a4ef85>`_. 金山区人民政府关于印发《张江高新区金山园改革创新发展行动方案(2025-2026年)》的通知."
+
+#: ../../districts/jinshan.rst:10
+msgid "Who receives the inquiry"
+msgstr "咨询受理"
+
+#: ../../districts/jinshan.rst:13
+msgid "Jinshan science and technology authority"
+msgstr "金山区科技主管部门"
+
+#: ../../districts/jinshan.rst:15
+msgid "`Official district website <https://www.jinshan.gov.cn/>`_"
+msgstr "`区政府官网 <https://www.jinshan.gov.cn/>`_"
+
+#: ../../districts/jinshan.rst:17
+msgid ""
+"A current direct program phone or email is not established in this "
+"record. Use the official website to request the named receiving team."
+msgstr "本记录未核实现行项目直线电话或邮箱。请通过官网索取具体受理团队。"
+
+#: ../../districts/jinshan.rst:19
+msgid "Before applying"
+msgstr "申请之前"
+
+#: ../../districts/jinshan.rst:22
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../districts/jinshan.rst:24
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../districts/jinshan.rst:26
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../districts/jinshan.rst:28
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../districts/jinshan.rst:30
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../districts/jinshan.rst:32
+msgid ""
+"Ask which current notice governs the project, whether registration and "
+"actual operations must both be in the district, which expenditure period "
+"is eligible, and whether previous municipal or district awards exclude a "
+"claim. Obtain the answer before moving a company or incurring costs."
+msgstr "询问适用的现行通知、注册与经营是否均须属地、可计入支出期间，以及已获市区资助是否影响申报。应在迁移企业或发生费用之前获得答复。"
+
+#: ../../districts/jinshan.rst:34
+msgid "Local organizations in this atlas"
+msgstr "本图谱中的本区机构"
+
+#: ../../districts/jinshan.rst:37
+msgid ":doc:`East China UAV Base </entities/uav-base>`"
+msgstr ":doc:`华东无人机基地 </entities/uav-base>`"
+
+#: ../../districts/jinshan.rst:38
+msgid ":doc:`Jinshan New Materials Incubator </entities/jinshan-materials>`"
+msgstr ":doc:`金山新材料孵化器 </entities/jinshan-materials>`"
+
+#: ../../districts/jinshan.rst:39
+msgid ""
+":doc:`Shanghai Zhongqiao Vocational and Technical University "
+"</entities/university-zhongqiao>`"
+msgstr ":doc:`上海中侨职业技术大学 </entities/university-zhongqiao>`"
+
+#: ../../districts/jinshan.rst:41
+msgid "Funding routes"
+msgstr "资金路径"
+
+#: ../../districts/jinshan.rst:45
+msgid ":doc:`Also compare citywide funding </funding>`"
+msgstr ":doc:`同时比较全市资金路径 </funding>`"

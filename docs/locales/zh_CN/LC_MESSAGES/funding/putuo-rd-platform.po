@@ -1,0 +1,116 @@
+# Simplified Chinese translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Shanghai Ecosystem Atlas
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 03:30+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Shanghai Ecosystem Atlas\n"
+"Language-Team: Simplified Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/putuo-rd-platform.rst:1
+msgid "Putuo R&D Platform Projects, 2026"
+msgstr "2026普陀科技研发平台项目"
+
+#: ../../funding/putuo-rd-platform.rst:4
+msgid "Grant | Putuo"
+msgstr "补助｜普陀区"
+
+#: ../../funding/putuo-rd-platform.rst:6
+msgid "2026 call published; not confirmed open"
+msgstr "2026通知已公布，未确认正在受理"
+
+#: ../../funding/putuo-rd-platform.rst:8
+msgid ""
+"`Evidence S086 "
+"<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. "
+"关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+msgstr "`证据 S086 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+
+#: ../../funding/putuo-rd-platform.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/putuo-rd-platform.rst:13
+msgid ""
+"Up to RMB 2 million; first payment at most 50%, balance subject to "
+"acceptance"
+msgstr "最高200万元，首期不超过50%，余款按验收情况拨付"
+
+#: ../../funding/putuo-rd-platform.rst:15
+msgid "No equity"
+msgstr "不占股"
+
+#: ../../funding/putuo-rd-platform.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/putuo-rd-platform.rst:20
+msgid ""
+"Lawfully established, good-credit legal or non-legal-person organizations "
+"building qualifying R&D platforms. Online registration requires district "
+"review; credit commitments and prescribed materials are required."
+msgstr "依法设立、信用良好并建设合资格研发平台的法人或非法人组织；线上注册须区级审核，并提交信用承诺及规定材料。"
+
+#: ../../funding/putuo-rd-platform.rst:22
+msgid "Confirm the deadline in the September 2026 notice"
+msgstr "核验2026年9月通知中的具体截止日"
+
+#: ../../funding/putuo-rd-platform.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/putuo-rd-platform.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+msgstr "`官方申请／政策入口 <https://kwxxh.shpt.gov.cn/v2/ptoa/#/user/register>`_"
+
+#: ../../funding/putuo-rd-platform.rst:29
+msgid "Published consultation: +86 21 52564588 ext. 8628."
+msgstr "公布咨询电话：+86 21 52564588 ext. 8628。"
+
+#: ../../funding/putuo-rd-platform.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/putuo-rd-platform.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../funding/putuo-rd-platform.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../funding/putuo-rd-platform.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../funding/putuo-rd-platform.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../funding/putuo-rd-platform.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"
