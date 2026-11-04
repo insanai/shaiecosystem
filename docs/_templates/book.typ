@@ -32,13 +32,13 @@
   ("Libertinus Serif", "Noto Serif CJK SC", "Noto Serif Devanagari")
  }
  let sans = if ja {
-  ("DejaVu Sans", "Noto Sans CJK JP", "Noto Serif CJK JP", "Noto Sans CJK SC", "Libertinus Serif")
+  ("DejaVu Sans", "Noto Serif CJK JP", "Noto Serif CJK SC", "Libertinus Serif")
  } else if ko {
-  ("DejaVu Sans", "Noto Sans CJK KR", "Noto Serif CJK KR", "Noto Sans CJK SC", "Libertinus Serif")
+  ("DejaVu Sans", "Noto Serif CJK KR", "Noto Serif CJK SC", "Libertinus Serif")
  } else if hi {
-  ("DejaVu Sans", "Noto Sans Devanagari", "Noto Serif Devanagari", "Noto Sans CJK SC", "Libertinus Serif")
+  ("DejaVu Sans", "Noto Sans Devanagari", "Noto Serif Devanagari", "Noto Serif CJK SC", "Libertinus Serif")
  } else {
-  ("DejaVu Sans", "Noto Sans CJK SC", "Noto Serif CJK SC", "Libertinus Serif")
+  ("DejaVu Sans", "Noto Serif CJK SC", "Libertinus Serif")
  }
  show: configure-document.with(lang: lang, serif: serif, sans: sans, mono: mono, size: size, accent: jade)
  set document(title: title, author: "Vikrant Rathore")

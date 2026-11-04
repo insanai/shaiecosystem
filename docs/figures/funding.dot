@@ -1,6 +1,6 @@
 digraph funding {
  graph [rankdir=LR,bgcolor="transparent",pad="0.25",nodesep="0.28",ranksep="0.45"];
- node [shape=box,style="rounded,filled",fillcolor="#f4f3ec",color="#a88b53",fontcolor="#263b36",fontname="Noto Sans CJK SC",fontsize=10,margin="0.2,0.12"];
+ node [shape=box,style="rounded,filled",fillcolor="#f4f3ec",color="#a88b53",fontcolor="#263b36",fontname="Noto Serif CJK SC",fontsize=10,margin="0.2,0.12"];
  edge [color="#315b50",arrowsize=0.65];
  need [label="What do we need?\n我们需要什么？",fillcolor="#315b50",fontcolor="white"];
  service [label="Technical services\n技术服务"]; cash [label="Working capital\n营运资金"]; growth [label="Patient capital\n耐心资本"];

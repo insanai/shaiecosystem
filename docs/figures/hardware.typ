@@ -1,5 +1,5 @@
 #import "@preview/cetz:0.3.4"
-#set text(font: ("DejaVu Sans", "Noto Sans CJK SC"), size: 9pt, fill: rgb("263b36"))
+#set text(font: ("DejaVu Sans", "Noto Serif CJK SC"), size: 9pt, fill: rgb("263b36"))
 #cetz.canvas({
  import cetz.draw: *
  let labels = ([Research\ 科研], [Prototype\ 样机], [Verification\ 验证], [Pilot line\ 中试], [Production\ 生产])
