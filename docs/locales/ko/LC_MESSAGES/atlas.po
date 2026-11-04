@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -16,24 +16,24 @@ msgstr ""
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../atlas.rst:1
+#: ../../atlas.rst:3
 msgid "Explore the Shanghai ecosystem"
 msgstr "상하이 혁신 생태계 탐색"
 
-#: ../../atlas.rst:4
+#: ../../atlas.rst:6
 msgid ""
 "Select a district, search a Chinese or English organization name, and "
 "filter by organization type or funding mechanism. Each result opens a "
 "sourced profile with contact and application steps."
 msgstr "행정구를 선택하거나 중국어·영어 기관명을 검색하고, 기관 유형 또는 자금 지원 방식으로 필터링하십시오. 각 검색 결과를 통해 출처, 연락처, 지원 단계가 명시된 프로필을 확인할 수 있습니다."
 
-#: ../../atlas.rst:13
+#: ../../atlas.rst:15
 msgid ""
 ":doc:`Browse all district chapters <districts>` | :doc:`Browse funding "
 "<funding>`"
-msgstr ":doc:`전체 구별 장 둘러보기 <districts>` | :doc:`자금 지원 경로 둘러보기 <funding>`"
+msgstr ":doc:`전체 구별 장 둘러보기 <districts>` | :doc:`자금 조달·지원 제도 둘러보기 <funding>`"
 
-#: ../../atlas.rst:17
+#: ../../atlas.rst:19
 msgid ""
 "The website provides the interactive map. The printed district map and "
 "the directory chapters provide the same routes without requiring a device."

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 10:45+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -18,18 +18,18 @@ msgstr ""
 
 #: ../../methodology.rst:1
 msgid "How to read the evidence"
-msgstr "출처와 근거를 해석하는 방법"
+msgstr "출처와 조사 방법"
 
 #: ../../methodology.rst:4
 msgid ""
 "A useful directory makes uncertainty inspectable. We link each source "
 "near its claim and maintain one shared research record for all seven "
 "language editions."
-msgstr "유용한 가이드는 불확실한 정보도 확인할 수 있게 합니다. 각 설명 옆에 출처를 제공하고 7개 언어판 모두에서 하나의 조사 기록을 공유합니다."
+msgstr "실용적인 가이드라면 아직 확인하지 못한 정보도 분명히 밝혀야 합니다. 각 설명 옆에 출처를 제시하며, 7개 언어판 모두 같은 조사 기록을 바탕으로 작성합니다."
 
 #: ../../methodology.rst:6
 msgid "Research and translation"
-msgstr "조사 원칙과 번역 기준"
+msgstr "조사와 번역"
 
 #: ../../methodology.rst:9
 msgid ""
@@ -60,16 +60,24 @@ msgstr "검색과 실제 업무 연락의 편의를 위해 중국어 기관 고�
 
 #: ../../methodology.rst:15
 msgid "Contacts, workflows and map locations"
-msgstr "연락처, 워크플로 및 지도 좌표 검증"
+msgstr "연락처·신청 절차·지도"
 
 #: ../../methodology.rst:18
+
+#| msgid ""
+#| "Published phone numbers and email addresses are attributed to their "
+#| "source. A general university switchboard is identified as such. Where "
+#| "a direct contact is not established, the record gives the official "
+#| "website or authority route and explicitly requests a named receiving "
+#| "team. We did not contact organizations or submit applications."
 msgid ""
-"Published phone numbers and email addresses are attributed to their "
-"source. A general university switchboard is identified as such. Where a "
-"direct contact is not established, the record gives the official website "
-"or authority route and explicitly requests a named receiving team. We did "
-"not contact organizations or submit applications."
-msgstr "본서에 수록된 전화번호와 이메일 주소는 모두 공식 출처를 명기했습니다. 대학의 대표 교환 전화는 그 성격을 명확히 밝혔습니다. 전용 직통 연락처가 확인되지 않은 경우 공식 웹사이트나 주관 관청 채널을 안내하고 담당 부서를 명시적으로 문의하도록 권고했습니다. 편저자 팀은 조사 대상 기관에 사적으로 연락하거나 신청을 대행하지 않았습니다."
+"Published telephone numbers are attributed to their sources, and general "
+"university switchboards are identified. Where a direct contact is "
+"unverified, we provide an official website or authority and suggest "
+"asking for the responsible team. We have not contacted organizations or "
+"submitted applications on readers' behalf. Email addresses are not "
+"published."
+msgstr "공개 전화번호는 출처를 표시하고 대학 대표번호는 별도로 구분합니다. 직접 담당자가 확인되지 않으면 공식 웹사이트나 담당 기관을 안내해 담당 부서를 문의하도록 합니다. 기관에 직접 연락하거나 독자를 대신해 신청하지 않았으며, 이메일 주소는 공개하지 않습니다."
 
 #: ../../methodology.rst:20
 msgid ""
@@ -82,7 +90,7 @@ msgstr "신청 워크플로는 개별 공고에 특화된 절차로 명시되지
 
 #: ../../methodology.rst:22
 msgid "Known gaps and responsible upkeep"
-msgstr "한계의 명시와 지속 가능한 업데이트 원칙"
+msgstr "미확인 정보와 업데이트"
 
 #: ../../methodology.rst:25
 msgid ""
@@ -118,11 +126,9 @@ msgid ""
 "contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
 "Kanak Rathore and Emily Yue Xu. Built with Guidedog as a unified "
 "bilingual HTML website and Typst-typeset PDF book publication."
-msgstr "저자 크레디트 및 출판 시스템: 본서는 Vikrant Rathore가 집필하였으며 Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu가 기여했습니다. Guidedog을 기반으로 단일한 다국어 HTML 웹사이트와 Typst로 조판된 PDF 도서로 발행되었습니다."
+msgstr "Vikrant Rathore가 집필하고 Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu가 참여했습니다. Guidedog 기본 워크플로로 7개 언어의 HTML 웹사이트와 Typst PDF 도서를 제작합니다."
 
 #: ../../methodology.rst:33
-
-#| msgid "Research and translation"
 msgid "Reuse and licensing"
 msgstr "재사용과 라이선스"
 

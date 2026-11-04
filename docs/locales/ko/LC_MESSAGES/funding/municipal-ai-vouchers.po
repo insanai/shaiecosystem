@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -29,11 +29,6 @@ msgid "First 2026 batch closed; later batches to verify"
 msgstr "2026년 1차 마감됨; 후속 차수 일정 확인 필요"
 
 #: ../../funding/municipal-ai-vouchers.rst:8
-
-#| msgid ""
-#| "`Evidence S111 "
-#| "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
-#| "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 msgid ""
 "`Evidence S114 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
@@ -92,25 +87,25 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 msgid ""
 "Confirm the actual category, area boundary, supplier and eligible "
 "expenditure period."
-msgstr "실제 지원 유형, 적용 지역 범위, 등록된 공급 기업 및 인정 대상 지출 기간을 확인한다."
+msgstr "지원 유형, 범위, 서비스 제공사와 인정 지출 기간을 확인합니다."
 
 #: ../../funding/municipal-ai-vouchers.rst:35
 msgid ""
 "Keep service contracts, invoices, payment evidence and itemized usage "
 "logs."
-msgstr "용역 서비스 계약서, 세금계산서(발표), 이체 확인증 및 상세 사용 내역서를 빠짐없이 보관한다."
+msgstr "서비스 계약서, 중국 세금계산서(发票), 지급 증빙과 사용 내역을 보관합니다."
 
 #: ../../funding/municipal-ai-vouchers.rst:37
 msgid ""
 "Use the named platform and current batch; obtain the required district or "
 "operator review."
-msgstr "지정 플랫폼의 당해 접수 차수를 이용하며 필수적인 관할 구청 또는 운영사 심사를 완료한다."
+msgstr "지정 플랫폼의 해당 차수로 신청하고 구 또는 운영사 심사를 받습니다."
 
 #: ../../funding/municipal-ai-vouchers.rst:39
 msgid ""
 "Check approved amount, duplicate-funding exclusions and payment "
 "conditions."
-msgstr "승인 금액, 공공 지원 중복 수혜 배제 규정 및 최종 지급 정산 조건을 확인한다."
+msgstr "인정 금액, 중복 지원 제한과 지급 조건을 확인합니다."
 
 #: ../../funding/municipal-ai-vouchers.rst:41
 msgid ""

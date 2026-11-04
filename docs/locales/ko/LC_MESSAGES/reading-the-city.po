@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../reading-the-city.rst:1
 msgid "A city of connected possibilities"
-msgstr "기회의 연결망으로 읽는 도시"
+msgstr "상하이 혁신 생태계 읽기"
 
 #: ../../reading-the-city.rst:4
 msgid ""
@@ -27,7 +27,7 @@ msgid ""
 "customer to a repeatable business. The useful unit is a working "
 "relationship: a laboratory, a district service team, an incubation "
 "operator, a buyer or an investment manager."
-msgstr "연구에서 시제품으로, 시제품에서 첫 고객으로, 그리고 첫 고객에서 지속 가능한 비즈니스로 프로젝트의 여정을 따라가면 상하이를 파악하기가 한결 수월해집니다. 유의미한 실체는 바로 실무적인 협력 관계입니다. 즉, 연구실, 구 단위 서비스 팀, 인큐베이션 운영사, 구매 기업, 혹은 투자 운용사를 의미합니다."
+msgstr "연구에서 시제품으로, 시제품에서 첫 고객으로, 다시 지속 가능한 사업으로 이어지는 과정을 따라가면 상하이의 지원 자원이 보입니다. 연구실, 구별 기업지원 창구, 창업보육기관, 고객사, 투자 담당자와 구체적인 협력 관계를 맺는 것이 중요합니다."
 
 #: ../../reading-the-city.rst:12 ../../reading-the-city.rst:20
 msgid "Sixteen districts, connected by people, research and industry."
@@ -35,7 +35,7 @@ msgstr "인재, 연구, 산업으로 유기적으로 연결된 상하이의 16�
 
 #: ../../reading-the-city.rst:22
 msgid "A practical atlas, with a stated boundary"
-msgstr "명확한 경계를 지닌 실용 가이드"
+msgstr "이 가이드의 수록 범위"
 
 #: ../../reading-the-city.rst:25
 msgid ""
@@ -66,7 +66,7 @@ msgstr "본 조사의 기준 일자는 2026년 11월 4일입니다. 정책이 �
 
 #: ../../reading-the-city.rst:31
 msgid "Three geographies, many choices"
-msgstr "세 가지 공간적 지형, 다양한 선택지"
+msgstr "지역별 특징과 선택 기준"
 
 #: ../../reading-the-city.rst:34
 msgid ""
@@ -111,7 +111,7 @@ msgstr "2025~2026년 시 및 구 단위 정책 개편을 통해 이러한 공간
 
 #: ../../reading-the-city.rst:42
 msgid "The magnolia and the pearl"
-msgstr "백옥란과 진주"
+msgstr "백목련과 동양의 진주"
 
 #: ../../reading-the-city.rst:45
 msgid ""
@@ -131,24 +131,15 @@ msgid ""
 "using Guidedog in both HTML and PDF editions in seven languages, sharing "
 "one verified dataset across the interactive web atlas and the illustrated "
 "print-ready books."
-msgstr "본 도서와 인터랙티브 가이드는 Vikrant Rathore가 집필하였으며, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu가 기여했습니다. 출판 시스템으로는 Guidedog을 사용하여 단일한 다국어 HTML 웹사이트와 Typst 조판 기반의 PDF 도서로 동시에 발행되었습니다."
+msgstr "본 도서와 인터랙티브 가이드는 Vikrant Rathore가 집필하였으며, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu가 기여했습니다. 출판 시스템으로는 Guidedog을 사용하여 다국어 HTML 웹사이트와 Typst 조판 기반의 PDF 도서로 동시에 발행되었습니다."
 
 #: ../../reading-the-city.rst:49
-
-#| msgid ""
-#| "`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. "
-#| "Shanghai municipal flower and overview."
 msgid ""
 "`Evidence S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
 "municipal flower and overview."
 msgstr "`근거 S140 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
 
 #: ../../reading-the-city.rst:51
-
-#| msgid ""
-#| "`Evidence S137 "
-#| "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
-#| "Shanghai expands list of high-quality incubators."
 msgid ""
 "`Evidence S141 "
 "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "

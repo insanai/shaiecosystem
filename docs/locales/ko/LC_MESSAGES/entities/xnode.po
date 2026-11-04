@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -30,7 +30,7 @@ msgstr "액셀러레이터 | 푸둥 신구 | 연구 확인일 2026-11-04"
 
 #: ../../entities/xnode.rst:8
 msgid "AI and industry focus: Software AI, Industry."
-msgstr "AI 및 산업 분야: 소프트웨어 AI, 산업."
+msgstr "AI 및 산업 분야: AI 소프트웨어, 산업."
 
 #: ../../entities/xnode.rst:10
 msgid ""
@@ -51,7 +51,7 @@ msgstr "현황 및 지원 내역"
 
 #: ../../entities/xnode.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+msgstr "기관 정보 확인됨·현재 모집 여부 확인 필요"
 
 #: ../../entities/xnode.rst:19
 msgid ""
@@ -95,25 +95,25 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 
 #: ../../entities/xnode.rst:37
 msgid "Identify the corporate business owner and one measurable use case."
-msgstr "기업 내 사업 책임자(Business Owner)와 측정 가능한 구체적 도입 사례 1건을 특정한다."
+msgstr "기업의 사업 담당자를 찾고 성과를 측정할 수 있는 활용 사례를 정합니다."
 
 #: ../../entities/xnode.rst:39
 msgid ""
 "Submit the product brief, pilot evidence and relevant technical "
 "requirements."
-msgstr "제품 소개서, 파일럿 실증 데이터 및 관련 기술 요구사항을 제출한다."
+msgstr "제품 소개, 실증 결과와 기술 요구사항을 제출합니다."
 
 #: ../../entities/xnode.rst:41
 msgid ""
 "Confirm cohort availability or agree a scoped pilot, data rights and IP "
 "terms."
-msgstr "정기 배치 모집 여부를 확인하거나 파일럿 실증 범위, 데이터 권리, 지식재산권(IP) 조건을 협의한다."
+msgstr "현재 모집 여부를 확인하거나 실증 범위, 데이터 권리와 지식재산권을 별도로 합의합니다."
 
 #: ../../entities/xnode.rst:43
 msgid ""
 "Review procurement, payment, acceptance and the production decision "
 "separately."
-msgstr "조달 프로세스, 대금 지급 일정, 검수 절차 및 양산 전환 결정을 독립된 단계로 검토한다."
+msgstr "구매, 대금 지급, 검수, 정식 도입 여부를 각각 확인합니다."
 
 #: ../../entities/xnode.rst:45
 msgid ":doc:`Pudong district route </districts/pudong>`"

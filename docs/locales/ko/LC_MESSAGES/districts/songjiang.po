@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -33,11 +33,6 @@ msgid ""
 msgstr "G60 과학기술혁신밸리는 다양한 혁신 및 자원 매칭 정책을 발표하고 있습니다. 장삼각 9개 도시 협력 회랑의 자격과 상하이 쑹장구 관할 지원 자격은 구별되므로, 타 도시 참여 기업이라는 사실만으로 쑹장구 지원 자격이 인정되지는 않습니다."
 
 #: ../../districts/songjiang.rst:8
-
-#| msgid ""
-#| "`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. "
-#| "G60 unveils comprehensive support plan to fuel innovation valley | "
-#| "Songjiang."
 msgid ""
 "`Evidence S104 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
@@ -75,25 +70,25 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+msgstr "날짜가 명시된 공고에서 소재지, 신청 주체, 사업 분야와 인정 지출 기간을 확인합니다."
 
 #: ../../districts/songjiang.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+msgstr "서류를 준비하고 필요한 경우 주관 기관이나 구의 추천을 받습니다."
 
 #: ../../districts/songjiang.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+msgstr "마감 전에 공식 플랫폼으로 제출하고 접수증을 보관합니다."
 
 #: ../../districts/songjiang.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+msgstr "공고에 따라 심사, 선정, 보고, 검수와 지급 절차를 진행합니다."
 
 #: ../../districts/songjiang.rst:32
 msgid ""
@@ -115,7 +110,7 @@ msgid ""
 "For an AI infrastructure team, establish compatibility requirements, lab "
 "access and real customer demand before choosing space. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`G60 쑹장 신촹 산업단지 </entities/g60-xinchuang>` (G60松江信创产业园 · 과학기술단지 · 소프트웨어 AI, 반도체 칩) — 국산 정보기술 혁신(신촹)을 지원하는 공식 인증 산업단지입니다. AI 인프라 팀의 경우 공간을 결정하기 전에 호환성 요건, 랩 접근성 및 실제 고객 수요를 먼저 확인해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`G60 쑹장 신촹 산업단지 </entities/g60-xinchuang>` (G60松江信创产业园 · 과학기술단지 · AI 소프트웨어, 반도체 칩) — 국산 정보기술 혁신(신촹)을 지원하는 공식 인증 산업단지입니다. AI 인프라 팀의 경우 공간을 결정하기 전에 호환성 요건, 랩 접근성 및 실제 고객 수요를 먼저 확인해야 합니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/songjiang.rst:38
 msgid ""
@@ -125,7 +120,7 @@ msgid ""
 "September 2026 special-fund notice to link the seven universities in "
 "Songjiang University Town with technology-transfer platforms and "
 "incubation operators. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`쑹장 대학타운 과기혁신원 </entities/songjiang-uni-source>` (松江大学城科创源 · 인큐베이터 · 소프트웨어 AI, 하드웨어 AI, 신소재) — 2026년 9월 특별자금 지원 공고를 통해 출범한 쑹장구 산학협력 거점으로 쑹장 대학타운 내 7개 대학과 기술이전 플랫폼 및 창업 인큐베이터를 연계합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`쑹장 대학타운 과기혁신원 </entities/songjiang-uni-source>` (松江大学城科创源 · 인큐베이터 · AI 소프트웨어, AI 하드웨어, 신소재) — 2026년 9월 특별자금 지원 공고를 통해 출범한 쑹장구 산학협력 거점으로 쑹장 대학타운 내 7개 대학과 기술이전 플랫폼 및 창업 인큐베이터를 연계합니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/songjiang.rst:39
 msgid ""
@@ -135,7 +130,7 @@ msgid ""
 "design, smart textiles. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`둥화대학교 </entities/university-donghua>` (东华大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 첨단 섬유, 기능성 소재, 산업 디자인, 스마트 텍스타일. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`둥화대학교 </entities/university-donghua>` (东华大学 · 대학) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 첨단 섬유, 기능성 소재, 산업 디자인, 스마트 텍스타일. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/songjiang.rst:40
 msgid ""
@@ -145,7 +140,7 @@ msgid ""
 "collaboration themes: Trade, commerce, cross-border business. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이대외경무대학교 </entities/university-suibe>` (上海对外经贸大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 글로벌 통상, 무역 프로세스 자동화, 크로스보더 e커머스. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이대외경무대학교 </entities/university-suibe>` (上海对外经贸大学 · 대학) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 글로벌 통상, 무역 프로세스 자동화, 크로스보더 e커머스. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/songjiang.rst:41
 msgid ""
@@ -155,7 +150,7 @@ msgid ""
 "themes: IP, data governance, legal technology. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`화동정법대학교 </entities/university-ecupl>` (华东政法大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 지식재산권(IP), 데이터 거버넌스, 리걸테크(LegalTech). 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`화동정법대학교 </entities/university-ecupl>` (华东政法大学 · 대학) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 지식재산권(IP), 데이터 거버넌스, 리걸테크(LegalTech). 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/songjiang.rst:42
 msgid ""
@@ -165,7 +160,7 @@ msgid ""
 "collaboration themes: Engineering, mobility, manufacturing, design. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이공정기술대학교 </entities/university-sues>` (上海工程技术大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 산업 엔지니어링, 스마트 모빌리티, 첨단 제조, 산업 디자인. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이공정기술대학교 </entities/university-sues>` (上海工程技术大学 · 대학) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 산업 엔지니어링, 스마트 모빌리티, 첨단 제조, 산업 디자인. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/songjiang.rst:43
 msgid ""
@@ -175,7 +170,7 @@ msgid ""
 "creative technology. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`상하이리다학원 </entities/university-lida>` (上海立达学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 응용 비즈니스, 시각 디자인, 창의 콘텐츠 테크. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이리다학원 </entities/university-lida>` (上海立达学院 · 대학) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 응용 비즈니스, 시각 디자인, 창의 콘텐츠 테크. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/songjiang.rst:44
 msgid ""
@@ -185,11 +180,11 @@ msgid ""
 "content and creative technology. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이시각예술학원 </entities/university-siva>` (上海视觉艺术学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 인터랙티브 디자인, 디지털 콘텐츠 제작, 크리에이티브 테크놀로지. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이시각예술학원 </entities/university-siva>` (上海视觉艺术学院 · 대학) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 인터랙티브 디자인, 디지털 콘텐츠 제작, 크리에이티브 테크놀로지. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/songjiang.rst:46
 msgid "Funding routes"
-msgstr "자금 지원 경로"
+msgstr "자금 조달·지원 제도"
 
 #: ../../districts/songjiang.rst:49
 msgid ""
@@ -199,7 +194,7 @@ msgid ""
 "innovation projects matched 1:1 under the policy. Status: Policy in "
 "force; call not confirmed open. Timing: Policy: 1 January 2026 to 31 "
 "December 2027; confirm the applicable call."
-msgstr ":doc:`쑹장구 과학기술 기업 혁신 및 매칭 지원 </funding/songjiang-innovation>` (松江科技企业创新与配套支持 · 보조금 · 지분 제공 의무 없음) — 구 단위 혁신 과제 최대 10만 위안; 승인된 시 단위 혁신 과제에는 정책에 따라 1:1 매칭 지원. 상태: 정책 시행 중; 공고 접수 개시 미확인. 일정: 정책 유효기간: 2026년 1월 1일~2027년 12월 31일; 해당 공고 확인 필요."
+msgstr ":doc:`쑹장구 과학기술 기업 혁신 및 매칭 지원 </funding/songjiang-innovation>` (松江科技企业创新与配套支持 · 보조금 · 지분 제공 의무 없음) — 구 단위 혁신 과제 최대 10만 위안; 승인된 시 단위 혁신 과제에는 정책에 따라 1:1 매칭 지원. 상태: 정책 시행 중·현재 접수 여부 미확인. 일정: 정책 유효기간: 2026년 1월 1일~2027년 12월 31일; 해당 공고 확인 필요."
 
 #: ../../districts/songjiang.rst:50
 msgid ""

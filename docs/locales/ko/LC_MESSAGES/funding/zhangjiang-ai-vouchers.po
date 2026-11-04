@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -26,14 +26,9 @@ msgstr "비용 환급 지원 | 푸둥 신구"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:6
 msgid "Quarterly scheme published; current intake to confirm"
-msgstr "분기별 프로그램 공시됨; 당해 분기 접수 확인 필요"
+msgstr "분기별 신청 제도·현재 접수 여부 확인 필요"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:8
-
-#| msgid ""
-#| "`Evidence S110 "
-#| "<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
-#| "浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
 msgid ""
 "`Evidence S113 "
 "<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
@@ -92,25 +87,25 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 msgid ""
 "Confirm the actual category, area boundary, supplier and eligible "
 "expenditure period."
-msgstr "실제 지원 유형, 적용 지역 범위, 등록된 공급 기업 및 인정 대상 지출 기간을 확인한다."
+msgstr "지원 유형, 범위, 서비스 제공사와 인정 지출 기간을 확인합니다."
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:35
 msgid ""
 "Keep service contracts, invoices, payment evidence and itemized usage "
 "logs."
-msgstr "용역 서비스 계약서, 세금계산서(발표), 이체 확인증 및 상세 사용 내역서를 빠짐없이 보관한다."
+msgstr "서비스 계약서, 중국 세금계산서(发票), 지급 증빙과 사용 내역을 보관합니다."
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:37
 msgid ""
 "Use the named platform and current batch; obtain the required district or "
 "operator review."
-msgstr "지정 플랫폼의 당해 접수 차수를 이용하며 필수적인 관할 구청 또는 운영사 심사를 완료한다."
+msgstr "지정 플랫폼의 해당 차수로 신청하고 구 또는 운영사 심사를 받습니다."
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:39
 msgid ""
 "Check approved amount, duplicate-funding exclusions and payment "
 "conditions."
-msgstr "승인 금액, 공공 지원 중복 수혜 배제 규정 및 최종 지급 정산 조건을 확인한다."
+msgstr "인정 금액, 중복 지원 제한과 지급 조건을 확인합니다."
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:41
 msgid ""

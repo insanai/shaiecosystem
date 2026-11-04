@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -29,11 +29,6 @@ msgid "2026 call published; deadline check required"
 msgstr "2026년 공고 발표됨; 마감일 확인 필요"
 
 #: ../../funding/songjiang-data-2026.rst:8
-
-#| msgid ""
-#| "`Evidence S132 "
-#| "<https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. "
-#| "关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
 msgid ""
 "`Evidence S135 "
 "<https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. "
@@ -96,25 +91,25 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+msgstr "날짜가 명시된 공고에서 소재지, 신청 주체, 사업 분야와 인정 지출 기간을 확인합니다."
 
 #: ../../funding/songjiang-data-2026.rst:35
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+msgstr "서류를 준비하고 필요한 경우 주관 기관이나 구의 추천을 받습니다."
 
 #: ../../funding/songjiang-data-2026.rst:37
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+msgstr "마감 전에 공식 플랫폼으로 제출하고 접수증을 보관합니다."
 
 #: ../../funding/songjiang-data-2026.rst:39
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+msgstr "공고에 따라 심사, 선정, 보고, 검수와 지급 절차를 진행합니다."
 
 #: ../../funding/songjiang-data-2026.rst:41
 msgid ""

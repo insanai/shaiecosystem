@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -35,10 +35,6 @@ msgid ""
 msgstr "액셀러레이터, 창업자, 연구자 및 AI에 관심 있는 사람을 위한 7개 언어 일러스트 가이드입니다. 상하이 전체 16개 구의 대학, 소프트웨어·하드웨어 AI 커뮤니티와 실질적인 지원 경로를 연결합니다."
 
 #: ../../index.rst:10
-
-#| msgid ""
-#| "Research edition: 2026-11-04. 131 organization profiles. 50 funding "
-#| "routes. 16 districts. 140 cited sources."
 msgid ""
 "Research edition: 2026-11-04. 133 organization profiles. 53 funding "
 "routes. 16 districts. 144 cited sources."
@@ -51,14 +47,14 @@ msgid ""
 "Produced using **Guidedog** as a unified seven-language **HTML and PDF** "
 "publication inspired by Shanghai's official flower, the white magnolia "
 "(*Yulania denudata*)."
-msgstr "**Vikrant Rathore**가 집필하고 **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu**가 기여했습니다. 상하이의 시화인 백옥란(*Yulania denudata*)에서 영감을 받아 **Guidedog**을 통해 단일한 다국어 **HTML 및 PDF** 출판물로 제작되었습니다."
+msgstr "**Vikrant Rathore**가 집필하고 **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu**가 기여했습니다. 상하이의 시화인 백옥란(*Yulania denudata*)에서 영감을 받아 **Guidedog**을 통해 다국어 **HTML 및 PDF** 출판물로 제작되었습니다."
 
 #: ../../index.rst:14
 msgid ""
 ":doc:`Explore the interactive atlas <atlas>` | :doc:`Browse all 16 "
 "districts <districts>` | :doc:`Find funding <funding>` | :doc:`Plan an "
 "application <apply>`"
-msgstr ":doc:`인터랙티브 가이드 둘러보기 <atlas>` | :doc:`16개 구 전체 둘러보기 <districts>` | :doc:`자금 지원 경로 찾기 <funding>` | :doc:`지원 계획 수립하기 <apply>`"
+msgstr ":doc:`인터랙티브 가이드 둘러보기 <atlas>` | :doc:`16개 구 전체 둘러보기 <districts>` | :doc:`자금 조달·지원 제도 찾기 <funding>` | :doc:`지원 계획 수립하기 <apply>`"
 
 #: ../../index.rst:18
 msgid "All 16 administrative districts of Shanghai"
@@ -70,15 +66,9 @@ msgid ""
 "and the PDF book with its documented industrial focus, receiving "
 "government authority, local innovation carriers, universities and "
 "district funding routes:"
-msgstr "상하이의 모든 행정구는 웹사이트와 PDF 도서 양쪽에서 공식 문서로 입증된 산업 특화 방향, 관할 정부 부처, 현지 혁신 거점, 대학교 및 구 단위 자금 지원 경로와 함께 다루어집니다:"
+msgstr "상하이의 모든 행정구는 웹사이트와 PDF 도서 양쪽에서 공식 문서로 입증된 산업 특화 방향, 관할 정부 부처, 현지 혁신 거점, 대학교 및 구 단위 자금 조달·지원 제도와 함께 다루어집니다:"
 
 #: ../../index.rst:23
-
-#| msgid ""
-#| "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation "
-#| "models, chips, biomedicine and advanced manufacturing**. Authority: "
-#| "Pudong Science, Technology and Economy Commission. (40 organizations, "
-#| "4 district funding routes)"
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
@@ -210,7 +200,7 @@ msgid ""
 "logic across central Shanghai, industrial corridors, five新城 (New Cities) "
 "and Chongming Eco-Island, plus magnolia design notes and authorship "
 "credits."
-msgstr ":doc:`기회의 연결망으로 읽는 도시 <reading-the-city>` — 상하이 중심부, 산업 회랑, 5대 신성(新城), 충밍 생태섬을 아우르는 공간적 구조와 백옥란 디자인 해설 및 저자 크레디트."
+msgstr ":doc:`상하이 혁신 생태계 읽기 <reading-the-city>` — 상하이 중심부, 산업 회랑, 5대 신성(新城), 충밍 생태섬을 아우르는 공간적 구조와 백옥란 디자인 해설 및 저자 크레디트."
 
 #: ../../index.rst:44
 msgid ""
@@ -224,14 +214,14 @@ msgid ""
 ":doc:`Intelligence in software <software-ai>` — Foundation models, "
 "vertical agents, Model Speed Space, Zhangjiang Model Community, "
 "compute/corpus vouchers and compliance routing."
-msgstr ":doc:`소프트웨어 지능 <software-ai>` — 파운데이션 모델, 버티컬 에이전트, 모수공간(Model Speed Space), 장장 모델 커뮤니티, 연산 자원 및 말뭉치 바우처, 규제 준수 절차."
+msgstr ":doc:`소프트웨어와 AI 활용 <software-ai>` — 파운데이션 모델, 버티컬 에이전트, 모수공간(Model Speed Space), 장장 모델 커뮤니티, 연산 자원 및 말뭉치 바우처, 규제 준수 절차."
 
 #: ../../index.rst:46
 msgid ""
 ":doc:`Intelligence in the physical world <hardware-ai>` — AI chips, "
 "EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, "
 "BCI and wet-lab biocomputing."
-msgstr ":doc:`물리 세계의 지능 <hardware-ai>` — AI 반도체, EDA 및 MPW 파운드리 테이프아웃, MEMS 센서, 피지컬 로보틱스, 저고도 드론, BCI 뇌-컴퓨터 인터페이스 및 바이오 컴퓨팅."
+msgstr ":doc:`반도체·로봇과 AI 하드웨어 <hardware-ai>` — AI 반도체, EDA 및 MPW 파운드리 테이프아웃, MEMS 센서, 피지컬 로보틱스, 저고도 드론, BCI 뇌-컴퓨터 인터페이스 및 바이오 컴퓨팅."
 
 #: ../../index.rst:47
 msgid ""
@@ -286,14 +276,14 @@ msgid ""
 ":doc:`Capital, with its conditions attached <funding-guide>` — How to "
 "distinguish non-repayable grants, post-expenditure reimbursements, "
 "vouchers, debt, tax relief and equity investment."
-msgstr ":doc:`자본과 그 이면의 조건들 <funding-guide>` — 상환 의무 없는 보조금, 사후 비용 환급, 바우처, 대출 부채, 세제 혜택 및 지분 투자를 구분하고 분석하는 방법."
+msgstr ":doc:`자금 조달과 지원 조건 <funding-guide>` — 상환 의무 없는 보조금, 사후 비용 환급, 바우처, 대출 부채, 세제 혜택 및 지분 투자를 구분하고 분석하는 방법."
 
 #: ../../index.rst:55
 msgid ""
 ":doc:`Funding, without mixing the mechanisms <funding>` — All 40 citywide "
 "and district funding pathways with ceilings, equity rules, eligibility "
 "criteria, deadlines and official links."
-msgstr ":doc:`지원금 경로: 자금 조달 메커니즘의 명확한 구분 <funding>` — 지원 상한선, 지분 조건, 자격 요건, 마감 기한 및 공식 링크를 집대성한 상하이 시 전역 및 구 단위 45개 자금 조달 경로."
+msgstr ":doc:`지원금 경로: 자금 조달 메커니즘의 명확한 구분 <funding>` — 지원 상한선, 지분 조건, 자격 요건, 마감 기한 및 공식 링크를 집대성한 상하이 시 전역 및 구 단위 45개 자금 조달 방법."
 
 #: ../../index.rst:56
 msgid ""
@@ -307,14 +297,14 @@ msgid ""
 ":doc:`From introduction to application <apply>` — Bilingual outreach "
 "templates, shared data-room checklist, decision workflows and a four-week "
 "accelerator field program."
-msgstr ":doc:`사전 접촉에서 공식 신청까지 <apply>` — 이중언어 지원 서신 템플릿, 공용 데이터룸 체크리스트, 4가지 의사결정 워크플로 및 액셀러레이터 4주 현장 실행 프로그램."
+msgstr ":doc:`첫 문의부터 신청까지 <apply>` — 이중언어 지원 서신 템플릿, 공용 데이터룸 체크리스트, 4가지 의사결정 워크플로 및 액셀러레이터 4주 현장 실행 프로그램."
 
 #: ../../index.rst:58
 msgid ""
 ":doc:`How to read the evidence <methodology>` — Source verification "
 "rules, translation discipline, map accuracy disclosures, known gaps and "
 "authorship credits."
-msgstr ":doc:`출처와 근거를 해석하는 방법 <methodology>` — 출처 검증 원칙, 엄격한 번역 기준, 지도 좌표 정확도 한계 고지, 미확인 공백 사항 및 저자 크레디트."
+msgstr ":doc:`출처와 조사 방법 <methodology>` — 출처 검증 원칙, 엄격한 번역 기준, 지도 좌표 정확도 한계 고지, 미확인 공백 사항 및 저자 크레디트."
 
 #: ../../index.rst:59
 msgid ""

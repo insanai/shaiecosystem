@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -71,25 +71,25 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+msgstr "날짜가 명시된 공고에서 소재지, 신청 주체, 사업 분야와 인정 지출 기간을 확인합니다."
 
 #: ../../districts/jinshan.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+msgstr "서류를 준비하고 필요한 경우 주관 기관이나 구의 추천을 받습니다."
 
 #: ../../districts/jinshan.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+msgstr "마감 전에 공식 플랫폼으로 제출하고 접수증을 보관합니다."
 
 #: ../../districts/jinshan.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+msgstr "공고에 따라 심사, 선정, 보고, 검수와 지급 절차를 진행합니다."
 
 #: ../../districts/jinshan.rst:32
 msgid ""
@@ -110,7 +110,7 @@ msgid ""
 "services and a low-altitude incubation platform. Airspace, testing and "
 "airworthiness services require separate confirmation from physical "
 "workspace. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`화둥 드론 기지 </entities/uav-base>` (华东无人机基地 · 과학기술단지 · 하드웨어 AI, 드론) — 진산구 단지 계획에 시험 비행 서비스 및 저고도 경제 인큐베이션 플랫폼이 포함되어 있습니다. 공역 사용, 비행 테스트 및 감항 인증 서비스는 물리적 사무 공간과 별도로 확인해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`화둥 드론 기지 </entities/uav-base>` (华东无人机基地 · 과학기술단지 · AI 하드웨어, 드론) — 진산구 단지 계획에 시험 비행 서비스 및 저고도 경제 인큐베이션 플랫폼이 포함되어 있습니다. 공역 사용, 비행 테스트 및 감항 인증 서비스는 물리적 사무 공간과 별도로 확인해야 합니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/jinshan.rst:38
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "materials and manufacturing inputs; specify process equipment and "
 "environmental constraints in the inquiry. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`진산 신소재 인큐베이터 </entities/jinshan-materials>` (金山新材料孵化器 · 인큐베이터 · 신소재, 하드웨어 AI) — 탄구뤼완(탄소계곡 그린베이)과 연계된 신소재 전문 인큐베이션 거점입니다. 센서, 전자 재료, 제조 부자재 기업에 적합하며, 문의 시 공정 설비 및 환경 규제 요건을 명시해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`진산 신소재 인큐베이터 </entities/jinshan-materials>` (金山新材料孵化器 · 인큐베이터 · 신소재, AI 하드웨어) — 탄구뤼완(탄소계곡 그린베이)과 연계된 신소재 전문 인큐베이션 거점입니다. 센서, 전자 재료, 제조 부자재 기업에 적합하며, 문의 시 공정 설비 및 환경 규제 요건을 명시해야 합니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/jinshan.rst:39
 msgid ""
@@ -131,11 +131,11 @@ msgid ""
 "applied skills. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`상하이중차오 직업기술대학교 </entities/university-zhongqiao>` (上海中侨职业技术大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 직업학사 엔지니어링 실무 및 산업 기술 인력 양성. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이중차오 직업기술대학교 </entities/university-zhongqiao>` (上海中侨职业技术大学 · 대학) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 직업학사 엔지니어링 실무 및 산업 기술 인력 양성. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/jinshan.rst:41
 msgid "Funding routes"
-msgstr "자금 지원 경로"
+msgstr "자금 조달·지원 제도"
 
 #: ../../districts/jinshan.rst:44
 msgid ""
@@ -145,7 +145,7 @@ msgid ""
 "and industrialization support under the 2025-2026 park action plan. "
 "Status: Policy in force; call not confirmed open. Timing: Policy: 2025 to "
 "2026 action plan; confirm current implementing batch."
-msgstr ":doc:`장장 진산원 저고도 드론 및 신소재 혁신 지원 </funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · 보조금 / 비용 환급 · 지분 제공 의무 없음) — 2025~2026년 단지 행동계획 및 장장 전용 정책에 따른 R&D, 인큐베이션 공간, 시험인증 및 산업화 지원금. 상태: 정책 시행 중; 공고 접수 개시 미확인. 일정: 정책: 2025~2026년 행동계획 준용; 현재 구체적 실시 배치 확인 필요."
+msgstr ":doc:`장장 진산원 저고도 드론 및 신소재 혁신 지원 </funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · 보조금 / 비용 환급 · 지분 제공 의무 없음) — 2025~2026년 단지 행동계획 및 장장 전용 정책에 따른 R&D, 인큐베이션 공간, 시험인증 및 산업화 지원금. 상태: 정책 시행 중·현재 접수 여부 미확인. 일정: 정책: 2025~2026년 행동계획 준용; 현재 구체적 실시 배치 확인 필요."
 
 #: ../../districts/jinshan.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

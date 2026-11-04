@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -44,7 +44,7 @@ msgstr "최대 80만 위안, 지원 기간 3년; 배당에 참여하지 않으�
 
 #: ../../funding/stefg-equity.rst:15
 msgid "Temporary equity; original-price exit"
-msgstr "한시적 지분 보유; 최초 투자금액으로 회수"
+msgstr "한시적 지분 보유·최초 출자금으로 회수"
 
 #: ../../funding/stefg-equity.rst:17
 msgid "Eligibility and timing"
@@ -85,24 +85,24 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 msgid ""
 "Read the foundation's current eligibility rules and choose loan or "
 "temporary equity."
-msgstr "상하이 대학생 과학기술 창업기금회(STEFG)의 최신 자격 규정을 확인하고 엔젤 대출 또는 무이자 임시 지분 방식을 선택한다."
+msgstr "기금회의 최신 조건을 읽고 대출 또는 한시적 지분 보유 방식의 지원을 선택합니다."
 
 #: ../../funding/stefg-equity.rst:35
 msgid ""
 "Identify a receiving branch and submit the prescribed founder and project "
 "documents."
-msgstr "관할 접수 분회를 확인하고 창업자 자격 및 사업 계획서 서류를 제출한다."
+msgstr "접수 분회를 확인하고 창업자와 사업 관련 서류를 제출합니다."
 
 #: ../../funding/stefg-equity.rst:37
 msgid ""
 "Complete review and examine repayment, founder funding and exit "
 "obligations."
-msgstr "심사를 통과한 후 상환 조건, 창업자 자기자본 매칭 요건 및 펀드 지분 회수 의무를 검토한다."
+msgstr "심사를 받고 상환, 자기자금과 지분 회수 의무를 검토합니다."
 
 #: ../../funding/stefg-equity.rst:39
 msgid ""
 "Sign the correct agreement and track the full three-year obligations."
-msgstr "해당 협약서를 체결하고 3개년 동안 요구되는 모든 의무 사항을 관리한다."
+msgstr "해당 계약을 맺고 3년간 이행할 의무를 관리합니다."
 
 #: ../../funding/stefg-equity.rst:41
 msgid ""

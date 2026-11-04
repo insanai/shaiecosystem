@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -30,14 +30,14 @@ msgstr "인큐베이터 | 쉬후이구 | 연구 확인일 2026-11-04"
 
 #: ../../entities/mosu.rst:8
 msgid "AI and industry focus: Software AI."
-msgstr "AI 및 산업 분야: 소프트웨어 AI."
+msgstr "AI 및 산업 분야: AI 소프트웨어."
 
 #: ../../entities/mosu.rst:10
 msgid ""
 "A specialist large-model incubation and acceleration community on the "
 "West Bund. Its operator lists several zones; admission, workspace, "
 "compute support and investment are separate decisions."
-msgstr "웨스트번드에 위치한 대형 AI 모델 전문 인큐베이션 및 가속화 커뮤니티입니다. 운영사가 여러 구역을 관리하고 있으며, 입주, 업무 공간, 컴퓨팅 지원 및 투자는 각각 별개의 결정 사항입니다."
+msgstr "웨스트번드에 위치한 대형 AI 모델 전문 창업보육·액셀러레이팅 커뮤니티입니다. 운영사가 여러 구역을 관리하고 있으며, 입주, 업무 공간, 컴퓨팅 지원 및 투자는 각각 별개의 결정 사항입니다."
 
 #: ../../entities/mosu.rst:12
 msgid "`Evidence S001 <https://www.opensmc.com/>`_. 模速空间."
@@ -49,11 +49,11 @@ msgstr "현황 및 지원 내역"
 
 #: ../../entities/mosu.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+msgstr "기관 정보 확인됨·현재 모집 여부 확인 필요"
 
 #: ../../entities/mosu.rst:19
 msgid "Published support note: Services / possible incentives."
-msgstr "공개 지원 안내: 공간 서비스 / 잠재적 인센티브."
+msgstr "공개 지원 안내: 시설·서비스 지원 / 추가 혜택 가능."
 
 #: ../../entities/mosu.rst:21
 msgid ""
@@ -97,24 +97,24 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 
 #: ../../entities/mosu.rst:39
 msgid "Send a project brief and request the current admission checklist."
-msgstr "프로젝트 개요를 송부하고 현행 입주 체크리스트를 요청한다."
+msgstr "사업 소개서를 보내고 최신 입주 조건과 서류 목록을 요청합니다."
 
 #: ../../entities/mosu.rst:41
 msgid ""
 "Complete the operator's eligibility and technical or commercial review."
-msgstr "운영사의 지원 자격 요건 및 기술·사업성 평가를 완료한다."
+msgstr "운영사의 자격 심사와 기술·사업성 평가를 받습니다."
 
 #: ../../entities/mosu.rst:43
 msgid ""
 "Confirm rent, service fees, IP, compute pricing and any equity rights in "
 "writing."
-msgstr "임대료, 서비스 수수료, 지식재산권(IP), 컴퓨팅 파워 단가 및 지분 관련 권리를 서면으로 확정한다."
+msgstr "임대료, 서비스 요금, 지식재산권, 컴퓨팅 요금, 지분 관련 권리를 서면으로 확인합니다."
 
 #: ../../entities/mosu.rst:45
 msgid ""
 "Sign the agreed admission documents and record milestones and support "
 "owners."
-msgstr "합의된 입주 계약서에 서명하고 마일스톤 달성 목표와 전담 지원 담당자를 등록한다."
+msgstr "입주 계약을 맺고 단계별 목표와 지원 담당자를 기록합니다."
 
 #: ../../entities/mosu.rst:47
 msgid ":doc:`Xuhui district route </districts/xuhui>`"

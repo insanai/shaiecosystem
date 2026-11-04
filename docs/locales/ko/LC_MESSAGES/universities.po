@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -24,7 +24,7 @@ msgstr "대학과 연구 상용화"
 msgid ""
 "40 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "출처, 연락 경로 및 신청 체크리스트가 포함된 40개의 프로필. 기관의 존재 여부와 현재 모집 여부는 구분하여 표기합니다."
+msgstr "40개 기관의 정보와 출처, 연락처, 신청 참고 절차를 수록했습니다. 기관 정보 확인 여부와 현재 모집 상태는 구분해 표시합니다."
 
 #: ../../universities.rst:6
 msgid ""
@@ -53,7 +53,7 @@ msgid ""
 "not a verified offer of laboratory access or startup funding. Address: "
 "220 Handan Road, Yangpu | Tel: +86 21 65642222. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`푸단대학교 <entities/university-fudan>` (复旦大学 · 대학 · 양푸구 · MOE 4131010246) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 소프트웨어 AI, 반도체 칩, 과학을 위한 AI(AI for Science). 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. 양푸구 한단루 220호 | Tel: +86 21 65642222. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`푸단대학교 <entities/university-fudan>` (复旦大学 · 대학 · 양푸구 · MOE 4131010246) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 소프트웨어 AI, 반도체 칩, 과학을 위한 AI(AI for Science). 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. 양푸구 한단루 220호 | Tel: +86 21 65642222. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:16
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. Address: 2F, West Building, 100 Guokang Road, Yangpu "
 "| Tel: +86 21 65069006. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`퉁지대학교 <entities/university-tongji>` (同济大学 · 대학 · 양푸구 · MOE 4131010247) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 자율주행 시스템, 모빌리티, 로봇 공학, 건축 및 도시환경. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. 양푸구 궈캉루 100호 서루 2층 | Tel: +86 21 65069006. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`퉁지대학교 <entities/university-tongji>` (同济大学 · 대학 · 양푸구 · MOE 4131010247) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 자율주행 시스템, 모빌리티, 로봇 공학, 건축 및 도시환경. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. 양푸구 궈캉루 100호 서루 2층 | Tel: +86 21 65069006. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:17
 msgid ""
@@ -74,7 +74,7 @@ msgid ""
 "Robotics, chips, engineering, medical AI. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이교통대학교 <entities/university-sjtu>` (上海交通大学 · 대학 · 민항구 · MOE 4131010248) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 로봇 공학, 반도체 칩, 첨단 엔지니어링, 의료 AI. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이교통대학교 <entities/university-sjtu>` (上海交通大学 · 대학 · 민항구 · MOE 4131010248) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 로봇 공학, 반도체 칩, 첨단 엔지니어링, 의료 AI. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:18
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "bioprocessing, AI for Science. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`화동이공대학교 <entities/university-ecust>` (华东理工大学 · 대학 · 쉬후이구 · MOE 4131010251) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 첨단 소재, 화학 공학, 바이오 공정, 과학을 위한 AI(AI for Science). 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`화동이공대학교 <entities/university-ecust>` (华东理工大学 · 대학 · 쉬후이구 · MOE 4131010251) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 첨단 소재, 화학 공학, 바이오 공정, 과학을 위한 AI(AI for Science). 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:19
 msgid ""
@@ -96,7 +96,7 @@ msgid ""
 "sensors, advanced equipment. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`상하이이공대학교 <entities/university-usst>` (上海理工大学 · 대학 · 양푸구 · MOE 4131010252) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 광학 기술, 의료기기, 스마트 센서, 첨단 산업장비. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이이공대학교 <entities/university-usst>` (上海理工大学 · 대학 · 양푸구 · MOE 4131010252) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 광학 기술, 의료기기, 스마트 센서, 첨단 산업장비. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:20
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`상하이해사대학교 <entities/university-maritime>` (上海海事大学 · 대학 · 푸둥 신구 · MOE 4131010254) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 스마트 해운, 물류 시스템, 자율운항 해양 시스템. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이해사대학교 <entities/university-maritime>` (上海海事大学 · 대학 · 푸둥 신구 · MOE 4131010254) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 스마트 해운, 물류 시스템, 자율운항 해양 시스템. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:21
 msgid ""
@@ -117,7 +117,7 @@ msgid ""
 "themes: Advanced fibers, materials, design, smart textiles. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`둥화대학교 <entities/university-donghua>` (东华大学 · 대학 · 쑹장구 · MOE 4131010255) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 첨단 섬유, 기능성 소재, 산업 디자인, 스마트 텍스타일. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`둥화대학교 <entities/university-donghua>` (东华大学 · 대학 · 쑹장구 · MOE 4131010255) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 첨단 섬유, 기능성 소재, 산업 디자인, 스마트 텍스타일. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:22
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "intelligence, industrial control. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이전력대학교 <entities/university-electric-power>` (上海电力大学 · 대학 · 푸둥 신구 · MOE 4131010256) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 에너지 시스템, 지능형 전력망(스마트그리드), 산업 제어 기술. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이전력대학교 <entities/university-electric-power>` (上海电力大学 · 대학 · 푸둥 신구 · MOE 4131010256) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 에너지 시스템, 지능형 전력망(스마트그리드), 산업 제어 기술. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:23
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`상하이응용기술대학교 <entities/university-sit>` (上海应用技术大学 · 대학 · 펑셴구 · MOE 4131010259) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 실용 공학, 신소재, 산업 인공지능. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이응용기술대학교 <entities/university-sit>` (上海应用技术大学 · 대학 · 펑셴구 · MOE 4131010259) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 실용 공학, 신소재, 산업 인공지능. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:24
 msgid ""
@@ -150,7 +150,7 @@ msgid ""
 "clinical applications. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`상하이건강의학원 <entities/university-sumhs>` (上海健康医学院 · 대학 · 푸둥 신구 · MOE 4131010262) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 헬스케어 의료기기, 디지털 진단, 임상 실증 기술. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이건강의학원 <entities/university-sumhs>` (上海健康医学院 · 대학 · 푸둥 신구 · MOE 4131010262) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 헬스케어 의료기기, 디지털 진단, 임상 실증 기술. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:25
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "Marine science, aquaculture, smart agriculture. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이해양대학교 <entities/university-ocean>` (上海海洋大学 · 대학 · 푸둥 신구 · MOE 4131010264) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 해양 과학, 스마트 수산 양식, 스마트 농업. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이해양대학교 <entities/university-ocean>` (上海海洋大学 · 대학 · 푸둥 신구 · MOE 4131010264) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 해양 과학, 스마트 수산 양식, 스마트 농업. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:26
 msgid ""
@@ -171,7 +171,7 @@ msgid ""
 "medical data. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`상하이중의약대학교 <entities/university-tcm>` (上海中医药大学 · 대학 · 푸둥 신구 · MOE 4131010268) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 디지털 헬스케어, 천연물 AI 신약 개발, 한의학 임상 데이터. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이중의약대학교 <entities/university-tcm>` (上海中医药大学 · 대학 · 푸둥 신구 · MOE 4131010268) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 디지털 헬스케어, 천연물 AI 신약 개발, 한의학 임상 데이터. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:27
 msgid ""
@@ -181,7 +181,7 @@ msgid ""
 "Software, education AI, data science, microelectronics. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`화동사범대학교 <entities/university-ecnu>` (华东师范大学 · 대학 · 푸퉈구 · MOE 4131010269) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 시스템 소프트웨어, 에듀테크 AI, 데이터 과학, 마이크로전자공학. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`화동사범대학교 <entities/university-ecnu>` (华东师范大学 · 대학 · 푸퉈구 · MOE 4131010269) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 시스템 소프트웨어, 에듀테크 AI, 데이터 과학, 마이크로전자공학. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:28
 msgid ""
@@ -191,7 +191,7 @@ msgid ""
 "Education, computer science, creative technology. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이사범대학교 <entities/university-shnu>` (上海师范大学 · 대학 · 쉬후이구 · MOE 4131010270) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 교육학, 컴퓨터 과학, 크리에이티브 미디어 테크놀로지. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이사범대학교 <entities/university-shnu>` (上海师范大学 · 대학 · 쉬후이구 · MOE 4131010270) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 교육학, 컴퓨터 과학, 크리에이티브 미디어 테크놀로지. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:29
 msgid ""
@@ -202,7 +202,7 @@ msgid ""
 "translation, international markets. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이외국어대학교 <entities/university-sisu>` (上海外国语大学 · 대학 · 훙커우구 · MOE 4131010271) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 자연어 처리(NLP), 언어 인공지능, 번역 공학, 글로벌 시장 분석. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이외국어대학교 <entities/university-sisu>` (上海外国语大学 · 대학 · 훙커우구 · MOE 4131010271) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 자연어 처리(NLP), 언어 인공지능, 번역 공학, 글로벌 시장 분석. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:30
 msgid ""
@@ -213,7 +213,7 @@ msgid ""
 "models. These themes are editorial routing guidance, not a verified offer "
 "of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`상하이재경대학교 <entities/university-sufe>` (上海财经大学 · 대학 · 양푸구 · MOE 4131010272) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 핀테크, 금융 데이터 분석, 디지털 비즈니스 모델. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이재경대학교 <entities/university-sufe>` (上海财经大学 · 대학 · 양푸구 · MOE 4131010272) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 핀테크, 금융 데이터 분석, 디지털 비즈니스 모델. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:31
 msgid ""
@@ -224,7 +224,7 @@ msgid ""
 "cross-border business. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`상하이대외경무대학교 <entities/university-suibe>` (上海对外经贸大学 · 대학 · 쑹장구 · MOE 4131010273) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 글로벌 통상, 무역 프로세스 자동화, 크로스보더 e커머스. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이대외경무대학교 <entities/university-suibe>` (上海对外经贸大学 · 대학 · 쑹장구 · MOE 4131010273) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 글로벌 통상, 무역 프로세스 자동화, 크로스보더 e커머스. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:32
 msgid ""
@@ -234,7 +234,7 @@ msgid ""
 "Customs, trade processes, compliance systems. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이해관학원 <entities/university-customs>` (上海海关学院 · 대학 · 푸둥 신구 · MOE 4131010274) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 스마트 관세 행정, 통관 절차 자동화, 무역 규제 준수(컴플라이언스) 시스템. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이해관학원 <entities/university-customs>` (上海海关学院 · 대학 · 푸둥 신구 · MOE 4131010274) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 스마트 관세 행정, 통관 절차 자동화, 무역 규제 준수(컴플라이언스) 시스템. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:33
 msgid ""
@@ -245,7 +245,7 @@ msgid ""
 "technology. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`화동정법대학교 <entities/university-ecupl>` (华东政法大学 · 대학 · 쑹장구 · MOE 4131010276) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 지식재산권(IP), 데이터 거버넌스, 리걸테크(LegalTech). 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`화동정법대학교 <entities/university-ecupl>` (华东政法大学 · 대학 · 쑹장구 · MOE 4131010276) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 지식재산권(IP), 데이터 거버넌스, 리걸테크(LegalTech). 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:34
 msgid ""
@@ -255,7 +255,7 @@ msgid ""
 "Sports science, motion analysis, wearables. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이체육대학교 <entities/university-sport>` (上海体育大学 · 대학 · 양푸구 · MOE 4131010277) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 스포츠 과학, 모션 분석, 스포츠 웨어러블 디바이스. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이체육대학교 <entities/university-sport>` (上海体育大学 · 대학 · 양푸구 · MOE 4131010277) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 스포츠 과학, 모션 분석, 스포츠 웨어러블 디바이스. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:35
 msgid ""
@@ -265,7 +265,7 @@ msgid ""
 "Audio AI, music technology, creative tools. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이음악원 <entities/university-music>` (上海音乐学院 · 대학 · 쉬후이구 · MOE 4131010278) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 오디오 인공지능, 뮤직 테크놀로지, 사운드 창작 도구. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이음악원 <entities/university-music>` (上海音乐学院 · 대학 · 쉬후이구 · MOE 4131010278) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 오디오 인공지능, 뮤직 테크놀로지, 사운드 창작 도구. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:36
 msgid ""
@@ -275,7 +275,7 @@ msgid ""
 "Performance, virtual production, creative media. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이희극학원 <entities/university-theatre>` (上海戏剧学院 · 대학 · 징안구 · MOE 4131010279) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 무대 예술, 버추얼 프로덕션, 가상 인간 및 인터랙티브 미디어. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이희극학원 <entities/university-theatre>` (上海戏剧学院 · 대학 · 징안구 · MOE 4131010279) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 무대 예술, 버추얼 프로덕션, 가상 인간 및 인터랙티브 미디어. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:37
 msgid ""
@@ -286,7 +286,7 @@ msgid ""
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. Address: 3F, Science Building, 788 Guangzhong Road, "
 "Jing'an. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이대학교 <entities/university-shu>` (上海大学 · 대학 · 징안구 · MOE 4131010280) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 첨단 제조, 로봇 공학, 기능성 재료, 디지털 미디어. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. 징안구 광중루 788호 과기루 3층. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이대학교 <entities/university-shu>` (上海大学 · 대학 · 징안구 · MOE 4131010280) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 첨단 제조, 로봇 공학, 기능성 재료, 디지털 미디어. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. 징안구 광중루 788호 과기루 3층. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:38
 msgid ""
@@ -296,7 +296,7 @@ msgid ""
 "Public-safety education; external project access unverified. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이공안학원 <entities/university-police>` (上海公安学院 · 대학 · 푸둥 신구 · MOE 4131010283) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 공공 안전 교육 및 치안 과학; 외부 프로젝트 협력 창구 미확인. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이공안학원 <entities/university-police>` (上海公安学院 · 대학 · 푸둥 신구 · MOE 4131010283) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 공공 안전 교육 및 치안 과학; 외부 프로젝트 협력 창구 미확인. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:39
 msgid ""
@@ -307,7 +307,7 @@ msgid ""
 "manufacturing, design. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`상하이공정기술대학교 <entities/university-sues>` (上海工程技术大学 · 대학 · 쑹장구 · MOE 4131010856) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 산업 엔지니어링, 스마트 모빌리티, 첨단 제조, 산업 디자인. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이공정기술대학교 <entities/university-sues>` (上海工程技术大学 · 대학 · 쑹장구 · MOE 4131010856) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 산업 엔지니어링, 스마트 모빌리티, 첨단 제조, 산업 디자인. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:40
 msgid ""
@@ -318,7 +318,7 @@ msgid ""
 "business analytics. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`상하이리신회계금융학원 <entities/university-lixin>` (上海立信会计金融学院 · 대학 · 푸둥 신구 · MOE 4131011047) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 스마트 회계 시스템, 핀테크, 비즈니스 인텔리전스 분석. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이리신회계금융학원 <entities/university-lixin>` (上海立信会计金融学院 · 대학 · 푸둥 신구 · MOE 4131011047) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 스마트 회계 시스템, 핀테크, 비즈니스 인텔리전스 분석. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:41
 msgid ""
@@ -328,7 +328,7 @@ msgid ""
 "Electrical equipment, advanced manufacturing. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이전기학원 <entities/university-dianji>` (上海电机学院 · 대학 · 푸둥 신구 · MOE 4131011458) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 전기 전자 장비, 메카트로닉스, 스마트 팩토리 제조. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이전기학원 <entities/university-dianji>` (上海电机学院 · 대학 · 푸둥 신구 · MOE 4131011458) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 전기 전자 장비, 메카트로닉스, 스마트 팩토리 제조. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:42
 msgid ""
@@ -338,7 +338,7 @@ msgid ""
 "digital business and talent partnerships. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이산다학원 <entities/university-sanda>` (上海杉达学院 · 대학 · 푸둥 신구 · MOE 4131011833) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 실용 디지털 비즈니스 및 산업 연계 인재 양성. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이산다학원 <entities/university-sanda>` (上海杉达学院 · 대학 · 푸둥 신구 · MOE 4131011833) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 실용 디지털 비즈니스 및 산업 연계 인재 양성. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:43
 msgid ""
@@ -349,7 +349,7 @@ msgid ""
 "governance. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`상하이정법학원 <entities/university-shupl>` (上海政法学院 · 대학 · 칭푸구 · MOE 4131011835) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 리걸테크, 지식재산권 실무, 법적 규제 및 거버넌스. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이정법학원 <entities/university-shupl>` (上海政法学院 · 대학 · 칭푸구 · MOE 4131011835) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 리걸테크, 지식재산권 실무, 법적 규제 및 거버넌스. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:44
 msgid ""
@@ -360,7 +360,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`상하이 제2공업대학교 <entities/university-polytechnic>` (上海第二工业大学 · 대학 · 푸둥 신구 · MOE 4131012044) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 실용 공학 기술, 전자정보, 지능형 제조 설비. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이 제2공업대학교 <entities/university-polytechnic>` (上海第二工业大学 · 대학 · 푸둥 신구 · MOE 4131012044) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 실용 공학 기술, 전자정보, 지능형 제조 설비. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:45
 msgid ""
@@ -370,7 +370,7 @@ msgid ""
 "Digital retail, commerce, service innovation. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이상학원 <entities/university-business>` (上海商学院 · 대학 · 펑셴구 · MOE 4131012050) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 디지털 리테일, 스마트 유통, 서비스 혁신 모델. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이상학원 <entities/university-business>` (上海商学院 · 대학 · 펑셴구 · MOE 4131012050) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 디지털 리테일, 스마트 유통, 서비스 혁신 모델. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:46
 msgid ""
@@ -380,7 +380,7 @@ msgid ""
 "themes: Applied business, design and creative technology. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이리다학원 <entities/university-lida>` (上海立达学院 · 대학 · 쑹장구 · MOE 4131012587) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 응용 비즈니스, 시각 디자인, 창의 콘텐츠 테크. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이리다학원 <entities/university-lida>` (上海立达学院 · 대학 · 쑹장구 · MOE 4131012587) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 응용 비즈니스, 시각 디자인, 창의 콘텐츠 테크. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:47
 msgid ""
@@ -390,7 +390,7 @@ msgid ""
 "collaboration themes: Applied engineering, digital media, business. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이젠차오학원 <entities/university-jianqiao>` (上海建桥学院 · 대학 · 푸둥 신구 · MOE 4131012799) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 실용 엔지니어링, 디지털 미디어 제작, e비즈니스. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이젠차오학원 <entities/university-jianqiao>` (上海建桥学院 · 대학 · 푸둥 신구 · MOE 4131012799) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 실용 엔지니어링, 디지털 미디어 제작, e비즈니스. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:48
 msgid ""
@@ -400,7 +400,7 @@ msgid ""
 "Interdisciplinary education and entrepreneurship conversations. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이싱웨이학원 <entities/university-xingwei>` (上海兴伟学院 · 대학 · 푸둥 신구 · MOE 4131012914) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 융합 인문 교양 교육 및 초기 창업 멘토링. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이싱웨이학원 <entities/university-xingwei>` (上海兴伟学院 · 대학 · 푸둥 신구 · MOE 4131012914) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 융합 인문 교양 교육 및 초기 창업 멘토링. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:49
 msgid ""
@@ -411,7 +411,7 @@ msgid ""
 "undergraduate engineering and applied skills. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이중차오 직업기술대학교 <entities/university-zhongqiao>` (上海中侨职业技术大学 · 대학 · 진산구 · MOE 4131012915) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 직업학사 엔지니어링 실무 및 산업 기술 인력 양성. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이중차오 직업기술대학교 <entities/university-zhongqiao>` (上海中侨职业技术大学 · 대학 · 진산구 · MOE 4131012915) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 직업학사 엔지니어링 실무 및 산업 기술 인력 양성. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:50
 msgid ""
@@ -422,7 +422,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`상하이시각예술학원 <entities/university-siva>` (上海视觉艺术学院 · 대학 · 쑹장구 · MOE 4131013632) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 인터랙티브 디자인, 디지털 콘텐츠 제작, 크리에이티브 테크놀로지. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이시각예술학원 <entities/university-siva>` (上海视觉艺术学院 · 대학 · 쑹장구 · MOE 4131013632) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 인터랙티브 디자인, 디지털 콘텐츠 제작, 크리에이티브 테크놀로지. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:51
 msgid ""
@@ -433,7 +433,7 @@ msgid ""
 "and creative applications. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`상하이외국어대학교 셴다경제인문학원 <entities/university-xianda>` (上海外国语大学贤达经济人文学院 · 대학 · 훙커우구 · MOE 4131013636) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 외국어 기반 비즈니스, 국제 통상, 문화 콘텐츠 응용. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이외국어대학교 셴다경제인문학원 <entities/university-xianda>` (上海外国语大学贤达经济人文学院 · 대학 · 훙커우구 · MOE 4131013636) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 외국어 기반 비즈니스, 국제 통상, 문화 콘텐츠 응용. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:52
 msgid ""
@@ -444,7 +444,7 @@ msgid ""
 "engineering and digital business. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이사범대학교 톈화학원 <entities/university-tianhua>` (上海师范大学天华学院 · 대학 · 자딩구 · MOE 4131013893) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 응용 교육학, 스마트 엔지니어링, 디지털 비즈니스. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이사범대학교 톈화학원 <entities/university-tianhua>` (上海师范大学天华学院 · 대학 · 자딩구 · MOE 4131013893) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 응용 교육학, 스마트 엔지니어링, 디지털 비즈니스. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:53
 msgid ""
@@ -454,7 +454,7 @@ msgid ""
 "Chips, software AI, scientific instruments, biotech. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이과기대학교 <entities/university-shanghaitech>` (上海科技大学 · 대학 · 푸둥 신구 · MOE 4131014423) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 인공지능 반도체 칩, 시스템 소프트웨어, 첨단 연구장비, 바이오테크. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이과기대학교 <entities/university-shanghaitech>` (上海科技大学 · 대학 · 푸둥 신구 · MOE 4131014423) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 인공지능 반도체 칩, 시스템 소프트웨어, 첨단 연구장비, 바이오테크. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../universities.rst:54
 msgid ""
@@ -464,4 +464,4 @@ msgid ""
 "science, computation and international research. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이 뉴욕대학교 <entities/university-nyu>` (上海纽约大学 · 대학 · 푸둥 신구 · MOE 4131016404) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 데이터 사이언스, 고성능 컴퓨팅, 글로벌 융합 연구. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이 뉴욕대학교 <entities/university-nyu>` (上海纽约大学 · 대학 · 푸둥 신구 · MOE 4131016404) — 교육부의 2026년 6월 대학 명부에 등재된 기관입니다. 협력을 검토할 분야: 데이터 사이언스, 고성능 컴퓨팅, 글로벌 융합 연구. 이는 편집상 참고 정보이며, 실험실 이용이나 창업 자금 지원이 확인됐다는 뜻은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"

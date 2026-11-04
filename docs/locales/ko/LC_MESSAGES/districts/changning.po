@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -70,25 +70,25 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 msgid ""
 "Read the dated call and verify district, entity, activity and "
 "spending-period rules."
-msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+msgstr "날짜가 명시된 공고에서 소재지, 신청 주체, 사업 분야와 인정 지출 기간을 확인합니다."
 
 #: ../../districts/changning.rst:26
 msgid ""
 "Prepare the prescribed pack and complete host or district endorsement if "
 "required."
-msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+msgstr "서류를 준비하고 필요한 경우 주관 기관이나 구의 추천을 받습니다."
 
 #: ../../districts/changning.rst:28
 msgid ""
 "Submit through the official platform before the stated deadline and keep "
 "the receipt."
-msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+msgstr "마감 전에 공식 플랫폼으로 제출하고 접수증을 보관합니다."
 
 #: ../../districts/changning.rst:30
 msgid ""
 "Follow review, award, reporting, acceptance and payment obligations in "
 "the notice."
-msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+msgstr "공고에 따라 심사, 선정, 보고, 검수와 지급 절차를 진행합니다."
 
 #: ../../districts/changning.rst:32
 msgid ""
@@ -110,7 +110,7 @@ msgid ""
 "communities. We treat this record as a district routing entry, not a "
 "single interchangeable operator or a guaranteed free-workspace offer. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`디지털 실리콘앨리 / 훙차오 창업 지원 거점 </entities/digital-silicon>` (数字硅巷／虹桥创新载体 · 인큐베이터 · 소프트웨어 AI) — 창닝구가 구축한 다층적 디지털 인큐베이션 및 1인 기업(OPC) 커뮤니티입니다. 본 항목은 구 단위 연계 경로를 안내하는 것으로, 단일 통합 운영사가 아니며 무료 입주 공간 제공을 보장하지 않습니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`디지털 실리콘앨리 / 훙차오 창업 지원 거점 </entities/digital-silicon>` (数字硅巷／虹桥创新载体 · 인큐베이터 · AI 소프트웨어) — 창닝구가 구축한 다층적 디지털 인큐베이션 및 1인 기업(OPC) 커뮤니티입니다. 본 항목은 구 단위 연계 경로를 안내하는 것으로, 단일 통합 운영사가 아니며 무료 입주 공간 제공을 보장하지 않습니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/changning.rst:38
 msgid ""
@@ -120,11 +120,11 @@ msgid ""
 "independent founders, combining incubation, AI services, talent support "
 "and global business resources. Confirm the current operator's selection "
 "and service terms. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`동훙차오 국제 청년 과기혁신센터 </entities/east-hongqiao>` (东虹桥国际青年科创中心 · 인큐베이터 · 소프트웨어 AI) — 창닝구의 2026년 5월 공식 발표에 따르면 AI 기반 1인 창업가(OPC)를 위한 혁신 거점으로 인큐베이션, AI 서비스, 인재 지원, 글로벌 비즈니스 자원을 결합합니다. 현재 위탁 운영사의 선발 기준 및 서비스 조건을 확인해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`동훙차오 국제 청년 과기혁신센터 </entities/east-hongqiao>` (东虹桥国际青年科创中心 · 인큐베이터 · AI 소프트웨어) — 창닝구의 2026년 5월 공식 발표에 따르면 AI 기반 1인 창업가(OPC)를 위한 혁신 거점으로 인큐베이션, AI 서비스, 인재 지원, 글로벌 비즈니스 자원을 결합합니다. 현재 위탁 운영사의 선발 기준 및 서비스 조건을 확인해야 합니다. [상태: 기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../districts/changning.rst:40
 msgid "Funding routes"
-msgstr "자금 지원 경로"
+msgstr "자금 조달·지원 제도"
 
 #: ../../districts/changning.rst:43
 msgid ""

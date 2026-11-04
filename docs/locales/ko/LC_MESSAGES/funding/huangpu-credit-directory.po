@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -26,13 +26,9 @@ msgstr "대출 | 황푸구"
 
 #: ../../funding/huangpu-credit-directory.rst:6
 msgid "Published directory; lender review"
-msgstr "공시된 목록; 대출 기관 심사 필요"
+msgstr "제품 목록 공개·금융기관 심사 필요"
 
 #: ../../funding/huangpu-credit-directory.rst:8
-
-#| msgid ""
-#| "`Evidence S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
-#| "黄浦区融资信用服务平台-银行产品."
 msgid ""
 "`Evidence S131 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
 "黄浦区融资信用服务平台-银行产品."
@@ -49,7 +45,7 @@ msgstr "상품별 은행 여신, 창업 보증 및 지식재산권 담보 금융
 
 #: ../../funding/huangpu-credit-directory.rst:15
 msgid "No equity; repayable"
-msgstr "지분 제공 의무 없음; 상환 필요"
+msgstr "지분 제공 없이 이용 가능·상환 필요"
 
 #: ../../funding/huangpu-credit-directory.rst:17
 msgid "Eligibility and timing"
@@ -92,25 +88,25 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 msgid ""
 "Select the current bank or public guarantee product and check borrower "
 "eligibility."
-msgstr "현재 취급 중인 은행 또는 공공 신용보증 상품을 선택하고 차주 적격 요건을 심사한다."
+msgstr "현재 취급하는 은행 대출이나 공공 보증 상품을 선택하고 대출 자격을 확인합니다."
 
 #: ../../funding/huangpu-credit-directory.rst:35
 msgid ""
 "Prepare accounts, cash-flow forecast, ownership and requested security "
 "documents."
-msgstr "재무제표, 현금흐름 전망치, 지분 구조도 및 요구되는 담보 서류를 준비한다."
+msgstr "재무제표, 현금흐름 전망, 지분 자료와 필요한 보증 서류를 준비합니다."
 
 #: ../../funding/huangpu-credit-directory.rst:37
 msgid ""
 "Complete lender and guarantee assessment; compare all costs and repayment "
 "terms."
-msgstr "대출 기관 및 보증 기관 심사를 완료하고 총 소요 비용과 상환 일정을 면밀히 비교한다."
+msgstr "대출·보증 심사를 받고 총비용과 상환 조건을 비교합니다."
 
 #: ../../funding/huangpu-credit-directory.rst:39
 msgid ""
 "Sign and track debt service; claim interest support only if independently "
 "eligible."
-msgstr "대출 계약을 체결하고 원리금 상환을 관리하며, 이차보전(이자 지원)은 별도 자격을 갖춘 경우에만 신청한다."
+msgstr "계약 후 상환 일정을 관리합니다. 이자 지원은 별도 자격을 충족해야 합니다."
 
 #: ../../funding/huangpu-credit-directory.rst:41
 msgid ""

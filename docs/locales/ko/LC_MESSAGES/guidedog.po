@@ -38,7 +38,7 @@ msgid "Incubation"
 msgstr "인큐베이션"
 
 msgid "Funding"
-msgstr "자금 경로"
+msgstr "자금 조달·지원"
 
 msgid "How to apply"
 msgstr "신청 가이드"
@@ -62,7 +62,7 @@ msgid "possibility."
 msgstr "가능성의 세계."
 
 msgid "Where Shanghai's 16 administrative districts, 40 undergraduate universities, 125 innovation organizations and 45 funding pathways meet. A white-magnolia and Chinese ink-wash field guide from research to repeatable enterprise."
-msgstr "상하이의 16개 행정구, 40개 학부 대학, 125개 혁신 기관 및 45개 자금 지원 경로가 만나는 곳. 백목련과 전통 수묵담채화 미학에서 영감을 받은 실전 필드 가이드."
+msgstr "상하이의 16개 행정구, 40개 학부 대학, 125개 혁신 기관 및 45개 자금 조달·지원 제도가 만나는 곳. 백목련과 전통 수묵담채화 미학에서 영감을 받은 실전 필드 가이드."
 
 msgid "Shanghai coverage highlights"
 msgstr "상하이 가이드 핵심 요약"
@@ -89,7 +89,7 @@ msgid "Written by:"
 msgstr "저자:"
 
 msgid "With contributions from:"
-msgstr "공동 기여:"
+msgstr "참여:"
 
 msgid "Made using Guidedog in HTML and PDF · Available in English, 简体中文, हिन्दी, 日本語, 한국어, Deutsch & Español"
 msgstr "Guidedog로 제작된 HTML 웹사이트 및 PDF 도서 · 영어, 중국어, 힌디어, 일본어, 한국어, 독일어, 스페인어 7개 국어 제공"
@@ -110,16 +110,16 @@ msgid "districts, connected"
 msgstr "연결된 행정구"
 
 msgid "university profiles (+41 colleges)"
-msgstr "대학 프로필 (+41개 전문·성인대학)"
+msgstr "학부 운영 대학(별도 41개교 명부)"
 
 msgid "organization routes"
-msgstr "혁신 기관 및 거점 경로"
+msgstr "기관"
 
 msgid "funding pathways"
-msgstr "자금 지원 경로"
+msgstr "자금 조달·지원 제도"
 
 msgid "verified primary sources"
-msgstr "검증된 공식 1차 출처"
+msgstr "확인한 1차 자료"
 
 msgid "Download the Complete Illustrated PDF Book"
 msgstr "전체 일러스트 PDF 도서 다운로드"
@@ -161,7 +161,7 @@ msgid "MODELS & AGENTS"
 msgstr "모델 및 에이전트"
 
 msgid "Intelligence in software"
-msgstr "소프트웨어 속 지능"
+msgstr "소프트웨어와 AI 활용"
 
 msgid "From Model Speed Space and Zhangjiang Model Community to compute vouchers and pilot deployment."
 msgstr "모수공간(模速空间)과 장장 모델 커뮤니티부터 연산 바우처 및 파일럿 배포까지."
@@ -170,7 +170,7 @@ msgid "CHIPS & ROBOTS"
 msgstr "칩 및 로보틱스"
 
 msgid "Intelligence in the physical world"
-msgstr "물리적 세계의 지능"
+msgstr "반도체·로봇과 AI 하드웨어"
 
 msgid "Zhangjiang tape-out, Jiading MEMS pilot lines, embodied robotics, Jinshan UAVs and biomanufacturing."
 msgstr "장장 칩 테이프아웃, 자딩 MEMS 파일럿 라인, 임바디드 로보틱스, 진산 드론 및 바이오 제조."
@@ -179,7 +179,7 @@ msgid "CAPITAL WITH CONDITIONS"
 msgstr "조건이 수반된 자본"
 
 msgid "Know what funding really means"
-msgstr "자금 지원 메커니즘 정확히 이해하기"
+msgstr "자금 조달과 지원 조건 알아보기"
 
 msgid "Compare 45 non-repayable grants, vouchers, interest-free loans, convertible support and state funds."
 msgstr "45개 무상 보조금, 바우처, 무이자 대출, 전환형 지원 및 국유 모펀드 비교."
@@ -206,7 +206,7 @@ msgid "FIELD EXECUTION"
 msgstr "현장 실행 가이드"
 
 msgid "From introduction to application"
-msgstr "첫 연락부터 정식 신청까지"
+msgstr "첫 문의부터 신청까지"
 
 msgid "Outreach templates, shared data-room checklist, foreign founder work-permit guide and 4-week plan."
 msgstr "연락 템플릿, 공용 데이터룸 체크리스트, 외국인 창업자 취업허가 가이드 및 4주 실행 계획."
@@ -221,7 +221,7 @@ msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni,
 msgstr "Vikrant Rathore 집필, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu 공동 기여. Guidedog로 제작."
 
 msgid "Sources, credits & research limits"
-msgstr "출처, 크레딧 및 연구 한계"
+msgstr "출처·제작진·조사 범위"
 
 msgid "Atlas"
 msgstr "아틀라스 홈"
@@ -254,13 +254,13 @@ msgid "Sources & reading room (133 sources)"
 msgstr "출처 및 열람실 (133개 출처)"
 
 msgid "Research methods, gaps & credits"
-msgstr "연구 방법론, 한계 및 크레딧"
+msgstr "조사 방법·미확인 정보·제작진"
 
 msgid "Download research dataset (JSON)"
 msgstr "연구 데이터셋 다운로드 (JSON)"
 
 msgid "Research checked 2026-11-04. Current official notices govern."
-msgstr "2026-11-04 기준 연구 검증. 실제 신청은 현행 공식 공고를 따릅니다."
+msgstr "자료 확인일: 2026년 11월 4일. 실제 신청 요건은 최신 공식 공고를 따릅니다."
 
 msgid "Written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu."
 msgstr "Vikrant Rathore 집필, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu 공동 기여."

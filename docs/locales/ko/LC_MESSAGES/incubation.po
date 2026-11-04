@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -21,14 +21,10 @@ msgid "Incubators, accelerators and parks"
 msgstr "인큐베이터, 액셀러레이터 및 테크 파크"
 
 #: ../../incubation.rst:4
-
-#| msgid ""
-#| "44 profiles with evidence, contact routes and an application "
-#| "checklist. Published existence is distinguished from current intake."
 msgid ""
 "45 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "출처, 연락 경로 및 신청 체크리스트가 포함된 45개의 프로필. 기관의 존재 여부와 현재 모집 여부는 구분하여 표기합니다."
+msgstr "45개 기관의 정보와 출처, 연락처, 신청 참고 절차를 수록했습니다. 기관 정보 확인 여부와 현재 모집 상태는 구분해 표시합니다."
 
 #: ../../incubation.rst:8
 msgid "Complete directory summary"
@@ -42,7 +38,7 @@ msgid ""
 "zones; admission, workspace, compute support and investment are separate "
 "decisions. Support: Services / possible incentives. Address: Zone A, 180 "
 "Longtai Road, Xuhui. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이 모수공간(Model Speed Space) <entities/mosu>` (上海模速空间 · 인큐베이터 · 쉬후이구 · 소프트웨어 AI) — 웨스트번드에 위치한 대형 AI 모델 전문 인큐베이션 및 가속화 커뮤니티입니다. 운영사가 여러 구역을 관리하고 있으며, 입주, 업무 공간, 컴퓨팅 지원 및 투자는 각각 별개의 결정 사항입니다. [공간 서비스 / 잠재적 인센티브]. 쉬후이구 룽타이루 180호 A구역. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이 모수공간(Model Speed Space) <entities/mosu>` (上海模速空间 · 인큐베이터 · 쉬후이구 · AI 소프트웨어) — 웨스트번드에 위치한 대형 AI 모델 전문 창업보육·액셀러레이팅 커뮤니티입니다. 운영사가 여러 구역을 관리하고 있으며, 입주, 업무 공간, 컴퓨팅 지원 및 투자는 각각 별개의 결정 사항입니다. [시설·서비스 지원 / 추가 혜택 가능]. 쉬후이구 룽타이루 180호 A구역. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:12
 msgid ""
@@ -52,7 +48,7 @@ msgid ""
 "model developers and industry users. Ask the operator for the specific "
 "model, data and compute package and its reimbursement rules. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`장장 모리 커뮤니티 <entities/model-community>` (张江模力社区 · 인큐베이터 · 푸둥 신구 · 소프트웨어 AI, 하드웨어 AI) — 상하이시 인공지능 실시 방안에 명시된 장장 AI 커뮤니티로, 모델 개발사와 산업 수요 기업을 연결합니다. 구체적인 모델·데이터·컴퓨팅 지원 패키지와 정산 규정은 운영사에 직접 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`장장 모리 커뮤니티 <entities/model-community>` (张江模力社区 · 인큐베이터 · 푸둥 신구 · AI 소프트웨어, AI 하드웨어) — 상하이시 인공지능 실시 방안에 명시된 장장 AI 커뮤니티로, 모델 개발사와 산업 수요 기업을 연결합니다. 구체적인 모델·데이터·컴퓨팅 지원 패키지와 정산 규정은 운영사에 직접 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:13
 msgid ""
@@ -62,7 +58,7 @@ msgid ""
 "projects with incubation. SJTU documents the Zero Kilometer launch and "
 "its AI, integrated-circuit, manufacturing and low-carbon participants. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`그랜드 네오베이 / 제로킬로미터 인큐베이터 <entities/neobay>` (大零号湾／零公里孵化器 · 인큐베이터 · 민항구 · 하드웨어 AI, 소프트웨어 AI) — 대학 기반의 기술 성과 상용화 경로로 초기 기술 프로젝트를 인큐베이션 자원과 연결합니다. 상하이교통대(SJTU)는 제로킬로미터 인큐베이터의 출범과 인공지능, 집적회로, 제조, 저탄소 분야 참여 현황을 공식 기록하고 있습니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`그랜드 네오베이 / 제로킬로미터 인큐베이터 <entities/neobay>` (大零号湾／零公里孵化器 · 인큐베이터 · 민항구 · AI 하드웨어, AI 소프트웨어) — 대학 기반의 기술 성과 상용화 경로로 초기 기술 프로젝트를 인큐베이션 자원과 연결합니다. 상하이교통대(SJTU)는 제로킬로미터 인큐베이터의 출범과 인공지능, 집적회로, 제조, 저탄소 분야 참여 현황을 공식 기록하고 있습니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:14
 msgid ""
@@ -71,7 +67,7 @@ msgid ""
 "incubator with chip-testing and industrialization context in Zhangjiang. "
 "Incubation and the associated angel investment pathway must be reviewed "
 "as different agreements. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`장장 하이테크 895 인큐베이터 <entities/895>` (张江高科895孵化器 · 인큐베이터 · 푸둥 신구 · 하드웨어 AI, 반도체 칩) — 장장에 위치한 딥테크 인큐베이터로, 칩 테스트 및 산업화 생태계를 갖추고 있습니다. 인큐베이션 계약과 연계된 엔젤 투자 경로는 별도의 독립된 협약으로 검토되어야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`장장 하이테크 895 인큐베이터 <entities/895>` (张江高科895孵化器 · 인큐베이터 · 푸둥 신구 · AI 하드웨어, 반도체 칩) — 장장에 위치한 딥테크 인큐베이터로, 칩 테스트 및 산업화 생태계를 갖추고 있습니다. 인큐베이션 계약과 연계된 엔젤 투자 경로는 별도의 독립된 협약으로 검토되어야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:15
 msgid ""
@@ -82,7 +78,7 @@ msgid ""
 "rehabilitation and translational engineering; wet-lab and device "
 "requirements need explicit confirmation. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`쓰난 뇌-컴퓨터 인터페이스 인큐베이터 <entities/synlonx>` (司南脑机智能孵化器 · 인큐베이터 · 민항구 · 하드웨어 AI, 헬스케어) — 화차오에 설립된 뇌-컴퓨터 인터페이스(BCI) 인큐베이션 플랫폼입니다. 전극, 신경 인터페이스, 센싱, 재활 및 중개 공학 분야 연계가 가능하며, 습식 실험실(wet-lab) 및 의료기기 요건은 별도로 명확한 확인이 필요합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`쓰난 뇌-컴퓨터 인터페이스 인큐베이터 <entities/synlonx>` (司南脑机智能孵化器 · 인큐베이터 · 민항구 · AI 하드웨어, 헬스케어) — 화차오에 설립된 뇌-컴퓨터 인터페이스(BCI) 인큐베이션 플랫폼입니다. 전극, 신경 인터페이스, 센싱, 재활 및 중개 공학 분야 연계가 가능하며, 습식 실험실(wet-lab) 및 의료기기 요건은 별도로 명확한 확인이 필요합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:16
 msgid ""
@@ -92,7 +88,7 @@ msgid ""
 "InnoSpring and SITRI. This is a route for beyond-Moore technology, shared "
 "technical services and pilot production rather than a promise of free "
 "fabrication. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`신웨이촹위안 / SITRI 인큐베이션 생태계 <entities/innospring>` (新微创源／上海微技术工研院孵化生态 · 인큐베이터 · 자딩구 · 하드웨어 AI, 반도체 칩, 센서) — 상하이시 과학기술위원회가 기록한 신웨이촹위안(InnoSpring)과 상하이마이크로기술공업연구원(SITRI)의 협력 생태계입니다. '비욘드 무어(Beyond-Moore)' 기술, 공용 기술 서비스 및 파일럿 생산 연계에 적합하며, 무료 웨이퍼 제작(테이프아웃)을 보장하는 것은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`신웨이촹위안 / SITRI 인큐베이션 생태계 <entities/innospring>` (新微创源／上海微技术工研院孵化生态 · 인큐베이터 · 자딩구 · AI 하드웨어, 반도체 칩, 센서) — 상하이시 과학기술위원회가 기록한 신웨이촹위안(InnoSpring)과 상하이마이크로기술공업연구원(SITRI)의 협력 생태계입니다. '비욘드 무어(Beyond-Moore)' 기술, 공용 기술 서비스 및 파일럿 생산 연계에 적합하며, 무료 웨이퍼 제작(테이프아웃)을 보장하는 것은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:17
 msgid ""
@@ -102,7 +98,7 @@ msgid ""
 "services and its innovation seed-fund relationships are relevant to "
 "AI-enabled biology; access and investment are negotiated separately. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`ATLATL 장장 센터 <entities/atlatl>` (ATLATL飞镖张江中心 · 인큐베이터 · 푸둥 신구 · 헬스케어, 과학을 위한 AI (AI for Science)) — 장장 파마밸리에 위치한 공유 연구 및 인큐베이션 환경입니다. 실험실 서비스와 혁신 시드 펀드 네트워크는 AI 기반 바이오 연구에 적합하며, 시설 이용과 지분 투자는 별도로 협상해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`ATLATL 장장 센터 <entities/atlatl>` (ATLATL飞镖张江中心 · 인큐베이터 · 푸둥 신구 · 헬스케어, 과학 연구를 위한 AI) — 장장 파마밸리에 위치한 공유 연구 및 인큐베이션 환경입니다. 실험실 서비스와 혁신 시드 펀드 네트워크는 AI 기반 바이오 연구에 적합하며, 시설 이용과 지분 투자는 별도로 협상해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:18
 msgid ""
@@ -112,7 +108,7 @@ msgid ""
 "synthetic biology and cell and gene therapy interests. Confirm current "
 "Shanghai facilities, admission and laboratory pricing with the operator. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`네스트바이오 상하이 혁신 플랫폼 <entities/nestbio>` (巢生上海创新孵化平台 · 인큐베이터 · 푸둥 신구 · 헬스케어, 과학을 위한 AI (AI for Science)) — 2025년 12월 상하이시 고품질 인큐베이터 확장 명단에 선정되었으며, 합성생물학 및 세포·유전자 치료 분야를 중점 지원합니다. 상하이 현지 시설, 입주 요건 및 실험실 이용료는 운영사에 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`네스트바이오 상하이 혁신 플랫폼 <entities/nestbio>` (巢生上海创新孵化平台 · 인큐베이터 · 푸둥 신구 · 헬스케어, 과학 연구를 위한 AI) — 2025년 12월 상하이시 고품질 인큐베이터 확장 명단에 선정되었으며, 합성생물학 및 세포·유전자 치료 분야를 중점 지원합니다. 상하이 현지 시설, 입주 요건 및 실험실 이용료는 운영사에 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:19
 msgid ""
@@ -122,7 +118,7 @@ msgid ""
 "and acceleration. Bring a concrete industrial use case; program "
 "participation does not imply a corporate purchase order. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`이노스페이스(InnoSpace) <entities/innospace>` (创智空间InnoSpace · 액셀러레이터 · 양푸구 · 소프트웨어 AI, 산업) — 대기업 오픈 이노베이션과 스타트업 인큐베이션 및 액셀러레이팅에 특화된 혁신 서비스 기관입니다. 구체적인 산업 적용 사례를 제시해야 하며, 프로그램 참여가 기업의 구매 발주를 보장하지는 않습니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`이노스페이스(InnoSpace) <entities/innospace>` (创智空间InnoSpace · 액셀러레이터 · 양푸구 · AI 소프트웨어, 산업) — 대기업 오픈 이노베이션과 스타트업 인큐베이션 및 액셀러레이팅에 특화된 혁신 서비스 기관입니다. 구체적인 산업 적용 사례를 제시해야 하며, 프로그램 참여가 기업의 구매 발주를 보장하지는 않습니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:20
 msgid ""
@@ -133,7 +129,7 @@ msgid ""
 "and investment should be stated separately. Address: 4F, Building A, "
 "Kehai Building, 800 Naxian Road, Pudong | Tel: +86 21 55698983. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`엑스노드(XNode) <entities/xnode>` (创极无限XNode · 액셀러레이터 · 푸둥 신구 · 소프트웨어 AI, 산업) — 시장 진입, 기업 파트너십, 파일럿 실증을 지원하는 크로스보더 혁신 운영사입니다. 상하이 오피스는 글로벌 팀의 유용한 접점 역할을 하며, 서비스 범위, 수수료, 결과물 및 투자는 개별적으로 협의해야 합니다. 푸둥신구 나셴루 800호 커하이빌딩 A동 4층 | Tel: +86 21 55698983. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`엑스노드(XNode) <entities/xnode>` (创极无限XNode · 액셀러레이터 · 푸둥 신구 · AI 소프트웨어, 산업) — 시장 진입, 기업 파트너십, 파일럿 실증을 지원하는 크로스보더 혁신 운영사입니다. 상하이 오피스는 글로벌 팀의 유용한 접점 역할을 하며, 서비스 범위, 수수료, 결과물 및 투자는 개별적으로 협의해야 합니다. 푸둥신구 나셴루 800호 커하이빌딩 A동 4층 | Tel: +86 21 55698983. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:21
 msgid ""
@@ -144,7 +140,7 @@ msgid ""
 "investment have different admission and commercial terms. Address: 2F, "
 "Building 1, Phase II, Zhangjiang Guochuang Center, 899 Dangui Road. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`플러그앤플레이 차이나 상하이 센터 <entities/plugplay>` (璞跃中国上海中心 · 액셀러레이터 · 푸둥 신구 · 소프트웨어 AI, 하드웨어 AI, 모빌리티) — 장장 궈촹센터에 장강삼각주 지역 혁신 센터를 두고 있습니다. 기업 혁신, 업무 공간 및 벤처 투자는 입주 조건과 상업적 계약이 서로 다릅니다. 푸둥신구 단구이루 899호 장장국창센터 2기 1동 2층. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`플러그앤플레이 차이나 상하이 센터 <entities/plugplay>` (璞跃中国上海中心 · 액셀러레이터 · 푸둥 신구 · AI 소프트웨어, AI 하드웨어, 모빌리티) — 장장 궈촹센터에 장강삼각주 지역 혁신 센터를 두고 있습니다. 기업 혁신, 업무 공간 및 벤처 투자는 입주 조건과 상업적 계약이 서로 다릅니다. 푸둥신구 단구이루 899호 장장국창센터 2기 1동 2층. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:22
 msgid ""
@@ -154,7 +150,7 @@ msgid ""
 "Pudong and Zhangjiang. The evidence establishes the initiative; a "
 "currently accepting cohort and its commercial terms require confirmation. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`PwC x 장장 디지털 헬스케어 액셀러레이터 <entities/pwc>` (普华永道张江数字医疗加速营 · 액셀러레이터 · 푸둥 신구 · 헬스케어, 소프트웨어 AI) — PwC가 푸둥 및 장장의 지원을 받아 운영하는 디지털 헬스케어 액셀러레이팅 프로그램입니다. 프로젝트의 추진 사실은 확인되나, 현재 기수 모집 여부 및 구체적인 상업 조건은 확인이 필요합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`PwC x 장장 디지털 헬스케어 액셀러레이터 <entities/pwc>` (普华永道张江数字医疗加速营 · 액셀러레이터 · 푸둥 신구 · 헬스케어, AI 소프트웨어) — PwC가 푸둥 및 장장의 지원을 받아 운영하는 디지털 헬스케어 액셀러레이팅 프로그램입니다. 프로젝트의 추진 사실은 확인되나, 현재 기수 모집 여부 및 구체적인 상업 조건은 확인이 필요합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:23
 msgid ""
@@ -165,7 +161,7 @@ msgid ""
 "useful entry points for hardware validation. Address: Wuning Road area, "
 "Putuo; confirm the service building. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`상하이 우닝 과학기술원 <entities/wuning>` (上海武宁科技园 · 과학기술단지 · 푸퉈구 · 하드웨어 AI, 산업) — 상하이전기과학연구소 그룹이 운영하는 산업 연구개발 및 시험인증 집적단지입니다. 로봇 및 산업용 인터넷 테스트는 하드웨어 검증을 위한 유용한 연계 경로입니다. 푸퉈구 우닝루 일대(서비스 빌딩 개별 확인 필요). [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이 우닝 과학기술원 <entities/wuning>` (上海武宁科技园 · 과학기술단지 · 푸퉈구 · AI 하드웨어, 산업) — 상하이전기과학연구소 그룹이 운영하는 산업 연구개발 및 시험인증 집적단지입니다. 로봇 및 산업용 인터넷 테스트는 하드웨어 검증을 위한 유용한 연계 경로입니다. 푸퉈구 우닝루 일대(서비스 빌딩 개별 확인 필요). [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:24
 msgid ""
@@ -176,7 +172,7 @@ msgid ""
 "market, capital and industrial connections; the listing does not "
 "guarantee cash support. Address: Lane 111, Qilianshan Road, Putuo. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`중-이스라엘 (상하이) 혁신원 <entities/china-israel>` (中以（上海）创新园 · 과학기술단지 · 푸퉈구 · 소프트웨어 AI, 하드웨어 AI) — 스마트 제조, AI, 로봇 및 정보기술 분야의 국제 협력을 위해 구 단위 목록에 등재된 전문 창업 지원 거점입니다. 시장, 자본, 산업 자원을 연결하지만, 목록 등재가 현금 보조금을 보장하는 것은 아닙니다. 푸퉈구 치롄산루 111룽. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`중-이스라엘 (상하이) 혁신원 <entities/china-israel>` (中以（上海）创新园 · 과학기술단지 · 푸퉈구 · AI 소프트웨어, AI 하드웨어) — 스마트 제조, AI, 로봇 및 정보기술 분야의 국제 협력을 위해 구 단위 목록에 등재된 전문 창업 지원 거점입니다. 시장, 자본, 산업 자원을 연결하지만, 목록 등재가 현금 보조금을 보장하는 것은 아닙니다. 푸퉈구 치롄산루 111룽. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:25
 msgid ""
@@ -186,7 +182,7 @@ msgid ""
 "and OPC communities. We treat this record as a district routing entry, "
 "not a single interchangeable operator or a guaranteed free-workspace "
 "offer. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`디지털 실리콘앨리 / 훙차오 창업 지원 거점 <entities/digital-silicon>` (数字硅巷／虹桥创新载体 · 인큐베이터 · 창닝구 · 소프트웨어 AI) — 창닝구가 구축한 다층적 디지털 인큐베이션 및 1인 기업(OPC) 커뮤니티입니다. 본 항목은 구 단위 연계 경로를 안내하는 것으로, 단일 통합 운영사가 아니며 무료 입주 공간 제공을 보장하지 않습니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`디지털 실리콘앨리 / 훙차오 창업 지원 거점 <entities/digital-silicon>` (数字硅巷／虹桥创新载体 · 인큐베이터 · 창닝구 · AI 소프트웨어) — 창닝구가 구축한 다층적 디지털 인큐베이션 및 1인 기업(OPC) 커뮤니티입니다. 본 항목은 구 단위 연계 경로를 안내하는 것으로, 단일 통합 운영사가 아니며 무료 입주 공간 제공을 보장하지 않습니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:26
 msgid ""
@@ -196,7 +192,7 @@ msgid ""
 "with Bay Valley in the north. Suitable for neuromorphic computing and "
 "commercial AI collaborations. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`창양창구(Changyang Campus) <entities/changyang>` (长阳创谷 · 과학기술단지 · 양푸구 · 소프트웨어 AI, 하드웨어 AI) — 양푸구 뇌신경 모사 지능 발전 방안에서 남부 핵심 거점으로 지정되어 북부 완구(Bay Valley) 과기원과 연계됩니다. 뉴로모픽 컴퓨팅 및 상업용 AI 협력에 적합합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`창양창구(Changyang Campus) <entities/changyang>` (长阳创谷 · 과학기술단지 · 양푸구 · AI 소프트웨어, AI 하드웨어) — 양푸구 뇌신경 모사 지능 발전 방안에서 남부 핵심 거점으로 지정되어 북부 완구(Bay Valley) 과기원과 연계됩니다. 뉴로모픽 컴퓨팅 및 상업용 AI 협력에 적합합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:27
 msgid ""
@@ -206,7 +202,7 @@ msgid ""
 "communities. Ask for an approved community operator, the qualifying "
 "activity definition, housing conditions and any service or equity "
 "agreement. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`푸싱섬 메이커 및 OPC 커뮤니티 <entities/fuxing>` (复兴岛创客与OPC社区 · 인큐베이터 · 양푸구 · 소프트웨어 AI) — 2026년 5월 구 단위 정책으로 AI 기반 1인 창업가(OPC)와 메이커 커뮤니티를 지원합니다. 공인 커뮤니티 운영사, 적격 활동 인정 기준, 주거 지원 조건 및 서비스·지분 계약 조건을 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`푸싱섬 메이커 및 OPC 커뮤니티 <entities/fuxing>` (复兴岛创客与OPC社区 · 인큐베이터 · 양푸구 · AI 소프트웨어) — 2026년 5월 구 단위 정책으로 AI 기반 1인 창업가(OPC)와 메이커 커뮤니티를 지원합니다. 공인 커뮤니티 운영사, 적격 활동 인정 기준, 주거 지원 조건 및 서비스·지분 계약 조건을 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:28
 msgid ""
@@ -215,7 +211,7 @@ msgid ""
 "2025-2026 park plan links Grand neoBay R&D with Maqiao manufacturing. A "
 "useful pathway from a robot prototype to supply-chain and production "
 "conversations. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`마차오 인공지능 혁신 시험구 <entities/maqiao>` (马桥人工智能创新试验区 · 과학기술단지 · 민항구 · 하드웨어 AI, 로보틱스) — 민항구의 2025~2026년 단지 계획은 그랜드 네오베이의 R&D 역량과 마차오의 제조 기반을 연결합니다. 로봇 시제품에서 공급망 구축 및 양산 협의로 나아가는 유용한 경로입니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`마차오 인공지능 혁신 시험구 <entities/maqiao>` (马桥人工智能创新试验区 · 과학기술단지 · 민항구 · AI 하드웨어, 로보틱스) — 민항구의 2025~2026년 단지 계획은 그랜드 네오베이의 R&D 역량과 마차오의 제조 기반을 연결합니다. 로봇 시제품에서 공급망 구축 및 양산 협의로 나아가는 유용한 경로입니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:29
 msgid ""
@@ -225,7 +221,7 @@ msgid ""
 "supply chains and deployment; we distinguish it from ABB facilities in "
 "Pudong and from the broader Baoshan industrial park. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`상하이 로봇 산업단지 <entities/robot-park>` (上海机器人产业园 · 과학기술단지 · 바오산구 · 하드웨어 AI, 로보틱스) — 바오산구 구춘에 위치한 로봇 전문 산업단지입니다. 산업용 로봇 공급망 및 현장 적용에 적합하며, 푸둥의 ABB 시설이나 바오산 일반 산업단지와는 구분됩니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이 로봇 산업단지 <entities/robot-park>` (上海机器人产业园 · 과학기술단지 · 바오산구 · AI 하드웨어, 로보틱스) — 바오산구 구춘에 위치한 로봇 전문 산업단지입니다. 산업용 로봇 공급망 및 현장 적용에 적합하며, 푸둥의 ABB 시설이나 바오산 일반 산업단지와는 구분됩니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:30
 msgid ""
@@ -236,7 +232,7 @@ msgid ""
 "This is a separate park from the Gucun robot industrial park. Address: "
 "1688 Jinshi Road, Baoshan | Tel: +86 21 66879800. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`바오산 산업단지 <entities/baoshan-industrial>` (宝山工业园区 · 과학기술단지 · 바오산구 · 산업, 하드웨어 AI) — 단지 관리위원회가 공식 창구를 운영하며 산업 입주, 투자 유치, 정책 조율, 기업 지원 서비스를 제공합니다. 구춘 로봇 산업단지와는 별개의 단지입니다. 바오산구 진스루 1688호 | Tel: +86 21 66879800. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`바오산 산업단지 <entities/baoshan-industrial>` (宝山工业园区 · 과학기술단지 · 바오산구 · 산업, AI 하드웨어) — 단지 관리위원회가 공식 창구를 운영하며 산업 입주, 투자 유치, 정책 조율, 기업 지원 서비스를 제공합니다. 구춘 로봇 산업단지와는 별개의 단지입니다. 바오산구 진스루 1688호 | Tel: +86 21 66879800. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:31
 msgid ""
@@ -246,7 +242,7 @@ msgid ""
 "information-technology innovation. For an AI infrastructure team, "
 "establish compatibility requirements, lab access and real customer demand "
 "before choosing space. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`G60 쑹장 신촹 산업단지 <entities/g60-xinchuang>` (G60松江信创产业园 · 과학기술단지 · 쑹장구 · 소프트웨어 AI, 반도체 칩) — 국산 정보기술 혁신(신촹)을 지원하는 공식 인증 산업단지입니다. AI 인프라 팀의 경우 공간을 결정하기 전에 호환성 요건, 랩 접근성 및 실제 고객 수요를 먼저 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`G60 쑹장 신촹 산업단지 <entities/g60-xinchuang>` (G60松江信创产业园 · 과학기술단지 · 쑹장구 · AI 소프트웨어, 반도체 칩) — 국산 정보기술 혁신(신촹)을 지원하는 공식 인증 산업단지입니다. AI 인프라 팀의 경우 공간을 결정하기 전에 호환성 요건, 랩 접근성 및 실제 고객 수요를 먼저 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:32
 msgid ""
@@ -256,7 +252,7 @@ msgid ""
 "offers an ecosystem connection, not automatic access to Huawei "
 "laboratories, procurement or investment. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`시천 과기혁신센터 <entities/xicen>` (西岑科创中心 · 과학기술단지 · 칭푸구 · 하드웨어 AI, 소프트웨어 AI) — 화웨이 롄추후 연구개발센터 및 시천 개발 구역을 중심으로 하는 칭푸구 혁신 거점입니다. 생태계 협력 기회를 제공하지만, 화웨이 연구소 접근, 조달 계약, 지분 투자가 자동으로 주어지는 것은 아닙니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`시천 과기혁신센터 <entities/xicen>` (西岑科创中心 · 과학기술단지 · 칭푸구 · AI 하드웨어, AI 소프트웨어) — 화웨이 롄추후 연구개발센터 및 시천 개발 구역을 중심으로 하는 칭푸구 혁신 거점입니다. 생태계 협력 기회를 제공하지만, 화웨이 연구소 접근, 조달 계약, 지분 투자가 자동으로 주어지는 것은 아닙니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:33
 msgid ""
@@ -265,7 +261,7 @@ msgid ""
 "test-flight services and a low-altitude incubation platform. Airspace, "
 "testing and airworthiness services require separate confirmation from "
 "physical workspace. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`화둥 드론 기지 <entities/uav-base>` (华东无人机基地 · 과학기술단지 · 진산구 · 하드웨어 AI, 드론) — 진산구 단지 계획에 시험 비행 서비스 및 저고도 경제 인큐베이션 플랫폼이 포함되어 있습니다. 공역 사용, 비행 테스트 및 감항 인증 서비스는 물리적 사무 공간과 별도로 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`화둥 드론 기지 <entities/uav-base>` (华东无人机基地 · 과학기술단지 · 진산구 · AI 하드웨어, 드론) — 진산구 단지 계획에 시험 비행 서비스 및 저고도 경제 인큐베이션 플랫폼이 포함되어 있습니다. 공역 사용, 비행 테스트 및 감항 인증 서비스는 물리적 사무 공간과 별도로 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:34
 msgid ""
@@ -275,7 +271,7 @@ msgid ""
 "sensors, electronic materials and manufacturing inputs; specify process "
 "equipment and environmental constraints in the inquiry. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`진산 신소재 인큐베이터 <entities/jinshan-materials>` (金山新材料孵化器 · 인큐베이터 · 진산구 · 신소재, 하드웨어 AI) — 탄구뤼완(탄소계곡 그린베이)과 연계된 신소재 전문 인큐베이션 거점입니다. 센서, 전자 재료, 제조 부자재 기업에 적합하며, 문의 시 공정 설비 및 환경 규제 요건을 명시해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`진산 신소재 인큐베이터 <entities/jinshan-materials>` (金山新材料孵化器 · 인큐베이터 · 진산구 · 신소재, AI 하드웨어) — 탄구뤼완(탄소계곡 그린베이)과 연계된 신소재 전문 인큐베이션 거점입니다. 센서, 전자 재료, 제조 부자재 기업에 적합하며, 문의 시 공정 설비 및 환경 규제 요건을 명시해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:35
 msgid ""
@@ -285,7 +281,7 @@ msgid ""
 "formulation research, inspection, consumer analysis and supply-chain "
 "tools; clinical or laboratory access is a separate arrangement. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`둥팡메이구(Oriental Beauty Valley) <entities/oriental-beauty>` (东方美谷 · 과학기술단지 · 펑셴구 · 헬스케어, 산업) — 펑셴구의 뷰티·바이오헬스 산업 생태계입니다. 화장품 배합 연구, 품질 검사, 소비자 분석, 공급망 최적화 등의 AI 적용 분야에 적합하며, 임상 시험이나 연구실 이용은 별도로 협의해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`둥팡메이구(Oriental Beauty Valley) <entities/oriental-beauty>` (东方美谷 · 과학기술단지 · 펑셴구 · 헬스케어, 산업) — 펑셴구의 뷰티·바이오헬스 산업 생태계입니다. 화장품 배합 연구, 품질 검사, 소비자 분석, 공급망 최적화 등의 AI 적용 분야에 적합하며, 임상 시험이나 연구실 이용은 별도로 협의해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:36
 msgid ""
@@ -295,7 +291,7 @@ msgid ""
 "the district authority for matching smart agriculture, ecological sensing "
 "and marine technology projects to a concrete carrier. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`장장 하이테크 충밍원 <entities/chongming-park>` (张江高新区崇明园 · 과학기술단지 · 충밍구 · 기후 테크, 스마트 농업) — 2025~2026년 개혁 방안에 따라 생태 혁신 프레임워크를 추진하고 있습니다. 스마트 농업, 환경 센싱, 해양 기술 프로젝트를 구 주관 기관을 통해 구체적인 인큐베이션 시설과 연계할 수 있습니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`장장 하이테크 충밍원 <entities/chongming-park>` (张江高新区崇明园 · 과학기술단지 · 충밍구 · 기후 테크, 스마트 농업) — 2025~2026년 개혁 방안에 따라 생태 혁신 프레임워크를 추진하고 있습니다. 스마트 농업, 환경 센싱, 해양 기술 프로젝트를 구 주관 기관을 통해 구체적인 인큐베이션 시설과 연계할 수 있습니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:37
 msgid ""
@@ -305,7 +301,7 @@ msgid ""
 "technology transfer and investment services. Request the relevant "
 "sub-park and named operating company for a project-specific response. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`장장 훙커우원 / 베이커촹 <entities/hongkou-park>` (张江虹口园／北科创 · 과학기술단지 · 훙커우구 · 소프트웨어 AI, 산업) — 단지 발전 방안에서 베이커촹이 인큐베이션, 기술 이전, 투자 연계 서비스의 총괄 역할을 맡고 있습니다. 프로젝트별 구체적 협의를 위해 해당 하위 단지와 전담 운영사를 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`장장 훙커우원 / 베이커촹 <entities/hongkou-park>` (张江虹口园／北科创 · 과학기술단지 · 훙커우구 · AI 소프트웨어, 산업) — 단지 발전 방안에서 베이커촹이 인큐베이션, 기술 이전, 투자 연계 서비스의 총괄 역할을 맡고 있습니다. 프로젝트별 구체적 협의를 위해 해당 하위 단지와 전담 운영사를 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:38
 msgid ""
@@ -315,7 +311,7 @@ msgid ""
 "free workstations in the reported offer. Current capacity, applicant "
 "eligibility and additional subsidies must be checked separately. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`황푸촹카 <entities/huangpu-chuangka>` (黄浦创卡 · 인큐베이터 · 황푸구 · 소프트웨어 AI, 소비재·컨슈머) — 상하이시 인력자원사회보장국이 발표한 청년 창업 지원 채널로, 최대 6개월간 무료 업무 공간을 제공하는 혜택이 포함되어 있습니다. 현재 공실 현황, 신청 자격 및 추가 보조금 등은 개별 확인이 필요합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`황푸촹카 <entities/huangpu-chuangka>` (黄浦创卡 · 인큐베이터 · 황푸구 · AI 소프트웨어, 소비재·컨슈머) — 상하이시 인력자원사회보장국이 발표한 청년 창업 지원 채널로, 최대 6개월간 무료 업무 공간을 제공하는 혜택이 포함되어 있습니다. 현재 공실 현황, 신청 자격 및 추가 보조금 등은 개별 확인이 필요합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:39
 msgid ""
@@ -325,7 +321,7 @@ msgid ""
 "staged development targets. Lin-gang is a functional area, not Shanghai's "
 "seventeenth district. Establish the administering boundary before seeking "
 "incentives. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`린강 과기혁신성 <entities/lin-gang>` (临港科创城 · 과학기술단지 · 푸둥 신구 · 하드웨어 AI, 반도체 칩, 소프트웨어 AI) — 2026년 1월 계획에서 디수이후 AI 및 IC 혁신 포트와 단계별 발전 목표를 제시했습니다. 린강은 특수 기능구역이며 상하이의 17번째 행정구가 아니므로, 혜택을 신청하기 전에 실제 관할 범위를 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`린강 과기혁신성 <entities/lin-gang>` (临港科创城 · 과학기술단지 · 푸둥 신구 · AI 하드웨어, 반도체 칩, AI 소프트웨어) — 2026년 1월 계획에서 디수이후 AI 및 IC 혁신 포트와 단계별 발전 목표를 제시했습니다. 린강은 특수 기능구역이며 상하이의 17번째 행정구가 아니므로, 혜택을 신청하기 전에 실제 관할 범위를 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:40
 msgid ""
@@ -335,7 +331,7 @@ msgid ""
 "services. A strong starting point for AI chip teams, with specific EDA, "
 "IP, tape-out, packaging and testing access negotiated with providers. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이 집적회로 설계 산업단지 <entities/ic-design>` (上海集成电路设计产业园 · 과학기술단지 · 푸둥 신구 · 반도체 칩, 하드웨어 AI) — 설계와 산업 서비스를 연결하는 장장 반도체 설계 생태계입니다. AI 반도체 설계 팀을 위한 최적의 출발점이며, 구체적인 EDA 툴, IP, 파운드리 테이프아웃, 패키징 및 테스트는 협력사와 개별 협상해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이 집적회로 설계 산업단지 <entities/ic-design>` (上海集成电路设计产业园 · 과학기술단지 · 푸둥 신구 · 반도체 칩, AI 하드웨어) — 설계와 산업 서비스를 연결하는 장장 반도체 설계 생태계입니다. AI 반도체 설계 팀을 위한 최적의 출발점이며, 구체적인 EDA 툴, IP, 파운드리 테이프아웃, 패키징 및 테스트는 협력사와 개별 협상해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:41
 msgid ""
@@ -346,7 +342,7 @@ msgid ""
 "Caohejing name covers multiple development locations. Address: 1015 "
 "Caobao Road, Shanghai | Tel: +86 21 64850000. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`차오허징 개발구 <entities/caohejing>` (漕河泾开发区 · 과학기술단지 · 쉬후이구 · 소프트웨어 AI, 하드웨어 AI, 산업) — 개발구 운영사가 기업 지원 및 지식재산권 종합 서비스를 제공합니다. 차오허징이라는 명칭은 여러 분산 단지를 포괄하므로 실제 입주할 세부 파크와 사업장 주소를 사전에 확인해야 합니다. 상하이시 차오바오루 1015호 | Tel: +86 21 64850000. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`차오허징 개발구 <entities/caohejing>` (漕河泾开发区 · 과학기술단지 · 쉬후이구 · AI 소프트웨어, AI 하드웨어, 산업) — 개발구 운영사가 기업 지원 및 지식재산권 종합 서비스를 제공합니다. 차오허징이라는 명칭은 여러 분산 단지를 포괄하므로 실제 입주할 세부 파크와 사업장 주소를 사전에 확인해야 합니다. 상하이시 차오바오루 1015호 | Tel: +86 21 64850000. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:42
 msgid ""
@@ -357,7 +353,7 @@ msgid ""
 "industry challenges and collaborative innovation; current admission, "
 "space and fees require an intake discussion. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`쯔주 국가 하이테크 산업개발구 / ET 공간 <entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · 인큐베이터 · 민항구 · 소프트웨어 AI, 하드웨어 AI, 산업) — 하이테크 파크 자체 운영 인큐베이터로, 소프트웨어, 항공전자, 첨단 제조 생태계와 스타트업을 연결합니다. 기업 수요 기반의 오픈 이노베이션을 진행하며 현재 입주 여부, 공간 규모, 임대료는 입주 상담을 통해 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`쯔주 국가 하이테크 산업개발구 / ET 공간 <entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · 인큐베이터 · 민항구 · AI 소프트웨어, AI 하드웨어, 산업) — 하이테크 파크 자체 운영 인큐베이터로, 소프트웨어, 항공전자, 첨단 제조 생태계와 스타트업을 연결합니다. 기업 수요 기반의 오픈 이노베이션을 진행하며 현재 입주 여부, 공간 규모, 임대료는 입주 상담을 통해 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:43
 msgid ""
@@ -367,7 +363,7 @@ msgid ""
 "business-service hub in Hongqiao. The reported workstation offer depends "
 "on qualification and available space, not simply arrival at the transport "
 "hub. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`훙차오 국제 청년 창업 허브 <entities/hongqiao-youth>` (虹桥国际青年创业港 · 인큐베이터 · 민항구 · 소프트웨어 AI, 산업) — 2026년 7월 훙차오에 개소한 청년 창업 및 비즈니스 서비스 거점입니다. 언론에 보도된 무료 업무 공간 혜택은 자격 심사와 가용 공실에 따라 제공되며 단순 교통 허브 방문만으로 주어지지 않습니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`훙차오 국제 청년 창업 허브 <entities/hongqiao-youth>` (虹桥国际青年创业港 · 인큐베이터 · 민항구 · AI 소프트웨어, 산업) — 2026년 7월 훙차오에 개소한 청년 창업 및 비즈니스 서비스 거점입니다. 언론에 보도된 무료 업무 공간 혜택은 자격 심사와 가용 공실에 따라 제공되며 단순 교통 허브 방문만으로 주어지지 않습니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:44
 msgid ""
@@ -378,7 +374,7 @@ msgid ""
 "talent support and global business resources. Confirm the current "
 "operator's selection and service terms. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`동훙차오 국제 청년 과기혁신센터 <entities/east-hongqiao>` (东虹桥国际青年科创中心 · 인큐베이터 · 창닝구 · 소프트웨어 AI) — 창닝구의 2026년 5월 공식 발표에 따르면 AI 기반 1인 창업가(OPC)를 위한 혁신 거점으로 인큐베이션, AI 서비스, 인재 지원, 글로벌 비즈니스 자원을 결합합니다. 현재 위탁 운영사의 선발 기준 및 서비스 조건을 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`동훙차오 국제 청년 과기혁신센터 <entities/east-hongqiao>` (东虹桥国际青年科创中心 · 인큐베이터 · 창닝구 · AI 소프트웨어) — 창닝구의 2026년 5월 공식 발표에 따르면 AI 기반 1인 창업가(OPC)를 위한 혁신 거점으로 인큐베이션, AI 서비스, 인재 지원, 글로벌 비즈니스 자원을 결합합니다. 현재 위탁 운영사의 선발 기준 및 서비스 조건을 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:45
 msgid ""
@@ -390,7 +386,7 @@ msgid ""
 "Hi-Tech Park, Daning and Suhewan. Confirm the specific carrier operator, "
 "data-compliance services and tenancy terms. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`스베이 하이테크 파크 / 수퉁 밸리 및 다닝 창업 지원 거점 <entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · 과학기술단지 · 징안구 · 소프트웨어 AI, 산업) — 징안구의 2026~2028년 AI 시범구 계획 및 창업 지원 거점 정책에 따라 스베이 하이테크 파크, 수퉁 밸리(블록체인), 다닝, 쑤허완 일대에 빅데이터, 블록체인, 클라우드, 엔터프라이즈 AI 업무 공간을 집적하고 있습니다. 세부 운영 주체, 데이터 컴플라이언스 서비스, 입주 조건을 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`스베이 하이테크 파크 / 수퉁 밸리 및 다닝 창업 지원 거점 <entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · 과학기술단지 · 징안구 · AI 소프트웨어, 산업) — 징안구의 2026~2028년 AI 시범구 계획 및 창업 지원 거점 정책에 따라 스베이 하이테크 파크, 수퉁 밸리(블록체인), 다닝, 쑤허완 일대에 빅데이터, 블록체인, 클라우드, 엔터프라이즈 AI 업무 공간을 집적하고 있습니다. 세부 운영 주체, 데이터 컴플라이언스 서비스, 입주 조건을 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:46
 msgid ""
@@ -401,7 +397,7 @@ msgid ""
 "laser systems and AI hardware components. Confirm optical lab equipment, "
 "engineering support and commercial terms before admission. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`시허 광곡 광전산업 인큐베이터 <entities/xihe-optics>` (羲和光谷光电产业孵化器 · 인큐베이터 · 자딩구 · 하드웨어 AI, 센서, 반도체 칩) — 2025년 11월 자딩구에 설립된 광전자·포토닉스 전문 인큐베이터로 광학 센싱, 레이저 시스템, AI 하드웨어 부품 분야의 과학자 창업팀을 지원합니다. 입주 전 광학 실험 장비, 엔지니어링 지원, 상업 조건을 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`시허 광곡 광전산업 인큐베이터 <entities/xihe-optics>` (羲和光谷光电产业孵化器 · 인큐베이터 · 자딩구 · AI 하드웨어, 센서, 반도체 칩) — 2025년 11월 자딩구에 설립된 광전자·포토닉스 전문 인큐베이터로 광학 센싱, 레이저 시스템, AI 하드웨어 부품 분야의 과학자 창업팀을 지원합니다. 입주 전 광학 실험 장비, 엔지니어링 지원, 상업 조건을 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:47
 msgid ""
@@ -412,7 +408,7 @@ msgid ""
 "infrastructure and linked compute, model and corpus vouchers. Confirm "
 "whether the company's registered and operating address falls inside the "
 "designated town boundary. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`장장 AI 혁신 혁신 지구 <entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · 과학기술단지 · 푸둥 신구 · 소프트웨어 AI, 하드웨어 AI, 과학을 위한 AI (AI for Science)) — 장장 과학성 핵심부에 위치한 2제곱킬로미터 규모의 혁신 집적지로 70만 평방미터의 산업 공간, 시공간 디지털 인프라, 전용 컴퓨팅·모델·코퍼스 바우처를 제공합니다. 기업의 등록지 및 실제 사업장 주소가 혁신 지구 지정 경계 내에 위치해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`장장 AI 혁신 혁신 지구 <entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · 과학기술단지 · 푸둥 신구 · AI 소프트웨어, AI 하드웨어, 과학 연구를 위한 AI) — 장장 과학성 핵심부에 위치한 2제곱킬로미터 규모의 혁신 집적지로 70만 평방미터의 산업 공간, 시공간 디지털 인프라, 전용 컴퓨팅·모델·코퍼스 바우처를 제공합니다. 기업의 등록지 및 실제 사업장 주소가 혁신 지구 지정 경계 내에 위치해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:48
 msgid ""
@@ -423,7 +419,7 @@ msgid ""
 "shared laboratories and pilot manufacturing. Confirm biosafety level, "
 "cleanroom specs and admission terms. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`둥팡메이구 생명전령 유전자약물 베이스 <entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · 인큐베이터 · 펑셴구 · 헬스케어, 과학을 위한 AI (AI for Science)) — 2025년 4월 펑셴구에 개소하여 유전자 및 핵산 치료제 R&D, AI 기반 분자 설계, 공유 실험실, 파일럿 제조를 연계합니다. 입주 전 생물안전등급(BSL), 클린룸 사양 및 이용 규정을 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`둥팡메이구 생명전령 유전자약물 베이스 <entities/life-messenger>` (东方美谷·生命信使基因药物创新产业基地 · 인큐베이터 · 펑셴구 · 헬스케어, 과학 연구를 위한 AI) — 2025년 4월 펑셴구에 개소하여 유전자 및 핵산 치료제 R&D, AI 기반 분자 설계, 공유 실험실, 파일럿 제조를 연계합니다. 입주 전 생물안전등급(BSL), 클린룸 사양 및 이용 규정을 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:49
 msgid ""
@@ -433,7 +429,7 @@ msgid ""
 "public entrepreneurship training, prototyping and incubation base in "
 "Yangpu linking founder skills training, product trial spaces and startup "
 "service agencies. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`중국 (상하이) 창업자 공공실훈기지 <entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · 인큐베이터 · 양푸구 · 소프트웨어 AI, 하드웨어 AI, 산업) — 상하이시 인력자원사회보장국이 지원하는 양푸구 공공 창업 실습·시제품 제작 및 인큐베이션 기지로 창업 역량 교육, 시제품 시험 제작 공간, 창업 전문 서비스 기관을 연결합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`중국 (상하이) 창업자 공공실훈기지 <entities/entrepreneur-base>` (中国（上海）创业者公共实训基地 · 인큐베이터 · 양푸구 · AI 소프트웨어, AI 하드웨어, 산업) — 상하이시 인력자원사회보장국이 지원하는 양푸구 공공 창업 실습·시제품 제작 및 인큐베이션 기지로 창업 역량 교육, 시제품 시험 제작 공간, 창업 전문 서비스 기관을 연결합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:50
 msgid ""
@@ -444,7 +440,7 @@ msgid ""
 "seven universities in Songjiang University Town with technology-transfer "
 "platforms and incubation operators. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`쑹장 대학타운 과기혁신원 <entities/songjiang-uni-source>` (松江大学城科创源 · 인큐베이터 · 쑹장구 · 소프트웨어 AI, 하드웨어 AI, 신소재) — 2026년 9월 특별자금 지원 공고를 통해 출범한 쑹장구 산학협력 거점으로 쑹장 대학타운 내 7개 대학과 기술이전 플랫폼 및 창업 인큐베이터를 연계합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`쑹장 대학타운 과기혁신원 <entities/songjiang-uni-source>` (松江大学城科创源 · 인큐베이터 · 쑹장구 · AI 소프트웨어, AI 하드웨어, 신소재) — 2026년 9월 특별자금 지원 공고를 통해 출범한 쑹장구 산학협력 거점으로 쑹장 대학타운 내 7개 대학과 기술이전 플랫폼 및 창업 인큐베이터를 연계합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:51
 msgid ""
@@ -454,7 +450,7 @@ msgid ""
 "industry clustering direction with the HRSS \"Entrepreneurship Companion "
 "Plan\" mentor and service network for early-stage digital and financial "
 "technology founders. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`황푸 핀테크 집적 및 창업 페이파오 허브 <entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · 액셀러레이터 · 황푸구 · 소프트웨어 AI, 소비재·컨슈머) — 황푸구의 5개년 핀테크 특화 전략과 구 인력자원사회보장국의 '창업 페이파오(동반성장) 계획' 멘토 네트워크를 결합하여 초기 디지털 기술 및 핀테크 창업팀을 집중 지원합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`황푸 핀테크 집적 및 창업 페이파오 허브 <entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · 액셀러레이터 · 황푸구 · AI 소프트웨어, 소비재·컨슈머) — 황푸구의 5개년 핀테크 특화 전략과 구 인력자원사회보장국의 '창업 페이파오(동반성장) 계획' 멘토 네트워크를 결합하여 초기 디지털 기술 및 핀테크 창업팀을 집중 지원합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:52
 msgid ""
@@ -464,7 +460,7 @@ msgid ""
 "center and postdoctoral innovation practice base route supporting tech "
 "SMEs, green-shipping digital tools and R&D talent settlement in Hongkou. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`훙커우구 과학기술창업센터 및 포닥 혁신기지 <entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · 인큐베이터 · 훙커우구 · 소프트웨어 AI, 산업, 기후 테크) — 훙커우구 산하 공공 기술창업 지원센터이자 박사후(포닥) 혁신 실습 기지로 과기형 중소기업 육성, 친환경 스마트 해운 디지털 솔루션 개발 및 R&D 고급 인재 정착을 지원합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`훙커우구 과학기술창업센터 및 포닥 혁신기지 <entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · 인큐베이터 · 훙커우구 · AI 소프트웨어, 산업, 기후 테크) — 훙커우구 산하 공공 기술창업 지원센터이자 박사후(포닥) 혁신 실습 기지로 과기형 중소기업 육성, 친환경 스마트 해운 디지털 솔루션 개발 및 R&D 고급 인재 정착을 지원합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:53
 msgid ""
@@ -477,7 +473,7 @@ msgid ""
 "offer. Ask the operator about affiliation, IP, company formation and "
 "current external-team access. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`상하이 창즈학원 / 베이양 AI 창업 네트워크 <entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · 인큐베이터 · 쉬후이구 · 소프트웨어 AI, 하드웨어 AI, 과학을 위한 AI (AI for Science)) — 상하이 창즈학원(SII)과 차오허징이 공동 운영하는 창즈미래센터는 연구 기반 AI 창업자를 지원하며, 베이양 AI 액셀러레이터가 후속 시장·공급망 연계를 담당합니다. 학원 연계 인큐베이션이 누구나 신청할 수 있는 프로그램을 뜻하지는 않습니다. 소속 요건, 지식재산권, 법인 설립 및 외부 팀의 현재 참여 조건을 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이 창즈학원 / 베이양 AI 창업 네트워크 <entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · 인큐베이터 · 쉬후이구 · AI 소프트웨어, AI 하드웨어, 과학 연구를 위한 AI) — 상하이 창즈학원(SII)과 차오허징이 공동 운영하는 창즈미래센터는 연구 기반 AI 창업자를 지원하며, 베이양 AI 액셀러레이터가 후속 시장·공급망 연계를 담당합니다. 학원 연계 인큐베이션이 누구나 신청할 수 있는 프로그램을 뜻하지는 않습니다. 소속 요건, 지식재산권, 법인 설립 및 외부 팀의 현재 참여 조건을 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:54
 msgid ""
@@ -489,7 +485,7 @@ msgid ""
 "followed by two half-price years for qualifying projects. Housing, loans, "
 "vouchers and admission have separate conditions; confirm the current "
 "tenancy contract. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`린강 링제모팡(Zero Cube) OPC 커뮤니티 <entities/zero-cube-opc>` (临港零界魔方OPC社区 · 인큐베이터 · 푸둥 신구 · 소프트웨어 AI, 하드웨어 AI, 산업) — 린강그룹이 1인 창업자와 소규모 팀을 위해 운영하는 커뮤니티로, 창업·생활 서비스 및 AI-Store 자원을 연결합니다. 2026년 8월 운영 보고서는 적격 프로젝트에 사무실 임대료 3년 면제, 이후 2년 50% 감면을 안내합니다. 주거, 대출, 바우처 및 입주 조건은 각각 다르므로 현행 임대차계약을 확인해야 합니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`린강 링제모팡(Zero Cube) OPC 커뮤니티 <entities/zero-cube-opc>` (临港零界魔方OPC社区 · 인큐베이터 · 푸둥 신구 · AI 소프트웨어, AI 하드웨어, 산업) — 린강그룹이 1인 창업자와 소규모 팀을 위해 운영하는 커뮤니티로, 창업·생활 서비스 및 AI-Store 자원을 연결합니다. 2026년 8월 운영 보고서는 적격 프로젝트에 사무실 임대료 3년 면제, 이후 2년 50% 감면을 안내합니다. 주거, 대출, 바우처 및 입주 조건은 각각 다르므로 현행 임대차계약을 확인해야 합니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"
 
 #: ../../incubation.rst:55
 msgid ""
@@ -503,4 +499,4 @@ msgid ""
 "incorporated foreign-invested entity is required, then confirm admission, "
 "IP, laboratory access and fees. No standard grant or foreign-founder "
 "entitlement is established. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`와이가오차오 푸단과기원 바이오의약 혁신센터 <entities/waigaoqiao-fudan>` (外高桥复旦科技园生物医药创新中心 · 인큐베이터 · 푸둥 신구 · 헬스케어, 과학을 위한 AI (AI for Science)) — 푸단과기원이 와이가오차오 자펑루 8호에서 운영하는 바이오의약 인큐베이션·사업화 거점입니다. AI 신약개발 팀도 실험실 및 연구 사업화 협력을 검토할 수 있으나, 이는 편집상 제안이며 AI 전용 모집을 확인한 것은 아닙니다. 외국 기업은 현지 외국인투자 법인 설립 필요 여부를 먼저 확인하고 입주, 지식재산권, 실험실 이용 및 요금을 문의해야 합니다. 공통 보조금이나 외국인 창업자의 자동 수혜 자격은 확인되지 않았습니다. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`와이가오차오 푸단과기원 바이오의약 혁신센터 <entities/waigaoqiao-fudan>` (外高桥复旦科技园生物医药创新中心 · 인큐베이터 · 푸둥 신구 · 헬스케어, 과학 연구를 위한 AI) — 푸단과기원이 와이가오차오 자펑루 8호에서 운영하는 바이오의약 인큐베이션·사업화 거점입니다. AI 신약개발 팀도 실험실 및 연구 사업화 협력을 검토할 수 있으나, 이는 편집상 제안이며 AI 전용 모집을 확인한 것은 아닙니다. 외국 기업은 현지 외국인투자 법인 설립 필요 여부를 먼저 확인하고 입주, 지식재산권, 실험실 이용 및 요금을 문의해야 합니다. 공통 보조금이나 외국인 창업자의 자동 수혜 자격은 확인되지 않았습니다. [기관 정보 확인됨·현재 모집 여부 확인 필요]"

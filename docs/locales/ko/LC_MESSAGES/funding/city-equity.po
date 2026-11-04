@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -82,23 +82,23 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 
 #: ../../funding/city-equity.rst:33
 msgid "Confirm the manager, sector, stage and legal-entity fit."
-msgstr "펀드 운용사, 중점 투자 분야, 투자 단계 및 법인격의 적합성을 확인한다."
+msgstr "운용사, 투자 분야, 성장 단계와 신청 주체가 맞는지 확인합니다."
 
 #: ../../funding/city-equity.rst:35
 msgid ""
 "Submit a deck, cap table, technology evidence, traction and financing "
 "plan."
-msgstr "IR 피치덱, 주주명부(Cap table), 기술 입증 자료, 시장 지표(Traction) 및 자금 조달 계획을 제출한다."
+msgstr "IR 자료, 지분구조표(캡테이블), 기술 검증 결과, 사업 성과와 자금 조달 계획을 제출합니다."
 
 #: ../../funding/city-equity.rst:37
 msgid "Complete commercial, financial, technical and legal due diligence."
-msgstr "사업, 재무, 기술 및 법률 실사를 완료한다."
+msgstr "사업·재무·기술·법률 실사를 받습니다."
 
 #: ../../funding/city-equity.rst:39
 msgid ""
 "Review term sheet, investment committee conditions and definitive "
 "agreements."
-msgstr "텀시트(Term sheet), 투자심의위원회 부대조건 및 최종 투자 본계약서를 검토한다."
+msgstr "텀시트, 투자심의위원회 조건과 최종 계약을 검토합니다."
 
 #: ../../funding/city-equity.rst:41
 msgid ""

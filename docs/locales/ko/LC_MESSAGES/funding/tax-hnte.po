@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -26,14 +26,9 @@ msgstr "세제 혜택 | 상하이 전역 / 글로벌"
 
 #: ../../funding/tax-hnte.rst:6
 msgid "Published tax guidance; recognition required"
-msgstr "세무 지침 공시됨; 공식 기업 인증 필요"
+msgstr "세제 안내 공개·별도 인정 절차 필요"
 
 #: ../../funding/tax-hnte.rst:8
-
-#| msgid ""
-#| "`Evidence S106 "
-#| "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
-#| "上海市“2366”产业税收优惠政策指引."
 msgid ""
 "`Evidence S109 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
@@ -90,22 +85,22 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 #: ../../funding/tax-hnte.rst:33
 msgid ""
 "Check the current tax rules and recognition or accounting requirements."
-msgstr "현행 세법 규정, 공인 기업 인증 요건 또는 회계 분리 계상 기준을 확인한다."
+msgstr "현행 세법과 인정·회계처리 요건을 확인합니다."
 
 #: ../../funding/tax-hnte.rst:35
 msgid ""
 "Maintain qualifying R&D and income records with a qualified tax adviser."
-msgstr "공인 세무 대리인과 함께 자격 요건을 충족하는 R&D 지출 및 매출 증빙을 지속적으로 관리한다."
+msgstr "자격을 갖춘 세무 전문가와 연구개발비·매출 기록을 관리합니다."
 
 #: ../../funding/tax-hnte.rst:37
 msgid ""
 "Complete recognition where required and claim in the correct tax filing."
-msgstr "요구되는 경우 정부 인증 절차를 완료하고 정기 법인세 신고 시 세제 감면 혜택을 반영한다."
+msgstr "필요한 인정을 받은 뒤 해당 세무 신고에 혜택을 반영합니다."
 
 #: ../../funding/tax-hnte.rst:39
 msgid ""
 "Retain evidence for review and separate tax savings from cash grants."
-msgstr "세무 감사에 대비해 증빙 자료를 보관하며, 절세 효과를 직접적인 현금 보조금과 혼동하지 않는다."
+msgstr "확인 자료를 보관하고 절세 효과와 현금 보조금을 구분합니다."
 
 #: ../../funding/tax-hnte.rst:41
 msgid ""

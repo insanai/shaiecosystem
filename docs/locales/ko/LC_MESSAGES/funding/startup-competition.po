@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -29,11 +29,6 @@ msgid "2026 call published; deadline check required"
 msgstr "2026년 공고 발표됨; 마감일 확인 필요"
 
 #: ../../funding/startup-competition.rst:8
-
-#| msgid ""
-#| "`Evidence S107 "
-#| "<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
-#| "2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
 msgid ""
 "`Evidence S110 "
 "<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
@@ -90,24 +85,24 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 
 #: ../../funding/startup-competition.rst:33
 msgid "Choose the correct competition track, region and applicant category."
-msgstr "적합한 경진대회 트랙, 권역 및 참가 대상 구분을 선택한다."
+msgstr "적합한 트랙, 지역과 신청 유형을 선택합니다."
 
 #: ../../funding/startup-competition.rst:35
 msgid ""
 "Read the rules and submit the required project, team and IP evidence."
-msgstr "대회 규정을 확인하고 프로젝트 설명서, 팀 프로필 및 핵심 기술·지식재산권(IP) 증빙을 제출한다."
+msgstr "규정을 읽고 사업, 팀과 지식재산권 증빙을 제출합니다."
 
 #: ../../funding/startup-competition.rst:37
 msgid ""
 "Complete selection or pitching; confirm prize and service conditions in "
 "writing."
-msgstr "서면 선발 및 본선 피칭을 완료하고 상금 지급 조건과 부가 서비스 범위를 서면으로 확인한다."
+msgstr "선발이나 피칭에 참여하고 상금·서비스 조건을 서면으로 확인합니다."
 
 #: ../../funding/startup-competition.rst:39
 msgid ""
 "Treat investor introductions and district funding as separate follow-up "
 "decisions."
-msgstr "투자자 연계 및 구청 연계 지원금은 본 대회 시상과 별개의 후속 의사결정으로 진행한다."
+msgstr "투자자 연계와 구 지원금은 대회와 별개의 심사·결정으로 봅니다."
 
 #: ../../funding/startup-competition.rst:41
 msgid ""

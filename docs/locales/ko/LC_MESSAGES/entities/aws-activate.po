@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 08:05+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -30,7 +30,7 @@ msgstr "글로벌 프로그램 | 상하이 전역 / 글로벌 | 연구 확인일
 
 #: ../../entities/aws-activate.rst:8
 msgid "AI and industry focus: Software AI."
-msgstr "AI 및 산업 분야: 소프트웨어 AI."
+msgstr "AI 및 산업 분야: AI 소프트웨어."
 
 #: ../../entities/aws-activate.rst:10
 msgid ""
@@ -92,20 +92,20 @@ msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최�
 #: ../../entities/aws-activate.rst:35
 msgid ""
 "Check incorporation, company age, account region and existing benefits."
-msgstr "법인 설립 여부, 업력, 계정 등록 지역 및 기존 혜택 수혜 이력을 점검한다."
+msgstr "법인 등록, 업력, 계정 지역과 기존 혜택을 확인합니다."
 
 #: ../../entities/aws-activate.rst:37
 msgid "Apply through the official program form or qualifying partner route."
-msgstr "공식 프로그램 신청 양식 또는 인증 파트너 추천 경로를 통해 신청한다."
+msgstr "공식 신청서나 자격을 갖춘 협력사 추천으로 신청합니다."
 
 #: ../../entities/aws-activate.rst:39
 msgid ""
 "Confirm covered services, expiry, fees, usage limits and overage billing."
-msgstr "지원 대상 서비스 항목, 만료일, 서비스 요금, 사용량 한도 및 초과 사용 과금 기준을 확인한다."
+msgstr "대상 서비스, 유효기간, 요금, 사용 한도와 초과 과금을 확인합니다."
 
 #: ../../entities/aws-activate.rst:41
 msgid "Keep usage records and do not describe credits as unrestricted cash."
-msgstr "사용 로그를 철저히 기록하며, 바우처성 크레딧을 무제한 현금성 자산으로 오인하지 않는다."
+msgstr "사용 기록을 보관하고 크레딧을 자유롭게 쓸 수 있는 현금으로 보지 않습니다."
 
 #: ../../entities/aws-activate.rst:43
 msgid ":doc:`Citywide / global district route </funding>`"

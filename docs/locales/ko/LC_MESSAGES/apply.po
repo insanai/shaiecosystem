@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 11:11+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: ../../apply.rst:1
 msgid "From introduction to application"
-msgstr "사전 접촉에서 공식 신청까지"
+msgstr "첫 문의부터 신청까지"
 
 #: ../../apply.rst:4
 msgid ""
 "A useful application starts with a fit check and ends with an evidence "
 "trail. We keep one company data room, then adapt it to an incubation "
 "review, a public funding call, a corporate pilot or an investment process."
-msgstr "지원 신청의 목적은 심사자가 명확한 근거에 기반하여 다음 단계의 합리적 결정을 내릴 수 있도록 돕는 데 있습니다. 명확한 신청 서류는 정책 자격 요건, 입증 데이터, 그리고 공식 승인 단계를 분리하여 다룹니다."
+msgstr "신청은 사업과 지원 조건이 맞는지 확인하는 데서 시작합니다. 공통 기업 자료를 준비한 뒤 보육기관 입주, 공공 지원금, 기업 실증사업, 투자 유치에 맞게 보완하고 각 단계의 기록을 남깁니다."
 
 #: ../../apply.rst:7
 msgid ""
@@ -34,7 +34,7 @@ msgstr "명확한 지원 신청은 지원 자격, 입증 근거, 의사결정 �
 
 #: ../../apply.rst:10
 msgid "The first conversation"
-msgstr "첫 문의 서신 작성법"
+msgstr "첫 문의 작성하기"
 
 #: ../../apply.rst:13
 msgid ""
@@ -43,7 +43,7 @@ msgid ""
 "Shanghai presence and the exact resource requested. We ask for the named "
 "receiving team and written current terms. A first message should be small "
 "enough to forward to the right person."
-msgstr "우리는 기업 및 팀 소개, 고객의 핵심 문제, 제품, 입증 데이터, 현재 사업 단계, 상하이 진출 현황 및 요청하는 구체적 자원을 담은 영문·중문 1페이지 소개서를 보냅니다. 담당 접수팀 정보와 최신 서면 약관을 명시적으로 요청해야 합니다. 첫 메시지는 적임자에게 쉽게 전달(포워딩)될 수 있을 만큼 간결해야 합니다."
+msgstr "기업과 팀, 고객 문제, 제품, 검증 결과, 사업 단계, 상하이 관련 현황과 필요한 자원을 담은 영문·중문 1페이지 소개서를 준비합니다. 담당 부서와 최신 서면 조건을 요청합니다. 첫 문의는 적합한 담당자에게 전달하기 쉽도록 간결하게 작성합니다."
 
 #: ../../apply.rst:15
 msgid ""
@@ -57,7 +57,7 @@ msgstr "권장 메일 제목: 상하이 생태계 문의 / 프로젝트명 / 인
 
 #: ../../apply.rst:17
 msgid "The shared data room"
-msgstr "공용 데이터룸 구축"
+msgstr "공통 자료 준비하기"
 
 #: ../../apply.rst:20
 msgid ""
@@ -66,7 +66,7 @@ msgid ""
 "addresses, prior public awards and related-party list. Team: founder "
 "roles, full-time commitment, relevant education, eligibility evidence and "
 "lawful work status where required."
-msgstr "기업 서류: 사업자등록증(영업집조), 통일사회신용코드, 정관, 주주명부(Cap table), 실소유자(실제 수익자), 은행 계좌 정보, 법인 등록지 및 실제 사업장 주소, 기존 공공 보조금 수혜 내역, 특수관계인 목록. 팀 서류: 창업자 역할 분담, 풀타임 상근 여부, 관련 학력 및 경력, 지원 자격 입증 자료, 필요시 합법적 취업 신분 증빙."
+msgstr "기업 서류: 사업자등록증(영업집조), 통일사회신용코드, 정관, 지분구조표(캡테이블), 실소유자(실제 수익자), 은행 계좌 정보, 법인 등록지 및 실제 사업장 주소, 기존 공공 보조금 수혜 내역, 특수관계인 목록. 팀 서류: 창업자 역할 분담, 풀타임 상근 여부, 관련 학력 및 경력, 지원 자격 입증 자료, 필요시 합법적 취업 신분 증빙."
 
 #: ../../apply.rst:22
 msgid ""
@@ -90,7 +90,7 @@ msgstr "기술 서류: 제품 설명서, 데모 시연 영상, 벤치마크 평�
 
 #: ../../apply.rst:26
 msgid "Four different decisions"
-msgstr "서로 다른 네 가지 의사결정 구조"
+msgstr "네 가지 신청·의사결정 절차"
 
 #: ../../apply.rst:29
 msgid ""
@@ -120,7 +120,7 @@ msgstr "대기업 파일럿 실증: 현업 사업 책임자 발굴, 해결 과�
 
 #: ../../apply.rst:35
 msgid "An accelerator's four-week field program"
-msgstr "액셀러레이터의 4주 현장 실행 프로그램"
+msgstr "4주 현장 활동 계획"
 
 #: ../../apply.rst:38
 msgid ""
@@ -142,12 +142,6 @@ msgid ""
 msgstr "우리는 담당자, 관할 부처, 근거 정책 버전, 증빙 인정 기간, 중국 표준시 기준 마감 시한, 접수증 번호, 중복 지원 배제 조항, 사후 보고 의무, 다음 후속 조치를 기록하는 신청 관리 대장을 운영합니다. 캘린더 알림은 정확한 마감 시각과 적용 시차를 확인한 후에만 유효합니다."
 
 #: ../../apply.rst:42
-
-#| msgid ""
-#| "`Evidence S138 "
-#| "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
-#| "Guide for foreign talent and team members (Category A/B) applying for "
-#| "a Foreigner's Work Permit during the startup phase_Latest."
 msgid ""
 "`Evidence S142 "
 "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
