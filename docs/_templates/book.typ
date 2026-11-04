@@ -159,6 +159,8 @@
   #text(size: 9pt, fill: quiet, scope)
   #v(4mm)
   #text(size: 8pt, fill: quiet, words.cover_note)
+  #v(3mm)
+  #text(size: 8pt, fill: quiet)[#link("https://creativecommons.org/licenses/by-sa/4.0/")[CC BY-SA 4.0] #words.license #words.rights]
   #v(4mm)
   #text(font: sans, size: 8pt, fill: quiet, "Guidedog (HTML & PDF) / Typst / CeTZ / Fletcher / Graphviz")
   #v(8mm)

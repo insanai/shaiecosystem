@@ -294,3 +294,6 @@ msgstr "出典・参考資料"
 
 msgid "Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares."
 msgstr "補助金、利用券、返済が必要な融資、株式投資、株式に転換する可能性のある支援を比較する。"
+
+msgid "Original Atlas material is licensed under CC BY-SA 4.0. Third-party material retains its respective rights and licenses."
+msgstr "本図鑑のオリジナルコンテンツはCC BY-SA 4.0で公開しています。第三者の資料には、それぞれの権利とライセンスが適用されます。"

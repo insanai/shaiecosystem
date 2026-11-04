@@ -294,3 +294,6 @@ msgstr "资料来源与延伸阅读"
 
 msgid "Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares."
 msgstr "比较补助、资源券、须偿还的贷款、股权投资及可能转股的支持。"
+
+msgid "Original Atlas material is licensed under CC BY-SA 4.0. Third-party material retains its respective rights and licenses."
+msgstr "本图谱原创内容采用 CC BY-SA 4.0 许可协议。第三方资料的版权及许可条款归各自权利人所有。"

@@ -294,3 +294,6 @@ msgstr "출처 및 참고 자료"
 
 msgid "Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares."
 msgstr "보조금, 바우처, 상환 의무가 있는 대출, 지분 투자 및 지분 전환 가능 지원을 비교합니다."
+
+msgid "Original Atlas material is licensed under CC BY-SA 4.0. Third-party material retains its respective rights and licenses."
+msgstr "이 가이드의 자체 제작 콘텐츠에는 CC BY-SA 4.0이 적용됩니다. 제3자 자료에는 해당 권리자의 권리와 라이선스가 적용됩니다."

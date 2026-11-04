@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 10:45+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -122,10 +122,24 @@ msgstr "Créditos y sistema de publicación: Escrito por Vikrant Rathore, con co
 
 #: ../../methodology.rst:33
 
-#| msgid ""
-#| "`Evidence S139 "
-#| "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. "
-#| "DataV Shanghai district geometry."
+#| msgid "Research and translation"
+msgid "Reuse and licensing"
+msgstr "Reutilización y licencia"
+
+#: ../../methodology.rst:36
+msgid ""
+"Original Atlas material is licensed under Creative Commons "
+"Attribution-ShareAlike 4.0 International (CC BY-SA 4.0): "
+"https://creativecommons.org/licenses/by-sa/4.0/. This covers our original "
+"writing, translations, research compilation, illustrations, diagrams, "
+"design and project code, to the extent that we hold the rights. "
+"Third-party publications, fonts, geographic source data, trademarks and "
+"upstream software retain their respective rights and licenses. "
+"Attribution and exceptions are recorded at "
+"https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md."
+msgstr "El contenido original de este atlas se publica bajo Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/. En la medida en que poseemos los derechos, abarca los textos, traducciones, recopilación de investigación, ilustraciones, diagramas, diseño y código originales del proyecto. Las publicaciones, fuentes tipográficas, datos geográficos, marcas y software de terceros conservan sus derechos y licencias. Atribución y excepciones: https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md."
+
+#: ../../methodology.rst:38
 msgid ""
 "`Evidence S143 "
 "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV "

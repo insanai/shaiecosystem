@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 10:45+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -122,10 +122,24 @@ msgstr "執筆クレジットおよび出版システム：本書は Vikrant Rat
 
 #: ../../methodology.rst:33
 
-#| msgid ""
-#| "`Evidence S139 "
-#| "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. "
-#| "DataV Shanghai district geometry."
+#| msgid "Research and translation"
+msgid "Reuse and licensing"
+msgstr "再利用とライセンス"
+
+#: ../../methodology.rst:36
+msgid ""
+"Original Atlas material is licensed under Creative Commons "
+"Attribution-ShareAlike 4.0 International (CC BY-SA 4.0): "
+"https://creativecommons.org/licenses/by-sa/4.0/. This covers our original "
+"writing, translations, research compilation, illustrations, diagrams, "
+"design and project code, to the extent that we hold the rights. "
+"Third-party publications, fonts, geographic source data, trademarks and "
+"upstream software retain their respective rights and licenses. "
+"Attribution and exceptions are recorded at "
+"https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md."
+msgstr "本図鑑のオリジナルコンテンツは、クリエイティブ・コモンズ表示-継承4.0国際（CC BY-SA 4.0）で公開しています：https://creativecommons.org/licenses/by-sa/4.0/。当方が権利を持つ範囲で、独自の文章、翻訳、調査資料の編集、イラスト、図解、デザイン、プロジェクトコードに適用されます。第三者の出版物、フォント、地理データ、商標、上流ソフトウェアには、それぞれの権利とライセンスが適用されます。帰属表示と例外：https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md。"
+
+#: ../../methodology.rst:38
 msgid ""
 "`Evidence S143 "
 "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV "

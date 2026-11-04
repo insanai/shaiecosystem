@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 10:45+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -122,10 +122,24 @@ msgstr "क्रेडिट और प्रकाशन प्रणाली
 
 #: ../../methodology.rst:33
 
-#| msgid ""
-#| "`Evidence S139 "
-#| "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. "
-#| "DataV Shanghai district geometry."
+#| msgid "Research and translation"
+msgid "Reuse and licensing"
+msgstr "पुनः उपयोग और लाइसेंस"
+
+#: ../../methodology.rst:36
+msgid ""
+"Original Atlas material is licensed under Creative Commons "
+"Attribution-ShareAlike 4.0 International (CC BY-SA 4.0): "
+"https://creativecommons.org/licenses/by-sa/4.0/. This covers our original "
+"writing, translations, research compilation, illustrations, diagrams, "
+"design and project code, to the extent that we hold the rights. "
+"Third-party publications, fonts, geographic source data, trademarks and "
+"upstream software retain their respective rights and licenses. "
+"Attribution and exceptions are recorded at "
+"https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md."
+msgstr "इस गाइड की मौलिक सामग्री Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) के तहत उपलब्ध है: https://creativecommons.org/licenses/by-sa/4.0/। हमारे अधिकारों की सीमा तक यह मौलिक लेखन, अनुवाद, शोध संकलन, चित्र, आरेख, डिज़ाइन और परियोजना कोड पर लागू है। तृतीय-पक्ष प्रकाशनों, फ़ॉन्ट, मानचित्र के स्रोत डेटा, ट्रेडमार्क और मूल सॉफ़्टवेयर पर उनके अपने अधिकार और लाइसेंस लागू हैं। श्रेय और अपवाद: https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md।"
+
+#: ../../methodology.rst:38
 msgid ""
 "`Evidence S143 "
 "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV "

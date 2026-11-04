@@ -176,6 +176,12 @@
               "नए संस्करण से पहले, स्रोत तिथियां, संचालक पहचान, नीति समाप्ति, प्रवेश समय सीमा, संपर्क, फंडिंग तंत्र, पात्रता, जिला सीमाएं और दोहरे-फंडिंग नियमों की पुनः जाँच करें। पुराने हो चुके दावों को चुपचाप पुनः उपयोग करने के बजाय उनकी ऐतिहासिक स्थिति के साथ संरक्षित करें। स्रोत रिपॉजिटरी में डेटा, अनुवाद, कलाकृति उत्पत्ति और पुनरुत्पादनीय Guidedog बिल्ड कमांड शामिल हैं।",
               "क्रेडिट और प्रकाशन प्रणाली: Vikrant Rathore द्वारा लिखित, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore और Emily Yue Xu के योगदान के साथ। एक एकीकृत द्विभाषी HTML वेबसाइट और Typst-टाइपसेट PDF पुस्तक प्रकाशन के रूप में Guidedog के साथ निर्मित।"
             ]
+          ],
+          [
+            "पुनः उपयोग और लाइसेंस",
+            [
+              "इस गाइड की मौलिक सामग्री Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) के तहत उपलब्ध है: https://creativecommons.org/licenses/by-sa/4.0/। हमारे अधिकारों की सीमा तक यह मौलिक लेखन, अनुवाद, शोध संकलन, चित्र, आरेख, डिज़ाइन और परियोजना कोड पर लागू है। तृतीय-पक्ष प्रकाशनों, फ़ॉन्ट, मानचित्र के स्रोत डेटा, ट्रेडमार्क और मूल सॉफ़्टवेयर पर उनके अपने अधिकार और लाइसेंस लागू हैं। श्रेय और अपवाद: https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md।"
+            ]
           ]
         ]
       }
@@ -1611,6 +1617,12 @@
               "El registro comprende 29 institutos superiores técnico-profesionales y 12 instituciones de educación para adultos sin afirmar que se haya realizado una investigación a nivel de programas para cada uno de ellos. En los perfiles universitarios, las áreas temáticas sugeridas y las preguntas de orientación administrativa constituyen una guía editorial y no un inventario verificado de laboratorios, contactos o ayudas disponibles.",
               "Antes de publicar una nueva edición, es preciso volver a verificar las fechas de las fuentes, la identidad del operador, el vencimiento de las políticas, los plazos de admisión, los contactos, los mecanismos de financiación, los requisitos de elegibilidad, los límites distritales y las reglas sobre doble financiación. Las afirmaciones sustituidas deben conservarse con su marca de estado histórico en lugar de reutilizarse silenciosamente. El repositorio fuente contiene los datos, las traducciones, la procedencia de las ilustraciones y los comandos reproducibles de compilación con Guidedog.",
               "Créditos y sistema de publicación: Escrito por Vikrant Rathore, con contribuciones de Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu. Construido con Guidedog como sitio web HTML bilingüe unificado y publicación de libro en PDF maquetado con Typst."
+            ]
+          ],
+          [
+            "Reutilización y licencia",
+            [
+              "El contenido original de este atlas se publica bajo Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/. En la medida en que poseemos los derechos, abarca los textos, traducciones, recopilación de investigación, ilustraciones, diagramas, diseño y código originales del proyecto. Las publicaciones, fuentes tipográficas, datos geográficos, marcas y software de terceros conservan sus derechos y licencias. Atribución y excepciones: https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md."
             ]
           ]
         ]
@@ -3048,6 +3060,12 @@
               "新版の刊行にあたっては、出典のアクセス日、運営主体の法人格、政策の失効期限、公募締切日時、連絡先情報、資金メカニズム、適格要件、行政区境界、および重複受給排除規程を必ず再確認すること。失効した記述は暗黙のうちに再利用せず、過去の履歴ステータスとして保存・表示すべきである。本プロジェクトのソースリポジトリには、生データ、翻訳テキスト、アートワークの出所情報、および再現可能な Guidedog ビルドコマンドがすべて格納されている。",
               "執筆クレジットおよび出版システム：本書は Vikrant Rathore が執筆し、Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu が寄稿した。Guidedog を用いて、日英・中英バイリンガルのHTML WebサイトおよびTypst組版によるPDF書籍として統合制作された。"
             ]
+          ],
+          [
+            "再利用とライセンス",
+            [
+              "本図鑑のオリジナルコンテンツは、クリエイティブ・コモンズ表示-継承4.0国際（CC BY-SA 4.0）で公開しています：https://creativecommons.org/licenses/by-sa/4.0/。当方が権利を持つ範囲で、独自の文章、翻訳、調査資料の編集、イラスト、図解、デザイン、プロジェクトコードに適用されます。第三者の出版物、フォント、地理データ、商標、上流ソフトウェアには、それぞれの権利とライセンスが適用されます。帰属表示と例外：https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md。"
+            ]
           ]
         ]
       }
@@ -4484,6 +4502,12 @@
               "새로운 개정판을 발행하기 전에는 원천 출처 일자, 운영 주체, 정책 만료 여부, 접수 마감 시한, 연락처 정보, 자금 지원 메커니즘, 신청 자격 요건, 행정구역 경계 및 중복 수혜 배제 규정을 재검토해야 합니다. 변경된 내용은 무단 삭제하거나 덮어쓰지 않고 역사적 이력을 보존해야 합니다. 소스 리포지토리에는 원천 데이터, 번역본, 일러스트 출처 및 재현 가능한 Guidedog 빌드 명령어가 온전히 보존되어 있습니다.",
               "저자 크레디트 및 출판 시스템: 본서는 Vikrant Rathore가 집필하였으며 Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu가 기여했습니다. Guidedog을 기반으로 단일한 다국어 HTML 웹사이트와 Typst로 조판된 PDF 도서로 발행되었습니다."
             ]
+          ],
+          [
+            "재사용과 라이선스",
+            [
+              "이 가이드의 자체 제작 콘텐츠는 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제(CC BY-SA 4.0)로 공개합니다: https://creativecommons.org/licenses/by-sa/4.0/. 당사가 권리를 보유한 범위에서 집필 내용, 번역, 조사 자료의 편집, 삽화, 도표, 디자인 및 프로젝트 코드에 적용됩니다. 제3자 출판물, 글꼴, 지리 원본 데이터, 상표 및 상위 소프트웨어에는 각각의 권리와 라이선스가 적용됩니다. 저작자 표시와 예외: https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md."
+            ]
           ]
         ]
       }
@@ -5919,6 +5943,12 @@
               "Das Verzeichnis enthält 29 tertiäre Fachkollegs und 12 Einrichtungen der Erwachsenenbildung, ohne für jede einzelne Institution Detailrecherchen zu beanspruchen. Bei den Hochschulprofilen verstehen sich thematische Zuordnungen und Hinweise zur Kontaktaufnahme als redaktionelle Orientierungshilfe, nicht als verifiziertes Inventar von Laboren, festen Ansprechpartnern oder verfügbaren Stipendien.",
               "Vor einer Neuauflage sind Quelldaten, Trägeridentitäten, Gültigkeitsfristen, Ausschreibungsenden, Ansprechpartner, Förderinstrumente, Antragsberechtigungen, Bezirksgrenzen und Doppelförderungsverbote neu zu prüfen. Veraltete Bestimmungen müssen als historisch gekennzeichnet und dürfen nicht stillschweigend fortgeschrieben werden. Das Quell-Repository enthält Rohdaten, Übersetzungen, Nachweise zum Bildmaterial und reproduzierbare Guidedog-Build-Befehle.",
               "Autorenschaft und Publikationssystem: Verfasst von Vikrant Rathore, unter Mitwirkung von Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu. Erstellt mit Guidedog als einheitliche zweisprachige HTML-Website und typografisch mit Typst gesetzte PDF-Buchpublikation."
+            ]
+          ],
+          [
+            "Weiterverwendung und Lizenz",
+            [
+              "Die eigenen Inhalte dieses Atlas stehen unter Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/. Dies gilt im Umfang unserer Rechte für eigene Texte, Übersetzungen, die Zusammenstellung der Recherche, Illustrationen, Diagramme, Gestaltung und Projektcode. Veröffentlichungen Dritter, Schriften, geografische Quelldaten, Marken und übernommene Software behalten ihre jeweiligen Rechte und Lizenzen. Hinweise zur Namensnennung und zu Ausnahmen: https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md."
             ]
           ]
         ]

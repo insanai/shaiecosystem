@@ -294,3 +294,6 @@ msgstr "स्रोत और आगे की पढ़ाई"
 
 msgid "Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares."
 msgstr "अनुदान, वाउचर, चुकाए जाने वाले ऋण, इक्विटी निवेश और हिस्सेदारी में बदल सकने वाली सहायता की तुलना करें।"
+
+msgid "Original Atlas material is licensed under CC BY-SA 4.0. Third-party material retains its respective rights and licenses."
+msgstr "इस गाइड की मौलिक सामग्री CC BY-SA 4.0 के तहत उपलब्ध है। तृतीय-पक्ष सामग्री पर उसके अधिकारधारकों के अधिकार और लाइसेंस लागू हैं।"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 09:11+0000\n"
+"POT-Creation-Date: 2026-11-04 10:45+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -122,10 +122,24 @@ msgstr "署名与出版系统：本书由 Vikrant Rathore 撰写，Lauren Zhao�
 
 #: ../../methodology.rst:33
 
-#| msgid ""
-#| "`Evidence S139 "
-#| "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. "
-#| "DataV Shanghai district geometry."
+#| msgid "Research and translation"
+msgid "Reuse and licensing"
+msgstr "使用与授权"
+
+#: ../../methodology.rst:36
+msgid ""
+"Original Atlas material is licensed under Creative Commons "
+"Attribution-ShareAlike 4.0 International (CC BY-SA 4.0): "
+"https://creativecommons.org/licenses/by-sa/4.0/. This covers our original "
+"writing, translations, research compilation, illustrations, diagrams, "
+"design and project code, to the extent that we hold the rights. "
+"Third-party publications, fonts, geographic source data, trademarks and "
+"upstream software retain their respective rights and licenses. "
+"Attribution and exceptions are recorded at "
+"https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md."
+msgstr "本图谱原创内容采用知识共享署名-相同方式共享4.0国际许可协议（CC BY-SA 4.0）：https://creativecommons.org/licenses/by-sa/4.0/。在我们享有相应权利的范围内，授权涵盖原创文字、翻译、研究资料的编排、插画、图解、设计及项目代码。第三方出版物、字体、地图源数据、商标及上游软件仍适用各自的版权和许可条款。署名方式及授权范围说明见 https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md。"
+
+#: ../../methodology.rst:38
 msgid ""
 "`Evidence S143 "
 "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV "

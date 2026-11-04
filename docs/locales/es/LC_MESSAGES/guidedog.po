@@ -294,3 +294,6 @@ msgstr "Fuentes y lecturas"
 
 msgid "Compare grants, vouchers, repayable loans, equity investment and support that may convert into shares."
 msgstr "Compara subvenciones, bonos, préstamos reembolsables, inversión de capital y apoyo convertible en participaciones."
+
+msgid "Original Atlas material is licensed under CC BY-SA 4.0. Third-party material retains its respective rights and licenses."
+msgstr "El contenido original de este atlas se publica bajo CC BY-SA 4.0. El material de terceros conserva los derechos y las licencias de sus titulares."

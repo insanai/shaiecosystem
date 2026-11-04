@@ -30,4 +30,9 @@ Before a new edition, recheck source dates, operator identity, policy expiry, in
 
 Credits and publication system: Written by Vikrant Rathore, with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog as a unified bilingual HTML website and Typst-typeset PDF book publication.
 
+Reuse and licensing
+-------------------
+
+Original Atlas material is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/. This covers our original writing, translations, research compilation, illustrations, diagrams, design and project code, to the extent that we hold the rights. Third-party publications, fonts, geographic source data, trademarks and upstream software retain their respective rights and licenses. Attribution and exceptions are recorded at https://github.com/insanai/shaiecosystem/blob/main/NOTICE.md.
+
 `Evidence S143 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry.

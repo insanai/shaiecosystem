@@ -25,7 +25,9 @@
       "Organizations",
       "Funding routes",
       "Sources"
-    ]
+    ],
+    "license": "Applies to original Atlas material.",
+    "rights": "Third-party material retains its respective rights and licenses."
   },
   "zh": {
     "title": "上海创新生态图谱",
@@ -53,7 +55,9 @@
       "机构",
       "融资与扶持渠道",
       "资料来源"
-    ]
+    ],
+    "license": "本图谱原创内容采用署名-相同方式共享4.0国际许可协议。",
+    "rights": "第三方资料保留其原有版权及许可条款。"
   },
   "hi": {
     "title": "शंघाई इनोवेशन इकोसिस्टम गाइड",
@@ -81,7 +85,9 @@
       "संस्थान",
       "वित्तीय सहायता के विकल्प",
       "स्रोत"
-    ]
+    ],
+    "license": "इस गाइड की मौलिक सामग्री इस लाइसेंस के तहत उपलब्ध है।",
+    "rights": "तृतीय-पक्ष सामग्री पर उसके मूल अधिकार और लाइसेंस लागू हैं।"
   },
   "ja": {
     "title": "上海イノベーション・エコシステム図鑑",
@@ -109,7 +115,9 @@
       "機関",
       "資金調達・支援制度",
       "出典"
-    ]
+    ],
+    "license": "本図鑑のオリジナルコンテンツに適用。",
+    "rights": "第三者の資料は、元の権利とライセンスに従います。"
   },
   "ko": {
     "title": "상하이 혁신 생태계 가이드",
@@ -137,7 +145,9 @@
       "기관",
       "자금 조달·지원 경로",
       "출처"
-    ]
+    ],
+    "license": "이 가이드의 자체 제작 콘텐츠에 적용됩니다.",
+    "rights": "제3자 자료에는 원래의 권리와 라이선스가 적용됩니다."
   },
   "de": {
     "title": "Shanghai: Atlas des Innovationsökosystems",
@@ -165,7 +175,9 @@
       "Organisationen",
       "Finanzierungswege",
       "Quellen"
-    ]
+    ],
+    "license": "Gilt für die eigenen Inhalte dieses Atlas.",
+    "rights": "Für Inhalte Dritter gelten die ursprünglichen Rechte und Lizenzen."
   },
   "es": {
     "title": "Atlas del ecosistema de innovación de Shanghái",
@@ -193,6 +205,8 @@
       "Organizaciones",
       "Vías de financiación",
       "Fuentes"
-    ]
+    ],
+    "license": "Se aplica al contenido original de este atlas.",
+    "rights": "El material de terceros conserva sus derechos y licencias originales."
   }
 }

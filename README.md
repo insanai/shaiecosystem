@@ -2,6 +2,9 @@
 
 Written by Vikrant Rathore, with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu.
 
+Original Atlas material is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), except material belonging to other rights holders.
+[NOTICE.md](NOTICE.md) identifies the scope, attribution and third-party exceptions.
+
 We publish an interactive website and illustrated PDF books in English, Simplified Chinese, Hindi, Japanese, Korean, German and Spanish using [Guidedog](https://github.com/insanai/guidedog).
 The research edition is dated 4 November 2026 and contains 133 organization profiles, 53 funding and cost-support routes, and 144 cited sources across Shanghai's 16 districts.
 We include profiles for all 40 undergraduate institutions in the June 2026 Ministry of Education Shanghai register, with separate registers of 29 diploma colleges and 12 adult institutions.
