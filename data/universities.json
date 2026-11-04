@@ -1,0 +1,437 @@
+{
+  "universities": [
+    [
+      "fudan",
+      "Fudan University",
+      "复旦大学",
+      "yangpu",
+      "fudan.edu.cn",
+      "Software AI, chips, AI for Science",
+      "软件人工智能、芯片、科学智能"
+    ],
+    [
+      "tongji",
+      "Tongji University",
+      "同济大学",
+      "yangpu",
+      "tongji.edu.cn",
+      "Autonomous systems, mobility, robotics, built environment",
+      "自主系统、交通、机器人、建成环境"
+    ],
+    [
+      "sjtu",
+      "Shanghai Jiao Tong University",
+      "上海交通大学",
+      "minhang",
+      "sjtu.edu.cn",
+      "Robotics, chips, engineering, medical AI",
+      "机器人、芯片、工程、医疗人工智能"
+    ],
+    [
+      "ecust",
+      "East China University of Science and Technology",
+      "华东理工大学",
+      "xuhui",
+      "ecust.edu.cn",
+      "Materials, chemistry, bioprocessing, AI for Science",
+      "材料、化学、生物工艺、科学智能"
+    ],
+    [
+      "usst",
+      "University of Shanghai for Science and Technology",
+      "上海理工大学",
+      "yangpu",
+      "usst.edu.cn",
+      "Optics, medical devices, sensors, advanced equipment",
+      "光学、医疗器械、传感器、先进装备"
+    ],
+    [
+      "maritime",
+      "Shanghai Maritime University",
+      "上海海事大学",
+      "pudong",
+      "shmtu.edu.cn",
+      "Shipping, logistics, autonomous maritime systems",
+      "航运、物流、自主海事系统"
+    ],
+    [
+      "donghua",
+      "Donghua University",
+      "东华大学",
+      "songjiang",
+      "dhu.edu.cn",
+      "Advanced fibers, materials, design, smart textiles",
+      "先进纤维、材料、设计、智能纺织"
+    ],
+    [
+      "electric-power",
+      "Shanghai University of Electric Power",
+      "上海电力大学",
+      "pudong",
+      "shiep.edu.cn",
+      "Energy systems, grid intelligence, industrial control",
+      "能源系统、智能电网、工业控制"
+    ],
+    [
+      "sit",
+      "Shanghai Institute of Technology",
+      "上海应用技术大学",
+      "fengxian",
+      "sit.edu.cn",
+      "Applied engineering, materials, industrial AI",
+      "应用工程、材料、工业人工智能"
+    ],
+    [
+      "sumhs",
+      "Shanghai University of Medicine and Health Sciences",
+      "上海健康医学院",
+      "pudong",
+      "sumhs.edu.cn",
+      "Health devices, diagnostics, clinical applications",
+      "健康器械、诊断、临床应用"
+    ],
+    [
+      "ocean",
+      "Shanghai Ocean University",
+      "上海海洋大学",
+      "pudong",
+      "shou.edu.cn",
+      "Marine science, aquaculture, smart agriculture",
+      "海洋科学、水产、智慧农业"
+    ],
+    [
+      "tcm",
+      "Shanghai University of Traditional Chinese Medicine",
+      "上海中医药大学",
+      "pudong",
+      "shutcm.edu.cn",
+      "Healthcare, drug discovery, medical data",
+      "医疗健康、药物发现、医学数据"
+    ],
+    [
+      "ecnu",
+      "East China Normal University",
+      "华东师范大学",
+      "putuo",
+      "ecnu.edu.cn",
+      "Software, education AI, data science, microelectronics",
+      "软件、教育人工智能、数据科学、微电子"
+    ],
+    [
+      "shnu",
+      "Shanghai Normal University",
+      "上海师范大学",
+      "xuhui",
+      "shnu.edu.cn",
+      "Education, computer science, creative technology",
+      "教育、计算机、创意科技"
+    ],
+    [
+      "sisu",
+      "Shanghai International Studies University",
+      "上海外国语大学",
+      "hongkou",
+      "shisu.edu.cn",
+      "Language technology, translation, international markets",
+      "语言技术、翻译、国际市场"
+    ],
+    [
+      "sufe",
+      "Shanghai University of Finance and Economics",
+      "上海财经大学",
+      "yangpu",
+      "sufe.edu.cn",
+      "Fintech, analytics, business models",
+      "金融科技、分析、商业模式"
+    ],
+    [
+      "suibe",
+      "Shanghai University of International Business and Economics",
+      "上海对外经贸大学",
+      "songjiang",
+      "suibe.edu.cn",
+      "Trade, commerce, cross-border business",
+      "贸易、商业、跨境业务"
+    ],
+    [
+      "customs",
+      "Shanghai Customs University",
+      "上海海关学院",
+      "pudong",
+      "shcc.edu.cn",
+      "Customs, trade processes, compliance systems",
+      "海关、贸易流程、合规系统"
+    ],
+    [
+      "ecupl",
+      "East China University of Political Science and Law",
+      "华东政法大学",
+      "songjiang",
+      "ecupl.edu.cn",
+      "IP, data governance, legal technology",
+      "知识产权、数据治理、法律科技"
+    ],
+    [
+      "sport",
+      "Shanghai University of Sport",
+      "上海体育大学",
+      "yangpu",
+      "sus.edu.cn",
+      "Sports science, motion analysis, wearables",
+      "运动科学、动作分析、可穿戴设备"
+    ],
+    [
+      "music",
+      "Shanghai Conservatory of Music",
+      "上海音乐学院",
+      "xuhui",
+      "shcmusic.edu.cn",
+      "Audio AI, music technology, creative tools",
+      "音频人工智能、音乐科技、创作工具"
+    ],
+    [
+      "theatre",
+      "Shanghai Theatre Academy",
+      "上海戏剧学院",
+      "jingan",
+      "sta.edu.cn",
+      "Performance, virtual production, creative media",
+      "表演、虚拟制作、创意媒体"
+    ],
+    [
+      "shu",
+      "Shanghai University",
+      "上海大学",
+      "baoshan",
+      "shu.edu.cn",
+      "Manufacturing, robotics, materials, digital media",
+      "制造、机器人、材料、数字媒体"
+    ],
+    [
+      "police",
+      "Shanghai Police College",
+      "上海公安学院",
+      "pudong",
+      "shpc.edu.cn",
+      "Public-safety education; external project access unverified",
+      "公共安全教育，外部项目准入未核实"
+    ],
+    [
+      "sues",
+      "Shanghai University of Engineering Science",
+      "上海工程技术大学",
+      "songjiang",
+      "sues.edu.cn",
+      "Engineering, mobility, manufacturing, design",
+      "工程、交通、制造、设计"
+    ],
+    [
+      "lixin",
+      "Shanghai Lixin University of Accounting and Finance",
+      "上海立信会计金融学院",
+      "pudong",
+      "lixin.edu.cn",
+      "Accounting systems, fintech, business analytics",
+      "会计系统、金融科技、商业分析"
+    ],
+    [
+      "dianji",
+      "Shanghai DianJi University",
+      "上海电机学院",
+      "pudong",
+      "sdju.edu.cn",
+      "Electrical equipment, advanced manufacturing",
+      "电气装备、先进制造"
+    ],
+    [
+      "sanda",
+      "Sanda University",
+      "上海杉达学院",
+      "pudong",
+      "sandau.edu.cn",
+      "Applied digital business and talent partnerships",
+      "应用数字商业与人才合作"
+    ],
+    [
+      "shupl",
+      "Shanghai University of Political Science and Law",
+      "上海政法学院",
+      "qingpu",
+      "shupl.edu.cn",
+      "Legal technology, IP, governance",
+      "法律科技、知识产权、治理"
+    ],
+    [
+      "polytechnic",
+      "Shanghai Polytechnic University",
+      "上海第二工业大学",
+      "pudong",
+      "sspu.edu.cn",
+      "Applied engineering, electronics, manufacturing",
+      "应用工程、电子、制造"
+    ],
+    [
+      "business",
+      "Shanghai Business School",
+      "上海商学院",
+      "fengxian",
+      "sbs.edu.cn",
+      "Digital retail, commerce, service innovation",
+      "数字零售、商业、服务创新"
+    ],
+    [
+      "lida",
+      "Shanghai Lida University",
+      "上海立达学院",
+      "songjiang",
+      "lidapoly.edu.cn",
+      "Applied business, design and creative technology",
+      "应用商业、设计与创意科技"
+    ],
+    [
+      "jianqiao",
+      "Shanghai Jian Qiao University",
+      "上海建桥学院",
+      "pudong",
+      "gench.edu.cn",
+      "Applied engineering, digital media, business",
+      "应用工程、数字媒体、商业"
+    ],
+    [
+      "xingwei",
+      "Shanghai Xing Wei College",
+      "上海兴伟学院",
+      "pudong",
+      "xingwei.edu.cn",
+      "Interdisciplinary education and entrepreneurship conversations",
+      "跨学科教育与创业对接"
+    ],
+    [
+      "zhongqiao",
+      "Shanghai Zhongqiao Vocational and Technical University",
+      "上海中侨职业技术大学",
+      "jinshan",
+      "shzq.edu.cn",
+      "Vocational undergraduate engineering and applied skills",
+      "职业本科工程与应用技能"
+    ],
+    [
+      "siva",
+      "Shanghai Institute of Visual Arts",
+      "上海视觉艺术学院",
+      "songjiang",
+      "siva.edu.cn",
+      "Design, digital content and creative technology",
+      "设计、数字内容与创意科技"
+    ],
+    [
+      "xianda",
+      "Xianda College of Economics and Humanities, SISU",
+      "上海外国语大学贤达经济人文学院",
+      "hongkou",
+      "xdsisu.edu.cn",
+      "Language, commerce and creative applications",
+      "语言、商业与创意应用"
+    ],
+    [
+      "tianhua",
+      "Shanghai Normal University Tianhua College",
+      "上海师范大学天华学院",
+      "jiading",
+      "sthc.edu.cn",
+      "Applied education, engineering and digital business",
+      "应用教育、工程与数字商业"
+    ],
+    [
+      "shanghaitech",
+      "ShanghaiTech University",
+      "上海科技大学",
+      "pudong",
+      "shanghaitech.edu.cn",
+      "Chips, software AI, scientific instruments, biotech",
+      "芯片、软件人工智能、科学仪器、生物科技"
+    ],
+    [
+      "nyu",
+      "NYU Shanghai",
+      "上海纽约大学",
+      "pudong",
+      "shanghai.nyu.edu",
+      "Data science, computation and international research",
+      "数据科学、计算与国际科研"
+    ]
+  ],
+  "universityDetails": {
+    "fudan": {
+      "source": "fudan.edu.cn/en/Contact_931",
+      "sourceDetail": "ist.fudan.edu.cn/Data/View/3276",
+      "phone": "+86 21 65642222",
+      "contact": "University switchboard and Office of Science & Technology Research Technology Transfer Center",
+      "contactZh": "学校总机及科学技术研究院技术转移中心",
+      "address": "220 Handan Road, Yangpu",
+      "addressZh": "杨浦区邯郸路220号",
+      "coords": [
+        121.503,
+        31.299
+      ]
+    },
+    "tongji": {
+      "source": "tjkg.tongji.edu.cn/33864",
+      "sourceDetail": "tjkg.tongji.edu.cn/16738/list.htm",
+      "phone": "+86 21 65069006",
+      "contact": "Tongji National University Science Park & Incubator Route",
+      "contactZh": "同济大学国家大学科技园及孵化器入口",
+      "address": "2F, West Building, 100 Guokang Road, Yangpu",
+      "addressZh": "杨浦区国康路100号西楼2层",
+      "coords": [
+        121.503,
+        31.285
+      ]
+    },
+    "sjtu": {
+      "source": "global.sjtu.edu.cn/hmt/news/view/1737",
+      "sourceDetail": "sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/",
+      "contact": "Grand neoBay, Student Innovation Center & University Entrepreneurship Office",
+      "contactZh": "大零号湾、学生创新中心及学校创业与技术转移部门"
+    },
+    "ecust": {
+      "source": "cyc.ecust.edu.cn/kjyyypt",
+      "sourceDetail": "ecustpark.com/1001370",
+      "website": "https://www.ecustpark.com/",
+      "contact": "ECUST National University Science Park entrepreneurship service route",
+      "contactZh": "华东理工大学国家大学科技园创业服务入口"
+    },
+    "shanghaitech": {
+      "source": "ott.shanghaitech.edu.cn/zxdt",
+      "sourceDetail": "ott.shanghaitech.edu.cn/9078/list.htm",
+      "email": "ott@shanghaitech.edu.cn",
+      "contact": "Office of Technology Transfer (OTT)",
+      "contactZh": "技术转移办公室（OTT）",
+      "website": "https://ott.shanghaitech.edu.cn/"
+    },
+    "shu": {
+      "source": "sustp.shu.edu.cn",
+      "sourceDetail": "kyglb.shu.edu.cn/bmgk1/jdycgc.htm",
+      "contact": "Shanghai University Science Park & Research Base/Achievements Division",
+      "contactZh": "上海大学科技园区及科研管理部基地与成果处",
+      "address": "3F, Science Building, 788 Guangzhong Road, Jing'an",
+      "addressZh": "静安区广中路788号科技楼3楼",
+      "district": "jingan"
+    },
+    "ecnu": {
+      "source": "comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656",
+      "contact": "ECNU research cooperation and graduate innovation institutes",
+      "contactZh": "华东师范大学科研合作与研究生院创新培养单位"
+    },
+    "donghua": {
+      "source": "dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246",
+      "contact": "Donghua University research cooperation and advanced materials transfer route",
+      "contactZh": "东华大学科研合作与先进材料成果转化入口"
+    },
+    "sues": {
+      "source": "career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147",
+      "contact": "SUES university-industry engineering cooperation and entrepreneurship service route",
+      "contactZh": "上海工程技术大学产学研合作与创业指导入口"
+    }
+  }
+}
