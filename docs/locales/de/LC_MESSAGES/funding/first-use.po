@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -30,10 +30,10 @@ msgstr "Förderweg veröffentlicht; aktuelle Ausschreibung zu bestätigen"
 
 #: ../../funding/first-use.rst:8
 msgid ""
-"`Evidence S106 "
+"`Evidence S113 "
 "<https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. "
 "市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
-msgstr "`Nachweis S106 <https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. 市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
+msgstr "`Nachweis S113 <https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. 市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
 
 #: ../../funding/first-use.rst:10
 msgid "Amount and mechanism"
@@ -56,11 +56,11 @@ msgid ""
 "Shanghai policy identifies these routes for qualifying specialized SMEs "
 "and new products. Recognition, insurance compensation, procurement and "
 "R&D support are separate mechanisms; obtain the current call."
-msgstr "Die Shanghaier Förderpolitik sieht diese Pfade für spezialisierte, innovative KMU („Little Giants“ / spezialisierte KMU) und neuartige Produkte vor. Technische Anerkennung, Versicherungsprämienzuschüsse, Beschaffungsboni und F&E-Hilfen sind getrennte Mechanismen; aktuelle Richtlinien einholen."
+msgstr "Die Shanghaier Politik nennt diese Wege für berechtigte spezialisierte KMU und neue Produkte. Anerkennung, Versicherungsausgleich, Beschaffung und F&E-Förderung sind verschiedene Instrumente. Aktuelle Ausschreibung einholen."
 
 #: ../../funding/first-use.rst:22
 msgid "Track-specific notices"
-msgstr "Fachbereichsspezifische Ausschreibungen"
+msgstr "Ausschreibungen der einzelnen Tracks"
 
 #: ../../funding/first-use.rst:24
 msgid "Contact and application"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,9 +30,9 @@ msgstr "公表名簿掲載（融資機関による審査要）"
 
 #: ../../funding/huangpu-credit-directory.rst:8
 msgid ""
-"`Evidence S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
+"`Evidence S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
 "黄浦区融资信用服务平台-银行产品."
-msgstr "`出典 S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
+msgstr "`出典 S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
 
 #: ../../funding/huangpu-credit-directory.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "提携銀行ごとの与信枠、創業担保融資、知財担保ファ
 
 #: ../../funding/huangpu-credit-directory.rst:15
 msgid "No equity; repayable"
-msgstr "株式希薄化なし（要返済）"
+msgstr "株式の提供不要・返済義務あり"
 
 #: ../../funding/huangpu-credit-directory.rst:17
 msgid "Eligibility and timing"

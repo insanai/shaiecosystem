@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../entities/zhangjiang-ai-town.rst:1
 msgid "Zhangjiang AI Innovation Town"
-msgstr "장장 AI 혁신 소도시"
+msgstr "장장 AI 혁신 혁신 지구"
 
 #: ../../entities/zhangjiang-ai-town.rst:4
 msgid "张江人工智能创新小镇"
@@ -39,7 +39,7 @@ msgid ""
 "compute, model and corpus vouchers. Confirm whether the company's "
 "registered and operating address falls inside the designated town "
 "boundary."
-msgstr "장장 과학성 핵심부에 위치한 2제곱킬로미터 규모의 혁신 집적지로 70만 평방미터의 산업 공간, 시공간 디지털 인프라, 전용 컴퓨팅·모델·코퍼스 바우처를 제공합니다. 기업의 등록지 및 실제 사업장 주소가 소도시 지정 경계 내에 위치해야 합니다."
+msgstr "장장 과학성 핵심부에 위치한 2제곱킬로미터 규모의 혁신 집적지로 70만 평방미터의 산업 공간, 시공간 디지털 인프라, 전용 컴퓨팅·모델·코퍼스 바우처를 제공합니다. 기업의 등록지 및 실제 사업장 주소가 혁신 지구 지정 경계 내에 위치해야 합니다."
 
 #: ../../entities/zhangjiang-ai-town.rst:12
 msgid ""

@@ -1,13 +1,14 @@
 Government entry points
 =======================
 
-16 profiles with evidence, contact routes and an application checklist. Published existence is distinguished from current intake.
+17 profiles with evidence, contact routes and an application checklist. Published existence is distinguished from current intake.
 
 .. only:: html
 
    Complete directory summary
    --------------------------
 
+   * :doc:`Shanghai overseas-returnee entrepreneurship service windows <entities/returnee-services>` (上海留学人员创业服务窗口 · Government · Citywide / global · Focus: Software AI, Hardware AI) — The 2026 municipal rules identify the talent authority and district service windows for eligible overseas returnees, including qualifying people who acquired foreign citizenship. Recognition and startup-park services can lead to separate support applications. Returnee status is not a category covering every foreign founder and is not an automatic grant or residence permit. [Status: Published entity; intake to confirm]
    * :doc:`Pudong Science, Technology and Economy Commission <entities/government-pudong>` (浦东新区科技和经济委员会 · Government · Pudong) — 2026 AI application call closed on 31 August 2026. The published route covers qualifying 2025 model and agent expenditure; duplicate public funding is excluded. Tel: +86 21 68811090. [Status: Published entity; intake to confirm]
    * :doc:`Xuhui industry development authority <entities/government-xuhui>` (徐汇区产业主管部门 · Government · Xuhui) — The embodied AI policy identifies robot models, algorithms, data and operating systems. Its evaluated support ceilings are not automatic startup awards. [Status: Published entity; intake to confirm]
    * :doc:`Yangpu science and technology authority <entities/government-yangpu>` (杨浦区科技主管部门 · Government · Yangpu) — Brain-inspired AI policy names Changyang Campus and Bay Valley. A separate May 2026 OPC policy supports communities around Fuxing Island; an action plan does not itself constitute a cash award. [Status: Published entity; intake to confirm]
@@ -28,6 +29,7 @@ Government entry points
 .. toctree::
    :maxdepth: 1
 
+   entities/returnee-services
    entities/government-pudong
    entities/government-xuhui
    entities/government-yangpu

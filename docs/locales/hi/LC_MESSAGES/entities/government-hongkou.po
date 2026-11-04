@@ -34,7 +34,7 @@ msgid ""
 "investment role to the district state-owned Beikechuang group. Ask for "
 "the operating carrier and current application notice, rather than relying "
 "on older subsidy summaries."
-msgstr "2025-2026 होंगकोउ पार्क योजना जिला के राज्य-स्वामित्व वाले बेइकेचुआंग (Beikechuang) समूह को समन्वित इनक्यूबेशन और निवेश भूमिका सौंपती है। पुराने सब्सिडी सारांशों पर भरोसा करने के बजाय परिचालन कैरियर और वर्तमान आवेदन सूचना मांगें।"
+msgstr "2025-2026 होंगकोउ पार्क योजना जिला के राज्य-स्वामित्व वाले बेइकेचुआंग (Beikechuang) समूह को समन्वित इनक्यूबेशन और निवेश भूमिका सौंपती है। पुराने सब्सिडी सारांशों पर भरोसा करने के बजाय परिचालन स्टार्टअप सहायता केंद्र और वर्तमान आवेदन सूचना मांगें।"
 
 #: ../../entities/government-hongkou.rst:10
 msgid ""
@@ -49,7 +49,7 @@ msgstr "स्थिति और सहायता"
 
 #: ../../entities/government-hongkou.rst:15
 msgid "Published entity; intake to confirm"
-msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
 
 #: ../../entities/government-hongkou.rst:17
 msgid ""

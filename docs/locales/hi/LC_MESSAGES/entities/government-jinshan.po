@@ -34,7 +34,7 @@ msgid ""
 "UAV Base and Bay Area incubation carriers. It connects testing and "
 "industrialization, subject to park admission and the applicable aviation "
 "permissions."
-msgstr "2025-2026 पार्क योजना में जिनशान न्यू मटेरियल्स इनक्यूबेटर, ईस्ट चाइना UAV बेस और बे एरिया इनक्यूबेशन कैरियर्स के नाम शामिल हैं। यह पार्क प्रवेश और लागू विमानन अनुमतियों के अधीन, परीक्षण और औद्योगीकरण को जोड़ता है।"
+msgstr "2025-2026 पार्क योजना में जिनशान न्यू मटेरियल्स इनक्यूबेटर, ईस्ट चाइना UAV बेस और बे एरिया इनक्यूबेशन स्टार्टअप सहायता केंद्रों के नाम शामिल हैं। यह पार्क प्रवेश और लागू विमानन अनुमतियों के अधीन, परीक्षण और औद्योगीकरण को जोड़ता है।"
 
 #: ../../entities/government-jinshan.rst:10
 msgid ""
@@ -49,7 +49,7 @@ msgstr "स्थिति और सहायता"
 
 #: ../../entities/government-jinshan.rst:15
 msgid "Published entity; intake to confirm"
-msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
 
 #: ../../entities/government-jinshan.rst:17
 msgid ""

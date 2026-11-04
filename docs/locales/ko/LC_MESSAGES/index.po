@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:42+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../index.rst:1
 msgid "Shanghai Ecosystem Atlas"
-msgstr "상하이 혁신 생태계 아틀라스"
+msgstr "상하이 혁신 생태계 가이드"
 
 #: ../../index.rst:4
 msgid ""
@@ -28,24 +28,23 @@ msgstr "동방의 진주. 연구와 기업, 무한한 가능성을 잇는 현장
 
 #: ../../index.rst:6
 msgid ""
-"An illustrated English and Simplified Chinese guide for accelerators, "
-"founders, researchers and AI enthusiasts. Explore Shanghai's 16 "
-"administrative districts, 40 undergraduate universities, 29 diploma "
-"colleges, 12 adult higher-education institutions, software and hardware "
-"AI carriers, and the practical routes to support."
-msgstr "액셀러레이터, 창업가, 연구자 및 AI 열정가를 위해 제작된 삽화 수록 가이드입니다. 상하이의 16개 행정구, 40개 본과 대학교, 29개 전과 대학, 12개 성인고등교육기관, 소프트웨어 및 하드웨어 AI 혁신 거점, 그리고 실질적인 지원 획득 경로를 포괄합니다."
+"An illustrated guide in seven languages for accelerators, founders, "
+"researchers and AI enthusiasts. It connects Shanghai's universities, "
+"software and hardware AI communities, and practical routes to support "
+"across all 16 districts."
+msgstr "액셀러레이터, 창업자, 연구자 및 AI에 관심 있는 사람을 위한 7개 언어 일러스트 가이드입니다. 상하이 전체 16개 구의 대학, 소프트웨어·하드웨어 AI 커뮤니티와 실질적인 지원 경로를 연결합니다."
 
 #: ../../index.rst:8
 msgid ""
-"Research edition: 2026-11-04. 125 organization profiles. 45 funding "
-"routes. 16 districts. 133 cited sources."
-msgstr "연구 에디션: 2026-11-04. 125개 기관 프로필. 45개 자금 경로. 16개 행정구. 133개 인용 출처."
+"Research edition: 2026-11-04. 131 organization profiles. 50 funding "
+"routes. 16 districts. 140 cited sources."
+msgstr "연구 에디션: 2026-11-04. 131개 기관 프로필. 50개 자금 경로. 16개 행정구. 140개 인용 출처."
 
 #: ../../index.rst:10
 msgid ""
 "Written by **Vikrant Rathore** with contributions from **Lauren Zhao, "
 "Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. "
-"Produced using **Guidedog** as a unified bilingual **HTML and PDF** "
+"Produced using **Guidedog** as a unified seven-language **HTML and PDF** "
 "publication inspired by Shanghai's official flower, the white magnolia "
 "(*Yulania denudata*)."
 msgstr "**Vikrant Rathore**가 집필하고 **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu**가 기여했습니다. 상하이의 시화인 백옥란(*Yulania denudata*)에서 영감을 받아 **Guidedog**을 통해 단일한 다국어 **HTML 및 PDF** 출판물로 제작되었습니다."
@@ -55,7 +54,7 @@ msgid ""
 ":doc:`Explore the interactive atlas <atlas>` | :doc:`Browse all 16 "
 "districts <districts>` | :doc:`Find funding <funding>` | :doc:`Plan an "
 "application <apply>`"
-msgstr ":doc:`인터랙티브 아틀라스 둘러보기 <atlas>` | :doc:`16개 구 전체 둘러보기 <districts>` | :doc:`자금 지원 경로 찾기 <funding>` | :doc:`지원 계획 수립하기 <apply>`"
+msgstr ":doc:`인터랙티브 가이드 둘러보기 <atlas>` | :doc:`16개 구 전체 둘러보기 <districts>` | :doc:`자금 지원 경로 찾기 <funding>` | :doc:`지원 계획 수립하기 <apply>`"
 
 #: ../../index.rst:16
 msgid "All 16 administrative districts of Shanghai"
@@ -73,16 +72,16 @@ msgstr "상하이의 모든 행정구는 웹사이트와 PDF 도서 양쪽에서
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
-"Science, Technology and Economy Commission. (38 organizations, 3 district "
+"Science, Technology and Economy Commission. (40 organizations, 4 district "
 "funding routes)"
-msgstr "**[01]** :doc:`푸둥 신구 <districts/pudong>` (浦东新区) — **파운데이션 모델, 반도체 칩, 바이오의약 및 첨단 제조**. 푸둥신구 과학기술경제위원회. (38 / 3)"
+msgstr "**[01]** :doc:`푸둥 신구 <districts/pudong>` (浦东新区) — **파운데이션 모델, 반도체 칩, 바이오의약 및 첨단 제조**. 푸둥신구 과학기술경제위원회. (40 / 4)"
 
 #: ../../index.rst:22
 msgid ""
 "**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
 "embodied AI and research commercialization**. Authority: Xuhui industry "
-"development authority. (7 organizations, 1 district funding routes)"
-msgstr "**[02]** :doc:`쉬후이구 <districts/xuhui>` (徐汇区) — **파운데이션 모델, 임바디드 AI 및 연구 성과 상용화**. 쉬후이구 산업발전 주무관청. (7 / 1)"
+"development authority. (9 organizations, 2 district funding routes)"
+msgstr "**[02]** :doc:`쉬후이구 <districts/xuhui>` (徐汇区) — **파운데이션 모델, 임바디드 AI 및 연구 성과 상용화**. 쉬후이구 산업발전 주무관청. (9 / 2)"
 
 #: ../../index.rst:23
 msgid ""
@@ -243,7 +242,7 @@ msgid ""
 ":doc:`The higher-education register <university-register>` — Complete "
 "June 2026 Ministry of Education register: 40 undergraduate universities, "
 "29 diploma colleges, 12 adult institutions and CEIBS."
-msgstr ":doc:`고등교육기관 공식 등록부 <university-register>` — 2026년 6월 중국 교육부 공식 승인 고등교육기관 등록부: 40개 본과 대학교, 29개 전문대학, 12개 성인고등교육기관 및 CEIBS."
+msgstr ":doc:`고등교육기관 공식 등록부 <university-register>` — 2026년 6월 중국 교육부 공식 승인 고등교육기관 등록부: 40개 학부 과정을 운영하는 대학, 29개 전문대학, 12개 성인고등교육기관 및 CEIBS."
 
 #: ../../index.rst:48
 msgid ""
@@ -291,7 +290,7 @@ msgid ""
 ":doc:`Investors and patient capital <investors>` — STEFG Angel Fund, "
 "Shanghai Leading Industry Funds, Pudong AI Seed Fund, Embodied AI Fund, "
 "STVC and Qiming Venture Partners."
-msgstr ":doc:`투자 기관과 인내 자본 <investors>` — STEFG 대학생 창업 천사 펀드, 상하이 3대 선도산업 모펀드, 푸둥 AI 시드 펀드, 임바디드 AI 펀드, 상하이과투(STVC), 치밍 벤처 파트너스."
+msgstr ":doc:`투자 기관과 장기 투자 자본 <investors>` — STEFG 대학생 창업 천사 펀드, 상하이 3대 선도산업 모펀드, 푸둥 AI 시드 펀드, 임바디드 AI 펀드, 상하이과투(STVC), 치밍 벤처 파트너스."
 
 #: ../../index.rst:55
 msgid ""

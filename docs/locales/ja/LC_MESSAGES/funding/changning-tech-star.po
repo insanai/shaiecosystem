@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -26,14 +26,14 @@ msgstr "助成金・補助金 | 長寧区"
 
 #: ../../funding/changning-tech-star.rst:6
 msgid "Closed"
-msgstr "受付終了"
+msgstr "募集終了"
 
 #: ../../funding/changning-tech-star.rst:8
 msgid ""
-"`Evidence S108 "
+"`Evidence S116 "
 "<https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_. "
 "上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知."
-msgstr "`出典 S108 <https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_. 上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知."
+msgstr "`出典 S116 <https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_. 上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知."
 
 #: ../../funding/changning-tech-star.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "区人材特別資金計画に基づき、評価・認定された優秀
 
 #: ../../funding/changning-tech-star.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/changning-tech-star.rst:17
 msgid "Eligibility and timing"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,10 +30,10 @@ msgstr "2026年公募公表済み（締切日の確認要）"
 
 #: ../../funding/startup-competition.rst:8
 msgid ""
-"`Evidence S100 "
+"`Evidence S107 "
 "<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
 "2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
-msgstr "`出典 S100 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
+msgstr "`出典 S107 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
 
 #: ../../funding/startup-competition.rst:10
 msgid "Amount and mechanism"
@@ -60,7 +60,7 @@ msgstr "公式トラック規定に基づく国内外の起業チームおよび
 
 #: ../../funding/startup-competition.rst:22
 msgid "Check the specific 2026 track; not labelled open"
-msgstr "2026年の該当トラックを確認のこと（常時公募ではない）"
+msgstr "2026年の該当トラックを確認（現在公募中とは明記されていない）"
 
 #: ../../funding/startup-competition.rst:24
 msgid "Contact and application"

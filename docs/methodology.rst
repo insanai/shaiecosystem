@@ -1,7 +1,7 @@
 How to read the evidence
 ========================
 
-A useful directory makes uncertainty inspectable. We link the source near the claim and keep a shared record behind the English and Simplified Chinese editions.
+A useful directory makes uncertainty inspectable. We link each source near its claim and maintain one shared research record for all seven language editions.
 
 Research and translation
 ------------------------
@@ -30,4 +30,4 @@ Before a new edition, recheck source dates, operator identity, policy expiry, in
 
 Credits and publication system: Written by Vikrant Rathore, with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. Built with Guidedog as a unified bilingual HTML website and Typst-typeset PDF book publication.
 
-`Evidence S132 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry.
+`Evidence S139 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry.

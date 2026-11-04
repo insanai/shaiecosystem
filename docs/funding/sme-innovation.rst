@@ -5,7 +5,7 @@ Grant | Citywide / global
 
 Policy in force; call not confirmed open
 
-`Evidence S097 <https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_. Shanghai updates innovation fund rules for tech SMEs_Policy Insights.
+`Evidence S104 <https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_. Shanghai updates innovation fund rules for tech SMEs_Policy Insights.
 
 Amount and mechanism
 --------------------

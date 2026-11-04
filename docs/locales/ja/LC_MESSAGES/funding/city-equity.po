@@ -57,7 +57,7 @@ msgstr "AI、半導体チップ、ライフサイエンス等、ファンドの�
 
 #: ../../funding/city-equity.rst:22
 msgid "Investment committee process; no guaranteed award"
-msgstr "投資委員会の審査プロセスに従う（採択を確約する助成制度ではない）"
+msgstr "投資委員会による審議プロセス（採択保証なし）"
 
 #: ../../funding/city-equity.rst:24
 msgid "Contact and application"

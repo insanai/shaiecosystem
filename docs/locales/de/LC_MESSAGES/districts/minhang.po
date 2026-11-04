@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -34,10 +34,10 @@ msgstr "Die Förderrichtlinie für Unternehmenssinnovation gilt vom 1. September
 
 #: ../../districts/minhang.rst:8
 msgid ""
-"`Evidence S091 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`Nachweis S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`Nachweis S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../districts/minhang.rst:10
 msgid "Who receives the inquiry"
@@ -181,7 +181,7 @@ msgid ""
 "(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
 "R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
 "confirmed open. Timing: Policy through 31 Aug 2030."
-msgstr ":doc:`F&E-Schlüsselprojekte für Kerntechnologien Minhang </funding/minhang-rd>` (闵行关键核心技术攻关 · Zuschuss · Ohne Anteilsabgabe) — Allgemeine Projekte: bis zu 3 Mio. RMB und bis zu 30 % der F&E-Kosten; Schwerpunktprojekte: bis zu 10 Mio. RMB und bis zu 50 %. Status: Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet. Zeitrahmen: Richtlinie gültig bis zum 31. August 2030."
+msgstr ":doc:`F&E-Schlüsselprojekte für Kerntechnologien Minhang </funding/minhang-rd>` (闵行关键核心技术攻关 · Zuschuss · Ohne Anteilsabgabe) — Allgemeine Projekte: bis zu 3 Mio. RMB und bis zu 30 % der F&E-Kosten; Schwerpunktprojekte: bis zu 10 Mio. RMB und bis zu 50 %. Status: Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet. Zeitrahmen: Richtlinie gültig bis 31. August 2030."
 
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"

@@ -37,7 +37,7 @@ msgid ""
 "The 2025-2026 reform plan sets a framework for ecological innovation. We "
 "use the district authority for matching smart agriculture, ecological "
 "sensing and marine technology projects to a concrete carrier."
-msgstr "2025〜2026年改革計画により生態系イノベーションの枠組みを構築。スマート農業、環境センシング、海洋工学プロジェクトについて、区の主管部門を通じて具体的な受け入れキャリアとのマッチングを行う。"
+msgstr "2025〜2026年改革計画により生態系イノベーションの枠組みを構築。スマート農業、環境センシング、海洋工学プロジェクトについて、区の主管部門を通じて具体的な受け入れ拠点とのマッチングを行う。"
 
 #: ../../entities/chongming-park.rst:12
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -30,10 +30,10 @@ msgstr "정책 시행 중; 공고 접수 개시 미확인"
 
 #: ../../funding/minhang-conversion.rst:8
 msgid ""
-"`Evidence S091 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`근거 S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`근거 S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../funding/minhang-conversion.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "신설 상용화 기업 대상: 연간 최대 50만 위안, 3년간 누�
 
 #: ../../funding/minhang-conversion.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/minhang-conversion.rst:17
 msgid "Eligibility and timing"

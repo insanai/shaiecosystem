@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:1
 msgid "Zhangjiang AI Town compute, model and corpus support"
-msgstr "장장 AI 혁신 소도시 컴퓨팅·모델·코퍼스 지원"
+msgstr "장장 AI 혁신 혁신 지구 컴퓨팅·모델·코퍼스 지원"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:4
 msgid "Reimbursement | Pudong"
@@ -30,10 +30,10 @@ msgstr "분기별 프로그램 공시됨; 당해 분기 접수 확인 필요"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:8
 msgid ""
-"`Evidence S103 "
+"`Evidence S110 "
 "<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
 "浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
-msgstr "`근거 S103 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. 浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
+msgstr "`근거 S110 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. 浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:10
 msgid "Amount and mechanism"
@@ -43,11 +43,11 @@ msgstr "지원 규모 및 지원 방식"
 msgid ""
 "Up to 100% of approved actual cost, capped at RMB 1m in each category; at "
 "most one year"
-msgstr "장장 AI 혁신 소도시 전용 바우처 정책에 따른 적격 컴퓨팅 비용 감면 및 모델·데이터 구매 지원"
+msgstr "승인된 실제 비용의 최대 100%, 항목별 최대 100만 위안; 지원 기간 최대 1년"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:17
 msgid "Eligibility and timing"
@@ -59,11 +59,11 @@ msgid ""
 "established or moved there no earlier than 1 Jan 2025. Expenses must be "
 "for qualifying model R&D or deployment; review the current quarterly "
 "guide."
-msgstr "장장 AI 혁신 소도시 핵심 구역 내에 등록 및 실사업장을 둔 적격 인공지능 기업."
+msgstr "지정된 지구 경계 안에 등록하고 실제 운영하며, 2025년 1월 1일 이후 설립하거나 이전한 AI 기업이 대상입니다. 적격 모델 연구개발 또는 도입 비용이어야 하며 최신 분기별 지침을 확인해야 합니다."
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:22
 msgid "Quarterly claims; confirm the current batch"
-msgstr "소도시 전용 실시 지침 및 신청 창구 확인 필요"
+msgstr "분기별 신청; 당해 접수 차수 확인 필요"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:24
 msgid "Contact and application"

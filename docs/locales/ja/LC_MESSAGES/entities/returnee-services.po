@@ -1,0 +1,124 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/returnee-services.rst:1
+msgid "Shanghai overseas-returnee entrepreneurship service windows"
+msgstr "上海・海外留学帰国者向け起業相談窓口"
+
+#: ../../entities/returnee-services.rst:4
+msgid "上海留学人员创业服务窗口"
+msgstr "上海留学人员创业服务窗口"
+
+#: ../../entities/returnee-services.rst:6
+msgid "Government | Citywide / global | Research checked 2026-11-04"
+msgstr "政府機関・行政部門｜全市／グローバル｜調査確認日 2026-11-04"
+
+#: ../../entities/returnee-services.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI."
+msgstr "AIおよび産業フォーカス：ソフトウェアAI、ハードウェアAI。"
+
+#: ../../entities/returnee-services.rst:10
+msgid ""
+"The 2026 municipal rules identify the talent authority and district "
+"service windows for eligible overseas returnees, including qualifying "
+"people who acquired foreign citizenship. Recognition and startup-park "
+"services can lead to separate support applications. Returnee status is "
+"not a category covering every foreign founder and is not an automatic "
+"grant or residence permit."
+msgstr "2026年の市規定は、適格な海外留学帰国者を対象に人材担当部門と各区の相談窓口を定めている。条件を満たせば外国籍を取得した人も含まれる。資格認定や起業園区サービスから個別の支援申請につながる場合がある。すべての外国人創業者が対象になるわけではなく、補助金や在留許可も自動ではない。"
+
+#: ../../entities/returnee-services.rst:12
+msgid ""
+"`Evidence S080 "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. "
+"上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+msgstr "`出典 S080 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+
+#: ../../entities/returnee-services.rst:14
+msgid "Status and support"
+msgstr "ステータスと支援内容"
+
+#: ../../entities/returnee-services.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "公表済み組織（公募状況の確認要）"
+
+#: ../../entities/returnee-services.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本項目について、一律の現金交付、費用免除、または固定の株式取得比率は確認されていません。現行の書面条件を請求して確認してください。"
+
+#: ../../entities/returnee-services.rst:21
+msgid "Contact and location"
+msgstr "連絡先と所在地"
+
+#: ../../entities/returnee-services.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_"
+msgstr "`公式エビデンス（典拠）および主管機関窓口 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_"
+
+#: ../../entities/returnee-services.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本項目では直通の電話番号やメールアドレスは確認されていません。公式窓口を利用して担当チームへの連絡を依頼してください。架空の連絡先は一切記載していません。"
+
+#: ../../entities/returnee-services.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地図上の位置は区またはキャンパスの代表地点（アンカー）を使用しており、確認された個別のオフィス位置ではありません。"
+
+#: ../../entities/returnee-services.rst:30
+msgid "Application workflow"
+msgstr "申請・採択ワークフロー"
+
+#: ../../entities/returnee-services.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../entities/returnee-services.rst:35
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "日付入りの公募通知を確認し、対象行政区、申請法人、事業活動、および対象経費の支出期間の要件を精査する。"
+
+#: ../../entities/returnee-services.rst:37
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "所定の申請書類一式を準備し、必要に応じて受け入れ機関や区からの推薦・承認を取得する。"
+
+#: ../../entities/returnee-services.rst:39
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "指定の提出期限までに公式プラットフォーム経由で申請を完了し、受付受領証を保管する。"
+
+#: ../../entities/returnee-services.rst:41
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "通知に定められた審査、採択決定、中間報告、完了検査・検収、および資金交付の各義務を遵守する。"
+
+#: ../../entities/returnee-services.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`全市／グローバルの案内ルート </funding>`"

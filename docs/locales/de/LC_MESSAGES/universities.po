@@ -32,7 +32,7 @@ msgid ""
 "an institutional profile here. Some have documented science-park or "
 "technology-transfer contacts; others have a general institutional route. "
 "A profile does not assert that a dedicated startup program is open."
-msgstr "Alle 40 regulären Hochschulen mit Bachelor-Abschluss des offiziellen Schanghaier Registers sind hier mit einem institutionellen Profil erfasst. Einige verfügen über ausgewiesene Ansprechpartner in Wissenschaftsparks oder Transferstellen; andere bieten einen allgemeinen Hochschulzugang. Ein Profil belegt nicht, dass ein eigenständiges Förderprogramm für Startups geöffnet ist."
+msgstr "Alle 40 regulären Hochschulen mit Bachelor-Abschluss des offiziellen Shanghaier Registers sind hier mit einem institutionellen Profil erfasst. Einige verfügen über ausgewiesene Ansprechpartner in Wissenschaftsparks oder Transferstellen; andere bieten einen allgemeinen Hochschulzugang. Ein Profil belegt nicht, dass ein eigenständiges Förderprogramm für Startups geöffnet ist."
 
 #: ../../universities.rst:8
 msgid ""

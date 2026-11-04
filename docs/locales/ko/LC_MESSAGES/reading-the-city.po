@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -35,7 +35,7 @@ msgstr "인재, 연구, 산업으로 유기적으로 연결된 상하이의 16�
 
 #: ../../reading-the-city.rst:12
 msgid "A practical atlas, with a stated boundary"
-msgstr "명확한 경계를 지닌 실용적 아틀라스"
+msgstr "명확한 경계를 지닌 실용 가이드"
 
 #: ../../reading-the-city.rst:15
 msgid ""
@@ -45,7 +45,7 @@ msgid ""
 "colleges. A separate appendix includes the 12 adult higher-education "
 "institutions. CEIBS and military institutions need separate treatment and "
 "are not silently added to the ordinary-university count."
-msgstr "본 판본은 상하이의 16개 행정구 전체와 2026년 6월 중국 교육부 등록부에 등재된 69개 일반 고등교육기관(본과 대학 40개교, 전과 대학 29개교 포함)을 다룹니다. 별도의 부록에는 12개 성인고등교육기관을 수록했습니다. 중유럽국제공상학원(CEIBS)과 군사 교육기관은 성격이 달라 별도로 다루며, 일반 대학 집계에 임의로 포함하지 않았습니다."
+msgstr "본 판본은 상하이의 16개 행정구 전체와 2026년 6월 중국 교육부 등록부에 등재된 69개 일반 고등교육기관(학부 과정을 운영하는 대학 40개교, 전과 대학 29개교 포함)을 다룹니다. 별도의 부록에는 12개 성인고등교육기관을 수록했습니다. 중유럽국제공상학원(CEIBS)과 군사 교육기관은 성격이 달라 별도로 다루며, 일반 대학 집계에 임의로 포함하지 않았습니다."
 
 #: ../../reading-the-city.rst:17
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "Shanghai Tsinghua International Innovation Center; and Songjiang launched "
 "the University Town Sci-Tech Source fund to connect seven campus research "
 "bases with industrial transformation."
-msgstr "2025~2026년 시 및 구 단위 정책 개편을 통해 이러한 공간적 역할 분담은 더욱 고도화되었습니다. 푸둥은 2제곱킬로미터 규모의 장장 AI 혁신 소진을 출범시키고 연산 자원, 모델 및 코퍼스(말뭉치) 바우처를 결합했습니다. 상하이 고품질 인큐베이터는 18개소로 확대되었습니다. 푸퉈는 '1개 기지 3개 단지' 구도로 재편되었습니다. 린강은 첨단 모델 파운드리와 디스패칭 플랫폼을 개설했습니다. 이 아틀라스는 이와 같은 최신 지형 변화를 반영합니다."
+msgstr "2025~2026년 시 및 구 단위 정책 개편을 통해 이러한 공간적 역할 분담은 더욱 고도화되었습니다. 푸둥은 2제곱킬로미터 규모의 장장 AI 혁신 혁신 지구을 출범시키고 연산 자원, 모델 및 코퍼스(말뭉치) 바우처를 결합했습니다. 상하이 고품질 인큐베이터는 18개소로 확대되었습니다. 푸퉈는 '1개 기지 3개 단지' 구도로 재편되었습니다. 린강은 첨단 모델 파운드리와 디스패칭 플랫폼을 개설했습니다. 이 가이드는 이와 같은 최신 지형 변화를 반영합니다."
 
 #: ../../reading-the-city.rst:32
 msgid "The magnolia and the pearl"
@@ -128,20 +128,20 @@ msgid ""
 "This book and interactive atlas are written by Vikrant Rathore with "
 "contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, "
 "Kanak Rathore and Emily Yue Xu. The publication is produced natively "
-"using Guidedog in both HTML and PDF editions (English and Simplified "
-"Chinese), sharing one verified dataset across the interactive web atlas "
-"and the illustrated print-ready books."
-msgstr "본 도서와 인터랙티브 아틀라스는 Vikrant Rathore가 집필하였으며, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu가 기여했습니다. 출판 시스템으로는 Guidedog을 사용하여 단일한 다국어 HTML 웹사이트와 Typst 조판 기반의 PDF 도서로 동시에 발행되었습니다."
+"using Guidedog in both HTML and PDF editions in seven languages, sharing "
+"one verified dataset across the interactive web atlas and the illustrated "
+"print-ready books."
+msgstr "본 도서와 인터랙티브 가이드는 Vikrant Rathore가 집필하였으며, Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore, Emily Yue Xu가 기여했습니다. 출판 시스템으로는 Guidedog을 사용하여 단일한 다국어 HTML 웹사이트와 Typst 조판 기반의 PDF 도서로 동시에 발행되었습니다."
 
 #: ../../reading-the-city.rst:39
 msgid ""
-"`Evidence S128 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
+"`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai "
 "municipal flower and overview."
-msgstr "`근거 S128 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
+msgstr "`근거 S136 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview."
 
 #: ../../reading-the-city.rst:41
 msgid ""
-"`Evidence S129 "
+"`Evidence S137 "
 "<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. "
 "Shanghai expands list of high-quality incubators."
-msgstr "`근거 S129 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators."
+msgstr "`근거 S137 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators."

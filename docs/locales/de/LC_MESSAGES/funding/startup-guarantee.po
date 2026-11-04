@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -30,11 +30,11 @@ msgstr "Dienstleistung veröffentlicht; aktuelle Konditionen zu bestätigen"
 
 #: ../../funding/startup-guarantee.rst:8
 msgid ""
-"`Evidence S098 "
+"`Evidence S105 "
 "<https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. "
 "Shanghai's guaranteed start-up loans top 1.3 billion yuan this "
 "year_Editor's Pick."
-msgstr "`Nachweis S098 <https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. Shanghai's guaranteed start-up loans top 1.3 billion yuan this year_Editor's Pick."
+msgstr "`Nachweis S105 <https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_. Shanghai's guaranteed start-up loans top 1.3 billion yuan this year_Editor's Pick."
 
 #: ../../funding/startup-guarantee.rst:10
 msgid "Amount and mechanism"
@@ -44,7 +44,7 @@ msgstr "Förderhöhe und Mechanismus"
 msgid ""
 "Loan ceiling and interest support depend on applicant class and current "
 "rules"
-msgstr "Kleinst- und Kleinunternehmen: bis zu 4 Mio. RMB; Einzelgründer: bis zu 500.000 RMB; mit Zinszuschüssen"
+msgstr "Kreditobergrenze und Zinszuschuss hängen von der Antragstellergruppe und den aktuellen Regeln ab"
 
 #: ../../funding/startup-guarantee.rst:15
 msgid "No equity; repayable"
@@ -59,11 +59,11 @@ msgid ""
 "Individual, pre-startup and enterprise routes have different residence, "
 "education, registration and employment conditions. Bank underwriting "
 "still applies; an interest subsidy does not remove principal repayment."
-msgstr "In Shanghai registrierte Unternehmen, die festgelegte Einstellungsquoten für lokale Arbeitskräfte erfüllen, sowie berechtigte Einzelgründer. Bankkreditprüfung und behördliche Bürgschaftszusage sind erforderlich."
+msgstr "Für Einzelpersonen, Vorgründungen und Unternehmen gelten unterschiedliche Vorgaben zu Wohnsitz, Ausbildung, Registrierung und Beschäftigung. Die Bank prüft die Kreditwürdigkeit. Auch bei einem Zinszuschuss muss das Darlehen zurückgezahlt werden."
 
 #: ../../funding/startup-guarantee.rst:22
 msgid "Confirm current HRSS service rules"
-msgstr "Ganzjährig über die offiziellen Bank- und HRSS-Kanäle beantragbar"
+msgstr "Geltende Richtlinien der Personal- und Sozialbehörde (HRSS) prüfen"
 
 #: ../../funding/startup-guarantee.rst:24
 msgid "Contact and application"

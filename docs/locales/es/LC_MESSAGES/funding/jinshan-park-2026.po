@@ -47,7 +47,7 @@ msgstr "Apoyo específico a la I+D, incubación en centros, servicios de ensayo 
 
 #: ../../funding/jinshan-park-2026.rst:15
 msgid "No equity"
-msgstr "Sin cesión de capital (No equity)"
+msgstr "Sin cesión de participaciones"
 
 #: ../../funding/jinshan-park-2026.rst:17
 msgid "Eligibility and timing"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -38,10 +38,10 @@ msgstr "एंटरप्राइज नवाचार नीति 1 सि�
 
 #: ../../entities/government-minhang.rst:10
 msgid ""
-"`Evidence S091 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`साक्ष्य S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`साक्ष्य S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../entities/government-minhang.rst:12
 msgid "Status and support"
@@ -49,7 +49,7 @@ msgstr "स्थिति और सहायता"
 
 #: ../../entities/government-minhang.rst:15
 msgid "Published entity; intake to confirm"
-msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
 
 #: ../../entities/government-minhang.rst:17
 msgid ""

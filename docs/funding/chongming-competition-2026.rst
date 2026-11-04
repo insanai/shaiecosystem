@@ -5,7 +5,7 @@ Competition | Chongming
 
 2026 competition published; track intake to confirm
 
-`Evidence S127 <https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_. 关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府.
+`Evidence S135 <https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_. 关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府.
 
 Amount and mechanism
 --------------------

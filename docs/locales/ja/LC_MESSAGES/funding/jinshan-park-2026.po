@@ -47,7 +47,7 @@ msgstr "2025〜2026年パーク行動計画および張江特別政策に基づ�
 
 #: ../../funding/jinshan-park-2026.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/jinshan-park-2026.rst:17
 msgid "Eligibility and timing"
@@ -58,7 +58,7 @@ msgid ""
 "Qualifying enterprises and innovation carriers in Zhangjiang Jinshan Park "
 "working on low-altitude UAV systems, new chemical or electronic "
 "materials, biomanufacturing and intelligent equipment."
-msgstr "張江高新区金山園内に所在し、低空UAVシステム、化学・電子新材料、バイオ製造、スマート機器の研究開発・製造を行う適格企業およびイノベーションキャリア。"
+msgstr "張江高新区金山園内に所在し、低空UAVシステム、化学・電子新材料、バイオ製造、スマート機器の研究開発・製造を行う適格企業および起業支援拠点。"
 
 #: ../../funding/jinshan-park-2026.rst:22
 msgid "Policy: 2025 to 2026 action plan; confirm current implementing batch"

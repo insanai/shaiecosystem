@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -18,13 +18,13 @@ msgstr ""
 
 #: ../../investors.rst:1
 msgid "Investors and patient capital"
-msgstr "Investoren und geduldiges Kapital"
+msgstr "Investoren und langfristiges Kapital"
 
 #: ../../investors.rst:4
 msgid ""
-"6 profiles with evidence, contact routes and an application checklist. "
+"7 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "6 Profile mit Quellenbelegen, Kontaktwegen und Bewerbungs-Checkliste. Veröffentlichte Existenz wird von laufenden Bewerbungsrunden unterschieden."
+msgstr "7 Profile mit Quellenbelegen, Kontaktwegen und Bewerbungs-Checkliste. Veröffentlichte Existenz wird von laufenden Bewerbungsrunden unterschieden."
 
 #: ../../investors.rst:8
 msgid "Complete directory summary"
@@ -94,3 +94,16 @@ msgid ""
 "61016522 | Email: contactus@qimingvc.com. [Status: Published entity; "
 "intake to confirm]"
 msgstr ":doc:`Qiming Venture Partners <entities/qiming>` (启明创投 · Investor · Neuer Stadtbezirk Pudong · Software-KI, Gesundheit & Life Sciences, Hardware-KI) — Eine renommierte Risikokapitalgesellschaft mit Niederlassung in Shanghai. Reichen Sie prägnante Investmentunterlagen ein und prüfen Sie den Branchen- und Phasenfit; das allgemeine Postfach garantiert kein formelles Prüfverfahren. [Eigenkapitalinvestition]. Raum 3901, Jinmao Tower, Century Boulevard 88, Pudong | Tel: +86 21 61016522 | Email: contactus@qimingvc.com. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../investors.rst:17
+msgid ""
+":doc:`Xuhui Qingmiao AI Youth Entrepreneurship Fund <entities/qingmiao>` "
+"(徐汇人工智能青年创业基金（青苗基金） · Investor · Xuhui · Focus: Software AI, Hardware AI) "
+"— Xuhui established this youth-focused AI fund in September 2025. Its "
+"August 2026 entrepreneurship camp connected early AI teams with "
+"investment, research and industrial partners. Shanghai Xuhui Capital "
+"Investment and Shanghai Xuhui Science and Technology Venture Capital Fund "
+"Management co-hosted the camp. Request the receiving manager and current "
+"investment terms; camp attendance is not an investment award. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`Xuhui Qingmiao-Fonds für junge KI-Gründungen <entities/qingmiao>` (徐汇人工智能青年创业基金（青苗基金） · Investor · Bezirk Xuhui · Software-KI, Hardware-KI) — Xuhui gründete den auf junge KI-Gründer ausgerichteten Fonds im September 2025. Das Gründungscamp im August 2026 vermittelte Kontakte zu Investoren, Forschung und Industrie. Shanghai Xuhui Capital Investment und Shanghai Xuhui Science and Technology Venture Capital Fund Management waren Mitveranstalter. Zuständigen Manager und aktuelle Beteiligungsbedingungen erfragen. Die Campteilnahme ist keine Investitionszusage. [Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"

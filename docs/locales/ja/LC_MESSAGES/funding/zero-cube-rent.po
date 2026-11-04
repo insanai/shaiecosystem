@@ -1,0 +1,116 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/zero-cube-rent.rst:1
+msgid "Lin-gang Zero Cube conditional rent support"
+msgstr "臨港・零界魔方の条件付き賃料支援"
+
+#: ../../funding/zero-cube-rent.rst:4
+msgid "In-kind services | Pudong"
+msgstr "現物・施設サービス支援 | 浦東新区"
+
+#: ../../funding/zero-cube-rent.rst:6
+msgid "Published service; current terms to confirm"
+msgstr "サービス公表済み（現行条件の確認要）"
+
+#: ../../funding/zero-cube-rent.rst:8
+msgid ""
+"`Evidence S076 "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_. "
+"Lin-gang Zero Cube OPC community, August 2026."
+msgstr "`出典 S076 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_. Lin-gang Zero Cube OPC community, August 2026."
+
+#: ../../funding/zero-cube-rent.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/zero-cube-rent.rst:13
+msgid ""
+"Qualifying offices: 3 years rent-free, then 2 years at half rent; "
+"separate housing and service terms"
+msgstr "対象オフィスは3年間無料、その後2年間半額。住宅やサービスは別条件"
+
+#: ../../funding/zero-cube-rent.rst:15
+msgid "No equity stated in offer; verify terms"
+msgstr "提供条件に株式要件記載なし（規約要確認）"
+
+#: ../../funding/zero-cube-rent.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/zero-cube-rent.rst:20
+msgid ""
+"Selected OPC and small-team projects admitted by the community. The "
+"August 2026 operator report is not a tenancy offer for every applicant. "
+"Confirm current selection, eligible premises, deposits, service charges "
+"and exit terms in writing."
+msgstr "コミュニティに選ばれて入居するOPCや小規模チームが対象。2026年8月の運営報告は全応募者への賃貸確約ではない。選考、対象物件、保証金、サービス料、退去条件を書面で確認する。"
+
+#: ../../funding/zero-cube-rent.rst:22
+msgid "Confirm current community admission and tenancy terms"
+msgstr "現在の入居受付と賃貸条件を確認"
+
+#: ../../funding/zero-cube-rent.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/zero-cube-rent.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
+
+#: ../../funding/zero-cube-rent.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/zero-cube-rent.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/zero-cube-rent.rst:33
+msgid "Send a project brief and request the current admission checklist."
+msgstr "プロジェクト概要書を送付し、現行の入居・採択チェックリストを請求する。"
+
+#: ../../funding/zero-cube-rent.rst:35
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "運営事業者による資格審査および技術的・商業的審査を完了する。"
+
+#: ../../funding/zero-cube-rent.rst:37
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "賃料、サービス料、知的財産権、計算資源（コンピュート）の利用料、および株式取得条項の有無を書面で確認する。"
+
+#: ../../funding/zero-cube-rent.rst:39
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "合意した入居契約書・採択文書に署名し、マイルストーンと担当支援責任者を記録する。"
+
+#: ../../funding/zero-cube-rent.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

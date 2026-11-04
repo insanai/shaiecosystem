@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -34,10 +34,10 @@ msgstr "2025〜2026年の張江黄浦園計画はフィンテックと臨床研�
 
 #: ../../districts/huangpu.rst:8
 msgid ""
-"`Evidence S093 "
+"`Evidence S100 "
 "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
 "黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
-msgstr "`出典 S093 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`出典 S100 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
 
 #: ../../districts/huangpu.rst:10
 msgid "Who receives the inquiry"
@@ -134,7 +134,7 @@ msgid ""
 "repayable) — Product-specific bank credit, startup guarantee and "
 "IP-backed finance. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`黄浦区融資信用金融商品ディレクトリ </funding/huangpu-credit-directory>` （黄浦融资信用产品目录 · 融資・ローン · 株式希薄化なし（要返済））— 提携銀行ごとの与信枠、創業担保融資、知財担保ファイナンス条件に従う。ステータス：公表名簿掲載（融資機関による審査要）。時期：商品ごとに異なる（各金融機関の現行条件を確認のこと）。"
+msgstr ":doc:`黄浦区融資信用金融商品ディレクトリ </funding/huangpu-credit-directory>` （黄浦融资信用产品目录 · 融資・ローン · 株式の提供不要・返済義務あり）— 提携銀行ごとの与信枠、創業担保融資、知財担保ファイナンス条件に従う。ステータス：公表名簿掲載（融資機関による審査要）。時期：商品ごとに異なる（各金融機関の現行条件を確認のこと）。"
 
 #: ../../districts/huangpu.rst:45
 msgid ":doc:`Also compare citywide funding </funding>`"

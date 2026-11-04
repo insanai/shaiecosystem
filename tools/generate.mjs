@@ -129,7 +129,7 @@ const CITYWIDE_NAME = {
   zh_CN: '全市／全球',
   hi: 'शहर-व्यापी / वैश्विक',
   ja: '全市／グローバル',
-  ko: '전시 / 글로벌',
+  ko: '상하이 전역 / 글로벌',
   de: 'Stadtweit / global',
   es: 'Toda la ciudad / global'
 };
@@ -335,12 +335,12 @@ for (const [id, c] of Object.entries(chapters)) {
 // 2. Districts Index & 16 District Chapters
 const onlyHtml = s => '.. only:: html\n\n' + s.trimEnd().split('\n').map(l => l ? '   ' + l : '').join('\n') + '\n\n';
 let districtIndex = heading('Sixteen districts, sixteen entry routes', '十六区，十六条对接路径') +
-  p('Every district has a chapter. We begin with its documented specialization and receiving authority, then follow the local organizations and district funding routes. An official portal remains the contact route when no current named officer or direct intake form is established.', '每个区均设章节，从有来源的产业方向和主管部门出发，再了解本地机构与区级资金路径。尚无经核实现任联系人或直接表格时，以官方门户作为联系入口。');
+  p('Every district has a chapter. We begin with its documented specialization and receiving authority, then follow the local organizations and district funding routes. An official portal remains the contact route when no current named officer or direct intake form is established.', '每个区均设章节，从有来源的产业方向和主管部门出发，再了解本地机构与区级融资与扶持渠道。尚无经核实现任联系人或直接表格时，以官方门户作为联系入口。');
 districtIndex += onlyHtml('.. figure:: _static/atlas/shanghai-map.svg\n   :alt: Illustrative Shanghai district map, with numbered district anchors and a bilingual legend.\n   :width: 100%\n\n   ' +
   trS('All 16 administrative districts of Shanghai, with numbered anchors corresponding to the directory below.', '上海全部16个行政区示意图，编号锚点对应下方名录。') + '\n');
 
 const DIST_BULLET_TPL = {
-  zh_CN: (num, dLink, d, focus, owner, phone, note, lc, fc) => `**[${num}]** ${dLink} （${d.zh}）—— **${focus}**。受理部门：${owner}。${phone ? ` 公布电话：${phone}。` : ''}政策与载体说明：${note}（本区收录 ${lc} 家机构、${fc} 条区级资金路径）。`,
+  zh_CN: (num, dLink, d, focus, owner, phone, note, lc, fc) => `**[${num}]** ${dLink} （${d.zh}）—— **${focus}**。受理部门：${owner}。${phone ? ` 公布电话：${phone}。` : ''}政策与载体说明：${note}（本区收录 ${lc} 家机构、${fc} 条区级融资与扶持渠道）。`,
   hi: (num, dLink, d, focus, owner, phone, note, lc, fc) => `**[${num}]** ${dLink} (${d.zh}) — **${focus}**। नोडल प्राधिकरण: ${owner}.${phone ? ` प्रकाशित फ़ोन: ${phone}.` : ''} नीति व कैरियर विवरण: ${note} (${lc} स्थानीय संस्थान, ${fc} ज़िला वित्तपोषण मार्ग)।`,
   ja: (num, dLink, d, focus, owner, phone, note, lc, fc) => `**[${num}]** ${dLink} （${d.zh}）— **${focus}**。担当窓口：${owner}。${phone ? ` 公開電話：${phone}。` : ''}政策・拠点注記：${note}（区内機関 ${lc} 件、区独自の資金ルート ${fc} 件）。`,
   ko: (num, dLink, d, focus, owner, phone, note, lc, fc) => `**[${num}]** ${dLink} (${d.zh}) — **${focus}**. 담당 부처: ${owner}.${phone ? ` 공개 전화: ${phone}.` : ''} 정책 및 거점 안내: ${note} (관내 기관 ${lc}개, 구 단위 자금 경로 ${fc}개).`,
@@ -419,7 +419,7 @@ for (const d of districts) {
     }));
     s += bullet(enStr, dict);
   }
-  s += '\n' + heading('Funding routes', '资金路径', 1);
+  s += '\n' + heading('Funding routes', '融资与扶持渠道', 1);
   const funds = funding.filter(f => f.district === d.id);
   for (const f of funds) {
     const fLink = doc(f.name, Object.fromEntries(LANGS.map(l => [l, fNameL(f, l)])), `/funding/${f.id}`);
@@ -430,12 +430,12 @@ for (const d of districts) {
     ]));
     s += bullet(enStr, dict);
   }
-  const cmpDoc = doc('Also compare citywide funding', '同时比较全市资金路径', '/funding');
+  const cmpDoc = doc('Also compare citywide funding', '同时比较全市融资与扶持渠道', '/funding');
   s += '\n' + p(cmpDoc, Object.fromEntries(LANGS.map(l => [l, maps[l].get(cmpDoc)])));
   write(`docs/districts/${d.id}.rst`, s);
 }
 
-// 3. Category Directories & 125 Entity Profiles
+// 3. Category directories and organization profiles
 const GROUP_COUNT_TPL = {
   zh_CN: n => `${n}份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。`,
   hi: n => `साक्ष्य, संपर्क मार्ग और आवेदन चेकलिस्ट के साथ ${n} प्रोफ़ाइल। प्रकाशित अस्तित्व और वर्तमान प्रवेश को अलग-अलग दर्शाया गया है।`,
@@ -647,7 +647,7 @@ for (const e of allEntities) {
   write(`docs/entities/${e.id}.rst`, s);
 }
 
-// 4. Funding Directory & 45 Funding Profiles
+// 4. Funding directory and profiles
 const FUND_INTRO_TPL = {
   zh_CN: n => `覆盖全市及全部16个区的${n}条研究路径，区分不占股支持、须偿还债务、积分及投资。不会仅因政策或网页存在便标记正在开放。`,
   hi: n => `शहर-व्यापी कार्यक्रमों और सभी 16 ज़िलों में ${n} शोधित मार्ग। हम गैर-इक्विटी सहायता को पुनर्भुगतान योग्य ऋण, क्रेडिट और निवेश से अलग करते हैं। केवल नीति या वेब पेज मौजूद होने के कारण किसी भी कार्यक्रम को खुला नहीं माना गया है।`,
@@ -657,13 +657,13 @@ const FUND_INTRO_TPL = {
   es: n => `${n} rutas investigadas en programas de toda la ciudad y en los 16 distritos. Distinguimos el apoyo libre de capital de la deuda reembolsable, los créditos y la inversión de capital.`
 };
 
-let fundingIndex = heading('Funding, without mixing the mechanisms', '资金路径：分清不同机制') +
+let fundingIndex = heading('Funding, without mixing the mechanisms', '融资与扶持渠道：分清不同机制') +
   p(`${funding.length} researched routes across citywide programs and all 16 districts. We distinguish equity-free support from repayable debt, credits and investment. No item is labelled open merely because its policy or web page exists.`,
     Object.fromEntries(LANGS.map(l => [l, FUND_INTRO_TPL[l](funding.length)])));
 const fgDoc = doc('Read the funding guide first', '先阅读资金指南', 'funding-guide');
 fundingIndex += p(fgDoc, Object.fromEntries(LANGS.map(l => [l, maps[l].get(fgDoc)])));
 
-let fundingHtmlDir = heading('All researched funding routes at a glance', '全部研究资金路径总览', 1);
+let fundingHtmlDir = heading('All researched funding routes at a glance', '全部研究融资与扶持渠道总览', 1);
 for (const f of funding) {
   const fLink = doc(f.name, Object.fromEntries(LANGS.map(l => [l, fNameL(f, l)])), `funding/${f.id}`);
   const phEn = f.phone ? ` Tel: ${f.phone}.` : '';
@@ -759,10 +759,10 @@ write('docs/atlas.rst', atlas);
 const tree = ['reading-the-city', 'atlas', 'software-ai', 'hardware-ai', 'districts', 'universities', 'university-register', 'incubation', 'research', 'corporate', 'government', 'funding-guide', 'funding', 'investors', 'apply', 'methodology', 'sources'];
 let index = heading('Shanghai Ecosystem Atlas', '上海创新生态图谱') +
   p('The Pearl of the Orient. A field guide to research, enterprise and possibility.', '东方明珠。连接科研、企业与机遇的实用图谱。') +
-  p("An illustrated English and Simplified Chinese guide for accelerators, founders, researchers and AI enthusiasts. Explore Shanghai's 16 administrative districts, 40 undergraduate universities, 29 diploma colleges, 12 adult higher-education institutions, software and hardware AI carriers, and the practical routes to support.", '为加速器、创始人、研究者及人工智能爱好者编写的中英双语插图指南，全面覆盖上海16个行政区、40所本科院校、29所专科院校、12所成人高校、软硬件人工智能载体，以及获得支持的实用路径。');
+  p("An illustrated guide in seven languages for accelerators, founders, researchers and AI enthusiasts. It connects Shanghai's universities, software and hardware AI communities, and practical routes to support across all 16 districts.", '为加速器、创始人、研究者及人工智能爱好者编写的七语插图指南，连接上海16个行政区的高校、软硬件人工智能社区及实用扶持渠道。');
 
 const EDITION_STAT_TPL = {
-  zh_CN: `研究版本：${checked}。${allEntities.length}份机构档案，${funding.length}条资金路径，覆盖16个行政区，引用${used.length}项原始证据来源。`,
+  zh_CN: `研究版本：${checked}。${allEntities.length}份机构档案，${funding.length}条融资与扶持渠道，覆盖16个行政区，引用${used.length}项原始证据来源。`,
   hi: `शोध संस्करण: ${checked}। ${allEntities.length} संस्थान प्रोफ़ाइल। ${funding.length} वित्तपोषण मार्ग। 16 ज़िले। ${used.length} उद्धृत स्रोत।`,
   ja: `調査エディション：${checked}。${allEntities.length}件の機関プロファイル、${funding.length}件の資金ルート、全16行政区、${used.length}件の引用一次出典。`,
   ko: `연구 에디션: ${checked}. ${allEntities.length}개 기관 프로필. ${funding.length}개 자금 경로. 16개 행정구. ${used.length}개 인용 출처.`,
@@ -770,7 +770,7 @@ const EDITION_STAT_TPL = {
   es: `Edición de investigación: ${checked}. ${allEntities.length} perfiles de organizaciones. ${funding.length} vías de financiación. 16 distritos. ${used.length} fuentes citadas.`
 };
 index += p(`Research edition: ${checked}. ${allEntities.length} organization profiles. ${funding.length} funding routes. 16 districts. ${used.length} cited sources.`, EDITION_STAT_TPL);
-index += p("Written by **Vikrant Rathore** with contributions from **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. Produced using **Guidedog** as a unified bilingual **HTML and PDF** publication inspired by Shanghai's official flower, the white magnolia (*Yulania denudata*).", '本书由 **Vikrant Rathore** 撰写，**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu** 共同贡献。采用 **Guidedog** 原生构建为中英双语 **HTML 网站与 PDF 图书**，视觉设计汲取上海市花白玉兰之灵感。');
+index += p("Written by **Vikrant Rathore** with contributions from **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. Produced using **Guidedog** as a unified seven-language **HTML and PDF** publication inspired by Shanghai's official flower, the white magnolia (*Yulania denudata*).", '本书由 **Vikrant Rathore** 撰写，**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore 与 Emily Yue Xu** 共同贡献。采用 **Guidedog** 原生构建为七语 **HTML 网站与 PDF 图书**，视觉设计汲取上海市花白玉兰之灵感。');
 
 const nav1 = doc('Explore the interactive atlas', '探索交互图谱', 'atlas');
 const nav2 = doc('Browse all 16 districts', '浏览全部16个行政区', 'districts');
@@ -779,7 +779,7 @@ const nav4 = doc('Plan an application', '规划申请', 'apply');
 index += p(`${nav1} | ${nav2} | ${nav3} | ${nav4}`, Object.fromEntries(LANGS.map(l => [l, `${maps[l].get(nav1)} | ${maps[l].get(nav2)} | ${maps[l].get(nav3)} | ${maps[l].get(nav4)}`])));
 
 let indexHtml = heading('All 16 administrative districts of Shanghai', '上海十六个行政区全景导览', 1);
-indexHtml += p('Every administrative district of Shanghai is covered in both the website and the PDF book with its documented industrial focus, receiving government authority, local innovation carriers, universities and district funding routes:', '网站与PDF图书完整收录上海全部16个行政区的定位方向、受理政府部门、本地创新载体、高校及区级资金路径：');
+indexHtml += p('Every administrative district of Shanghai is covered in both the website and the PDF book with its documented industrial focus, receiving government authority, local innovation carriers, universities and district funding routes:', '网站与PDF图书完整收录上海全部16个行政区的定位方向、受理政府部门、本地创新载体、高校及区级融资与扶持渠道：');
 for (const [idx, d] of districts.entries()) {
   const dLink = doc(d.name, Object.fromEntries(LANGS.map(l => [l, dnameL(d.id, l)])), `districts/${d.id}`);
   const num = String(idx + 1).padStart(2, '0');
@@ -788,7 +788,7 @@ for (const [idx, d] of districts.entries()) {
   const enStr = `**[${num}]** ${dLink} (${d.zh}) — **${d.focus}**. Authority: ${d.owner}. (${localCount} organizations, ${fundCount} district funding routes)`;
   const dict = Object.fromEntries(LANGS.map(l => {
     if (l === 'zh_CN') {
-      return [l, `**[${num}]** ${maps[l].get(dLink)} （${d.zh}）—— **${dfocusL(d, l)}**。主管部门：${downerL(d, l)}。（${localCount}家机构，${fundCount}条区级资金路径）`];
+      return [l, `**[${num}]** ${maps[l].get(dLink)} （${d.zh}）—— **${dfocusL(d, l)}**。主管部门：${downerL(d, l)}。（${localCount}家机构，${fundCount}条区级融资与扶持渠道）`];
     }
     return [l, `**[${num}]** ${maps[l].get(dLink)} (${d.zh}) — **${dfocusL(d, l)}**. ${downerL(d, l)}. (${localCount} / ${fundCount})`];
   }));
@@ -800,7 +800,7 @@ const chapterSummaries = [
   ['atlas', 'Explore the Shanghai ecosystem', '探索上海创新生态', 'Interactive 16-district vector map, bilingual search, sector and equity filters, shortlist and CSV export.', '16区交互式矢量地图、中英双语检索、产业与股权筛选、收藏清单及CSV导出。'],
   ['software-ai', 'Intelligence in software', '软件中的智能', 'Foundation models, vertical agents, Model Speed Space, Zhangjiang Model Community, compute/corpus vouchers and compliance routing.', '基础模型、垂类智能体、模速空间、张江模力社区、算力语料券及合规路径。'],
   ['hardware-ai', 'Intelligence in the physical world', '物理世界中的智能', 'AI chips, EDA/MPW tape-out, MEMS sensors, embodied robotics, low-altitude drones, BCI and wet-lab biocomputing.', 'AI芯片、EDA与流片、传感器、具身智能机器人、低空无人机、脑机接口与生物计算。'],
-  ['districts', 'Sixteen districts, sixteen entry routes', '十六区，十六条对接路径', "Dedicated chapter for each of Shanghai's 16 districts with receiving authorities, policy boundaries, local carriers and funding.", '上海16个行政区逐区专章，含受理部门、政策边界、本地载体与资金路径。'],
+  ['districts', 'Sixteen districts, sixteen entry routes', '十六区，十六条对接路径', "Dedicated chapter for each of Shanghai's 16 districts with receiving authorities, policy boundaries, local carriers and funding.", '上海16个行政区逐区专章，含受理部门、政策边界、本地载体与融资与扶持渠道。'],
   ['universities', 'Universities and commercialization', '高校与成果转化', 'Profiles for all 40 undergraduate universities in Shanghai with MOE codes, collaboration themes and tech-transfer contacts.', '上海全部40所本科高校档案，含教育部标识码、合作主题与技术转移联系方式。'],
   ['university-register', 'The higher-education register', '高等教育机构名录', 'Complete June 2026 Ministry of Education register: 40 undergraduate universities, 29 diploma colleges, 12 adult institutions and CEIBS.', '教育部2026年6月完整名录：40所本科、29所专科、12所成人高校及中欧国际工商学院。'],
   ['incubation', 'Incubators, accelerators and parks', '孵化器、加速器及园区', '28 researched incubators, accelerators and technology parks across Shanghai with admission checklists and operator details.', '全市28家孵化器、加速器与科技园区档案，含入驻核对清单与运营方信息。'],
@@ -808,7 +808,7 @@ const chapterSummaries = [
   ['corporate', 'Corporate and global programs', '企业与全球计划', 'Roche, SAP.iO, ABB, DroidUp, PaddlePaddle, Yangtze AI+ Center, JLABS, Bayer Co.Lab, NVIDIA Inception, Microsoft, AWS, Siemens and BMW.', '罗氏、SAP.iO、ABB、卓益得、飞桨、长三角AI+中心、JLABS、拜耳、英伟达、微软、亚马逊云、西门子与宝马项目。'],
   ['government', 'Government entry points', '政府对接入口', 'All 16 district science, technology and economy authorities with official portals, published contacts and policy notes.', '16个区科技与经济主管部门入口，含官方网站、公开电话与政策说明。'],
   ['funding-guide', 'Capital, with its conditions attached', '资金及其附带条件', 'How to distinguish non-repayable grants, post-expenditure reimbursements, vouchers, debt, tax relief and equity investment.', '如何区分无偿补助、先支后补、创新券、债务贷款、税收优惠与股权投资。'],
-  ['funding', 'Funding, without mixing the mechanisms', '资金路径：分清不同机制', 'All 40 citywide and district funding pathways with ceilings, equity rules, eligibility criteria, deadlines and official links.', '全市及16区全部40条资金路径，含额度上限、股权规则、资格条件、截止时间与官方入口。'],
+  ['funding', 'Funding, without mixing the mechanisms', '融资与扶持渠道：分清不同机制', 'All 40 citywide and district funding pathways with ceilings, equity rules, eligibility criteria, deadlines and official links.', '全市及16区全部40条融资与扶持渠道，含额度上限、股权规则、资格条件、截止时间与官方入口。'],
   ['investors', 'Investors and patient capital', '投资机构与耐心资本', 'STEFG Angel Fund, Shanghai Leading Industry Funds, Pudong AI Seed Fund, Embodied AI Fund, STVC and Qiming Venture Partners.', '大学生科创基金会天使基金、三大先导母基金、浦东AI种子基金、具身智能基金、科投集团与启明创投。'],
   ['apply', 'From introduction to application', '从初次对接到正式申请', 'Bilingual outreach templates, shared data-room checklist, decision workflows and a four-week accelerator field program.', '中英双语初次沟通模板、共用资料库清单、四类决策流程及加速器四周实地计划。'],
   ['methodology', 'How to read the evidence', '如何阅读证据', 'Source verification rules, translation discipline, map accuracy disclosures, known gaps and authorship credits.', '来源核验规则、翻译规范、地图精度说明、已知缺口及作者团队署名。'],
@@ -910,6 +910,8 @@ write('docs/_static/atlas/catalog.json', JSON.stringify(dataset, null, 2) + '\n'
 write('docs/_static/atlas/catalog.js', 'window.SHANGHAI_ATLAS=' + JSON.stringify(dataset) + ';\n');
 write('docs/_static/atlas/geometry.js', 'window.SHANGHAI_GEOMETRY=' + fs.readFileSync('data/shanghai-districts.geojson', 'utf8') + ';\n');
 write('data/published-sources.json', JSON.stringify(used, null, 2) + '\n');
+// A maintained template input keeps the native PDF cover statistics in sync.
+write('docs/_templates/coverage.json', JSON.stringify(dataset.counts, null, 2) + '\n');
 
 // 10. Optional PO catalog sync after `guidedog intl update`
 if (process.argv.includes('--sync-po')) {

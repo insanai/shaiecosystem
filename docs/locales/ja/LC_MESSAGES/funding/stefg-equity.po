@@ -40,11 +40,11 @@ msgstr "金額規模と支援メカニズム"
 msgid ""
 "Up to RMB 800,000 for 3 years; no dividend participation; exit at "
 "original price"
-msgstr "最大80万元、支援期間3年間、配当請求権なし、満期時に元本価格（原価）で買い戻し退社"
+msgstr "最大80万元、支援期間3年。配当への参加はなく、期間満了時に当初の出資額で持分を退出"
 
 #: ../../funding/stefg-equity.rst:15
 msgid "Temporary equity; original-price exit"
-msgstr "一時的株式保有（元本同額での買戻し）"
+msgstr "一時的な株式保有・当初の出資額で退出"
 
 #: ../../funding/stefg-equity.rst:17
 msgid "Eligibility and timing"
@@ -59,7 +59,7 @@ msgstr "基金会規程を満たす適格テクノロジー起業家。創業者
 
 #: ../../funding/stefg-equity.rst:22
 msgid "Confirm branch intake and review schedule"
-msgstr "各分会（大学・地区窓口）の受付および審査日程を確認のこと"
+msgstr "担当分会の受付および審査日程の確認が必要"
 
 #: ../../funding/stefg-equity.rst:24
 msgid "Contact and application"

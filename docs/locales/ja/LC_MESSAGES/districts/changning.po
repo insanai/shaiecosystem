@@ -110,7 +110,7 @@ msgid ""
 "communities. We treat this record as a district routing entry, not a "
 "single interchangeable operator or a guaranteed free-workspace offer. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`デジタル・シリコンアレイ／虹橋イノベーションキャリア </entities/digital-silicon>` （数字硅巷／虹桥创新载体 · インキュベーター · ソフトウェアAI）— 長寧区が整備する階層的なデジタルインキュベーションおよびスーパーインディビジュアル（OPC／一人起業家）向けコミュニティ群。本項目は区の総合窓口案内であり、各運営主体を一括りにしたり無償デスクを保証したりするものではない。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`デジタル・シリコンアレイ／虹橋起業支援拠点 </entities/digital-silicon>` （数字硅巷／虹桥创新载体 · インキュベーター · ソフトウェアAI）— 長寧区が整備する階層的なデジタルインキュベーションおよびスーパーインディビジュアル（OPC／一人起業家）向けコミュニティ群。本項目は区の総合窓口案内であり、各運営主体を一括りにしたり無償デスクを保証したりするものではない。［ステータス：公表済み組織（公募状況の確認要）］"
 
 #: ../../districts/changning.rst:38
 msgid ""
@@ -132,7 +132,7 @@ msgid ""
 "(2026长宁人工智能产业项目 · Grant · No equity) — Project-specific support after "
 "assessment; no common ceiling established. Status: Closed. Timing: Closed "
 "30 June 2026."
-msgstr ":doc:`2026年長寧区AI・テクノロジーイノベーション特別資金（第1期） </funding/changning-ai-2026>` （2026长宁人工智能产业项目 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 方向別の助成。研究開発連携は最大100万元、計算資源補助は最大50万元、専精特新企業向け信用保証支援は最大15万元など。ステータス：受付終了。時期：2026年6月30日に公募終了。"
+msgstr ":doc:`2026年長寧区AI・テクノロジーイノベーション特別資金（第1期） </funding/changning-ai-2026>` （2026长宁人工智能产业项目 · 助成金・補助金 · 株式の提供不要）— 審査後、プロジェクトごとに支援額を決定。一律の上限額は確認されていない。ステータス：募集終了。時期：2026年6月30日に公募終了。"
 
 #: ../../districts/changning.rst:44
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 "</funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · No equity) — "
 "Funding for assessed and recognized teams under the district talent fund "
 "plan. Status: Closed. Timing: Closed 26 June 2026."
-msgstr ":doc:`2026年長寧区テクノロジースターチーム（科技之星） </funding/changning-tech-star>` （2026长宁科技之星团队 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 区人材特別資金計画に基づき、評価・認定された優秀チームに対して資金支援。ステータス：受付終了。時期：2026年6月26日に公募終了。"
+msgstr ":doc:`2026年長寧区テクノロジースターチーム（科技之星） </funding/changning-tech-star>` （2026长宁科技之星团队 · 助成金・補助金 · 株式の提供不要）— 区人材特別資金計画に基づき、評価・認定された優秀チームに対して資金支援。ステータス：募集終了。時期：2026年6月26日に公募終了。"
 
 #: ../../districts/changning.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

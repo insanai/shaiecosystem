@@ -1,0 +1,120 @@
+# zh_CN translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/qingmiao.rst:1
+msgid "Xuhui Qingmiao AI Youth Entrepreneurship Fund"
+msgstr "徐汇人工智能青年创业基金（青苗基金）"
+
+#: ../../entities/qingmiao.rst:4
+msgid "徐汇人工智能青年创业基金（青苗基金）"
+msgstr "徐汇人工智能青年创业基金（青苗基金）"
+
+#: ../../entities/qingmiao.rst:6
+msgid "Investor | Xuhui | Research checked 2026-11-04"
+msgstr "投资机构｜徐汇区｜研究核对日期 2026-11-04"
+
+#: ../../entities/qingmiao.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI."
+msgstr "人工智能与产业方向：软件人工智能、硬件人工智能。"
+
+#: ../../entities/qingmiao.rst:10
+msgid ""
+"Xuhui established this youth-focused AI fund in September 2025. Its "
+"August 2026 entrepreneurship camp connected early AI teams with "
+"investment, research and industrial partners. Shanghai Xuhui Capital "
+"Investment and Shanghai Xuhui Science and Technology Venture Capital Fund "
+"Management co-hosted the camp. Request the receiving manager and current "
+"investment terms; camp attendance is not an investment award."
+msgstr "徐汇于2025年9月设立面向青年AI创业者的基金。2026年8月创业营对接早期AI团队、投资机构、科研及产业资源，由上海徐汇资本投资有限公司、上海徐汇科创投私募基金管理有限公司等共同主办。须索取接收项目的管理人及现行投资条款，参加创业营不代表获投。"
+
+#: ../../entities/qingmiao.rst:12
+msgid ""
+"`Evidence S077 "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. "
+"Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+msgstr "`证据 S077 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+
+#: ../../entities/qingmiao.rst:14
+msgid "Status and support"
+msgstr "状态与支持"
+
+#: ../../entities/qingmiao.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "机构有来源，招募待确认"
+
+#: ../../entities/qingmiao.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "本条未核实统一现金资助、免费权益或股权比例，请索取现行书面方案。"
+
+#: ../../entities/qingmiao.rst:21
+msgid "Contact and location"
+msgstr "联系与位置"
+
+#: ../../entities/qingmiao.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+msgstr "`官方来源与主管部门入口 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+
+#: ../../entities/qingmiao.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "本版未核实项目直线电话或邮箱。请通过官方渠道索取负责团队，本图谱不编造联系人。"
+
+#: ../../entities/qingmiao.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "地图位置使用区级或校区锚点，并非核实后的办公室位置。"
+
+#: ../../entities/qingmiao.rst:30
+msgid "Application workflow"
+msgstr "申请流程"
+
+#: ../../entities/qingmiao.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../entities/qingmiao.rst:35
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "确认管理人、行业、阶段及主体匹配。"
+
+#: ../../entities/qingmiao.rst:37
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "提交路演材料、股权表、技术证据、进展及融资计划。"
+
+#: ../../entities/qingmiao.rst:39
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "完成商业、财务、技术及法律尽职调查。"
+
+#: ../../entities/qingmiao.rst:41
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "审核条款书、投委会条件及正式协议。"
+
+#: ../../entities/qingmiao.rst:43
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`徐汇区对接路径 </districts/xuhui>`"

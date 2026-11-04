@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -33,10 +33,10 @@ msgstr "जिला एक रोबोटिक्स और उन्नत �
 
 #: ../../districts/baoshan.rst:8
 msgid ""
-"`Evidence S092 "
+"`Evidence S099 "
 "<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
 "机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
-msgstr "`साक्ष्य S092 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+msgstr "`साक्ष्य S099 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
 
 #: ../../districts/baoshan.rst:10
 msgid "Who receives the inquiry"
@@ -110,7 +110,7 @@ msgid ""
 "deployment; we distinguish it from ABB facilities in Pudong and from the "
 "broader Baoshan industrial park. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`शंघाई रोबोट इंडस्ट्रियल पार्क (Shanghai Robot Industrial Park) </entities/robot-park>` (上海机器人产业园 · प्रौद्योगिकी पार्क · हार्डवेयर AI, रोबोटिक्स) — गुचुन, बाओशान में एक रोबोटिक्स औद्योगिक पार्क। औद्योगिक रोबोटिक्स आपूर्ति श्रृंखलाओं और परिनियोजन के लिए उपयुक्त; हम इसे पुडोंग में ABB सुविधाओं और व्यापक बाओशान औद्योगिक पार्क से अलग करते हैं। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई रोबोट इंडस्ट्रियल पार्क (Shanghai Robot Industrial Park) </entities/robot-park>` (上海机器人产业园 · प्रौद्योगिकी पार्क · हार्डवेयर AI, रोबोटिक्स) — गुचुन, बाओशान में एक रोबोटिक्स औद्योगिक पार्क। औद्योगिक रोबोटिक्स आपूर्ति श्रृंखलाओं और परिनियोजन के लिए उपयुक्त; हम इसे पुडोंग में ABB सुविधाओं और व्यापक बाओशान औद्योगिक पार्क से अलग करते हैं। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/baoshan.rst:38
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "attraction, policy coordination and business services. This is a separate "
 "park from the Gucun robot industrial park. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`बाओशान इंडस्ट्रियल पार्क (Baoshan Industrial Park) </entities/baoshan-industrial>` (宝山工业园区 · प्रौद्योगिकी पार्क · उद्योग, हार्डवेयर AI) — पार्क समिति एक आधिकारिक संपर्क प्रकाशित करती है और औद्योगिक प्रवेश, परियोजना आकर्षण, नीति समन्वय और व्यावसायिक सेवाएं प्रदान करती है। यह गुचुन रोबोट इंडस्ट्रियल पार्क से एक अलग पार्क है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`बाओशान इंडस्ट्रियल पार्क (Baoshan Industrial Park) </entities/baoshan-industrial>` (宝山工业园区 · प्रौद्योगिकी पार्क · उद्योग, हार्डवेयर AI) — पार्क समिति एक आधिकारिक संपर्क प्रकाशित करती है और औद्योगिक प्रवेश, परियोजना आकर्षण, नीति समन्वय और व्यावसायिक सेवाएं प्रदान करती है। यह गुचुन रोबोट इंडस्ट्रियल पार्क से एक अलग पार्क है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/baoshan.rst:40
 msgid "Funding routes"
@@ -133,7 +133,7 @@ msgid ""
 "Potential equity conversion; review contract) — Amount and conversion "
 "terms require the actual project guide and agreement. Status: Closed. "
 "Timing: Closed 10 February 2026."
-msgstr ":doc:`बाओशान प्री-इनवेस्टमेंट / लेटर इक्विटी परियोजना कॉल </funding/baoshan-conversion>` (宝山先投后股项目征集 · परिवर्तनीय सहायता · संभावित इक्विटी रूपांतरण; अनुबंध की समीक्षा करें) — राशि और रूपांतरण शर्तों के लिए वास्तविक परियोजना मार्गदर्शिका और समझौता आवश्यक है। स्थिति: बंद हो चुका है। समय-सीमा: 10 फरवरी 2026 को बंद।"
+msgstr ":doc:`बाओशान प्री-इनवेस्टमेंट / लेटर इक्विटी परियोजना कॉल </funding/baoshan-conversion>` (宝山先投后股项目征集 · परिवर्तनीय सहायता · संभावित इक्विटी रूपांतरण; अनुबंध की समीक्षा करें) — राशि और रूपांतरण शर्तों के लिए वास्तविक परियोजना मार्गदर्शिका और समझौता आवश्यक है। स्थिति: आवेदन की समय-सीमा समाप्त। समय-सीमा: 10 फरवरी 2026 को बंद।"
 
 #: ../../districts/baoshan.rst:45
 msgid ":doc:`Also compare citywide funding </funding>`"

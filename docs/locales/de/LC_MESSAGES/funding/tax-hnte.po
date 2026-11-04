@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -30,10 +30,10 @@ msgstr "Steuerleitfaden veröffentlicht; Anerkennung erforderlich"
 
 #: ../../funding/tax-hnte.rst:8
 msgid ""
-"`Evidence S099 "
+"`Evidence S106 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
 "上海市“2366”产业税收优惠政策指引."
-msgstr "`Nachweis S099 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+msgstr "`Nachweis S106 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
 
 #: ../../funding/tax-hnte.rst:10
 msgid "Amount and mechanism"
@@ -41,7 +41,7 @@ msgstr "Förderhöhe und Mechanismus"
 
 #: ../../funding/tax-hnte.rst:13
 msgid "15% corporate income tax for qualifying recognized enterprises"
-msgstr "Ermäßigter Steuersatz von 15 % statt der regulären 25 % Körperschaftsteuer"
+msgstr "15 % Körperschaftsteuer für anerkannte Unternehmen, die die Voraussetzungen erfüllen"
 
 #: ../../funding/tax-hnte.rst:15
 msgid "No equity"
@@ -55,11 +55,11 @@ msgstr "Teilnahmeberechtigung und Fristen"
 msgid ""
 "Recognition and continued compliance are required. Review IP, personnel, "
 "R&D, revenue mix and annual reporting; not all AI companies qualify."
-msgstr "Offiziell anerkanntes Hoch- und Neutechnologieunternehmen (HNTE) mit eigenem Kern-IP, Erfüllung der F&E-Aufwandsquoten, Mindestanteil an technologiebezogenen Einnahmen und qualifiziertem F&E-Personal. Gültigkeitsdauer des Zertifikats: 3 Jahre."
+msgstr "Anerkennung und fortlaufende Einhaltung der Bedingungen sind erforderlich. IP, Personal, F&E, Umsatzstruktur und Jahresmeldungen prüfen. Nicht jedes KI-Unternehmen erfüllt die Kriterien."
 
 #: ../../funding/tax-hnte.rst:22
 msgid "Recognition batches and annual filing"
-msgstr "Jährliche Einreichungsfenster der städtischen Akkreditierungskommission beachten"
+msgstr "Anerkennungstranchen und jährliche Einreichung"
 
 #: ../../funding/tax-hnte.rst:24
 msgid "Contact and application"

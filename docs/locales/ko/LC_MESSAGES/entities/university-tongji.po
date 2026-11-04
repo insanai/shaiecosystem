@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -41,19 +41,19 @@ msgid ""
 msgstr "2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 자율주행 시스템, 모빌리티, 로봇 공학, 건축 및 도시환경. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다."
 
 #: ../../entities/university-tongji.rst:12
-msgid "`Evidence S077 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
-msgstr "`근거 S077 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
+msgid "`Evidence S084 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
+msgstr "`근거 S084 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
 
 #: ../../entities/university-tongji.rst:14
-msgid "`Evidence S078 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
-msgstr "`근거 S078 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
+msgid "`Evidence S085 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
+msgstr "`근거 S085 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
 
 #: ../../entities/university-tongji.rst:16
 msgid ""
-"`Evidence S076 "
+"`Evidence S083 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`근거 S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`근거 S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-tongji.rst:18
 msgid "Status and support"

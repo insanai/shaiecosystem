@@ -7,7 +7,7 @@ Government | Pudong | Research checked 2026-11-04
 
 2026 AI application call closed on 31 August 2026. The published route covers qualifying 2025 model and agent expenditure; duplicate public funding is excluded.
 
-`Evidence S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件.
+`Evidence S096 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件.
 
 Status and support
 ------------------

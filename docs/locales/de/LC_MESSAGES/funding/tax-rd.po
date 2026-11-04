@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -30,10 +30,10 @@ msgstr "Steuerleitfaden veröffentlicht; Anwendbarkeit prüfen"
 
 #: ../../funding/tax-rd.rst:8
 msgid ""
-"`Evidence S099 "
+"`Evidence S106 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
 "上海市“2366”产业税收优惠政策指引."
-msgstr "`Nachweis S099 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+msgstr "`Nachweis S106 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
 
 #: ../../funding/tax-rd.rst:10
 msgid "Amount and mechanism"
@@ -43,7 +43,7 @@ msgstr "Förderhöhe und Mechanismus"
 msgid ""
 "Eligible expensed R&D: additional 100% deduction; eligible capitalized "
 "R&D: 200% amortization basis"
-msgstr "Zusätzlicher Abzug von 100 % der tatsächlich angefallenen, förderfähigen F&E-Ausgaben von der steuerlichen Bemessungsgrundlage"
+msgstr "Förderfähige, als Aufwand erfasste F&E-Kosten: zusätzlicher Abzug von 100 %; förderfähige aktivierte F&E-Kosten: Abschreibungsbasis von 200 %"
 
 #: ../../funding/tax-rd.rst:15
 msgid "No equity"
@@ -58,11 +58,11 @@ msgid ""
 "Qualifying enterprise R&D costs with the required accounting and "
 "evidence. A tax deduction reduces taxable income; it is not cash equal to "
 "the expense or deduction."
-msgstr "Steuerpflichtige Unternehmen mit eigenständiger F&E-Kostenrechnung in nicht ausgeschlossenen Branchen. Erfordert eine lückenlose steuerliche Buchführung und F&E-Projektdokumentation."
+msgstr "Förderfähige F&E-Kosten eines Unternehmens mit der vorgeschriebenen Buchführung und den erforderlichen Nachweisen. Der Abzug mindert das steuerpflichtige Einkommen; er ist keine Barauszahlung in Höhe der Kosten oder des Abzugs."
 
 #: ../../funding/tax-rd.rst:22
 msgid "Annual tax filing and applicable rules"
-msgstr "Im Rahmen der jährlichen Körperschaftsteuererklärung geltend zu machen"
+msgstr "Jährliche Steuererklärung und geltende Bestimmungen"
 
 #: ../../funding/tax-rd.rst:24
 msgid "Contact and application"

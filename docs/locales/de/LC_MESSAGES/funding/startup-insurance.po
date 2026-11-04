@@ -1,0 +1,118 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/startup-insurance.rst:1
+msgid "Shanghai early-stage startup social-insurance subsidy"
+msgstr "Shanghai: Sozialversicherungszuschuss für junge Gründungen"
+
+#: ../../funding/startup-insurance.rst:4
+msgid "Reimbursement | Citywide / global"
+msgstr "Kostenerstattung | Stadtweit / global"
+
+#: ../../funding/startup-insurance.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet"
+
+#: ../../funding/startup-insurance.rst:8
+msgid ""
+"`Evidence S114 "
+"<https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html>`_. "
+"Shanghai startup social-insurance, incubation rent and first-startup "
+"subsidies, valid through 2027."
+msgstr "`Nachweis S114 <https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html>`_. Shanghai startup social-insurance, incubation rent and first-startup subsidies, valid through 2027."
+
+#: ../../funding/startup-insurance.rst:10
+msgid "Amount and mechanism"
+msgstr "Förderhöhe und Mechanismus"
+
+#: ../../funding/startup-insurance.rst:13
+msgid ""
+"50% of specified employer contributions at the minimum contribution base; "
+"up to 8 people per month, within 36 months of registration"
+msgstr "50 % bestimmter Arbeitgeberbeiträge auf Basis der Mindestbeitragsgrundlage; höchstens 8 Personen pro Monat, innerhalb von 36 Monaten ab Registrierung"
+
+#: ../../funding/startup-insurance.rst:15
+msgid "No equity"
+msgstr "Ohne Anteilsabgabe"
+
+#: ../../funding/startup-insurance.rst:17
+msgid "Eligibility and timing"
+msgstr "Teilnahmeberechtigung und Fristen"
+
+#: ../../funding/startup-insurance.rst:20
+msgid ""
+"Qualifying new startup organizations led by eligible local workers or "
+"specified residence/returnee categories, after employing workers for 6 "
+"months. Support is calculated against eligible local workers; avoid "
+"duplicate employment subsidies for the same person."
+msgstr "Berechtigte Neugründungen durch lokale Beschäftigte oder Personen der festgelegten Wohnsitz- bzw. Rückkehrerkategorien nach 6 Monaten Beschäftigung. Berechnung anhand berechtigter lokaler Beschäftigter; keine doppelten Beschäftigungszuschüsse für dieselbe Person."
+
+#: ../../funding/startup-insurance.rst:22
+msgid "Policy through 31 Dec 2027; confirm district procedure"
+msgstr "Richtlinie bis 31. Dezember 2027; Bezirksverfahren bestätigen"
+
+#: ../../funding/startup-insurance.rst:24
+msgid "Contact and application"
+msgstr "Kontakt und Bewerbung"
+
+#: ../../funding/startup-insurance.rst:27
+msgid "`Official application / policy route <https://zwdt.sh.gov.cn/>`_"
+msgstr "`Offizieller Antrags- / Richtlinienzugang <https://zwdt.sh.gov.cn/>`_"
+
+#: ../../funding/startup-insurance.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "Die verlinkte Behörde bzw. der Träger ist der offizielle Kontaktweg. Ein direkter Programm-Ansprechpartner ist in diesem Profil nicht hinterlegt."
+
+#: ../../funding/startup-insurance.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../funding/startup-insurance.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "Die datierte Bekanntmachung lesen und Vorgaben zu Bezirk, Rechtsform, Geschäftszweck und Ausgabenzeitraum prüfen."
+
+#: ../../funding/startup-insurance.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "Die vorgeschriebenen Antragsunterlagen zusammenstellen und ggf. Empfehlungsschreiben des Trägers oder Bezirks einholen."
+
+#: ../../funding/startup-insurance.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "Fristgerecht über die offizielle Plattform einreichen und die Empfangsbestätigung aufbewahren."
+
+#: ../../funding/startup-insurance.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "Verfahrensschritte für Begutachtung, Bewilligung, Berichtspflichten, Verwendungsnachweis und Auszahlung befolgen."
+
+#: ../../funding/startup-insurance.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "Der ausgewiesene Höchstbetrag ist eine Obergrenze, kein Rechtsanspruch. Prüfen Sie die geltende Ausschreibung, den förderfähigen Kostenzeitraum, sonstige öffentliche Beihilfen und schriftliche Auszahlungsbedingungen."

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -30,9 +30,9 @@ msgstr "Verzeichnis 2026 veröffentlicht; Prüfung durch Kreditgeber erforderlic
 
 #: ../../funding/ip-finance.rst:8
 msgid ""
-"`Evidence S105 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
+"`Evidence S112 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
 "知识产权金融服务平台_上海市知识产权局."
-msgstr "`Nachweis S105 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
+msgstr "`Nachweis S112 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
 
 #: ../../funding/ip-finance.rst:10
 msgid "Amount and mechanism"
@@ -55,11 +55,11 @@ msgid ""
 "The 2026 IP bureau directory supplies borrower criteria, collateral, "
 "rates, repayment, application steps and contacts by product. IP ownership "
 "and bank assessment matter."
-msgstr "Der Katalog des Amts für geistiges Eigentum listet Anforderungen an Kreditnehmer, Sicherheiten, Zinssätze, Rückzahlungsmodalitäten und Antragswege je Produkt auf. Eigenes IP und Bonitätsprüfung der Bank sind maßgeblich."
+msgstr "Das Verzeichnis der IP-Behörde 2026 nennt Anforderungen an Kreditnehmer, Sicherheiten, Zinsen, Rückzahlung, Antragsschritte und Kontakte je Produkt. IP-Rechte und Bankprüfung sind maßgeblich."
 
 #: ../../funding/ip-finance.rst:22
 msgid "Product-specific"
-msgstr "Produktspezifisch fortlaufend"
+msgstr "Produktspezifisch"
 
 #: ../../funding/ip-finance.rst:24
 msgid "Contact and application"

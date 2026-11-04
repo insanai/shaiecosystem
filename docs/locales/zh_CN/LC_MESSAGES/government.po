@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -22,15 +22,28 @@ msgstr "政府对接入口"
 
 #: ../../government.rst:4
 msgid ""
-"16 profiles with evidence, contact routes and an application checklist. "
+"17 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "16份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。"
+msgstr "17份档案，附来源、联系渠道及申请清单。机构存在与当前招募情况分别标注。"
 
 #: ../../government.rst:8
 msgid "Complete directory summary"
 msgstr "完整机构名录摘要"
 
 #: ../../government.rst:11
+msgid ""
+":doc:`Shanghai overseas-returnee entrepreneurship service windows "
+"<entities/returnee-services>` (上海留学人员创业服务窗口 · Government · Citywide / "
+"global · Focus: Software AI, Hardware AI) — The 2026 municipal rules "
+"identify the talent authority and district service windows for eligible "
+"overseas returnees, including qualifying people who acquired foreign "
+"citizenship. Recognition and startup-park services can lead to separate "
+"support applications. Returnee status is not a category covering every "
+"foreign founder and is not an automatic grant or residence permit. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`上海留学人员创业服务窗口 <entities/returnee-services>` （上海留学人员创业服务窗口 · 政府部门 · 全市／全球 · 方向：软件人工智能、硬件人工智能）—— 2026年市级规定明确由人才工作部门及各区服务窗口为符合条件的留学人员提供服务，包括符合规定的入外籍人员。资格认定及创业园服务可衔接独立的支持申报。留学人员身份不涵盖所有外国创始人，也不自动带来资助或居留许可。【状态：机构有来源，招募待确认】"
+
+#: ../../government.rst:12
 msgid ""
 ":doc:`Pudong Science, Technology and Economy Commission "
 "<entities/government-pudong>` (浦东新区科技和经济委员会 · Government · Pudong) — 2026 "
@@ -40,7 +53,7 @@ msgid ""
 "confirm]"
 msgstr ":doc:`浦东新区科技和经济委员会 <entities/government-pudong>` （浦东新区科技和经济委员会 · 政府部门 · 浦东新区）—— 2026年人工智能应用项目申报已于2026年8月31日截止。该通知面向符合条件的2025年模型与智能体支出，已获其他财政资金资助的项目不得重复申报。 电话：+86 21 68811090。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:12
+#: ../../government.rst:13
 msgid ""
 ":doc:`Xuhui industry development authority <entities/government-xuhui>` "
 "(徐汇区产业主管部门 · Government · Xuhui) — The embodied AI policy identifies "
@@ -49,7 +62,7 @@ msgid ""
 "entity; intake to confirm]"
 msgstr ":doc:`徐汇区产业主管部门 <entities/government-xuhui>` （徐汇区产业主管部门 · 政府部门 · 徐汇区）—— 具身智能政策覆盖机器人大模型、算法、数据与操作系统。经综合评估的支持上限并非初创企业自动获得的补贴。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:13
+#: ../../government.rst:14
 msgid ""
 ":doc:`Yangpu science and technology authority "
 "<entities/government-yangpu>` (杨浦区科技主管部门 · Government · Yangpu) — "
@@ -59,7 +72,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`杨浦区科技主管部门 <entities/government-yangpu>` （杨浦区科技主管部门 · 政府部门 · 杨浦区）—— 类脑智能方案明确长阳创谷与湾谷科技园布局。2026年5月另有支持复兴岛等超级个体社区的政策；行动方案本身不等同于现金补助。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:14
+#: ../../government.rst:15
 msgid ""
 ":doc:`Minhang science and technology authority "
 "<entities/government-minhang>` (闵行区科技主管部门 · Government · Minhang) — The "
@@ -69,7 +82,7 @@ msgid ""
 "investment. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`闵行区科技主管部门 <entities/government-minhang>` （闵行区科技主管部门 · 政府部门 · 闵行区）—— 企业科技创新政策有效期为2025年9月1日至2030年8月31日。新设科技成果转化企业符合条件的，可按转化投入50%获得每年最高50万元、三年累计最高150万元资助。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:15
+#: ../../government.rst:16
 msgid ""
 ":doc:`Jiading science and technology authority "
 "<entities/government-jiading>` (嘉定区科技主管部门 · Government · Jiading) — The "
@@ -79,7 +92,7 @@ msgid ""
 "coordination. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`嘉定区科技主管部门 <entities/government-jiading>` （嘉定区科技主管部门 · 政府部门 · 嘉定区）—— 市科委记录了工研院与新微创源联动科研、中试与孵化的工作。2026年区级企业服务活动提供政策解读与项目协调。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:16
+#: ../../government.rst:17
 msgid ""
 ":doc:`Baoshan industry and science authorities "
 "<entities/government-baoshan>` (宝山区产业与科技主管部门 · Government · Baoshan) — "
@@ -89,7 +102,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`宝山区产业与科技主管部门 <entities/government-baoshan>` （宝山区产业与科技主管部门 · 政府部门 · 宝山区）—— 全区正在发展机器人及高端装备产业集群。园区准入与政策资助需分别审核；工厂示范项目不等于面向初创企业的资金申报。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:17
+#: ../../government.rst:18
 msgid ""
 ":doc:`Putuo science and technology authority <entities/government-putuo>` "
 "(普陀区科技主管部门 · Government · Putuo) — Wuning Science Park connects "
@@ -99,7 +112,7 @@ msgid ""
 "to confirm]"
 msgstr ":doc:`普陀区科技主管部门 <entities/government-putuo>` （普陀区科技主管部门 · 政府部门 · 普陀区）—— 武宁科技园连接工业研发、检测与技术转移。区级孵化基地名录还列有中以创新园；入驻与投资须分别确认条款。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:18
+#: ../../government.rst:19
 msgid ""
 ":doc:`Changning science and technology authority "
 "<entities/government-changning>` (长宁区科技主管部门 · Government · Changning) — "
@@ -109,7 +122,7 @@ msgid ""
 "operator before submitting. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`长宁区科技主管部门 <entities/government-changning>` （长宁区科技主管部门 · 政府部门 · 长宁区）—— 2026年8月区级报道列出数字硅巷、虹桥智域、东虹桥国际青年科创中心与马克沪MAKE021等孵化载体。申请前应确认具体运营主体。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:19
+#: ../../government.rst:20
 msgid ""
 ":doc:`Jing'an science and economy authority <entities/government-jingan>` "
 "(静安区科技和经济委员会 · Government · Jing'an) — The 2026-2028 AI application "
@@ -118,7 +131,7 @@ msgid ""
 "accepting applications. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`静安区科技和经济委员会 <entities/government-jingan>` （静安区科技和经济委员会 · 政府部门 · 静安区）—— 2026至2028年人工智能创新应用示范区方案聚焦产业融合与人才。规划目标应与实施细则及正在受理的申报事项区分。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:20
+#: ../../government.rst:21
 msgid ""
 ":doc:`Huangpu science and entrepreneurship services "
 "<entities/government-huangpu>` (黄浦区科技与创业服务部门 · Government · Huangpu) — "
@@ -128,7 +141,7 @@ msgid ""
 "availability. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`黄浦区科技与创业服务部门 <entities/government-huangpu>` （黄浦区科技与创业服务部门 · 政府部门 · 黄浦区）—— 2025至2026年张江黄浦园方案侧重金融科技与临床研究服务。黄浦创卡是另行实施的青年创业支持渠道，须核验资格与当前工位情况。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:21
+#: ../../government.rst:22
 msgid ""
 ":doc:`Hongkou science and economy authority "
 "<entities/government-hongkou>` (虹口区科技和经济委员会 · Government · Hongkou) — The "
@@ -138,7 +151,7 @@ msgid ""
 "on older subsidy summaries. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`虹口区科技和经济委员会 <entities/government-hongkou>` （虹口区科技和经济委员会 · 政府部门 · 虹口区）—— 2025至2026年虹口园方案明确北科创集团在载体统筹、孵化与投融资方面的职责。应索取具体运营载体与现行申报通知，避免依赖旧版补贴概述。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:22
+#: ../../government.rst:23
 msgid ""
 ":doc:`Songjiang G60 innovation services <entities/government-songjiang>` "
 "(松江区G60科创服务部门 · Government · Songjiang) — The G60 Sci-Tech Innovation "
@@ -148,7 +161,7 @@ msgid ""
 "qualification. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`松江区G60科创服务部门 <entities/government-songjiang>` （松江区G60科创服务部门 · 政府部门 · 松江区）—— G60科创走廊发布创新与资源对接举措。九城市合作范围与上海区级资格不同，走廊其他城市的合作伙伴不能据此取得松江申报资格。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:23
+#: ../../government.rst:24
 msgid ""
 ":doc:`Qingpu science and technology authority "
 "<entities/government-qingpu>` (青浦区科学技术委员会 · Government · Qingpu) — Xicen "
@@ -158,7 +171,7 @@ msgid ""
 "startup applications. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`青浦区科学技术委员会 <entities/government-qingpu>` （青浦区科学技术委员会 · 政府部门 · 青浦区）—— 西岑联动练秋湖研发中心与科创片区。2025年官方答复讨论早期投资及技术转移，本书不将研究设立的基金视为正在受理的创业项目。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:24
+#: ../../government.rst:25
 msgid ""
 ":doc:`Jinshan science and technology authority "
 "<entities/government-jinshan>` (金山区科技主管部门 · Government · Jinshan) — The "
@@ -168,7 +181,7 @@ msgid ""
 "permissions. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`金山区科技主管部门 <entities/government-jinshan>` （金山区科技主管部门 · 政府部门 · 金山区）—— 2025至2026年园区方案列出金山新材料孵化器、华东无人机基地与湾区孵化载体，衔接检测及产业化；须分别办理园区准入与适用的航空许可。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:25
+#: ../../government.rst:26
 msgid ""
 ":doc:`Fengxian economic commission <entities/government-fengxian>` "
 "(奉贤区经济委员会 · Government · Fengxian) — The robot industry measures cover "
@@ -178,7 +191,7 @@ msgid ""
 "[Status: Published entity; intake to confirm]"
 msgstr ":doc:`奉贤区经济委员会 <entities/government-fengxian>` （奉贤区经济委员会 · 政府部门 · 奉贤区）—— 智能机器人产业措施面向符合条件的注册企业。东方美谷构成另一条美丽健康产业路径。项目须匹配相应主管部门与申报批次。【状态：机构有来源，招募待确认】"
 
-#: ../../government.rst:26
+#: ../../government.rst:27
 msgid ""
 ":doc:`Chongming science and technology authority "
 "<entities/government-chongming>` (崇明区科学技术委员会 · Government · Chongming) — "

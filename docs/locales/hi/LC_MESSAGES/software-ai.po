@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -44,7 +44,7 @@ msgid ""
 "operator's actual buyer relationships with the industry requirements. For "
 "an independent founder, check the current Yangpu OPC community policy and "
 "Changning's published carriers."
-msgstr "मॉडल इंजीनियरिंग और डेवलपर संपर्कों के लिए, मॉडल स्पीड स्पेस (Model Speed Space), झांगजियांग मॉडल कम्युनिटी (Zhangjiang Model Community), शंघाई AI प्रयोगशाला संसाधनों या किसी प्रासंगिक विश्वविद्यालय समूह से शुरुआत करें। एंटरप्राइज परिनियोजन के लिए, संचालक के वास्तविक खरीदार संबंधों की तुलना उद्योग की आवश्यकताओं से करें। एक स्वतंत्र संस्थापक के लिए, वर्तमान यांगपू OPC समुदाय नीति और चांगनिंग के प्रकाशित कैरियर्स की जाँच करें।"
+msgstr "मॉडल इंजीनियरिंग और डेवलपर संपर्कों के लिए, मॉडल स्पीड स्पेस (Model Speed Space), झांगजियांग मॉडल कम्युनिटी (Zhangjiang Model Community), शंघाई AI प्रयोगशाला संसाधनों या किसी प्रासंगिक विश्वविद्यालय समूह से शुरुआत करें। एंटरप्राइज परिनियोजन के लिए, संचालक के वास्तविक खरीदार संबंधों की तुलना उद्योग की आवश्यकताओं से करें। एक स्वतंत्र संस्थापक के लिए, वर्तमान यांगपू OPC समुदाय नीति और चांगनिंग के प्रकाशित स्टार्टअप सहायता केंद्रों की जाँच करें।"
 
 #: ../../software-ai.rst:15
 msgid ""
@@ -103,7 +103,7 @@ msgstr "यह परिभाषित करें कि सेवा एक 
 
 #: ../../software-ai.rst:31
 msgid ""
-"`Evidence S104 "
+"`Evidence S111 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
 "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
-msgstr "`साक्ष्य S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`साक्ष्य S111 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."

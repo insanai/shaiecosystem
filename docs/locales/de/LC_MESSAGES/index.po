@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:42+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../index.rst:1
 msgid "Shanghai Ecosystem Atlas"
-msgstr "Shanghai Ecosystem Atlas"
+msgstr "Shanghai: Innovationsatlas"
 
 #: ../../index.rst:4
 msgid ""
@@ -28,27 +28,26 @@ msgstr "Die Perle des Orients. Ein Praxisleitfaden für Forschung, Unternehmertu
 
 #: ../../index.rst:6
 msgid ""
-"An illustrated English and Simplified Chinese guide for accelerators, "
-"founders, researchers and AI enthusiasts. Explore Shanghai's 16 "
-"administrative districts, 40 undergraduate universities, 29 diploma "
-"colleges, 12 adult higher-education institutions, software and hardware "
-"AI carriers, and the practical routes to support."
-msgstr "Ein illustrierter englisch- und chinesischsprachiger Leitfaden für Acceleratoren, Gründer, Wissenschaftler und KI-Begeisterte. Entdecken Sie Schanghais 16 Verwaltungsbezirke, 40 Universitäten, 29 tertiäre Fachkollegs, 12 Einrichtungen der Erwachsenenbildung, Träger für Software- und Hardware-KI sowie praxiserprobte Wege zu Fördermitteln."
+"An illustrated guide in seven languages for accelerators, founders, "
+"researchers and AI enthusiasts. It connects Shanghai's universities, "
+"software and hardware AI communities, and practical routes to support "
+"across all 16 districts."
+msgstr "Ein illustrierter Leitfaden in sieben Sprachen für Acceleratoren, Gründer, Forschende und KI-Interessierte. Er verbindet Shanghais Hochschulen, Software- und Hardware-KI-Communitys sowie praktische Förderwege in allen 16 Bezirken."
 
 #: ../../index.rst:8
 msgid ""
-"Research edition: 2026-11-04. 125 organization profiles. 45 funding "
-"routes. 16 districts. 133 cited sources."
-msgstr "Forschungsausgabe: 2026-11-04. 125 Organisationsprofile. 45 Förderwege. 16 Bezirke. 133 zitierte Quellen."
+"Research edition: 2026-11-04. 131 organization profiles. 50 funding "
+"routes. 16 districts. 140 cited sources."
+msgstr "Forschungsausgabe: 2026-11-04. 131 Organisationsprofile. 50 Förderwege. 16 Bezirke. 140 zitierte Quellen."
 
 #: ../../index.rst:10
 msgid ""
 "Written by **Vikrant Rathore** with contributions from **Lauren Zhao, "
 "Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. "
-"Produced using **Guidedog** as a unified bilingual **HTML and PDF** "
+"Produced using **Guidedog** as a unified seven-language **HTML and PDF** "
 "publication inspired by Shanghai's official flower, the white magnolia "
 "(*Yulania denudata*)."
-msgstr "Verfasst von **Vikrant Rathore** unter Mitwirkung von **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu**. Produziert mit **Guidedog** als einheitliche zweisprachige **HTML- und PDF**-Publikation, inspiriert von Schanghais offizieller Stadtblume, der weißen Magnolie (*Yulania denudata*)."
+msgstr "Verfasst von **Vikrant Rathore** unter Mitwirkung von **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore und Emily Yue Xu**. Produziert mit **Guidedog** als einheitliche siebensprachige **HTML- und PDF**-Publikation, inspiriert von Shanghais offizieller Stadtblume, der weißen Magnolie (*Yulania denudata*)."
 
 #: ../../index.rst:12
 msgid ""
@@ -59,7 +58,7 @@ msgstr ":doc:`Den interaktiven Atlas erkunden <atlas>` | :doc:`Alle 16 Bezirke d
 
 #: ../../index.rst:16
 msgid "All 16 administrative districts of Shanghai"
-msgstr "Alle 16 Verwaltungsbezirke von Schanghai"
+msgstr "Alle 16 Verwaltungsbezirke von Shanghai"
 
 #: ../../index.rst:19
 msgid ""
@@ -67,22 +66,22 @@ msgid ""
 "and the PDF book with its documented industrial focus, receiving "
 "government authority, local innovation carriers, universities and "
 "district funding routes:"
-msgstr "Jeder Verwaltungsbezirk Schanghais wird sowohl auf der Website als auch im PDF-Buch mit seinen dokumentierten Branchenschwerpunkten, zuständigen Fachbehörden, lokalen Innovationszentren, Universitäten und bezirklichen Förderprogrammen vorgestellt:"
+msgstr "Jeder Verwaltungsbezirk Shanghais wird sowohl auf der Website als auch im PDF-Buch mit seinen dokumentierten Branchenschwerpunkten, zuständigen Fachbehörden, lokalen Innovationszentren, Universitäten und bezirklichen Förderprogrammen vorgestellt:"
 
 #: ../../index.rst:21
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
-"Science, Technology and Economy Commission. (38 organizations, 3 district "
+"Science, Technology and Economy Commission. (40 organizations, 4 district "
 "funding routes)"
-msgstr "**[01]** :doc:`Neuer Stadtbezirk Pudong <districts/pudong>` (浦东新区) — **Basismodelle, Halbleiter, Biomedizin und moderne Fertigung**. Kommission für Wissenschaft, Technologie und Wirtschaft von Pudong. (38 / 3)"
+msgstr "**[01]** :doc:`Neuer Stadtbezirk Pudong <districts/pudong>` (浦东新区) — **Basismodelle, Halbleiter, Biomedizin und moderne Fertigung**. Kommission für Wissenschaft, Technologie und Wirtschaft von Pudong. (40 / 4)"
 
 #: ../../index.rst:22
 msgid ""
 "**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
 "embodied AI and research commercialization**. Authority: Xuhui industry "
-"development authority. (7 organizations, 1 district funding routes)"
-msgstr "**[02]** :doc:`Bezirk Xuhui <districts/xuhui>` (徐汇区) — **Basismodelle, verkörperte KI und Verwertung von Forschungsergebnissen**. Behörde für Industrieentwicklung von Xuhui. (7 / 1)"
+"development authority. (9 organizations, 2 district funding routes)"
+msgstr "**[02]** :doc:`Bezirk Xuhui <districts/xuhui>` (徐汇区) — **Basismodelle, verkörperte KI und Verwertung von Forschungsergebnissen**. Behörde für Industrieentwicklung von Xuhui. (9 / 2)"
 
 #: ../../index.rst:23
 msgid ""
@@ -208,7 +207,7 @@ msgid ""
 ":doc:`Explore the Shanghai ecosystem <atlas>` — Interactive 16-district "
 "vector map, bilingual search, sector and equity filters, shortlist and "
 "CSV export."
-msgstr ":doc:`Das Schanghaier Innovationsökosystem entdecken <atlas>` — Interaktive Vektorkarte aller 16 Bezirke, zweisprachige Suche, Filter nach Branchen und Beteiligungsanforderungen, Merkliste und CSV-Export."
+msgstr ":doc:`Das Shanghaier Innovationsökosystem entdecken <atlas>` — Interaktive Vektorkarte aller 16 Bezirke, zweisprachige Suche, Filter nach Branchen und Beteiligungsanforderungen, Merkliste und CSV-Export."
 
 #: ../../index.rst:43
 msgid ""
@@ -229,14 +228,14 @@ msgid ""
 ":doc:`Sixteen districts, sixteen entry routes <districts>` — Dedicated "
 "chapter for each of Shanghai's 16 districts with receiving authorities, "
 "policy boundaries, local carriers and funding."
-msgstr ":doc:`Sechzehn Bezirke, sechzehn Zugangswege <districts>` — Eigenständiges Kapitel für jeden der 16 Schanghaier Bezirke mit zuständigen Behörden, Richtliniengrenzen, lokalen Trägern und Förderprogrammen."
+msgstr ":doc:`Sechzehn Bezirke, sechzehn Zugangswege <districts>` — Eigenständiges Kapitel für jeden der 16 Shanghaier Bezirke mit zuständigen Behörden, Richtliniengrenzen, lokalen Trägern und Förderprogrammen."
 
 #: ../../index.rst:46
 msgid ""
 ":doc:`Universities and commercialization <universities>` — Profiles for "
 "all 40 undergraduate universities in Shanghai with MOE codes, "
 "collaboration themes and tech-transfer contacts."
-msgstr ":doc:`Universitäten und Verwertung <universities>` — Profile aller 40 Universitäten mit Bachelor-Abschluss in Schanghai inklusive MOE-Codes, Forschungsschwerpunkten und Kontakten für Technologietransfer."
+msgstr ":doc:`Universitäten und Verwertung <universities>` — Profile aller 40 Universitäten mit Bachelor-Abschluss in Shanghai inklusive MOE-Codes, Forschungsschwerpunkten und Kontakten für Technologietransfer."
 
 #: ../../index.rst:47
 msgid ""
@@ -250,7 +249,7 @@ msgid ""
 ":doc:`Incubators, accelerators and parks <incubation>` — 28 researched "
 "incubators, accelerators and technology parks across Shanghai with "
 "admission checklists and operator details."
-msgstr ":doc:`Inkubatoren, Acceleratoren und Parks <incubation>` — 38 recherchierte Inkubatoren, Acceleratoren und Technologieparks in ganz Schanghai mit Aufnahme-Checklisten und Betreiberdetails."
+msgstr ":doc:`Inkubatoren, Acceleratoren und Parks <incubation>` — 38 recherchierte Inkubatoren, Acceleratoren und Technologieparks in ganz Shanghai mit Aufnahme-Checklisten und Betreiberdetails."
 
 #: ../../index.rst:49
 msgid ""
@@ -291,7 +290,7 @@ msgid ""
 ":doc:`Investors and patient capital <investors>` — STEFG Angel Fund, "
 "Shanghai Leading Industry Funds, Pudong AI Seed Fund, Embodied AI Fund, "
 "STVC and Qiming Venture Partners."
-msgstr ":doc:`Investoren und geduldiges Kapital <investors>` — STEFG Angel Fund, Schanghaier Leitbranchenfonds, Pudong AI Seed Fund, Embodied AI Fund, STVC und Qiming Venture Partners."
+msgstr ":doc:`Investoren und langfristiges Kapital <investors>` — STEFG Angel Fund, Shanghaier Leitbranchenfonds, Pudong AI Seed Fund, Embodied AI Fund, STVC und Qiming Venture Partners."
 
 #: ../../index.rst:55
 msgid ""

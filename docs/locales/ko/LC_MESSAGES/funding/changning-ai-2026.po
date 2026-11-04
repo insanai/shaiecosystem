@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -26,13 +26,13 @@ msgstr "보조금 | 창닝구"
 
 #: ../../funding/changning-ai-2026.rst:6
 msgid "Closed"
-msgstr "모집 마감"
+msgstr "접수 마감"
 
 #: ../../funding/changning-ai-2026.rst:8
 msgid ""
-"`Evidence S107 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. "
+"`Evidence S115 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. "
 "上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
-msgstr "`근거 S107 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. 上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
+msgstr "`근거 S115 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. 上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
 
 #: ../../funding/changning-ai-2026.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "창닝구 산업 특화 정책에 따른 프로젝트 평가 기반의 �
 
 #: ../../funding/changning-ai-2026.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/changning-ai-2026.rst:17
 msgid "Eligibility and timing"
@@ -56,7 +56,7 @@ msgid ""
 "Lawfully established Changning legal or non-legal-person organizations "
 "with normal operations and good credit. The call covers multiple AI, "
 "software, technology-service and market-development directions."
-msgstr "창닝구에 등록 및 세무 관계를 두고 AI 알고리즘, 스마트 비즈니스 솔루션을 구현하는 혁신 기업."
+msgstr "창닝구에 적법하게 설립되어 정상 운영 중이며 신용 상태가 양호한 법인 및 비법인 조직이 대상입니다. AI, 소프트웨어, 기술 서비스, 시장 개척 등 여러 지원 분야를 포함합니다."
 
 #: ../../funding/changning-ai-2026.rst:22
 msgid "Closed 30 June 2026"

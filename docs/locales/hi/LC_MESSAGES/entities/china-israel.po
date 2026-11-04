@@ -38,7 +38,7 @@ msgid ""
 "manufacturing, AI, robotics and information technology. It supports "
 "market, capital and industrial connections; the listing does not "
 "guarantee cash support."
-msgstr "इंटेलिजेंट विनिर्माण, AI, रोबोटिक्स और सूचना प्रौद्योगिकी में अंतर्राष्ट्रीय सहयोग के लिए जिला-सूचीबद्ध कैरियर। यह बाजार, पूंजी और औद्योगिक संपर्कों का समर्थन करता है; सूचीबद्ध होने से नकद सहायता की गारंटी नहीं मिलती है।"
+msgstr "इंटेलिजेंट विनिर्माण, AI, रोबोटिक्स और सूचना प्रौद्योगिकी में अंतर्राष्ट्रीय सहयोग के लिए जिला-सूचीबद्ध स्टार्टअप सहायता केंद्र। यह बाजार, पूंजी और औद्योगिक संपर्कों का समर्थन करता है; सूचीबद्ध होने से नकद सहायता की गारंटी नहीं मिलती है।"
 
 #: ../../entities/china-israel.rst:12
 msgid ""
@@ -53,7 +53,7 @@ msgstr "स्थिति और सहायता"
 
 #: ../../entities/china-israel.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
 
 #: ../../entities/china-israel.rst:19
 msgid ""

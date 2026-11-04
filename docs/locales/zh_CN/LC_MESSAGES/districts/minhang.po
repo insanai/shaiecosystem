@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -34,10 +34,10 @@ msgstr "企业科技创新政策有效期为2025年9月1日至2030年8月31日�
 
 #: ../../districts/minhang.rst:8
 msgid ""
-"`Evidence S091 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`证据 S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`证据 S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../districts/minhang.rst:10
 msgid "Who receives the inquiry"
@@ -164,7 +164,7 @@ msgstr ":doc:`上海交通大学 </entities/university-sjtu>` （上海交通大
 
 #: ../../districts/minhang.rst:44
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/minhang.rst:47
 msgid ""
@@ -185,7 +185,7 @@ msgstr ":doc:`闵行关键核心技术攻关 </funding/minhang-rd>` （闵行关
 
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ":doc:`Grand neoBay / Zero Kilometer Incubator </entities/neobay>`"
 #~ msgstr ":doc:`大零号湾／零公里孵化器 </entities/neobay>`"

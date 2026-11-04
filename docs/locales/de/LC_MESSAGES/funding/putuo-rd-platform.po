@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -30,10 +30,10 @@ msgstr "Ausschreibung 2026 veröffentlicht; nicht nachweislich geöffnet"
 
 #: ../../funding/putuo-rd-platform.rst:8
 msgid ""
-"`Evidence S111 "
+"`Evidence S119 "
 "<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. "
 "关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
-msgstr "`Nachweis S111 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+msgstr "`Nachweis S119 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
 
 #: ../../funding/putuo-rd-platform.rst:10
 msgid "Amount and mechanism"
@@ -58,7 +58,7 @@ msgid ""
 "Lawfully established, good-credit legal or non-legal-person organizations "
 "building qualifying R&D platforms. Online registration requires district "
 "review; credit commitments and prescribed materials are required."
-msgstr "Rechtmäßig gegründete Organisationen mit guter Bonität, die qualifizierte F&E-Plattformen aufbauen. Die Online-Registrierung erfordert eine bezirkliche Prüfung; Bonitätsverpflichtungen und vorgeschriebene Nachweise sind einzureichen."
+msgstr "Rechtmäßig gegründete Organisationen mit oder ohne Rechtspersönlichkeit und guter Bonität, die förderfähige F&E-Plattformen aufbauen. Online-Registrierung nach Prüfung durch den Bezirk; Bonitätserklärungen und vorgeschriebene Unterlagen erforderlich."
 
 #: ../../funding/putuo-rd-platform.rst:22
 msgid "Confirm the deadline in the September 2026 notice"

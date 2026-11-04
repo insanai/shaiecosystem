@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -33,10 +33,10 @@ msgstr "区全域でロボットおよび先端機器の産業クラスターを
 
 #: ../../districts/baoshan.rst:8
 msgid ""
-"`Evidence S092 "
+"`Evidence S099 "
 "<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. "
 "机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
-msgstr "`出典 S092 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
+msgstr "`出典 S099 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_. 机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律."
 
 #: ../../districts/baoshan.rst:10
 msgid "Who receives the inquiry"
@@ -133,7 +133,7 @@ msgid ""
 "Potential equity conversion; review contract) — Amount and conversion "
 "terms require the actual project guide and agreement. Status: Closed. "
 "Timing: Closed 10 February 2026."
-msgstr ":doc:`宝山区先投後股（先行投資・後日株式転換）プロジェクト公募 </funding/baoshan-conversion>` （宝山先投后股项目征集 · 転換型支援（コンバーチブル） · 株式転換の可能性あり（契約要確認））— 助成額および株式転換条件は、個別のプロジェクト募集要領および投資契約に従う。ステータス：受付終了。時期：2026年2月10日に公募終了。"
+msgstr ":doc:`宝山区先投後股（先行投資・後日株式転換）プロジェクト公募 </funding/baoshan-conversion>` （宝山先投后股项目征集 · 転換型支援（コンバーチブル） · 株式転換の可能性あり（契約要確認））— 助成額および株式転換条件は、個別のプロジェクト募集要領および投資契約に従う。ステータス：募集終了。時期：2026年2月10日に公募終了。"
 
 #: ../../districts/baoshan.rst:45
 msgid ":doc:`Also compare citywide funding </funding>`"

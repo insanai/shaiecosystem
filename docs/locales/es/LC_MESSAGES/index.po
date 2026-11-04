@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:42+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -28,24 +28,23 @@ msgstr "La Perla de Oriente. Una guía de campo sobre investigación, empresa y 
 
 #: ../../index.rst:6
 msgid ""
-"An illustrated English and Simplified Chinese guide for accelerators, "
-"founders, researchers and AI enthusiasts. Explore Shanghai's 16 "
-"administrative districts, 40 undergraduate universities, 29 diploma "
-"colleges, 12 adult higher-education institutions, software and hardware "
-"AI carriers, and the practical routes to support."
-msgstr "Una guía ilustrada para aceleradoras, fundadores, investigadores y profesionales de la IA. Explore los 16 distritos administrativos de Shanghái, sus 40 universidades de grado, 29 institutos superiores técnico-profesionales, 12 instituciones de educación superior para adultos, los centros de IA de software y hardware y las vías prácticas para obtener apoyo."
+"An illustrated guide in seven languages for accelerators, founders, "
+"researchers and AI enthusiasts. It connects Shanghai's universities, "
+"software and hardware AI communities, and practical routes to support "
+"across all 16 districts."
+msgstr "Una guía ilustrada en siete idiomas para aceleradoras, fundadores, investigadores y personas interesadas en la IA. Conecta universidades, comunidades de IA de software y hardware, y vías prácticas de apoyo en los 16 distritos de Shanghái."
 
 #: ../../index.rst:8
 msgid ""
-"Research edition: 2026-11-04. 125 organization profiles. 45 funding "
-"routes. 16 districts. 133 cited sources."
-msgstr "Edición de investigación: 2026-11-04. 125 perfiles de organizaciones. 45 vías de financiación. 16 distritos. 133 fuentes citadas."
+"Research edition: 2026-11-04. 131 organization profiles. 50 funding "
+"routes. 16 districts. 140 cited sources."
+msgstr "Edición de investigación: 2026-11-04. 131 perfiles de organizaciones. 50 vías de financiación. 16 distritos. 140 fuentes citadas."
 
 #: ../../index.rst:10
 msgid ""
 "Written by **Vikrant Rathore** with contributions from **Lauren Zhao, "
 "Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. "
-"Produced using **Guidedog** as a unified bilingual **HTML and PDF** "
+"Produced using **Guidedog** as a unified seven-language **HTML and PDF** "
 "publication inspired by Shanghai's official flower, the white magnolia "
 "(*Yulania denudata*)."
 msgstr "Escrito por **Vikrant Rathore** con las contribuciones de **Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore y Emily Yue Xu**. Producido mediante **Guidedog** como una publicación unificada en **HTML y PDF** inspirada en la flor oficial de Shanghái, la magnolia blanca (*Yulania denudata*)."
@@ -73,16 +72,16 @@ msgstr "Cada uno de los distritos administrativos de Shanghái está cubierto ta
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
-"Science, Technology and Economy Commission. (38 organizations, 3 district "
+"Science, Technology and Economy Commission. (40 organizations, 4 district "
 "funding routes)"
-msgstr "**[01]** :doc:`Nueva Área de Pudong <districts/pudong>` (浦东新区) — **Modelos fundacionales, chips, biomedicina y fabricación avanzada**. Comisión de Ciencia, Tecnología y Economía de Pudong. (38 / 3)"
+msgstr "**[01]** :doc:`Nueva Área de Pudong <districts/pudong>` (浦东新区) — **Modelos fundacionales, chips, biomedicina y fabricación avanzada**. Comisión de Ciencia, Tecnología y Economía de Pudong. (40 / 4)"
 
 #: ../../index.rst:22
 msgid ""
 "**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
 "embodied AI and research commercialization**. Authority: Xuhui industry "
-"development authority. (7 organizations, 1 district funding routes)"
-msgstr "**[02]** :doc:`Distrito de Xuhui <districts/xuhui>` (徐汇区) — **Modelos fundacionales, IA corporeizada y comercialización de investigación**. Autoridad de desarrollo industrial de Xuhui. (7 / 1)"
+"development authority. (9 organizations, 2 district funding routes)"
+msgstr "**[02]** :doc:`Distrito de Xuhui <districts/xuhui>` (徐汇区) — **Modelos fundacionales, IA corporeizada y comercialización de investigación**. Autoridad de desarrollo industrial de Xuhui. (9 / 2)"
 
 #: ../../index.rst:23
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -30,9 +30,9 @@ msgstr "Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich"
 
 #: ../../funding/huangpu-credit-directory.rst:8
 msgid ""
-"`Evidence S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
+"`Evidence S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
 "黄浦区融资信用服务平台-银行产品."
-msgstr "`Nachweis S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
+msgstr "`Nachweis S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
 
 #: ../../funding/huangpu-credit-directory.rst:10
 msgid "Amount and mechanism"
@@ -41,7 +41,7 @@ msgstr "Förderhöhe und Mechanismus"
 #: ../../funding/huangpu-credit-directory.rst:13
 msgid ""
 "Product-specific bank credit, startup guarantee and IP-backed finance"
-msgstr "Zinsvergünstigte Kredite, Risikokompensationen und Bürgschaften der teilnehmenden Geschäftsbanken"
+msgstr "Bankkredite, Gründungsbürgschaften und IP-besicherte Finanzierung nach den Bedingungen des jeweiligen Produkts"
 
 #: ../../funding/huangpu-credit-directory.rst:15
 msgid "No equity; repayable"
@@ -56,7 +56,7 @@ msgid ""
 "Select the actual bank product on the official district platform. Credit "
 "eligibility, guarantee, rates, fees, collateral and repayment depend on "
 "the lender and company; the directory is not an approval."
-msgstr "In Huangpu ansässige Unternehmen, insbesondere aus den Branchen Finanztechnologie, professionelle Dienstleistungen, Konsumtechnologie und digitale Medien, die festgelegte Bonitätsanforderungen erfüllen."
+msgstr "Konkretes Bankprodukt auf der offiziellen Bezirksplattform auswählen. Kreditberechtigung, Bürgschaft, Zinsen, Gebühren, Sicherheiten und Rückzahlung hängen von Kreditgeber und Unternehmen ab. Ein Verzeichniseintrag ist keine Kreditzusage."
 
 #: ../../funding/huangpu-credit-directory.rst:22
 msgid "Product-specific; confirm current lender terms"

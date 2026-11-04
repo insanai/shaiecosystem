@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -25,7 +25,7 @@ msgid ""
 "A useful application starts with a fit check and ends with an evidence "
 "trail. We keep one company data room, then adapt it to an incubation "
 "review, a public funding call, a corporate pilot or an investment process."
-msgstr "Eine erfolgversprechende Bewerbung beginnt mit der Passgenauigkeitsprüfung und endet mit einer lückenlosen Dokumentenkette. Wir pflegen einen zentralen Datenraum für das Unternehmen und passen ihn gezielt an Inkubationsprüfungen, öffentliche Förderausschreibungen, Firmenpiloten oder Investorenprozesse an."
+msgstr "Eine erfolgversprechende Bewerbung beginnt mit der Prüfung der Programmeignung und endet mit einer nachvollziehbaren Dokumentation. Wir pflegen einen zentralen Datenraum für das Unternehmen und passen ihn gezielt an Inkubationsprüfungen, öffentliche Förderausschreibungen, Firmenpiloten oder Investorenprozesse an."
 
 #: ../../apply.rst:7
 msgid ""
@@ -43,7 +43,7 @@ msgid ""
 "Shanghai presence and the exact resource requested. We ask for the named "
 "receiving team and written current terms. A first message should be small "
 "enough to forward to the right person."
-msgstr "Wir versenden eine einseitige Kurzvorstellung auf Englisch und vereinfachtem Chinesisch: Unternehmen und Gründerteam, Kundenproblem, Produkt, Nachweise, Entwicklungsphase, lokale Präsenz in Schanghai und die konkret nachgefragte Ressource. Wir bitten um Nennung des zuständigen Bearbeiterteams und die aktuellen schriftlichen Konditionen. Eine Erstnachricht sollte so kompakt sein, dass sie intern mühelos an die zuständige Person weitergeleitet werden kann."
+msgstr "Wir versenden eine einseitige Kurzvorstellung auf Englisch und vereinfachtem Chinesisch: Unternehmen und Gründerteam, Kundenproblem, Produkt, Nachweise, Entwicklungsphase, lokale Präsenz in Shanghai und die konkret nachgefragte Ressource. Wir bitten um Nennung des zuständigen Bearbeiterteams und die aktuellen schriftlichen Konditionen. Eine Erstnachricht sollte so kompakt sein, dass sie intern mühelos an die zuständige Person weitergeleitet werden kann."
 
 #: ../../apply.rst:15
 msgid ""
@@ -76,7 +76,7 @@ msgid ""
 "and the 2026 Regulations Encouraging Overseas Returnees to Work and Start "
 "Businesses in Shanghai. Confirm host-park endorsement and immigration "
 "requirements separately from grant eligibility."
-msgstr "Für internationale Gründer und aus dem Ausland zurückkehrende Fachkräfte veröffentlicht Schanghai gesonderte Richtlinien für die Beantragung der Arbeitserlaubnis für Ausländer (Kategorie A/B) während der Gründungsphase, Aufenthaltsgenehmigungen für Fachkräfte aus Übersee sowie die Bestimmungen von 2026 zur Förderung von Rückkehrern bei Arbeit und Unternehmensgründung in Schanghai. Die Bestätigung des betreuenden Technologieparks und aufenthaltsrechtliche Vorgaben sind unabhängig von der Förderfähigkeit zu prüfen."
+msgstr "Für internationale Gründer und aus dem Ausland zurückkehrende Fachkräfte veröffentlicht Shanghai gesonderte Richtlinien für die Beantragung der Arbeitserlaubnis für Ausländer (Kategorie A/B) während der Gründungsphase, Aufenthaltsgenehmigungen für Fachkräfte aus Übersee sowie die Bestimmungen von 2026 zur Förderung von Rückkehrern bei Arbeit und Unternehmensgründung in Shanghai. Die Bestätigung des betreuenden Technologieparks und aufenthaltsrechtliche Vorgaben sind unabhängig von der Förderfähigkeit zu prüfen."
 
 #: ../../apply.rst:24
 msgid ""
@@ -143,15 +143,15 @@ msgstr "Wir führen ein Antragsjournal mit Projektverantwortlichem, Bewilligungs
 
 #: ../../apply.rst:42
 msgid ""
-"`Evidence S130 "
+"`Evidence S138 "
 "<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. "
 "Guide for foreign talent and team members (Category A/B) applying for a "
 "Foreigner's Work Permit during the startup phase_Latest."
-msgstr "`Nachweis S130 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest."
+msgstr "`Nachweis S138 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest."
 
 #: ../../apply.rst:44
 msgid ""
-"`Evidence S131 "
+"`Evidence S080 "
 "<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. "
 "上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
-msgstr "`Nachweis S131 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+msgstr "`Nachweis S080 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."

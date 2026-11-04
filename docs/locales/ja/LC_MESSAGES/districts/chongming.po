@@ -108,7 +108,7 @@ msgid ""
 "matching smart agriculture, ecological sensing and marine technology "
 "projects to a concrete carrier. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`張江ハイテクパーク崇明園 </entities/chongming-park>` （张江高新区崇明园 · テクノロジーパーク · 気候・環境、農業・アグリテック）— 2025〜2026年改革計画により生態系イノベーションの枠組みを構築。スマート農業、環境センシング、海洋工学プロジェクトについて、区の主管部門を通じて具体的な受け入れキャリアとのマッチングを行う。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`張江ハイテクパーク崇明園 </entities/chongming-park>` （张江高新区崇明园 · テクノロジーパーク · 気候・環境、農業・アグリテック）— 2025〜2026年改革計画により生態系イノベーションの枠組みを構築。スマート農業、環境センシング、海洋工学プロジェクトについて、区の主管部門を通じて具体的な受け入れ拠点とのマッチングを行う。［ステータス：公表済み組織（公募状況の確認要）］"
 
 #: ../../districts/chongming.rst:38
 msgid ""
@@ -133,7 +133,7 @@ msgid ""
 "project. Status: Policy in force; call not confirmed open. Timing: "
 "Policy: 1 August to 31 December 2026, with qualifying cases since 1 "
 "January; confirm intake."
-msgstr ":doc:`2026年崇明区アーリーステージ企業発展ブースト補助金 </funding/chongming-startup-2026>` （2026崇明初创助力发展补贴 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 区の審査で優秀と評価された適格な初期創業プロジェクトに対し、最大10万元。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2026年8月1日〜12月31日（2026年1月1日以降の該当案件も参照適用、受付状況を確認のこと）。"
+msgstr ":doc:`2026年崇明区アーリーステージ企業発展ブースト補助金 </funding/chongming-startup-2026>` （2026崇明初创助力发展补贴 · 助成金・補助金 · 株式の提供不要）— 区の審査で優秀と評価された適格な初期創業プロジェクトに対し、最大10万元。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2026年8月1日〜12月31日（2026年1月1日以降の該当案件も参照適用、受付状況を確認のこと）。"
 
 #: ../../districts/chongming.rst:44
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -34,10 +34,10 @@ msgstr "기업 과학기술 혁신 정책의 유효기간은 2025년 9월 1일�
 
 #: ../../districts/minhang.rst:8
 msgid ""
-"`Evidence S091 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`근거 S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`근거 S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../districts/minhang.rst:10
 msgid "Who receives the inquiry"
@@ -173,7 +173,7 @@ msgid ""
 "conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; "
 "up to 50% of investment. Status: Policy in force; call not confirmed "
 "open. Timing: Policy: 1 Sep 2025 to 31 Aug 2030."
-msgstr ":doc:`민항구 과학기술 성과 상용화 지원 </funding/minhang-conversion>` (闵行科技成果转化支持 · 보조금 · 지분 취득 없음) — 신설 상용화 기업 대상: 연간 최대 50만 위안, 3년간 누적 최대 150만 위안, 적격 상용화 투자액의 최대 50%. 상태: 정책 시행 중; 공고 접수 개시 미확인. 일정: 정책 유효기간: 2025년 9월 1일 ~ 2030년 8월 31일."
+msgstr ":doc:`민항구 과학기술 성과 상용화 지원 </funding/minhang-conversion>` (闵行科技成果转化支持 · 보조금 · 지분 제공 의무 없음) — 신설 상용화 기업 대상: 연간 최대 50만 위안, 3년간 누적 최대 150만 위안, 적격 상용화 투자액의 최대 50%. 상태: 정책 시행 중; 공고 접수 개시 미확인. 일정: 정책 유효기간: 2025년 9월 1일 ~ 2030년 8월 31일."
 
 #: ../../districts/minhang.rst:48
 msgid ""
@@ -181,7 +181,7 @@ msgid ""
 "(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
 "R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
 "confirmed open. Timing: Policy through 31 Aug 2030."
-msgstr ":doc:`민항구 핵심 기술 연구개발 프로젝트 </funding/minhang-rd>` (闵行关键核心技术攻关 · 보조금 · 지분 취득 없음) — 일반 프로젝트: R&D 투자액의 최대 30%, 최대 300만 위안; 중대 프로젝트: 최대 50%, 최대 1,000만 위안. 상태: 정책 시행 중; 공고 접수 개시 미확인. 일정: 정책 유효기간: 2030년 8월 31일까지."
+msgstr ":doc:`민항구 핵심 기술 연구개발 프로젝트 </funding/minhang-rd>` (闵行关键核心技术攻关 · 보조금 · 지분 제공 의무 없음) — 일반 프로젝트: R&D 투자액의 최대 30%, 최대 300만 위안; 중대 프로젝트: 최대 50%, 최대 1,000만 위안. 상태: 정책 시행 중; 공고 접수 개시 미확인. 일정: 정책 유효기간: 2030년 8월 31일까지."
 
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"

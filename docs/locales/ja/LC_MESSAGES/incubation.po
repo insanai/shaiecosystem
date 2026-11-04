@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -22,9 +22,9 @@ msgstr "インキュベーター、アクセラレーター、サイエンスパ
 
 #: ../../incubation.rst:4
 msgid ""
-"42 profiles with evidence, contact routes and an application checklist. "
+"44 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "出典、連絡ルート、申請チェックリスト付きの 42 件のプロファイル。機関の存在と現在の募集状況は区別して記載しています。"
+msgstr "出典、連絡ルート、申請チェックリスト付きの 44 件のプロファイル。機関の存在と現在の募集状況は区別して記載しています。"
 
 #: ../../incubation.rst:8
 msgid "Complete directory summary"
@@ -182,7 +182,7 @@ msgid ""
 "and OPC communities. We treat this record as a district routing entry, "
 "not a single interchangeable operator or a guaranteed free-workspace "
 "offer. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`デジタル・シリコンアレイ／虹橋イノベーションキャリア <entities/digital-silicon>` (数字硅巷／虹桥创新载体 · インキュベーター · 長寧区 · ソフトウェアAI) — 長寧区が整備する階層的なデジタルインキュベーションおよびスーパーインディビジュアル（OPC／一人起業家）向けコミュニティ群。本項目は区の総合窓口案内であり、各運営主体を一括りにしたり無償デスクを保証したりするものではない。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`デジタル・シリコンアレイ／虹橋起業支援拠点 <entities/digital-silicon>` (数字硅巷／虹桥创新载体 · インキュベーター · 長寧区 · ソフトウェアAI) — 長寧区が整備する階層的なデジタルインキュベーションおよびスーパーインディビジュアル（OPC／一人起業家）向けコミュニティ群。本項目は区の総合窓口案内であり、各運営主体を一括りにしたり無償デスクを保証したりするものではない。 [公表済み組織（公募状況の確認要）]"
 
 #: ../../incubation.rst:26
 msgid ""
@@ -291,7 +291,7 @@ msgid ""
 "the district authority for matching smart agriculture, ecological sensing "
 "and marine technology projects to a concrete carrier. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`張江ハイテクパーク崇明園 <entities/chongming-park>` (张江高新区崇明园 · テクノロジーパーク · 崇明区 · 気候・環境、農業・アグリテック) — 2025〜2026年改革計画により生態系イノベーションの枠組みを構築。スマート農業、環境センシング、海洋工学プロジェクトについて、区の主管部門を通じて具体的な受け入れキャリアとのマッチングを行う。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`張江ハイテクパーク崇明園 <entities/chongming-park>` (张江高新区崇明园 · テクノロジーパーク · 崇明区 · 気候・環境、農業・アグリテック) — 2025〜2026年改革計画により生態系イノベーションの枠組みを構築。スマート農業、環境センシング、海洋工学プロジェクトについて、区の主管部門を通じて具体的な受け入れ拠点とのマッチングを行う。 [公表済み組織（公募状況の確認要）]"
 
 #: ../../incubation.rst:37
 msgid ""
@@ -386,7 +386,7 @@ msgid ""
 "Hi-Tech Park, Daning and Suhewan. Confirm the specific carrier operator, "
 "data-compliance services and tenancy terms. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`市北ハイテクパーク／数通鏈谷＆大寧イノベーションキャリア <entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · テクノロジーパーク · 静安区 · ソフトウェアAI、産業・インダストリー) — 静安区の2026〜2028年AI実証区計画に基づき、市北ハイテクパーク、数通鏈谷（ブロックチェーンバレー）、大寧、蘇河湾にビッグデータ、ブロックチェーン、クラウド、企業向けAI拠点を集積。具体的運営者、データコンプライアンス支援、入居条件を確認のこと。 [公表済み組織（公募状況の確認要）]"
+msgstr ":doc:`市北ハイテクパーク／数通鏈谷＆大寧起業支援拠点 <entities/shibei-valley>` (市北高新园区／数通链谷与大宁科创载体 · テクノロジーパーク · 静安区 · ソフトウェアAI、産業・インダストリー) — 静安区の2026〜2028年AI実証区計画に基づき、市北ハイテクパーク、数通鏈谷（ブロックチェーンバレー）、大寧、蘇河湾にビッグデータ、ブロックチェーン、クラウド、企業向けAI拠点を集積。具体的運営者、データコンプライアンス支援、入居条件を確認のこと。 [公表済み組織（公募状況の確認要）]"
 
 #: ../../incubation.rst:46
 msgid ""
@@ -461,3 +461,28 @@ msgid ""
 "SMEs, green-shipping digital tools and R&D talent settlement in Hongkou. "
 "[Status: Published entity; intake to confirm]"
 msgstr ":doc:`虹口区科学技術創業センター＆博士ポストドクターイノベーション基地 <entities/hongkou-stec>` (虹口区科技创业中心与博士后创新基地 · インキュベーター · 虹口区 · ソフトウェアAI、産業・インダストリー、気候・環境) — 虹口区直属の公共ハイテク起業センターおよびポスドクイノベーション実践基地。テクノロジー型中小企業、グリーン海運デジタル化ツール、高度研究開発人材の地域定着を支援する。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../incubation.rst:53
+msgid ""
+":doc:`Shanghai Innovation Institute / Beiyang AI founder network "
+"<entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · Incubator · Xuhui · Focus: "
+"Software AI, Hardware AI, AI for Science) — SII and Caohejing jointly "
+"operate the Chuangzhi Future Center for research-led AI founders; Beiyang "
+"AI Accelerator supports later market and supply-chain connections. "
+"Institute-affiliated incubation is not an unrestricted public admission "
+"offer. Ask the operator about affiliation, IP, company formation and "
+"current external-team access. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`上海創智学院／北楊AI起業支援ネットワーク <entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · インキュベーター · 徐匯区 · ソフトウェアAI、ハードウェアAI、科学知能（AI for Science）) — 上海創智学院と漕河涇が共同運営する創智未来センターは、研究を基盤とするAI起業家を支援する。北楊AIアクセラレーターは、その後の市場開拓やサプライチェーンとの連携を担う。学院関連の支援は誰でも応募できる制度ではない。所属要件、知的財産、法人設立、外部チームの受け入れ条件を確認する。 [公表済み組織（公募状況の確認要）]"
+
+#: ../../incubation.rst:54
+msgid ""
+":doc:`Lin-gang Zero Cube OPC community <entities/zero-cube-opc>` "
+"(临港零界魔方OPC社区 · Incubator · Pudong · Focus: Software AI, Hardware AI, "
+"Industry) — A Lin-gang Group community for solo founders and small teams, "
+"with startup and living-service teams and AI-Store resource access. The "
+"August 2026 operator report describes three rent-free office years "
+"followed by two half-price years for qualifying projects. Housing, loans, "
+"vouchers and admission have separate conditions; confirm the current "
+"tenancy contract. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`臨港・零界魔方OPCコミュニティ <entities/zero-cube-opc>` (临港零界魔方OPC社区 · インキュベーター · 浦東新区 · ソフトウェアAI、ハードウェアAI、産業・インダストリー) — 臨港集団が単独創業者や小規模チーム向けに運営し、起業・生活支援とAI-Storeのリソースを提供する。2026年8月の運営報告では、適格案件のオフィス賃料を3年間免除し、その後2年間は半額とする制度を紹介している。住宅、融資、利用券、入居には別々の条件があるため、現行の賃貸契約を確認する。 [公表済み組織（公募状況の確認要）]"

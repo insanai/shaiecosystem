@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -26,14 +26,14 @@ msgstr "보조금 | 펑셴구"
 
 #: ../../funding/fengxian-sme-2026.rst:6
 msgid "Closed"
-msgstr "모집 마감"
+msgstr "접수 마감"
 
 #: ../../funding/fengxian-sme-2026.rst:8
 msgid ""
-"`Evidence S115 "
+"`Evidence S123 "
 "<https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_. "
 "奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告."
-msgstr "`근거 S115 <https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告."
+msgstr "`근거 S123 <https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告."
 
 #: ../../funding/fengxian-sme-2026.rst:10
 msgid "Amount and mechanism"
@@ -43,11 +43,11 @@ msgstr "지원 규모 및 지원 방식"
 msgid ""
 "Up to RMB 250,000; generally two installments, final settlement after "
 "acceptance"
-msgstr "구 중점 기술혁신 과제로 선정된 프로젝트 대상 R&D 자금 지원"
+msgstr "최대 25만 위안; 일반적으로 2회 분할 지급, 사업 완료 심사 후 최종 정산"
 
 #: ../../funding/fengxian-sme-2026.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/fengxian-sme-2026.rst:17
 msgid "Eligibility and timing"
@@ -58,7 +58,7 @@ msgid ""
 "The 2026 key-project call requires prior-year revenue RMB 30m-200m, R&D "
 "at least RMB 1.2m and 4% of revenue, at most 500 employees and at least "
 "10% R&D staff, plus additional conditions."
-msgstr "스마트 로봇, 바이오 의약, 신소재 등 펑셴구 중점 육성 산업 분야의 우수 기술형 중소기업."
+msgstr "2026년 중점 과제 공고 기준으로 전년도 매출 3,000만~2억 위안, R&D 지출 최소 120만 위안 및 매출액의 4% 이상, 직원 500명 이하, R&D 인력 10% 이상이어야 합니다. 추가 요건도 적용됩니다."
 
 #: ../../funding/fengxian-sme-2026.rst:22
 msgid "Online closed 21 June 2026; paper closed 30 June 2026"

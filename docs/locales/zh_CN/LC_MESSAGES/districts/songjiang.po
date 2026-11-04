@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -34,9 +34,9 @@ msgstr "G60科创走廊发布创新与资源对接举措。九城市合作范围
 
 #: ../../districts/songjiang.rst:8
 msgid ""
-"`Evidence S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`证据 S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`证据 S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../districts/songjiang.rst:10
 msgid "Who receives the inquiry"
@@ -184,7 +184,7 @@ msgstr ":doc:`上海视觉艺术学院 </entities/university-siva>` （上海视
 
 #: ../../districts/songjiang.rst:46
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/songjiang.rst:49
 msgid ""
@@ -208,7 +208,7 @@ msgstr ":doc:`2026松江区数据要素专项资金第二批 </funding/songjiang
 
 #: ../../districts/songjiang.rst:52
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ""
 #~ ":doc:`G60 Songjiang Xinchuang Industrial Park "

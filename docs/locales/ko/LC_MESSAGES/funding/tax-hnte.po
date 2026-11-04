@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -22,7 +22,7 @@ msgstr "첨단기술기업(HNTE) 법인세 감면 혜택"
 
 #: ../../funding/tax-hnte.rst:4
 msgid "Tax relief | Citywide / global"
-msgstr "세제 혜택 | 전시 / 글로벌"
+msgstr "세제 혜택 | 상하이 전역 / 글로벌"
 
 #: ../../funding/tax-hnte.rst:6
 msgid "Published tax guidance; recognition required"
@@ -30,10 +30,10 @@ msgstr "세무 지침 공시됨; 공식 기업 인증 필요"
 
 #: ../../funding/tax-hnte.rst:8
 msgid ""
-"`Evidence S099 "
+"`Evidence S106 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
 "上海市“2366”产业税收优惠政策指引."
-msgstr "`근거 S099 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+msgstr "`근거 S106 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
 
 #: ../../funding/tax-hnte.rst:10
 msgid "Amount and mechanism"
@@ -41,11 +41,11 @@ msgstr "지원 규모 및 지원 방식"
 
 #: ../../funding/tax-hnte.rst:13
 msgid "15% corporate income tax for qualifying recognized enterprises"
-msgstr "법인세율을 기본 25%에서 15%로 인하 적용; 결손금 이월 공제 기간 최대 10년 연장"
+msgstr "인증을 받고 요건을 충족한 기업에 법인세율 15% 적용"
 
 #: ../../funding/tax-hnte.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/tax-hnte.rst:17
 msgid "Eligibility and timing"
@@ -55,11 +55,11 @@ msgstr "지원 자격 및 일정"
 msgid ""
 "Recognition and continued compliance are required. Review IP, personnel, "
 "R&D, revenue mix and annual reporting; not all AI companies qualify."
-msgstr "공식 첨단기술기업(HNTE) 인증을 취득한 법인: 핵심 독립 지식재산권, R&D 지출 비중 요건, 첨단기술 제품 매출 비중(60% 이상) 요건 충족 필수."
+msgstr "인증을 받고 계속해서 요건을 충족해야 합니다. 지식재산권, 인력, R&D, 매출 구성 및 연간 보고 요건을 확인해야 하며, 모든 AI 기업이 대상인 것은 아닙니다."
 
 #: ../../funding/tax-hnte.rst:22
 msgid "Recognition batches and annual filing"
-msgstr "연간 상하이시 인증 배치 공고 확인 필요"
+msgstr "인증 차수 및 연례 신고 확인 필요"
 
 #: ../../funding/tax-hnte.rst:24
 msgid "Contact and application"

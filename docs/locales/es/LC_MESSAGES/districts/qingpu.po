@@ -143,7 +143,7 @@ msgid ""
 "— Amount under the applicable digital-economy rules; reviewed against "
 "eligible actual cost. Status: Closed. Timing: Closed 23 October 2026, "
 "17:00 China Standard Time."
-msgstr ":doc:`Reembolso de costes de cómputo para la economía digital de Qingpu (gastos de septiembre de 2026) </funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Reembolso de gastos · Sin cesión de capital (No equity)) — Importe determinado según las reglas aplicables de economía digital; revisado frente al coste real elegible. Estado: Plazo cerrado. Plazo: Cerrada el 23 de octubre de 2026 a las 17:00 (hora estándar de China)."
+msgstr ":doc:`Reembolso de costes de cómputo para la economía digital de Qingpu (gastos de septiembre de 2026) </funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Reembolso de gastos · Sin cesión de participaciones) — Importe determinado según las reglas aplicables de economía digital; revisado frente al coste real elegible. Estado: Plazo cerrado. Plazo: Cerrada el 23 de octubre de 2026 a las 17:00 (hora estándar de China)."
 
 #: ../../districts/qingpu.rst:45
 msgid ""
@@ -153,7 +153,7 @@ msgid ""
 "equipment, industrial software and digital-workshop investment. Status: "
 "2026 call published; deadline check required. Timing: 2026 notice issued "
 "31 July 2026; confirm current batch window."
-msgstr ":doc:`Fondo de Apoyo a la Transformación Inteligente de Empresas de Qingpu, 2026 </funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Subvención / reembolso · Sin cesión de capital (No equity)) — Proporción de la inversión verificada en equipamiento inteligente, software industrial y talleres digitales. Estado: Convocatoria 2026 publicada; verificar fecha límite. Plazo: Convocatoria de 2026 publicada el 31 de julio de 2026; confirmar la ventana de admisión del lote actual."
+msgstr ":doc:`Fondo de Apoyo a la Transformación Inteligente de Empresas de Qingpu, 2026 </funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Subvención / reembolso · Sin cesión de participaciones) — Proporción de la inversión verificada en equipamiento inteligente, software industrial y talleres digitales. Estado: Convocatoria 2026 publicada; verificar fecha límite. Plazo: Convocatoria de 2026 publicada el 31 de julio de 2026; confirmar la ventana de admisión del lote actual."
 
 #: ../../districts/qingpu.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"

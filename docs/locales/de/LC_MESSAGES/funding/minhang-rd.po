@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -30,10 +30,10 @@ msgstr "Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet"
 
 #: ../../funding/minhang-rd.rst:8
 msgid ""
-"`Evidence S091 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`Nachweis S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`Nachweis S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../funding/minhang-rd.rst:10
 msgid "Amount and mechanism"
@@ -61,7 +61,7 @@ msgstr "Projektklassifizierung und Mindestinvestitionsschwellen finden Anwendung
 
 #: ../../funding/minhang-rd.rst:22
 msgid "Policy through 31 Aug 2030"
-msgstr "Richtlinie gültig bis zum 31. August 2030"
+msgstr "Richtlinie gültig bis 31. August 2030"
 
 #: ../../funding/minhang-rd.rst:24
 msgid "Contact and application"

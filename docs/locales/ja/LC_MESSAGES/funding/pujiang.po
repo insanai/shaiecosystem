@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,10 +30,10 @@ msgstr "2026年公募公表済み（受付開始は未確認）"
 
 #: ../../funding/pujiang.rst:8
 msgid ""
-"`Evidence S102 "
+"`Evidence S109 "
 "<https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_. "
 "关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会."
-msgstr "`出典 S102 <https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_. 关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会."
+msgstr "`出典 S109 <https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_. 关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会."
 
 #: ../../funding/pujiang.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "申請カテゴリ別の助成金額（2026年度の具体的募集区�
 
 #: ../../funding/pujiang.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/pujiang.rst:17
 msgid "Eligibility and timing"
@@ -60,7 +60,7 @@ msgstr "海外留学等からの帰国人材を対象とする2026年7月の募�
 
 #: ../../funding/pujiang.rst:22
 msgid "Confirm category deadline and host review"
-msgstr "申請カテゴリの締切日および受入機関の審査スケジュールを確認のこと"
+msgstr "部門別締切日および受託機関による審査の確認が必要"
 
 #: ../../funding/pujiang.rst:24
 msgid "Contact and application"

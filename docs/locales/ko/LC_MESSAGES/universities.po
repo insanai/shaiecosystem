@@ -32,7 +32,7 @@ msgid ""
 "an institutional profile here. Some have documented science-park or "
 "technology-transfer contacts; others have a general institutional route. "
 "A profile does not assert that a dedicated startup program is open."
-msgstr "상하이 공식 등록부에 등재된 40개 본과 대학교가 모두 수록되어 있습니다. 일부는 확인된 과학기술단지나 기술이전센터 연락망을 보유하고 있으며, 그 외는 대표 기관 창구를 안내합니다. 개별 소개가 수록되어 있다고 해서 전용 스타트업 지원 프로그램이 현재 운영 중임을 보장하는 것은 아닙니다."
+msgstr "상하이 공식 등록부에 등재된 40개 학부 과정을 운영하는 대학가 모두 수록되어 있습니다. 일부는 확인된 과학기술단지나 기술이전센터 연락망을 보유하고 있으며, 그 외는 대표 기관 창구를 안내합니다. 개별 소개가 수록되어 있다고 해서 전용 스타트업 지원 프로그램이 현재 운영 중임을 보장하는 것은 아닙니다."
 
 #: ../../universities.rst:8
 msgid ""

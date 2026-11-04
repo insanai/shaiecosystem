@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -22,7 +22,7 @@ msgstr "2026 백옥란 인재 계획 푸장 프로젝트"
 
 #: ../../funding/pujiang.rst:4
 msgid "Grant | Citywide / global"
-msgstr "보조금 | 전시 / 글로벌"
+msgstr "보조금 | 상하이 전역 / 글로벌"
 
 #: ../../funding/pujiang.rst:6
 msgid "2026 call published; not confirmed open"
@@ -30,10 +30,10 @@ msgstr "2026년 공고 발표됨; 접수 진행 여부 미확인"
 
 #: ../../funding/pujiang.rst:8
 msgid ""
-"`Evidence S102 "
+"`Evidence S109 "
 "<https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_. "
 "关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会."
-msgstr "`근거 S102 <https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_. 关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会."
+msgstr "`근거 S109 <https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_. 关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会."
 
 #: ../../funding/pujiang.rst:10
 msgid "Amount and mechanism"
@@ -41,11 +41,11 @@ msgstr "지원 규모 및 지원 방식"
 
 #: ../../funding/pujiang.rst:13
 msgid "Category-specific support; consult the actual 2026 category"
-msgstr "프로젝트 유형에 따라 15만~50만 위안 지원"
+msgstr "유형별 지원; 2026년 해당 부문의 실제 공고 확인 필요"
 
 #: ../../funding/pujiang.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/pujiang.rst:17
 msgid "Eligibility and timing"
@@ -56,11 +56,11 @@ msgid ""
 "The July 2026 guide supports eligible overseas returnees through distinct "
 "categories. Scientific research and entrepreneurial routes must not be "
 "confused; host endorsement may be required."
-msgstr "상하이로 귀국한 해외 유학 인재 및 초빙 연구자: 상하이 내 소속 기관 계약, 체류 기간, R&D 역량 기준 충족 필수."
+msgstr "2026년 7월 지침은 적격 해외 귀국 인재를 유형별로 지원합니다. 연구 지원과 창업 지원을 구분해야 하며, 소속 기관의 추천이나 승인이 필요할 수 있습니다."
 
 #: ../../funding/pujiang.rst:22
 msgid "Confirm category deadline and host review"
-msgstr "2026년도 시 과학기술위원회 공고 마감 일정 기준"
+msgstr "분야별 마감일 및 주관 기관 심사 확인 필요"
 
 #: ../../funding/pujiang.rst:24
 msgid "Contact and application"

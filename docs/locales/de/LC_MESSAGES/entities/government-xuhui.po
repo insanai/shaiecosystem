@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -37,10 +37,10 @@ msgstr "Die Förderrichtlinie für verkörperte KI umfasst Robotikmodelle, Algor
 
 #: ../../entities/government-xuhui.rst:10
 msgid ""
-"`Evidence S090 "
+"`Evidence S097 "
 "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
 "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
-msgstr "`Nachweis S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`Nachweis S097 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
 
 #: ../../entities/government-xuhui.rst:12
 msgid "Status and support"

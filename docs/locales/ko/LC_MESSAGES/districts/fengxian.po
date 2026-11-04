@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -34,10 +34,10 @@ msgstr "지능형 로봇 산업 지원책은 관할 구에 등록된 적격 로�
 
 #: ../../districts/fengxian.rst:8
 msgid ""
-"`Evidence S095 "
+"`Evidence S102 "
 "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
 "奉贤区促进智能机器人产业创新发展若干政策措施."
-msgstr "`근거 S095 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
+msgstr "`근거 S102 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
 
 #: ../../districts/fengxian.rst:10
 msgid "Who receives the inquiry"
@@ -154,7 +154,7 @@ msgid ""
 "equity) — 30% of the qualifying annual R&D net increase, capped at RMB 1 "
 "million. Status: Closed. Timing: Online closed 17 June 2026, 17:00; paper "
 "closed 30 June 2026, 17:00 China Standard Time."
-msgstr ":doc:`2026년 펑셴구 R&D 비용 증가분 보조 </funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · 비용 환급 지원 · 지분 취득 없음) — 전년 대비 연구개발(R&D) 지출 증가액에 비례하여 산정된 인센티브 보조금 차등 지급. 상태: 모집 마감. 일정: 2026년도 펑셴구 과학기술위원회 신고 일정 기준."
+msgstr ":doc:`2026년 펑셴구 R&D 비용 증가분 보조 </funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · 비용 환급 지원 · 지분 제공 의무 없음) — 적격 연간 연구개발비 순증가액의 30%, 최대 100만 위안. 상태: 접수 마감. 일정: 2026년도 펑셴구 과학기술위원회 신고 일정 기준."
 
 #: ../../districts/fengxian.rst:46
 msgid ""
@@ -163,7 +163,7 @@ msgid ""
 "equity) — Up to RMB 250,000; generally two installments, final settlement "
 "after acceptance. Status: Closed. Timing: Online closed 21 June 2026; "
 "paper closed 30 June 2026."
-msgstr ":doc:`2026년 펑셴구 중소기업 기술혁신 자금 중점 프로젝트 </funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · 보조금 · 지분 취득 없음) — 구 중점 기술혁신 과제로 선정된 프로젝트 대상 R&D 자금 지원. 상태: 모집 마감. 일정: 2026년도 구 경제위원회 및 과학기술위원회 공고 기준."
+msgstr ":doc:`2026년 펑셴구 중소기업 기술혁신 자금 중점 프로젝트 </funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · 보조금 · 지분 제공 의무 없음) — 최대 25만 위안; 일반적으로 2회 분할 지급, 사업 완료 심사 후 최종 정산. 상태: 접수 마감. 일정: 2026년도 구 경제위원회 및 과학기술위원회 공고 기준."
 
 #: ../../districts/fengxian.rst:47
 msgid ""
@@ -173,7 +173,7 @@ msgid ""
 "challenge contract value. Status: 2026 call published; deadline check "
 "required. Timing: 2026 guide published May 2026; confirm current project "
 "batch."
-msgstr ":doc:`2026년 펑셴구 '남상하이 과기혁신센터' 오픈 챌린지(揭榜挂帅) 협력 프로젝트 </funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 · 보조금 · 지분 취득 없음) — 핵심 기술 애로사항 해결 계약 금액에 비례하여 마일스톤 달성도에 따른 연구개발 보조금 지원. 상태: 2026년 공고 발표됨; 마감일 확인 필요. 일정: 2026년 신고 안내서(5월 발표) 기준; 현재 프로젝트 배치 확인 필요."
+msgstr ":doc:`2026년 펑셴구 '남상하이 과기혁신센터' 오픈 챌린지(揭榜挂帅) 협력 프로젝트 </funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 · 보조금 · 지분 제공 의무 없음) — 핵심 기술 애로사항 해결 계약 금액에 비례하여 마일스톤 달성도에 따른 연구개발 보조금 지원. 상태: 2026년 공고 발표됨; 마감일 확인 필요. 일정: 2026년 신고 안내서(5월 발표) 기준; 현재 프로젝트 배치 확인 필요."
 
 #: ../../districts/fengxian.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"

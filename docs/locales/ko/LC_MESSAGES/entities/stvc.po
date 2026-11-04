@@ -26,7 +26,7 @@ msgstr "上海科技创业投资集团"
 
 #: ../../entities/stvc.rst:6
 msgid "Investor | Citywide / global | Research checked 2026-11-04"
-msgstr "투자 기관 | 전시 / 글로벌 | 연구 확인일 2026-11-04"
+msgstr "투자 기관 | 상하이 전역 / 글로벌 | 연구 확인일 2026-11-04"
 
 #: ../../entities/stvc.rst:8
 msgid "AI and industry focus: Chips, Health, Software AI."
@@ -109,4 +109,4 @@ msgstr "텀시트(Term sheet), 투자심의위원회 부대조건 및 최종 투
 
 #: ../../entities/stvc.rst:43
 msgid ":doc:`Citywide / global district route </funding>`"
-msgstr ":doc:`전시 / 글로벌 경로 안내 </funding>`"
+msgstr ":doc:`상하이 전역 / 글로벌 경로 안내 </funding>`"

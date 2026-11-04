@@ -146,7 +146,7 @@ msgstr ":doc:`上海外国语大学贤达经济人文学院 </entities/universit
 
 #: ../../districts/hongkou.rst:42
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/hongkou.rst:45
 msgid ""
@@ -159,7 +159,7 @@ msgstr ":doc:`2026虹口国际顶尖及海外优秀青年人才扶持第一批 <
 
 #: ../../districts/hongkou.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ""
 #~ ":doc:`Zhangjiang Hongkou Park / Beikechuang </entities/hongkou-park>`"

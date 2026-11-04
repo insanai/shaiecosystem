@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../entities/shibei-valley.rst:1
 msgid "Shibei Hi-Tech Park / Shutong Valley & Daning Carriers"
-msgstr "市北ハイテクパーク／数通鏈谷＆大寧イノベーションキャリア"
+msgstr "市北ハイテクパーク／数通鏈谷＆大寧起業支援拠点"
 
 #: ../../entities/shibei-valley.rst:4
 msgid "市北高新园区／数通链谷与大宁科创载体"

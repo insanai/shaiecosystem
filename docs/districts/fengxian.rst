@@ -5,7 +5,7 @@ Robotics, beauty and health technology, advanced manufacturing
 
 The robot industry measures cover qualifying registered companies working on intelligent robots. Oriental Beauty Valley provides a separate beauty and health industry context. Match the project to the correct policy owner and application batch.
 
-`Evidence S095 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施.
+`Evidence S102 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施.
 
 Who receives the inquiry
 ------------------------

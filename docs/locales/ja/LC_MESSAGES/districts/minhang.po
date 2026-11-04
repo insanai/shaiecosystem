@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -34,10 +34,10 @@ msgstr "企業技術革新政策の有効期間は2025年9月1日から2030年8�
 
 #: ../../districts/minhang.rst:8
 msgid ""
-"`Evidence S091 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`出典 S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`出典 S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../districts/minhang.rst:10
 msgid "Who receives the inquiry"
@@ -173,7 +173,7 @@ msgid ""
 "conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; "
 "up to 50% of investment. Status: Policy in force; call not confirmed "
 "open. Timing: Policy: 1 Sep 2025 to 31 Aug 2030."
-msgstr ":doc:`閔行区科学技術成果実用化・事業化支援 </funding/minhang-conversion>` （闵行科技成果转化支持 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 新設の成果事業化企業に対して年間最大50万元、3年間累計最大150万元（事業化投資額の最大50％まで）。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2025年9月1日〜2030年8月31日。"
+msgstr ":doc:`閔行区科学技術成果実用化・事業化支援 </funding/minhang-conversion>` （闵行科技成果转化支持 · 助成金・補助金 · 株式の提供不要）— 新設の成果事業化企業に対して年間最大50万元、3年間累計最大150万元（事業化投資額の最大50％まで）。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2025年9月1日〜2030年8月31日。"
 
 #: ../../districts/minhang.rst:48
 msgid ""
@@ -181,7 +181,7 @@ msgid ""
 "(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
 "R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
 "confirmed open. Timing: Policy through 31 Aug 2030."
-msgstr ":doc:`閔行区基幹コア技術研究開発プロジェクト </funding/minhang-rd>` （闵行关键核心技术攻关 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 一般プロジェクト：研究開発費の最大30％（最大300万元まで）。重点・重大プロジェクト：最大50％（最大1,000万元まで）。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2030年8月31日まで有効。"
+msgstr ":doc:`閔行区基幹コア技術研究開発プロジェクト </funding/minhang-rd>` （闵行关键核心技术攻关 · 助成金・補助金 · 株式の提供不要）— 一般プロジェクト：研究開発費の最大30％（最大300万元まで）。重点・重大プロジェクト：最大50％（最大1,000万元まで）。ステータス：政策有効（公募開始は未確認）。時期：政策有効期限：2030年8月31日まで。"
 
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"

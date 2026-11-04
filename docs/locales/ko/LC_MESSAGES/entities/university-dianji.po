@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -42,10 +42,10 @@ msgstr "2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협�
 
 #: ../../entities/university-dianji.rst:12
 msgid ""
-"`Evidence S076 "
+"`Evidence S083 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`근거 S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`근거 S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-dianji.rst:14
 msgid "Status and support"

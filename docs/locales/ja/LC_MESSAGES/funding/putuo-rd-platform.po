@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,10 +30,10 @@ msgstr "2026年公募公表済み（受付開始は未確認）"
 
 #: ../../funding/putuo-rd-platform.rst:8
 msgid ""
-"`Evidence S111 "
+"`Evidence S119 "
 "<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. "
 "关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
-msgstr "`出典 S111 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+msgstr "`出典 S119 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
 
 #: ../../funding/putuo-rd-platform.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "最大200万元（初回交付は50％以下、残額は事業検収・�
 
 #: ../../funding/putuo-rd-platform.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/putuo-rd-platform.rst:17
 msgid "Eligibility and timing"

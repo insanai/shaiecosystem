@@ -147,7 +147,7 @@ msgid ""
 "investment. Status: 2026 call published; deadline check required. Timing: "
 "Second 2026 batch published May 2026; confirm current sub-district "
 "recommending window."
-msgstr ":doc:`Fondo Guía para el Desarrollo del Sector Servicios y Apoyo a la Demostración de IA de Jing'an, 2026 </funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Apoyo específico por proyecto conforme al reglamento del fondo guía del sector servicios del distrito, ajustado a la inversión total elegible. Estado: Convocatoria 2026 publicada; verificar fecha límite. Plazo: Convocatoria del segundo lote de 2026 publicada en mayo de 2026; confirmar la ventana actual de recomendación del subdistrito o zona funcional."
+msgstr ":doc:`Fondo Guía para el Desarrollo del Sector Servicios y Apoyo a la Demostración de IA de Jing'an, 2026 </funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · Subvención a fondo perdido · Sin cesión de participaciones) — Apoyo específico por proyecto conforme al reglamento del fondo guía del sector servicios del distrito, ajustado a la inversión total elegible. Estado: Convocatoria 2026 publicada; verificar fecha límite. Plazo: Convocatoria del segundo lote de 2026 publicada en mayo de 2026; confirmar la ventana actual de recomendación del subdistrito o zona funcional."
 
 #: ../../districts/jingan.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

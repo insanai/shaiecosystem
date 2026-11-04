@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -30,10 +30,10 @@ msgstr "Erste Tranche 2026 geschlossen; Folgetranchen zu prüfen"
 
 #: ../../funding/municipal-ai-vouchers.rst:8
 msgid ""
-"`Evidence S104 "
+"`Evidence S111 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
 "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
-msgstr "`Nachweis S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`Nachweis S111 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 
 #: ../../funding/municipal-ai-vouchers.rst:10
 msgid "Amount and mechanism"
@@ -56,13 +56,13 @@ msgid ""
 "Qualifying Shanghai AI model or agent developers and users purchasing "
 "eligible non-related-party services. Projects already receiving other "
 "municipal fiscal subsidy are excluded."
-msgstr "Qualifizierte Entwickler und gewerbliche Nutzer von KI-Großmodellen oder KI-Agenten in Shanghai, die anerkannte Dienste von unabhängigen Dritten (keine verbundenen Unternehmen) beschaffen. Vorhaben mit sonstigen städtischen Finanzhilfen sind ausgeschlossen."
+msgstr "Berechtigte Shanghaier Entwickler und Nutzer von KI-Modellen oder Agenten, die anerkannte Leistungen von unabhängigen Anbietern beziehen. Projekte mit anderer städtischer Finanzförderung sind ausgeschlossen."
 
 #: ../../funding/municipal-ai-vouchers.rst:22
 msgid ""
 "First batch closed 27 May 2026, 16:00 China Standard Time; notice plans "
 "quarterly follow-ups"
-msgstr "Die erste Antragsrunde endete am 27. Mai 2026 um 16:00 Uhr CST; Folgeaufrufe sind quartalsweise vorgesehen"
+msgstr "Erste Runde am 27. Mai 2026 um 16:00 Uhr China-Standardzeit geschlossen; Folgeanträge laut Ausschreibung quartalsweise geplant"
 
 #: ../../funding/municipal-ai-vouchers.rst:24
 msgid "Contact and application"

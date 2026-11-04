@@ -210,7 +210,7 @@ msgid ""
 "repayable) — Product-specific technology credit and IP finance; no "
 "universal ceiling. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`Plataforma de servicios de financiación y crédito de Yangpu </funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Préstamo · Sin cesión de capital; reembolsable) — Crédito tecnológico y financiación de propiedad intelectual según el producto; sin techo único universal. Estado: Catálogo publicado; sujeto a evaluación del prestamista. Plazo: Específico de cada producto; confirmar las condiciones vigentes de la entidad prestamista."
+msgstr ":doc:`Plataforma de servicios de financiación y crédito de Yangpu </funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Préstamo · Sin cesión de participaciones; préstamo reembolsable) — Crédito tecnológico y financiación de propiedad intelectual según el producto; sin límite único universal. Estado: Catálogo publicado; sujeto a evaluación del prestamista. Plazo: Específico de cada producto; confirmar las condiciones vigentes de la entidad prestamista."
 
 #: ../../districts/yangpu.rst:52
 msgid ""
@@ -220,7 +220,7 @@ msgid ""
 "co-investment; individual cheque subject to investment committee review. "
 "Status: Published investment platform; deal review. Timing: Manager-led "
 "sourcing and due diligence."
-msgstr ":doc:`Fondo de Coinversión Ángel «Dream Start» de Yangpu </funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Inversión en capital (Equity) · Participación en capital negociada) — Coinversión pública distrital en capital para etapas tempranas; el ticket individual está sujeto a la aprobación del comité de inversiones. Estado: Plataforma de inversión publicada; sujeta a evaluación de proyectos. Plazo: Selección de oportunidades y due diligence lideradas por la gestora."
+msgstr ":doc:`Fondo de Coinversión Ángel «Dream Start» de Yangpu </funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Inversión en capital (Equity) · Participación en capital negociada) — Coinversión pública distrital en capital para etapas tempranas; el importe por empresa está sujeto a la aprobación del comité de inversiones. Estado: Plataforma de inversión publicada; sujeta a evaluación de proyectos. Plazo: Selección de proyectos y due diligence lideradas por la gestora."
 
 #: ../../districts/yangpu.rst:54
 msgid ":doc:`Also compare citywide funding </funding>`"

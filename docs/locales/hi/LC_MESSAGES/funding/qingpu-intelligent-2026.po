@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -30,10 +30,10 @@ msgstr "2026 कॉल प्रकाशित; समय सीमा की �
 
 #: ../../funding/qingpu-intelligent-2026.rst:8
 msgid ""
-"`Evidence S125 "
+"`Evidence S133 "
 "<https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. "
 "关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
-msgstr "`साक्ष्य S125 <https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. 关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
+msgstr "`साक्ष्य S133 <https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_. 关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府."
 
 #: ../../funding/qingpu-intelligent-2026.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "सत्यापित इंटेलिजेंट उपकरण,
 
 #: ../../funding/qingpu-intelligent-2026.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/qingpu-intelligent-2026.rst:17
 msgid "Eligibility and timing"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,14 +26,14 @@ msgstr "प्रतिपूर्ति (Reimbursement) | फेंगशि�
 
 #: ../../funding/fengxian-rd-increase.rst:6
 msgid "Closed"
-msgstr "बंद हो चुका है"
+msgstr "आवेदन की समय-सीमा समाप्त"
 
 #: ../../funding/fengxian-rd-increase.rst:8
 msgid ""
-"`Evidence S114 "
+"`Evidence S122 "
 "<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. "
 "奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
-msgstr "`साक्ष्य S114 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
+msgstr "`साक्ष्य S122 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
 
 #: ../../funding/fengxian-rd-increase.rst:10
 msgid "Amount and mechanism"
@@ -46,7 +46,7 @@ msgstr "अर्हकारी वार्षिक R&D शुद्ध व�
 
 #: ../../funding/fengxian-rd-increase.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/fengxian-rd-increase.rst:17
 msgid "Eligibility and timing"

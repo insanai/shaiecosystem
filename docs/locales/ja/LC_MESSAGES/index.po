@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:42+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../index.rst:1
 msgid "Shanghai Ecosystem Atlas"
-msgstr "上海イノベーション生態系アトラス"
+msgstr "上海イノベーション・エコシステム図鑑"
 
 #: ../../index.rst:4
 msgid ""
@@ -28,27 +28,26 @@ msgstr "東洋の真珠。学術研究、企業、そして無限の可能性を
 
 #: ../../index.rst:6
 msgid ""
-"An illustrated English and Simplified Chinese guide for accelerators, "
-"founders, researchers and AI enthusiasts. Explore Shanghai's 16 "
-"administrative districts, 40 undergraduate universities, 29 diploma "
-"colleges, 12 adult higher-education institutions, software and hardware "
-"AI carriers, and the practical routes to support."
-msgstr "アクセラレーター、創業者、研究者、AIイノベーターのために贈る、日英・中英の図解入りガイド。上海市全16行政区、40の学部設置大学、29の専科カレッジ、12の成人高等教育機関、ソフトウェアおよびハードウェアAIのイノベーション拠点、そして各種支援獲得への実践的ルートを解き明かします。"
+"An illustrated guide in seven languages for accelerators, founders, "
+"researchers and AI enthusiasts. It connects Shanghai's universities, "
+"software and hardware AI communities, and practical routes to support "
+"across all 16 districts."
+msgstr "アクセラレーター、創業者、研究者、AIに関心のある人のための、7言語の図解ガイド。上海の全16区にわたり、大学、ソフトウェア・ハードウェアのAIコミュニティ、実用的な支援制度をつなぐ。"
 
 #: ../../index.rst:8
 msgid ""
-"Research edition: 2026-11-04. 125 organization profiles. 45 funding "
-"routes. 16 districts. 133 cited sources."
-msgstr "調査エディション：2026-11-04。125件の機関プロファイル、45件の資金ルート、全16行政区、133件の引用一次出典。"
+"Research edition: 2026-11-04. 131 organization profiles. 50 funding "
+"routes. 16 districts. 140 cited sources."
+msgstr "調査エディション：2026-11-04。131件の機関プロファイル、50件の資金ルート、全16行政区、140件の引用一次出典。"
 
 #: ../../index.rst:10
 msgid ""
 "Written by **Vikrant Rathore** with contributions from **Lauren Zhao, "
 "Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu**. "
-"Produced using **Guidedog** as a unified bilingual **HTML and PDF** "
+"Produced using **Guidedog** as a unified seven-language **HTML and PDF** "
 "publication inspired by Shanghai's official flower, the white magnolia "
 "(*Yulania denudata*)."
-msgstr "執筆：**Vikrant Rathore**、寄稿：**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu**。上海市の市花である白玉蘭（ハクモクレン / *Yulania denudata*）に着想を得て、**Guidedog** を用いて日英・中英バイリンガルの **HTMLおよびPDF** 統合出版物として制作。"
+msgstr "執筆：**Vikrant Rathore**、寄稿：**Lauren Zhao、Vicky Ni、Jennifer Yuan、Ronak Rathore、Kanak Rathore、Emily Yue Xu**。上海市の市花である白玉蘭（ハクモクレン / *Yulania denudata*）に着想を得て、**Guidedog** を用いて7言語の **HTMLおよびPDF** 統合出版物として制作。"
 
 #: ../../index.rst:12
 msgid ""
@@ -73,16 +72,16 @@ msgstr "上海市の全行政区について、公的資料に基づく重点産
 msgid ""
 "**[01]** :doc:`Pudong <districts/pudong>` (浦东新区) — **Foundation models, "
 "chips, biomedicine and advanced manufacturing**. Authority: Pudong "
-"Science, Technology and Economy Commission. (38 organizations, 3 district "
+"Science, Technology and Economy Commission. (40 organizations, 4 district "
 "funding routes)"
-msgstr "**[01]** :doc:`浦東新区 <districts/pudong>` (浦东新区) — **基盤モデル、チップ、バイオ医薬品、先端製造業**. 浦東新区科学技術・経済委員会. (38 / 3)"
+msgstr "**[01]** :doc:`浦東新区 <districts/pudong>` (浦东新区) — **基盤モデル、チップ、バイオ医薬品、先端製造業**. 浦東新区科学技術・経済委員会. (40 / 4)"
 
 #: ../../index.rst:22
 msgid ""
 "**[02]** :doc:`Xuhui <districts/xuhui>` (徐汇区) — **Foundation models, "
 "embodied AI and research commercialization**. Authority: Xuhui industry "
-"development authority. (7 organizations, 1 district funding routes)"
-msgstr "**[02]** :doc:`徐匯区 <districts/xuhui>` (徐汇区) — **基盤モデル、身体性AI（具身知能）、研究成果の社会実装・産業化**. 徐匯区産業発展主管部門. (7 / 1)"
+"development authority. (9 organizations, 2 district funding routes)"
+msgstr "**[02]** :doc:`徐匯区 <districts/xuhui>` (徐汇区) — **基盤モデル、身体性AI（具身知能）、研究成果の社会実装・産業化**. 徐匯区産業発展主管部門. (9 / 2)"
 
 #: ../../index.rst:23
 msgid ""
@@ -208,7 +207,7 @@ msgid ""
 ":doc:`Explore the Shanghai ecosystem <atlas>` — Interactive 16-district "
 "vector map, bilingual search, sector and equity filters, shortlist and "
 "CSV export."
-msgstr ":doc:`上海のイノベーション生態系を探る <atlas>` — 16区のインタラクティブ・ベクターマップ、日英・中英バイリンガル検索、セクターおよび出資条件フィルター、候補リスト作成とCSVエクスポート機能。"
+msgstr ":doc:`上海のイノベーション・エコシステムを探る <atlas>` — 16区のインタラクティブ・ベクターマップ、日英・中英バイリンガル検索、セクターおよび出資条件フィルター、候補リスト作成とCSVエクスポート機能。"
 
 #: ../../index.rst:43
 msgid ""

@@ -1,0 +1,115 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/qingmiao-investment.rst:1
+msgid "Xuhui Qingmiao early AI investment route"
+msgstr "Vía de inversión inicial en IA del fondo Qingmiao de Xuhui"
+
+#: ../../funding/qingmiao-investment.rst:4
+msgid "Equity investment | Xuhui"
+msgstr "Inversión en capital (Equity) | Distrito de Xuhui"
+
+#: ../../funding/qingmiao-investment.rst:6
+msgid "Published investment platform; deal review"
+msgstr "Plataforma de inversión publicada; sujeta a evaluación de proyectos"
+
+#: ../../funding/qingmiao-investment.rst:8
+msgid ""
+"`Evidence S077 "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. "
+"Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+msgstr "`Evidencia S077 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+
+#: ../../funding/qingmiao-investment.rst:10
+msgid "Amount and mechanism"
+msgstr "Importe y mecanismo"
+
+#: ../../funding/qingmiao-investment.rst:13
+msgid ""
+"Manager-reviewed early-stage investment; no universal cheque or equity "
+"percentage verified"
+msgstr "Inversión inicial sujeta a revisión del gestor; sin importe o porcentaje de participación universal verificado"
+
+#: ../../funding/qingmiao-investment.rst:15
+msgid "Negotiated equity"
+msgstr "Participación en capital negociada"
+
+#: ../../funding/qingmiao-investment.rst:17
+msgid "Eligibility and timing"
+msgstr "Elegibilidad y plazos"
+
+#: ../../funding/qingmiao-investment.rst:20
+msgid ""
+"Youth-led early AI projects matching the fund mandate. The August 2026 "
+"camp notice documents investment activity and organizers, not an "
+"always-open application or guaranteed grant. Request the responsible "
+"manager, screening pack, local-operation conditions and term sheet."
+msgstr "Proyectos iniciales de IA liderados por jóvenes y acordes al mandato del fondo. El anuncio del campamento de agosto de 2026 documenta inversión y organizadores, no admisión permanente ni una subvención garantizada. Solicitar gestor responsable, documentación de selección, condiciones de operación local y hoja de términos."
+
+#: ../../funding/qingmiao-investment.rst:22
+msgid "Manager-led sourcing and due diligence"
+msgstr "Selección de proyectos y due diligence lideradas por la gestora"
+
+#: ../../funding/qingmiao-investment.rst:24
+msgid "Contact and application"
+msgstr "Contacto y solicitud"
+
+#: ../../funding/qingmiao-investment.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+msgstr "`Vía oficial de solicitud / normativa <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+
+#: ../../funding/qingmiao-investment.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "La autoridad u operador enlazado constituye la vía de contacto. En este perfil no consta un contacto directo vigente para el programa."
+
+#: ../../funding/qingmiao-investment.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../funding/qingmiao-investment.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "Confirmar el encaje con la gestora en cuanto a sector, etapa de desarrollo y estructura societaria."
+
+#: ../../funding/qingmiao-investment.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "Presentar el deck de inversión, la tabla de capitalización, la evidencia tecnológica, las métricas de tracción y el plan de financiación."
+
+#: ../../funding/qingmiao-investment.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "Completar los procesos de due diligence comercial, financiera, técnica y legal."
+
+#: ../../funding/qingmiao-investment.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "Revisar la carta de intenciones (term sheet), las condiciones del comité de inversión y los contratos societarios definitivos."
+
+#: ../../funding/qingmiao-investment.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "El importe máximo publicado es un techo presupuestario, no un derecho adquirido. Verifique la convocatoria aplicable, el período de gastos elegibles, la compatibilidad con otras ayudas públicas y las condiciones de desembolso por escrito."

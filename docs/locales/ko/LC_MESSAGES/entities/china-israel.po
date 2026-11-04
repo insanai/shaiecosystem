@@ -38,7 +38,7 @@ msgid ""
 "manufacturing, AI, robotics and information technology. It supports "
 "market, capital and industrial connections; the listing does not "
 "guarantee cash support."
-msgstr "스마트 제조, AI, 로봇 및 정보기술 분야의 국제 협력을 위해 구 단위 명록에 등재된 전문 캐리어입니다. 시장, 자본, 산업 자원을 연결하지만, 명록 등재가 현금 보조금을 보장하는 것은 아닙니다."
+msgstr "스마트 제조, AI, 로봇 및 정보기술 분야의 국제 협력을 위해 구 단위 목록에 등재된 전문 창업 지원 거점입니다. 시장, 자본, 산업 자원을 연결하지만, 목록 등재가 현금 보조금을 보장하는 것은 아닙니다."
 
 #: ../../entities/china-israel.rst:12
 msgid ""

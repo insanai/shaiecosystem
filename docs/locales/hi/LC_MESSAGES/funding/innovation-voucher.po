@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -30,10 +30,10 @@ msgstr "नीति प्रभावी; सेवा और ऑर्डर 
 
 #: ../../funding/innovation-voucher.rst:8
 msgid ""
-"`Evidence S096 "
+"`Evidence S103 "
 "<https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. "
 "关于印发《上海市科技创新券管理办法》的通知."
-msgstr "`साक्ष्य S096 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. 关于印发《上海市科技创新券管理办法》的通知."
+msgstr "`साक्ष्य S103 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_. 关于印发《上海市科技创新券管理办法》的通知."
 
 #: ../../funding/innovation-voucher.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "पात्र ऑर्डर का 50% तक; प्रति क�
 
 #: ../../funding/innovation-voucher.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/innovation-voucher.rst:17
 msgid "Eligibility and timing"

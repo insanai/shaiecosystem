@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -26,14 +26,14 @@ msgstr "Kostenerstattung | Neuer Stadtbezirk Pudong"
 
 #: ../../funding/pudong-model.rst:6
 msgid "Closed"
-msgstr "Geschlossen"
+msgstr "Bewerbungsfrist abgelaufen"
 
 #: ../../funding/pudong-model.rst:8
 msgid ""
-"`Evidence S089 "
+"`Evidence S096 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
 "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
-msgstr "`Nachweis S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`Nachweis S096 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 
 #: ../../funding/pudong-model.rst:10
 msgid "Amount and mechanism"
@@ -60,7 +60,7 @@ msgstr "Förderfähige Vorhaben mit Hauptnutzen in Pudong, die anerkannte Ausgab
 
 #: ../../funding/pudong-model.rst:22
 msgid "Closed 31 Aug 2026, 16:00 China Standard Time"
-msgstr "Bewerbungsschluss war der 31. August 2026 um 16:00 Uhr (chinesische Standardzeit CST)"
+msgstr "Geschlossen am 31. August 2026 um 16:00 Uhr China-Standardzeit"
 
 #: ../../funding/pudong-model.rst:24
 msgid "Contact and application"

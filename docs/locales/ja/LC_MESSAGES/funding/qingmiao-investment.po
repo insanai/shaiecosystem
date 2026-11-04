@@ -1,0 +1,115 @@
+# ja translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/qingmiao-investment.rst:1
+msgid "Xuhui Qingmiao early AI investment route"
+msgstr "徐匯・青苗基金の初期AI投資窓口"
+
+#: ../../funding/qingmiao-investment.rst:4
+msgid "Equity investment | Xuhui"
+msgstr "株式投資・出資 | 徐匯区"
+
+#: ../../funding/qingmiao-investment.rst:6
+msgid "Published investment platform; deal review"
+msgstr "公表済み投資プラットフォーム（案件審査要）"
+
+#: ../../funding/qingmiao-investment.rst:8
+msgid ""
+"`Evidence S077 "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. "
+"Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+msgstr "`出典 S077 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+
+#: ../../funding/qingmiao-investment.rst:10
+msgid "Amount and mechanism"
+msgstr "金額規模と支援メカニズム"
+
+#: ../../funding/qingmiao-investment.rst:13
+msgid ""
+"Manager-reviewed early-stage investment; no universal cheque or equity "
+"percentage verified"
+msgstr "運用会社が審査する初期投資。一律の出資額や持分比率は未確認"
+
+#: ../../funding/qingmiao-investment.rst:15
+msgid "Negotiated equity"
+msgstr "個別協議による株式取得"
+
+#: ../../funding/qingmiao-investment.rst:17
+msgid "Eligibility and timing"
+msgstr "申請資格とスケジュール・期限"
+
+#: ../../funding/qingmiao-investment.rst:20
+msgid ""
+"Youth-led early AI projects matching the fund mandate. The August 2026 "
+"camp notice documents investment activity and organizers, not an "
+"always-open application or guaranteed grant. Request the responsible "
+"manager, screening pack, local-operation conditions and term sheet."
+msgstr "投資方針に合う若手主導の初期AIプロジェクト。2026年8月のキャンプ公告で確認できるのは投資活動と主催者であり、通年募集や給付保証ではない。担当運用会社、選考資料、現地事業要件、投資条件書を求める。"
+
+#: ../../funding/qingmiao-investment.rst:22
+msgid "Manager-led sourcing and due diligence"
+msgstr "運用会社主導のソーシングおよびデューデリジェンス"
+
+#: ../../funding/qingmiao-investment.rst:24
+msgid "Contact and application"
+msgstr "連絡先と申請方法"
+
+#: ../../funding/qingmiao-investment.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+msgstr "`公式申請窓口／政策ポータル <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+
+#: ../../funding/qingmiao-investment.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "リンク先の主管官庁または運営事業者が連絡窓口となります。本プロファイルでは現行プログラムの直接担当窓口は設定されていません。"
+
+#: ../../funding/qingmiao-investment.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "編集部作成の申請チェックリスト。実際の申請手続きは現行の公式通知または契約書が優先されます。"
+
+#: ../../funding/qingmiao-investment.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "ファンド運用者、投資対象セクター、ステージ、および法人格の適格性を確認する。"
+
+#: ../../funding/qingmiao-investment.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "ピッチ資料、資本政策表（キャップテーブル）、技術的実証データ、事業進捗実績（トラクション）、および資金調達計画を提出する。"
+
+#: ../../funding/qingmiao-investment.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "ビジネス、財務、技術、および法務のデューデリジェンスを完了する。"
+
+#: ../../funding/qingmiao-investment.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "投資条件概要書（タームシート）、投資委員会の決議条件、および最終投資契約書を精査する。"
+
+#: ../../funding/qingmiao-investment.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公表されている上限額は助成限度額であり、受給権を保証するものではありません。該当する通知、対象経費の支出期間、他の公的支援の有無、および書面の交付条件を確認してください。"

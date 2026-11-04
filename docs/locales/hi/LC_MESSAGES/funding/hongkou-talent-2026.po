@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -27,14 +27,14 @@ msgstr "अनुदान (Grant) | होंगकोउ (Hongkou)"
 
 #: ../../funding/hongkou-talent-2026.rst:6
 msgid "Closed"
-msgstr "बंद हो चुका है"
+msgstr "आवेदन की समय-सीमा समाप्त"
 
 #: ../../funding/hongkou-talent-2026.rst:8
 msgid ""
-"`Evidence S117 "
+"`Evidence S125 "
 "<https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. "
 "虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
-msgstr "`साक्ष्य S117 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. 虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
+msgstr "`साक्ष्य S125 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. 虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
 
 #: ../../funding/hongkou-talent-2026.rst:10
 msgid "Amount and mechanism"
@@ -44,11 +44,11 @@ msgstr "राशि और तंत्र"
 msgid ""
 "Recognized top talent and core team: up to RMB 1m; eligible overseas "
 "young talent: RMB 50,000 per person"
-msgstr "मान्यता प्राप्त शीर्ष प्रतिभा और कोर टीम: RMB 1m तक; पात्र प्रवासी युवा प्रतिभा: प्रति व्यक्ति RMB 50,000"
+msgstr "मान्यता प्राप्त शीर्ष प्रतिभा और मुख्य टीम के लिए अधिकतम 10 लाख RMB; पात्र विदेशी युवा प्रतिभा के लिए प्रति व्यक्ति 50,000 RMB"
 
 #: ../../funding/hongkou-talent-2026.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/hongkou-talent-2026.rst:17
 msgid "Eligibility and timing"

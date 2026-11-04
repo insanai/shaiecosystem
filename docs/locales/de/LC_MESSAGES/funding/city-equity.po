@@ -57,7 +57,7 @@ msgstr "Unternehmen aus den Branchen KI, Halbleiter, Biomedizin und anderen stra
 
 #: ../../funding/city-equity.rst:22
 msgid "Investment committee process; no guaranteed award"
-msgstr "Entscheidung erfolgt im Rahmen des Investitionsausschusses (kein Rechtsanspruch)"
+msgstr "Verfahren des Investitionskomitees; keine Fördergarantie"
 
 #: ../../funding/city-equity.rst:24
 msgid "Contact and application"

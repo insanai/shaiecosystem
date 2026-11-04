@@ -53,7 +53,7 @@ msgid ""
 "not a verified offer of laboratory access or startup funding. Address: "
 "220 Handan Road, Yangpu | Tel: +86 21 65642222. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`फुदान विश्वविद्यालय (Fudan University) <entities/university-fudan>` (复旦大学 · विश्वविद्यालय · यांगपू (Yangpu) · MOE 4131010246) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सॉफ्टवेयर AI, चिप्स, विज्ञान के लिए AI (AI for Science)। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। 220 हनदान रोड, यांगपू | Tel: +86 21 65642222. [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`फुदान विश्वविद्यालय (Fudan University) <entities/university-fudan>` (复旦大学 · विश्वविद्यालय · यांगपू (Yangpu) · MOE 4131010246) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सॉफ्टवेयर AI, चिप्स, विज्ञान के लिए AI (AI for Science)। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। 220 हनदान रोड, यांगपू | Tel: +86 21 65642222. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:16
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. Address: 2F, West Building, 100 Guokang Road, Yangpu "
 "| Tel: +86 21 65069006. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`तोंगजी विश्वविद्यालय (Tongji University) <entities/university-tongji>` (同济大学 · विश्वविद्यालय · यांगपू (Yangpu) · MOE 4131010247) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: स्वायत्त प्रणालियां, गतिशीलता (mobility), रोबोटिक्स, निर्मित वातावरण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। दूसरी मंजिल, वेस्ट बिल्डिंग, 100 गुओकांग रोड, यांगपू | Tel: +86 21 65069006. [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`तोंगजी विश्वविद्यालय (Tongji University) <entities/university-tongji>` (同济大学 · विश्वविद्यालय · यांगपू (Yangpu) · MOE 4131010247) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: स्वायत्त प्रणालियां, गतिशीलता (mobility), रोबोटिक्स, निर्मित वातावरण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। दूसरी मंजिल, वेस्ट बिल्डिंग, 100 गुओकांग रोड, यांगपू | Tel: +86 21 65069006. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:17
 msgid ""
@@ -74,7 +74,7 @@ msgid ""
 "Robotics, chips, engineering, medical AI. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई जियाओ तोंग विश्वविद्यालय (Shanghai Jiao Tong University) <entities/university-sjtu>` (上海交通大学 · विश्वविद्यालय · मिनहांग (Minhang) · MOE 4131010248) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: रोबोटिक्स, चिप्स, इंजीनियरिंग, मेडिकल AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई जियाओ तोंग विश्वविद्यालय (Shanghai Jiao Tong University) <entities/university-sjtu>` (上海交通大学 · विश्वविद्यालय · मिनहांग (Minhang) · MOE 4131010248) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: रोबोटिक्स, चिप्स, इंजीनियरिंग, मेडिकल AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:18
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "bioprocessing, AI for Science. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`ईस्ट चाइना यूनिवर्सिटी ऑफ साइंस एंड टेक्नोलॉजी (ECUST) <entities/university-ecust>` (华东理工大学 · विश्वविद्यालय · शुहुई (Xuhui) · MOE 4131010251) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सामग्री, रसायन विज्ञान, बायोप्रोसेसिंग, विज्ञान के लिए AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`ईस्ट चाइना यूनिवर्सिटी ऑफ साइंस एंड टेक्नोलॉजी (ECUST) <entities/university-ecust>` (华东理工大学 · विश्वविद्यालय · शुहुई (Xuhui) · MOE 4131010251) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सामग्री, रसायन विज्ञान, बायोप्रोसेसिंग, विज्ञान के लिए AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:19
 msgid ""
@@ -96,7 +96,7 @@ msgid ""
 "sensors, advanced equipment. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`यूनिवर्सिटी ऑफ शंघाई फॉर साइंस एंड टेक्नोलॉजी (USST) <entities/university-usst>` (上海理工大学 · विश्वविद्यालय · यांगपू (Yangpu) · MOE 4131010252) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: ऑप्टिक्स, चिकित्सा उपकरण, सेंसर, उन्नत उपकरण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`यूनिवर्सिटी ऑफ शंघाई फॉर साइंस एंड टेक्नोलॉजी (USST) <entities/university-usst>` (上海理工大学 · विश्वविद्यालय · यांगपू (Yangpu) · MOE 4131010252) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: ऑप्टिक्स, चिकित्सा उपकरण, सेंसर, उन्नत उपकरण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:20
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`शंघाई मैरीटाइम यूनिवर्सिटी (Shanghai Maritime University) <entities/university-maritime>` (上海海事大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010254) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: शिपिंग, लॉजिस्टिक्स, स्वायत्त समुद्री प्रणालियां। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई मैरीटाइम यूनिवर्सिटी (Shanghai Maritime University) <entities/university-maritime>` (上海海事大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010254) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: शिपिंग, लॉजिस्टिक्स, स्वायत्त समुद्री प्रणालियां। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:21
 msgid ""
@@ -117,7 +117,7 @@ msgid ""
 "themes: Advanced fibers, materials, design, smart textiles. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`डोंगहुआ विश्वविद्यालय (Donghua University) <entities/university-donghua>` (东华大学 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131010255) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: उन्नत फाइबर, सामग्री, डिज़ाइन, स्मार्ट टेक्सटाइल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`डोंगहुआ विश्वविद्यालय (Donghua University) <entities/university-donghua>` (东华大学 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131010255) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: उन्नत फाइबर, सामग्री, डिज़ाइन, स्मार्ट टेक्सटाइल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:22
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "intelligence, industrial control. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इलेक्ट्रिक पावर (Shanghai University of Electric Power) <entities/university-electric-power>` (上海电力大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010256) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: ऊर्जा प्रणालियां, ग्रिड इंटेलिजेंस, औद्योगिक नियंत्रण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इलेक्ट्रिक पावर (Shanghai University of Electric Power) <entities/university-electric-power>` (上海电力大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010256) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: ऊर्जा प्रणालियां, ग्रिड इंटेलिजेंस, औद्योगिक नियंत्रण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:23
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`शंघाई इंस्टीट्यूट ऑफ टेक्नोलॉजी (Shanghai Institute of Technology) <entities/university-sit>` (上海应用技术大学 · विश्वविद्यालय · फेंगशियान (Fengxian) · MOE 4131010259) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त इंजीनियरिंग, सामग्री, औद्योगिक AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई इंस्टीट्यूट ऑफ टेक्नोलॉजी (Shanghai Institute of Technology) <entities/university-sit>` (上海应用技术大学 · विश्वविद्यालय · फेंगशियान (Fengxian) · MOE 4131010259) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त इंजीनियरिंग, सामग्री, औद्योगिक AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:24
 msgid ""
@@ -150,7 +150,7 @@ msgid ""
 "clinical applications. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ मेडिसिन एंड हेल्थ साइंसेज (SUMHS) <entities/university-sumhs>` (上海健康医学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010262) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: स्वास्थ्य उपकरण, निदान (diagnostics), क्लिनिकल अनुप्रयोग। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ मेडिसिन एंड हेल्थ साइंसेज (SUMHS) <entities/university-sumhs>` (上海健康医学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010262) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: स्वास्थ्य उपकरण, निदान (diagnostics), क्लिनिकल अनुप्रयोग। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:25
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "Marine science, aquaculture, smart agriculture. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई ओशन यूनिवर्सिटी (Shanghai Ocean University) <entities/university-ocean>` (上海海洋大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010264) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: समुद्री विज्ञान, जलीय कृषि (aquaculture), स्मार्ट कृषि। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई ओशन यूनिवर्सिटी (Shanghai Ocean University) <entities/university-ocean>` (上海海洋大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010264) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: समुद्री विज्ञान, जलीय कृषि (aquaculture), स्मार्ट कृषि। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:26
 msgid ""
@@ -171,7 +171,7 @@ msgid ""
 "medical data. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ ट्रेडिशनल चाइनीज मेडिसिन (SHUTCM) <entities/university-tcm>` (上海中医药大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010268) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: हेल्थकेयर, दवा खोज (drug discovery), मेडिकल डेटा। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ ट्रेडिशनल चाइनीज मेडिसिन (SHUTCM) <entities/university-tcm>` (上海中医药大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010268) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: हेल्थकेयर, दवा खोज (drug discovery), मेडिकल डेटा। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:27
 msgid ""
@@ -181,7 +181,7 @@ msgid ""
 "Software, education AI, data science, microelectronics. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`ईस्ट चाइना नॉर्मल यूनिवर्सिटी (East China Normal University) <entities/university-ecnu>` (华东师范大学 · विश्वविद्यालय · पुतुओ (Putuo) · MOE 4131010269) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सॉफ्टवेयर, शिक्षा AI, डेटा साइंस, माइक्रोइलेक्ट्रॉनिक्स। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`ईस्ट चाइना नॉर्मल यूनिवर्सिटी (East China Normal University) <entities/university-ecnu>` (华东师范大学 · विश्वविद्यालय · पुतुओ (Putuo) · MOE 4131010269) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सॉफ्टवेयर, शिक्षा AI, डेटा साइंस, माइक्रोइलेक्ट्रॉनिक्स। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:28
 msgid ""
@@ -191,7 +191,7 @@ msgid ""
 "Education, computer science, creative technology. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई नॉर्मल यूनिवर्सिटी (Shanghai Normal University) <entities/university-shnu>` (上海师范大学 · विश्वविद्यालय · शुहुई (Xuhui) · MOE 4131010270) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: शिक्षा, कंप्यूटर विज्ञान, रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई नॉर्मल यूनिवर्सिटी (Shanghai Normal University) <entities/university-shnu>` (上海师范大学 · विश्वविद्यालय · शुहुई (Xuhui) · MOE 4131010270) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: शिक्षा, कंप्यूटर विज्ञान, रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:29
 msgid ""
@@ -202,7 +202,7 @@ msgid ""
 "translation, international markets. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई इंटरनेशनल स्टडीज यूनिवर्सिटी (SISU) <entities/university-sisu>` (上海外国语大学 · विश्वविद्यालय · होंगकोउ (Hongkou) · MOE 4131010271) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: भाषा प्रौद्योगिकी, अनुवाद, अंतर्राष्ट्रीय बाजार। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई इंटरनेशनल स्टडीज यूनिवर्सिटी (SISU) <entities/university-sisu>` (上海外国语大学 · विश्वविद्यालय · होंगकोउ (Hongkou) · MOE 4131010271) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: भाषा प्रौद्योगिकी, अनुवाद, अंतर्राष्ट्रीय बाजार। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:30
 msgid ""
@@ -213,7 +213,7 @@ msgid ""
 "models. These themes are editorial routing guidance, not a verified offer "
 "of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ फाइनेंस एंड इकोनॉमिक्स (SUFE) <entities/university-sufe>` (上海财经大学 · विश्वविद्यालय · यांगपू (Yangpu) · MOE 4131010272) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: फिनटेक, एनालिटिक्स, व्यावसायिक मॉडल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ फाइनेंस एंड इकोनॉमिक्स (SUFE) <entities/university-sufe>` (上海财经大学 · विश्वविद्यालय · यांगपू (Yangpu) · MOE 4131010272) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: फिनटेक, एनालिटिक्स, व्यावसायिक मॉडल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:31
 msgid ""
@@ -224,7 +224,7 @@ msgid ""
 "cross-border business. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इंटरनेशनल बिजनेस एंड इकोनॉमिक्स (SUIBE) <entities/university-suibe>` (上海对外经贸大学 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131010273) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: व्यापार, वाणिज्य, सीमा-पार व्यवसाय। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इंटरनेशनल बिजनेस एंड इकोनॉमिक्स (SUIBE) <entities/university-suibe>` (上海对外经贸大学 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131010273) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: व्यापार, वाणिज्य, सीमा-पार व्यवसाय। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:32
 msgid ""
@@ -234,7 +234,7 @@ msgid ""
 "Customs, trade processes, compliance systems. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई कस्टम्स यूनिवर्सिटी (Shanghai Customs University) <entities/university-customs>` (上海海关学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010274) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सीमा शुल्क, व्यापार प्रक्रियाएं, अनुपालन प्रणालियां। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई कस्टम्स यूनिवर्सिटी (Shanghai Customs University) <entities/university-customs>` (上海海关学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010274) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सीमा शुल्क, व्यापार प्रक्रियाएं, अनुपालन प्रणालियां। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:33
 msgid ""
@@ -245,7 +245,7 @@ msgid ""
 "technology. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`ईस्ट चाइना यूनिवर्सिटी ऑफ पॉलिटिकल साइंस एंड लॉ (ECUPL) <entities/university-ecupl>` (华东政法大学 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131010276) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: IP, डेटा गवर्नेंस, कानूनी प्रौद्योगिकी (legal tech)। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`ईस्ट चाइना यूनिवर्सिटी ऑफ पॉलिटिकल साइंस एंड लॉ (ECUPL) <entities/university-ecupl>` (华东政法大学 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131010276) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: IP, डेटा गवर्नेंस, कानूनी प्रौद्योगिकी (legal tech)। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:34
 msgid ""
@@ -255,7 +255,7 @@ msgid ""
 "Sports science, motion analysis, wearables. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ स्पोर्ट (Shanghai University of Sport) <entities/university-sport>` (上海体育大学 · विश्वविद्यालय · यांगपू (Yangpu) · MOE 4131010277) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: खेल विज्ञान, गति विश्लेषण (motion analysis), वियरेबल्स। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ स्पोर्ट (Shanghai University of Sport) <entities/university-sport>` (上海体育大学 · विश्वविद्यालय · यांगपू (Yangpu) · MOE 4131010277) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: खेल विज्ञान, गति विश्लेषण (motion analysis), वियरेबल्स। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:35
 msgid ""
@@ -265,7 +265,7 @@ msgid ""
 "Audio AI, music technology, creative tools. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई कंजर्वेटरी ऑफ म्यूजिक (Shanghai Conservatory of Music) <entities/university-music>` (上海音乐学院 · विश्वविद्यालय · शुहुई (Xuhui) · MOE 4131010278) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: ऑडियो AI, संगीत प्रौद्योगिकी, रचनात्मक उपकरण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई कंजर्वेटरी ऑफ म्यूजिक (Shanghai Conservatory of Music) <entities/university-music>` (上海音乐学院 · विश्वविद्यालय · शुहुई (Xuhui) · MOE 4131010278) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: ऑडियो AI, संगीत प्रौद्योगिकी, रचनात्मक उपकरण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:36
 msgid ""
@@ -275,7 +275,7 @@ msgid ""
 "Performance, virtual production, creative media. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई थिएटर एकेडमी (Shanghai Theatre Academy) <entities/university-theatre>` (上海戏剧学院 · विश्वविद्यालय · जिंगआन (Jing'an) · MOE 4131010279) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: प्रदर्शन कला, वर्चुअल प्रोडक्शन, रचनात्मक मीडिया। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई थिएटर एकेडमी (Shanghai Theatre Academy) <entities/university-theatre>` (上海戏剧学院 · विश्वविद्यालय · जिंगआन (Jing'an) · MOE 4131010279) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: प्रदर्शन कला, वर्चुअल प्रोडक्शन, रचनात्मक मीडिया। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:37
 msgid ""
@@ -286,7 +286,7 @@ msgid ""
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. Address: 3F, Science Building, 788 Guangzhong Road, "
 "Jing'an. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई विश्वविद्यालय (Shanghai University) <entities/university-shu>` (上海大学 · विश्वविद्यालय · जिंगआन (Jing'an) · MOE 4131010280) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: विनिर्माण, रोबोटिक्स, सामग्री, डिजिटल मीडिया। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। तीसरी मंजिल, साइंस बिल्डिंग, 788 गुआंगझोंग रोड, जिंगआन. [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई विश्वविद्यालय (Shanghai University) <entities/university-shu>` (上海大学 · विश्वविद्यालय · जिंगआन (Jing'an) · MOE 4131010280) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: विनिर्माण, रोबोटिक्स, सामग्री, डिजिटल मीडिया। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। तीसरी मंजिल, साइंस बिल्डिंग, 788 गुआंगझोंग रोड, जिंगआन. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:38
 msgid ""
@@ -296,7 +296,7 @@ msgid ""
 "Public-safety education; external project access unverified. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई पुलिस कॉलेज (Shanghai Police College) <entities/university-police>` (上海公安学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010283) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सार्वजनिक-सुरक्षा शिक्षा; बाहरी परियोजना पहुंच असत्यापित। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई पुलिस कॉलेज (Shanghai Police College) <entities/university-police>` (上海公安学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131010283) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: सार्वजनिक-सुरक्षा शिक्षा; बाहरी परियोजना पहुंच असत्यापित। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:39
 msgid ""
@@ -307,7 +307,7 @@ msgid ""
 "manufacturing, design. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इंजीनियरिंग साइंस (SUES) <entities/university-sues>` (上海工程技术大学 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131010856) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: इंजीनियरिंग, गतिशीलता, विनिर्माण, डिज़ाइन। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इंजीनियरिंग साइंस (SUES) <entities/university-sues>` (上海工程技术大学 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131010856) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: इंजीनियरिंग, गतिशीलता, विनिर्माण, डिज़ाइन। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:40
 msgid ""
@@ -318,7 +318,7 @@ msgid ""
 "business analytics. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई लिशिन यूनिवर्सिटी ऑफ अकाउंटिंग एंड फाइनेंस (Lixin University) <entities/university-lixin>` (上海立信会计金融学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131011047) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: लेखांकन प्रणालियां, फिनटेक, बिजनेस एनालिटिक्स। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई लिशिन यूनिवर्सिटी ऑफ अकाउंटिंग एंड फाइनेंस (Lixin University) <entities/university-lixin>` (上海立信会计金融学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131011047) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: लेखांकन प्रणालियां, फिनटेक, बिजनेस एनालिटिक्स। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:41
 msgid ""
@@ -328,7 +328,7 @@ msgid ""
 "Electrical equipment, advanced manufacturing. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई दियनजी विश्वविद्यालय (Shanghai DianJi University) <entities/university-dianji>` (上海电机学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131011458) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: विद्युत उपकरण, उन्नत विनिर्माण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई दियनजी विश्वविद्यालय (Shanghai DianJi University) <entities/university-dianji>` (上海电机学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131011458) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: विद्युत उपकरण, उन्नत विनिर्माण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:42
 msgid ""
@@ -338,7 +338,7 @@ msgid ""
 "digital business and talent partnerships. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`सांडा विश्वविद्यालय (Sanda University) <entities/university-sanda>` (上海杉达学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131011833) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त डिजिटल व्यवसाय और प्रतिभा साझेदारियां। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`सांडा विश्वविद्यालय (Sanda University) <entities/university-sanda>` (上海杉达学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131011833) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त डिजिटल व्यवसाय और प्रतिभा साझेदारियां। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:43
 msgid ""
@@ -349,7 +349,7 @@ msgid ""
 "governance. These themes are editorial routing guidance, not a verified "
 "offer of laboratory access or startup funding. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ पॉलिटिकल साइंस एंड लॉ (SHUPL) <entities/university-shupl>` (上海政法学院 · विश्वविद्यालय · चिंगपू (Qingpu) · MOE 4131011835) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: कानूनी प्रौद्योगिकी, IP, गवर्नेंस। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ पॉलिटिकल साइंस एंड लॉ (SHUPL) <entities/university-shupl>` (上海政法学院 · विश्वविद्यालय · चिंगपू (Qingpu) · MOE 4131011835) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: कानूनी प्रौद्योगिकी, IP, गवर्नेंस। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:44
 msgid ""
@@ -360,7 +360,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`शंघाई पॉलिटेक्निक यूनिवर्सिटी (Shanghai Polytechnic University) <entities/university-polytechnic>` (上海第二工业大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131012044) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त इंजीनियरिंग, इलेक्ट्रॉनिक्स, विनिर्माण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई पॉलिटेक्निक यूनिवर्सिटी (Shanghai Polytechnic University) <entities/university-polytechnic>` (上海第二工业大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131012044) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त इंजीनियरिंग, इलेक्ट्रॉनिक्स, विनिर्माण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:45
 msgid ""
@@ -370,7 +370,7 @@ msgid ""
 "Digital retail, commerce, service innovation. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई बिजनेस स्कूल (Shanghai Business School) <entities/university-business>` (上海商学院 · विश्वविद्यालय · फेंगशियान (Fengxian) · MOE 4131012050) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: डिजिटल रिटेल, वाणिज्य, सेवा नवाचार। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई बिजनेस स्कूल (Shanghai Business School) <entities/university-business>` (上海商学院 · विश्वविद्यालय · फेंगशियान (Fengxian) · MOE 4131012050) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: डिजिटल रिटेल, वाणिज्य, सेवा नवाचार। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:46
 msgid ""
@@ -380,7 +380,7 @@ msgid ""
 "themes: Applied business, design and creative technology. These themes "
 "are editorial routing guidance, not a verified offer of laboratory access "
 "or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई लिडा विश्वविद्यालय (Shanghai Lida University) <entities/university-lida>` (上海立达学院 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131012587) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त व्यवसाय, डिज़ाइन और रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई लिडा विश्वविद्यालय (Shanghai Lida University) <entities/university-lida>` (上海立达学院 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131012587) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त व्यवसाय, डिज़ाइन और रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:47
 msgid ""
@@ -390,7 +390,7 @@ msgid ""
 "collaboration themes: Applied engineering, digital media, business. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई जियान कियाओ विश्वविद्यालय (Shanghai Jian Qiao University) <entities/university-jianqiao>` (上海建桥学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131012799) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त इंजीनियरिंग, डिजिटल मीडिया, व्यवसाय। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई जियान कियाओ विश्वविद्यालय (Shanghai Jian Qiao University) <entities/university-jianqiao>` (上海建桥学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131012799) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त इंजीनियरिंग, डिजिटल मीडिया, व्यवसाय। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:48
 msgid ""
@@ -400,7 +400,7 @@ msgid ""
 "Interdisciplinary education and entrepreneurship conversations. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई शिंग वेई कॉलेज (Shanghai Xing Wei College) <entities/university-xingwei>` (上海兴伟学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131012914) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अंतर-विषयक शिक्षा और उद्यमिता संवाद। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई शिंग वेई कॉलेज (Shanghai Xing Wei College) <entities/university-xingwei>` (上海兴伟学院 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131012914) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अंतर-विषयक शिक्षा और उद्यमिता संवाद। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:49
 msgid ""
@@ -411,7 +411,7 @@ msgid ""
 "undergraduate engineering and applied skills. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई झोंगकियाओ वोकेशनल एंड टेक्निकल यूनिवर्सिटी (Zhongqiao University) <entities/university-zhongqiao>` (上海中侨职业技术大学 · विश्वविद्यालय · जिनशान (Jinshan) · MOE 4131012915) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: व्यावसायिक स्नातक इंजीनियरिंग और अनुप्रयुक्त कौशल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई झोंगकियाओ वोकेशनल एंड टेक्निकल यूनिवर्सिटी (Zhongqiao University) <entities/university-zhongqiao>` (上海中侨职业技术大学 · विश्वविद्यालय · जिनशान (Jinshan) · MOE 4131012915) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: व्यावसायिक स्नातक इंजीनियरिंग और अनुप्रयुक्त कौशल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:50
 msgid ""
@@ -422,7 +422,7 @@ msgid ""
 "These themes are editorial routing guidance, not a verified offer of "
 "laboratory access or startup funding. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`शंघाई इंस्टीट्यूट ऑफ विजुअल आर्ट्स (Shanghai Institute of Visual Arts) <entities/university-siva>` (上海视觉艺术学院 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131013632) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: डिज़ाइन, डिजिटल कंटेंट और रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई इंस्टीट्यूट ऑफ विजुअल आर्ट्स (Shanghai Institute of Visual Arts) <entities/university-siva>` (上海视觉艺术学院 · विश्वविद्यालय · सोंगजियांग (Songjiang) · MOE 4131013632) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: डिज़ाइन, डिजिटल कंटेंट और रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:51
 msgid ""
@@ -433,7 +433,7 @@ msgid ""
 "and creative applications. These themes are editorial routing guidance, "
 "not a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शियानदा कॉलेज ऑफ इकोनॉमिक्स एंड ह्यूमैनिटीज, SISU (Xianda College) <entities/university-xianda>` (上海外国语大学贤达经济人文学院 · विश्वविद्यालय · होंगकोउ (Hongkou) · MOE 4131013636) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: भाषा, वाणिज्य और रचनात्मक अनुप्रयोग। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शियानदा कॉलेज ऑफ इकोनॉमिक्स एंड ह्यूमैनिटीज, SISU (Xianda College) <entities/university-xianda>` (上海外国语大学贤达经济人文学院 · विश्वविद्यालय · होंगकोउ (Hongkou) · MOE 4131013636) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: भाषा, वाणिज्य और रचनात्मक अनुप्रयोग। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:52
 msgid ""
@@ -444,7 +444,7 @@ msgid ""
 "engineering and digital business. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई नॉर्मल यूनिवर्सिटी तियानहुआ कॉलेज (Tianhua College) <entities/university-tianhua>` (上海师范大学天华学院 · विश्वविद्यालय · जियाडिंग (Jiading) · MOE 4131013893) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त शिक्षा, इंजीनियरिंग और डिजिटल व्यवसाय। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई नॉर्मल यूनिवर्सिटी तियानहुआ कॉलेज (Tianhua College) <entities/university-tianhua>` (上海师范大学天华学院 · विश्वविद्यालय · जियाडिंग (Jiading) · MOE 4131013893) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त शिक्षा, इंजीनियरिंग और डिजिटल व्यवसाय। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:53
 msgid ""
@@ -455,7 +455,7 @@ msgid ""
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. Email: ott@shanghaitech.edu.cn. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`शंघाईटेक विश्वविद्यालय (ShanghaiTech University) <entities/university-shanghaitech>` (上海科技大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131014423) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: चिप्स, सॉफ्टवेयर AI, वैज्ञानिक उपकरण, बायोटेक। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। Email: ott@shanghaitech.edu.cn. [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाईटेक विश्वविद्यालय (ShanghaiTech University) <entities/university-shanghaitech>` (上海科技大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131014423) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: चिप्स, सॉफ्टवेयर AI, वैज्ञानिक उपकरण, बायोटेक। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। Email: ott@shanghaitech.edu.cn. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../universities.rst:54
 msgid ""
@@ -465,4 +465,4 @@ msgid ""
 "science, computation and international research. These themes are "
 "editorial routing guidance, not a verified offer of laboratory access or "
 "startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`NYU शंघाई (NYU Shanghai) <entities/university-nyu>` (上海纽约大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131016404) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: डेटा साइंस, कंप्यूटेशन और अंतर्राष्ट्रीय अनुसंधान। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`NYU शंघाई (NYU Shanghai) <entities/university-nyu>` (上海纽约大学 · विश्वविद्यालय · पुडोंग (Pudong) · MOE 4131016404) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: डेटा साइंस, कंप्यूटेशन और अंतर्राष्ट्रीय अनुसंधान। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"

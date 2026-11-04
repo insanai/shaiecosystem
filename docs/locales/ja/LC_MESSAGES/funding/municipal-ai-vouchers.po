@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,10 +30,10 @@ msgstr "2026年第1期受付終了（次回募集枠の確認要）"
 
 #: ../../funding/municipal-ai-vouchers.rst:8
 msgid ""
-"`Evidence S104 "
+"`Evidence S111 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
 "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
-msgstr "`出典 S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`出典 S111 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 
 #: ../../funding/municipal-ai-vouchers.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "適用されるカテゴリおよび専門家評価に基づき支援額
 
 #: ../../funding/municipal-ai-vouchers.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/municipal-ai-vouchers.rst:17
 msgid "Eligibility and timing"
@@ -62,7 +62,7 @@ msgstr "上海市内の適格な大規模AIモデルまたはAIエージェン�
 msgid ""
 "First batch closed 27 May 2026, 16:00 China Standard Time; notice plans "
 "quarterly follow-ups"
-msgstr "第1期は2026年5月27日 16:00（中国標準時）に終了。通知上は四半期ごとの公募継続を予定"
+msgstr "第1期は2026年5月27日 16:00（中国標準時）に受付終了（通知では四半期ごとの継続募集を予定）"
 
 #: ../../funding/municipal-ai-vouchers.rst:24
 msgid "Contact and application"

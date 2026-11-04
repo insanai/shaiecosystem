@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -26,14 +26,14 @@ msgstr "Kostenerstattung | Bezirk Fengxian"
 
 #: ../../funding/fengxian-rd-increase.rst:6
 msgid "Closed"
-msgstr "Geschlossen"
+msgstr "Bewerbungsfrist abgelaufen"
 
 #: ../../funding/fengxian-rd-increase.rst:8
 msgid ""
-"`Evidence S114 "
+"`Evidence S122 "
 "<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. "
 "奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
-msgstr "`Nachweis S114 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
+msgstr "`Nachweis S122 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
 
 #: ../../funding/fengxian-rd-increase.rst:10
 msgid "Amount and mechanism"
@@ -42,7 +42,7 @@ msgstr "Förderhöhe und Mechanismus"
 #: ../../funding/fengxian-rd-increase.rst:13
 msgid ""
 "30% of the qualifying annual R&D net increase, capped at RMB 1 million"
-msgstr "Staffelung nach dem tatsächlichen Zuwachs der F&E-Ausgaben im Jahresvergleich; Festlegung gemäß Bezirksrichtlinie"
+msgstr "30 % des förderfähigen jährlichen Nettozuwachses der F&E-Ausgaben, höchstens 1 Mio. RMB"
 
 #: ../../funding/fengxian-rd-increase.rst:15
 msgid "No equity"
@@ -58,7 +58,7 @@ msgid ""
 "2024 and 2025 tax finalization and R&D super-deduction schedules are "
 "required. Submit online and route the paper pack through the recommending "
 "unit."
-msgstr "Im Bezirk Fengxian steuerlich geführte Technologieunternehmen, deren F&E-Ausgaben im Vergleich zum Vorjahr nachweislich gestiegen sind; Wirtschaftsprüfungsbericht und steuerliche Nachweise erforderlich."
+msgstr "Gültig anerkanntes Hightech-Unternehmen oder 2025 registriertes Technologie-KMU. Steuerabschlüsse und Nachweise zum zusätzlichen F&E-Abzug für 2024 und 2025 sind erforderlich. Online einreichen und Papierunterlagen über die empfehlende Stelle weiterleiten."
 
 #: ../../funding/fengxian-rd-increase.rst:22
 msgid ""

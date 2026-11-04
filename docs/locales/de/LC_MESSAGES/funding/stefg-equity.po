@@ -40,11 +40,11 @@ msgstr "Förderhöhe und Mechanismus"
 msgid ""
 "Up to RMB 800,000 for 3 years; no dividend participation; exit at "
 "original price"
-msgstr "Bis zu 1 Mio. RMB; staatliche direkte Eigenkapitalbeteiligung; vertraglich vereinbarte Rückkaufoption innerhalb von 3 Jahren zum Nennwert"
+msgstr "Bis zu 800.000 RMB für 3 Jahre; keine Beteiligung an Dividenden; Ausstieg zum ursprünglichen Investitionsbetrag"
 
 #: ../../funding/stefg-equity.rst:15
 msgid "Temporary equity; original-price exit"
-msgstr "Temporäre Beteiligung; Ausstieg zum Nennwert"
+msgstr "Befristete Beteiligung; Ausstieg zum ursprünglichen Investitionsbetrag"
 
 #: ../../funding/stefg-equity.rst:17
 msgid "Eligibility and timing"
@@ -55,11 +55,11 @@ msgid ""
 "Eligible technology entrepreneurs meeting the foundation rules; founder "
 "cash funding must exceed the foundation contribution. Review nominee "
 "ownership, exit obligation and documents."
-msgstr "Graduiertenteams mit tiefer technologischer Ausrichtung. Die Eigenkapitalbeteiligung erfordert Verhandlungen über Gesellschaftervertrag, Unternehmensbewertung und Ausstiegspfade."
+msgstr "Technologiegründer, die die Regeln der Stiftung erfüllen; die Bareinlage des Gründers muss den Stiftungsbeitrag übersteigen. Treuhänderische Beteiligung, Ausstiegsverpflichtung und Vertragsunterlagen prüfen."
 
 #: ../../funding/stefg-equity.rst:22
 msgid "Confirm branch intake and review schedule"
-msgstr "Antragsfristen und Begutachtungszyklen der jeweiligen Hochschul- oder Bezirksfiliale beachten"
+msgstr "Zulassung der Geschäftsstelle und Zeitplan prüfen"
 
 #: ../../funding/stefg-equity.rst:24
 msgid "Contact and application"

@@ -135,7 +135,7 @@ msgstr ":doc:`上海中侨职业技术大学 </entities/university-zhongqiao>` �
 
 #: ../../districts/jinshan.rst:41
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/jinshan.rst:44
 msgid ""
@@ -149,7 +149,7 @@ msgstr ":doc:`张江金山园低空无人机与新材料创新支持 </funding/j
 
 #: ../../districts/jinshan.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ":doc:`East China UAV Base </entities/uav-base>`"
 #~ msgstr ":doc:`华东无人机基地 </entities/uav-base>`"

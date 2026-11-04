@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -33,10 +33,10 @@ msgstr "2026년 AI 응용 프로젝트 공모는 2026년 8월 31일에 마감되
 
 #: ../../districts/pudong.rst:8
 msgid ""
-"`Evidence S089 "
+"`Evidence S096 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
 "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
-msgstr "`근거 S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`근거 S096 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 
 #: ../../districts/pudong.rst:10
 msgid "Who receives the inquiry"
@@ -294,7 +294,7 @@ msgid ""
 "compute, model and corpus vouchers. Confirm whether the company's "
 "registered and operating address falls inside the designated town "
 "boundary. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`장장 AI 혁신 소도시 </entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · 과학기술단지 · 소프트웨어 AI, 하드웨어 AI, 과학을 위한 AI (AI for Science)) — 장장 과학성 핵심부에 위치한 2제곱킬로미터 규모의 혁신 집적지로 70만 평방미터의 산업 공간, 시공간 디지털 인프라, 전용 컴퓨팅·모델·코퍼스 바우처를 제공합니다. 기업의 등록지 및 실제 사업장 주소가 소도시 지정 경계 내에 위치해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`장장 AI 혁신 혁신 지구 </entities/zhangjiang-ai-town>` (张江人工智能创新小镇 · 과학기술단지 · 소프트웨어 AI, 하드웨어 AI, 과학을 위한 AI (AI for Science)) — 장장 과학성 핵심부에 위치한 2제곱킬로미터 규모의 혁신 집적지로 70만 평방미터의 산업 공간, 시공간 디지털 인프라, 전용 컴퓨팅·모델·코퍼스 바우처를 제공합니다. 기업의 등록지 및 실제 사업장 주소가 혁신 지구 지정 경계 내에 위치해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
 #: ../../districts/pudong.rst:57
 msgid ""
@@ -328,6 +328,30 @@ msgstr ":doc:`바이엘 Co.Lab 상하이 </entities/bayer>` (拜耳Co.Lab上海 
 
 #: ../../districts/pudong.rst:60
 msgid ""
+":doc:`National-Local Humanoid Robot Innovation Center / pilot platform "
+"</entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · Research platform · "
+"Hardware AI, Robotics, Sensors) — The center links robot data collection, "
+"training and physical validation with a pilot-production platform "
+"operated with Shanghai Electric. The July 2026 announcement describes "
+"industry-facing trial production, testing and scenario validation. Ask "
+"for compatibility, queue, sample ownership, safety responsibilities and a "
+"written service quotation. [Status: Published entity; intake to confirm]"
+msgstr ":doc:`국가·지방 공동 휴머노이드 로봇 혁신센터 / 시범 생산 플랫폼 </entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · 연구 플랫폼 · 하드웨어 AI, 로보틱스, 센서) — 로봇 데이터 수집, 학습, 실기 검증을 상하이전기와 공동 운영하는 시범 생산 플랫폼에 연결합니다. 2026년 7월 발표는 업계 대상 시험 생산, 검사 및 현장 검증 서비스를 소개합니다. 호환성, 대기 일정, 시제품 소유권, 안전 책임 및 서면 견적을 확인해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/pudong.rst:61
+msgid ""
+":doc:`Lin-gang Zero Cube OPC community </entities/zero-cube-opc>` "
+"(临港零界魔方OPC社区 · Incubator · Software AI, Hardware AI, Industry) — A "
+"Lin-gang Group community for solo founders and small teams, with startup "
+"and living-service teams and AI-Store resource access. The August 2026 "
+"operator report describes three rent-free office years followed by two "
+"half-price years for qualifying projects. Housing, loans, vouchers and "
+"admission have separate conditions; confirm the current tenancy contract. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`린강 링제모팡(Zero Cube) OPC 커뮤니티 </entities/zero-cube-opc>` (临港零界魔方OPC社区 · 인큐베이터 · 소프트웨어 AI, 하드웨어 AI, 산업) — 린강그룹이 1인 창업자와 소규모 팀을 위해 운영하는 커뮤니티로, 창업·생활 서비스 및 AI-Store 자원을 연결합니다. 2026년 8월 운영 보고서는 적격 프로젝트에 사무실 임대료 3년 면제, 이후 2년 50% 감면을 안내합니다. 주거, 대출, 바우처 및 입주 조건은 각각 다르므로 현행 임대차계약을 확인해야 합니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../districts/pudong.rst:62
+msgid ""
 ":doc:`Shanghai Maritime University </entities/university-maritime>` "
 "(上海海事大学 · University) — Institutional entry in the June 2026 Ministry of "
 "Education register. Suggested collaboration themes: Shipping, logistics, "
@@ -336,7 +360,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`상하이해사대학교 </entities/university-maritime>` (上海海事大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 스마트 해운, 물류 시스템, 자율운항 해양 시스템. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:61
+#: ../../districts/pudong.rst:63
 msgid ""
 ":doc:`Shanghai University of Electric Power "
 "</entities/university-electric-power>` (上海电力大学 · University) — "
@@ -347,7 +371,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`상하이전력대학교 </entities/university-electric-power>` (上海电力大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 에너지 시스템, 지능형 전력망(스마트그리드), 산업 제어 기술. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:62
+#: ../../districts/pudong.rst:64
 msgid ""
 ":doc:`Shanghai University of Medicine and Health Sciences "
 "</entities/university-sumhs>` (上海健康医学院 · University) — Institutional "
@@ -358,7 +382,7 @@ msgid ""
 "to confirm]"
 msgstr ":doc:`상하이건강의학원 </entities/university-sumhs>` (上海健康医学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 헬스케어 의료기기, 디지털 진단, 임상 실증 기술. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:63
+#: ../../districts/pudong.rst:65
 msgid ""
 ":doc:`Shanghai Ocean University </entities/university-ocean>` (上海海洋大学 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -368,7 +392,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`상하이해양대학교 </entities/university-ocean>` (上海海洋大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 해양 과학, 스마트 수산 양식, 스마트 농업. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:64
+#: ../../districts/pudong.rst:66
 msgid ""
 ":doc:`Shanghai University of Traditional Chinese Medicine "
 "</entities/university-tcm>` (上海中医药大学 · University) — Institutional entry "
@@ -378,7 +402,7 @@ msgid ""
 "startup funding. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`상하이중의약대학교 </entities/university-tcm>` (上海中医药大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 디지털 헬스케어, 천연물 AI 신약 개발, 한의학 임상 데이터. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:65
+#: ../../districts/pudong.rst:67
 msgid ""
 ":doc:`Shanghai Customs University </entities/university-customs>` (上海海关学院 "
 "· University) — Institutional entry in the June 2026 Ministry of "
@@ -388,7 +412,7 @@ msgid ""
 "[Status: Published entity; intake to confirm]"
 msgstr ":doc:`상하이해관학원 </entities/university-customs>` (上海海关学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 스마트 관세 행정, 통관 절차 자동화, 무역 규제 준수(컴플라이언스) 시스템. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:66
+#: ../../districts/pudong.rst:68
 msgid ""
 ":doc:`Shanghai Police College </entities/university-police>` (上海公安学院 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -398,7 +422,7 @@ msgid ""
 "[Status: Published entity; intake to confirm]"
 msgstr ":doc:`상하이공안학원 </entities/university-police>` (上海公安学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 공공 안전 교육 및 치안 과학; 외부 프로젝트 협력 창구 미확인. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:67
+#: ../../districts/pudong.rst:69
 msgid ""
 ":doc:`Shanghai Lixin University of Accounting and Finance "
 "</entities/university-lixin>` (上海立信会计金融学院 · University) — Institutional "
@@ -409,7 +433,7 @@ msgid ""
 "to confirm]"
 msgstr ":doc:`상하이리신회계금융학원 </entities/university-lixin>` (上海立信会计金融学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 스마트 회계 시스템, 핀테크, 비즈니스 인텔리전스 분석. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:68
+#: ../../districts/pudong.rst:70
 msgid ""
 ":doc:`Shanghai DianJi University </entities/university-dianji>` (上海电机学院 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -419,7 +443,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`상하이전기학원 </entities/university-dianji>` (上海电机学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 전기 전자 장비, 메카트로닉스, 스마트 팩토리 제조. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:69
+#: ../../districts/pudong.rst:71
 msgid ""
 ":doc:`Sanda University </entities/university-sanda>` (上海杉达学院 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -429,7 +453,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`상하이산다학원 </entities/university-sanda>` (上海杉达学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 실용 디지털 비즈니스 및 산업 연계 인재 양성. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:70
+#: ../../districts/pudong.rst:72
 msgid ""
 ":doc:`Shanghai Polytechnic University </entities/university-polytechnic>` "
 "(上海第二工业大学 · University) — Institutional entry in the June 2026 Ministry "
@@ -439,7 +463,7 @@ msgid ""
 "funding. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`상하이 제2공업대학교 </entities/university-polytechnic>` (上海第二工业大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 실용 공학 기술, 전자정보, 지능형 제조 설비. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:71
+#: ../../districts/pudong.rst:73
 msgid ""
 ":doc:`Shanghai Jian Qiao University </entities/university-jianqiao>` "
 "(上海建桥学院 · University) — Institutional entry in the June 2026 Ministry of "
@@ -449,7 +473,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`상하이젠차오학원 </entities/university-jianqiao>` (上海建桥学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 실용 엔지니어링, 디지털 미디어 제작, e비즈니스. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:72
+#: ../../districts/pudong.rst:74
 msgid ""
 ":doc:`Shanghai Xing Wei College </entities/university-xingwei>` (上海兴伟学院 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -459,7 +483,7 @@ msgid ""
 "[Status: Published entity; intake to confirm]"
 msgstr ":doc:`상하이싱웨이학원 </entities/university-xingwei>` (上海兴伟学院 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 융합 인문 교양 교육 및 초기 창업 멘토링. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:73
+#: ../../districts/pudong.rst:75
 msgid ""
 ":doc:`ShanghaiTech University </entities/university-shanghaitech>` "
 "(上海科技大学 · University) — Institutional entry in the June 2026 Ministry of "
@@ -469,7 +493,7 @@ msgid ""
 "[Status: Published entity; intake to confirm]"
 msgstr ":doc:`상하이과기대학교 </entities/university-shanghaitech>` (上海科技大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 인공지능 반도체 칩, 시스템 소프트웨어, 첨단 연구장비, 바이오테크. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:74
+#: ../../districts/pudong.rst:76
 msgid ""
 ":doc:`NYU Shanghai </entities/university-nyu>` (上海纽约大学 · University) — "
 "Institutional entry in the June 2026 Ministry of Education register. "
@@ -479,36 +503,46 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`상하이 뉴욕대학교 </entities/university-nyu>` (上海纽约大学 · 대학) — 2026년 6월 교육부 명부에 등재된 기관 프로필. 권장 협력 주제: 데이터 사이언스, 고성능 컴퓨팅, 글로벌 융합 연구. 이 주제들은 편집상의 안내이며, 실험실 출입이나 창업 자금 지원이 검증된 제안은 아닙니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
-#: ../../districts/pudong.rst:76
+#: ../../districts/pudong.rst:78
 msgid "Funding routes"
 msgstr "자금 지원 경로"
 
-#: ../../districts/pudong.rst:79
+#: ../../districts/pudong.rst:81
 msgid ""
 ":doc:`Pudong AI model and agent application support, 2026 "
 "</funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · Reimbursement · No "
 "equity) — Support rate and amount subject to applicable implementing "
 "rules. Status: Closed. Timing: Closed 31 Aug 2026, 16:00 China Standard "
 "Time."
-msgstr ":doc:`2026년 푸둥 대형 AI 모델 및 에이전트 응용 프로젝트 </funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · 비용 환급 지원 · 지분 취득 없음) — 지원 비율 및 지원 한도는 해당 실시 세칙 기준. 상태: 모집 마감. 일정: 2026년 8월 31일 16:00(중국 표준시) 접수 마감."
+msgstr ":doc:`2026년 푸둥 대형 AI 모델 및 에이전트 응용 프로젝트 </funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · 비용 환급 지원 · 지분 제공 의무 없음) — 지원 비율 및 지원 한도는 해당 실시 세칙 기준. 상태: 접수 마감. 일정: 2026년 8월 31일 16:00(중국 표준시) 마감."
 
-#: ../../districts/pudong.rst:80
+#: ../../districts/pudong.rst:82
 msgid ""
 ":doc:`Pudong AI Seed Fund </funding/pudong-equity>` (浦东人工智能种子基金 · Equity "
 "investment · Negotiated equity) — Fund target RMB 2bn; first tranche RMB "
 "500m; individual cheque not established. Status: Fund announced; deal "
 "intake to confirm. Timing: Manager-led sourcing and due diligence."
-msgstr ":doc:`푸둥 인공지능 시드 펀드 </funding/pudong-equity>` (浦东人工智能种子基金 · 지분 투자 · 협의 지분율 적용) — 총 규모 2억 위안의 초기 지분투자 펀드; 건당 투자 규모는 투자심의위원회 심의를 통해 결정. 상태: 펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요. 일정: 위탁 운용사 상시 발굴 및 투자 심의 절차에 따름."
+msgstr ":doc:`푸둥 인공지능 시드 펀드 </funding/pudong-equity>` (浦东人工智能种子基金 · 지분 투자 · 협의 지분율 적용) — 목표 펀드 규모 20억 위안, 1차 조성 규모 5억 위안; 기업별 투자액은 확인되지 않음. 상태: 펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요. 일정: 운용사 주도 딜 발굴 및 실사 진행."
 
-#: ../../districts/pudong.rst:81
+#: ../../districts/pudong.rst:83
 msgid ""
 ":doc:`Zhangjiang AI Town compute, model and corpus support "
 "</funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Reimbursement · "
 "No equity) — Up to 100% of approved actual cost, capped at RMB 1m in each "
 "category; at most one year. Status: Quarterly scheme published; current "
 "intake to confirm. Timing: Quarterly claims; confirm the current batch."
-msgstr ":doc:`장장 AI 혁신 소도시 컴퓨팅·모델·코퍼스 지원 </funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · 비용 환급 지원 · 지분 취득 없음) — 장장 AI 혁신 소도시 전용 바우처 정책에 따른 적격 컴퓨팅 비용 감면 및 모델·데이터 구매 지원. 상태: 분기별 프로그램 공시됨; 당해 분기 접수 확인 필요. 일정: 소도시 전용 실시 지침 및 신청 창구 확인 필요."
+msgstr ":doc:`장장 AI 혁신 혁신 지구 컴퓨팅·모델·코퍼스 지원 </funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · 비용 환급 지원 · 지분 제공 의무 없음) — 승인된 실제 비용의 최대 100%, 항목별 최대 100만 위안; 지원 기간 최대 1년. 상태: 분기별 프로그램 공시됨; 당해 분기 접수 확인 필요. 일정: 분기별 신청; 당해 접수 차수 확인 필요."
 
-#: ../../districts/pudong.rst:83
+#: ../../districts/pudong.rst:84
+msgid ""
+":doc:`Lin-gang Zero Cube conditional rent support "
+"</funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · In-kind services · No "
+"equity stated in offer; verify terms) — Qualifying offices: 3 years "
+"rent-free, then 2 years at half rent; separate housing and service terms. "
+"Status: Published service; current terms to confirm. Timing: Confirm "
+"current community admission and tenancy terms."
+msgstr ":doc:`린강 링제모팡 조건부 임대료 지원 </funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · 현물 및 서비스 지원 · 제안상 지분 요구 없음; 세부 조건 확인 필요) — 적격 사무실 임대료 3년 면제, 이후 2년 반값; 주거·서비스는 별도 조건. 상태: 서비스 공시됨; 최신 약관 확인 필요. 일정: 현행 입주 및 임대차 조건 확인."
+
+#: ../../districts/pudong.rst:86
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`상하이 시 전역 지원 경로와 함께 비교 </funding>`"

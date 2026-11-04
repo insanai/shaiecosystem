@@ -123,7 +123,7 @@ msgstr ":doc:`崇明区企业技术中心与生态科创平台 </entities/chongm
 
 #: ../../districts/chongming.rst:40
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/chongming.rst:43
 msgid ""
@@ -148,7 +148,7 @@ msgstr ":doc:`2026崇明区创业创新大赛与联动扶持 </funding/chongming
 
 #: ../../districts/chongming.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ":doc:`Zhangjiang Chongming Park </entities/chongming-park>`"
 #~ msgstr ":doc:`张江高新区崇明园 </entities/chongming-park>`"

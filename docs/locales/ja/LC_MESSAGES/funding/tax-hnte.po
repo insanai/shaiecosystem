@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,10 +30,10 @@ msgstr "税務指針公表済み（企業認定の取得要）"
 
 #: ../../funding/tax-hnte.rst:8
 msgid ""
-"`Evidence S099 "
+"`Evidence S106 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
 "上海市“2366”产业税收优惠政策指引."
-msgstr "`出典 S099 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+msgstr "`出典 S106 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
 
 #: ../../funding/tax-hnte.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "認定を受けた適格企業に対し、法人所得税率を一律15�
 
 #: ../../funding/tax-hnte.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/tax-hnte.rst:17
 msgid "Eligibility and timing"
@@ -59,7 +59,7 @@ msgstr "国家ハイテク企業認定の取得および継続的なコンプラ
 
 #: ../../funding/tax-hnte.rst:22
 msgid "Recognition batches and annual filing"
-msgstr "認定申請バッチおよび毎年の年次確定申告に従う"
+msgstr "認定バッチおよび年次申告に基づく"
 
 #: ../../funding/tax-hnte.rst:24
 msgid "Contact and application"

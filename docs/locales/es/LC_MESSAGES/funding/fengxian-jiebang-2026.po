@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -32,10 +32,10 @@ msgstr "Convocatoria 2026 publicada; verificar fecha límite"
 
 #: ../../funding/fengxian-jiebang-2026.rst:8
 msgid ""
-"`Evidence S126 "
+"`Evidence S134 "
 "<https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_. "
 "奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告."
-msgstr "`Evidencia S126 <https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告."
+msgstr "`Evidencia S134 <https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告."
 
 #: ../../funding/fengxian-jiebang-2026.rst:10
 msgid "Amount and mechanism"
@@ -48,7 +48,7 @@ msgstr "Subvención de I+D por hitos vinculada al valor del contrato de resoluci
 
 #: ../../funding/fengxian-jiebang-2026.rst:15
 msgid "No equity"
-msgstr "Sin cesión de capital (No equity)"
+msgstr "Sin cesión de participaciones"
 
 #: ../../funding/fengxian-jiebang-2026.rst:17
 msgid "Eligibility and timing"

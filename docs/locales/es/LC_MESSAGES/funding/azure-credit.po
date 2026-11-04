@@ -58,7 +58,7 @@ msgstr "Solicite en línea y verifique la elegibilidad de la empresa, la región
 
 #: ../../funding/azure-credit.rst:22
 msgid "Confirm current application and credit validity"
-msgstr "Confirmar la solicitud vigente y el período de validez de los créditos"
+msgstr "Confirmar la solicitud vigente y la validez de los créditos"
 
 #: ../../funding/azure-credit.rst:24
 msgid "Contact and application"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -30,9 +30,9 @@ msgstr "目录已公布，须贷款方审核"
 
 #: ../../funding/huangpu-credit-directory.rst:8
 msgid ""
-"`Evidence S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
+"`Evidence S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
 "黄浦区融资信用服务平台-银行产品."
-msgstr "`证据 S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
+msgstr "`证据 S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
 
 #: ../../funding/huangpu-credit-directory.rst:10
 msgid "Amount and mechanism"

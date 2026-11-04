@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,14 +26,14 @@ msgstr "इक्विटी निवेश | जियाडिंग (Jiadin
 
 #: ../../funding/jiading-future-fund.rst:6
 msgid "Fund announced; deal intake to confirm"
-msgstr "फंड घोषित; डील प्रवेश की पुष्टि शेष"
+msgstr "फंड घोषित; निवेश प्रस्तावों की स्वीकृति की पुष्टि शेष"
 
 #: ../../funding/jiading-future-fund.rst:8
 msgid ""
-"`Evidence S118 "
+"`Evidence S126 "
 "<https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading "
 "launches 800m-yuan future industry fund."
-msgstr "`साक्ष्य S118 <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading launches 800m-yuan future industry fund."
+msgstr "`साक्ष्य S126 <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading launches 800m-yuan future industry fund."
 
 #: ../../funding/jiading-future-fund.rst:10
 msgid "Amount and mechanism"
@@ -43,7 +43,7 @@ msgstr "राशि और तंत्र"
 msgid ""
 "Announced fund scale RMB 800 million; individual investment not "
 "established"
-msgstr "घोषित फंड पैमाना RMB 800 मिलियन; व्यक्तिगत निवेश स्थापित नहीं"
+msgstr "घोषित फंड का आकार 80 करोड़ RMB; प्रति कंपनी निवेश की राशि की पुष्टि नहीं हुई है"
 
 #: ../../funding/jiading-future-fund.rst:15
 msgid "Negotiated equity"
@@ -62,7 +62,7 @@ msgstr "फंड प्रबंधक के वर्तमान भवि�
 
 #: ../../funding/jiading-future-fund.rst:22
 msgid "Manager-led sourcing; current deal intake to confirm"
-msgstr "प्रबंधक-नेतृत्व वाली सोर्सिंग; वर्तमान डील प्रवेश की पुष्टि करें"
+msgstr "प्रबंधक-नेतृत्व वाली सोर्सिंग; वर्तमान निवेश प्रस्तावों की स्वीकृति की पुष्टि करें"
 
 #: ../../funding/jiading-future-fund.rst:24
 msgid "Contact and application"

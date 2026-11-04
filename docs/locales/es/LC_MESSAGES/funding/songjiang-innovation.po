@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -30,10 +30,10 @@ msgstr "Política vigente; convocatoria no confirmada como abierta"
 
 #: ../../funding/songjiang-innovation.rst:8
 msgid ""
-"`Evidence S112 "
+"`Evidence S120 "
 "<https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. "
 "关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
-msgstr "`Evidencia S112 <https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. 关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
+msgstr "`Evidencia S120 <https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. 关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
 
 #: ../../funding/songjiang-innovation.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "Proyecto de innovación distrital de hasta 100.000 RMB; proyectos munici
 
 #: ../../funding/songjiang-innovation.rst:15
 msgid "No equity"
-msgstr "Sin cesión de capital (No equity)"
+msgstr "Sin cesión de participaciones"
 
 #: ../../funding/songjiang-innovation.rst:17
 msgid "Eligibility and timing"

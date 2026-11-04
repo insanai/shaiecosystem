@@ -40,7 +40,7 @@ msgstr "Förderhöhe und Mechanismus"
 
 #: ../../funding/nvidia-service.rst:13
 msgid "Free membership; conditional ecosystem benefits, not a cash grant"
-msgstr "Rabatte auf Hardware und Cloud-Computing, DLI-Schulungsguthaben und weltweite Sichtbarkeit"
+msgstr "Kostenlose Mitgliedschaft; Leistungen des Partnernetzwerks unterliegen Bedingungen; kein Barzuschuss"
 
 #: ../../funding/nvidia-service.rst:15
 msgid "No equity"
@@ -59,7 +59,7 @@ msgstr "Berechtigte KI-Startups in der Frühphase; Registrierung, Entwicklungsst
 
 #: ../../funding/nvidia-service.rst:22
 msgid "Online application; regional eligibility review"
-msgstr "Laufende Online-Bewerbung; regionale Prüfung der Förderfähigkeit"
+msgstr "Online-Antragstellung; Prüfung der regionalen Förderfähigkeit"
 
 #: ../../funding/nvidia-service.rst:24
 msgid "Contact and application"

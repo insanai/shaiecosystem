@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -26,13 +26,13 @@ msgstr "Zuschuss | Bezirk Changning"
 
 #: ../../funding/changning-ai-2026.rst:6
 msgid "Closed"
-msgstr "Geschlossen"
+msgstr "Bewerbungsfrist abgelaufen"
 
 #: ../../funding/changning-ai-2026.rst:8
 msgid ""
-"`Evidence S107 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. "
+"`Evidence S115 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. "
 "上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
-msgstr "`Nachweis S107 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. 上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
+msgstr "`Nachweis S115 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_. 上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南."
 
 #: ../../funding/changning-ai-2026.rst:10
 msgid "Amount and mechanism"
@@ -56,7 +56,7 @@ msgid ""
 "Lawfully established Changning legal or non-legal-person organizations "
 "with normal operations and good credit. The call covers multiple AI, "
 "software, technology-service and market-development directions."
-msgstr "Rechtmäßig gegründete juristische und nicht-juristische Einheiten in Changning mit ordnungsgemäßem Geschäftsbetrieb und guter Bonität. Der Aufruf umfasst Schwerpunkte in KI, Software, Technologiedienstleistungen und Markterschließung."
+msgstr "Rechtmäßig gegründete Organisationen mit oder ohne Rechtspersönlichkeit in Changning, mit regulärem Betrieb und guter Bonität. Mehrere Förderrichtungen für KI, Software, Technologiedienstleistungen und Markterschließung."
 
 #: ../../funding/changning-ai-2026.rst:22
 msgid "Closed 30 June 2026"

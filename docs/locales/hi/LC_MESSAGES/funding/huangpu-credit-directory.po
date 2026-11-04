@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -30,9 +30,9 @@ msgstr "प्रकाशित निर्देशिका; ऋणदात
 
 #: ../../funding/huangpu-credit-directory.rst:8
 msgid ""
-"`Evidence S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
+"`Evidence S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
 "黄浦区融资信用服务平台-银行产品."
-msgstr "`साक्ष्य S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
+msgstr "`साक्ष्य S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
 
 #: ../../funding/huangpu-credit-directory.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "उत्पाद-विशिष्ट बैंक क्रेडि
 
 #: ../../funding/huangpu-credit-directory.rst:15
 msgid "No equity; repayable"
-msgstr "कोई इक्विटी नहीं; पुनर्भुगतान योग्य"
+msgstr "हिस्सेदारी नहीं देनी होती; ऋण चुकाना होगा"
 
 #: ../../funding/huangpu-credit-directory.rst:17
 msgid "Eligibility and timing"

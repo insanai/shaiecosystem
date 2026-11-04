@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -26,14 +26,14 @@ msgstr "助成金・補助金 | 普陀区"
 
 #: ../../funding/putuo-seed.rst:6
 msgid "Closed"
-msgstr "受付終了"
+msgstr "募集終了"
 
 #: ../../funding/putuo-seed.rst:8
 msgid ""
-"`Evidence S109 "
+"`Evidence S117 "
 "<https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_. "
 "关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀."
-msgstr "`出典 S109 <https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_. 关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀."
+msgstr "`出典 S117 <https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_. 关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀."
 
 #: ../../funding/putuo-seed.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "採択企業1社につき30万元（採択時に50％交付、1年後の
 
 #: ../../funding/putuo-seed.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/putuo-seed.rst:17
 msgid "Eligibility and timing"

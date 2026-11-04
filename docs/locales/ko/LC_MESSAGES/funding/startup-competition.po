@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -22,7 +22,7 @@ msgstr "2026 촹짜이상하이 국제 혁신창업대회"
 
 #: ../../funding/startup-competition.rst:4
 msgid "Competition | Citywide / global"
-msgstr "경진대회 | 전시 / 글로벌"
+msgstr "경진대회 | 상하이 전역 / 글로벌"
 
 #: ../../funding/startup-competition.rst:6
 msgid "2026 call published; deadline check required"
@@ -30,10 +30,10 @@ msgstr "2026년 공고 발표됨; 마감일 확인 필요"
 
 #: ../../funding/startup-competition.rst:8
 msgid ""
-"`Evidence S100 "
+"`Evidence S107 "
 "<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. "
 "2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
-msgstr "`근거 S100 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
+msgstr "`근거 S107 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_. 2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会."
 
 #: ../../funding/startup-competition.rst:10
 msgid "Amount and mechanism"
@@ -41,7 +41,7 @@ msgstr "지원 규모 및 지원 방식"
 
 #: ../../funding/startup-competition.rst:13
 msgid "Awards and connected investment depend on track; not guaranteed"
-msgstr "대회 수상 및 평가 결과에 따른 시·구 연계 혁신 자금 지원"
+msgstr "상금과 연계 투자는 대회 부문에 따라 다르며 지원이 보장되지는 않음"
 
 #: ../../funding/startup-competition.rst:15
 msgid "Award / investment terms vary"
@@ -56,11 +56,11 @@ msgid ""
 "Domestic and overseas teams and companies under the official track rules. "
 "Competition admission, innovation funding and investor interest are "
 "separate outcomes."
-msgstr "상하이 소재 적격 중소기업 및 신규 창업팀. 부문별 트랙, 업종 기준, 기업 연력 요건이 적용됩니다."
+msgstr "공식 부문별 규정에 따른 국내외 창업팀 및 기업이 대상입니다. 대회 참가, 혁신 지원금 선정, 투자자의 관심은 각각 별개의 결과입니다."
 
 #: ../../funding/startup-competition.rst:22
 msgid "Check the specific 2026 track; not labelled open"
-msgstr "2026년 공식 대회 공고 요건 확인 필요"
+msgstr "2026년 세부 트랙 확인 필요; 접수 중 표기 없음"
 
 #: ../../funding/startup-competition.rst:24
 msgid "Contact and application"

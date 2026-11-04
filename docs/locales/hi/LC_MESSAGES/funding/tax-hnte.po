@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -30,10 +30,10 @@ msgstr "प्रकाशित कर मार्गदर्शन; मा�
 
 #: ../../funding/tax-hnte.rst:8
 msgid ""
-"`Evidence S099 "
+"`Evidence S106 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
 "上海市“2366”产业税收优惠政策指引."
-msgstr "`साक्ष्य S099 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+msgstr "`साक्ष्य S106 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
 
 #: ../../funding/tax-hnte.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "योग्य मान्यता प्राप्त उद्य
 
 #: ../../funding/tax-hnte.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/tax-hnte.rst:17
 msgid "Eligibility and timing"

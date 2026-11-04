@@ -210,7 +210,7 @@ msgid ""
 "repayable) — Product-specific technology credit and IP finance; no "
 "universal ceiling. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`楊浦区融資信用サービスプラットフォーム </funding/yangpu-credit-directory>` （杨浦融资信用服务平台 · 融資・ローン · 株式希薄化なし（要返済））— テクノロジー信用融資および知財ファイナンス商品ごとに規定（一律の上限額はなし）。ステータス：公表名簿掲載（融資機関による審査要）。時期：商品ごとに異なる（各金融機関の現行条件を確認のこと）。"
+msgstr ":doc:`楊浦区融資信用サービスプラットフォーム </funding/yangpu-credit-directory>` （杨浦融资信用服务平台 · 融資・ローン · 株式の提供不要・返済義務あり）— テクノロジー信用融資および知財ファイナンス商品ごとに規定（一律の上限額はなし）。ステータス：公表名簿掲載（融資機関による審査要）。時期：商品ごとに異なる（各金融機関の現行条件を確認のこと）。"
 
 #: ../../districts/yangpu.rst:52
 msgid ""
@@ -220,7 +220,7 @@ msgid ""
 "co-investment; individual cheque subject to investment committee review. "
 "Status: Published investment platform; deal review. Timing: Manager-led "
 "sourcing and due diligence."
-msgstr ":doc:`楊浦区夢想起航エンジェル共同投資ファンド </funding/yangpu-angel-fund>` （杨浦梦想起航天使引投基金 · 株式投資・出資 · 個別協議による株式取得）— 区国有の初期段階エクイティ共同投資ファンド。1社あたりの出資額は投資委員会の審査を経て決定。ステータス：公表済み投資プラットフォーム（案件審査要）。時期：運用会社主導によるソーシングおよびデューデリジェンス。"
+msgstr ":doc:`楊浦区夢想起航エンジェル共同投資ファンド </funding/yangpu-angel-fund>` （杨浦梦想起航天使引投基金 · 株式投資・出資 · 個別協議による株式取得）— 区国有の初期段階エクイティ共同投資ファンド。1社あたりの出資額は投資委員会の審査を経て決定。ステータス：公表済み投資プラットフォーム（案件審査要）。時期：運用会社主導のソーシングおよびデューデリジェンス。"
 
 #: ../../districts/yangpu.rst:54
 msgid ":doc:`Also compare citywide funding </funding>`"

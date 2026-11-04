@@ -124,7 +124,7 @@ msgstr ":doc:`东虹桥国际青年科创中心 </entities/east-hongqiao>` （�
 
 #: ../../districts/changning.rst:40
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/changning.rst:43
 msgid ""
@@ -144,7 +144,7 @@ msgstr ":doc:`2026长宁科技之星团队 </funding/changning-tech-star>` （20
 
 #: ../../districts/changning.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ""
 #~ ":doc:`Digital Silicon Alley / Hongqiao innovation carriers "

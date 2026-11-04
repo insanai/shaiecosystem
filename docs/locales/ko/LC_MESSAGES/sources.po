@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -58,23 +58,25 @@ msgstr "출처 URL: https://www.opensmc.com/"
 #: ../../sources.rst:553 ../../sources.rst:562 ../../sources.rst:571
 #: ../../sources.rst:580 ../../sources.rst:589 ../../sources.rst:598
 #: ../../sources.rst:607 ../../sources.rst:616 ../../sources.rst:625
-#: ../../sources.rst:652 ../../sources.rst:679 ../../sources.rst:688
-#: ../../sources.rst:697 ../../sources.rst:706 ../../sources.rst:724
-#: ../../sources.rst:733 ../../sources.rst:751 ../../sources.rst:760
-#: ../../sources.rst:769 ../../sources.rst:778 ../../sources.rst:787
-#: ../../sources.rst:796 ../../sources.rst:805 ../../sources.rst:814
-#: ../../sources.rst:832 ../../sources.rst:841 ../../sources.rst:859
-#: ../../sources.rst:868 ../../sources.rst:895 ../../sources.rst:904
-#: ../../sources.rst:913 ../../sources.rst:922 ../../sources.rst:931
-#: ../../sources.rst:940 ../../sources.rst:949 ../../sources.rst:958
-#: ../../sources.rst:967 ../../sources.rst:976 ../../sources.rst:985
-#: ../../sources.rst:994 ../../sources.rst:1003 ../../sources.rst:1012
-#: ../../sources.rst:1021 ../../sources.rst:1030 ../../sources.rst:1039
-#: ../../sources.rst:1048 ../../sources.rst:1057 ../../sources.rst:1075
+#: ../../sources.rst:652 ../../sources.rst:670 ../../sources.rst:679
+#: ../../sources.rst:688 ../../sources.rst:697 ../../sources.rst:715
+#: ../../sources.rst:724 ../../sources.rst:742 ../../sources.rst:751
+#: ../../sources.rst:760 ../../sources.rst:769 ../../sources.rst:787
+#: ../../sources.rst:796 ../../sources.rst:814 ../../sources.rst:823
+#: ../../sources.rst:832 ../../sources.rst:841 ../../sources.rst:850
+#: ../../sources.rst:859 ../../sources.rst:868 ../../sources.rst:877
+#: ../../sources.rst:895 ../../sources.rst:904 ../../sources.rst:922
+#: ../../sources.rst:931 ../../sources.rst:958 ../../sources.rst:967
+#: ../../sources.rst:976 ../../sources.rst:985 ../../sources.rst:994
+#: ../../sources.rst:1003 ../../sources.rst:1012 ../../sources.rst:1021
+#: ../../sources.rst:1030 ../../sources.rst:1039 ../../sources.rst:1048
+#: ../../sources.rst:1057 ../../sources.rst:1066 ../../sources.rst:1075
 #: ../../sources.rst:1084 ../../sources.rst:1093 ../../sources.rst:1102
 #: ../../sources.rst:1111 ../../sources.rst:1120 ../../sources.rst:1129
-#: ../../sources.rst:1138 ../../sources.rst:1147 ../../sources.rst:1183
-#: ../../sources.rst:1192 ../../sources.rst:1201
+#: ../../sources.rst:1147 ../../sources.rst:1156 ../../sources.rst:1165
+#: ../../sources.rst:1174 ../../sources.rst:1183 ../../sources.rst:1192
+#: ../../sources.rst:1201 ../../sources.rst:1210 ../../sources.rst:1219
+#: ../../sources.rst:1255 ../../sources.rst:1264
 msgid "Source language: zh-CN. Research date: 2026-11-04."
 msgstr "출처 언어: zh-CN. 연구 일자: 2026-11-04."
 
@@ -130,10 +132,10 @@ msgstr "출처 URL: https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260724/
 #: ../../sources.rst:373 ../../sources.rst:382 ../../sources.rst:409
 #: ../../sources.rst:427 ../../sources.rst:436 ../../sources.rst:472
 #: ../../sources.rst:634 ../../sources.rst:643 ../../sources.rst:661
-#: ../../sources.rst:670 ../../sources.rst:715 ../../sources.rst:742
-#: ../../sources.rst:823 ../../sources.rst:850 ../../sources.rst:877
-#: ../../sources.rst:886 ../../sources.rst:1066 ../../sources.rst:1156
-#: ../../sources.rst:1165 ../../sources.rst:1174
+#: ../../sources.rst:706 ../../sources.rst:733 ../../sources.rst:778
+#: ../../sources.rst:805 ../../sources.rst:886 ../../sources.rst:913
+#: ../../sources.rst:940 ../../sources.rst:949 ../../sources.rst:1138
+#: ../../sources.rst:1228 ../../sources.rst:1237 ../../sources.rst:1246
 msgid "Source language: en. Research date: 2026-11-04."
 msgstr "출처 언어: en. 연구 일자: 2026-11-04."
 
@@ -1163,12 +1165,17 @@ msgid "S074"
 msgstr "S074"
 
 #: ../../sources.rst:666
-msgid "`Contact <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_"
-msgstr "`Contact <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_"
+msgid ""
+"`Beiyang AI Town and the SII research-founder incubation network, "
+"September 2026 "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260917/4547dd382eb245988cc12f945923bc0b.html>`_"
+msgstr "`Beiyang AI Town and the SII research-founder incubation network, September 2026 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260917/4547dd382eb245988cc12f945923bc0b.html>`_"
 
 #: ../../sources.rst:668
-msgid "Source URL: https://www.fudan.edu.cn/en/Contact_931/list.htm"
-msgstr "출처 URL: https://www.fudan.edu.cn/en/Contact_931/list.htm"
+msgid ""
+"Source URL: "
+"https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260917/4547dd382eb245988cc12f945923bc0b.html"
+msgstr "출처 URL: https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260917/4547dd382eb245988cc12f945923bc0b.html"
 
 #: ../../sources.rst:672
 msgid "S075"
@@ -1176,13 +1183,15 @@ msgstr "S075"
 
 #: ../../sources.rst:675
 msgid ""
-"`技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院 "
-"<https://ist.fudan.edu.cn/Data/View/3276>`_"
-msgstr "`技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院 <https://ist.fudan.edu.cn/Data/View/3276>`_"
+"`Pudong humanoid robot training and pilot-production services, July 2026 "
+"<https://www.shanghai.gov.cn/nw15343/20260722/dc0b915f171c4ab5a52e495c3a2cc09e.html>`_"
+msgstr "`Pudong humanoid robot training and pilot-production services, July 2026 <https://www.shanghai.gov.cn/nw15343/20260722/dc0b915f171c4ab5a52e495c3a2cc09e.html>`_"
 
 #: ../../sources.rst:677
-msgid "Source URL: https://ist.fudan.edu.cn/Data/View/3276"
-msgstr "출처 URL: https://ist.fudan.edu.cn/Data/View/3276"
+msgid ""
+"Source URL: "
+"https://www.shanghai.gov.cn/nw15343/20260722/dc0b915f171c4ab5a52e495c3a2cc09e.html"
+msgstr "출처 URL: https://www.shanghai.gov.cn/nw15343/20260722/dc0b915f171c4ab5a52e495c3a2cc09e.html"
 
 #: ../../sources.rst:681
 msgid "S076"
@@ -1190,39 +1199,47 @@ msgstr "S076"
 
 #: ../../sources.rst:684
 msgid ""
-"`全国高等学校名单 - 中华人民共和国教育部政府门户网站 "
-"<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_"
-msgstr "`全国高等学校名单 - 中华人民共和国教育部政府门户网站 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_"
+"`Lin-gang Zero Cube OPC community, August 2026 "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
+msgstr "`Lin-gang Zero Cube OPC community, August 2026 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
 
 #: ../../sources.rst:686
 msgid ""
 "Source URL: "
-"https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html"
-msgstr "출처 URL: https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html"
+"https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html"
+msgstr "출처 URL: https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html"
 
 #: ../../sources.rst:690
 msgid "S077"
 msgstr "S077"
 
 #: ../../sources.rst:693
-msgid "`联系方式 <https://tjkg.tongji.edu.cn/33864/list.htm>`_"
-msgstr "`联系方式 <https://tjkg.tongji.edu.cn/33864/list.htm>`_"
+msgid ""
+"`Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026 "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+msgstr "`Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
 
 #: ../../sources.rst:695
-msgid "Source URL: https://tjkg.tongji.edu.cn/33864/list.htm"
-msgstr "출처 URL: https://tjkg.tongji.edu.cn/33864/list.htm"
+msgid ""
+"Source URL: "
+"https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html"
+msgstr "출처 URL: https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html"
 
 #: ../../sources.rst:699
 msgid "S078"
 msgstr "S078"
 
 #: ../../sources.rst:702
-msgid "`孵化器 <https://tjkg.tongji.edu.cn/16738/list.htm>`_"
-msgstr "`孵化器 <https://tjkg.tongji.edu.cn/16738/list.htm>`_"
+msgid ""
+"`WAIC 2026 Future Tech venture ecosystem "
+"<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260710/6cd94d78f71a42e3a747541b9021fe2b.html>`_"
+msgstr "`WAIC 2026 Future Tech venture ecosystem <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260710/6cd94d78f71a42e3a747541b9021fe2b.html>`_"
 
 #: ../../sources.rst:704
-msgid "Source URL: https://tjkg.tongji.edu.cn/16738/list.htm"
-msgstr "출처 URL: https://tjkg.tongji.edu.cn/16738/list.htm"
+msgid ""
+"Source URL: "
+"https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260710/6cd94d78f71a42e3a747541b9021fe2b.html"
+msgstr "출처 URL: https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260710/6cd94d78f71a42e3a747541b9021fe2b.html"
 
 #: ../../sources.rst:708
 msgid "S079"
@@ -1230,38 +1247,41 @@ msgstr "S079"
 
 #: ../../sources.rst:711
 msgid ""
-"`People – Entrepreneurship "
-"<https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_"
-msgstr "`People – Entrepreneurship <https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_"
+"`WAIC official organizer and contact route "
+"<https://www.worldaic.com.cn/>`_"
+msgstr "`WAIC official organizer and contact route <https://www.worldaic.com.cn/>`_"
 
 #: ../../sources.rst:713
-msgid ""
-"Source URL: https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/"
-msgstr "출처 URL: https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/"
+msgid "Source URL: https://www.worldaic.com.cn/"
+msgstr "출처 URL: https://www.worldaic.com.cn/"
 
 #: ../../sources.rst:717
 msgid "S080"
 msgstr "S080"
 
 #: ../../sources.rst:720
-msgid "`科技园 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_"
-msgstr "`科技园 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_"
+msgid ""
+"`上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知 "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_"
+msgstr "`上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_"
 
 #: ../../sources.rst:722
-msgid "Source URL: https://cyc.ecust.edu.cn/kjyyypt/list.htm"
-msgstr "출처 URL: https://cyc.ecust.edu.cn/kjyyypt/list.htm"
+msgid ""
+"Source URL: "
+"https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html"
+msgstr "출처 URL: https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html"
 
 #: ../../sources.rst:726
 msgid "S081"
 msgstr "S081"
 
 #: ../../sources.rst:729
-msgid "`创业服务 <https://www.ecustpark.com/1001370>`_"
-msgstr "`创业服务 <https://www.ecustpark.com/1001370>`_"
+msgid "`Contact <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_"
+msgstr "`Contact <https://www.fudan.edu.cn/en/Contact_931/list.htm>`_"
 
 #: ../../sources.rst:731
-msgid "Source URL: https://www.ecustpark.com/1001370"
-msgstr "출처 URL: https://www.ecustpark.com/1001370"
+msgid "Source URL: https://www.fudan.edu.cn/en/Contact_931/list.htm"
+msgstr "출처 URL: https://www.fudan.edu.cn/en/Contact_931/list.htm"
 
 #: ../../sources.rst:735
 msgid "S082"
@@ -1269,15 +1289,13 @@ msgstr "S082"
 
 #: ../../sources.rst:738
 msgid ""
-"` "
-"<https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_"
-msgstr "` <https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_"
+"`技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院 "
+"<https://ist.fudan.edu.cn/Data/View/3276>`_"
+msgstr "`技术转移中心 - 部门设置（联系方式） - 复旦大学科学技术研究院 <https://ist.fudan.edu.cn/Data/View/3276>`_"
 
 #: ../../sources.rst:740
-msgid ""
-"Source URL: "
-"https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf"
-msgstr "출처 URL: https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf"
+msgid "Source URL: https://ist.fudan.edu.cn/Data/View/3276"
+msgstr "출처 URL: https://ist.fudan.edu.cn/Data/View/3276"
 
 #: ../../sources.rst:744
 msgid "S083"
@@ -1285,39 +1303,39 @@ msgstr "S083"
 
 #: ../../sources.rst:747
 msgid ""
-"`华东师范大学研究生招生单位联系方式 "
-"<https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf>`_"
-msgstr "`华东师范大学研究生招生单位联系方式 <https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf>`_"
+"`全国高等学校名单 - 中华人民共和国教育部政府门户网站 "
+"<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_"
+msgstr "`全国高等学校名单 - 中华人民共和国教育部政府门户网站 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_"
 
 #: ../../sources.rst:749
 msgid ""
 "Source URL: "
-"https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf"
-msgstr "출처 URL: https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf"
+"https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html"
+msgstr "출처 URL: https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html"
 
 #: ../../sources.rst:753
 msgid "S084"
 msgstr "S084"
 
 #: ../../sources.rst:756
-msgid "`上海大学科技园区 <https://sustp.shu.edu.cn/>`_"
-msgstr "`上海大学科技园区 <https://sustp.shu.edu.cn/>`_"
+msgid "`联系方式 <https://tjkg.tongji.edu.cn/33864/list.htm>`_"
+msgstr "`联系方式 <https://tjkg.tongji.edu.cn/33864/list.htm>`_"
 
 #: ../../sources.rst:758
-msgid "Source URL: https://sustp.shu.edu.cn/"
-msgstr "출처 URL: https://sustp.shu.edu.cn/"
+msgid "Source URL: https://tjkg.tongji.edu.cn/33864/list.htm"
+msgstr "출처 URL: https://tjkg.tongji.edu.cn/33864/list.htm"
 
 #: ../../sources.rst:762
 msgid "S085"
 msgstr "S085"
 
 #: ../../sources.rst:765
-msgid "`基地与成果处-上海大学科研管理部 <https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm>`_"
-msgstr "`基地与成果处-上海大学科研管理部 <https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm>`_"
+msgid "`孵化器 <https://tjkg.tongji.edu.cn/16738/list.htm>`_"
+msgstr "`孵化器 <https://tjkg.tongji.edu.cn/16738/list.htm>`_"
 
 #: ../../sources.rst:767
-msgid "Source URL: https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm"
-msgstr "출처 URL: https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm"
+msgid "Source URL: https://tjkg.tongji.edu.cn/16738/list.htm"
+msgstr "출처 URL: https://tjkg.tongji.edu.cn/16738/list.htm"
 
 #: ../../sources.rst:771
 msgid "S086"
@@ -1325,39 +1343,38 @@ msgstr "S086"
 
 #: ../../sources.rst:774
 msgid ""
-"`上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号 "
-"<https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_"
-msgstr "`上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号 <https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_"
+"`People – Entrepreneurship "
+"<https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_"
+msgstr "`People – Entrepreneurship <https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_"
 
 #: ../../sources.rst:776
 msgid ""
-"Source URL: "
-"https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf"
-msgstr "출처 URL: https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf"
+"Source URL: https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/"
+msgstr "출처 URL: https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/"
 
 #: ../../sources.rst:780
 msgid "S087"
 msgstr "S087"
 
 #: ../../sources.rst:783
-msgid "`技术转移办公室 <https://ott.shanghaitech.edu.cn/zxdt/list2.htm>`_"
-msgstr "`技术转移办公室 <https://ott.shanghaitech.edu.cn/zxdt/list2.htm>`_"
+msgid "`科技园 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_"
+msgstr "`科技园 <https://cyc.ecust.edu.cn/kjyyypt/list.htm>`_"
 
 #: ../../sources.rst:785
-msgid "Source URL: https://ott.shanghaitech.edu.cn/zxdt/list2.htm"
-msgstr "출처 URL: https://ott.shanghaitech.edu.cn/zxdt/list2.htm"
+msgid "Source URL: https://cyc.ecust.edu.cn/kjyyypt/list.htm"
+msgstr "출처 URL: https://cyc.ecust.edu.cn/kjyyypt/list.htm"
 
 #: ../../sources.rst:789
 msgid "S088"
 msgstr "S088"
 
 #: ../../sources.rst:792
-msgid "`技术转移办公室 <https://ott.shanghaitech.edu.cn/9078/list.htm>`_"
-msgstr "`技术转移办公室 <https://ott.shanghaitech.edu.cn/9078/list.htm>`_"
+msgid "`创业服务 <https://www.ecustpark.com/1001370>`_"
+msgstr "`创业服务 <https://www.ecustpark.com/1001370>`_"
 
 #: ../../sources.rst:794
-msgid "Source URL: https://ott.shanghaitech.edu.cn/9078/list.htm"
-msgstr "출처 URL: https://ott.shanghaitech.edu.cn/9078/list.htm"
+msgid "Source URL: https://www.ecustpark.com/1001370"
+msgstr "출처 URL: https://www.ecustpark.com/1001370"
 
 #: ../../sources.rst:798
 msgid "S089"
@@ -1365,14 +1382,15 @@ msgstr "S089"
 
 #: ../../sources.rst:801
 msgid ""
-"`关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件 "
-"<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_"
-msgstr "`关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_"
+"` "
+"<https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_"
+msgstr "` <https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf>`_"
 
 #: ../../sources.rst:803
 msgid ""
-"Source URL: https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html"
-msgstr "출처 URL: https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html"
+"Source URL: "
+"https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf"
+msgstr "출처 URL: https://www.dhu.edu.cn/_upload/article/files/6a/51/0368de7843b1a07d69faee841246/96cc45cb-3bf4-4742-89df-daae62c2aa59.pdf"
 
 #: ../../sources.rst:807
 msgid "S090"
@@ -1380,47 +1398,39 @@ msgstr "S090"
 
 #: ../../sources.rst:810
 msgid ""
-"`关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知 "
-"<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_"
-msgstr "`关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_"
+"`华东师范大学研究生招生单位联系方式 "
+"<https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf>`_"
+msgstr "`华东师范大学研究生招生单位联系方式 <https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf>`_"
 
 #: ../../sources.rst:812
 msgid ""
 "Source URL: "
-"https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html"
-msgstr "출처 URL: https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html"
+"https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf"
+msgstr "출처 URL: https://comm.ecnu.edu.cn/_upload/article/files/46/9b/838f50a140aba31be28566334656/0252fbbd-9e12-4546-ade6-358fd31866db.pdf"
 
 #: ../../sources.rst:816
 msgid "S091"
 msgstr "S091"
 
 #: ../../sources.rst:819
-msgid ""
-"`Minhang amplifies enterprise sci-tech innovation_Policy Insights "
-"<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_"
-msgstr "`Minhang amplifies enterprise sci-tech innovation_Policy Insights <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_"
+msgid "`上海大学科技园区 <https://sustp.shu.edu.cn/>`_"
+msgstr "`上海大学科技园区 <https://sustp.shu.edu.cn/>`_"
 
 #: ../../sources.rst:821
-msgid ""
-"Source URL: "
-"https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html"
-msgstr "출처 URL: https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html"
+msgid "Source URL: https://sustp.shu.edu.cn/"
+msgstr "출처 URL: https://sustp.shu.edu.cn/"
 
 #: ../../sources.rst:825
 msgid "S092"
 msgstr "S092"
 
 #: ../../sources.rst:828
-msgid ""
-"`机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律 "
-"<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_"
-msgstr "`机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_"
+msgid "`基地与成果处-上海大学科研管理部 <https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm>`_"
+msgstr "`基地与成果处-上海大学科研管理部 <https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm>`_"
 
 #: ../../sources.rst:830
-msgid ""
-"Source URL: "
-"https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html"
-msgstr "출처 URL: https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html"
+msgid "Source URL: https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm"
+msgstr "출처 URL: https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm"
 
 #: ../../sources.rst:834
 msgid "S093"
@@ -1428,45 +1438,39 @@ msgstr "S093"
 
 #: ../../sources.rst:837
 msgid ""
-"`黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知 "
-"<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_"
-msgstr "`黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_"
+"`上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号 "
+"<https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_"
+msgstr "`上海市教育委员会 文件 上海市发展和改革委员会 上 海 市 公 安 局 沪教委学〔2024〕30 号 <https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf>`_"
 
 #: ../../sources.rst:839
 msgid ""
 "Source URL: "
-"https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html"
-msgstr "출처 URL: https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html"
+"https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf"
+msgstr "출처 URL: https://career.sues.edu.cn/upload/20240626/57c90899895c4eabbed12f656a3c1147.pdf"
 
 #: ../../sources.rst:843
 msgid "S094"
 msgstr "S094"
 
 #: ../../sources.rst:846
-msgid ""
-"`G60 unveils comprehensive support plan to fuel innovation valley | "
-"Songjiang <https://english.songjiang.gov.cn/news/3249.shtml>`_"
-msgstr "`G60 unveils comprehensive support plan to fuel innovation valley | Songjiang <https://english.songjiang.gov.cn/news/3249.shtml>`_"
+msgid "`技术转移办公室 <https://ott.shanghaitech.edu.cn/zxdt/list2.htm>`_"
+msgstr "`技术转移办公室 <https://ott.shanghaitech.edu.cn/zxdt/list2.htm>`_"
 
 #: ../../sources.rst:848
-msgid "Source URL: https://english.songjiang.gov.cn/news/3249.shtml"
-msgstr "출처 URL: https://english.songjiang.gov.cn/news/3249.shtml"
+msgid "Source URL: https://ott.shanghaitech.edu.cn/zxdt/list2.htm"
+msgstr "출처 URL: https://ott.shanghaitech.edu.cn/zxdt/list2.htm"
 
 #: ../../sources.rst:852
 msgid "S095"
 msgstr "S095"
 
 #: ../../sources.rst:855
-msgid ""
-"`奉贤区促进智能机器人产业创新发展若干政策措施 "
-"<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_"
-msgstr "`奉贤区促进智能机器人产业创新发展若干政策措施 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_"
+msgid "`技术转移办公室 <https://ott.shanghaitech.edu.cn/9078/list.htm>`_"
+msgstr "`技术转移办公室 <https://ott.shanghaitech.edu.cn/9078/list.htm>`_"
 
 #: ../../sources.rst:857
-msgid ""
-"Source URL: "
-"https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html"
-msgstr "출처 URL: https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html"
+msgid "Source URL: https://ott.shanghaitech.edu.cn/9078/list.htm"
+msgstr "출처 URL: https://ott.shanghaitech.edu.cn/9078/list.htm"
 
 #: ../../sources.rst:861
 msgid "S096"
@@ -1474,15 +1478,14 @@ msgstr "S096"
 
 #: ../../sources.rst:864
 msgid ""
-"`关于印发《上海市科技创新券管理办法》的通知 "
-"<https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_"
-msgstr "`关于印发《上海市科技创新券管理办法》的通知 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_"
+"`关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件 "
+"<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_"
+msgstr "`关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_"
 
 #: ../../sources.rst:866
 msgid ""
-"Source URL: "
-"https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6"
-msgstr "출처 URL: https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6"
+"Source URL: https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html"
+msgstr "출처 URL: https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html"
 
 #: ../../sources.rst:870
 msgid "S097"
@@ -1490,15 +1493,15 @@ msgstr "S097"
 
 #: ../../sources.rst:873
 msgid ""
-"`Shanghai updates innovation fund rules for tech SMEs_Policy Insights "
-"<https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_"
-msgstr "`Shanghai updates innovation fund rules for tech SMEs_Policy Insights <https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_"
+"`关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知 "
+"<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_"
+msgstr "`关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_"
 
 #: ../../sources.rst:875
 msgid ""
 "Source URL: "
-"https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html"
-msgstr "출처 URL: https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html"
+"https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html"
+msgstr "출처 URL: https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html"
 
 #: ../../sources.rst:879
 msgid "S098"
@@ -1506,16 +1509,15 @@ msgstr "S098"
 
 #: ../../sources.rst:882
 msgid ""
-"`Shanghai's guaranteed start-up loans top 1.3 billion yuan this "
-"year_Editor's Pick "
-"<https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_"
-msgstr "`Shanghai's guaranteed start-up loans top 1.3 billion yuan this year_Editor's Pick <https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_"
+"`Minhang amplifies enterprise sci-tech innovation_Policy Insights "
+"<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_"
+msgstr "`Minhang amplifies enterprise sci-tech innovation_Policy Insights <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_"
 
 #: ../../sources.rst:884
 msgid ""
 "Source URL: "
-"https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html"
-msgstr "출처 URL: https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html"
+"https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html"
+msgstr "출처 URL: https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html"
 
 #: ../../sources.rst:888
 msgid "S099"
@@ -1523,15 +1525,15 @@ msgstr "S099"
 
 #: ../../sources.rst:891
 msgid ""
-"`上海市“2366”产业税收优惠政策指引 "
-"<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_"
-msgstr "`上海市“2366”产业税收优惠政策指引 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_"
+"`机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律 "
+"<https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_"
+msgstr "`机器人进厂、上船、上街！宝山老工业基地奏响赛博旋律 <https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html>`_"
 
 #: ../../sources.rst:893
 msgid ""
 "Source URL: "
-"https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html"
-msgstr "출처 URL: https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html"
+"https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html"
+msgstr "출처 URL: https://www.shanghai.gov.cn/nw15343/20260518/34476b15d0614403b245e3f8c87e8a40.html"
 
 #: ../../sources.rst:897
 msgid "S100"
@@ -1539,27 +1541,29 @@ msgstr "S100"
 
 #: ../../sources.rst:900
 msgid ""
-"`2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会 "
-"<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_"
-msgstr "`2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_"
+"`黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知 "
+"<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_"
+msgstr "`黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_"
 
 #: ../../sources.rst:902
 msgid ""
 "Source URL: "
-"https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html"
-msgstr "출처 URL: https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html"
+"https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html"
+msgstr "출처 URL: https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html"
 
 #: ../../sources.rst:906
 msgid "S101"
 msgstr "S101"
 
 #: ../../sources.rst:909
-msgid "`海聚英才官网 <https://www.hello-sh.com/haijuTalent/competition>`_"
-msgstr "`海聚英才官网 <https://www.hello-sh.com/haijuTalent/competition>`_"
+msgid ""
+"`G60 unveils comprehensive support plan to fuel innovation valley | "
+"Songjiang <https://english.songjiang.gov.cn/news/3249.shtml>`_"
+msgstr "`G60 unveils comprehensive support plan to fuel innovation valley | Songjiang <https://english.songjiang.gov.cn/news/3249.shtml>`_"
 
 #: ../../sources.rst:911
-msgid "Source URL: https://www.hello-sh.com/haijuTalent/competition"
-msgstr "출처 URL: https://www.hello-sh.com/haijuTalent/competition"
+msgid "Source URL: https://english.songjiang.gov.cn/news/3249.shtml"
+msgstr "출처 URL: https://english.songjiang.gov.cn/news/3249.shtml"
 
 #: ../../sources.rst:915
 msgid "S102"
@@ -1567,15 +1571,15 @@ msgstr "S102"
 
 #: ../../sources.rst:918
 msgid ""
-"`关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会 "
-"<https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_"
-msgstr "`关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会 <https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_"
+"`奉贤区促进智能机器人产业创新发展若干政策措施 "
+"<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_"
+msgstr "`奉贤区促进智能机器人产业创新发展若干政策措施 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_"
 
 #: ../../sources.rst:920
 msgid ""
 "Source URL: "
-"https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html"
-msgstr "출처 URL: https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html"
+"https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html"
+msgstr "출처 URL: https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html"
 
 #: ../../sources.rst:924
 msgid "S103"
@@ -1583,15 +1587,15 @@ msgstr "S103"
 
 #: ../../sources.rst:927
 msgid ""
-"`浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理 "
-"<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_"
-msgstr "`浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_"
+"`关于印发《上海市科技创新券管理办法》的通知 "
+"<https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_"
+msgstr "`关于印发《上海市科技创新券管理办法》的通知 <https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6>`_"
 
 #: ../../sources.rst:929
 msgid ""
 "Source URL: "
-"https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html"
-msgstr "출처 URL: https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html"
+"https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6"
+msgstr "출처 URL: https://www.shanghai.gov.cn/gwk/search/content/9e1982a4cd544e89b0ffddb1a108d5b6"
 
 #: ../../sources.rst:933
 msgid "S104"
@@ -1599,15 +1603,15 @@ msgstr "S104"
 
 #: ../../sources.rst:936
 msgid ""
-"`上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知 "
-"<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_"
-msgstr "`上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_"
+"`Shanghai updates innovation fund rules for tech SMEs_Policy Insights "
+"<https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_"
+msgstr "`Shanghai updates innovation fund rules for tech SMEs_Policy Insights <https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_"
 
 #: ../../sources.rst:938
 msgid ""
 "Source URL: "
-"https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html"
-msgstr "출처 URL: https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html"
+"https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html"
+msgstr "출처 URL: https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html"
 
 #: ../../sources.rst:942
 msgid "S105"
@@ -1615,12 +1619,16 @@ msgstr "S105"
 
 #: ../../sources.rst:945
 msgid ""
-"`知识产权金融服务平台_上海市知识产权局 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
-msgstr "`知识产权金融服务平台_上海市知识产权局 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+"`Shanghai's guaranteed start-up loans top 1.3 billion yuan this "
+"year_Editor's Pick "
+"<https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_"
+msgstr "`Shanghai's guaranteed start-up loans top 1.3 billion yuan this year_Editor's Pick <https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html>`_"
 
 #: ../../sources.rst:947
-msgid "Source URL: https://sipa.sh.gov.cn/zscqjrfwpt/index.html"
-msgstr "출처 URL: https://sipa.sh.gov.cn/zscqjrfwpt/index.html"
+msgid ""
+"Source URL: "
+"https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html"
+msgstr "출처 URL: https://english.shanghai.gov.cn/en-wisEditor%27spick/20241029/ee56191498d84f059a4d8e43bc2aba3a.html"
 
 #: ../../sources.rst:951
 msgid "S106"
@@ -1628,15 +1636,15 @@ msgstr "S106"
 
 #: ../../sources.rst:954
 msgid ""
-"`市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况 "
-"<https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_"
-msgstr "`市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况 <https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_"
+"`上海市“2366”产业税收优惠政策指引 "
+"<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_"
+msgstr "`上海市“2366”产业税收优惠政策指引 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_"
 
 #: ../../sources.rst:956
 msgid ""
 "Source URL: "
-"https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html"
-msgstr "출처 URL: https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html"
+"https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html"
+msgstr "출처 URL: https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html"
 
 #: ../../sources.rst:960
 msgid "S107"
@@ -1644,27 +1652,27 @@ msgstr "S107"
 
 #: ../../sources.rst:963
 msgid ""
-"`上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南 "
-"<https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_"
-msgstr "`上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_"
+"`2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会 "
+"<https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_"
+msgstr "`2026“创•在上海”国际创新创业大赛征集通知_业务通知_上海市科学技术委员会 <https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html>`_"
 
 #: ../../sources.rst:965
-msgid "Source URL: https://www.shcn.gov.cn/col5713/20260306/1306521.html"
-msgstr "출처 URL: https://www.shcn.gov.cn/col5713/20260306/1306521.html"
+msgid ""
+"Source URL: "
+"https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html"
+msgstr "출처 URL: https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260324/fd6101e7ad1f4f4099e8dc69866c6935.html"
 
 #: ../../sources.rst:969
 msgid "S108"
 msgstr "S108"
 
 #: ../../sources.rst:972
-msgid ""
-"`上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知 "
-"<https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_"
-msgstr "`上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知 <https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_"
+msgid "`海聚英才官网 <https://www.hello-sh.com/haijuTalent/competition>`_"
+msgstr "`海聚英才官网 <https://www.hello-sh.com/haijuTalent/competition>`_"
 
 #: ../../sources.rst:974
-msgid "Source URL: https://www.shcn.gov.cn/col11010/20260602/1310341.html"
-msgstr "출처 URL: https://www.shcn.gov.cn/col11010/20260602/1310341.html"
+msgid "Source URL: https://www.hello-sh.com/haijuTalent/competition"
+msgstr "출처 URL: https://www.hello-sh.com/haijuTalent/competition"
 
 #: ../../sources.rst:978
 msgid "S109"
@@ -1672,15 +1680,15 @@ msgstr "S109"
 
 #: ../../sources.rst:981
 msgid ""
-"`关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀 "
-"<https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_"
-msgstr "`关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀 <https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_"
+"`关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会 "
+"<https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_"
+msgstr "`关于发布2026年度上海市白玉兰人才计划浦江项目申请指南的通知_项目申报_上海市科学技术委员会 <https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html>`_"
 
 #: ../../sources.rst:983
 msgid ""
 "Source URL: "
-"https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html"
-msgstr "출처 URL: https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html"
+"https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html"
+msgstr "출처 URL: https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html"
 
 #: ../../sources.rst:987
 msgid "S110"
@@ -1688,14 +1696,15 @@ msgstr "S110"
 
 #: ../../sources.rst:990
 msgid ""
-"`关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀 "
-"<https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_"
-msgstr "`关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_"
+"`浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理 "
+"<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_"
+msgstr "`浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_"
 
 #: ../../sources.rst:992
 msgid ""
-"Source URL: https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html"
-msgstr "출처 URL: https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html"
+"Source URL: "
+"https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html"
+msgstr "출처 URL: https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html"
 
 #: ../../sources.rst:996
 msgid "S111"
@@ -1703,15 +1712,15 @@ msgstr "S111"
 
 #: ../../sources.rst:999
 msgid ""
-"`关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀 "
-"<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_"
-msgstr "`关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_"
+"`上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知 "
+"<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_"
+msgstr "`上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_"
 
 #: ../../sources.rst:1001
 msgid ""
 "Source URL: "
-"https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html"
-msgstr "출처 URL: https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html"
+"https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html"
+msgstr "출처 URL: https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html"
 
 #: ../../sources.rst:1005
 msgid "S112"
@@ -1719,15 +1728,12 @@ msgstr "S112"
 
 #: ../../sources.rst:1008
 msgid ""
-"`关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知 "
-"<https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_"
-msgstr "`关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知 <https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_"
+"`知识产权金融服务平台_上海市知识产权局 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
+msgstr "`知识产权金融服务平台_上海市知识产权局 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_"
 
 #: ../../sources.rst:1010
-msgid ""
-"Source URL: "
-"https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html"
-msgstr "출처 URL: https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html"
+msgid "Source URL: https://sipa.sh.gov.cn/zscqjrfwpt/index.html"
+msgstr "출처 URL: https://sipa.sh.gov.cn/zscqjrfwpt/index.html"
 
 #: ../../sources.rst:1014
 msgid "S113"
@@ -1735,15 +1741,15 @@ msgstr "S113"
 
 #: ../../sources.rst:1017
 msgid ""
-"`关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府 "
-"<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_"
-msgstr "`关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府 <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_"
+"`市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况 "
+"<https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_"
+msgstr "`市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况 <https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_"
 
 #: ../../sources.rst:1019
 msgid ""
 "Source URL: "
-"https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html"
-msgstr "출처 URL: https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html"
+"https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html"
+msgstr "출처 URL: https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html"
 
 #: ../../sources.rst:1023
 msgid "S114"
@@ -1751,13 +1757,16 @@ msgstr "S114"
 
 #: ../../sources.rst:1026
 msgid ""
-"`奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告 "
-"<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_"
-msgstr "`奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_"
+"`Shanghai startup social-insurance, incubation rent and first-startup "
+"subsidies, valid through 2027 "
+"<https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html>`_"
+msgstr "`Shanghai startup social-insurance, incubation rent and first-startup subsidies, valid through 2027 <https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html>`_"
 
 #: ../../sources.rst:1028
-msgid "Source URL: https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html"
-msgstr "출처 URL: https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html"
+msgid ""
+"Source URL: "
+"https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html"
+msgstr "출처 URL: https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html"
 
 #: ../../sources.rst:1032
 msgid "S115"
@@ -1765,13 +1774,13 @@ msgstr "S115"
 
 #: ../../sources.rst:1035
 msgid ""
-"`奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告 "
-"<https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_"
-msgstr "`奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告 <https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_"
+"`上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南 "
+"<https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_"
+msgstr "`上海市长宁区人民政府-长宁区财政局-工作动态-2026年度长宁区人工智能产业项目申报指南 <https://www.shcn.gov.cn/col5713/20260306/1306521.html>`_"
 
 #: ../../sources.rst:1037
-msgid "Source URL: https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html"
-msgstr "출처 URL: https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html"
+msgid "Source URL: https://www.shcn.gov.cn/col5713/20260306/1306521.html"
+msgstr "출처 URL: https://www.shcn.gov.cn/col5713/20260306/1306521.html"
 
 #: ../../sources.rst:1041
 msgid "S116"
@@ -1779,15 +1788,13 @@ msgstr "S116"
 
 #: ../../sources.rst:1044
 msgid ""
-"`上海市崇明区人力资源和社会保障局关于印发《崇明区关于新时期强化创业创新促进产业高质量发展的若干政策措施》的通知-上海市崇明区人民政府 "
-"<https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html>`_"
-msgstr "`上海市崇明区人力资源和社会保障局关于印发《崇明区关于新时期强化创业创新促进产业高质量发展的若干政策措施》的通知-上海市崇明区人民政府 <https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html>`_"
+"`上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知 "
+"<https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_"
+msgstr "`上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知 <https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_"
 
 #: ../../sources.rst:1046
-msgid ""
-"Source URL: "
-"https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html"
-msgstr "출처 URL: https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html"
+msgid "Source URL: https://www.shcn.gov.cn/col11010/20260602/1310341.html"
+msgstr "출처 URL: https://www.shcn.gov.cn/col11010/20260602/1310341.html"
 
 #: ../../sources.rst:1050
 msgid "S117"
@@ -1795,15 +1802,15 @@ msgstr "S117"
 
 #: ../../sources.rst:1053
 msgid ""
-"`虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府 "
-"<https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_"
-msgstr "`虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_"
+"`关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀 "
+"<https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_"
+msgstr "`关于开展2026年度普陀区科创企业“种子计划”（第二批）申报工作的通知-上海普陀 <https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html>`_"
 
 #: ../../sources.rst:1055
 msgid ""
 "Source URL: "
-"https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html"
-msgstr "출처 URL: https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html"
+"https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html"
+msgstr "출처 URL: https://www.shpt.gov.cn/zhengwu/tzgg-kwzdgz/2026/212/204863.html"
 
 #: ../../sources.rst:1059
 msgid "S118"
@@ -1811,13 +1818,14 @@ msgstr "S118"
 
 #: ../../sources.rst:1062
 msgid ""
-"`Jiading launches 800m-yuan future industry fund "
-"<https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_"
-msgstr "`Jiading launches 800m-yuan future industry fund <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_"
+"`关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀 "
+"<https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_"
+msgstr "`关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_"
 
 #: ../../sources.rst:1064
-msgid "Source URL: https://english.jiading.gov.cn/2026-02/06/c_1160145.htm"
-msgstr "출처 URL: https://english.jiading.gov.cn/2026-02/06/c_1160145.htm"
+msgid ""
+"Source URL: https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html"
+msgstr "출처 URL: https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html"
 
 #: ../../sources.rst:1068
 msgid "S119"
@@ -1825,39 +1833,47 @@ msgstr "S119"
 
 #: ../../sources.rst:1071
 msgid ""
-"`宝山人才政策月历·1月刊 "
-"<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
-msgstr "`宝山人才政策月历·1月刊 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
+"`关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀 "
+"<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_"
+msgstr "`关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_"
 
 #: ../../sources.rst:1073
 msgid ""
 "Source URL: "
-"https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html"
-msgstr "출처 URL: https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html"
+"https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html"
+msgstr "출처 URL: https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html"
 
 #: ../../sources.rst:1077
 msgid "S120"
 msgstr "S120"
 
 #: ../../sources.rst:1080
-msgid "`黄浦区融资信用服务平台-银行产品 <https://xydhp.shhuangpu.gov.cn/finance-product>`_"
-msgstr "`黄浦区融资信用服务平台-银行产品 <https://xydhp.shhuangpu.gov.cn/finance-product>`_"
+msgid ""
+"`关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知 "
+"<https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_"
+msgstr "`关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知 <https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_"
 
 #: ../../sources.rst:1082
-msgid "Source URL: https://xydhp.shhuangpu.gov.cn/finance-product"
-msgstr "출처 URL: https://xydhp.shhuangpu.gov.cn/finance-product"
+msgid ""
+"Source URL: "
+"https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html"
+msgstr "출처 URL: https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html"
 
 #: ../../sources.rst:1086
 msgid "S121"
 msgstr "S121"
 
 #: ../../sources.rst:1089
-msgid "`金融产品 <https://xyd.shyp.gov.cn/finance>`_"
-msgstr "`金融产品 <https://xyd.shyp.gov.cn/finance>`_"
+msgid ""
+"`关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府 "
+"<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_"
+msgstr "`关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府 <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_"
 
 #: ../../sources.rst:1091
-msgid "Source URL: https://xyd.shyp.gov.cn/finance"
-msgstr "출처 URL: https://xyd.shyp.gov.cn/finance"
+msgid ""
+"Source URL: "
+"https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html"
+msgstr "출처 URL: https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html"
 
 #: ../../sources.rst:1095
 msgid "S122"
@@ -1865,15 +1881,13 @@ msgstr "S122"
 
 #: ../../sources.rst:1098
 msgid ""
-"`关于开展2026年第二批静安区服务业发展引导资金项目申报工作的通知 "
-"<https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_"
-msgstr "`关于开展2026年第二批静安区服务业发展引导资金项目申报工作的通知 <https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_"
+"`奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告 "
+"<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_"
+msgstr "`奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_"
 
 #: ../../sources.rst:1100
-msgid ""
-"Source URL: "
-"https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html"
-msgstr "출처 URL: https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html"
+msgid "Source URL: https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html"
+msgstr "출처 URL: https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html"
 
 #: ../../sources.rst:1104
 msgid "S123"
@@ -1881,14 +1895,13 @@ msgstr "S123"
 
 #: ../../sources.rst:1107
 msgid ""
-"`杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府 "
-"<https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_"
-msgstr "`杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府 <https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_"
+"`奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告 "
+"<https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_"
+msgstr "`奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告 <https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_"
 
 #: ../../sources.rst:1109
-msgid ""
-"Source URL: https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html"
-msgstr "출처 URL: https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html"
+msgid "Source URL: https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html"
+msgstr "출처 URL: https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html"
 
 #: ../../sources.rst:1113
 msgid "S124"
@@ -1896,15 +1909,15 @@ msgstr "S124"
 
 #: ../../sources.rst:1116
 msgid ""
-"`关于开展2026年度第二批松江区数据要素专项资金项目申报的通知 "
-"<https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_"
-msgstr "`关于开展2026年度第二批松江区数据要素专项资金项目申报的通知 <https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_"
+"`上海市崇明区人力资源和社会保障局关于印发《崇明区关于新时期强化创业创新促进产业高质量发展的若干政策措施》的通知-上海市崇明区人民政府 "
+"<https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html>`_"
+msgstr "`上海市崇明区人力资源和社会保障局关于印发《崇明区关于新时期强化创业创新促进产业高质量发展的若干政策措施》的通知-上海市崇明区人民政府 <https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html>`_"
 
 #: ../../sources.rst:1118
 msgid ""
 "Source URL: "
-"https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html"
-msgstr "출처 URL: https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html"
+"https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html"
+msgstr "출처 URL: https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html"
 
 #: ../../sources.rst:1122
 msgid "S125"
@@ -1912,13 +1925,15 @@ msgstr "S125"
 
 #: ../../sources.rst:1125
 msgid ""
-"`关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府 "
-"<https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_"
-msgstr "`关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府 <https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_"
+"`虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府 "
+"<https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_"
+msgstr "`虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_"
 
 #: ../../sources.rst:1127
-msgid "Source URL: https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html"
-msgstr "출처 URL: https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html"
+msgid ""
+"Source URL: "
+"https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html"
+msgstr "출처 URL: https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html"
 
 #: ../../sources.rst:1131
 msgid "S126"
@@ -1926,13 +1941,13 @@ msgstr "S126"
 
 #: ../../sources.rst:1134
 msgid ""
-"`奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告 "
-"<https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_"
-msgstr "`奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告 <https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_"
+"`Jiading launches 800m-yuan future industry fund "
+"<https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_"
+msgstr "`Jiading launches 800m-yuan future industry fund <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_"
 
 #: ../../sources.rst:1136
-msgid "Source URL: https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html"
-msgstr "출처 URL: https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html"
+msgid "Source URL: https://english.jiading.gov.cn/2026-02/06/c_1160145.htm"
+msgstr "출처 URL: https://english.jiading.gov.cn/2026-02/06/c_1160145.htm"
 
 #: ../../sources.rst:1140
 msgid "S127"
@@ -1940,45 +1955,39 @@ msgstr "S127"
 
 #: ../../sources.rst:1143
 msgid ""
-"`关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府 "
-"<https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_"
-msgstr "`关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府 <https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_"
+"`宝山人才政策月历·1月刊 "
+"<https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
+msgstr "`宝山人才政策月历·1月刊 <https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html>`_"
 
 #: ../../sources.rst:1145
 msgid ""
 "Source URL: "
-"https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html"
-msgstr "출처 URL: https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html"
+"https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html"
+msgstr "출처 URL: https://www.shanghai.gov.cn/nw17239/20260109/77b6ebcf79044e2baee958a231dbcb7a.html"
 
 #: ../../sources.rst:1149
 msgid "S128"
 msgstr "S128"
 
 #: ../../sources.rst:1152
-msgid ""
-"`Shanghai municipal flower and overview "
-"<https://english.shanghai.gov.cn/en-Overview/>`_"
-msgstr "`Shanghai municipal flower and overview <https://english.shanghai.gov.cn/en-Overview/>`_"
+msgid "`黄浦区融资信用服务平台-银行产品 <https://xydhp.shhuangpu.gov.cn/finance-product>`_"
+msgstr "`黄浦区融资信用服务平台-银行产品 <https://xydhp.shhuangpu.gov.cn/finance-product>`_"
 
 #: ../../sources.rst:1154
-msgid "Source URL: https://english.shanghai.gov.cn/en-Overview/"
-msgstr "출처 URL: https://english.shanghai.gov.cn/en-Overview/"
+msgid "Source URL: https://xydhp.shhuangpu.gov.cn/finance-product"
+msgstr "출처 URL: https://xydhp.shhuangpu.gov.cn/finance-product"
 
 #: ../../sources.rst:1158
 msgid "S129"
 msgstr "S129"
 
 #: ../../sources.rst:1161
-msgid ""
-"`Shanghai expands list of high-quality incubators "
-"<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_"
-msgstr "`Shanghai expands list of high-quality incubators <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_"
+msgid "`金融产品 <https://xyd.shyp.gov.cn/finance>`_"
+msgstr "`金融产品 <https://xyd.shyp.gov.cn/finance>`_"
 
 #: ../../sources.rst:1163
-msgid ""
-"Source URL: "
-"https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html"
-msgstr "출처 URL: https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html"
+msgid "Source URL: https://xyd.shyp.gov.cn/finance"
+msgstr "출처 URL: https://xyd.shyp.gov.cn/finance"
 
 #: ../../sources.rst:1167
 msgid "S130"
@@ -1986,16 +1995,15 @@ msgstr "S130"
 
 #: ../../sources.rst:1170
 msgid ""
-"`Guide for foreign talent and team members (Category A/B) applying for a "
-"Foreigner's Work Permit during the startup phase_Latest "
-"<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_"
-msgstr "`Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_"
+"`关于开展2026年第二批静安区服务业发展引导资金项目申报工作的通知 "
+"<https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_"
+msgstr "`关于开展2026年第二批静安区服务业发展引导资金项目申报工作的通知 <https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_"
 
 #: ../../sources.rst:1172
 msgid ""
 "Source URL: "
-"https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html"
-msgstr "출처 URL: https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html"
+"https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html"
+msgstr "출처 URL: https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html"
 
 #: ../../sources.rst:1176
 msgid "S131"
@@ -2003,15 +2011,14 @@ msgstr "S131"
 
 #: ../../sources.rst:1179
 msgid ""
-"`上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知 "
-"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_"
-msgstr "`上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_"
+"`杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府 "
+"<https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_"
+msgstr "`杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府 <https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_"
 
 #: ../../sources.rst:1181
 msgid ""
-"Source URL: "
-"https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html"
-msgstr "출처 URL: https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html"
+"Source URL: https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html"
+msgstr "출처 URL: https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html"
 
 #: ../../sources.rst:1185
 msgid "S132"
@@ -2019,23 +2026,130 @@ msgstr "S132"
 
 #: ../../sources.rst:1188
 msgid ""
-"`DataV Shanghai district geometry "
-"<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_"
-msgstr "`DataV Shanghai district geometry <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_"
+"`关于开展2026年度第二批松江区数据要素专项资金项目申报的通知 "
+"<https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_"
+msgstr "`关于开展2026年度第二批松江区数据要素专项资金项目申报的通知 <https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_"
 
 #: ../../sources.rst:1190
 msgid ""
-"Source URL: https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json"
-msgstr "출처 URL: https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json"
+"Source URL: "
+"https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html"
+msgstr "출처 URL: https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html"
 
 #: ../../sources.rst:1194
 msgid "S133"
 msgstr "S133"
 
 #: ../../sources.rst:1197
+msgid ""
+"`关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府 "
+"<https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_"
+msgstr "`关于开展2026年度青浦区企业智能化改造扶持资金项目申报的通知_通知公告_经济委员会_上海市青浦区人民政府 <https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html>`_"
+
+#: ../../sources.rst:1199
+msgid "Source URL: https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html"
+msgstr "출처 URL: https://www.shqp.gov.cn/econ/tzgg/20260731/1378101.html"
+
+#: ../../sources.rst:1203
+msgid "S134"
+msgstr "S134"
+
+#: ../../sources.rst:1206
+msgid ""
+"`奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告 "
+"<https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_"
+msgstr "`奉贤区2026年“南上海科创中心”创新行动计划 —“揭榜挂帅”合作项目申报指南_通知公告 <https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html>`_"
+
+#: ../../sources.rst:1208
+msgid "Source URL: https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html"
+msgstr "출처 URL: https://www.fengxian.gov.cn/kw/tzgg/20260507/106654.html"
+
+#: ../../sources.rst:1212
+msgid "S135"
+msgstr "S135"
+
+#: ../../sources.rst:1215
+msgid ""
+"`关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府 "
+"<https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_"
+msgstr "`关于印发《2026年崇明区创业创新大赛实施方案》的通知-上海市崇明区人民政府 <https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html>`_"
+
+#: ../../sources.rst:1217
+msgid ""
+"Source URL: "
+"https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html"
+msgstr "출처 URL: https://www.shcm.gov.cn/govxxgk/qrlzyshbzj/2026-08-20/8ba99f8a-5c4f-443a-a3c3-e88c388d79ed.html"
+
+#: ../../sources.rst:1221
+msgid "S136"
+msgstr "S136"
+
+#: ../../sources.rst:1224
+msgid ""
+"`Shanghai municipal flower and overview "
+"<https://english.shanghai.gov.cn/en-Overview/>`_"
+msgstr "`Shanghai municipal flower and overview <https://english.shanghai.gov.cn/en-Overview/>`_"
+
+#: ../../sources.rst:1226
+msgid "Source URL: https://english.shanghai.gov.cn/en-Overview/"
+msgstr "출처 URL: https://english.shanghai.gov.cn/en-Overview/"
+
+#: ../../sources.rst:1230
+msgid "S137"
+msgstr "S137"
+
+#: ../../sources.rst:1233
+msgid ""
+"`Shanghai expands list of high-quality incubators "
+"<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_"
+msgstr "`Shanghai expands list of high-quality incubators <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_"
+
+#: ../../sources.rst:1235
+msgid ""
+"Source URL: "
+"https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html"
+msgstr "출처 URL: https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html"
+
+#: ../../sources.rst:1239
+msgid "S138"
+msgstr "S138"
+
+#: ../../sources.rst:1242
+msgid ""
+"`Guide for foreign talent and team members (Category A/B) applying for a "
+"Foreigner's Work Permit during the startup phase_Latest "
+"<https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_"
+msgstr "`Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_"
+
+#: ../../sources.rst:1244
+msgid ""
+"Source URL: "
+"https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html"
+msgstr "출처 URL: https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html"
+
+#: ../../sources.rst:1248
+msgid "S139"
+msgstr "S139"
+
+#: ../../sources.rst:1251
+msgid ""
+"`DataV Shanghai district geometry "
+"<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_"
+msgstr "`DataV Shanghai district geometry <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_"
+
+#: ../../sources.rst:1253
+msgid ""
+"Source URL: https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json"
+msgstr "출처 URL: https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json"
+
+#: ../../sources.rst:1257
+msgid "S140"
+msgstr "S140"
+
+#: ../../sources.rst:1260
 msgid "`院校信息_上海市教育委员会 <https://edu.sh.gov.cn/study_cn_school/>`_"
 msgstr "`院校信息_上海市教育委员会 <https://edu.sh.gov.cn/study_cn_school/>`_"
 
-#: ../../sources.rst:1199
+#: ../../sources.rst:1262
 msgid "Source URL: https://edu.sh.gov.cn/study_cn_school/"
 msgstr "출처 URL: https://edu.sh.gov.cn/study_cn_school/"

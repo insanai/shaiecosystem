@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -34,10 +34,10 @@ msgstr "2025-2026 झांगजियांग हुआंगपू पार
 
 #: ../../districts/huangpu.rst:8
 msgid ""
-"`Evidence S093 "
+"`Evidence S100 "
 "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
 "黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
-msgstr "`साक्ष्य S093 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`साक्ष्य S100 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
 
 #: ../../districts/huangpu.rst:10
 msgid "Who receives the inquiry"
@@ -111,7 +111,7 @@ msgid ""
 "reported offer. Current capacity, applicant eligibility and additional "
 "subsidies must be checked separately. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`हुआंगपू चुआंगका (Huangpu ChuangKa) </entities/huangpu-chuangka>` (黄浦创卡 · इनक्यूबेटर · सॉफ्टवेयर AI, उपभोक्ता) — शंघाई HRSS द्वारा वर्णित एक युवा उद्यमिता सेवा मार्ग, जिसमें रिपोर्ट किए गए ऑफ़र में छह महीने तक के निःशुल्क वर्कस्टेशन शामिल हैं। वर्तमान क्षमता, आवेदक पात्रता और अतिरिक्त सब्सिडी की अलग से जाँच की जानी चाहिए। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`हुआंगपू चुआंगका (Huangpu ChuangKa) </entities/huangpu-chuangka>` (黄浦创卡 · इनक्यूबेटर · सॉफ्टवेयर AI, उपभोक्ता) — शंघाई HRSS द्वारा वर्णित एक युवा उद्यमिता सेवा मार्ग, जिसमें रिपोर्ट किए गए ऑफ़र में छह महीने तक के निःशुल्क वर्कस्टेशन शामिल हैं। वर्तमान क्षमता, आवेदक पात्रता और अतिरिक्त सब्सिडी की अलग से जाँच की जानी चाहिए। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/huangpu.rst:38
 msgid ""
@@ -121,7 +121,7 @@ msgid ""
 "direction with the HRSS \"Entrepreneurship Companion Plan\" mentor and "
 "service network for early-stage digital and financial technology "
 "founders. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`हुआंगपू फिनटेक एंड एंटरप्रेन्योरशिप कम्पैनियन हब (Huangpu Fintech Hub) </entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · एक्सेलेरेटर · सॉफ्टवेयर AI, उपभोक्ता) — प्रारंभिक चरण के डिजिटल और वित्तीय प्रौद्योगिकी संस्थापकों के लिए HRSS \"एंटरप्रेन्योरशिप कम्पैनियन प्लान\" मेंटर और सेवा नेटवर्क के साथ हुआंगपू की पंचवर्षीय फिनटेक उद्योग क्लस्टरिंग दिशा को जोड़ता है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`हुआंगपू फिनटेक एंड एंटरप्रेन्योरशिप कम्पैनियन हब (Huangpu Fintech Hub) </entities/huangpu-peipao>` (黄浦金融科技集聚与创业陪跑计划 · एक्सेलेरेटर · सॉफ्टवेयर AI, उपभोक्ता) — प्रारंभिक चरण के डिजिटल और वित्तीय प्रौद्योगिकी संस्थापकों के लिए HRSS \"एंटरप्रेन्योरशिप कम्पैनियन प्लान\" मेंटर और सेवा नेटवर्क के साथ हुआंगपू की पंचवर्षीय फिनटेक उद्योग क्लस्टरिंग दिशा को जोड़ता है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/huangpu.rst:40
 msgid "Funding routes"
@@ -134,7 +134,7 @@ msgid ""
 "repayable) — Product-specific bank credit, startup guarantee and "
 "IP-backed finance. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`हुआंगपू वित्तपोषण और क्रेडिट उत्पाद निर्देशिका </funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · ऋण (Loan) · कोई इक्विटी नहीं; पुनर्भुगतान योग्य) — उत्पाद-विशिष्ट बैंक क्रेडिट, स्टार्टअप गारंटी और IP-समर्थित वित्त। स्थिति: प्रकाशित निर्देशिका; ऋणदाता समीक्षा। समय-सीमा: उत्पाद-विशिष्ट; वर्तमान ऋणदाता शर्तों की पुष्टि करें।"
+msgstr ":doc:`हुआंगपू वित्तपोषण और क्रेडिट उत्पाद निर्देशिका </funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · ऋण (Loan) · हिस्सेदारी नहीं देनी होती; ऋण चुकाना होगा) — उत्पाद-विशिष्ट बैंक क्रेडिट, स्टार्टअप गारंटी और IP-समर्थित वित्त। स्थिति: प्रकाशित निर्देशिका; ऋणदाता समीक्षा। समय-सीमा: उत्पाद-विशिष्ट; वर्तमान ऋणदाता शर्तों की पुष्टि करें।"
 
 #: ../../districts/huangpu.rst:45
 msgid ":doc:`Also compare citywide funding </funding>`"

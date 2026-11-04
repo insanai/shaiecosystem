@@ -44,7 +44,7 @@ msgstr "Hasta 800.000 RMB durante 3 años; sin participación en dividendos; sal
 
 #: ../../funding/stefg-equity.rst:15
 msgid "Temporary equity; original-price exit"
-msgstr "Capital temporal; salida al precio original"
+msgstr "Participación temporal; salida al precio de adquisición original"
 
 #: ../../funding/stefg-equity.rst:17
 msgid "Eligibility and timing"

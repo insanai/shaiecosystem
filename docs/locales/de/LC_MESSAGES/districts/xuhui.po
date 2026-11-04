@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -33,10 +33,10 @@ msgstr "Die Förderrichtlinie für verkörperte KI umfasst Robotikmodelle, Algor
 
 #: ../../districts/xuhui.rst:8
 msgid ""
-"`Evidence S090 "
+"`Evidence S097 "
 "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
 "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
-msgstr "`Nachweis S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`Nachweis S097 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
 
 #: ../../districts/xuhui.rst:10
 msgid "Who receives the inquiry"
@@ -143,6 +143,32 @@ msgstr ":doc:`Technologie-Innovationszentrum Shanghai (SHTIC) </entities/shtic>`
 
 #: ../../districts/xuhui.rst:41
 msgid ""
+":doc:`Shanghai Innovation Institute / Beiyang AI founder network "
+"</entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · Incubator · Software AI, "
+"Hardware AI, AI for Science) — SII and Caohejing jointly operate the "
+"Chuangzhi Future Center for research-led AI founders; Beiyang AI "
+"Accelerator supports later market and supply-chain connections. "
+"Institute-affiliated incubation is not an unrestricted public admission "
+"offer. Ask the operator about affiliation, IP, company formation and "
+"current external-team access. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`Shanghai Innovation Institute / Beiyang-Netzwerk für KI-Gründungen </entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · Inkubator · Software-KI, Hardware-KI, KI in der Wissenschaft (AI for Science)) — SII und Caohejing betreiben gemeinsam das Chuangzhi Future Center für forschungsbasierte KI-Gründungen. Der Beiyang AI Accelerator unterstützt anschließend Markt- und Lieferkettenkontakte. Die institutsgebundene Inkubation ist kein allgemein offenes Aufnahmeangebot. Zugehörigkeit, IP, Unternehmensgründung und aktuelle Zulassung externer Teams beim Betreiber klären. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/xuhui.rst:42
+msgid ""
+":doc:`Xuhui Qingmiao AI Youth Entrepreneurship Fund </entities/qingmiao>` "
+"(徐汇人工智能青年创业基金（青苗基金） · Investor · Software AI, Hardware AI) — Xuhui "
+"established this youth-focused AI fund in September 2025. Its August 2026 "
+"entrepreneurship camp connected early AI teams with investment, research "
+"and industrial partners. Shanghai Xuhui Capital Investment and Shanghai "
+"Xuhui Science and Technology Venture Capital Fund Management co-hosted "
+"the camp. Request the receiving manager and current investment terms; "
+"camp attendance is not an investment award. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`Xuhui Qingmiao-Fonds für junge KI-Gründungen </entities/qingmiao>` (徐汇人工智能青年创业基金（青苗基金） · Investor · Software-KI, Hardware-KI) — Xuhui gründete den auf junge KI-Gründer ausgerichteten Fonds im September 2025. Das Gründungscamp im August 2026 vermittelte Kontakte zu Investoren, Forschung und Industrie. Shanghai Xuhui Capital Investment und Shanghai Xuhui Science and Technology Venture Capital Fund Management waren Mitveranstalter. Zuständigen Manager und aktuelle Beteiligungsbedingungen erfragen. Die Campteilnahme ist keine Investitionszusage. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
+
+#: ../../districts/xuhui.rst:43
+msgid ""
 ":doc:`East China University of Science and Technology "
 "</entities/university-ecust>` (华东理工大学 · University) — Institutional entry "
 "in the June 2026 Ministry of Education register. Suggested collaboration "
@@ -151,7 +177,7 @@ msgid ""
 "or startup funding. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`Ostchinesische Universität für Wissenschaft und Technik (ECUST) </entities/university-ecust>` (华东理工大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Materialwissenschaften, Chemie, Bioprozessierung, KI für die Wissenschaft. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/xuhui.rst:42
+#: ../../districts/xuhui.rst:44
 msgid ""
 ":doc:`Shanghai Normal University </entities/university-shnu>` (上海师范大学 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -161,7 +187,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`Pädagogische Universität Shanghai (Shanghai Normal University) </entities/university-shnu>` (上海师范大学 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Bildungstechnologie, Geisteswissenschaften, angewandte Datenwissenschaft. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/xuhui.rst:43
+#: ../../districts/xuhui.rst:45
 msgid ""
 ":doc:`Shanghai Conservatory of Music </entities/university-music>` "
 "(上海音乐学院 · University) — Institutional entry in the June 2026 Ministry of "
@@ -171,19 +197,29 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`Musikkonservatorium Shanghai </entities/university-music>` (上海音乐学院 · Hochschule) — Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Audio-KI, Musiktechnologie, digitale Akustik. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar. [Status: Einrichtung dokumentiert; Bewerbungsfenster zu bestätigen]"
 
-#: ../../districts/xuhui.rst:45
+#: ../../districts/xuhui.rst:47
 msgid "Funding routes"
 msgstr "Finanzierungs- und Förderwege"
 
-#: ../../districts/xuhui.rst:48
+#: ../../districts/xuhui.rst:50
 msgid ""
 ":doc:`Xuhui embodied AI development support </funding/xuhui-embodied>` "
 "(徐汇具身智能产业支持 · Grant · No equity) — Evaluated entity support ceilings: RMB "
 "10m one-off and RMB 20m annual development support. Status: Published "
 "policy; implementing intake to confirm. Timing: Confirm applicable "
 "implementing notice."
-msgstr ":doc:`Branchenförderung für verkörperte KI (Embodied AI) Xuhui </funding/xuhui-embodied>` (徐汇具身智能产业支持 · Zuschuss · Ohne Anteilsabgabe) — Obergrenzen nach Einzelfallbewertung: bis zu 10 Mio. RMB einmalig und bis zu 20 Mio. RMB jährliche Entwicklungsförderung. Status: Richtlinie veröffentlicht; Annahmeverfahren zu bestätigen. Zeitrahmen: Geltende Durchführungshinweise der Jahresbekanntmachung beachten."
+msgstr ":doc:`Branchenförderung für verkörperte KI (Embodied AI) Xuhui </funding/xuhui-embodied>` (徐汇具身智能产业支持 · Zuschuss · Ohne Anteilsabgabe) — Obergrenzen nach Einzelfallbewertung: bis zu 10 Mio. RMB einmalig und bis zu 20 Mio. RMB jährliche Entwicklungsförderung. Status: Richtlinie veröffentlicht; Annahmeverfahren zu bestätigen. Zeitrahmen: Zuständige Umsetzungsbekanntmachung prüfen."
 
-#: ../../districts/xuhui.rst:50
+#: ../../districts/xuhui.rst:51
+msgid ""
+":doc:`Xuhui Qingmiao early AI investment route "
+"</funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · Equity investment · "
+"Negotiated equity) — Manager-reviewed early-stage investment; no "
+"universal cheque or equity percentage verified. Status: Published "
+"investment platform; deal review. Timing: Manager-led sourcing and due "
+"diligence."
+msgstr ":doc:`Xuhui Qingmiao: Frühphaseninvestitionen in KI </funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · Eigenkapitalinvestition · Verhandlungsbasierte Beteiligung) — Frühphaseninvestition nach Prüfung des Managers; kein allgemeiner Investitionsbetrag oder Beteiligungssatz belegt. Status: Investitionsplattform veröffentlicht; Projektprüfung erforderlich. Zeitrahmen: Projektidentifikation und Due Diligence durch den Fondsmanager."
+
+#: ../../districts/xuhui.rst:53
 msgid ":doc:`Also compare citywide funding </funding>`"
 msgstr ":doc:`Auch stadtweite Förderprogramme vergleichen </funding>`"

@@ -62,7 +62,7 @@ msgstr "ファンド運用会社の投資基準に合致するシード期のAI�
 
 #: ../../funding/pudong-equity.rst:22
 msgid "Manager-led sourcing and due diligence"
-msgstr "運用会社主導によるソーシングおよびデューデリジェンス"
+msgstr "運用会社主導のソーシングおよびデューデリジェンス"
 
 #: ../../funding/pudong-equity.rst:24
 msgid "Contact and application"

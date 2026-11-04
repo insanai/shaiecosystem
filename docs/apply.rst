@@ -39,6 +39,6 @@ Week 1: shortlist two districts, one research partner and two operators using se
 
 We maintain an application ledger with owner, authority, policy version, evidence period, deadline in China Standard Time, submission receipt, duplicate-funding exclusions, reporting duty and next action. A calendar alert is useful only after the correct deadline and timezone have been confirmed.
 
-`Evidence S130 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest.
+`Evidence S138 <https://english.shanghai.gov.cn/en-Latest-TalentsinShanghai/20260202/3c543c31bce34e1b9e2bc5615a63d2df.html>`_. Guide for foreign talent and team members (Category A/B) applying for a Foreigner's Work Permit during the startup phase_Latest.
 
-`Evidence S131 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知.
+`Evidence S080 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知.

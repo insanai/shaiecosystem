@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -30,9 +30,9 @@ msgstr "공시된 목록; 대출 기관 심사 필요"
 
 #: ../../funding/huangpu-credit-directory.rst:8
 msgid ""
-"`Evidence S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
+"`Evidence S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. "
 "黄浦区融资信用服务平台-银行产品."
-msgstr "`근거 S120 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
+msgstr "`근거 S128 <https://xydhp.shhuangpu.gov.cn/finance-product>`_. 黄浦区融资信用服务平台-银行产品."
 
 #: ../../funding/huangpu-credit-directory.rst:10
 msgid "Amount and mechanism"
@@ -41,11 +41,11 @@ msgstr "지원 규모 및 지원 방식"
 #: ../../funding/huangpu-credit-directory.rst:13
 msgid ""
 "Product-specific bank credit, startup guarantee and IP-backed finance"
-msgstr "무담보 신용 대출, 데이터 기반 핀테크 대출, 구 연계 우대금리 융자 상품"
+msgstr "상품별 은행 여신, 창업 보증 및 지식재산권 담보 금융"
 
 #: ../../funding/huangpu-credit-directory.rst:15
 msgid "No equity; repayable"
-msgstr "지분 취득 없음; 상환 의무 있음"
+msgstr "지분 제공 의무 없음; 상환 필요"
 
 #: ../../funding/huangpu-credit-directory.rst:17
 msgid "Eligibility and timing"
@@ -56,7 +56,7 @@ msgid ""
 "Select the actual bank product on the official district platform. Credit "
 "eligibility, guarantee, rates, fees, collateral and repayment depend on "
 "the lender and company; the directory is not an approval."
-msgstr "황푸구에서 건전하게 영업 중인 서비스업, 디지털 테크, 핀테크 분야 중소·소호 기업."
+msgstr "구 공식 플랫폼에서 실제 은행 상품을 선택해야 합니다. 신청 자격, 보증, 금리, 수수료, 담보 및 상환은 은행과 기업에 따라 다르며, 목록 등재가 대출 승인을 의미하지는 않습니다."
 
 #: ../../funding/huangpu-credit-directory.rst:22
 msgid "Product-specific; confirm current lender terms"

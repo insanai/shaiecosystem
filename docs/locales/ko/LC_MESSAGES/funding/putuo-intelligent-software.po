@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -26,14 +26,14 @@ msgstr "보조금 / 비용 환급 | 푸퉈구"
 
 #: ../../funding/putuo-intelligent-software.rst:6
 msgid "Closed"
-msgstr "모집 마감"
+msgstr "접수 마감"
 
 #: ../../funding/putuo-intelligent-software.rst:8
 msgid ""
-"`Evidence S110 "
+"`Evidence S118 "
 "<https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. "
 "关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
-msgstr "`근거 S110 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. 关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
+msgstr "`근거 S118 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. 关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
 
 #: ../../funding/putuo-intelligent-software.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "스마트 소프트웨어 R&D, 산업 생태계 구축, 대표 시범 �
 
 #: ../../funding/putuo-intelligent-software.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/putuo-intelligent-software.rst:17
 msgid "Eligibility and timing"
@@ -59,7 +59,7 @@ msgid ""
 "distinguishes R&D collaboration, compute use for models and agents, "
 "recognized technical breakthroughs and other directions; approval and "
 "eligible periods differ."
-msgstr "푸퉈구 전략 산업인 지능형 소프트웨어, 정보보안, 산업 제어 시스템 분야의 등록 기업."
+msgstr "신용 상태가 양호한 법인 및 비법인 조직이 대상입니다. 공동 R&D, 모델·에이전트용 컴퓨팅 이용, 공인 기술 성과 등 지원 분야별로 승인 요건과 인정 기간이 다릅니다."
 
 #: ../../funding/putuo-intelligent-software.rst:22
 msgid "Closed 26 June 2026"

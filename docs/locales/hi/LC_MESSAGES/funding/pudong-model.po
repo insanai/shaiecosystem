@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,14 +26,14 @@ msgstr "प्रतिपूर्ति (Reimbursement) | पुडोंग (
 
 #: ../../funding/pudong-model.rst:6
 msgid "Closed"
-msgstr "बंद हो चुका है"
+msgstr "आवेदन की समय-सीमा समाप्त"
 
 #: ../../funding/pudong-model.rst:8
 msgid ""
-"`Evidence S089 "
+"`Evidence S096 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
 "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
-msgstr "`साक्ष्य S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`साक्ष्य S096 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 
 #: ../../funding/pudong-model.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "सहायता दर और राशि लागू कार्�
 
 #: ../../funding/pudong-model.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/pudong-model.rst:17
 msgid "Eligibility and timing"

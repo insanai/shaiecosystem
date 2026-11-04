@@ -110,7 +110,7 @@ msgid ""
 "communities. We treat this record as a district routing entry, not a "
 "single interchangeable operator or a guaranteed free-workspace offer. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`디지털 실리콘앨리 / 훙차오 혁신 캐리어 </entities/digital-silicon>` (数字硅巷／虹桥创新载体 · 인큐베이터 · 소프트웨어 AI) — 창닝구가 구축한 다층적 디지털 인큐베이션 및 1인 기업(OPC) 커뮤니티입니다. 본 항목은 구 단위 연계 경로를 안내하는 것으로, 단일 통합 운영사가 아니며 무료 입주 공간 제공을 보장하지 않습니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`디지털 실리콘앨리 / 훙차오 창업 지원 거점 </entities/digital-silicon>` (数字硅巷／虹桥创新载体 · 인큐베이터 · 소프트웨어 AI) — 창닝구가 구축한 다층적 디지털 인큐베이션 및 1인 기업(OPC) 커뮤니티입니다. 본 항목은 구 단위 연계 경로를 안내하는 것으로, 단일 통합 운영사가 아니며 무료 입주 공간 제공을 보장하지 않습니다. [상태: 공시된 기관; 신규 모집 여부 확인 필요]"
 
 #: ../../districts/changning.rst:38
 msgid ""
@@ -132,7 +132,7 @@ msgid ""
 "(2026长宁人工智能产业项目 · Grant · No equity) — Project-specific support after "
 "assessment; no common ceiling established. Status: Closed. Timing: Closed "
 "30 June 2026."
-msgstr ":doc:`2026년 창닝구 인공지능 산업 프로젝트 </funding/changning-ai-2026>` (2026长宁人工智能产业项目 · 보조금 · 지분 취득 없음) — 창닝구 산업 특화 정책에 따른 프로젝트 평가 기반의 차등 보조금 지원. 상태: 모집 마감. 일정: 2026년도 창닝구 과학기술위원회 산업 공고 확인 필요."
+msgstr ":doc:`2026년 창닝구 인공지능 산업 프로젝트 </funding/changning-ai-2026>` (2026长宁人工智能产业项目 · 보조금 · 지분 제공 의무 없음) — 창닝구 산업 특화 정책에 따른 프로젝트 평가 기반의 차등 보조금 지원. 상태: 접수 마감. 일정: 2026년도 창닝구 과학기술위원회 산업 공고 확인 필요."
 
 #: ../../districts/changning.rst:44
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 "</funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · No equity) — "
 "Funding for assessed and recognized teams under the district talent fund "
 "plan. Status: Closed. Timing: Closed 26 June 2026."
-msgstr ":doc:`2026년 창닝구 과학기술 스타팀 </funding/changning-tech-star>` (2026长宁科技之星团队 · 보조금 · 지분 취득 없음) — 우수 기술 혁신 및 산업화 팀 대상 장려금 및 R&D 프로젝트 지원금. 상태: 모집 마감. 일정: 2026년도 창닝구 인재 및 과기 공고 일정 확인 필요."
+msgstr ":doc:`2026년 창닝구 과학기술 스타팀 </funding/changning-tech-star>` (2026长宁科技之星团队 · 보조금 · 지분 제공 의무 없음) — 우수 기술 혁신 및 산업화 팀 대상 장려금 및 R&D 프로젝트 지원금. 상태: 접수 마감. 일정: 2026년도 창닝구 인재 및 과기 공고 일정 확인 필요."
 
 #: ../../districts/changning.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

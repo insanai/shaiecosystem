@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -18,13 +18,13 @@ msgstr ""
 
 #: ../../investors.rst:1
 msgid "Investors and patient capital"
-msgstr "투자 기관과 인내 자본"
+msgstr "투자 기관과 장기 투자 자본"
 
 #: ../../investors.rst:4
 msgid ""
-"6 profiles with evidence, contact routes and an application checklist. "
+"7 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "출처, 연락 경로 및 신청 체크리스트가 포함된 6개의 프로필. 기관의 존재 여부와 현재 모집 여부는 구분하여 표기합니다."
+msgstr "출처, 연락 경로 및 신청 체크리스트가 포함된 7개의 프로필. 기관의 존재 여부와 현재 모집 여부는 구분하여 표기합니다."
 
 #: ../../investors.rst:8
 msgid "Complete directory summary"
@@ -50,7 +50,7 @@ msgid ""
 "models and edge AI. A fund-of-funds commitment is not a startup award or "
 "a direct application entitlement. Support: Equity investment. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`상하이 3대 선도산업 모펀드 <entities/ssci>` (上海三大先导产业母基金 · 투자 기관 · 전시 / 글로벌 · 소프트웨어 AI, 하드웨어 AI, 반도체 칩, 헬스케어) — 상하이시 국유자본이 주도하는 선도산업 모펀드 플랫폼으로, 범용 AI, 컴퓨팅 시스템, 임바디드 AI, 스마트 제조 소프트웨어 분야를 지원합니다. 자금 배분은 정부 행정 보조금이 아닌 시장 기반의 펀드 위탁 투자를 통해 집행됩니다. [지분 투자]. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이 3대 선도산업 모펀드 <entities/ssci>` (上海三大先导产业母基金 · 투자 기관 · 상하이 전역 / 글로벌 · 소프트웨어 AI, 하드웨어 AI, 반도체 칩, 헬스케어) — 상하이시 국유자본이 주도하는 선도산업 모펀드 플랫폼으로, 범용 AI, 컴퓨팅 시스템, 임바디드 AI, 스마트 제조 소프트웨어 분야를 지원합니다. 자금 배분은 정부 행정 보조금이 아닌 시장 기반의 펀드 위탁 투자를 통해 집행됩니다. [지분 투자]. [공시된 기관; 신규 모집 여부 확인 필요]"
 
 #: ../../investors.rst:13
 msgid ""
@@ -81,7 +81,7 @@ msgid ""
 "ecosystem. Use its official portfolio and manager information to identify "
 "the appropriate investment vehicle and stage. Support: Equity investment. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`상하이 과기창업투자그룹 <entities/stvc>` (上海科技创业投资集团 · 투자 기관 · 전시 / 글로벌 · 반도체 칩, 헬스케어, 소프트웨어 AI) — 상하이 국유 자본 생태계의 대표적인 과학기술 전문 투자 그룹입니다. 공식 포트폴리오와 위탁 운용사 정보를 통해 프로젝트 단계와 기술 영역에 맞는 산하 펀드를 매칭해야 합니다. [지분 투자]. [공시된 기관; 신규 모집 여부 확인 필요]"
+msgstr ":doc:`상하이 과기창업투자그룹 <entities/stvc>` (上海科技创业投资集团 · 투자 기관 · 상하이 전역 / 글로벌 · 반도체 칩, 헬스케어, 소프트웨어 AI) — 상하이 국유 자본 생태계의 대표적인 과학기술 전문 투자 그룹입니다. 공식 포트폴리오와 위탁 운용사 정보를 통해 프로젝트 단계와 기술 영역에 맞는 산하 펀드를 매칭해야 합니다. [지분 투자]. [공시된 기관; 신규 모집 여부 확인 필요]"
 
 #: ../../investors.rst:16
 msgid ""
@@ -94,3 +94,16 @@ msgid ""
 "61016522 | Email: contactus@qimingvc.com. [Status: Published entity; "
 "intake to confirm]"
 msgstr ":doc:`치밍 벤처파트너스 <entities/qiming>` (启明创投 · 투자 기관 · 푸둥 신구 · 소프트웨어 AI, 헬스케어, 하드웨어 AI) — 상하이에 지사를 둔 유력 벤처캐피털(VC)입니다. 핵심 사업 계획서를 준비하여 투자 분야와 성장 단계의 부합성을 확인해야 하며, 대표 문의 이메일로 접수하더라도 정식 투자 심사가 보장되는 것은 아닙니다. [지분 투자]. 푸둥신구 스지다다오 88호 진마오타워 3901호 | Tel: +86 21 61016522 | Email: contactus@qimingvc.com. [공시된 기관; 신규 모집 여부 확인 필요]"
+
+#: ../../investors.rst:17
+msgid ""
+":doc:`Xuhui Qingmiao AI Youth Entrepreneurship Fund <entities/qingmiao>` "
+"(徐汇人工智能青年创业基金（青苗基金） · Investor · Xuhui · Focus: Software AI, Hardware AI) "
+"— Xuhui established this youth-focused AI fund in September 2025. Its "
+"August 2026 entrepreneurship camp connected early AI teams with "
+"investment, research and industrial partners. Shanghai Xuhui Capital "
+"Investment and Shanghai Xuhui Science and Technology Venture Capital Fund "
+"Management co-hosted the camp. Request the receiving manager and current "
+"investment terms; camp attendance is not an investment award. [Status: "
+"Published entity; intake to confirm]"
+msgstr ":doc:`쉬후이 칭먀오 AI 청년 창업 펀드 <entities/qingmiao>` (徐汇人工智能青年创业基金（青苗基金） · 투자 기관 · 쉬후이구 · 소프트웨어 AI, 하드웨어 AI) — 쉬후이구가 2025년 9월 설립한 청년 AI 창업 펀드입니다. 2026년 8월 창업 캠프에서 초기 팀과 투자·연구·산업 파트너를 연결했습니다. Shanghai Xuhui Capital Investment 및 Shanghai Xuhui Science and Technology Venture Capital Fund Management 등이 공동 주최했습니다. 담당 운용사와 현행 투자 조건을 확인해야 하며, 캠프 참가가 투자 확정을 뜻하지는 않습니다. [공시된 기관; 신규 모집 여부 확인 필요]"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -26,14 +26,14 @@ msgstr "Eigenkapitalinvestition | Bezirk Jiading"
 
 #: ../../funding/jiading-future-fund.rst:6
 msgid "Fund announced; deal intake to confirm"
-msgstr "Fonds angekündigt; Dealflow-Aufnahme zu bestätigen"
+msgstr "Fonds angekündigt; Annahme von Investitionsanfragen bestätigen"
 
 #: ../../funding/jiading-future-fund.rst:8
 msgid ""
-"`Evidence S118 "
+"`Evidence S126 "
 "<https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading "
 "launches 800m-yuan future industry fund."
-msgstr "`Nachweis S118 <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading launches 800m-yuan future industry fund."
+msgstr "`Nachweis S126 <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading launches 800m-yuan future industry fund."
 
 #: ../../funding/jiading-future-fund.rst:10
 msgid "Amount and mechanism"
@@ -43,7 +43,7 @@ msgstr "Förderhöhe und Mechanismus"
 msgid ""
 "Announced fund scale RMB 800 million; individual investment not "
 "established"
-msgstr "Staatlich gestützter Investitionsfonds; Beteiligungsbeträge und Konditionen werden im Einzelfall durch den Investitionsausschuss festgelegt"
+msgstr "Angekündigtes Fondsvolumen: 800 Mio. RMB; kein einheitlicher Investitionsbetrag pro Unternehmen belegt"
 
 #: ../../funding/jiading-future-fund.rst:15
 msgid "Negotiated equity"
@@ -58,7 +58,7 @@ msgid ""
 "Projects within the fund manager's current future-industry mandate. "
 "Confirm the responsible manager, direct or subfund route, stage and "
 "domicile requirements. Fund scale is not a per-company award."
-msgstr "Innovative Unternehmen in Früh- und Wachstumsphasen mit Ausrichtung auf intelligente vernetzte Fahrzeuge (ICV), Photonik/Optoelektronik, KI-Hardware und Sensorik im Bezirk Jiading."
+msgstr "Projekte im aktuellen Zukunftsbranchen-Mandat des Fondsmanagers. Zuständigen Manager, Direkt- oder Unterfondsroute, Phase und Standortvorgaben bestätigen. Das Fondsvolumen ist kein Zuschuss pro Unternehmen."
 
 #: ../../funding/jiading-future-fund.rst:22
 msgid "Manager-led sourcing; current deal intake to confirm"

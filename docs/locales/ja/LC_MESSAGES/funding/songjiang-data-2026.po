@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,10 +30,10 @@ msgstr "2026年公募公表済み（締切日の確認要）"
 
 #: ../../funding/songjiang-data-2026.rst:8
 msgid ""
-"`Evidence S124 "
+"`Evidence S132 "
 "<https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. "
 "关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
-msgstr "`出典 S124 <https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. 关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
+msgstr "`出典 S132 <https://www.songjiang.gov.cn/ztzl/005019/005019002/20260803/9bd36209-64ca-48b3-8e17-5c929ce97f1b.html>`_. 关于开展2026年度第二批松江区数据要素专项资金项目申报的通知."
 
 #: ../../funding/songjiang-data-2026.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "松江区データ要素特別資金管理弁法に基づき、認定プ
 
 #: ../../funding/songjiang-data-2026.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/songjiang-data-2026.rst:17
 msgid "Eligibility and timing"

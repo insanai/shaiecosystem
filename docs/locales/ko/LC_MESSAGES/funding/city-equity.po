@@ -22,7 +22,7 @@ msgstr "시급 선도산업 및 AI 전문 펀드"
 
 #: ../../funding/city-equity.rst:4
 msgid "Equity investment | Citywide / global"
-msgstr "지분 투자 | 전시 / 글로벌"
+msgstr "지분 투자 | 상하이 전역 / 글로벌"
 
 #: ../../funding/city-equity.rst:6
 msgid "Published investment platform; deal review"
@@ -38,7 +38,7 @@ msgstr "지원 규모 및 지원 방식"
 
 #: ../../funding/city-equity.rst:13
 msgid "Vehicle-specific investment; fund size is not startup funding"
-msgstr "시정부 선도산업 모펀드 및 산하 서브펀드를 통한 시장 중심의 에쿼티(지분) 투자"
+msgstr "펀드별 투자 조건 적용; 전체 펀드 규모가 기업별 지원금은 아님"
 
 #: ../../funding/city-equity.rst:15
 msgid "Negotiated equity"
@@ -53,11 +53,11 @@ msgid ""
 "AI, chip, healthcare and other mandate-compatible companies. Identify the "
 "direct-investment or subfund manager and review stage, domicile, return "
 "and ownership terms."
-msgstr "AI 인프라, 원천 모델, 반도체 및 핵심 산업 애플리케이션 분야에서 시장 적합성을 검증받은 유망 기술 기업."
+msgstr "AI, 반도체, 헬스케어 등 투자 목적에 맞는 기업이 대상입니다. 직접 투자 또는 하위 펀드 운용사를 확인하고 투자 단계, 소재지, 수익 및 지분 조건을 검토해야 합니다."
 
 #: ../../funding/city-equity.rst:22
 msgid "Investment committee process; no guaranteed award"
-msgstr "시장 기반 펀드 운용사별 상시 소싱 및 실사 일정 준용"
+msgstr "투자심의위원회 절차 진행; 지원 보장 없음"
 
 #: ../../funding/city-equity.rst:24
 msgid "Contact and application"

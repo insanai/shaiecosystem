@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../entities/shibei-valley.rst:1
 msgid "Shibei Hi-Tech Park / Shutong Valley & Daning Carriers"
-msgstr "스베이 하이테크 파크 / 수퉁 밸리 및 다닝 혁신 캐리어"
+msgstr "스베이 하이테크 파크 / 수퉁 밸리 및 다닝 창업 지원 거점"
 
 #: ../../entities/shibei-valley.rst:4
 msgid "市北高新园区／数通链谷与大宁科创载体"
@@ -39,7 +39,7 @@ msgid ""
 "enterprise AI workspaces across Shibei Hi-Tech Park, Daning and Suhewan. "
 "Confirm the specific carrier operator, data-compliance services and "
 "tenancy terms."
-msgstr "징안구의 2026~2028년 AI 시범구 계획 및 혁신 캐리어 정책에 따라 스베이 하이테크 파크, 수퉁 밸리(블록체인), 다닝, 쑤허완 일대에 빅데이터, 블록체인, 클라우드, 엔터프라이즈 AI 업무 공간을 집적하고 있습니다. 세부 운영 주체, 데이터 컴플라이언스 서비스, 입주 조건을 확인해야 합니다."
+msgstr "징안구의 2026~2028년 AI 시범구 계획 및 창업 지원 거점 정책에 따라 스베이 하이테크 파크, 수퉁 밸리(블록체인), 다닝, 쑤허완 일대에 빅데이터, 블록체인, 클라우드, 엔터프라이즈 AI 업무 공간을 집적하고 있습니다. 세부 운영 주체, 데이터 컴플라이언스 서비스, 입주 조건을 확인해야 합니다."
 
 #: ../../entities/shibei-valley.rst:12
 msgid ""

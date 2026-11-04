@@ -37,7 +37,7 @@ msgid ""
 "The 2025-2026 reform plan sets a framework for ecological innovation. We "
 "use the district authority for matching smart agriculture, ecological "
 "sensing and marine technology projects to a concrete carrier."
-msgstr "2025-2026 सुधार योजना पारिस्थितिक नवाचार के लिए एक रूपरेखा निर्धारित करती है। हम स्मार्ट कृषि, पारिस्थितिक सेंसिंग और समुद्री प्रौद्योगिकी परियोजनाओं को किसी ठोस कैरियर से मिलाने के लिए जिला प्राधिकरण का उपयोग करते हैं।"
+msgstr "2025-2026 सुधार योजना पारिस्थितिक नवाचार के लिए एक रूपरेखा निर्धारित करती है। हम स्मार्ट कृषि, पारिस्थितिक सेंसिंग और समुद्री प्रौद्योगिकी परियोजनाओं को किसी ठोस स्टार्टअप सहायता केंद्र से मिलाने के लिए जिला प्राधिकरण का उपयोग करते हैं।"
 
 #: ../../entities/chongming-park.rst:12
 msgid ""
@@ -52,7 +52,7 @@ msgstr "स्थिति और सहायता"
 
 #: ../../entities/chongming-park.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
 
 #: ../../entities/chongming-park.rst:19
 msgid ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,14 +26,14 @@ msgstr "अनुदान (Grant) | पुतुओ (Putuo)"
 
 #: ../../funding/putuo-rd-platform.rst:6
 msgid "2026 call published; not confirmed open"
-msgstr "2026 कॉल प्रकाशित; खुले होने की पुष्टि नहीं"
+msgstr "2026 का आवेदन आमंत्रण प्रकाशित; आवेदन अभी खुले होने की पुष्टि नहीं"
 
 #: ../../funding/putuo-rd-platform.rst:8
 msgid ""
-"`Evidence S111 "
+"`Evidence S119 "
 "<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. "
 "关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
-msgstr "`साक्ष्य S111 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+msgstr "`साक्ष्य S119 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
 
 #: ../../funding/putuo-rd-platform.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "RMB 2 मिलियन तक; पहला भुगतान अध�
 
 #: ../../funding/putuo-rd-platform.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/putuo-rd-platform.rst:17
 msgid "Eligibility and timing"

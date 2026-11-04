@@ -155,7 +155,7 @@ msgid ""
 "No equity) — Recognized top talent and core team: up to RMB 1m; eligible "
 "overseas young talent: RMB 50,000 per person. Status: Closed. Timing: "
 "Closed 31 March 2026."
-msgstr ":doc:`Apoyo al talento internacional de alto nivel y jóvenes talentos del extranjero de Hongkou, primer lote de 2026 </funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Talento de élite acreditado y su equipo principal: hasta 1 millón de RMB; jóvenes talentos del extranjero elegibles: 50.000 RMB por persona. Estado: Plazo cerrado. Plazo: Cerrada el 31 de marzo de 2026."
+msgstr ":doc:`Apoyo al talento internacional de alto nivel y jóvenes talentos del extranjero de Hongkou, primer lote de 2026 </funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · Subvención a fondo perdido · Sin cesión de participaciones) — Talento de élite acreditado y su equipo principal: hasta 1 millón de RMB; jóvenes talentos del extranjero elegibles: 50.000 RMB por persona. Estado: Plazo cerrado. Plazo: Cerrada el 31 de marzo de 2026."
 
 #: ../../districts/hongkou.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"

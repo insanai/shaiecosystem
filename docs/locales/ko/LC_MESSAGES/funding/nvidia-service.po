@@ -22,7 +22,7 @@ msgstr "엔비디아 인셉션"
 
 #: ../../funding/nvidia-service.rst:4
 msgid "In-kind services | Citywide / global"
-msgstr "현물 및 서비스 지원 | 전시 / 글로벌"
+msgstr "현물 및 서비스 지원 | 상하이 전역 / 글로벌"
 
 #: ../../funding/nvidia-service.rst:6
 msgid "Program published; eligibility review"
@@ -40,11 +40,11 @@ msgstr "지원 규모 및 지원 방식"
 
 #: ../../funding/nvidia-service.rst:13
 msgid "Free membership; conditional ecosystem benefits, not a cash grant"
-msgstr "비지분 무상 지원: GPU 하드웨어 할인, 딥러닝 인스티튜트(DLI) 교육 크레딧, 기술 지원 및 시장 진출 기회"
+msgstr "회원 가입 무료; 생태계 혜택에는 별도 조건이 적용되며 현금 보조금이 아님"
 
 #: ../../funding/nvidia-service.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/nvidia-service.rst:17
 msgid "Eligibility and timing"
@@ -55,11 +55,11 @@ msgid ""
 "Qualifying AI startups; check incorporation, developer, age and regional "
 "conditions. Product availability and partner credits are separately "
 "governed."
-msgstr "AI, 데이터 사이언스, 고성능 컴퓨팅 기반의 자체 제품을 개발하는 법인 스타트업. 유효한 기업 웹사이트와 비즈니스 도메인 이메일 필수."
+msgstr "적격 AI 스타트업이 대상입니다. 법인 설립, 개발자, 업력, 지역 요건을 확인해야 합니다. 제품 제공 여부와 파트너 크레딧에는 별도 조건이 적용됩니다."
 
 #: ../../funding/nvidia-service.rst:22
 msgid "Online application; regional eligibility review"
-msgstr "상시 온라인 신청 접수"
+msgstr "온라인 신청; 지역 자격 요건 심사 필요"
 
 #: ../../funding/nvidia-service.rst:24
 msgid "Contact and application"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -38,9 +38,9 @@ msgstr "長江デルタG60科学イノベーション回廊はイノベーショ
 
 #: ../../entities/government-songjiang.rst:10
 msgid ""
-"`Evidence S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`出典 S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`出典 S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../entities/government-songjiang.rst:12
 msgid "Status and support"

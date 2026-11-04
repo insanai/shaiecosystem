@@ -5,7 +5,7 @@ Reimbursement | Citywide / global
 
 First 2026 batch closed; later batches to verify
 
-`Evidence S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知.
+`Evidence S111 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知.
 
 Amount and mechanism
 --------------------

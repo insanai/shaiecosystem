@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -34,10 +34,10 @@ msgstr "La política de innovación empresarial está vigente del 1 de septiembr
 
 #: ../../districts/minhang.rst:8
 msgid ""
-"`Evidence S091 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`Evidencia S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`Evidencia S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../districts/minhang.rst:10
 msgid "Who receives the inquiry"
@@ -173,7 +173,7 @@ msgid ""
 "conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; "
 "up to 50% of investment. Status: Policy in force; call not confirmed "
 "open. Timing: Policy: 1 Sep 2025 to 31 Aug 2030."
-msgstr ":doc:`Apoyo a la comercialización de resultados de investigación de Minhang </funding/minhang-conversion>` (闵行科技成果转化支持 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Nueva empresa de transferencia tecnológica: hasta 500.000 RMB/año; tope de 1,5 millones de RMB en tres años; hasta el 50 % de la inversión. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Vigencia de la política: del 1 de septiembre de 2025 al 31 de agosto de 2030."
+msgstr ":doc:`Apoyo a la comercialización de resultados de investigación de Minhang </funding/minhang-conversion>` (闵行科技成果转化支持 · Subvención a fondo perdido · Sin cesión de participaciones) — Nueva empresa de transferencia tecnológica: hasta 500.000 RMB/año; tope de 1,5 millones de RMB en tres años; hasta el 50 % de la inversión. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Vigencia de la política: del 1 de septiembre de 2025 al 31 de agosto de 2030."
 
 #: ../../districts/minhang.rst:48
 msgid ""
@@ -181,7 +181,7 @@ msgid ""
 "(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
 "R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
 "confirmed open. Timing: Policy through 31 Aug 2030."
-msgstr ":doc:`Proyectos de I+D en tecnologías clave de Minhang </funding/minhang-rd>` (闵行关键核心技术攻关 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Proyectos generales: hasta 3 millones de RMB y hasta el 30 % de la I+D; proyectos estratégicos: hasta 10 millones de RMB y hasta el 50 %. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Política vigente hasta el 31 de agosto de 2030."
+msgstr ":doc:`Proyectos de I+D en tecnologías clave de Minhang </funding/minhang-rd>` (闵行关键核心技术攻关 · Subvención a fondo perdido · Sin cesión de participaciones) — Proyectos generales: hasta 3 millones de RMB y hasta el 30 % de la I+D; proyectos estratégicos: hasta 10 millones de RMB y hasta el 50 %. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Política vigente hasta el 31 de agosto de 2030."
 
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"

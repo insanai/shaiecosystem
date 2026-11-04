@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,14 +26,14 @@ msgstr "अनुदान (Grant) | मिनहांग (Minhang)"
 
 #: ../../funding/minhang-conversion.rst:6
 msgid "Policy in force; call not confirmed open"
-msgstr "नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं"
+msgstr "नीति लागू है; आवेदन अभी खुले हैं या नहीं, इसकी पुष्टि बाकी"
 
 #: ../../funding/minhang-conversion.rst:8
 msgid ""
-"`Evidence S091 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`साक्ष्य S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`साक्ष्य S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../funding/minhang-conversion.rst:10
 msgid "Amount and mechanism"
@@ -43,11 +43,11 @@ msgstr "राशि और तंत्र"
 msgid ""
 "New conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three "
 "years; up to 50% of investment"
-msgstr "नया रूपांतरण उद्यम: RMB 500,000/वर्ष तक; तीन वर्षों में RMB 1.5m; निवेश के 50% तक"
+msgstr "नई शोध-व्यावसायीकरण कंपनी के लिए प्रति वर्ष अधिकतम 5 लाख RMB, तीन वर्षों में कुल 15 लाख RMB; पात्र निवेश का अधिकतम 50%"
 
 #: ../../funding/minhang-conversion.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/minhang-conversion.rst:17
 msgid "Eligibility and timing"

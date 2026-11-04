@@ -26,7 +26,7 @@ msgstr "अनुदान / प्रतिपूर्ति | जिनशा
 
 #: ../../funding/jinshan-park-2026.rst:6
 msgid "Policy in force; call not confirmed open"
-msgstr "नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं"
+msgstr "नीति लागू है; आवेदन अभी खुले हैं या नहीं, इसकी पुष्टि बाकी"
 
 #: ../../funding/jinshan-park-2026.rst:8
 msgid ""
@@ -43,11 +43,11 @@ msgstr "राशि और तंत्र"
 msgid ""
 "Policy-specific R&D, carrier incubation, testing-service and "
 "industrialization support under the 2025-2026 park action plan"
-msgstr "2025-2026 पार्क कार्य योजना के तहत नीति-विशिष्ट R&D, कैरियर इनक्यूबेशन, परीक्षण-सेवा और औद्योगीकरण सहायता"
+msgstr "2025-2026 पार्क कार्य योजना के तहत नीति-विशिष्ट R&D, स्टार्टअप सहायता केंद्र इनक्यूबेशन, परीक्षण-सेवा और औद्योगीकरण सहायता"
 
 #: ../../funding/jinshan-park-2026.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/jinshan-park-2026.rst:17
 msgid "Eligibility and timing"
@@ -58,7 +58,7 @@ msgid ""
 "Qualifying enterprises and innovation carriers in Zhangjiang Jinshan Park "
 "working on low-altitude UAV systems, new chemical or electronic "
 "materials, biomanufacturing and intelligent equipment."
-msgstr "कम-ऊंचाई वाली UAV प्रणालियों, नए रासायनिक या इलेक्ट्रॉनिक सामग्रियों, बायोमैन्युफैक्चरिंग और इंटेलिजेंट उपकरणों पर काम करने वाले झांगजियांग जिनशान पार्क में अर्हकारी उद्यम और नवाचार कैरियर।"
+msgstr "कम-ऊंचाई वाली UAV प्रणालियों, नए रासायनिक या इलेक्ट्रॉनिक सामग्रियों, बायोमैन्युफैक्चरिंग और इंटेलिजेंट उपकरणों पर काम करने वाले झांगजियांग जिनशान पार्क में अर्हकारी उद्यम और नवाचार स्टार्टअप सहायता केंद्र।"
 
 #: ../../funding/jinshan-park-2026.rst:22
 msgid "Policy: 2025 to 2026 action plan; confirm current implementing batch"

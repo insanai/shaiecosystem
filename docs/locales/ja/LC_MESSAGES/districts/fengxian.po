@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -34,10 +34,10 @@ msgstr "ロボット産業施策はスマートロボットを手がける適格
 
 #: ../../districts/fengxian.rst:8
 msgid ""
-"`Evidence S095 "
+"`Evidence S102 "
 "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
 "奉贤区促进智能机器人产业创新发展若干政策措施."
-msgstr "`出典 S095 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
+msgstr "`出典 S102 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
 
 #: ../../districts/fengxian.rst:10
 msgid "Who receives the inquiry"
@@ -154,7 +154,7 @@ msgid ""
 "equity) — 30% of the qualifying annual R&D net increase, capped at RMB 1 "
 "million. Status: Closed. Timing: Online closed 17 June 2026, 17:00; paper "
 "closed 30 June 2026, 17:00 China Standard Time."
-msgstr ":doc:`2026年奉賢区研究開発費増加額補助 </funding/fengxian-rd-increase>` （2026奉贤研发费用增长补贴 · 事後精算・費用補助 · 株式希薄化なし（エクイティフリー））— 前年度からの適格研究開発費の純増額の30％を補助（最大100万元まで）。ステータス：受付終了。時期：オンライン申請は2026年6月17日 17:00、紙面提出は6月30日 17:00（いずれも中国標準時）に終了。"
+msgstr ":doc:`2026年奉賢区研究開発費増加額補助 </funding/fengxian-rd-increase>` （2026奉贤研发费用增长补贴 · 事後精算・費用補助 · 株式の提供不要）— 前年度からの適格研究開発費の純増額の30％を補助（最大100万元まで）。ステータス：募集終了。時期：オンライン申請は2026年6月17日 17:00、紙面提出は6月30日 17:00（いずれも中国標準時）に終了。"
 
 #: ../../districts/fengxian.rst:46
 msgid ""
@@ -163,7 +163,7 @@ msgid ""
 "equity) — Up to RMB 250,000; generally two installments, final settlement "
 "after acceptance. Status: Closed. Timing: Online closed 21 June 2026; "
 "paper closed 30 June 2026."
-msgstr ":doc:`2026年奉賢区中小企業技術イノベーション資金重点プロジェクト </funding/fengxian-sme-2026>` （2026奉贤科技型中小企业技术创新资金重点项目 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 最大25万元（通常2回に分けて交付、プロジェクト検収後に最終清算）。ステータス：受付終了。時期：オンライン申請は2026年6月21日、紙面提出は6月30日に終了。"
+msgstr ":doc:`2026年奉賢区中小企業技術イノベーション資金重点プロジェクト </funding/fengxian-sme-2026>` （2026奉贤科技型中小企业技术创新资金重点项目 · 助成金・補助金 · 株式の提供不要）— 最大25万元（通常2回に分けて交付、プロジェクト検収後に最終清算）。ステータス：募集終了。時期：オンライン申請は2026年6月21日、紙面提出は6月30日に終了。"
 
 #: ../../districts/fengxian.rst:47
 msgid ""
@@ -173,7 +173,7 @@ msgid ""
 "challenge contract value. Status: 2026 call published; deadline check "
 "required. Timing: 2026 guide published May 2026; confirm current project "
 "batch."
-msgstr ":doc:`2026年奉賢区「南上海科創センター」オープンコンペ型（掲榜掛帥）共同開発プロジェクト </funding/fengxian-jiebang-2026>` （2026奉贤“南上海科创中心”揭榜挂帅合作项目 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 技術開発契約金額に連動し、マイルストーン達成度に応じて研究開発補助金を交付。ステータス：2026年公募公表済み（締切日の確認要）。時期：2026年公募ガイドは5月公布（現在のプロジェクト募集バッチを確認のこと）。"
+msgstr ":doc:`2026年奉賢区「南上海科創センター」オープンコンペ型（掲榜掛帥）共同開発プロジェクト </funding/fengxian-jiebang-2026>` （2026奉贤“南上海科创中心”揭榜挂帅合作项目 · 助成金・補助金 · 株式の提供不要）— 技術開発契約金額に連動し、マイルストーン達成度に応じて研究開発補助金を交付。ステータス：2026年公募公表済み（締切日の確認要）。時期：2026年公募ガイドは5月公布（現在のプロジェクト募集バッチを確認のこと）。"
 
 #: ../../districts/fengxian.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"

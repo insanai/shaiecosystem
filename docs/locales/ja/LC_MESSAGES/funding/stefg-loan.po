@@ -43,7 +43,7 @@ msgstr "最大50万元、無利子、支援期間3年間、36ヶ月の元金均�
 
 #: ../../funding/stefg-loan.rst:15
 msgid "No equity; repayable"
-msgstr "株式希薄化なし（要返済）"
+msgstr "株式の提供不要・返済義務あり"
 
 #: ../../funding/stefg-loan.rst:17
 msgid "Eligibility and timing"
@@ -59,7 +59,7 @@ msgstr "40歳以下で在学生または卒業生基準を満たす中国籍起�
 
 #: ../../funding/stefg-loan.rst:22
 msgid "Confirm branch intake and review schedule"
-msgstr "各分会（大学・地区窓口）の受付および審査日程を確認のこと"
+msgstr "担当分会の受付および審査日程の確認が必要"
 
 #: ../../funding/stefg-loan.rst:24
 msgid "Contact and application"

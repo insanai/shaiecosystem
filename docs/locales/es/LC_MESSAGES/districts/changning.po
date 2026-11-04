@@ -132,7 +132,7 @@ msgid ""
 "(2026长宁人工智能产业项目 · Grant · No equity) — Project-specific support after "
 "assessment; no common ceiling established. Status: Closed. Timing: Closed "
 "30 June 2026."
-msgstr ":doc:`Proyectos de la Industria de IA de Changning, 2026 </funding/changning-ai-2026>` (2026长宁人工智能产业项目 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Apoyo específico por proyecto tras su evaluación; no se establece un techo único general. Estado: Plazo cerrado. Plazo: Cerrada el 30 de junio de 2026."
+msgstr ":doc:`Proyectos de la Industria de IA de Changning, 2026 </funding/changning-ai-2026>` (2026长宁人工智能产业项目 · Subvención a fondo perdido · Sin cesión de participaciones) — Apoyo específico por proyecto tras su evaluación; no se establece un límite único general. Estado: Plazo cerrado. Plazo: Cerrada el 30 de junio de 2026."
 
 #: ../../districts/changning.rst:44
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 "</funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · No equity) — "
 "Funding for assessed and recognized teams under the district talent fund "
 "plan. Status: Closed. Timing: Closed 26 June 2026."
-msgstr ":doc:`Equipos Estrella Tecnológica de Changning, 2026 </funding/changning-tech-star>` (2026长宁科技之星团队 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Financiación para equipos evaluados y acreditados dentro del plan del fondo distrital de talento. Estado: Plazo cerrado. Plazo: Cerrada el 26 de junio de 2026."
+msgstr ":doc:`Equipos Estrella Tecnológica de Changning, 2026 </funding/changning-tech-star>` (2026长宁科技之星团队 · Subvención a fondo perdido · Sin cesión de participaciones) — Financiación para equipos evaluados y acreditados dentro del plan del fondo distrital de talento. Estado: Plazo cerrado. Plazo: Cerrada el 26 de junio de 2026."
 
 #: ../../districts/changning.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -34,10 +34,10 @@ msgstr "2025~2026년 장장 황푸원 계획은 핀테크와 임상 연구 서�
 
 #: ../../districts/huangpu.rst:8
 msgid ""
-"`Evidence S093 "
+"`Evidence S100 "
 "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
 "黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
-msgstr "`근거 S093 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`근거 S100 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
 
 #: ../../districts/huangpu.rst:10
 msgid "Who receives the inquiry"
@@ -134,7 +134,7 @@ msgid ""
 "repayable) — Product-specific bank credit, startup guarantee and "
 "IP-backed finance. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`황푸구 융자 신용 제품 디렉토리 </funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · 대출 · 지분 취득 없음; 상환 의무 있음) — 무담보 신용 대출, 데이터 기반 핀테크 대출, 구 연계 우대금리 융자 상품. 상태: 공시된 목록; 대출 기관 심사 필요. 일정: 구 금융 당국 및 협력 금융기관 상시 상담 창구 운영."
+msgstr ":doc:`황푸구 융자 신용 제품 디렉토리 </funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · 대출 · 지분 제공 의무 없음; 상환 필요) — 상품별 은행 여신, 창업 보증 및 지식재산권 담보 금융. 상태: 공시된 목록; 대출 기관 심사 필요. 일정: 구 금융 당국 및 협력 금융기관 상시 상담 창구 운영."
 
 #: ../../districts/huangpu.rst:45
 msgid ":doc:`Also compare citywide funding </funding>`"

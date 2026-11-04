@@ -134,7 +134,7 @@ msgstr ":doc:`上海政法学院 </entities/university-shupl>` （上海政法�
 
 #: ../../districts/qingpu.rst:41
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/qingpu.rst:44
 msgid ""
@@ -157,7 +157,7 @@ msgstr ":doc:`2026青浦区企业智能化改造扶持资金 </funding/qingpu-in
 
 #: ../../districts/qingpu.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ":doc:`Xicen Science and Innovation Center </entities/xicen>`"
 #~ msgstr ":doc:`西岑科创中心 </entities/xicen>`"

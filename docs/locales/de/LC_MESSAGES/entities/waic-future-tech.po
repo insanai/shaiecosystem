@@ -1,0 +1,123 @@
+# de translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/waic-future-tech.rst:1
+msgid "WAIC / Future Tech venture network"
+msgstr "WAIC / Future Tech-Gründungsnetzwerk"
+
+#: ../../entities/waic-future-tech.rst:4
+msgid "世界人工智能大会／Future Tech创投生态"
+msgstr "世界人工智能大会／Future Tech创投生态"
+
+#: ../../entities/waic-future-tech.rst:6
+msgid "Research platform | Citywide / global | Research checked 2026-11-04"
+msgstr "Forschungsplattform | Stadtweit / global | Recherche geprüft am 2026-11-04"
+
+#: ../../entities/waic-future-tech.rst:8
+msgid ""
+"AI and industry focus: Software AI, Hardware AI, Robotics, AI for Science."
+msgstr "KI- und Branchenfokus: Software-KI, Hardware-KI, Robotik, KI in der Wissenschaft (AI for Science)."
+
+#: ../../entities/waic-future-tech.rst:10
+msgid ""
+"The 2026 World Artificial Intelligence Conference included a Future Tech "
+"venture network connecting selected startups and investors. The July 2026 "
+"event has ended; this is a networking and future-event route, not a "
+"permanent incubator or an open funding call. Ask the organizer about the "
+"next startup selection, exhibition fees and investor sessions."
+msgstr "Die World Artificial Intelligence Conference 2026 verband über Future Tech ausgewählte Startups und Investoren. Die Veranstaltung vom Juli 2026 ist beendet. Dies ist ein Kontaktweg für Vernetzung und künftige Veranstaltungen, kein dauerhafter Inkubator und keine offene Förderausschreibung. Nächste Projektauswahl, Ausstellungsgebühren und Investorentermine beim Veranstalter erfragen."
+
+#: ../../entities/waic-future-tech.rst:12
+msgid ""
+"`Evidence S078 "
+"<https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260710/6cd94d78f71a42e3a747541b9021fe2b.html>`_. "
+"WAIC 2026 Future Tech venture ecosystem."
+msgstr "`Nachweis S078 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260710/6cd94d78f71a42e3a747541b9021fe2b.html>`_. WAIC 2026 Future Tech venture ecosystem."
+
+#: ../../entities/waic-future-tech.rst:14
+msgid ""
+"`Evidence S079 <https://www.worldaic.com.cn/>`_. WAIC official organizer "
+"and contact route."
+msgstr "`Nachweis S079 <https://www.worldaic.com.cn/>`_. WAIC official organizer and contact route."
+
+#: ../../entities/waic-future-tech.rst:16
+msgid "Status and support"
+msgstr "Status und Förderumfang"
+
+#: ../../entities/waic-future-tech.rst:19
+msgid "Historical / confirm continuation"
+msgstr "Historisch / Fortführung überprüfen"
+
+#: ../../entities/waic-future-tech.rst:21
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Für diesen Eintrag ist kein standardisierter Barzuschuss, Gebührenerlass oder Beteiligungssatz dokumentiert. Bitte fordern Sie die aktuellen schriftlichen Konditionen an."
+
+#: ../../entities/waic-future-tech.rst:23
+msgid "Contact and location"
+msgstr "Kontakt und Standort"
+
+#: ../../entities/waic-future-tech.rst:26
+msgid "`Official website / intake route <https://www.worldaic.com.cn/>`_"
+msgstr "`Offizielle Website / Bewerbungszugang <https://www.worldaic.com.cn/>`_"
+
+#: ../../entities/waic-future-tech.rst:28
+msgid "`Email: info@worldaic.com.cn <mailto:info@worldaic.com.cn>`_"
+msgstr "`E-Mail: info@worldaic.com.cn <mailto:info@worldaic.com.cn>`_"
+
+#: ../../entities/waic-future-tech.rst:30
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "Die Kartenposition basiert auf einem Orientierungspunkt des Bezirks oder Campus; sie stellt keine verifizierte Büroadresse dar."
+
+#: ../../entities/waic-future-tech.rst:32
+msgid "Application workflow"
+msgstr "Bewerbungsablauf"
+
+#: ../../entities/waic-future-tech.rst:35
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Redaktionelle Antrags-Checkliste. Das tatsächliche Verfahren richtet sich nach der aktuellen behördlichen Bekanntmachung bzw. Vereinbarung."
+
+#: ../../entities/waic-future-tech.rst:37
+msgid "Choose the correct competition track, region and applicant category."
+msgstr "Passenden Wettbewerbszweig, Region und Teilnehmerkategorie auswählen."
+
+#: ../../entities/waic-future-tech.rst:39
+msgid ""
+"Read the rules and submit the required project, team and IP evidence."
+msgstr "Teilnahmebedingungen prüfen und Unterlagen zu Projekt, Team und geistigem Eigentum einreichen."
+
+#: ../../entities/waic-future-tech.rst:41
+msgid ""
+"Complete selection or pitching; confirm prize and service conditions in "
+"writing."
+msgstr "Vorauswahl oder Pitch durchlaufen; Preisgelder und Servicebedingungen schriftlich bestätigen lassen."
+
+#: ../../entities/waic-future-tech.rst:43
+msgid ""
+"Treat investor introductions and district funding as separate follow-up "
+"decisions."
+msgstr "Investorenkontakte und bezirkliche Folgeförderungen als eigenständige Anschlussprozesse behandeln."
+
+#: ../../entities/waic-future-tech.rst:45
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`Bezirksroute Stadtweit / global </funding>`"

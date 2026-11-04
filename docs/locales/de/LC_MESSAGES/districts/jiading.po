@@ -156,7 +156,7 @@ msgid ""
 "RMB 800 million; individual investment not established. Status: Fund "
 "announced; deal intake to confirm. Timing: Manager-led sourcing; current "
 "deal intake to confirm."
-msgstr ":doc:`Zukunftsindustriefonds Jiading </funding/jiading-future-fund>` (嘉定未来产业基金 · Eigenkapitalinvestition · Verhandlungsbasierte Beteiligung) — Staatlich gestützter Investitionsfonds; Beteiligungsbeträge und Konditionen werden im Einzelfall durch den Investitionsausschuss festgelegt. Status: Fonds angekündigt; Dealflow-Aufnahme zu bestätigen. Zeitrahmen: Fortlaufende Projektprüfung durch das Fondsmanagement."
+msgstr ":doc:`Zukunftsindustriefonds Jiading </funding/jiading-future-fund>` (嘉定未来产业基金 · Eigenkapitalinvestition · Verhandlungsbasierte Beteiligung) — Angekündigtes Fondsvolumen: 800 Mio. RMB; kein einheitlicher Investitionsbetrag pro Unternehmen belegt. Status: Fonds angekündigt; Annahme von Investitionsanfragen bestätigen. Zeitrahmen: Fortlaufende Projektprüfung durch das Fondsmanagement."
 
 #: ../../districts/jiading.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"

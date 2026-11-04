@@ -147,7 +147,7 @@ msgstr ":doc:`上海师范大学天华学院 </entities/university-tianhua>` （
 
 #: ../../districts/jiading.rst:42
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/jiading.rst:45
 msgid ""
@@ -160,7 +160,7 @@ msgstr ":doc:`嘉定未来产业基金 </funding/jiading-future-fund>` （嘉定
 
 #: ../../districts/jiading.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ""
 #~ ":doc:`InnoSpring / SITRI incubation ecosystem </entities/innospring>`"

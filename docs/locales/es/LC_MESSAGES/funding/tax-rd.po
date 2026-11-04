@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -30,10 +30,10 @@ msgstr "Guía fiscal publicada; revisar aplicabilidad"
 
 #: ../../funding/tax-rd.rst:8
 msgid ""
-"`Evidence S099 "
+"`Evidence S106 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
 "上海市“2366”产业税收优惠政策指引."
-msgstr "`Evidencia S099 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+msgstr "`Evidencia S106 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
 
 #: ../../funding/tax-rd.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "I+D elegible contabilizada como gasto: deducción adicional del 100 %; I
 
 #: ../../funding/tax-rd.rst:15
 msgid "No equity"
-msgstr "Sin cesión de capital (No equity)"
+msgstr "Sin cesión de participaciones"
 
 #: ../../funding/tax-rd.rst:17
 msgid "Eligibility and timing"
@@ -62,7 +62,7 @@ msgstr "Costes empresariales de I+D elegibles que cuenten con la contabilidad se
 
 #: ../../funding/tax-rd.rst:22
 msgid "Annual tax filing and applicable rules"
-msgstr "Declaración anual del impuesto sobre sociedades y normativa aplicable"
+msgstr "Declaración fiscal anual y normativa aplicable"
 
 #: ../../funding/tax-rd.rst:24
 msgid "Contact and application"

@@ -43,7 +43,7 @@ msgstr "Importe y mecanismo"
 msgid ""
 "Fund target RMB 2bn; first tranche RMB 500m; individual cheque not "
 "established"
-msgstr "Tamaño objetivo del fondo de 2.000 millones de RMB; primer tramo de 500 millones de RMB; ticket individual no preestablecido"
+msgstr "Tamaño objetivo del fondo de 2.000 millones de RMB; primer tramo de 500 millones de RMB; importe por empresa no preestablecido"
 
 #: ../../funding/pudong-equity.rst:15
 msgid "Negotiated equity"
@@ -62,7 +62,7 @@ msgstr "Proyectos de IA en etapa semilla que encajen en el mandato de inversión
 
 #: ../../funding/pudong-equity.rst:22
 msgid "Manager-led sourcing and due diligence"
-msgstr "Selección de oportunidades y due diligence lideradas por la gestora"
+msgstr "Selección de proyectos y due diligence lideradas por la gestora"
 
 #: ../../funding/pudong-equity.rst:24
 msgid "Contact and application"

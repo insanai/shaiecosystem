@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -38,10 +38,10 @@ msgstr "ロボット産業施策はスマートロボットを手がける適格
 
 #: ../../entities/government-fengxian.rst:10
 msgid ""
-"`Evidence S095 "
+"`Evidence S102 "
 "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
 "奉贤区促进智能机器人产业创新发展若干政策措施."
-msgstr "`出典 S095 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
+msgstr "`出典 S102 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
 
 #: ../../entities/government-fengxian.rst:12
 msgid "Status and support"

@@ -1,7 +1,7 @@
 Research and technical platforms
 ================================
 
-8 profiles with evidence, contact routes and an application checklist. Published existence is distinguished from current intake.
+10 profiles with evidence, contact routes and an application checklist. Published existence is distinguished from current intake.
 
 .. only:: html
 
@@ -16,6 +16,8 @@ Research and technical platforms
    * :doc:`Shanghai Technology Innovation Center <entities/shtic>` (上海市科技创业中心 · Research platform · Xuhui · Focus: Software AI, Hardware AI, Industry) — The municipal science-and-technology entrepreneurship service institution coordinating Shanghai's high-quality incubator cultivation system, innovation vouchers, technology SME filings and the Startup in Shanghai portal. [Status: Published entity; intake to confirm]
    * :doc:`Shanghai Tsinghua International Innovation Center <entities/tsinghua-shanghai>` (上海清华国际创新中心 · Research platform · Putuo · Focus: Software AI, Hardware AI, Chips) — A strategic research and technology-transfer platform in Putuo's "One Axis, One Park, One Center" layout, connecting university engineering laboratories with Yangtze River Delta industrial applications. [Status: Published entity; intake to confirm]
    * :doc:`Chongming Enterprise Technology Center & Eco-Innovation Route <entities/chongming-tech-center>` (崇明区企业技术中心与生态科创平台 · Research platform · Chongming · Focus: Climate, Agriculture, Industry) — Coordinated by the Chongming Economic Commission (14th batch call issued in May 2026) alongside district science authorities to support enterprise R&D centers in ecological tech, green manufacturing and smart agriculture. [Status: Published entity; intake to confirm]
+   * :doc:`National-Local Humanoid Robot Innovation Center / pilot platform <entities/humanoid-pilot>` (国家地方共建人形机器人创新中心／中试服务平台 · Research platform · Pudong · Focus: Hardware AI, Robotics, Sensors) — The center links robot data collection, training and physical validation with a pilot-production platform operated with Shanghai Electric. The July 2026 announcement describes industry-facing trial production, testing and scenario validation. Ask for compatibility, queue, sample ownership, safety responsibilities and a written service quotation. [Status: Published entity; intake to confirm]
+   * :doc:`WAIC / Future Tech venture network <entities/waic-future-tech>` (世界人工智能大会／Future Tech创投生态 · Research platform · Citywide / global · Focus: Software AI, Hardware AI, Robotics, AI for Science) — The 2026 World Artificial Intelligence Conference included a Future Tech venture network connecting selected startups and investors. The July 2026 event has ended; this is a networking and future-event route, not a permanent incubator or an open funding call. Ask the organizer about the next startup selection, exhibition fees and investor sessions. Email: info@worldaic.com.cn. [Status: Historical / confirm continuation]
 
 .. toctree::
    :maxdepth: 1
@@ -28,3 +30,5 @@ Research and technical platforms
    entities/shtic
    entities/tsinghua-shanghai
    entities/chongming-tech-center
+   entities/humanoid-pilot
+   entities/waic-future-tech

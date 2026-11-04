@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -29,8 +29,8 @@ msgid "Published directory; lender review"
 msgstr "공시된 목록; 대출 기관 심사 필요"
 
 #: ../../funding/yangpu-credit-directory.rst:8
-msgid "`Evidence S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
-msgstr "`근거 S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+msgid "`Evidence S129 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+msgstr "`근거 S129 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
 
 #: ../../funding/yangpu-credit-directory.rst:10
 msgid "Amount and mechanism"
@@ -39,11 +39,11 @@ msgstr "지원 규모 및 지원 방식"
 #: ../../funding/yangpu-credit-directory.rst:13
 msgid ""
 "Product-specific technology credit and IP finance; no universal ceiling"
-msgstr "기업 신용 평가 기반의 간편 저금리 대출, 정책형 금융 보증 및 이차보전 지원"
+msgstr "상품별 기술 금융 및 지식재산권 금융; 공통 한도 없음"
 
 #: ../../funding/yangpu-credit-directory.rst:15
 msgid "No equity; repayable"
-msgstr "지분 취득 없음; 상환 의무 있음"
+msgstr "지분 제공 의무 없음; 상환 필요"
 
 #: ../../funding/yangpu-credit-directory.rst:17
 msgid "Eligibility and timing"
@@ -54,7 +54,7 @@ msgid ""
 "Use the district platform to identify an actual lender and product. "
 "Technology performance-guarantee lending, IP-backed products and "
 "guarantees have different duties and underwriting conditions."
-msgstr "양푸구에 사업장을 두고 안정적인 사업 및 혁신을 추진하는 과기형 스타트업 및 소기업."
+msgstr "구 플랫폼에서 실제 대출 기관과 상품을 확인해야 합니다. 기술 이행 보증 대출, 지식재산권 담보 상품 및 보증 상품은 의무와 여신 심사 조건이 서로 다릅니다."
 
 #: ../../funding/yangpu-credit-directory.rst:22
 msgid "Product-specific; confirm current lender terms"

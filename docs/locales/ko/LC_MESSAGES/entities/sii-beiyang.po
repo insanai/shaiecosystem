@@ -1,0 +1,120 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/sii-beiyang.rst:1
+msgid "Shanghai Innovation Institute / Beiyang AI founder network"
+msgstr "상하이 창즈학원 / 베이양 AI 창업 네트워크"
+
+#: ../../entities/sii-beiyang.rst:4
+msgid "上海创智学院／北杨人工智能创业网络"
+msgstr "上海创智学院／北杨人工智能创业网络"
+
+#: ../../entities/sii-beiyang.rst:6
+msgid "Incubator | Xuhui | Research checked 2026-11-04"
+msgstr "인큐베이터 | 쉬후이구 | 연구 확인일 2026-11-04"
+
+#: ../../entities/sii-beiyang.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, AI for Science."
+msgstr "AI 및 산업 분야: 소프트웨어 AI, 하드웨어 AI, 과학을 위한 AI (AI for Science)."
+
+#: ../../entities/sii-beiyang.rst:10
+msgid ""
+"SII and Caohejing jointly operate the Chuangzhi Future Center for "
+"research-led AI founders; Beiyang AI Accelerator supports later market "
+"and supply-chain connections. Institute-affiliated incubation is not an "
+"unrestricted public admission offer. Ask the operator about affiliation, "
+"IP, company formation and current external-team access."
+msgstr "상하이 창즈학원(SII)과 차오허징이 공동 운영하는 창즈미래센터는 연구 기반 AI 창업자를 지원하며, 베이양 AI 액셀러레이터가 후속 시장·공급망 연계를 담당합니다. 학원 연계 인큐베이션이 누구나 신청할 수 있는 프로그램을 뜻하지는 않습니다. 소속 요건, 지식재산권, 법인 설립 및 외부 팀의 현재 참여 조건을 확인해야 합니다."
+
+#: ../../entities/sii-beiyang.rst:12
+msgid ""
+"`Evidence S074 "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260917/4547dd382eb245988cc12f945923bc0b.html>`_. "
+"Beiyang AI Town and the SII research-founder incubation network, "
+"September 2026."
+msgstr "`근거 S074 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260917/4547dd382eb245988cc12f945923bc0b.html>`_. Beiyang AI Town and the SII research-founder incubation network, September 2026."
+
+#: ../../entities/sii-beiyang.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/sii-beiyang.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/sii-beiyang.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/sii-beiyang.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/sii-beiyang.rst:24
+msgid "`Official website / intake route <https://www.sii.edu.cn/>`_"
+msgstr "`공식 웹사이트 / 접수 창구 <https://www.sii.edu.cn/>`_"
+
+#: ../../entities/sii-beiyang.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/sii-beiyang.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/sii-beiyang.rst:30
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/sii-beiyang.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/sii-beiyang.rst:35
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "연관 연구진을 발굴하고 해결하고자 하는 과학적 또는 산업적 과제를 명확히 제시한다."
+
+#: ../../entities/sii-beiyang.rst:37
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "필요 데이터, 연구 장비, 기대 성과, 소요 예산, 추진 일정을 담은 간결한 연구 제안서를 송부한다."
+
+#: ../../entities/sii-beiyang.rst:39
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "산학협력 추진 방식, 논문 발표 범위, 지식재산권(IP) 귀속 및 기관 차원의 공식 승인 조건을 합의한다."
+
+#: ../../entities/sii-beiyang.rst:41
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "연구에 착수하기 전 서면 입주 허가서 또는 공식 프로젝트 승인 문서를 확보한다."
+
+#: ../../entities/sii-beiyang.rst:43
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`쉬후이구 경로 안내 </districts/xuhui>`"

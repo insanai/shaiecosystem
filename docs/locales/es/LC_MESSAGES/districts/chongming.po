@@ -133,7 +133,7 @@ msgid ""
 "project. Status: Policy in force; call not confirmed open. Timing: "
 "Policy: 1 August to 31 December 2026, with qualifying cases since 1 "
 "January; confirm intake."
-msgstr ":doc:`Subvención al desarrollo de empresas en etapa temprana de Chongming, 2026 </funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Hasta 100.000 RMB para proyectos en etapa temprana elegibles evaluados como excelentes. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Vigencia de la política: del 1 de agosto al 31 de diciembre de 2026, aplicable a casos elegibles desde el 1 de enero; confirmar admisión."
+msgstr ":doc:`Subvención al desarrollo de empresas en etapa temprana de Chongming, 2026 </funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Subvención a fondo perdido · Sin cesión de participaciones) — Hasta 100.000 RMB para proyectos en etapa temprana elegibles evaluados como excelentes. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Vigencia de la política: del 1 de agosto al 31 de diciembre de 2026, aplicable a casos elegibles desde el 1 de enero; confirmar admisión."
 
 #: ../../districts/chongming.rst:44
 msgid ""

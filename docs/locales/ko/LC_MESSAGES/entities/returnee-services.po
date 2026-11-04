@@ -1,0 +1,124 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../entities/returnee-services.rst:1
+msgid "Shanghai overseas-returnee entrepreneurship service windows"
+msgstr "상하이 해외 유학 귀국자 창업 서비스 창구"
+
+#: ../../entities/returnee-services.rst:4
+msgid "上海留学人员创业服务窗口"
+msgstr "上海留学人员创业服务窗口"
+
+#: ../../entities/returnee-services.rst:6
+msgid "Government | Citywide / global | Research checked 2026-11-04"
+msgstr "정부 기관 | 상하이 전역 / 글로벌 | 연구 확인일 2026-11-04"
+
+#: ../../entities/returnee-services.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI."
+msgstr "AI 및 산업 분야: 소프트웨어 AI, 하드웨어 AI."
+
+#: ../../entities/returnee-services.rst:10
+msgid ""
+"The 2026 municipal rules identify the talent authority and district "
+"service windows for eligible overseas returnees, including qualifying "
+"people who acquired foreign citizenship. Recognition and startup-park "
+"services can lead to separate support applications. Returnee status is "
+"not a category covering every foreign founder and is not an automatic "
+"grant or residence permit."
+msgstr "2026년 시 규정은 적격 해외 유학 귀국자를 위한 인재 담당 부서와 구별 서비스 창구를 명시하며, 요건을 충족하면 외국 국적 취득자도 포함합니다. 자격 인정 및 창업단지 서비스를 통해 별도 지원을 신청할 수 있습니다. 모든 외국인 창업자가 귀국 인재에 해당하는 것은 아니며, 보조금이나 체류 허가도 자동으로 주어지지 않습니다."
+
+#: ../../entities/returnee-services.rst:12
+msgid ""
+"`Evidence S080 "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. "
+"上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+msgstr "`근거 S080 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+
+#: ../../entities/returnee-services.rst:14
+msgid "Status and support"
+msgstr "현황 및 지원 내역"
+
+#: ../../entities/returnee-services.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "공시된 기관; 신규 모집 여부 확인 필요"
+
+#: ../../entities/returnee-services.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "본 항목에 대해 공인된 정액 현금 보조금, 수수료 감면 또는 지분율 조건이 확인되지 않았습니다. 현재 유효한 공식 서면 제안서를 요청하십시오."
+
+#: ../../entities/returnee-services.rst:21
+msgid "Contact and location"
+msgstr "연락처 및 위치"
+
+#: ../../entities/returnee-services.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_"
+msgstr "`공식 근거 및 주관 부처 창구 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_"
+
+#: ../../entities/returnee-services.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "본 항목에서는 직통 전화번호나 이메일이 별도로 확인되지 않았습니다. 공식 경로를 통해 담당 부서를 문의하십시오. 임의로 연락처를 작성하지 않았습니다."
+
+#: ../../entities/returnee-services.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "지도상 좌표는 구 또는 캠퍼스의 대표 앵커를 사용하며, 검증된 실제 사무실 위치가 아닙니다."
+
+#: ../../entities/returnee-services.rst:30
+msgid "Application workflow"
+msgstr "신청 워크플로"
+
+#: ../../entities/returnee-services.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../entities/returnee-services.rst:35
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../entities/returnee-services.rst:37
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../entities/returnee-services.rst:39
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../entities/returnee-services.rst:41
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../entities/returnee-services.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`상하이 전역 / 글로벌 경로 안내 </funding>`"

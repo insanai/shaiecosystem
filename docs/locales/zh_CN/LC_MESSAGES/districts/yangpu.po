@@ -201,7 +201,7 @@ msgstr ":doc:`上海体育大学 </entities/university-sport>` （上海体育�
 
 #: ../../districts/yangpu.rst:48
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/yangpu.rst:51
 msgid ""
@@ -224,7 +224,7 @@ msgstr ":doc:`杨浦梦想起航天使引投基金 </funding/yangpu-angel-fund>`
 
 #: ../../districts/yangpu.rst:54
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ":doc:`InnoSpace </entities/innospace>`"
 #~ msgstr ":doc:`创智空间InnoSpace </entities/innospace>`"

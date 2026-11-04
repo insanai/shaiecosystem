@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -22,9 +22,9 @@ msgstr "सरकारी प्रवेश बिंदु"
 
 #: ../../government.rst:4
 msgid ""
-"16 profiles with evidence, contact routes and an application checklist. "
+"17 profiles with evidence, contact routes and an application checklist. "
 "Published existence is distinguished from current intake."
-msgstr "साक्ष्य, संपर्क मार्ग और आवेदन चेकलिस्ट के साथ 16 प्रोफ़ाइल। प्रकाशित अस्तित्व और वर्तमान प्रवेश को अलग-अलग दर्शाया गया है।"
+msgstr "साक्ष्य, संपर्क मार्ग और आवेदन चेकलिस्ट के साथ 17 प्रोफ़ाइल। प्रकाशित अस्तित्व और वर्तमान प्रवेश को अलग-अलग दर्शाया गया है।"
 
 #: ../../government.rst:8
 msgid "Complete directory summary"
@@ -32,24 +32,37 @@ msgstr "संपूर्ण निर्देशिका सारांश"
 
 #: ../../government.rst:11
 msgid ""
+":doc:`Shanghai overseas-returnee entrepreneurship service windows "
+"<entities/returnee-services>` (上海留学人员创业服务窗口 · Government · Citywide / "
+"global · Focus: Software AI, Hardware AI) — The 2026 municipal rules "
+"identify the talent authority and district service windows for eligible "
+"overseas returnees, including qualifying people who acquired foreign "
+"citizenship. Recognition and startup-park services can lead to separate "
+"support applications. Returnee status is not a category covering every "
+"foreign founder and is not an automatic grant or residence permit. "
+"[Status: Published entity; intake to confirm]"
+msgstr ":doc:`विदेश से लौटे उद्यमियों के लिए शंघाई सेवा केंद्र <entities/returnee-services>` (上海留学人员创业服务窗口 · सरकारी विभाग · शहर-व्यापी / वैश्विक · सॉफ्टवेयर AI, हार्डवेयर AI) — 2026 के नगरपालिका नियम पात्र विदेश-शिक्षित लौटने वालों के लिए प्रतिभा विभाग और ज़िला सेवा केंद्र तय करते हैं; शर्तें पूरी करने वाले विदेशी नागरिकता प्राप्त लोग भी शामिल हो सकते हैं। पात्रता मान्यता और स्टार्टअप पार्क सेवाओं के बाद अलग सहायता आवेदन किए जा सकते हैं। यह श्रेणी हर विदेशी संस्थापक पर लागू नहीं होती और अनुदान या निवास परमिट स्वतः नहीं मिलता। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
+
+#: ../../government.rst:12
+msgid ""
 ":doc:`Pudong Science, Technology and Economy Commission "
 "<entities/government-pudong>` (浦东新区科技和经济委员会 · Government · Pudong) — 2026 "
 "AI application call closed on 31 August 2026. The published route covers "
 "qualifying 2025 model and agent expenditure; duplicate public funding is "
 "excluded. Tel: +86 21 68811090. [Status: Published entity; intake to "
 "confirm]"
-msgstr ":doc:`पुडोंग विज्ञान, प्रौद्योगिकी और अर्थव्यवस्था आयोग <entities/government-pudong>` (浦东新区科技和经济委员会 · सरकारी विभाग · पुडोंग (Pudong)) — 2026 AI अनुप्रयोग कॉल 31 अगस्त 2026 को बंद हो गई। प्रकाशित मार्ग अर्हकारी 2025 मॉडल और एजेंट व्यय को कवर करता है; दोहरी सार्वजनिक फंडिंग को बाहर रखा गया है। Tel: +86 21 68811090. [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`पुडोंग विज्ञान, प्रौद्योगिकी और अर्थव्यवस्था आयोग <entities/government-pudong>` (浦东新区科技和经济委员会 · सरकारी विभाग · पुडोंग (Pudong)) — 2026 AI अनुप्रयोग कॉल 31 अगस्त 2026 को बंद हो गई। प्रकाशित मार्ग अर्हकारी 2025 मॉडल और एजेंट व्यय को कवर करता है; दोहरी सार्वजनिक फंडिंग को बाहर रखा गया है। Tel: +86 21 68811090. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:12
+#: ../../government.rst:13
 msgid ""
 ":doc:`Xuhui industry development authority <entities/government-xuhui>` "
 "(徐汇区产业主管部门 · Government · Xuhui) — The embodied AI policy identifies "
 "robot models, algorithms, data and operating systems. Its evaluated "
 "support ceilings are not automatic startup awards. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`शुहुई उद्योग विकास प्राधिकरण <entities/government-xuhui>` (徐汇区产业主管部门 · सरकारी विभाग · शुहुई (Xuhui)) — एम्बॉडीड AI नीति रोबोट मॉडल, एल्गोरिदम, डेटा और ऑपरेटिंग सिस्टम की पहचान करती है। इसकी मूल्यांकित सहायता सीमाएं स्वचालित स्टार्टअप पुरस्कार नहीं हैं। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शुहुई उद्योग विकास प्राधिकरण <entities/government-xuhui>` (徐汇区产业主管部门 · सरकारी विभाग · शुहुई (Xuhui)) — एम्बॉडीड AI नीति रोबोट मॉडल, एल्गोरिदम, डेटा और ऑपरेटिंग सिस्टम की पहचान करती है। इसकी मूल्यांकित सहायता सीमाएं स्वचालित स्टार्टअप पुरस्कार नहीं हैं। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:13
+#: ../../government.rst:14
 msgid ""
 ":doc:`Yangpu science and technology authority "
 "<entities/government-yangpu>` (杨浦区科技主管部门 · Government · Yangpu) — "
@@ -57,9 +70,9 @@ msgid ""
 "separate May 2026 OPC policy supports communities around Fuxing Island; "
 "an action plan does not itself constitute a cash award. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`यांगपू विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-yangpu>` (杨浦区科技主管部门 · सरकारी विभाग · यांगपू (Yangpu)) — मस्तिष्क-प्रेरित AI नीति चांगयांग कैंपस और बे वैली का नाम लेती है। मई 2026 की एक अलग OPC नीति फुशिंग द्वीप के आसपास के समुदायों का समर्थन करती है; कोई कार्य योजना अपने आप में नकद पुरस्कार नहीं होती है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`यांगपू विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-yangpu>` (杨浦区科技主管部门 · सरकारी विभाग · यांगपू (Yangpu)) — मस्तिष्क-प्रेरित AI नीति चांगयांग कैंपस और बे वैली का नाम लेती है। मई 2026 की एक अलग OPC नीति फुशिंग द्वीप के आसपास के समुदायों का समर्थन करती है; कोई कार्य योजना अपने आप में नकद पुरस्कार नहीं होती है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:14
+#: ../../government.rst:15
 msgid ""
 ":doc:`Minhang science and technology authority "
 "<entities/government-minhang>` (闵行区科技主管部门 · Government · Minhang) — The "
@@ -67,9 +80,9 @@ msgid ""
 "2030. New conversion enterprises may qualify for up to RMB 500,000 "
 "annually, capped at RMB 1.5 million over three years and 50% of eligible "
 "investment. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`मिनहांग विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-minhang>` (闵行区科技主管部门 · सरकारी विभाग · मिनहांग (Minhang)) — एंटरप्राइज नवाचार नीति 1 सितंबर 2025 से 31 अगस्त 2030 तक चलती है। नए रूपांतरण उद्यम सालाना RMB 500,000 तक के लिए पात्र हो सकते हैं, जो तीन वर्षों में RMB 1.5 मिलियन और पात्र निवेश के 50% तक सीमित है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`मिनहांग विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-minhang>` (闵行区科技主管部门 · सरकारी विभाग · मिनहांग (Minhang)) — एंटरप्राइज नवाचार नीति 1 सितंबर 2025 से 31 अगस्त 2030 तक चलती है। नए रूपांतरण उद्यम सालाना RMB 500,000 तक के लिए पात्र हो सकते हैं, जो तीन वर्षों में RMB 1.5 मिलियन और पात्र निवेश के 50% तक सीमित है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:15
+#: ../../government.rst:16
 msgid ""
 ":doc:`Jiading science and technology authority "
 "<entities/government-jiading>` (嘉定区科技主管部门 · Government · Jiading) — The "
@@ -77,9 +90,9 @@ msgid ""
 "InnoSpring in connecting research, pilot production and incubation. The "
 "2026 district service program provides policy interpretation and project "
 "coordination. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`जियाडिंग विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-jiading>` (嘉定区科技主管部门 · सरकारी विभाग · जियाडिंग (Jiading)) — नगर विज्ञान आयोग अनुसंधान, पायलट उत्पादन और इनक्यूबेशन को जोड़ने में SITRI और इनोस्प्रिंग की संयुक्त भूमिका का दस्तावेजीकरण करता है। 2026 जिला सेवा कार्यक्रम नीति व्याख्या और परियोजना समन्वय प्रदान करता है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`जियाडिंग विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-jiading>` (嘉定区科技主管部门 · सरकारी विभाग · जियाडिंग (Jiading)) — नगर विज्ञान आयोग अनुसंधान, पायलट उत्पादन और इनक्यूबेशन को जोड़ने में SITRI और इनोस्प्रिंग की संयुक्त भूमिका का दस्तावेजीकरण करता है। 2026 जिला सेवा कार्यक्रम नीति व्याख्या और परियोजना समन्वय प्रदान करता है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:16
+#: ../../government.rst:17
 msgid ""
 ":doc:`Baoshan industry and science authorities "
 "<entities/government-baoshan>` (宝山区产业与科技主管部门 · Government · Baoshan) — "
@@ -87,9 +100,9 @@ msgid ""
 "Separate industrial-park admission and district support reviews are "
 "needed; a factory demonstration is not a startup funding call. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`बाओशान उद्योग और विज्ञान प्राधिकरण <entities/government-baoshan>` (宝山区产业与科技主管部门 · सरकारी विभाग · बाओशान (Baoshan)) — जिला एक रोबोटिक्स और उन्नत उपकरण क्लस्टर विकसित कर रहा है। अलग से औद्योगिक-पार्क प्रवेश और जिला सहायता समीक्षाओं की आवश्यकता है; फैक्ट्री प्रदर्शन कोई स्टार्टअप फंडिंग कॉल नहीं है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`बाओशान उद्योग और विज्ञान प्राधिकरण <entities/government-baoshan>` (宝山区产业与科技主管部门 · सरकारी विभाग · बाओशान (Baoshan)) — जिला एक रोबोटिक्स और उन्नत उपकरण क्लस्टर विकसित कर रहा है। अलग से औद्योगिक-पार्क प्रवेश और जिला सहायता समीक्षाओं की आवश्यकता है; फैक्ट्री प्रदर्शन कोई स्टार्टअप फंडिंग कॉल नहीं है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:17
+#: ../../government.rst:18
 msgid ""
 ":doc:`Putuo science and technology authority <entities/government-putuo>` "
 "(普陀区科技主管部门 · Government · Putuo) — Wuning Science Park connects "
@@ -97,9 +110,9 @@ msgid ""
 "incubator register also lists the China-Israel Innovation Hub; tenancy "
 "and investment require separate terms. [Status: Published entity; intake "
 "to confirm]"
-msgstr ":doc:`पुतुओ विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-putuo>` (普陀区科技主管部门 · सरकारी विभाग · पुतुओ (Putuo)) — वुनिंग साइंस पार्क औद्योगिक अनुसंधान, परीक्षण और प्रौद्योगिकी हस्तांतरण को जोड़ता है। जिला इनक्यूबेटर रजिस्टर में चाइना-इज़राइल इनोवेशन हब भी सूचीबद्ध है; किरायेदारी और निवेश के लिए अलग-अलग शर्तों की आवश्यकता होती है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`पुतुओ विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-putuo>` (普陀区科技主管部门 · सरकारी विभाग · पुतुओ (Putuo)) — वुनिंग साइंस पार्क औद्योगिक अनुसंधान, परीक्षण और प्रौद्योगिकी हस्तांतरण को जोड़ता है। जिला इनक्यूबेटर रजिस्टर में चाइना-इज़राइल इनोवेशन हब भी सूचीबद्ध है; किरायेदारी और निवेश के लिए अलग-अलग शर्तों की आवश्यकता होती है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:18
+#: ../../government.rst:19
 msgid ""
 ":doc:`Changning science and technology authority "
 "<entities/government-changning>` (长宁区科技主管部门 · Government · Changning) — "
@@ -107,18 +120,18 @@ msgid ""
 "Hongqiao Zhiyu, East Hongqiao International Youth Innovation Center and "
 "MAKE021 as parts of its incubation landscape. Confirm the correct "
 "operator before submitting. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`चांगनिंग विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-changning>` (长宁区科技主管部门 · सरकारी विभाग · चांगनिंग (Changning)) — अगस्त 2026 के जिला विवरण में डिजिटल सिलिकॉन एली, होंगकियाओ झियू, ईस्ट होंगकियाओ इंटरनेशनल यूथ इनोवेशन सेंटर और MAKE021 को इसके इनक्यूबेशन परिदृश्य के हिस्सों के रूप में पहचाना गया है। जमा करने से पहले सही संचालक की पुष्टि करें। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`चांगनिंग विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-changning>` (长宁区科技主管部门 · सरकारी विभाग · चांगनिंग (Changning)) — अगस्त 2026 के जिला विवरण में डिजिटल सिलिकॉन एली, होंगकियाओ झियू, ईस्ट होंगकियाओ इंटरनेशनल यूथ इनोवेशन सेंटर और MAKE021 को इसके इनक्यूबेशन परिदृश्य के हिस्सों के रूप में पहचाना गया है। जमा करने से पहले सही संचालक की पुष्टि करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:19
+#: ../../government.rst:20
 msgid ""
 ":doc:`Jing'an science and economy authority <entities/government-jingan>` "
 "(静安区科技和经济委员会 · Government · Jing'an) — The 2026-2028 AI application "
 "demonstration plan focuses on industry integration and talent. Its stated "
 "objectives must be distinguished from implementing rules and currently "
 "accepting applications. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`जिंगआन विज्ञान और अर्थव्यवस्था प्राधिकरण <entities/government-jingan>` (静安区科技和经济委员会 · सरकारी विभाग · जिंगआन (Jing'an)) — 2026-2028 AI अनुप्रयोग प्रदर्शन योजना उद्योग एकीकरण और प्रतिभा पर केंद्रित है। इसके घोषित उद्देश्यों को कार्यान्वयन नियमों और वर्तमान में आवेदन स्वीकार करने वाली योजनाओं से अलग समझा जाना चाहिए। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`जिंगआन विज्ञान और अर्थव्यवस्था प्राधिकरण <entities/government-jingan>` (静安区科技和经济委员会 · सरकारी विभाग · जिंगआन (Jing'an)) — 2026-2028 AI अनुप्रयोग प्रदर्शन योजना उद्योग एकीकरण और प्रतिभा पर केंद्रित है। इसके घोषित उद्देश्यों को कार्यान्वयन नियमों और वर्तमान में आवेदन स्वीकार करने वाली योजनाओं से अलग समझा जाना चाहिए। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:20
+#: ../../government.rst:21
 msgid ""
 ":doc:`Huangpu science and entrepreneurship services "
 "<entities/government-huangpu>` (黄浦区科技与创业服务部门 · Government · Huangpu) — "
@@ -126,9 +139,9 @@ msgid ""
 "clinical research services. Huangpu ChuangKa is a separate youth "
 "entrepreneurship support route; check eligibility and current workstation "
 "availability. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`हुआंगपू विज्ञान और उद्यमिता सेवाएं <entities/government-huangpu>` (黄浦区科技与创业服务部门 · सरकारी विभाग · हुआंगपू (Huangpu)) — 2025-2026 झांगजियांग हुआंगपू पार्क योजना फिनटेक और क्लिनिकल अनुसंधान सेवाओं पर जोर देती है। हुआंगपू चुआंगका (ChuangKa) एक अलग युवा उद्यमिता सहायता मार्ग है; पात्रता और वर्तमान वर्कस्टेशन उपलब्धता की जाँच करें। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`हुआंगपू विज्ञान और उद्यमिता सेवाएं <entities/government-huangpu>` (黄浦区科技与创业服务部门 · सरकारी विभाग · हुआंगपू (Huangpu)) — 2025-2026 झांगजियांग हुआंगपू पार्क योजना फिनटेक और क्लिनिकल अनुसंधान सेवाओं पर जोर देती है। हुआंगपू चुआंगका (ChuangKa) एक अलग युवा उद्यमिता सहायता मार्ग है; पात्रता और वर्तमान वर्कस्टेशन उपलब्धता की जाँच करें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:21
+#: ../../government.rst:22
 msgid ""
 ":doc:`Hongkou science and economy authority "
 "<entities/government-hongkou>` (虹口区科技和经济委员会 · Government · Hongkou) — The "
@@ -136,9 +149,9 @@ msgid ""
 "investment role to the district state-owned Beikechuang group. Ask for "
 "the operating carrier and current application notice, rather than relying "
 "on older subsidy summaries. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`होंगकोउ विज्ञान और अर्थव्यवस्था प्राधिकरण <entities/government-hongkou>` (虹口区科技和经济委员会 · सरकारी विभाग · होंगकोउ (Hongkou)) — 2025-2026 होंगकोउ पार्क योजना जिला के राज्य-स्वामित्व वाले बेइकेचुआंग (Beikechuang) समूह को समन्वित इनक्यूबेशन और निवेश भूमिका सौंपती है। पुराने सब्सिडी सारांशों पर भरोसा करने के बजाय परिचालन कैरियर और वर्तमान आवेदन सूचना मांगें। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`होंगकोउ विज्ञान और अर्थव्यवस्था प्राधिकरण <entities/government-hongkou>` (虹口区科技和经济委员会 · सरकारी विभाग · होंगकोउ (Hongkou)) — 2025-2026 होंगकोउ पार्क योजना जिला के राज्य-स्वामित्व वाले बेइकेचुआंग (Beikechuang) समूह को समन्वित इनक्यूबेशन और निवेश भूमिका सौंपती है। पुराने सब्सिडी सारांशों पर भरोसा करने के बजाय परिचालन स्टार्टअप सहायता केंद्र और वर्तमान आवेदन सूचना मांगें। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:22
+#: ../../government.rst:23
 msgid ""
 ":doc:`Songjiang G60 innovation services <entities/government-songjiang>` "
 "(松江区G60科创服务部门 · Government · Songjiang) — The G60 Sci-Tech Innovation "
@@ -146,9 +159,9 @@ msgid ""
 "distinguish the nine-city corridor from Shanghai district eligibility: a "
 "partner elsewhere in the corridor does not establish Songjiang "
 "qualification. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`सोंगजियांग G60 नवाचार सेवाएं <entities/government-songjiang>` (松江区G60科创服务部门 · सरकारी विभाग · सोंगजियांग (Songjiang)) — G60 साई-टेक इनोवेशन वैली नवाचार और संसाधन-मिलान पहल प्रकाशित करती है। हम नौ-शहरों के गलियारे को शंघाई जिला पात्रता से अलग करते हैं: गलियारे में कहीं और स्थित भागीदार से सोंगजियांग की योग्यता स्थापित नहीं होती है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`सोंगजियांग G60 नवाचार सेवाएं <entities/government-songjiang>` (松江区G60科创服务部门 · सरकारी विभाग · सोंगजियांग (Songjiang)) — G60 साई-टेक इनोवेशन वैली नवाचार और संसाधन-मिलान पहल प्रकाशित करती है। हम नौ-शहरों के गलियारे को शंघाई जिला पात्रता से अलग करते हैं: गलियारे में कहीं और स्थित भागीदार से सोंगजियांग की योग्यता स्थापित नहीं होती है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:23
+#: ../../government.rst:24
 msgid ""
 ":doc:`Qingpu science and technology authority "
 "<entities/government-qingpu>` (青浦区科学技术委员会 · Government · Qingpu) — Xicen "
@@ -156,9 +169,9 @@ msgid ""
 "district. The official 2025 reply discusses early investment and "
 "technology transfer, but proposed funds are not treated here as open "
 "startup applications. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`चिंगपू विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-qingpu>` (青浦区科学技术委员会 · सरकारी विभाग · चिंगपू (Qingpu)) — शीत्सेन (Xicen) लियानकिउ लेक अनुसंधान केंद्र को एक उभरते नवाचार जिले से जोड़ता है। आधिकारिक 2025 के उत्तर में प्रारंभिक निवेश और प्रौद्योगिकी हस्तांतरण पर चर्चा की गई है, लेकिन प्रस्तावित फंडों को यहां खुले स्टार्टअप आवेदनों के रूप में नहीं माना गया है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`चिंगपू विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-qingpu>` (青浦区科学技术委员会 · सरकारी विभाग · चिंगपू (Qingpu)) — शीत्सेन (Xicen) लियानकिउ लेक अनुसंधान केंद्र को एक उभरते नवाचार जिले से जोड़ता है। आधिकारिक 2025 के उत्तर में प्रारंभिक निवेश और प्रौद्योगिकी हस्तांतरण पर चर्चा की गई है, लेकिन प्रस्तावित फंडों को यहां खुले स्टार्टअप आवेदनों के रूप में नहीं माना गया है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:24
+#: ../../government.rst:25
 msgid ""
 ":doc:`Jinshan science and technology authority "
 "<entities/government-jinshan>` (金山区科技主管部门 · Government · Jinshan) — The "
@@ -166,9 +179,9 @@ msgid ""
 "Base and Bay Area incubation carriers. It connects testing and "
 "industrialization, subject to park admission and the applicable aviation "
 "permissions. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`जिनशान विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-jinshan>` (金山区科技主管部门 · सरकारी विभाग · जिनशान (Jinshan)) — 2025-2026 पार्क योजना में जिनशान न्यू मटेरियल्स इनक्यूबेटर, ईस्ट चाइना UAV बेस और बे एरिया इनक्यूबेशन कैरियर्स के नाम शामिल हैं। यह पार्क प्रवेश और लागू विमानन अनुमतियों के अधीन, परीक्षण और औद्योगीकरण को जोड़ता है। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`जिनशान विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-jinshan>` (金山区科技主管部门 · सरकारी विभाग · जिनशान (Jinshan)) — 2025-2026 पार्क योजना में जिनशान न्यू मटेरियल्स इनक्यूबेटर, ईस्ट चाइना UAV बेस और बे एरिया इनक्यूबेशन स्टार्टअप सहायता केंद्रों के नाम शामिल हैं। यह पार्क प्रवेश और लागू विमानन अनुमतियों के अधीन, परीक्षण और औद्योगीकरण को जोड़ता है। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:25
+#: ../../government.rst:26
 msgid ""
 ":doc:`Fengxian economic commission <entities/government-fengxian>` "
 "(奉贤区经济委员会 · Government · Fengxian) — The robot industry measures cover "
@@ -176,9 +189,9 @@ msgid ""
 "Beauty Valley provides a separate beauty and health industry context. "
 "Match the project to the correct policy owner and application batch. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`फेंगशियान आर्थिक आयोग <entities/government-fengxian>` (奉贤区经济委员会 · सरकारी विभाग · फेंगशियान (Fengxian)) — रोबोट उद्योग उपाय इंटेलिजेंट रोबोट पर काम करने वाली योग्य पंजीकृत कंपनियों को कवर करते हैं। ओरिएंटल ब्यूटी वैली एक अलग सौंदर्य और स्वास्थ्य उद्योग संदर्भ प्रदान करती है। परियोजना को सही नीति स्वामी और आवेदन बैच से मिलाएं। [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`फेंगशियान आर्थिक आयोग <entities/government-fengxian>` (奉贤区经济委员会 · सरकारी विभाग · फेंगशियान (Fengxian)) — रोबोट उद्योग उपाय इंटेलिजेंट रोबोट पर काम करने वाली योग्य पंजीकृत कंपनियों को कवर करते हैं। ओरिएंटल ब्यूटी वैली एक अलग सौंदर्य और स्वास्थ्य उद्योग संदर्भ प्रदान करती है। परियोजना को सही नीति स्वामी और आवेदन बैच से मिलाएं। [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
-#: ../../government.rst:26
+#: ../../government.rst:27
 msgid ""
 ":doc:`Chongming science and technology authority "
 "<entities/government-chongming>` (崇明区科学技术委员会 · Government · Chongming) — "
@@ -186,4 +199,4 @@ msgid ""
 "separate 2024 science innovation subsidy measures expired on 31 December "
 "2025; we do not present those ceilings as current entitlements. Tel: +86 "
 "21 69695910. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`चोंगमिंग विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-chongming>` (崇明区科学技术委员会 · सरकारी विभाग · चोंगमिंग (Chongming)) — 2025-2026 चोंगमिंग पार्क योजना वर्तमान रणनीतिक संदर्भ प्रदान करती है। अलग 2024 विज्ञान नवाचार सब्सिडी उपाय 31 दिसंबर 2025 को समाप्त हो गए; हम उन सीमाओं को वर्तमान अधिकारों के रूप में प्रस्तुत नहीं करते हैं। Tel: +86 21 69695910. [प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`चोंगमिंग विज्ञान और प्रौद्योगिकी प्राधिकरण <entities/government-chongming>` (崇明区科学技术委员会 · सरकारी विभाग · चोंगमिंग (Chongming)) — 2025-2026 चोंगमिंग पार्क योजना वर्तमान रणनीतिक संदर्भ प्रदान करती है। अलग 2024 विज्ञान नवाचार सब्सिडी उपाय 31 दिसंबर 2025 को समाप्त हो गए; हम उन सीमाओं को वर्तमान अधिकारों के रूप में प्रस्तुत नहीं करते हैं। Tel: +86 21 69695910. [संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"

@@ -26,7 +26,7 @@ msgstr "宝马集团Startup Garage"
 
 #: ../../entities/bmw.rst:6
 msgid "Global program | Citywide / global | Research checked 2026-11-04"
-msgstr "글로벌 프로그램 | 전시 / 글로벌 | 연구 확인일 2026-11-04"
+msgstr "글로벌 프로그램 | 상하이 전역 / 글로벌 | 연구 확인일 2026-11-04"
 
 #: ../../entities/bmw.rst:8
 msgid "AI and industry focus: Mobility, Hardware AI, Software AI."
@@ -117,4 +117,4 @@ msgstr "조달 프로세스, 대금 지급 일정, 검수 절차 및 양산 전�
 
 #: ../../entities/bmw.rst:43
 msgid ":doc:`Citywide / global district route </funding>`"
-msgstr ":doc:`전시 / 글로벌 경로 안내 </funding>`"
+msgstr ":doc:`상하이 전역 / 글로벌 경로 안내 </funding>`"

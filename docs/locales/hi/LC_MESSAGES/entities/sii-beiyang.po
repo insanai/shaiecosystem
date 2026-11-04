@@ -1,0 +1,120 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/sii-beiyang.rst:1
+msgid "Shanghai Innovation Institute / Beiyang AI founder network"
+msgstr "शंघाई इनोवेशन इंस्टीट्यूट / बेइयांग AI उद्यमी नेटवर्क"
+
+#: ../../entities/sii-beiyang.rst:4
+msgid "上海创智学院／北杨人工智能创业网络"
+msgstr "上海创智学院／北杨人工智能创业网络"
+
+#: ../../entities/sii-beiyang.rst:6
+msgid "Incubator | Xuhui | Research checked 2026-11-04"
+msgstr "इनक्यूबेटर | शुहुई (Xuhui) | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/sii-beiyang.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, AI for Science."
+msgstr "एआई और उद्योग फोकस: सॉफ्टवेयर AI, हार्डवेयर AI, विज्ञान के लिए AI।"
+
+#: ../../entities/sii-beiyang.rst:10
+msgid ""
+"SII and Caohejing jointly operate the Chuangzhi Future Center for "
+"research-led AI founders; Beiyang AI Accelerator supports later market "
+"and supply-chain connections. Institute-affiliated incubation is not an "
+"unrestricted public admission offer. Ask the operator about affiliation, "
+"IP, company formation and current external-team access."
+msgstr "SII और काओहेजिंग मिलकर शोध आधारित AI उद्यमियों के लिए चुआंगझी फ्यूचर सेंटर चलाते हैं। बेइयांग AI एक्सेलेरेटर आगे बाज़ार और आपूर्ति शृंखला से जोड़ता है। संस्थान से जुड़ा इनक्यूबेशन सभी के लिए खुला प्रवेश नहीं है। संबद्धता, बौद्धिक संपदा, कंपनी गठन और बाहरी टीमों की मौजूदा पात्रता की पुष्टि करें।"
+
+#: ../../entities/sii-beiyang.rst:12
+msgid ""
+"`Evidence S074 "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260917/4547dd382eb245988cc12f945923bc0b.html>`_. "
+"Beiyang AI Town and the SII research-founder incubation network, "
+"September 2026."
+msgstr "`साक्ष्य S074 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260917/4547dd382eb245988cc12f945923bc0b.html>`_. Beiyang AI Town and the SII research-founder incubation network, September 2026."
+
+#: ../../entities/sii-beiyang.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/sii-beiyang.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
+
+#: ../../entities/sii-beiyang.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/sii-beiyang.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/sii-beiyang.rst:24
+msgid "`Official website / intake route <https://www.sii.edu.cn/>`_"
+msgstr "`आधिकारिक वेबसाइट / प्रवेश मार्ग <https://www.sii.edu.cn/>`_"
+
+#: ../../entities/sii-beiyang.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/sii-beiyang.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/sii-beiyang.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/sii-beiyang.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/sii-beiyang.rst:35
+msgid ""
+"Find the relevant research group and state the scientific or industrial "
+"problem."
+msgstr "प्रासंगिक अनुसंधान समूह खोजें और वैज्ञानिक या औद्योगिक समस्या बताएं।"
+
+#: ../../entities/sii-beiyang.rst:37
+msgid ""
+"Send a short proposal covering data, equipment, outputs, funding and "
+"timescale."
+msgstr "डेटा, उपकरण, आउटपुट, फंडिंग और समय-सीमा को कवर करने वाला एक संक्षिप्त प्रस्ताव भेजें।"
+
+#: ../../entities/sii-beiyang.rst:39
+msgid ""
+"Agree the collaboration route, publication, IP and institutional "
+"authorization."
+msgstr "सहयोग मार्ग, प्रकाशन, IP और संस्थागत प्राधिकरण पर सहमति बनाएं।"
+
+#: ../../entities/sii-beiyang.rst:41
+msgid "Obtain written access or project approval before beginning the work."
+msgstr "काम शुरू करने से पहले लिखित पहुंच या परियोजना अनुमोदन प्राप्त करें।"
+
+#: ../../entities/sii-beiyang.rst:43
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`शुहुई (Xuhui) ज़िला मार्ग </districts/xuhui>`"

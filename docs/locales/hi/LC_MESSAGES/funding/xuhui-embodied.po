@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,14 +26,14 @@ msgstr "अनुदान (Grant) | शुहुई (Xuhui)"
 
 #: ../../funding/xuhui-embodied.rst:6
 msgid "Published policy; implementing intake to confirm"
-msgstr "प्रकाशित नीति; कार्यान्वयन प्रवेश की पुष्टि शेष"
+msgstr "प्रकाशित नीति; कार्यान्वयन आवेदन की स्थिति की पुष्टि शेष"
 
 #: ../../funding/xuhui-embodied.rst:8
 msgid ""
-"`Evidence S090 "
+"`Evidence S097 "
 "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
 "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
-msgstr "`साक्ष्य S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`साक्ष्य S097 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
 
 #: ../../funding/xuhui-embodied.rst:10
 msgid "Amount and mechanism"
@@ -43,11 +43,11 @@ msgstr "राशि और तंत्र"
 msgid ""
 "Evaluated entity support ceilings: RMB 10m one-off and RMB 20m annual "
 "development support"
-msgstr "मूल्यांकित इकाई सहायता सीमाएं: RMB 10m एकमुश्त और RMB 20m वार्षिक विकास सहायता"
+msgstr "समग्र मूल्यांकन के बाद पात्र संस्था को एकमुश्त अधिकतम 1 करोड़ RMB और सालाना विकास सहायता में अधिकतम 2 करोड़ RMB"
 
 #: ../../funding/xuhui-embodied.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/xuhui-embodied.rst:17
 msgid "Eligibility and timing"

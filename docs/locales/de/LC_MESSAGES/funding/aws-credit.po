@@ -59,7 +59,7 @@ msgstr "In China gegründete, nicht börsennotierte Startups mit qualifiziertem 
 
 #: ../../funding/aws-credit.rst:22
 msgid "Confirm current package and expiration"
-msgstr "Aktuelle Paketbedingungen und Gültigkeitsfristen beachten"
+msgstr "Aktuelles Leistungspaket und Gültigkeitsdauer prüfen"
 
 #: ../../funding/aws-credit.rst:24
 msgid "Contact and application"

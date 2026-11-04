@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -30,10 +30,10 @@ msgstr "Plataforma de inversión publicada; sujeta a evaluación de proyectos"
 
 #: ../../funding/yangpu-angel-fund.rst:8
 msgid ""
-"`Evidence S123 "
+"`Evidence S131 "
 "<https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_. "
 "杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府."
-msgstr "`Evidencia S123 <https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_. 杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府."
+msgstr "`Evidencia S131 <https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_. 杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府."
 
 #: ../../funding/yangpu-angel-fund.rst:10
 msgid "Amount and mechanism"
@@ -43,7 +43,7 @@ msgstr "Importe y mecanismo"
 msgid ""
 "District state-backed early-stage equity co-investment; individual cheque "
 "subject to investment committee review"
-msgstr "Coinversión pública distrital en capital para etapas tempranas; el ticket individual está sujeto a la aprobación del comité de inversiones"
+msgstr "Coinversión pública distrital en capital para etapas tempranas; el importe por empresa está sujeto a la aprobación del comité de inversiones"
 
 #: ../../funding/yangpu-angel-fund.rst:15
 msgid "Negotiated equity"
@@ -62,7 +62,7 @@ msgstr "Empresas en etapa temprana de tecnología profunda (hard-tech), computac
 
 #: ../../funding/yangpu-angel-fund.rst:22
 msgid "Manager-led sourcing and due diligence"
-msgstr "Selección de oportunidades y due diligence lideradas por la gestora"
+msgstr "Selección de proyectos y due diligence lideradas por la gestora"
 
 #: ../../funding/yangpu-angel-fund.rst:24
 msgid "Contact and application"

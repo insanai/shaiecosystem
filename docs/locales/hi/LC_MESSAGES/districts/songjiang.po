@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -34,9 +34,9 @@ msgstr "G60 साई-टेक इनोवेशन वैली नवाच�
 
 #: ../../districts/songjiang.rst:8
 msgid ""
-"`Evidence S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`साक्ष्य S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`साक्ष्य S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../districts/songjiang.rst:10
 msgid "Who receives the inquiry"
@@ -110,7 +110,7 @@ msgid ""
 "For an AI infrastructure team, establish compatibility requirements, lab "
 "access and real customer demand before choosing space. [Status: Published "
 "entity; intake to confirm]"
-msgstr ":doc:`G60 सोंगजियांग शिनचुआंग इंडस्ट्रियल पार्क (G60 Songjiang Xinchuang Industrial Park) </entities/g60-xinchuang>` (G60松江信创产业园 · प्रौद्योगिकी पार्क · सॉफ्टवेयर AI, चिप्स) — घरेलू सूचना-प्रौद्योगिकी नवाचार के लिए आधिकारिक रूप से प्रोफाइल किया गया औद्योगिक पार्क। एक AI इंफ्रास्ट्रक्चर टीम के लिए, स्थान चुनने से पहले संगतता आवश्यकताओं, लैब पहुंच और वास्तविक ग्राहक मांग को स्थापित करें। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`G60 सोंगजियांग शिनचुआंग इंडस्ट्रियल पार्क (G60 Songjiang Xinchuang Industrial Park) </entities/g60-xinchuang>` (G60松江信创产业园 · प्रौद्योगिकी पार्क · सॉफ्टवेयर AI, चिप्स) — घरेलू सूचना-प्रौद्योगिकी नवाचार के लिए आधिकारिक रूप से प्रोफाइल किया गया औद्योगिक पार्क। एक AI इंफ्रास्ट्रक्चर टीम के लिए, स्थान चुनने से पहले संगतता आवश्यकताओं, लैब पहुंच और वास्तविक ग्राहक मांग को स्थापित करें। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/songjiang.rst:38
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "September 2026 special-fund notice to link the seven universities in "
 "Songjiang University Town with technology-transfer platforms and "
 "incubation operators. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`सोंगजियांग यूनिवर्सिटी टाउन साई-टेक सोर्स (Songjiang University Town Sci-Tech Source) </entities/songjiang-uni-source>` (松江大学城科创源 · इनक्यूबेटर · सॉफ्टवेयर AI, हार्डवेयर AI, सामग्री (Materials)) — सोंगजियांग यूनिवर्सिटी टाउन के सात विश्वविद्यालयों को प्रौद्योगिकी-हस्तांतरण प्लेटफॉर्मों और इनक्यूबेशन संचालकों से जोड़ने के लिए सितंबर 2026 की विशेष-फंड सूचना द्वारा समर्थित एक सोंगजियांग जिला पहल। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`सोंगजियांग यूनिवर्सिटी टाउन साई-टेक सोर्स (Songjiang University Town Sci-Tech Source) </entities/songjiang-uni-source>` (松江大学城科创源 · इनक्यूबेटर · सॉफ्टवेयर AI, हार्डवेयर AI, सामग्री (Materials)) — सोंगजियांग यूनिवर्सिटी टाउन के सात विश्वविद्यालयों को प्रौद्योगिकी-हस्तांतरण प्लेटफॉर्मों और इनक्यूबेशन संचालकों से जोड़ने के लिए सितंबर 2026 की विशेष-फंड सूचना द्वारा समर्थित एक सोंगजियांग जिला पहल। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/songjiang.rst:39
 msgid ""
@@ -130,7 +130,7 @@ msgid ""
 "design, smart textiles. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`डोंगहुआ विश्वविद्यालय (Donghua University) </entities/university-donghua>` (东华大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: उन्नत फाइबर, सामग्री, डिज़ाइन, स्मार्ट टेक्सटाइल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`डोंगहुआ विश्वविद्यालय (Donghua University) </entities/university-donghua>` (东华大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: उन्नत फाइबर, सामग्री, डिज़ाइन, स्मार्ट टेक्सटाइल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/songjiang.rst:40
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 "collaboration themes: Trade, commerce, cross-border business. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इंटरनेशनल बिजनेस एंड इकोनॉमिक्स (SUIBE) </entities/university-suibe>` (上海对外经贸大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: व्यापार, वाणिज्य, सीमा-पार व्यवसाय। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इंटरनेशनल बिजनेस एंड इकोनॉमिक्स (SUIBE) </entities/university-suibe>` (上海对外经贸大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: व्यापार, वाणिज्य, सीमा-पार व्यवसाय। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/songjiang.rst:41
 msgid ""
@@ -150,7 +150,7 @@ msgid ""
 "themes: IP, data governance, legal technology. These themes are editorial "
 "routing guidance, not a verified offer of laboratory access or startup "
 "funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`ईस्ट चाइना यूनिवर्सिटी ऑफ पॉलिटिकल साइंस एंड लॉ (ECUPL) </entities/university-ecupl>` (华东政法大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: IP, डेटा गवर्नेंस, कानूनी प्रौद्योगिकी (legal tech)। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`ईस्ट चाइना यूनिवर्सिटी ऑफ पॉलिटिकल साइंस एंड लॉ (ECUPL) </entities/university-ecupl>` (华东政法大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: IP, डेटा गवर्नेंस, कानूनी प्रौद्योगिकी (legal tech)। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/songjiang.rst:42
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "collaboration themes: Engineering, mobility, manufacturing, design. These "
 "themes are editorial routing guidance, not a verified offer of laboratory "
 "access or startup funding. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इंजीनियरिंग साइंस (SUES) </entities/university-sues>` (上海工程技术大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: इंजीनियरिंग, गतिशीलता, विनिर्माण, डिज़ाइन। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई यूनिवर्सिटी ऑफ इंजीनियरिंग साइंस (SUES) </entities/university-sues>` (上海工程技术大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: इंजीनियरिंग, गतिशीलता, विनिर्माण, डिज़ाइन। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/songjiang.rst:43
 msgid ""
@@ -170,7 +170,7 @@ msgid ""
 "creative technology. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई लिडा विश्वविद्यालय (Shanghai Lida University) </entities/university-lida>` (上海立达学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त व्यवसाय, डिज़ाइन और रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई लिडा विश्वविद्यालय (Shanghai Lida University) </entities/university-lida>` (上海立达学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: अनुप्रयुक्त व्यवसाय, डिज़ाइन और रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/songjiang.rst:44
 msgid ""
@@ -180,7 +180,7 @@ msgid ""
 "content and creative technology. These themes are editorial routing "
 "guidance, not a verified offer of laboratory access or startup funding. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई इंस्टीट्यूट ऑफ विजुअल आर्ट्स (Shanghai Institute of Visual Arts) </entities/university-siva>` (上海视觉艺术学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: डिज़ाइन, डिजिटल कंटेंट और रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई इंस्टीट्यूट ऑफ विजुअल आर्ट्स (Shanghai Institute of Visual Arts) </entities/university-siva>` (上海视觉艺术学院 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: डिज़ाइन, डिजिटल कंटेंट और रचनात्मक प्रौद्योगिकी। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/songjiang.rst:46
 msgid "Funding routes"
@@ -194,7 +194,7 @@ msgid ""
 "innovation projects matched 1:1 under the policy. Status: Policy in "
 "force; call not confirmed open. Timing: Policy: 1 January 2026 to 31 "
 "December 2027; confirm the applicable call."
-msgstr ":doc:`सोंगजियांग प्रौद्योगिकी-उद्यम नवाचार और मैचिंग सहायता </funding/songjiang-innovation>` (松江科技企业创新与配套支持 · अनुदान (Grant) · कोई इक्विटी नहीं) — जिला नवाचार परियोजना RMB 100,000 तक; नीति के तहत अनुमोदित नगर नवाचार परियोजनाओं को 1:1 मैचिंग। स्थिति: नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं। समय-सीमा: नीति: 1 जनवरी 2026 से 31 दिसंबर 2027 तक; लागू कॉल की पुष्टि करें।"
+msgstr ":doc:`सोंगजियांग प्रौद्योगिकी-उद्यम नवाचार और मैचिंग सहायता </funding/songjiang-innovation>` (松江科技企业创新与配套支持 · अनुदान (Grant) · कंपनी की हिस्सेदारी नहीं देनी होती) — जिला नवाचार परियोजना RMB 100,000 तक; नीति के तहत अनुमोदित नगर नवाचार परियोजनाओं को 1:1 मैचिंग। स्थिति: नीति लागू है; आवेदन अभी खुले हैं या नहीं, इसकी पुष्टि बाकी। समय-सीमा: नीति: 1 जनवरी 2026 से 31 दिसंबर 2027 तक; लागू कॉल की पुष्टि करें।"
 
 #: ../../districts/songjiang.rst:50
 msgid ""
@@ -204,7 +204,7 @@ msgid ""
 "data-elements special fund rules. Status: 2026 call published; deadline "
 "check required. Timing: Second 2026 batch notice issued August 2026; "
 "confirm current acceptance status."
-msgstr ":doc:`सोंगजियांग डेटा एलिमेंट्स स्पेशल फंड, दूसरा 2026 बैच </funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · अनुदान / प्रतिपूर्ति · कोई इक्विटी नहीं) — जिला डेटा-एलिमेंट्स स्पेशल फंड नियमों के तहत परियोजना-विशिष्ट सहायता। स्थिति: 2026 कॉल प्रकाशित; समय सीमा की जाँच आवश्यक। समय-सीमा: दूसरा 2026 बैच सूचना अगस्त 2026 में जारी; वर्तमान स्वीकृति स्थिति की पुष्टि करें।"
+msgstr ":doc:`सोंगजियांग डेटा एलिमेंट्स स्पेशल फंड, दूसरा 2026 बैच </funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · अनुदान / प्रतिपूर्ति · कंपनी की हिस्सेदारी नहीं देनी होती) — जिला डेटा-एलिमेंट्स स्पेशल फंड नियमों के तहत परियोजना-विशिष्ट सहायता। स्थिति: 2026 कॉल प्रकाशित; समय सीमा की जाँच आवश्यक। समय-सीमा: दूसरा 2026 बैच सूचना अगस्त 2026 में जारी; वर्तमान स्वीकृति स्थिति की पुष्टि करें।"
 
 #: ../../districts/songjiang.rst:52
 msgid ":doc:`Also compare citywide funding </funding>`"

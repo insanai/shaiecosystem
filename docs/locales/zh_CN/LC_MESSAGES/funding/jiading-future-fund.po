@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -30,10 +30,10 @@ msgstr "基金已公布，项目受理待确认"
 
 #: ../../funding/jiading-future-fund.rst:8
 msgid ""
-"`Evidence S118 "
+"`Evidence S126 "
 "<https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading "
 "launches 800m-yuan future industry fund."
-msgstr "`证据 S118 <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading launches 800m-yuan future industry fund."
+msgstr "`证据 S126 <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading launches 800m-yuan future industry fund."
 
 #: ../../funding/jiading-future-fund.rst:10
 msgid "Amount and mechanism"

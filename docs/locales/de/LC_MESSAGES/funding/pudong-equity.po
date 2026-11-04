@@ -26,7 +26,7 @@ msgstr "Eigenkapitalinvestition | Neuer Stadtbezirk Pudong"
 
 #: ../../funding/pudong-equity.rst:6
 msgid "Fund announced; deal intake to confirm"
-msgstr "Fonds angekündigt; Dealflow-Aufnahme zu bestätigen"
+msgstr "Fonds angekündigt; Annahme von Investitionsanfragen bestätigen"
 
 #: ../../funding/pudong-equity.rst:8
 msgid ""
@@ -43,7 +43,7 @@ msgstr "Förderhöhe und Mechanismus"
 msgid ""
 "Fund target RMB 2bn; first tranche RMB 500m; individual cheque not "
 "established"
-msgstr "Fondszielvolumen: 2 Mrd. RMB; Ersttranche: 500 Mio. RMB; Ticketgröße pro Startup wird im Einzelfall verhandelt"
+msgstr "Angestrebtes Fondsvolumen: 2 Mrd. RMB; erste Tranche: 500 Mio. RMB; kein einheitlicher Investitionsbetrag pro Unternehmen belegt"
 
 #: ../../funding/pudong-equity.rst:15
 msgid "Negotiated equity"
@@ -58,11 +58,11 @@ msgid ""
 "Seed-stage AI projects fitting the manager's mandate. The public launch "
 "does not establish a universal application form, valuation or "
 "shareholding percentage."
-msgstr "KI-Projekte im Seed-Stadium, die den Kriterien und Vorgaben der Fondsmanager entsprechen. Die öffentliche Ankündigung begründet keinen automatischen Anspruch auf Investition, Bewertung oder Beteiligungshöhe."
+msgstr "KI-Projekte in der Seed-Phase, die zum Mandat des Fondsmanagers passen. Die Ankündigung belegt weder ein allgemeines Antragsformular noch einheitliche Bewertungen oder Beteiligungsquoten."
 
 #: ../../funding/pudong-equity.rst:22
 msgid "Manager-led sourcing and due diligence"
-msgstr "Projektakquise und Due-Diligence-Prüfung erfolgen fortlaufend durch das Fondsmanagement"
+msgstr "Projektidentifikation und Due Diligence durch den Fondsmanager"
 
 #: ../../funding/pudong-equity.rst:24
 msgid "Contact and application"

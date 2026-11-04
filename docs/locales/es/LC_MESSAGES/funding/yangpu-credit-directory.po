@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -29,8 +29,8 @@ msgid "Published directory; lender review"
 msgstr "Catálogo publicado; sujeto a evaluación del prestamista"
 
 #: ../../funding/yangpu-credit-directory.rst:8
-msgid "`Evidence S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
-msgstr "`Evidencia S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+msgid "`Evidence S129 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+msgstr "`Evidencia S129 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
 
 #: ../../funding/yangpu-credit-directory.rst:10
 msgid "Amount and mechanism"
@@ -39,11 +39,11 @@ msgstr "Importe y mecanismo"
 #: ../../funding/yangpu-credit-directory.rst:13
 msgid ""
 "Product-specific technology credit and IP finance; no universal ceiling"
-msgstr "Crédito tecnológico y financiación de propiedad intelectual según el producto; sin techo único universal"
+msgstr "Crédito tecnológico y financiación de propiedad intelectual según el producto; sin límite único universal"
 
 #: ../../funding/yangpu-credit-directory.rst:15
 msgid "No equity; repayable"
-msgstr "Sin cesión de capital; reembolsable"
+msgstr "Sin cesión de participaciones; préstamo reembolsable"
 
 #: ../../funding/yangpu-credit-directory.rst:17
 msgid "Eligibility and timing"

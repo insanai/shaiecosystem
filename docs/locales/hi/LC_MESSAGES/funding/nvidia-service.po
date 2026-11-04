@@ -22,7 +22,7 @@ msgstr "एनवीडिया इनसेप्शन (NVIDIA Inception)"
 
 #: ../../funding/nvidia-service.rst:4
 msgid "In-kind services | Citywide / global"
-msgstr "वस्तु-रूप सेवाएं | शहर-व्यापी / वैश्विक"
+msgstr "गैर-नकद सेवाएँ | शहर-व्यापी / वैश्विक"
 
 #: ../../funding/nvidia-service.rst:6
 msgid "Program published; eligibility review"
@@ -44,7 +44,7 @@ msgstr "निःशुल्क सदस्यता; सशर्त इक�
 
 #: ../../funding/nvidia-service.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/nvidia-service.rst:17
 msgid "Eligibility and timing"

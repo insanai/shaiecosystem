@@ -1,0 +1,118 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/first-startup-subsidy.rst:1
+msgid "Shanghai first-startup one-off subsidy"
+msgstr "상하이 첫 창업 일시금"
+
+#: ../../funding/first-startup-subsidy.rst:4
+msgid "Grant | Citywide / global"
+msgstr "보조금 | 상하이 전역 / 글로벌"
+
+#: ../../funding/first-startup-subsidy.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "정책 시행 중; 공고 접수 개시 미확인"
+
+#: ../../funding/first-startup-subsidy.rst:8
+msgid ""
+"`Evidence S114 "
+"<https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html>`_. "
+"Shanghai startup social-insurance, incubation rent and first-startup "
+"subsidies, valid through 2027."
+msgstr "`근거 S114 <https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html>`_. Shanghai startup social-insurance, incubation rent and first-startup subsidies, valid through 2027."
+
+#: ../../funding/first-startup-subsidy.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/first-startup-subsidy.rst:13
+msgid "One-off RMB 8,000 for qualifying founders"
+msgstr "적격 창업자에게 일회성 8,000위안"
+
+#: ../../funding/first-startup-subsidy.rst:15
+msgid "No equity"
+msgstr "지분 제공 의무 없음"
+
+#: ../../funding/first-startup-subsidy.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/first-startup-subsidy.rst:20
+msgid ""
+"Shanghai-hukou graduates within 2 years of graduation or recognized local "
+"people with employment difficulties. First qualifying startup must have "
+"operated for 1 year and paid employee social insurance for at least one "
+"person for 6 months. This is not a universal incorporation award."
+msgstr "상하이 호적을 보유한 졸업 후 2년 이내 고등교육기관 졸업자 또는 인정된 상하이 취업 취약계층이 대상입니다. 첫 적격 창업 조직을 1년 운영하고 최소 1명의 직원 사회보험료를 6개월 납부해야 합니다. 모든 법인 설립에 지급되는 장려금이 아닙니다."
+
+#: ../../funding/first-startup-subsidy.rst:22
+msgid "Policy through 31 Dec 2027; confirm district procedure"
+msgstr "정책 유효기간 2027년 12월 31일까지; 구별 절차 확인"
+
+#: ../../funding/first-startup-subsidy.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/first-startup-subsidy.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shanghai.gov.cn/affairs_affairs/0595cbd5c4974649b9cfb03b3d217daf.html>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://www.shanghai.gov.cn/affairs_affairs/0595cbd5c4974649b9cfb03b3d217daf.html>`_"
+
+#: ../../funding/first-startup-subsidy.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/first-startup-subsidy.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/first-startup-subsidy.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "날짜가 명시된 공식 공고를 확인하고 관할 구역, 법인격, 사업 분야 및 집행 기간 규정을 검증한다."
+
+#: ../../funding/first-startup-subsidy.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "소정의 신청 서류를 준비하고 요구되는 경우 주관 기관이나 구청의 공식 추천을 완료한다."
+
+#: ../../funding/first-startup-subsidy.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "공고에 명시된 마감 시한 전에 공식 지정 플랫폼을 통해 접수하고 접수증을 보관한다."
+
+#: ../../funding/first-startup-subsidy.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "공고에 규정된 심사, 선정 통보, 정기 보고, 최종 검수 및 지원금 정산 의무를 성실히 이행한다."
+
+#: ../../funding/first-startup-subsidy.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

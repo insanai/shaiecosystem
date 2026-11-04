@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -22,11 +22,11 @@ msgstr "Finanzierungswege ohne Begriffsverwirrung"
 
 #: ../../funding.rst:4
 msgid ""
-"45 researched routes across citywide programs and all 16 districts. We "
+"50 researched routes across citywide programs and all 16 districts. We "
 "distinguish equity-free support from repayable debt, credits and "
 "investment. No item is labelled open merely because its policy or web "
 "page exists."
-msgstr "45 recherchierte Förderwege über stadtweite Programme und alle 16 Bezirke hinweg. Wir unterscheiden eigenkapitalfreie Förderung klar von rückzahlbaren Darlehen, Gutscheinen und Beteiligungskapital."
+msgstr "50 recherchierte Förderwege über stadtweite Programme und alle 16 Bezirke hinweg. Wir unterscheiden eigenkapitalfreie Förderung klar von rückzahlbaren Darlehen, Gutscheinen und Beteiligungskapital."
 
 #: ../../funding.rst:6
 msgid ":doc:`Read the funding guide first <funding-guide>`"
@@ -70,7 +70,7 @@ msgid ""
 "apply; previously publicly funded projects cannot duplicate this support. "
 "Timing: Closed 31 Aug 2026, 16:00 China Standard Time. Tel: +86 21 "
 "68811090. [Status: Closed]"
-msgstr ":doc:`Förderprogramm für KI-Modell- und Agentenanwendungen Pudong 2026 <funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · Kostenerstattung · Neuer Stadtbezirk Pudong · Ohne Anteilsabgabe) — **Fördersatz und Höchstbetrag richten sich nach den jeweils geltenden Durchführungsbestimmungen**. Förderfähige Vorhaben mit Hauptnutzen in Pudong, die anerkannte Ausgaben für KI-Modelle oder Agenten im Jahr 2025 nachweisen. Es gelten behördliche Registrierungsanforderungen; bereits anderweitig öffentlich bezuschusste Projekte sind von einer Doppelförderung ausgeschlossen. (Bewerbungsschluss war der 31. August 2026 um 16:00 Uhr (chinesische Standardzeit CST)). Tel: +86 21 68811090. [Geschlossen]"
+msgstr ":doc:`Förderprogramm für KI-Modell- und Agentenanwendungen Pudong 2026 <funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · Kostenerstattung · Neuer Stadtbezirk Pudong · Ohne Anteilsabgabe) — **Fördersatz und Höchstbetrag richten sich nach den jeweils geltenden Durchführungsbestimmungen**. Förderfähige Vorhaben mit Hauptnutzen in Pudong, die anerkannte Ausgaben für KI-Modelle oder Agenten im Jahr 2025 nachweisen. Es gelten behördliche Registrierungsanforderungen; bereits anderweitig öffentlich bezuschusste Projekte sind von einer Doppelförderung ausgeschlossen. (Geschlossen am 31. August 2026 um 16:00 Uhr China-Standardzeit). Tel: +86 21 68811090. [Bewerbungsfrist abgelaufen]"
 
 #: ../../funding.rst:16
 msgid ""
@@ -92,7 +92,7 @@ msgid ""
 "Project classification and investment thresholds apply. This is selective "
 "R&D support, not a general startup incorporation bonus. Timing: Policy "
 "through 31 Aug 2030. [Status: Policy in force; call not confirmed open]"
-msgstr ":doc:`F&E-Schlüsselprojekte für Kerntechnologien Minhang <funding/minhang-rd>` (闵行关键核心技术攻关 · Zuschuss · Bezirk Minhang · Ohne Anteilsabgabe) — **Allgemeine Projekte: bis zu 3 Mio. RMB und bis zu 30 % der F&E-Kosten; Schwerpunktprojekte: bis zu 10 Mio. RMB und bis zu 50 %**. Projektklassifizierung und Mindestinvestitionsschwellen finden Anwendung. Es handelt sich um eine wettbewerbliche F&E-Förderung und nicht um eine allgemeine Unternehmensgründungsprämie. (Richtlinie gültig bis zum 31. August 2030). [Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet]"
+msgstr ":doc:`F&E-Schlüsselprojekte für Kerntechnologien Minhang <funding/minhang-rd>` (闵行关键核心技术攻关 · Zuschuss · Bezirk Minhang · Ohne Anteilsabgabe) — **Allgemeine Projekte: bis zu 3 Mio. RMB und bis zu 30 % der F&E-Kosten; Schwerpunktprojekte: bis zu 10 Mio. RMB und bis zu 50 %**. Projektklassifizierung und Mindestinvestitionsschwellen finden Anwendung. Es handelt sich um eine wettbewerbliche F&E-Förderung und nicht um eine allgemeine Unternehmensgründungsprämie. (Richtlinie gültig bis 31. August 2030). [Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet]"
 
 #: ../../funding.rst:18
 msgid ""
@@ -104,7 +104,7 @@ msgid ""
 "ordinary startup award and require comprehensive evaluation. Timing: "
 "Confirm applicable implementing notice. [Status: Published policy; "
 "implementing intake to confirm]"
-msgstr ":doc:`Branchenförderung für verkörperte KI (Embodied AI) Xuhui <funding/xuhui-embodied>` (徐汇具身智能产业支持 · Zuschuss · Bezirk Xuhui · Ohne Anteilsabgabe) — **Obergrenzen nach Einzelfallbewertung: bis zu 10 Mio. RMB einmalig und bis zu 20 Mio. RMB jährliche Entwicklungsförderung**. Qualifizierte Unternehmen in den Bereichen Robotermodelle, verkörperte Algorithmen, Robotik-Datensätze und spezialisierte Betriebssysteme. Die Maximalbeträge stellen keine pauschale Gründungsprämie dar und erfordern eine umfassende Expertenbewertung. (Geltende Durchführungshinweise der Jahresbekanntmachung beachten). [Richtlinie veröffentlicht; Annahmeverfahren zu bestätigen]"
+msgstr ":doc:`Branchenförderung für verkörperte KI (Embodied AI) Xuhui <funding/xuhui-embodied>` (徐汇具身智能产业支持 · Zuschuss · Bezirk Xuhui · Ohne Anteilsabgabe) — **Obergrenzen nach Einzelfallbewertung: bis zu 10 Mio. RMB einmalig und bis zu 20 Mio. RMB jährliche Entwicklungsförderung**. Qualifizierte Unternehmen in den Bereichen Robotermodelle, verkörperte Algorithmen, Robotik-Datensätze und spezialisierte Betriebssysteme. Die Maximalbeträge stellen keine pauschale Gründungsprämie dar und erfordern eine umfassende Expertenbewertung. (Zuständige Umsetzungsbekanntmachung prüfen). [Richtlinie veröffentlicht; Annahmeverfahren zu bestätigen]"
 
 #: ../../funding.rst:19
 msgid ""
@@ -116,7 +116,7 @@ msgid ""
 "representative; full-time startup; Shanghai company registered at most 3 "
 "years. Timing: Confirm branch intake and review schedule. Tel: +86 21 "
 "55231818. [Status: Program published; eligibility review]"
-msgstr ":doc:`Jungadler-Plan des STEFG-Angelfonds (Young Eagle Plan) <funding/stefg-loan>` (天使基金雏鹰计划 · Darlehen · Stadtweit / global · Ohne Anteilsabgabe; rückzahlungspflichtig) — **Bis zu 500.000 RMB; zinslos; 3 Jahre Laufzeit; Tilgung in gleichbleibenden monatlichen Raten über 36 Monate**. Chinesische Staatsangehörige bis maximal 40 Jahre, die die Voraussetzungen für Studierende oder Hochschulabsolventen erfüllen; der Gründer muss größter natürlicher Anteilseigner und gesetzlicher Vertreter sein; Vollzeit-Unternehmertum; Unternehmensgründung in Shanghai vor maximal 3 Jahren. (Antragsfristen und Begutachtungszyklen der jeweiligen Hochschul- oder Bezirksfiliale beachten). Tel: +86 21 55231818. [Programm veröffentlicht; Prüfung der Förderfähigkeit erforderlich]"
+msgstr ":doc:`Jungadler-Plan des STEFG-Angelfonds (Young Eagle Plan) <funding/stefg-loan>` (天使基金雏鹰计划 · Darlehen · Stadtweit / global · Ohne Anteilsabgabe; rückzahlungspflichtig) — **Bis zu 500.000 RMB; zinslos; Laufzeit 3 Jahre; Tilgung des Kapitals in 36 gleichen monatlichen Raten**. Chinesische Staatsangehörige bis maximal 40 Jahre, die die Voraussetzungen für Studierende oder Hochschulabsolventen erfüllen; der Gründer muss größter natürlicher Anteilseigner und gesetzlicher Vertreter sein; Vollzeit-Unternehmertum; Unternehmensgründung in Shanghai vor maximal 3 Jahren. (Zulassung der Geschäftsstelle und Zeitplan prüfen). Tel: +86 21 55231818. [Programm veröffentlicht; Prüfung der Förderfähigkeit erforderlich]"
 
 #: ../../funding.rst:20
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "contribution. Review nominee ownership, exit obligation and documents. "
 "Timing: Confirm branch intake and review schedule. Tel: +86 21 55231818. "
 "[Status: Program published; eligibility review]"
-msgstr ":doc:`Adler-Plan des STEFG-Angelfonds (Eagle Plan) <funding/stefg-equity>` (天使基金雄鹰计划 · Eigenkapitalinvestition · Stadtweit / global · Temporäre Beteiligung; Ausstieg zum Nennwert) — **Bis zu 1 Mio. RMB; staatliche direkte Eigenkapitalbeteiligung; vertraglich vereinbarte Rückkaufoption innerhalb von 3 Jahren zum Nennwert**. Graduiertenteams mit tiefer technologischer Ausrichtung. Die Eigenkapitalbeteiligung erfordert Verhandlungen über Gesellschaftervertrag, Unternehmensbewertung und Ausstiegspfade. (Laufendes Bewertungsverfahren der Managementgesellschaft). Tel: +86 21 55231818. [Programm veröffentlicht; Prüfung der Förderfähigkeit erforderlich]"
+msgstr ":doc:`Adler-Plan des STEFG-Angelfonds (Eagle Plan) <funding/stefg-equity>` (天使基金雄鹰计划 · Eigenkapitalinvestition · Stadtweit / global · Befristete Beteiligung; Ausstieg zum ursprünglichen Investitionsbetrag) — **Bis zu 800.000 RMB für 3 Jahre; keine Beteiligung an Dividenden; Ausstieg zum ursprünglichen Investitionsbetrag**. Technologiegründer, die die Regeln der Stiftung erfüllen; die Bareinlage des Gründers muss den Stiftungsbeitrag übersteigen. Treuhänderische Beteiligung, Ausstiegsverpflichtung und Vertragsunterlagen prüfen. (Zulassung der Geschäftsstelle und Zeitplan prüfen). Tel: +86 21 55231818. [Programm veröffentlicht; Prüfung der Förderfähigkeit erforderlich]"
 
 #: ../../funding.rst:21
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 "Bank underwriting still applies; an interest subsidy does not remove "
 "principal repayment. Timing: Confirm current HRSS service rules. [Status: "
 "Published service; current terms to confirm]"
-msgstr ":doc:`Garantierte Gründungsdarlehen Shanghai <funding/startup-guarantee>` (上海创业担保贷款 · Darlehen · Stadtweit / global · Ohne Anteilsabgabe; rückzahlungspflichtig) — **Kleinst- und Kleinunternehmen: bis zu 4 Mio. RMB; Einzelgründer: bis zu 500.000 RMB; mit Zinszuschüssen**. In Shanghai registrierte Unternehmen, die festgelegte Einstellungsquoten für lokale Arbeitskräfte erfüllen, sowie berechtigte Einzelgründer. Bankkreditprüfung und behördliche Bürgschaftszusage sind erforderlich. (Ganzjährig über die offiziellen Bank- und HRSS-Kanäle beantragbar). [Dienstleistung veröffentlicht; aktuelle Konditionen zu bestätigen]"
+msgstr ":doc:`Garantierte Gründungsdarlehen Shanghai <funding/startup-guarantee>` (上海创业担保贷款 · Darlehen · Stadtweit / global · Ohne Anteilsabgabe; rückzahlungspflichtig) — **Kreditobergrenze und Zinszuschuss hängen von der Antragstellergruppe und den aktuellen Regeln ab**. Für Einzelpersonen, Vorgründungen und Unternehmen gelten unterschiedliche Vorgaben zu Wohnsitz, Ausbildung, Registrierung und Beschäftigung. Die Bank prüft die Kreditwürdigkeit. Auch bei einem Zinszuschuss muss das Darlehen zurückgezahlt werden. (Geltende Richtlinien der Personal- und Sozialbehörde (HRSS) prüfen). [Dienstleistung veröffentlicht; aktuelle Konditionen zu bestätigen]"
 
 #: ../../funding.rst:22
 msgid ""
@@ -151,7 +151,7 @@ msgid ""
 "and evidence. A tax deduction reduces taxable income; it is not cash "
 "equal to the expense or deduction. Timing: Annual tax filing and "
 "applicable rules. [Status: Published tax guidance; applicability review]"
-msgstr ":doc:`Zusätzlicher Steuerabzug für F&E-Aufwendungen (Super-Deduction) <funding/tax-rd>` (研发费用加计扣除 · Steuervergünstigung · Stadtweit / global · Ohne Anteilsabgabe) — **Zusätzlicher Abzug von 100 % der tatsächlich angefallenen, förderfähigen F&E-Ausgaben von der steuerlichen Bemessungsgrundlage**. Steuerpflichtige Unternehmen mit eigenständiger F&E-Kostenrechnung in nicht ausgeschlossenen Branchen. Erfordert eine lückenlose steuerliche Buchführung und F&E-Projektdokumentation. (Im Rahmen der jährlichen Körperschaftsteuererklärung geltend zu machen). [Steuerleitfaden veröffentlicht; Anwendbarkeit prüfen]"
+msgstr ":doc:`Zusätzlicher Steuerabzug für F&E-Aufwendungen (Super-Deduction) <funding/tax-rd>` (研发费用加计扣除 · Steuervergünstigung · Stadtweit / global · Ohne Anteilsabgabe) — **Förderfähige, als Aufwand erfasste F&E-Kosten: zusätzlicher Abzug von 100 %; förderfähige aktivierte F&E-Kosten: Abschreibungsbasis von 200 %**. Förderfähige F&E-Kosten eines Unternehmens mit der vorgeschriebenen Buchführung und den erforderlichen Nachweisen. Der Abzug mindert das steuerpflichtige Einkommen; er ist keine Barauszahlung in Höhe der Kosten oder des Abzugs. (Jährliche Steuererklärung und geltende Bestimmungen). [Steuerleitfaden veröffentlicht; Anwendbarkeit prüfen]"
 
 #: ../../funding.rst:23
 msgid ""
@@ -162,7 +162,7 @@ msgid ""
 "IP, personnel, R&D, revenue mix and annual reporting; not all AI "
 "companies qualify. Timing: Recognition batches and annual filing. "
 "[Status: Published tax guidance; recognition required]"
-msgstr ":doc:`Ermäßigter Körperschaftsteuersatz für Hoch- und Neutechnologieunternehmen (HNTE) <funding/tax-hnte>` (高新技术企业所得税优惠 · Steuervergünstigung · Stadtweit / global · Ohne Anteilsabgabe) — **Ermäßigter Steuersatz von 15 % statt der regulären 25 % Körperschaftsteuer**. Offiziell anerkanntes Hoch- und Neutechnologieunternehmen (HNTE) mit eigenem Kern-IP, Erfüllung der F&E-Aufwandsquoten, Mindestanteil an technologiebezogenen Einnahmen und qualifiziertem F&E-Personal. Gültigkeitsdauer des Zertifikats: 3 Jahre. (Jährliche Einreichungsfenster der städtischen Akkreditierungskommission beachten). [Steuerleitfaden veröffentlicht; Anerkennung erforderlich]"
+msgstr ":doc:`Ermäßigter Körperschaftsteuersatz für Hoch- und Neutechnologieunternehmen (HNTE) <funding/tax-hnte>` (高新技术企业所得税优惠 · Steuervergünstigung · Stadtweit / global · Ohne Anteilsabgabe) — **15 % Körperschaftsteuer für anerkannte Unternehmen, die die Voraussetzungen erfüllen**. Anerkennung und fortlaufende Einhaltung der Bedingungen sind erforderlich. IP, Personal, F&E, Umsatzstruktur und Jahresmeldungen prüfen. Nicht jedes KI-Unternehmen erfüllt die Kriterien. (Anerkennungstranchen und jährliche Einreichung). [Steuerleitfaden veröffentlicht; Anerkennung erforderlich]"
 
 #: ../../funding.rst:24
 msgid ""
@@ -174,7 +174,7 @@ msgid ""
 "admission, innovation funding and investor interest are separate "
 "outcomes. Timing: Check the specific 2026 track; not labelled open. "
 "[Status: 2026 call published; deadline check required]"
-msgstr ":doc:`Internationaler Innovations- und Gründerwettbewerb „Startup in Shanghai“ 2026 <funding/startup-competition>` (2026创在上海国际创新创业大赛 · Wettbewerb · Stadtweit / global · Preisgeld- und Beteiligungsbedingungen variieren) — **Wettbewerbsauszeichnungen und vorrangiger Zugang zum städtischen KMU-Technologieinnovationsfonds**. Kleine und mittlere Technologieunternehmen sowie Gründungsteams, die den Kriterien der jährlichen Wettbewerbsausschreibung entsprechen. (Jährlicher Bewerbungszeitraum im Frühjahr; Termine der aktuellen Ausschreibung beachten). [Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen]"
+msgstr ":doc:`Internationaler Innovations- und Gründerwettbewerb „Startup in Shanghai“ 2026 <funding/startup-competition>` (2026创在上海国际创新创业大赛 · Wettbewerb · Stadtweit / global · Preisgeld- und Beteiligungsbedingungen variieren) — **Preisgelder und angebundene Investitionen hängen von der Wettbewerbskategorie ab; keine Zusage**. In- und ausländische Teams und Unternehmen gemäß den Regeln der jeweiligen Wettbewerbskategorie. Zulassung, Innovationsförderung und Investoreninteresse sind getrennte Ergebnisse. (Spezifischen Track 2026 prüfen; nicht als offen gekennzeichnet). [Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen]"
 
 #: ../../funding.rst:25
 msgid ""
@@ -186,7 +186,7 @@ msgid ""
 "automatic funding or immigration status. Timing: Confirm track and "
 "division dates. [Status: 2026 competition published; track intake to "
 "confirm]"
-msgstr ":doc:`Globaler Talent-Innovations- und Gründerwettbewerb „Haiju“ (Haiju Talent Competition) <funding/haiju>` (海聚英才全球创新创业大赛 · Wettbewerb · Stadtweit / global · Preisgeld- und Beteiligungsbedingungen variieren) — **Preisgelder für prämierte Projekte, bevorzugte Talentansiedlung und Anbindung an Venture-Capital-Investoren**. Internationale und inländische Spitzentalente sowie hochqualifizierte Innovationsteams mit Projekten in Zukunftsbranchen. (Jährlicher Wettbewerbskalender mit regionalen und internationalen Vorentscheiden). [Wettbewerb 2026 veröffentlicht; Track-Bewerbungsfenster zu bestätigen]"
+msgstr ":doc:`Globaler Talent-Innovations- und Gründerwettbewerb „Haiju“ (Haiju Talent Competition) <funding/haiju>` (海聚英才全球创新创业大赛 · Wettbewerb · Stadtweit / global · Preisgeld- und Beteiligungsbedingungen variieren) — **Preisgelder, Kontaktvermittlung und Dienstleistungen je nach Wettbewerbskategorie**. Bewerbung über das offizielle Wettbewerbsportal und eine passende Teilrunde. Die Auswahl im Bezirk oder die Teilnahme am Finale begründen weder automatische Förderung noch einen Aufenthaltsstatus. (Termine für Tracks und regionale Vorentscheide prüfen). [Wettbewerb 2026 veröffentlicht; Track-Bewerbungsfenster zu bestätigen]"
 
 #: ../../funding.rst:26
 msgid ""
@@ -198,7 +198,7 @@ msgid ""
 "routes must not be confused; host endorsement may be required. Timing: "
 "Confirm category deadline and host review. [Status: 2026 call published; "
 "not confirmed open]"
-msgstr ":doc:`Magnolia-Talentplan, Pujiang-Projekt 2026 <funding/pujiang>` (2026白玉兰人才计划浦江项目 · Zuschuss · Stadtweit / global · Ohne Anteilsabgabe) — **Forschungszuschüsse für rückkehrende Spitzenfachkräfte und Forscher aus dem Ausland (bis zu 300.000 bis 500.000 RMB je nach Kategorie)**. Aus dem Ausland nach Shanghai zurückgekehrte Wissenschaftler und Unternehmensgründer, die an Hochschulen, Forschungsinstituten oder Technologieunternehmen tätig sind und die vorgegebenen Kriterien für Auslandsaufenthalte erfüllen. (Bewerbungsfrist gemäß der jährlichen Ausschreibung der städtischen Wissenschafts- und Personalkommission). [Ausschreibung 2026 veröffentlicht; nicht nachweislich geöffnet]"
+msgstr ":doc:`Magnolia-Talentplan, Pujiang-Projekt 2026 <funding/pujiang>` (2026白玉兰人才计划浦江项目 · Zuschuss · Stadtweit / global · Ohne Anteilsabgabe) — **Förderung je nach Kategorie; maßgeblich ist die jeweilige Ausschreibung 2026**. Die Ausschreibung vom Juli 2026 richtet sich über getrennte Kategorien an berechtigte Rückkehrer aus dem Ausland. Forschungs- und Gründungsförderung unterscheiden. Eine Bestätigung der aufnehmenden Einrichtung kann erforderlich sein. (Kategorie-Frist und Trägerprüfung bestätigen). [Ausschreibung 2026 veröffentlicht; nicht nachweislich geöffnet]"
 
 #: ../../funding.rst:27
 msgid ""
@@ -209,7 +209,7 @@ msgid ""
 "conditions. Product availability and partner credits are separately "
 "governed. Timing: Online application; regional eligibility review. "
 "[Status: Program published; eligibility review]"
-msgstr ":doc:`NVIDIA Inception (Programmleistungen und Ökosystem-Support) <funding/nvidia-service>` (英伟达初创加速计划 · Sach- und Dienstleistungen · Stadtweit / global · Ohne Anteilsabgabe) — **Rabatte auf Hardware und Cloud-Computing, DLI-Schulungsguthaben und weltweite Sichtbarkeit**. Berechtigte KI-Startups in der Frühphase; Registrierung, Entwicklungsstand, Gründungsdatum und regionale Kriterien werden geprüft. Cloud-Guthaben unterliegen gesonderten Vereinbarungen mit Partnern. (Laufende Online-Bewerbung; regionale Prüfung der Förderfähigkeit). [Programm veröffentlicht; Prüfung der Förderfähigkeit erforderlich]"
+msgstr ":doc:`NVIDIA Inception (Programmleistungen und Ökosystem-Support) <funding/nvidia-service>` (英伟达初创加速计划 · Sach- und Dienstleistungen · Stadtweit / global · Ohne Anteilsabgabe) — **Kostenlose Mitgliedschaft; Leistungen des Partnernetzwerks unterliegen Bedingungen; kein Barzuschuss**. Berechtigte KI-Startups in der Frühphase; Registrierung, Entwicklungsstand, Gründungsdatum und regionale Kriterien werden geprüft. Cloud-Guthaben unterliegen gesonderten Vereinbarungen mit Partnern. (Online-Antragstellung; Prüfung der regionalen Förderfähigkeit). [Programm veröffentlicht; Prüfung der Förderfähigkeit erforderlich]"
 
 #: ../../funding.rst:28
 msgid ""
@@ -221,7 +221,7 @@ msgid ""
 "Do not substitute global AWS account rules or credit ceilings. Timing: "
 "Confirm current package and expiration. [Status: Regional eligibility to "
 "confirm]"
-msgstr ":doc:`AWS China Activate Guthaben <funding/aws-credit>` (亚马逊云科技中国区Activate积分 · Cloud-Guthaben · Stadtweit / global · Keine Anteilsabgabe im Angebot ausgewiesen; Konditionen prüfen) — **Paketspezifische Aktionsguthaben für berechtigte chinesische Cloud-Dienste**. In China gegründete, nicht börsennotierte Startups mit qualifiziertem Neukundenstatus oder Anbindung an anerkannte Risikokapitalgeber und Akzeleratoren. Die Regeln globaler AWS-Konten sind nicht übertragbar. (Aktuelle Paketbedingungen und Gültigkeitsfristen beachten). [Regionale Förderfähigkeit zu bestätigen]"
+msgstr ":doc:`AWS China Activate Guthaben <funding/aws-credit>` (亚马逊云科技中国区Activate积分 · Cloud-Guthaben · Stadtweit / global · Keine Anteilsabgabe im Angebot ausgewiesen; Konditionen prüfen) — **Paketspezifische Aktionsguthaben für berechtigte chinesische Cloud-Dienste**. In China gegründete, nicht börsennotierte Startups mit qualifiziertem Neukundenstatus oder Anbindung an anerkannte Risikokapitalgeber und Akzeleratoren. Die Regeln globaler AWS-Konten sind nicht übertragbar. (Aktuelles Leistungspaket und Gültigkeitsdauer prüfen). [Regionale Förderfähigkeit zu bestätigen]"
 
 #: ../../funding.rst:29
 msgid ""
@@ -232,7 +232,7 @@ msgid ""
 "benefits are not represented as China-region entitlements. Timing: "
 "Confirm current application and credit validity. [Status: Regional "
 "eligibility to confirm]"
-msgstr ":doc:`Microsoft-Cloudressourcen für Startups (Microsoft for Startups) <funding/azure-credit>` (微软创业云资源 · Cloud-Guthaben · Stadtweit / global · Aktuelle Vereinbarung überprüfen) — **Paketabhängige Guthaben für Microsoft-Cloud-Dienste und technische Ressourcen**. Online-Bewerbung und Überprüfung der Voraussetzungen hinsichtlich Unternehmen, Region und Konto. Globale Programmleistungen begründen keinen automatischen Anspruch in der Festlandchina-Region. (Aktuelle Bewerbungsrichtlinien und Nutzungsfristen beachten). [Regionale Förderfähigkeit zu bestätigen]"
+msgstr ":doc:`Microsoft-Cloudressourcen für Startups (Microsoft for Startups) <funding/azure-credit>` (微软创业云资源 · Cloud-Guthaben · Stadtweit / global · Aktuelle Vereinbarung überprüfen) — **Paketabhängige Guthaben für Microsoft-Cloud-Dienste und technische Ressourcen**. Online-Bewerbung und Überprüfung der Voraussetzungen hinsichtlich Unternehmen, Region und Konto. Globale Programmleistungen begründen keinen automatischen Anspruch in der Festlandchina-Region. (Aktuelle Antragsstellung und Guthabengültigkeit prüfen). [Regionale Förderfähigkeit zu bestätigen]"
 
 #: ../../funding.rst:30
 msgid ""
@@ -243,7 +243,7 @@ msgid ""
 "does not establish a universal application form, valuation or "
 "shareholding percentage. Timing: Manager-led sourcing and due diligence. "
 "[Status: Fund announced; deal intake to confirm]"
-msgstr ":doc:`KI-Seed-Fonds Pudong (Eigenkapitalinvestition) <funding/pudong-equity>` (浦东人工智能种子基金 · Eigenkapitalinvestition · Neuer Stadtbezirk Pudong · Verhandlungsbasierte Beteiligung) — **Fondszielvolumen: 2 Mrd. RMB; Ersttranche: 500 Mio. RMB; Ticketgröße pro Startup wird im Einzelfall verhandelt**. KI-Projekte im Seed-Stadium, die den Kriterien und Vorgaben der Fondsmanager entsprechen. Die öffentliche Ankündigung begründet keinen automatischen Anspruch auf Investition, Bewertung oder Beteiligungshöhe. (Projektakquise und Due-Diligence-Prüfung erfolgen fortlaufend durch das Fondsmanagement). [Fonds angekündigt; Dealflow-Aufnahme zu bestätigen]"
+msgstr ":doc:`KI-Seed-Fonds Pudong (Eigenkapitalinvestition) <funding/pudong-equity>` (浦东人工智能种子基金 · Eigenkapitalinvestition · Neuer Stadtbezirk Pudong · Verhandlungsbasierte Beteiligung) — **Angestrebtes Fondsvolumen: 2 Mrd. RMB; erste Tranche: 500 Mio. RMB; kein einheitlicher Investitionsbetrag pro Unternehmen belegt**. KI-Projekte in der Seed-Phase, die zum Mandat des Fondsmanagers passen. Die Ankündigung belegt weder ein allgemeines Antragsformular noch einheitliche Bewertungen oder Beteiligungsquoten. (Projektidentifikation und Due Diligence durch den Fondsmanager). [Fonds angekündigt; Annahme von Investitionsanfragen bestätigen]"
 
 #: ../../funding.rst:31
 msgid ""
@@ -255,7 +255,7 @@ msgid ""
 "stage, domicile, return and ownership terms. Timing: Investment committee "
 "process; no guaranteed award. [Status: Published investment platform; "
 "deal review]"
-msgstr ":doc:`Fonds für Leitindustrien und spezialisierte KI-Fonds <funding/city-equity>` (先导产业与人工智能专项基金 · Eigenkapitalinvestition · Stadtweit / global · Verhandlungsbasierte Beteiligung) — **Beteiligungen richten sich nach dem jeweiligen Investitionsvehikel; das Fondsvolumen entspricht nicht der Einzelförderung**. Unternehmen aus den Branchen KI, Halbleiter, Biomedizin und anderen strategischen Sektoren. Ermitteln Sie den zuständigen Direktinvestitions- oder Teilfondsmanager und prüfen Sie Vorgaben zu Phase, Sitz, Renditeerwartung und Beteiligungsquote. (Entscheidung erfolgt im Rahmen des Investitionsausschusses (kein Rechtsanspruch)). [Investitionsplattform veröffentlicht; Projektprüfung erforderlich]"
+msgstr ":doc:`Fonds für Leitindustrien und spezialisierte KI-Fonds <funding/city-equity>` (先导产业与人工智能专项基金 · Eigenkapitalinvestition · Stadtweit / global · Verhandlungsbasierte Beteiligung) — **Beteiligungen richten sich nach dem jeweiligen Investitionsvehikel; das Fondsvolumen entspricht nicht der Einzelförderung**. Unternehmen aus den Branchen KI, Halbleiter, Biomedizin und anderen strategischen Sektoren. Ermitteln Sie den zuständigen Direktinvestitions- oder Teilfondsmanager und prüfen Sie Vorgaben zu Phase, Sitz, Renditeerwartung und Beteiligungsquote. (Verfahren des Investitionskomitees; keine Fördergarantie). [Investitionsplattform veröffentlicht; Projektprüfung erforderlich]"
 
 #: ../../funding.rst:32
 msgid ""
@@ -268,7 +268,7 @@ msgid ""
 "qualifying model R&D or deployment; review the current quarterly guide. "
 "Timing: Quarterly claims; confirm the current batch. Tel: +86 21 58811024 "
 "ext. 5091. [Status: Quarterly scheme published; current intake to confirm]"
-msgstr ":doc:`Förderung für Rechenleistung, Modelle und Datenkorpora der Zhangjiang KI-Innovationsstadt <funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Kostenerstattung · Neuer Stadtbezirk Pudong · Ohne Anteilsabgabe) — **Bis zu 100 % der anerkannten tatsächlichen Kosten, gedeckelt auf jeweils 1 Mio. RMB pro Kategorie; maximale Förderdauer: 1 Jahr**. KI-Unternehmen, die innerhalb der definierten Grenzen der KI-Stadt registriert sind und operieren sowie nicht vor dem 1. Januar 2025 dorthin gegründet oder umgesiedelt wurden. Die Ausgaben müssen der Entwicklung oder dem Einsatz qualifizierter Modelle dienen. (Vierteljährliche Abrechnung; aktuelle Fristen der Einreichungsrunden beachten). Tel: +86 21 58811024 ext. 5091. [Quartalsprogramm veröffentlicht; aktuelle Runde zu bestätigen]"
+msgstr ":doc:`Förderung für Rechenleistung, Modelle und Datenkorpora der Zhangjiang KI-Innovationsstadt <funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · Kostenerstattung · Neuer Stadtbezirk Pudong · Ohne Anteilsabgabe) — **Bis zu 100 % der anerkannten tatsächlichen Kosten, gedeckelt auf jeweils 1 Mio. RMB pro Kategorie; maximale Förderdauer: 1 Jahr**. KI-Unternehmen, die innerhalb des festgelegten Gebiets registriert und tätig sind und sich dort frühestens am 1. Januar 2025 gegründet oder angesiedelt haben. Nur anerkannte Ausgaben für Modellentwicklung oder Einsatz; aktuelle Quartalsrichtlinie prüfen. (Vierteljährliche Anträge; aktuelle Runde bestätigen). Tel: +86 21 58811024 ext. 5091. [Quartalsprogramm veröffentlicht; aktuelle Runde zu bestätigen]"
 
 #: ../../funding.rst:33
 msgid ""
@@ -281,7 +281,7 @@ msgid ""
 "Timing: First batch closed 27 May 2026, 16:00 China Standard Time; notice "
 "plans quarterly follow-ups. Tel: +86 21 23119377. [Status: First 2026 "
 "batch closed; later batches to verify]"
-msgstr ":doc:`Städtische Gutscheine für Rechenleistung, Token und Sprachkorpora Shanghai 2026 <funding/municipal-ai-vouchers>` (2026模塑申城算力券、模型券、语料券 · Kostenerstattung · Stadtweit / global · Ohne Anteilsabgabe) — **Förderbetrag richtet sich nach Förderkategorie und behördlicher Begutachtung**. Qualifizierte Entwickler und gewerbliche Nutzer von KI-Großmodellen oder KI-Agenten in Shanghai, die anerkannte Dienste von unabhängigen Dritten (keine verbundenen Unternehmen) beschaffen. Vorhaben mit sonstigen städtischen Finanzhilfen sind ausgeschlossen. (Die erste Antragsrunde endete am 27. Mai 2026 um 16:00 Uhr CST; Folgeaufrufe sind quartalsweise vorgesehen). Tel: +86 21 23119377. [Erste Tranche 2026 geschlossen; Folgetranchen zu prüfen]"
+msgstr ":doc:`Städtische Gutscheine für Rechenleistung, Token und Sprachkorpora Shanghai 2026 <funding/municipal-ai-vouchers>` (2026模塑申城算力券、模型券、语料券 · Kostenerstattung · Stadtweit / global · Ohne Anteilsabgabe) — **Förderbetrag richtet sich nach Förderkategorie und behördlicher Begutachtung**. Berechtigte Shanghaier Entwickler und Nutzer von KI-Modellen oder Agenten, die anerkannte Leistungen von unabhängigen Anbietern beziehen. Projekte mit anderer städtischer Finanzförderung sind ausgeschlossen. (Erste Runde am 27. Mai 2026 um 16:00 Uhr China-Standardzeit geschlossen; Folgeanträge laut Ausschreibung quartalsweise geplant). Tel: +86 21 23119377. [Erste Tranche 2026 geschlossen; Folgetranchen zu prüfen]"
 
 #: ../../funding.rst:34
 msgid ""
@@ -292,7 +292,7 @@ msgid ""
 "criteria, collateral, rates, repayment, application steps and contacts by "
 "product. IP ownership and bank assessment matter. Timing: "
 "Product-specific. [Status: 2026 directory published; lender review]"
-msgstr ":doc:`Produktkatalog für IP-gestützte Finanzierungen Shanghai <funding/ip-finance>` (上海知识产权金融产品清单 · Darlehen / Versicherung · Stadtweit / global · Ohne Anteilsabgabe; Produktauflagen gelten) — **Kredit-, Versicherungs- und Treuhandkonditionen richten sich nach der jeweiligen Bank und dem Finanzprodukt**. Der Katalog des Amts für geistiges Eigentum listet Anforderungen an Kreditnehmer, Sicherheiten, Zinssätze, Rückzahlungsmodalitäten und Antragswege je Produkt auf. Eigenes IP und Bonitätsprüfung der Bank sind maßgeblich. (Produktspezifisch fortlaufend). [Verzeichnis 2026 veröffentlicht; Prüfung durch Kreditgeber erforderlich]"
+msgstr ":doc:`Produktkatalog für IP-gestützte Finanzierungen Shanghai <funding/ip-finance>` (上海知识产权金融产品清单 · Darlehen / Versicherung · Stadtweit / global · Ohne Anteilsabgabe; Produktauflagen gelten) — **Kredit-, Versicherungs- und Treuhandkonditionen richten sich nach der jeweiligen Bank und dem Finanzprodukt**. Das Verzeichnis der IP-Behörde 2026 nennt Anforderungen an Kreditnehmer, Sicherheiten, Zinsen, Rückzahlung, Antragsschritte und Kontakte je Produkt. IP-Rechte und Bankprüfung sind maßgeblich. (Produktspezifisch). [Verzeichnis 2026 veröffentlicht; Prüfung durch Kreditgeber erforderlich]"
 
 #: ../../funding.rst:35
 msgid ""
@@ -304,9 +304,50 @@ msgid ""
 "and new products. Recognition, insurance compensation, procurement and "
 "R&D support are separate mechanisms; obtain the current call. Timing: "
 "Track-specific notices. [Status: Published route; current call to confirm]"
-msgstr ":doc:`Förderpfade für Erstausrüstungen, Erst-Tape-Outs, Neumaterialien und Erstversions-Software <funding/first-use>` (首台套、首轮流片、首批次材料、首版次软件路径 · Zuschuss / Marktzugang · Stadtweit / global · Keine Anteilsabgabe bei qualifizierter öffentlicher Förderung) — **Programmspezifische Festlegung; keine einheitliche Obergrenze**. Die Shanghaier Förderpolitik sieht diese Pfade für spezialisierte, innovative KMU („Little Giants“ / spezialisierte KMU) und neuartige Produkte vor. Technische Anerkennung, Versicherungsprämienzuschüsse, Beschaffungsboni und F&E-Hilfen sind getrennte Mechanismen; aktuelle Richtlinien einholen. (Fachbereichsspezifische Ausschreibungen). [Förderweg veröffentlicht; aktuelle Ausschreibung zu bestätigen]"
+msgstr ":doc:`Förderpfade für Erstausrüstungen, Erst-Tape-Outs, Neumaterialien und Erstversions-Software <funding/first-use>` (首台套、首轮流片、首批次材料、首版次软件路径 · Zuschuss / Marktzugang · Stadtweit / global · Keine Anteilsabgabe bei qualifizierter öffentlicher Förderung) — **Programmspezifische Festlegung; keine einheitliche Obergrenze**. Die Shanghaier Politik nennt diese Wege für berechtigte spezialisierte KMU und neue Produkte. Anerkennung, Versicherungsausgleich, Beschaffung und F&E-Förderung sind verschiedene Instrumente. Aktuelle Ausschreibung einholen. (Ausschreibungen der einzelnen Tracks). [Förderweg veröffentlicht; aktuelle Ausschreibung zu bestätigen]"
 
 #: ../../funding.rst:36
+msgid ""
+":doc:`Shanghai early-stage startup social-insurance subsidy "
+"<funding/startup-insurance>` (上海初创期创业组织社会保险补贴 · Reimbursement · Citywide "
+"/ global · No equity) — **50% of specified employer contributions at the "
+"minimum contribution base; up to 8 people per month, within 36 months of "
+"registration**. Eligibility: Qualifying new startup organizations led by "
+"eligible local workers or specified residence/returnee categories, after "
+"employing workers for 6 months. Support is calculated against eligible "
+"local workers; avoid duplicate employment subsidies for the same person. "
+"Timing: Policy through 31 Dec 2027; confirm district procedure. [Status: "
+"Policy in force; call not confirmed open]"
+msgstr ":doc:`Shanghai: Sozialversicherungszuschuss für junge Gründungen <funding/startup-insurance>` (上海初创期创业组织社会保险补贴 · Kostenerstattung · Stadtweit / global · Ohne Anteilsabgabe) — **50 % bestimmter Arbeitgeberbeiträge auf Basis der Mindestbeitragsgrundlage; höchstens 8 Personen pro Monat, innerhalb von 36 Monaten ab Registrierung**. Berechtigte Neugründungen durch lokale Beschäftigte oder Personen der festgelegten Wohnsitz- bzw. Rückkehrerkategorien nach 6 Monaten Beschäftigung. Berechnung anhand berechtigter lokaler Beschäftigter; keine doppelten Beschäftigungszuschüsse für dieselbe Person. (Richtlinie bis 31. Dezember 2027; Bezirksverfahren bestätigen). [Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet]"
+
+#: ../../funding.rst:37
+msgid ""
+":doc:`Shanghai pre-registration incubation rent subsidy "
+"<funding/startup-incubation-rent>` (上海创业孵化期场地房租补贴 · Reimbursement · "
+"Citywide / global · No equity) — **Actual workstation cost before "
+"registration; up to RMB 10,000 and at most 6 months**. Eligibility: Teams "
+"entering a municipal demonstration incubation base and establishing a "
+"qualifying startup organization during incubation. Only the period from "
+"admission to registration is covered. Ask the base and district "
+"employment service for the current evidence and filing procedure. Timing: "
+"Policy through 31 Dec 2027; confirm district procedure. [Status: Policy "
+"in force; call not confirmed open]"
+msgstr ":doc:`Shanghai: Mietzuschuss während der Inkubation vor Registrierung <funding/startup-incubation-rent>` (上海创业孵化期场地房租补贴 · Kostenerstattung · Stadtweit / global · Ohne Anteilsabgabe) — **Tatsächliche Arbeitsplatzkosten vor der Registrierung; höchstens 10.000 RMB und maximal 6 Monate**. Teams in einer städtischen Demonstrations-Inkubationsbasis, die während der Inkubation eine berechtigte Gründungsorganisation errichten. Nur der Zeitraum zwischen Aufnahme und Registrierung zählt. Nachweise und Verfahren bei Basis und Bezirksarbeitsservice bestätigen. (Richtlinie bis 31. Dezember 2027; Bezirksverfahren bestätigen). [Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet]"
+
+#: ../../funding.rst:38
+msgid ""
+":doc:`Shanghai first-startup one-off subsidy "
+"<funding/first-startup-subsidy>` (上海首次创业一次性补贴 · Grant · Citywide / global "
+"· No equity) — **One-off RMB 8,000 for qualifying founders**. "
+"Eligibility: Shanghai-hukou graduates within 2 years of graduation or "
+"recognized local people with employment difficulties. First qualifying "
+"startup must have operated for 1 year and paid employee social insurance "
+"for at least one person for 6 months. This is not a universal "
+"incorporation award. Timing: Policy through 31 Dec 2027; confirm district "
+"procedure. [Status: Policy in force; call not confirmed open]"
+msgstr ":doc:`Shanghai: Einmalzuschuss für die erste Gründung <funding/first-startup-subsidy>` (上海首次创业一次性补贴 · Zuschuss · Stadtweit / global · Ohne Anteilsabgabe) — **Einmalig 8.000 RMB für berechtigte Gründer**. Hochschulabsolventen mit Shanghai-Hukou innerhalb von 2 Jahren nach Abschluss oder anerkannte lokale Personen mit Beschäftigungsschwierigkeiten. Die erste berechtigte Gründung muss seit 1 Jahr bestehen und für mindestens eine Person 6 Monate Sozialversicherung bezahlt haben. Keine allgemeine Gründungsprämie. (Richtlinie bis 31. Dezember 2027; Bezirksverfahren bestätigen). [Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet]"
+
+#: ../../funding.rst:39
 msgid ""
 ":doc:`Changning AI Industry Projects, 2026 <funding/changning-ai-2026>` "
 "(2026长宁人工智能产业项目 · Grant · Changning · No equity) — **Project-specific "
@@ -315,9 +356,9 @@ msgid ""
 "with normal operations and good credit. The call covers multiple AI, "
 "software, technology-service and market-development directions. Timing: "
 "Closed 30 June 2026. [Status: Closed]"
-msgstr ":doc:`Projekte der KI-Industrie Changning 2026 <funding/changning-ai-2026>` (2026长宁人工智能产业项目 · Zuschuss · Bezirk Changning · Ohne Anteilsabgabe) — **Projektspezifische Förderung nach Begutachtung; keine einheitliche Pauschale**. Rechtmäßig gegründete juristische und nicht-juristische Einheiten in Changning mit ordnungsgemäßem Geschäftsbetrieb und guter Bonität. Der Aufruf umfasst Schwerpunkte in KI, Software, Technologiedienstleistungen und Markterschließung. (Bewerbungsschluss war der 30. Juni 2026). [Geschlossen]"
+msgstr ":doc:`Projekte der KI-Industrie Changning 2026 <funding/changning-ai-2026>` (2026长宁人工智能产业项目 · Zuschuss · Bezirk Changning · Ohne Anteilsabgabe) — **Projektspezifische Förderung nach Begutachtung; keine einheitliche Pauschale**. Rechtmäßig gegründete Organisationen mit oder ohne Rechtspersönlichkeit in Changning, mit regulärem Betrieb und guter Bonität. Mehrere Förderrichtungen für KI, Software, Technologiedienstleistungen und Markterschließung. (Bewerbungsschluss war der 30. Juni 2026). [Bewerbungsfrist abgelaufen]"
 
-#: ../../funding.rst:37
+#: ../../funding.rst:40
 msgid ""
 ":doc:`Changning Technology Star Teams, 2026 "
 "<funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · Changning · No "
@@ -327,9 +368,9 @@ msgid ""
 "lawfully in Changning. Required evidence includes research outcomes, "
 "employment contracts and commitments. Timing: Closed 26 June 2026. Tel: "
 "+86 21 22050986. [Status: Closed]"
-msgstr ":doc:`Technologie-Star-Teams Changning 2026 <funding/changning-tech-star>` (2026长宁科技之星团队 · Zuschuss · Bezirk Changning · Ohne Anteilsabgabe) — **Finanzielle Unterstützung für begutachtete und anerkannte Teams im Rahmen des bezirklichen Talentfonds**. Berechtigte Teams in KI, industriellem Internet und Biomedizin bei rechtmäßig in Changning angesiedelten oder tätigen Organisationen. Erforderliche Nachweise umfassen Forschungsergebnisse, Arbeitsverträge und Verpflichtungserklärungen. (Bewerbungsschluss war der 26. Juni 2026). Tel: +86 21 22050986. [Geschlossen]"
+msgstr ":doc:`Technologie-Star-Teams Changning 2026 <funding/changning-tech-star>` (2026长宁科技之星团队 · Zuschuss · Bezirk Changning · Ohne Anteilsabgabe) — **Finanzielle Unterstützung für begutachtete und anerkannte Teams im Rahmen des bezirklichen Talentfonds**. Berechtigte Teams für KI, industrielles Internet und Biomedizin an rechtmäßig gegründeten oder tätigen Organisationen in Changning. Unter anderem Forschungsnachweise, Arbeitsverträge und Verpflichtungserklärungen vorlegen. (Bewerbungsschluss war der 26. Juni 2026). Tel: +86 21 22050986. [Bewerbungsfrist abgelaufen]"
 
-#: ../../funding.rst:38
+#: ../../funding.rst:41
 msgid ""
 ":doc:`Putuo Technology Enterprise Seed Plan, second 2026 batch "
 "<funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Grant · Putuo · No equity) — "
@@ -339,9 +380,9 @@ msgid ""
 "by stamped paper materials through the responsible investment promotion "
 "center; the science commission evaluates the project. Timing: Closed 31 "
 "August 2026. Tel: +86 21 52564588 ext. 8627. [Status: Closed]"
-msgstr ":doc:`Saatgut-Plan für Technologieunternehmen Putuo 2026 (Zweite Tranche) <funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Zuschuss · Bezirk Putuo · Ohne Anteilsabgabe) — **300.000 RMB pro ausgewähltem Unternehmen; 50 % bei Bewilligung, Restzahlung nach einjähriger Entwicklungsprüfung**. Rechtmäßig gegründete Technologieunternehmen mit einwandfreier Bonität. Die Online-Bewerbung wird durch gestempelte Unterlagen über das zuständige Investitionsförderungszentrum ergänzt; die Wissenschaftskommission bewertet das Projekt. (Bewerbungsschluss war der 31. August 2026). Tel: +86 21 52564588 ext. 8627. [Geschlossen]"
+msgstr ":doc:`Saatgut-Plan für Technologieunternehmen Putuo 2026 (Zweite Tranche) <funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Zuschuss · Bezirk Putuo · Ohne Anteilsabgabe) — **300.000 RMB pro ausgewähltem Unternehmen; 50 % bei Bewilligung, Restzahlung nach einjähriger Entwicklungsprüfung**. Rechtmäßig gegründete Technologieunternehmen mit guter Bonität. Zusätzlich zum Onlineantrag sind gestempelte Papierunterlagen über das zuständige Investitionsförderzentrum einzureichen. Die Wissenschaftskommission bewertet das Projekt. (Bewerbungsschluss war der 31. August 2026). Tel: +86 21 52564588 ext. 8627. [Bewerbungsfrist abgelaufen]"
 
-#: ../../funding.rst:39
+#: ../../funding.rst:42
 msgid ""
 ":doc:`Putuo intelligent software industry support, 2026 "
 "<funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Grant / "
@@ -352,9 +393,9 @@ msgid ""
 "breakthroughs and other directions; approval and eligible periods differ. "
 "Timing: Closed 26 June 2026. Tel: +86 21 52564588 ext. 7166. [Status: "
 "Closed]"
-msgstr ":doc:`Sonderprogramm für intelligente Softwareindustrie Putuo 2026 <funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Zuschuss / Kostenerstattung · Bezirk Putuo · Ohne Anteilsabgabe) — **Richtungsspezifische Zuschüsse für F&E, Rechenleistung, Ergänzung von Erstprodukten und technologische Durchbrüche**. Organisationen mit guter Bonität. Die Ausschreibung unterscheidet zwischen F&E-Kooperationen, Rechenleistungsnutzung für Modelle und Agenten sowie zertifizierten technologischen Durchbrüchen; Bewilligungskriterien und förderfähige Zeiträume variieren. (Bewerbungsschluss war der 26. Juni 2026). Tel: +86 21 52564588 ext. 7166. [Geschlossen]"
+msgstr ":doc:`Sonderprogramm für intelligente Softwareindustrie Putuo 2026 <funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Zuschuss / Kostenerstattung · Bezirk Putuo · Ohne Anteilsabgabe) — **Je nach Förderrichtung Unterstützung für F&E, Rechenleistung, die Kofinanzierung erster Produkte und weitere Leistungen**. Organisationen mit oder ohne Rechtspersönlichkeit und guter Bonität. Getrennte Förderrichtungen für gemeinsame F&E, Rechenleistung für Modelle und Agenten, anerkannte technische Durchbrüche und weitere Vorhaben. Genehmigungen und förderfähige Zeiträume unterscheiden sich. (Bewerbungsschluss war der 26. Juni 2026). Tel: +86 21 52564588 ext. 7166. [Bewerbungsfrist abgelaufen]"
 
-#: ../../funding.rst:40
+#: ../../funding.rst:43
 msgid ""
 ":doc:`Putuo R&D Platform Projects, 2026 <funding/putuo-rd-platform>` "
 "(2026普陀科技研发平台项目 · Grant · Putuo · No equity) — **Up to RMB 2 million; "
@@ -364,9 +405,9 @@ msgid ""
 "review; credit commitments and prescribed materials are required. Timing: "
 "Confirm the deadline in the September 2026 notice. Tel: +86 21 52564588 "
 "ext. 8628. [Status: 2026 call published; not confirmed open]"
-msgstr ":doc:`Projekte für technologische F&E-Plattformen Putuo 2026 <funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · Zuschuss · Bezirk Putuo · Ohne Anteilsabgabe) — **Bis zu 2 Mio. RMB; Erstauszahlung maximal 50 %, Restzahlung vorbehaltlich der erfolgreichen Projektabnahme**. Rechtmäßig gegründete Organisationen mit guter Bonität, die qualifizierte F&E-Plattformen aufbauen. Die Online-Registrierung erfordert eine bezirkliche Prüfung; Bonitätsverpflichtungen und vorgeschriebene Nachweise sind einzureichen. (Genaue Frist der Bekanntmachung vom September 2026 entnehmen). Tel: +86 21 52564588 ext. 8628. [Ausschreibung 2026 veröffentlicht; nicht nachweislich geöffnet]"
+msgstr ":doc:`Projekte für technologische F&E-Plattformen Putuo 2026 <funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · Zuschuss · Bezirk Putuo · Ohne Anteilsabgabe) — **Bis zu 2 Mio. RMB; Erstauszahlung maximal 50 %, Restzahlung vorbehaltlich der erfolgreichen Projektabnahme**. Rechtmäßig gegründete Organisationen mit oder ohne Rechtspersönlichkeit und guter Bonität, die förderfähige F&E-Plattformen aufbauen. Online-Registrierung nach Prüfung durch den Bezirk; Bonitätserklärungen und vorgeschriebene Unterlagen erforderlich. (Genaue Frist der Bekanntmachung vom September 2026 entnehmen). Tel: +86 21 52564588 ext. 8628. [Ausschreibung 2026 veröffentlicht; nicht nachweislich geöffnet]"
 
-#: ../../funding.rst:41
+#: ../../funding.rst:44
 msgid ""
 ":doc:`Songjiang technology-enterprise innovation and matching support "
 "<funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Grant · Songjiang · No "
@@ -377,9 +418,9 @@ msgid ""
 "and voucher provisions must be checked separately. Timing: Policy: 1 "
 "January 2026 to 31 December 2027; confirm the applicable call. [Status: "
 "Policy in force; call not confirmed open]"
-msgstr ":doc:`Innovationsförderung und Kofinanzierung für Technologieunternehmen Songjiang <funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Zuschuss · Bezirk Songjiang · Ohne Anteilsabgabe) — **Bezirkliche Innovationsprojekte: bis zu 100.000 RMB; bewilligte städtische Innovationsprojekte werden laut Richtlinie im Verhältnis 1:1 kofinanziert**. Qualifizierte Technologieunternehmen gemäß dem Umsetzungsplan 2026–2028 von Songjiang; bewilligte Projekte des städtischen Innovationsfonds für KMU qualifizieren sich für die bezirkliche Kofinanzierung. (Geltendes Einreichungsfenster für den Jahresaufruf 2026 prüfen). [Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet]"
+msgstr ":doc:`Innovationsförderung und Kofinanzierung für Technologieunternehmen Songjiang <funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Zuschuss · Bezirk Songjiang · Ohne Anteilsabgabe) — **Bezirkliche Innovationsprojekte: bis zu 100.000 RMB; bewilligte städtische Innovationsprojekte werden laut Richtlinie im Verhältnis 1:1 kofinanziert**. Förderfähige Technologieunternehmen nach den Maßnahmen 2026–2027 und den Durchführungsregeln. Bestimmungen zu Anerkennung, Verwertung und Gutscheinen jeweils getrennt prüfen. (Geltendes Einreichungsfenster für den Jahresaufruf 2026 prüfen). [Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet]"
 
-#: ../../funding.rst:42
+#: ../../funding.rst:45
 msgid ""
 ":doc:`Qingpu digital economy compute reimbursement, September 2026 costs "
 "<funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Reimbursement · Qingpu · No "
@@ -390,9 +431,9 @@ msgid ""
 "fiscal support for the same project and year is generally excluded. "
 "Timing: Closed 23 October 2026, 17:00 China Standard Time. [Status: "
 "Closed]"
-msgstr ":doc:`Erstattung von Rechenleistungskosten für die digitale Wirtschaft Qingpu (Kosten September 2026) <funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Kostenerstattung · Bezirk Qingpu · Ohne Anteilsabgabe) — **Fördersatz und Höchstbetrag richten sich nach den Richtlinien für die digitale Wirtschaft; bezuschusst werden nachgewiesene Rechnungen für den Monat September 2026**. In Qingpu tätige Unternehmen der digitalen Wirtschaft und KI-Teams, die im September 2026 qualifizierte Rechenzentrumsdienste in Anspruch genommen haben; offizielle Rechnungen und Zahlungsnachweise sind erforderlich. (Antragsfrist der Bekanntmachung vom Oktober 2026 prüfen). [Geschlossen]"
+msgstr ":doc:`Erstattung von Rechenleistungskosten für die digitale Wirtschaft Qingpu (Kosten September 2026) <funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Kostenerstattung · Bezirk Qingpu · Ohne Anteilsabgabe) — **Fördersatz und Höchstbetrag richten sich nach den Richtlinien für die digitale Wirtschaft; bezuschusst werden nachgewiesene Rechnungen für den Monat September 2026**. Förderfähige Anmietung von KI-Rechenleistung für F&E bei unabhängigen Anbietern. Speicher, Netzwerk und Sicherheit sind ausgeschlossen. Anbieter benötigen die verlangte IDC-/ISP-Lizenz. Andere öffentliche Förderung für dasselbe Projekt und Jahr ist grundsätzlich ausgeschlossen. (Antragsfrist der Bekanntmachung vom Oktober 2026 prüfen). [Bewerbungsfrist abgelaufen]"
 
-#: ../../funding.rst:43
+#: ../../funding.rst:46
 msgid ""
 ":doc:`Fengxian R&D expenditure increase reimbursement, 2026 "
 "<funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Reimbursement · "
@@ -403,9 +444,9 @@ msgid ""
 "online and route the paper pack through the recommending unit. Timing: "
 "Online closed 17 June 2026, 17:00; paper closed 30 June 2026, 17:00 China "
 "Standard Time. Tel: +86 21 33610530. [Status: Closed]"
-msgstr ":doc:`Zuschuss für F&E-Aufwandssteigerung Fengxian 2026 <funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Kostenerstattung · Bezirk Fengxian · Ohne Anteilsabgabe) — **Staffelung nach dem tatsächlichen Zuwachs der F&E-Ausgaben im Jahresvergleich; Festlegung gemäß Bezirksrichtlinie**. Im Bezirk Fengxian steuerlich geführte Technologieunternehmen, deren F&E-Ausgaben im Vergleich zum Vorjahr nachweislich gestiegen sind; Wirtschaftsprüfungsbericht und steuerliche Nachweise erforderlich. (Einreichungsfenster der Jahresbekanntmachung 2026 beachten). Tel: +86 21 33610530. [Geschlossen]"
+msgstr ":doc:`Zuschuss für F&E-Aufwandssteigerung Fengxian 2026 <funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Kostenerstattung · Bezirk Fengxian · Ohne Anteilsabgabe) — **30 % des förderfähigen jährlichen Nettozuwachses der F&E-Ausgaben, höchstens 1 Mio. RMB**. Gültig anerkanntes Hightech-Unternehmen oder 2025 registriertes Technologie-KMU. Steuerabschlüsse und Nachweise zum zusätzlichen F&E-Abzug für 2024 und 2025 sind erforderlich. Online einreichen und Papierunterlagen über die empfehlende Stelle weiterleiten. (Einreichungsfenster der Jahresbekanntmachung 2026 beachten). Tel: +86 21 33610530. [Bewerbungsfrist abgelaufen]"
 
-#: ../../funding.rst:44
+#: ../../funding.rst:47
 msgid ""
 ":doc:`Fengxian SME Technology Innovation Key Projects, 2026 "
 "<funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Grant · Fengxian "
@@ -415,9 +456,9 @@ msgid ""
 "revenue, at most 500 employees and at least 10% R&D staff, plus "
 "additional conditions. Timing: Online closed 21 June 2026; paper closed "
 "30 June 2026. Tel: +86 21 37188010. [Status: Closed]"
-msgstr ":doc:`Schwerpunktprojekte des Technologiefonds für KMU Fengxian 2026 <funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Zuschuss · Bezirk Fengxian · Ohne Anteilsabgabe) — **Bezirkliche Sonderzuschüsse für herausragende Vorhaben technologiebasierter KMU**. Technologieorientierte KMU in Fengxian mit hoher Innovationskraft in den Branchen Biomedizin, neue Materialien, intelligente Fertigung und digitale Wirtschaft. (Fristen der bezirklichen Wissenschaftskommission für das laufende Antragsjahr beachten). Tel: +86 21 37188010. [Geschlossen]"
+msgstr ":doc:`Schwerpunktprojekte des Technologiefonds für KMU Fengxian 2026 <funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Zuschuss · Bezirk Fengxian · Ohne Anteilsabgabe) — **Bis zu 250.000 RMB; in der Regel zwei Raten, Schlussabrechnung nach Projektabnahme**. Die Ausschreibung 2026 verlangt Vorjahresumsatz von 30–200 Mio. RMB, F&E-Ausgaben von mindestens 1,2 Mio. RMB und 4 % des Umsatzes, höchstens 500 Beschäftigte und mindestens 10 % F&E-Personal. Weitere Bedingungen gelten. (Onlinefrist: 21. Juni 2026; Papierfrist: 30. Juni 2026, beide abgelaufen). Tel: +86 21 37188010. [Bewerbungsfrist abgelaufen]"
 
-#: ../../funding.rst:45
+#: ../../funding.rst:48
 msgid ""
 ":doc:`Chongming early-stage enterprise development subsidy, 2026 "
 "<funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Grant · Chongming · "
@@ -429,9 +470,9 @@ msgid ""
 "Policy: 1 August to 31 December 2026, with qualifying cases since 1 "
 "January; confirm intake. [Status: Policy in force; call not confirmed "
 "open]"
-msgstr ":doc:`Entwicklungszuschuss für Frühphasenunternehmen Chongming 2026 <funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Zuschuss · Bezirk Chongming · Ohne Anteilsabgabe) — **Projektbezogene Anschub- und Mietkostenzuschüsse für neu gegründete Unternehmen**. Neu registrierte Technologie-Startups im Bezirk Chongming mit Fokus auf Öko-Landwirtschaft, grüne Energie, Umwelttechnik und smarte maritime Systeme. (Laufende Einreichung gemäß den Bekanntmachungen des Bezirks Chongming). [Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet]"
+msgstr ":doc:`Entwicklungszuschuss für Frühphasenunternehmen Chongming 2026 <funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Zuschuss · Bezirk Chongming · Ohne Anteilsabgabe) — **Bis zu 100.000 RMB für ein förderfähiges Gründungsprojekt, das als besonders gut bewertet wurde**. Gründungsorganisationen in einem Inkubator oder mit enger Unterstützung eines Gemeindeparks, mit förderfähigen Innovationen in neuen Branchen oder Nischen und Wachstumspotenzial. Die Juli-Richtlinie ist von den ausgelaufenen Wissenschaftsmaßnahmen 2024 zu unterscheiden. (Richtlinie: 1. August bis 31. Dezember 2026; förderfähige Fälle seit 1. Januar einbezogen. Aktuelle Annahme bestätigen). [Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet]"
 
-#: ../../funding.rst:46
+#: ../../funding.rst:49
 msgid ""
 ":doc:`Hongkou international and overseas young talent support, first 2026 "
 "batch <funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · Grant · "
@@ -441,9 +482,9 @@ msgid ""
 "apply. Email pre-review is followed by paper submission at the district "
 "talent service center; this is not a grant for every foreign founder. "
 "Timing: Closed 31 March 2026. Tel: +86 21 65123028. [Status: Closed]"
-msgstr ":doc:`Förderung für internationale Spitzen- und ausländische Nachwuchstalente Hongkou 2026 (Erste Tranche) <funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · Zuschuss · Bezirk Hongkou · Ohne Anteilsabgabe) — **Wohnungs- und Forschungszuschüsse sowie Ansiedlungsprämien gemäß bezirklichem Talentförderprogramm**. Hochqualifizierte Fachkräfte und Forscher aus dem Ausland, die in Hongkou in Schwerpunktsektoren (Fintech, grüne Schifffahrt, digitale Medien, KI) tätig werden. (Frist der ersten Ausschreibungstranche 2026 beachten). Tel: +86 21 65123028. [Geschlossen]"
+msgstr ":doc:`Förderung für internationale Spitzen- und ausländische Nachwuchstalente Hongkou 2026 (Erste Tranche) <funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · Zuschuss · Bezirk Hongkou · Ohne Anteilsabgabe) — **Anerkannte Spitzenfachkräfte und Kernteam: bis zu 1 Mio. RMB; förderfähige junge Fachkräfte aus dem Ausland: 50.000 RMB pro Person**. Strenge kategorienabhängige Anerkennungs- und Beschäftigungsvorgaben in Hongkou. Vorprüfung per E-Mail, danach Papierunterlagen beim Talentservicezentrum des Bezirks. Kein Zuschuss für jeden ausländischen Gründer. (Frist der ersten Ausschreibungstranche 2026 beachten). Tel: +86 21 65123028. [Bewerbungsfrist abgelaufen]"
 
-#: ../../funding.rst:47
+#: ../../funding.rst:50
 msgid ""
 ":doc:`Jiading Future Industry Fund <funding/jiading-future-fund>` "
 "(嘉定未来产业基金 · Equity investment · Jiading · Negotiated equity) — "
@@ -453,9 +494,9 @@ msgid ""
 "subfund route, stage and domicile requirements. Fund scale is not a "
 "per-company award. Timing: Manager-led sourcing; current deal intake to "
 "confirm. [Status: Fund announced; deal intake to confirm]"
-msgstr ":doc:`Zukunftsindustriefonds Jiading <funding/jiading-future-fund>` (嘉定未来产业基金 · Eigenkapitalinvestition · Bezirk Jiading · Verhandlungsbasierte Beteiligung) — **Staatlich gestützter Investitionsfonds; Beteiligungsbeträge und Konditionen werden im Einzelfall durch den Investitionsausschuss festgelegt**. Innovative Unternehmen in Früh- und Wachstumsphasen mit Ausrichtung auf intelligente vernetzte Fahrzeuge (ICV), Photonik/Optoelektronik, KI-Hardware und Sensorik im Bezirk Jiading. (Fortlaufende Projektprüfung durch das Fondsmanagement). [Fonds angekündigt; Dealflow-Aufnahme zu bestätigen]"
+msgstr ":doc:`Zukunftsindustriefonds Jiading <funding/jiading-future-fund>` (嘉定未来产业基金 · Eigenkapitalinvestition · Bezirk Jiading · Verhandlungsbasierte Beteiligung) — **Angekündigtes Fondsvolumen: 800 Mio. RMB; kein einheitlicher Investitionsbetrag pro Unternehmen belegt**. Projekte im aktuellen Zukunftsbranchen-Mandat des Fondsmanagers. Zuständigen Manager, Direkt- oder Unterfondsroute, Phase und Standortvorgaben bestätigen. Das Fondsvolumen ist kein Zuschuss pro Unternehmen. (Fortlaufende Projektprüfung durch das Fondsmanagement). [Fonds angekündigt; Annahme von Investitionsanfragen bestätigen]"
 
-#: ../../funding.rst:48
+#: ../../funding.rst:51
 msgid ""
 ":doc:`Baoshan pre-investment / later equity project call "
 "<funding/baoshan-conversion>` (宝山先投后股项目征集 · Convertible support · Baoshan "
@@ -466,9 +507,9 @@ msgid ""
 "milestone and conversion conditions rather than labelling this an "
 "unrestricted equity-free grant. Timing: Closed 10 February 2026. Tel: +86 "
 "21 56160454. [Status: Closed]"
-msgstr ":doc:`Projektaufruf „Vorab-Investition und spätere Eigenkapitalumwandlung“ Baoshan <funding/baoshan-conversion>` (宝山先投后股项目征集 · Wandelbare Förderung · Bezirk Baoshan · Mögliche Wandlung in Eigenkapital; Vertrag prüfen) — **Anfängliche F&E-Förderung mit der vertraglichen Option auf spätere Umwandlung in eine staatliche Eigenkapitalbeteiligung bei Erreichen definierter Meilensteine**. Wissenschaftliche Ausgründungen und Technologieprojekte in Baoshan aus den Bereichen moderne Werkstoffe, Robotik, Biomedizin und kohlenstoffarme Fertigung. (Einreichungsfristen der jeweiligen Tranche der bezirklichen Wissenschaftskommission beachten). Tel: +86 21 56160454. [Geschlossen]"
+msgstr ":doc:`Projektaufruf „Vorab-Investition und spätere Eigenkapitalumwandlung“ Baoshan <funding/baoshan-conversion>` (宝山先投后股项目征集 · Wandelbare Förderung · Bezirk Baoshan · Mögliche Wandlung in Eigenkapital; Vertrag prüfen) — **Anfängliche F&E-Förderung mit der vertraglichen Option auf spätere Umwandlung in eine staatliche Eigenkapitalbeteiligung bei Erreichen definierter Meilensteine**. Der Förderkalender des Bezirks vom Januar 2026 nennt eine Ausschreibung der Wissenschaftskommission für Vorabförderung mit späterer Eigenkapitalbeteiligung. Empfänger, Meilensteine und Wandlungsbedingungen prüfen; keine bedingungslose Förderung ohne Anteilsabgabe. (Frist am 10. Februar 2026 abgelaufen). Tel: +86 21 56160454. [Bewerbungsfrist abgelaufen]"
 
-#: ../../funding.rst:49
+#: ../../funding.rst:52
 msgid ""
 ":doc:`Huangpu financing and credit product directory "
 "<funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Loan · Huangpu · No "
@@ -478,9 +519,9 @@ msgid ""
 "fees, collateral and repayment depend on the lender and company; the "
 "directory is not an approval. Timing: Product-specific; confirm current "
 "lender terms. [Status: Published directory; lender review]"
-msgstr ":doc:`Finanzierungs- und Kreditproduktkatalog Huangpu <funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Darlehen · Bezirk Huangpu · Ohne Anteilsabgabe; rückzahlungspflichtig) — **Zinsvergünstigte Kredite, Risikokompensationen und Bürgschaften der teilnehmenden Geschäftsbanken**. In Huangpu ansässige Unternehmen, insbesondere aus den Branchen Finanztechnologie, professionelle Dienstleistungen, Konsumtechnologie und digitale Medien, die festgelegte Bonitätsanforderungen erfüllen. (Ganzjährig über die Plattform für Finanz- und Kreditdienstleistungen des Bezirks Huangpu zugänglich). [Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich]"
+msgstr ":doc:`Finanzierungs- und Kreditproduktkatalog Huangpu <funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Darlehen · Bezirk Huangpu · Ohne Anteilsabgabe; rückzahlungspflichtig) — **Bankkredite, Gründungsbürgschaften und IP-besicherte Finanzierung nach den Bedingungen des jeweiligen Produkts**. Konkretes Bankprodukt auf der offiziellen Bezirksplattform auswählen. Kreditberechtigung, Bürgschaft, Zinsen, Gebühren, Sicherheiten und Rückzahlung hängen von Kreditgeber und Unternehmen ab. Ein Verzeichniseintrag ist keine Kreditzusage. (Ganzjährig über die Plattform für Finanz- und Kreditdienstleistungen des Bezirks Huangpu zugänglich). [Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich]"
 
-#: ../../funding.rst:50
+#: ../../funding.rst:53
 msgid ""
 ":doc:`Yangpu financing and credit service platform "
 "<funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Loan · Yangpu · No "
@@ -490,9 +531,9 @@ msgid ""
 "lending, IP-backed products and guarantees have different duties and "
 "underwriting conditions. Timing: Product-specific; confirm current lender "
 "terms. [Status: Published directory; lender review]"
-msgstr ":doc:`Dienstleistungsplattform für Finanzierungs- und Kreditprodukte Yangpu <funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Darlehen · Bezirk Yangpu · Ohne Anteilsabgabe; rückzahlungspflichtig) — **Maßgeschneiderte Darlehensprodukte, Technologiedarlehen und IP-besicherte Kredite mit bezirklichen Zinszuschüssen**. Technologieunternehmen und innovative KMU mit Sitz in Yangpu; Kreditwürdigkeitsprüfung über die offizielle Bezirksplattform. (Fortlaufende Antragsmöglichkeit über die Online-Kreditplattform von Yangpu). [Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich]"
+msgstr ":doc:`Dienstleistungsplattform für Finanzierungs- und Kreditprodukte Yangpu <funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Darlehen · Bezirk Yangpu · Ohne Anteilsabgabe; rückzahlungspflichtig) — **Technologiekredite und IP-Finanzierung nach Produkt; keine allgemeine Obergrenze**. Über die Bezirksplattform einen konkreten Kreditgeber und ein Produkt bestimmen. Technologiekredite mit Leistungsbürgschaft, IP-besicherte Produkte und Garantien haben unterschiedliche Pflichten und Bonitätsprüfungen. (Fortlaufende Antragsmöglichkeit über die Online-Kreditplattform von Yangpu). [Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich]"
 
-#: ../../funding.rst:51
+#: ../../funding.rst:54
 msgid ""
 ":doc:`Jing'an Service Industry Guidance Fund and AI Demonstration "
 "Support, 2026 <funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · "
@@ -506,7 +547,7 @@ msgid ""
 "window. [Status: 2026 call published; deadline check required]"
 msgstr ":doc:`Leitfonds für den Dienstleistungssektor und KI-Demonstrationsförderung Jing'an 2026 <funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · Zuschuss · Bezirk Jing'an · Ohne Anteilsabgabe) — **Projektzuschüsse für beispielhafte KI-Anwendungsfälle und digitale Transformation im Dienstleistungsbereich**. Unternehmen im Bezirk Jing'an, die richtungsweisende KI-Lösungen in Handel, Finanzdienstleistungen, professionellen Services oder Kulturwirtschaft implementieren. (Ausschreibungsfristen der Jahresbekanntmachung 2026 beachten). [Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen]"
 
-#: ../../funding.rst:52
+#: ../../funding.rst:55
 msgid ""
 ":doc:`Zhangjiang Jinshan Park low-altitude UAV and new materials support "
 "<funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Grant / reimbursement "
@@ -519,7 +560,7 @@ msgid ""
 "implementing batch. [Status: Policy in force; call not confirmed open]"
 msgstr ":doc:`Innovationsförderung für Tiefflug-Drohnen und neue Werkstoffe im Zhangjiang-Park Jinshan <funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Zuschuss / Kostenerstattung · Bezirk Jinshan · Ohne Anteilsabgabe) — **Förderung von F&E, Inkubationsträgern, Prüfdienstleistungen und Industrialisierungsvorhaben gemäß dem Aktionsplan 2025–2026**. Berechtigte Unternehmen und Innovationszentren im Zhangjiang-Park Jinshan, die an unbemannten Flugsystemen (UAV), neuen chemischen und elektronischen Werkstoffen, Biomanufacturing und intelligenter Ausrüstung forschen. (Aktionsplan 2025–2026 in Kraft; aktuelle Antragsfenster der Tranchen prüfen). [Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet]"
 
-#: ../../funding.rst:53
+#: ../../funding.rst:56
 msgid ""
 ":doc:`Yangpu Dream Start Angel Co-investment Fund "
 "<funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Equity investment · Yangpu · "
@@ -530,9 +571,9 @@ msgid ""
 "operating in Yangpu alongside qualifying lead investors. Timing: "
 "Manager-led sourcing and due diligence. [Status: Published investment "
 "platform; deal review]"
-msgstr ":doc:`Angel-Koinvestitionsfonds „Dream Start“ Yangpu <funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Eigenkapitalinvestition · Bezirk Yangpu · Verhandlungsbasierte Beteiligung) — **Bezirkliche staatliche Co-Investitionen für die Frühphase; Einzelbeteiligungen nach Begutachtung durch den Investitionsausschuss**. Technologie-Startups in den Bereichen Hard-Tech, Quantencomputing, neuromorphe KI und universitäre Ausgründungen, die sich in Yangpu ansiedeln oder dort operieren und über eine Zusage eines anerkannten Lead-Investors verfügen. (Fortlaufendes Deal-Sourcing und Due-Diligence durch den Fondsmanager). [Investitionsplattform veröffentlicht; Projektprüfung erforderlich]"
+msgstr ":doc:`Angel-Koinvestitionsfonds „Dream Start“ Yangpu <funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Eigenkapitalinvestition · Bezirk Yangpu · Verhandlungsbasierte Beteiligung) — **Bezirkliche staatliche Co-Investitionen für die Frühphase; Einzelbeteiligungen nach Begutachtung durch den Investitionsausschuss**. Technologie-Startups in den Bereichen Hard-Tech, Quantencomputing, neuromorphe KI und universitäre Ausgründungen, die sich in Yangpu ansiedeln oder dort operieren und über eine Zusage eines anerkannten Lead-Investors verfügen. (Projektidentifikation und Due Diligence durch den Fondsmanager). [Investitionsplattform veröffentlicht; Projektprüfung erforderlich]"
 
-#: ../../funding.rst:54
+#: ../../funding.rst:57
 msgid ""
 ":doc:`Songjiang Data Elements Special Fund, second 2026 batch "
 "<funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · Grant / "
@@ -544,7 +585,7 @@ msgid ""
 "acceptance status. [Status: 2026 call published; deadline check required]"
 msgstr ":doc:`Sonderfonds für Datenelemente Songjiang 2026 (Zweite Tranche) <funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · Zuschuss / Kostenerstattung · Bezirk Songjiang · Ohne Anteilsabgabe) — **Projektbezogene Fördermittel nach den Bestimmungen des bezirklichen Spezialfonds für Datenelemente**. In Songjiang rechtmäßig tätige Unternehmen und Institutionen, die hochqualitative Datensätze aufbauen, Korpus-Governance betreiben, Datenprodukte an Datenbörsen listen oder KI-Datenraum-Anwendungen realisieren. (Die Bekanntmachung der zweiten Tranche 2026 erschien im August; aktuellen Status der Antragsannahme prüfen). [Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen]"
 
-#: ../../funding.rst:55
+#: ../../funding.rst:58
 msgid ""
 ":doc:`Qingpu Enterprise Intelligent Transformation Support Fund, 2026 "
 "<funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Grant / "
@@ -557,7 +598,7 @@ msgid ""
 "deadline check required]"
 msgstr ":doc:`Förderfonds für intelligente Unternehmenstransformation Qingpu 2026 <funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Zuschuss / Kostenerstattung · Bezirk Qingpu · Ohne Anteilsabgabe) — **Prozentualer Zuschuss zu anerkannten Investitionen in intelligente Ausrüstung, Industriesoftware und digitale Werkstätten**. Qualifizierte Fertigungs- und Technologieunternehmen in Qingpu, die intelligente Fabriken, industrielle KI-Prüfsysteme oder digitale Lieferkettenmodernisierungen einführen. (Die Bekanntmachung 2026 wurde am 31. Juli 2026 veröffentlicht; aktuelle Antragsfenster prüfen). [Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen]"
 
-#: ../../funding.rst:56
+#: ../../funding.rst:59
 msgid ""
 ":doc:`Fengxian South Shanghai Sci-Tech Center \"Open Competition\" R&D "
 "Projects, 2026 <funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 "
@@ -570,7 +611,7 @@ msgid ""
 "required]"
 msgstr ":doc:`Kooperationsprojekte im offenen F&E-Wettbewerb („Jiebang Guashuai“) des Wissenschaftszentrums Süd-Shanghai in Fengxian 2026 <funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 · Zuschuss · Bezirk Fengxian · Ohne Anteilsabgabe) — **Meilensteinbasierte Forschungszuschüsse, gekoppelt an den Vertragswert der technischen Problemlösung**. Unternehmen, Universitäten und Forschungsinstitute, die gemeinsam ausgeschriebene Kernengpässe in Robotik, Biomedizin, neuen Materialien oder grüner Chemie in Fengxian lösen. (Der Leitfaden 2026 wurde im Mai veröffentlicht; aktuelle Tranchenfristen prüfen). [Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen]"
 
-#: ../../funding.rst:57
+#: ../../funding.rst:60
 msgid ""
 ":doc:`Chongming Entrepreneurship and Innovation Competition & Policy "
 "Support, 2026 <funding/chongming-competition-2026>` (2026崇明区创业创新大赛与联动扶持 · "
@@ -582,3 +623,31 @@ msgid ""
 "Implementation plan issued 20 August 2026; check track schedule. [Status: "
 "2026 competition published; track intake to confirm]"
 msgstr ":doc:`Innovations- und Gründerwettbewerb Chongming mit Förderanbindung 2026 <funding/chongming-competition-2026>` (2026崇明区创业创新大赛与联动扶持 · Wettbewerb · Bezirk Chongming · Preisgeld- und Beteiligungsbedingungen variieren) — **Wettbewerbsprämien sowie bevorzugte Anbindung an bezirkliche Gründungszuschüsse, Inkubatoren und garantierte Darlehen**. Gründerteams und Frühphasenunternehmen in den Bereichen Ökotechnologie, smarte Landwirtschaft, maritime Ausrüstung, grüne Energien und digitale Wirtschaft im Bezirk Chongming. (Der Durchführungsplan wurde am 20. August 2026 herausgegeben; Zeitplan der Wettbewerbsrunden beachten). [Wettbewerb 2026 veröffentlicht; Track-Bewerbungsfenster zu bestätigen]"
+
+#: ../../funding.rst:61
+msgid ""
+":doc:`Lin-gang Zero Cube conditional rent support "
+"<funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · In-kind services · Pudong · "
+"No equity stated in offer; verify terms) — **Qualifying offices: 3 years "
+"rent-free, then 2 years at half rent; separate housing and service "
+"terms**. Eligibility: Selected OPC and small-team projects admitted by "
+"the community. The August 2026 operator report is not a tenancy offer for "
+"every applicant. Confirm current selection, eligible premises, deposits, "
+"service charges and exit terms in writing. Timing: Confirm current "
+"community admission and tenancy terms. [Status: Published service; "
+"current terms to confirm]"
+msgstr ":doc:`Lin-gang Zero Cube: bedingte Mietförderung <funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · Sach- und Dienstleistungen · Neuer Stadtbezirk Pudong · Keine Anteilsabgabe im Angebot ausgewiesen; Konditionen prüfen) — **Berechtigte Büros: 3 Jahre mietfrei, danach 2 Jahre halbe Miete; Wohnen und Services nach getrennten Bedingungen**. Von der Community ausgewählte OPC- und Kleinteams. Der Betreiberbericht vom August 2026 ist kein Mietangebot für jeden Bewerber. Aktuelle Auswahl, förderfähige Räume, Kaution, Servicegebühren und Auszugskonditionen schriftlich bestätigen. (Aktuelle Aufnahme- und Mietbedingungen bestätigen). [Dienstleistung veröffentlicht; aktuelle Konditionen zu bestätigen]"
+
+#: ../../funding.rst:62
+msgid ""
+":doc:`Xuhui Qingmiao early AI investment route "
+"<funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · Equity investment · "
+"Xuhui · Negotiated equity) — **Manager-reviewed early-stage investment; "
+"no universal cheque or equity percentage verified**. Eligibility: "
+"Youth-led early AI projects matching the fund mandate. The August 2026 "
+"camp notice documents investment activity and organizers, not an "
+"always-open application or guaranteed grant. Request the responsible "
+"manager, screening pack, local-operation conditions and term sheet. "
+"Timing: Manager-led sourcing and due diligence. [Status: Published "
+"investment platform; deal review]"
+msgstr ":doc:`Xuhui Qingmiao: Frühphaseninvestitionen in KI <funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · Eigenkapitalinvestition · Bezirk Xuhui · Verhandlungsbasierte Beteiligung) — **Frühphaseninvestition nach Prüfung des Managers; kein allgemeiner Investitionsbetrag oder Beteiligungssatz belegt**. Junge Teams mit frühen KI-Projekten im Fondsmandat. Die Campankündigung vom August 2026 dokumentiert Investitionen und Veranstalter, keine dauerhaft offene Bewerbung oder garantierten Zuschüsse. Zuständigen Manager, Prüfunterlagen, lokale Betriebsvorgaben und Term Sheet anfordern. (Projektidentifikation und Due Diligence durch den Fondsmanager). [Investitionsplattform veröffentlicht; Projektprüfung erforderlich]"

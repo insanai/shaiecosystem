@@ -1,0 +1,119 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/humanoid-pilot.rst:1
+msgid "National-Local Humanoid Robot Innovation Center / pilot platform"
+msgstr "Centro Nacional-Local de Innovación en Robots Humanoides / planta piloto"
+
+#: ../../entities/humanoid-pilot.rst:4
+msgid "国家地方共建人形机器人创新中心／中试服务平台"
+msgstr "国家地方共建人形机器人创新中心／中试服务平台"
+
+#: ../../entities/humanoid-pilot.rst:6
+msgid "Research platform | Pudong | Research checked 2026-11-04"
+msgstr "Plataforma de investigación | Nueva Área de Pudong | Investigación verificada el 2026-11-04"
+
+#: ../../entities/humanoid-pilot.rst:8
+msgid "AI and industry focus: Hardware AI, Robotics, Sensors."
+msgstr "Enfoque de IA e industria: IA de hardware, Robótica, Sensores."
+
+#: ../../entities/humanoid-pilot.rst:10
+msgid ""
+"The center links robot data collection, training and physical validation "
+"with a pilot-production platform operated with Shanghai Electric. The "
+"July 2026 announcement describes industry-facing trial production, "
+"testing and scenario validation. Ask for compatibility, queue, sample "
+"ownership, safety responsibilities and a written service quotation."
+msgstr "El centro conecta la recogida de datos, el entrenamiento y la validación física de robots con una plataforma piloto gestionada con Shanghai Electric. El anuncio de julio de 2026 describe servicios de fabricación de prueba, ensayos y validación de usos para el sector. Confirmar compatibilidad, plazos, propiedad de muestras, responsabilidades de seguridad y presupuesto escrito."
+
+#: ../../entities/humanoid-pilot.rst:12
+msgid ""
+"`Evidence S075 "
+"<https://www.shanghai.gov.cn/nw15343/20260722/dc0b915f171c4ab5a52e495c3a2cc09e.html>`_. "
+"Pudong humanoid robot training and pilot-production services, July 2026."
+msgstr "`Evidencia S075 <https://www.shanghai.gov.cn/nw15343/20260722/dc0b915f171c4ab5a52e495c3a2cc09e.html>`_. Pudong humanoid robot training and pilot-production services, July 2026."
+
+#: ../../entities/humanoid-pilot.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/humanoid-pilot.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/humanoid-pilot.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/humanoid-pilot.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/humanoid-pilot.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw15343/20260722/dc0b915f171c4ab5a52e495c3a2cc09e.html>`_"
+msgstr "`Fuente oficial y vía de la autoridad competente <https://www.shanghai.gov.cn/nw15343/20260722/dc0b915f171c4ab5a52e495c3a2cc09e.html>`_"
+
+#: ../../entities/humanoid-pilot.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/humanoid-pilot.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/humanoid-pilot.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/humanoid-pilot.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/humanoid-pilot.rst:35
+msgid ""
+"Describe the prototype, required equipment, process and testing needs."
+msgstr "Describir el prototipo, el equipamiento requerido, el proceso de fabricación y las necesidades de ensayo."
+
+#: ../../entities/humanoid-pilot.rst:37
+msgid "Ask for a technical review, facility visit and itemized quotation."
+msgstr "Solicitar una revisión técnica, una visita a las instalaciones y un presupuesto desglosado por partidas."
+
+#: ../../entities/humanoid-pilot.rst:39
+msgid ""
+"Agree access, safety, sample and IP ownership, test scope and acceptance."
+msgstr "Acordar las condiciones de acceso, seguridad, titularidad de muestras y propiedad intelectual, alcance de las pruebas y criterios de aceptación."
+
+#: ../../entities/humanoid-pilot.rst:41
+msgid ""
+"Separate the facility contract from investment or public-funding "
+"applications."
+msgstr "Separar el contrato de uso de instalaciones de las solicitudes de inversión o de financiación pública."
+
+#: ../../entities/humanoid-pilot.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Ruta del distrito de Nueva Área de Pudong </districts/pudong>`"

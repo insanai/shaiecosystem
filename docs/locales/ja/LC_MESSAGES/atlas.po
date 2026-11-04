@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../atlas.rst:1
 msgid "Explore the Shanghai ecosystem"
-msgstr "上海のイノベーション生態系を探る"
+msgstr "上海のイノベーション・エコシステムを探る"
 
 #: ../../atlas.rst:4
 msgid ""

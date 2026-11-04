@@ -143,7 +143,7 @@ msgid ""
 "— Amount under the applicable digital-economy rules; reviewed against "
 "eligible actual cost. Status: Closed. Timing: Closed 23 October 2026, "
 "17:00 China Standard Time."
-msgstr ":doc:`Erstattung von Rechenleistungskosten für die digitale Wirtschaft Qingpu (Kosten September 2026) </funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Kostenerstattung · Ohne Anteilsabgabe) — Fördersatz und Höchstbetrag richten sich nach den Richtlinien für die digitale Wirtschaft; bezuschusst werden nachgewiesene Rechnungen für den Monat September 2026. Status: Geschlossen. Zeitrahmen: Antragsfrist der Bekanntmachung vom Oktober 2026 prüfen."
+msgstr ":doc:`Erstattung von Rechenleistungskosten für die digitale Wirtschaft Qingpu (Kosten September 2026) </funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Kostenerstattung · Ohne Anteilsabgabe) — Fördersatz und Höchstbetrag richten sich nach den Richtlinien für die digitale Wirtschaft; bezuschusst werden nachgewiesene Rechnungen für den Monat September 2026. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Antragsfrist der Bekanntmachung vom Oktober 2026 prüfen."
 
 #: ../../districts/qingpu.rst:45
 msgid ""

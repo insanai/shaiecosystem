@@ -1,0 +1,118 @@
+# zh_CN translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/startup-insurance.rst:1
+msgid "Shanghai early-stage startup social-insurance subsidy"
+msgstr "上海初创期创业组织社会保险补贴"
+
+#: ../../funding/startup-insurance.rst:4
+msgid "Reimbursement | Citywide / global"
+msgstr "报销支持｜全市／全球"
+
+#: ../../funding/startup-insurance.rst:6
+msgid "Policy in force; call not confirmed open"
+msgstr "政策有效，未确认正在申报"
+
+#: ../../funding/startup-insurance.rst:8
+msgid ""
+"`Evidence S114 "
+"<https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html>`_. "
+"Shanghai startup social-insurance, incubation rent and first-startup "
+"subsidies, valid through 2027."
+msgstr "`证据 S114 <https://www.shanghai.gov.cn/202308bmgfxwj/20230504/ee335ef455a04111ab3684cc1e991220.html>`_. Shanghai startup social-insurance, incubation rent and first-startup subsidies, valid through 2027."
+
+#: ../../funding/startup-insurance.rst:10
+msgid "Amount and mechanism"
+msgstr "额度与机制"
+
+#: ../../funding/startup-insurance.rst:13
+msgid ""
+"50% of specified employer contributions at the minimum contribution base; "
+"up to 8 people per month, within 36 months of registration"
+msgstr "按最低缴费基数核算的指定单位缴费部分补贴50%；每月最多8人，期限不超过注册后36个月"
+
+#: ../../funding/startup-insurance.rst:15
+msgid "No equity"
+msgstr "不占股"
+
+#: ../../funding/startup-insurance.rst:17
+msgid "Eligibility and timing"
+msgstr "资格与时间"
+
+#: ../../funding/startup-insurance.rst:20
+msgid ""
+"Qualifying new startup organizations led by eligible local workers or "
+"specified residence/returnee categories, after employing workers for 6 "
+"months. Support is calculated against eligible local workers; avoid "
+"duplicate employment subsidies for the same person."
+msgstr "符合户籍、规定居住证或留学人员资格条件的劳动者新办创业组织，吸纳就业满6个月后，按吸纳本市劳动者人数核定；同一人员不得重复享受相关就业社保补贴。"
+
+#: ../../funding/startup-insurance.rst:22
+msgid "Policy through 31 Dec 2027; confirm district procedure"
+msgstr "政策至2027年12月31日，须核验本区办理流程"
+
+#: ../../funding/startup-insurance.rst:24
+msgid "Contact and application"
+msgstr "联系与申请"
+
+#: ../../funding/startup-insurance.rst:27
+msgid "`Official application / policy route <https://zwdt.sh.gov.cn/>`_"
+msgstr "`官方申请／政策入口 <https://zwdt.sh.gov.cn/>`_"
+
+#: ../../funding/startup-insurance.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "请通过所链主管部门或运营方联系，本档案未核实现任项目直接联系人。"
+
+#: ../../funding/startup-insurance.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "编辑申请清单，实际流程以现行官方通知或协议为准。"
+
+#: ../../funding/startup-insurance.rst:33
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "阅读带日期通知，核验属地、主体、业务及支出期间。"
+
+#: ../../funding/startup-insurance.rst:35
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "准备规定材料，按要求完成单位或区级推荐。"
+
+#: ../../funding/startup-insurance.rst:37
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "在截止前通过官方平台提交并保存回执。"
+
+#: ../../funding/startup-insurance.rst:39
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "遵循通知中的评审、立项、报告、验收及拨付义务。"
+
+#: ../../funding/startup-insurance.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "公布最高额为上限，不构成当然权益。须核验适用通知、合资格支出期间、其他财政资助及书面拨付条件。"

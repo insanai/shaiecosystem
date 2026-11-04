@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -41,19 +41,19 @@ msgid ""
 msgstr "जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: स्वायत्त प्रणालियां, गतिशीलता (mobility), रोबोटिक्स, निर्मित वातावरण। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव।"
 
 #: ../../entities/university-tongji.rst:12
-msgid "`Evidence S077 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
-msgstr "`साक्ष्य S077 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
+msgid "`Evidence S084 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
+msgstr "`साक्ष्य S084 <https://tjkg.tongji.edu.cn/33864/list.htm>`_. 联系方式."
 
 #: ../../entities/university-tongji.rst:14
-msgid "`Evidence S078 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
-msgstr "`साक्ष्य S078 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
+msgid "`Evidence S085 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
+msgstr "`साक्ष्य S085 <https://tjkg.tongji.edu.cn/16738/list.htm>`_. 孵化器."
 
 #: ../../entities/university-tongji.rst:16
 msgid ""
-"`Evidence S076 "
+"`Evidence S083 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`साक्ष्य S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`साक्ष्य S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-tongji.rst:18
 msgid "Status and support"
@@ -61,7 +61,7 @@ msgstr "स्थिति और सहायता"
 
 #: ../../entities/university-tongji.rst:21
 msgid "Published entity; intake to confirm"
-msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
 
 #: ../../entities/university-tongji.rst:23
 msgid ""

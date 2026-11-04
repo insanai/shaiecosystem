@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -26,14 +26,14 @@ msgstr "비용 환급 지원 | 펑셴구"
 
 #: ../../funding/fengxian-rd-increase.rst:6
 msgid "Closed"
-msgstr "모집 마감"
+msgstr "접수 마감"
 
 #: ../../funding/fengxian-rd-increase.rst:8
 msgid ""
-"`Evidence S114 "
+"`Evidence S122 "
 "<https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. "
 "奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
-msgstr "`근거 S114 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
+msgstr "`근거 S122 <https://www.fengxian.gov.cn/kw/tzgg/20260602/108031.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——研发费用补贴项目申报指南_通知公告."
 
 #: ../../funding/fengxian-rd-increase.rst:10
 msgid "Amount and mechanism"
@@ -42,11 +42,11 @@ msgstr "지원 규모 및 지원 방식"
 #: ../../funding/fengxian-rd-increase.rst:13
 msgid ""
 "30% of the qualifying annual R&D net increase, capped at RMB 1 million"
-msgstr "전년 대비 연구개발(R&D) 지출 증가액에 비례하여 산정된 인센티브 보조금 차등 지급"
+msgstr "적격 연간 연구개발비 순증가액의 30%, 최대 100만 위안"
 
 #: ../../funding/fengxian-rd-increase.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/fengxian-rd-increase.rst:17
 msgid "Eligibility and timing"
@@ -58,7 +58,7 @@ msgid ""
 "2024 and 2025 tax finalization and R&D super-deduction schedules are "
 "required. Submit online and route the paper pack through the recommending "
 "unit."
-msgstr "펑셴구 관할 내에서 실제 R&D 투자를 대폭 확대하고 회계 증빙을 완비한 적격 제조 및 기술 기업."
+msgstr "유효한 첨단기술기업 인증 보유 기업 또는 2025년 등록 기술형 중소기업이 대상입니다. 2024년과 2025년 세무 정산 및 R&D 추가 공제 명세가 필요합니다. 온라인 신청 후 추천 기관을 통해 종이 서류를 제출합니다."
 
 #: ../../funding/fengxian-rd-increase.rst:22
 msgid ""

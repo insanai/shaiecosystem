@@ -58,7 +58,7 @@ msgstr "Online-Bewerbung und Überprüfung der Voraussetzungen hinsichtlich Unte
 
 #: ../../funding/azure-credit.rst:22
 msgid "Confirm current application and credit validity"
-msgstr "Aktuelle Bewerbungsrichtlinien und Nutzungsfristen beachten"
+msgstr "Aktuelle Antragsstellung und Guthabengültigkeit prüfen"
 
 #: ../../funding/azure-credit.rst:24
 msgid "Contact and application"

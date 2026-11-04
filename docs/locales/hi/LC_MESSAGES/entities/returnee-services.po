@@ -1,0 +1,124 @@
+# hi translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/returnee-services.rst:1
+msgid "Shanghai overseas-returnee entrepreneurship service windows"
+msgstr "विदेश से लौटे उद्यमियों के लिए शंघाई सेवा केंद्र"
+
+#: ../../entities/returnee-services.rst:4
+msgid "上海留学人员创业服务窗口"
+msgstr "上海留学人员创业服务窗口"
+
+#: ../../entities/returnee-services.rst:6
+msgid "Government | Citywide / global | Research checked 2026-11-04"
+msgstr "सरकारी विभाग | शहर-व्यापी / वैश्विक | शोध सत्यापन तिथि 2026-11-04"
+
+#: ../../entities/returnee-services.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI."
+msgstr "एआई और उद्योग फोकस: सॉफ्टवेयर AI, हार्डवेयर AI।"
+
+#: ../../entities/returnee-services.rst:10
+msgid ""
+"The 2026 municipal rules identify the talent authority and district "
+"service windows for eligible overseas returnees, including qualifying "
+"people who acquired foreign citizenship. Recognition and startup-park "
+"services can lead to separate support applications. Returnee status is "
+"not a category covering every foreign founder and is not an automatic "
+"grant or residence permit."
+msgstr "2026 के नगरपालिका नियम पात्र विदेश-शिक्षित लौटने वालों के लिए प्रतिभा विभाग और ज़िला सेवा केंद्र तय करते हैं; शर्तें पूरी करने वाले विदेशी नागरिकता प्राप्त लोग भी शामिल हो सकते हैं। पात्रता मान्यता और स्टार्टअप पार्क सेवाओं के बाद अलग सहायता आवेदन किए जा सकते हैं। यह श्रेणी हर विदेशी संस्थापक पर लागू नहीं होती और अनुदान या निवास परमिट स्वतः नहीं मिलता।"
+
+#: ../../entities/returnee-services.rst:12
+msgid ""
+"`Evidence S080 "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. "
+"上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+msgstr "`साक्ष्य S080 <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_. 上海市人民政府关于印发《鼓励留学人员来上海工作和创业的若干规定》的通知."
+
+#: ../../entities/returnee-services.rst:14
+msgid "Status and support"
+msgstr "स्थिति और सहायता"
+
+#: ../../entities/returnee-services.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
+
+#: ../../entities/returnee-services.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "इस प्रविष्टि के लिए कोई मानक नकद पुरस्कार, शुल्क छूट या इक्विटी प्रतिशत सत्यापित नहीं है। वर्तमान लिखित ऑफ़र का अनुरोध करें।"
+
+#: ../../entities/returnee-services.rst:21
+msgid "Contact and location"
+msgstr "संपर्क और स्थान"
+
+#: ../../entities/returnee-services.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_"
+msgstr "`आधिकारिक साक्ष्य और प्राधिकरण मार्ग <https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html>`_"
+
+#: ../../entities/returnee-services.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "यहां कोई सीधा कार्यक्रम फोन या ईमेल सत्यापित नहीं है। आधिकारिक मार्ग का उपयोग करें और जिम्मेदार टीम का अनुरोध करें; कोई भी संपर्क मनगढ़ंत नहीं बनाया गया है।"
+
+#: ../../entities/returnee-services.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "मानचित्र स्थिति जिला या कैंपस एंकर का उपयोग करती है; यह कोई सत्यापित कार्यालय स्थान नहीं है।"
+
+#: ../../entities/returnee-services.rst:30
+msgid "Application workflow"
+msgstr "आवेदन कार्यप्रणाली"
+
+#: ../../entities/returnee-services.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "संपादकीय आवेदन चेकलिस्ट। वर्तमान आधिकारिक सूचना या समझौता वास्तविक प्रक्रिया को नियंत्रित करता है।"
+
+#: ../../entities/returnee-services.rst:35
+msgid ""
+"Read the dated call and verify district, entity, activity and "
+"spending-period rules."
+msgstr "दिनांकित कॉल पढ़ें और जिला, इकाई, गतिविधि तथा व्यय-अवधि के नियमों को सत्यापित करें।"
+
+#: ../../entities/returnee-services.rst:37
+msgid ""
+"Prepare the prescribed pack and complete host or district endorsement if "
+"required."
+msgstr "निर्धारित पैक तैयार करें और यदि आवश्यक हो तो मेजबान या जिला समर्थन पूरा करें।"
+
+#: ../../entities/returnee-services.rst:39
+msgid ""
+"Submit through the official platform before the stated deadline and keep "
+"the receipt."
+msgstr "निर्धारित समय सीमा से पहले आधिकारिक प्लेटफॉर्म के माध्यम से जमा करें और रसीद सुरक्षित रखें।"
+
+#: ../../entities/returnee-services.rst:41
+msgid ""
+"Follow review, award, reporting, acceptance and payment obligations in "
+"the notice."
+msgstr "सूचना में दी गई समीक्षा, पुरस्कार, रिपोर्टिंग, स्वीकृति और भुगतान दायित्वों का पालन करें।"
+
+#: ../../entities/returnee-services.rst:43
+msgid ":doc:`Citywide / global district route </funding>`"
+msgstr ":doc:`शहर-व्यापी / वैश्विक ज़िला मार्ग </funding>`"

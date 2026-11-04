@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -29,8 +29,8 @@ msgid "Published directory; lender review"
 msgstr "Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich"
 
 #: ../../funding/yangpu-credit-directory.rst:8
-msgid "`Evidence S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
-msgstr "`Nachweis S121 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+msgid "`Evidence S129 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
+msgstr "`Nachweis S129 <https://xyd.shyp.gov.cn/finance>`_. 金融产品."
 
 #: ../../funding/yangpu-credit-directory.rst:10
 msgid "Amount and mechanism"
@@ -39,7 +39,7 @@ msgstr "Förderhöhe und Mechanismus"
 #: ../../funding/yangpu-credit-directory.rst:13
 msgid ""
 "Product-specific technology credit and IP finance; no universal ceiling"
-msgstr "Maßgeschneiderte Darlehensprodukte, Technologiedarlehen und IP-besicherte Kredite mit bezirklichen Zinszuschüssen"
+msgstr "Technologiekredite und IP-Finanzierung nach Produkt; keine allgemeine Obergrenze"
 
 #: ../../funding/yangpu-credit-directory.rst:15
 msgid "No equity; repayable"
@@ -54,7 +54,7 @@ msgid ""
 "Use the district platform to identify an actual lender and product. "
 "Technology performance-guarantee lending, IP-backed products and "
 "guarantees have different duties and underwriting conditions."
-msgstr "Technologieunternehmen und innovative KMU mit Sitz in Yangpu; Kreditwürdigkeitsprüfung über die offizielle Bezirksplattform."
+msgstr "Über die Bezirksplattform einen konkreten Kreditgeber und ein Produkt bestimmen. Technologiekredite mit Leistungsbürgschaft, IP-besicherte Produkte und Garantien haben unterschiedliche Pflichten und Bonitätsprüfungen."
 
 #: ../../funding/yangpu-credit-directory.rst:22
 msgid "Product-specific; confirm current lender terms"

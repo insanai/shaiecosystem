@@ -26,7 +26,7 @@ msgstr "इक्विटी निवेश | पुडोंग (Pudong)"
 
 #: ../../funding/pudong-equity.rst:6
 msgid "Fund announced; deal intake to confirm"
-msgstr "फंड घोषित; डील प्रवेश की पुष्टि शेष"
+msgstr "फंड घोषित; निवेश प्रस्तावों की स्वीकृति की पुष्टि शेष"
 
 #: ../../funding/pudong-equity.rst:8
 msgid ""
@@ -43,7 +43,7 @@ msgstr "राशि और तंत्र"
 msgid ""
 "Fund target RMB 2bn; first tranche RMB 500m; individual cheque not "
 "established"
-msgstr "फंड लक्ष्य RMB 2bn; पहली किस्त RMB 500m; व्यक्तिगत चेक राशि निर्धारित नहीं"
+msgstr "फंड का लक्षित आकार 200 करोड़ RMB; पहली किस्त 50 करोड़ RMB; प्रति कंपनी निवेश की राशि की पुष्टि नहीं हुई है"
 
 #: ../../funding/pudong-equity.rst:15
 msgid "Negotiated equity"

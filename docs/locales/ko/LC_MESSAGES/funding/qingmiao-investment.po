@@ -1,0 +1,115 @@
+# ko translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../funding/qingmiao-investment.rst:1
+msgid "Xuhui Qingmiao early AI investment route"
+msgstr "쉬후이 칭먀오 초기 AI 투자 경로"
+
+#: ../../funding/qingmiao-investment.rst:4
+msgid "Equity investment | Xuhui"
+msgstr "지분 투자 | 쉬후이구"
+
+#: ../../funding/qingmiao-investment.rst:6
+msgid "Published investment platform; deal review"
+msgstr "공시된 투자 플랫폼; 투자 적격 심사 필요"
+
+#: ../../funding/qingmiao-investment.rst:8
+msgid ""
+"`Evidence S077 "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. "
+"Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+msgstr "`근거 S077 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+
+#: ../../funding/qingmiao-investment.rst:10
+msgid "Amount and mechanism"
+msgstr "지원 규모 및 지원 방식"
+
+#: ../../funding/qingmiao-investment.rst:13
+msgid ""
+"Manager-reviewed early-stage investment; no universal cheque or equity "
+"percentage verified"
+msgstr "운용사 심사를 거친 초기 투자; 공통 투자액 또는 지분율은 확인되지 않음"
+
+#: ../../funding/qingmiao-investment.rst:15
+msgid "Negotiated equity"
+msgstr "협의 지분율 적용"
+
+#: ../../funding/qingmiao-investment.rst:17
+msgid "Eligibility and timing"
+msgstr "지원 자격 및 일정"
+
+#: ../../funding/qingmiao-investment.rst:20
+msgid ""
+"Youth-led early AI projects matching the fund mandate. The August 2026 "
+"camp notice documents investment activity and organizers, not an "
+"always-open application or guaranteed grant. Request the responsible "
+"manager, screening pack, local-operation conditions and term sheet."
+msgstr "펀드 투자 목적에 맞는 청년 주도 초기 AI 프로젝트가 대상입니다. 2026년 8월 캠프 공고는 투자 활동과 주최 기관을 확인해 주지만, 상시 접수나 보조금을 보장하지는 않습니다. 담당 운용사, 심사 자료, 현지 운영 요건 및 투자 조건서를 요청해야 합니다."
+
+#: ../../funding/qingmiao-investment.rst:22
+msgid "Manager-led sourcing and due diligence"
+msgstr "운용사 주도 딜 발굴 및 실사 진행"
+
+#: ../../funding/qingmiao-investment.rst:24
+msgid "Contact and application"
+msgstr "문의처 및 신청 방법"
+
+#: ../../funding/qingmiao-investment.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+msgstr "`공식 신청 / 정책 확인 창구 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+
+#: ../../funding/qingmiao-investment.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "링크된 주관 부처 또는 운영 기관이 공식 연락 창구입니다. 본 프로필에는 전용 프로그램 직통 연락처가 확인되지 않았습니다."
+
+#: ../../funding/qingmiao-investment.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "편집자 작성 신청 체크리스트입니다. 실제 절차는 최신 공식 공고 또는 협약서의 규정이 우선합니다."
+
+#: ../../funding/qingmiao-investment.rst:33
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "펀드 운용사, 중점 투자 분야, 투자 단계 및 법인격의 적합성을 확인한다."
+
+#: ../../funding/qingmiao-investment.rst:35
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "IR 피치덱, 주주명부(Cap table), 기술 입증 자료, 시장 지표(Traction) 및 자금 조달 계획을 제출한다."
+
+#: ../../funding/qingmiao-investment.rst:37
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "사업, 재무, 기술 및 법률 실사를 완료한다."
+
+#: ../../funding/qingmiao-investment.rst:39
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "텀시트(Term sheet), 투자심의위원회 부대조건 및 최종 투자 본계약서를 검토한다."
+
+#: ../../funding/qingmiao-investment.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "공시된 지원 최대 한도는 상한액일 뿐 보장된 수령액이 아닙니다. 해당 공고, 인정되는 비용 집행 기간, 타 공공 지원금 수혜 여부 및 서면 지급 조건을 면밀히 확인하십시오."

@@ -151,7 +151,7 @@ msgid ""
 "</funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Grant · No equity) — RMB "
 "300,000 per selected company; 50% initially, remainder after one-year "
 "development review. Status: Closed. Timing: Closed 31 August 2026."
-msgstr ":doc:`Saatgut-Plan für Technologieunternehmen Putuo 2026 (Zweite Tranche) </funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Zuschuss · Ohne Anteilsabgabe) — 300.000 RMB pro ausgewähltem Unternehmen; 50 % bei Bewilligung, Restzahlung nach einjähriger Entwicklungsprüfung. Status: Geschlossen. Zeitrahmen: Bewerbungsschluss war der 31. August 2026."
+msgstr ":doc:`Saatgut-Plan für Technologieunternehmen Putuo 2026 (Zweite Tranche) </funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Zuschuss · Ohne Anteilsabgabe) — 300.000 RMB pro ausgewähltem Unternehmen; 50 % bei Bewilligung, Restzahlung nach einjähriger Entwicklungsprüfung. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Bewerbungsschluss war der 31. August 2026."
 
 #: ../../districts/putuo.rst:46
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "reimbursement · No equity) — Direction-specific R&D, compute, "
 "first-product matching and related support. Status: Closed. Timing: "
 "Closed 26 June 2026."
-msgstr ":doc:`Sonderprogramm für intelligente Softwareindustrie Putuo 2026 </funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Zuschuss / Kostenerstattung · Ohne Anteilsabgabe) — Richtungsspezifische Zuschüsse für F&E, Rechenleistung, Ergänzung von Erstprodukten und technologische Durchbrüche. Status: Geschlossen. Zeitrahmen: Bewerbungsschluss war der 26. Juni 2026."
+msgstr ":doc:`Sonderprogramm für intelligente Softwareindustrie Putuo 2026 </funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Zuschuss / Kostenerstattung · Ohne Anteilsabgabe) — Je nach Förderrichtung Unterstützung für F&E, Rechenleistung, die Kofinanzierung erster Produkte und weitere Leistungen. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Bewerbungsschluss war der 26. Juni 2026."
 
 #: ../../districts/putuo.rst:47
 msgid ""

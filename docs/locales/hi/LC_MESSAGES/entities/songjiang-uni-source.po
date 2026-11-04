@@ -52,7 +52,7 @@ msgstr "स्थिति और सहायता"
 
 #: ../../entities/songjiang-uni-source.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
 
 #: ../../entities/songjiang-uni-source.rst:19
 msgid ""

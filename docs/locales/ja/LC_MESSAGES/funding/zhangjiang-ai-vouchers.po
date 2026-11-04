@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,10 +30,10 @@ msgstr "四半期スキーム公表済み（現行募集枠の確認要）"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:8
 msgid ""
-"`Evidence S103 "
+"`Evidence S110 "
 "<https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. "
 "浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
-msgstr "`出典 S103 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. 浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
+msgstr "`出典 S110 <https://www.pudong.gov.cn/zwgk/qsjj_zdgz_lhbl/2026/156/355831.html>`_. 浦数局办理〔2026〕16号（对浦东新区七届人大六次会议第076146号代表建议的答复）_两会办理."
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "認定された実支出の最大100％を補助、各カテゴリ上限
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:17
 msgid "Eligibility and timing"
@@ -63,7 +63,7 @@ msgstr "指定された小鎮境界内に登記・実活動拠点を持ち、202
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:22
 msgid "Quarterly claims; confirm the current batch"
-msgstr "四半期ごとの精算申請（最新バッチの受付期間を確認のこと）"
+msgstr "四半期ごとの申請（現行バッチの確認要）"
 
 #: ../../funding/zhangjiang-ai-vouchers.rst:24
 msgid "Contact and application"

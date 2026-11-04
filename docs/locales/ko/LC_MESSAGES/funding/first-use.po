@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -22,7 +22,7 @@ msgstr "초도 설비·첫 테이프아웃·첫 생산 소재·첫 버전 소프
 
 #: ../../funding/first-use.rst:4
 msgid "Grant / market access | Citywide / global"
-msgstr "보조금 / 시장 진출 | 전시 / 글로벌"
+msgstr "보조금 / 시장 진출 | 상하이 전역 / 글로벌"
 
 #: ../../funding/first-use.rst:6
 msgid "Published route; current call to confirm"
@@ -30,10 +30,10 @@ msgstr "지원 경로 공시됨; 현행 공고 확인 필요"
 
 #: ../../funding/first-use.rst:8
 msgid ""
-"`Evidence S106 "
+"`Evidence S113 "
 "<https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. "
 "市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
-msgstr "`근거 S106 <https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. 市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
+msgstr "`근거 S113 <https://www.shanghai.gov.cn/nw12344/20250411/7afb62949bac416386811c9c6cfaf655.html>`_. 市政府新闻发布会介绍《上海市促进专精特新中小企业发展壮大的若干措施》相关情况."
 
 #: ../../funding/first-use.rst:10
 msgid "Amount and mechanism"
@@ -41,7 +41,7 @@ msgstr "지원 규모 및 지원 방식"
 
 #: ../../funding/first-use.rst:13
 msgid "Program-specific; no common award ceiling established"
-msgstr "최초 개발 및 시제품 양산 검증에 대한 보험료 보조 또는 계약 금액의 일정 비율 보조금 차등 지급"
+msgstr "프로그램별 조건 적용; 공통 지원 한도는 확인되지 않음"
 
 #: ../../funding/first-use.rst:15
 msgid "No equity for qualifying public support"
@@ -56,11 +56,11 @@ msgid ""
 "Shanghai policy identifies these routes for qualifying specialized SMEs "
 "and new products. Recognition, insurance compensation, procurement and "
 "R&D support are separate mechanisms; obtain the current call."
-msgstr "첨단 장비 초도품(首台套), IC 첫 칩 제작(首轮流片), 핵심 신소재 최초 사용(首批次), 국산 소프트웨어 첫 버전(首版次)을 성공적으로 실증·납품한 기업."
+msgstr "상하이 정책에 명시된 적격 전문 중소기업 및 신제품 지원 경로입니다. 인증, 보험 보상, 조달 및 R&D 지원은 서로 다른 제도이므로 최신 공고를 확인해야 합니다."
 
 #: ../../funding/first-use.rst:22
 msgid "Track-specific notices"
-msgstr "시 경제정보화위원회 연간 분야별 전용 공고 확인 필요"
+msgstr "트랙별 개별 공고 참조"
 
 #: ../../funding/first-use.rst:24
 msgid "Contact and application"

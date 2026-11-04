@@ -133,7 +133,7 @@ msgid ""
 "project. Status: Policy in force; call not confirmed open. Timing: "
 "Policy: 1 August to 31 December 2026, with qualifying cases since 1 "
 "January; confirm intake."
-msgstr ":doc:`Entwicklungszuschuss für Frühphasenunternehmen Chongming 2026 </funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Zuschuss · Ohne Anteilsabgabe) — Projektbezogene Anschub- und Mietkostenzuschüsse für neu gegründete Unternehmen. Status: Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet. Zeitrahmen: Laufende Einreichung gemäß den Bekanntmachungen des Bezirks Chongming."
+msgstr ":doc:`Entwicklungszuschuss für Frühphasenunternehmen Chongming 2026 </funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Zuschuss · Ohne Anteilsabgabe) — Bis zu 100.000 RMB für ein förderfähiges Gründungsprojekt, das als besonders gut bewertet wurde. Status: Richtlinie in Kraft; Ausschreibung nicht nachweislich geöffnet. Zeitrahmen: Richtlinie: 1. August bis 31. Dezember 2026; förderfähige Fälle seit 1. Januar einbezogen. Aktuelle Annahme bestätigen."
 
 #: ../../districts/chongming.rst:44
 msgid ""

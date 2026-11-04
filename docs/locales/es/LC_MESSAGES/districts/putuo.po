@@ -151,7 +151,7 @@ msgid ""
 "</funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Grant · No equity) — RMB "
 "300,000 per selected company; 50% initially, remainder after one-year "
 "development review. Status: Closed. Timing: Closed 31 August 2026."
-msgstr ":doc:`Plan Semilla de Empresas Tecnológicas de Putuo, segundo lote de 2026 </funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — 300.000 RMB por empresa seleccionada; 50 % inicial y el resto tras superar la evaluación de desarrollo al cabo de un año. Estado: Plazo cerrado. Plazo: Cerrada el 31 de agosto de 2026."
+msgstr ":doc:`Plan Semilla de Empresas Tecnológicas de Putuo, segundo lote de 2026 </funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Subvención a fondo perdido · Sin cesión de participaciones) — 300.000 RMB por empresa seleccionada; 50 % inicial y el resto tras superar la evaluación de desarrollo al cabo de un año. Estado: Plazo cerrado. Plazo: Cerrada el 31 de agosto de 2026."
 
 #: ../../districts/putuo.rst:46
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "reimbursement · No equity) — Direction-specific R&D, compute, "
 "first-product matching and related support. Status: Closed. Timing: "
 "Closed 26 June 2026."
-msgstr ":doc:`Programa especial para la industria de software inteligente de Putuo, 2026 </funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Subvención / reembolso · Sin cesión de capital (No equity)) — Apoyo específico según la línea en I+D, cómputo, cofinanciación de primeros productos y ámbitos conexos. Estado: Plazo cerrado. Plazo: Cerrada el 26 de junio de 2026."
+msgstr ":doc:`Programa especial para la industria de software inteligente de Putuo, 2026 </funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Subvención / reembolso · Sin cesión de participaciones) — Apoyo específico según la línea en I+D, cómputo, cofinanciación de primeros productos y ámbitos conexos. Estado: Plazo cerrado. Plazo: Cerrada el 26 de junio de 2026."
 
 #: ../../districts/putuo.rst:47
 msgid ""
@@ -169,7 +169,7 @@ msgid ""
 "at most 50%, balance subject to acceptance. Status: 2026 call published; "
 "not confirmed open. Timing: Confirm the deadline in the September 2026 "
 "notice."
-msgstr ":doc:`Proyectos de Plataformas de I+D de Putuo, 2026 </funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Hasta 2 millones de RMB; primer desembolso de hasta el 50 % y saldo restante sujeto a auditoría de aceptación. Estado: Convocatoria 2026 publicada; no confirmada como abierta. Plazo: Confirmar la fecha límite exacta en la convocatoria de septiembre de 2026."
+msgstr ":doc:`Proyectos de Plataformas de I+D de Putuo, 2026 </funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · Subvención a fondo perdido · Sin cesión de participaciones) — Hasta 2 millones de RMB; primer desembolso de hasta el 50 % y saldo restante sujeto a auditoría de aceptación. Estado: Convocatoria 2026 publicada; no confirmada como abierta. Plazo: Confirmar la fecha límite exacta en la convocatoria de septiembre de 2026."
 
 #: ../../districts/putuo.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"

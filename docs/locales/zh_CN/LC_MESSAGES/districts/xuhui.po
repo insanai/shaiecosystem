@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -33,10 +33,10 @@ msgstr "具身智能政策覆盖机器人大模型、算法、数据与操作系
 
 #: ../../districts/xuhui.rst:8
 msgid ""
-"`Evidence S090 "
+"`Evidence S097 "
 "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
 "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
-msgstr "`证据 S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`证据 S097 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
 
 #: ../../districts/xuhui.rst:10
 msgid "Who receives the inquiry"
@@ -143,6 +143,32 @@ msgstr ":doc:`上海市科技创业中心 </entities/shtic>` （上海市科技�
 
 #: ../../districts/xuhui.rst:41
 msgid ""
+":doc:`Shanghai Innovation Institute / Beiyang AI founder network "
+"</entities/sii-beiyang>` (上海创智学院／北杨人工智能创业网络 · Incubator · Software AI, "
+"Hardware AI, AI for Science) — SII and Caohejing jointly operate the "
+"Chuangzhi Future Center for research-led AI founders; Beiyang AI "
+"Accelerator supports later market and supply-chain connections. "
+"Institute-affiliated incubation is not an unrestricted public admission "
+"offer. Ask the operator about affiliation, IP, company formation and "
+"current external-team access. [Status: Published entity; intake to "
+"confirm]"
+msgstr ":doc:`上海创智学院／北杨人工智能创业网络 </entities/sii-beiyang>` （上海创智学院／北杨人工智能创业网络 · 孵化器 · 软件人工智能、硬件人工智能、科学智能）—— 上海创智学院与漕河泾共同运营创智未来中心，服务科研型AI创业者，北杨AI加速器承接后续市场及产业链对接。学院相关孵化不等于面向所有团队开放；须向运营方确认身份、知识产权、企业设立及外部团队当前准入条件。【状态：机构有来源，招募待确认】"
+
+#: ../../districts/xuhui.rst:42
+msgid ""
+":doc:`Xuhui Qingmiao AI Youth Entrepreneurship Fund </entities/qingmiao>` "
+"(徐汇人工智能青年创业基金（青苗基金） · Investor · Software AI, Hardware AI) — Xuhui "
+"established this youth-focused AI fund in September 2025. Its August 2026 "
+"entrepreneurship camp connected early AI teams with investment, research "
+"and industrial partners. Shanghai Xuhui Capital Investment and Shanghai "
+"Xuhui Science and Technology Venture Capital Fund Management co-hosted "
+"the camp. Request the receiving manager and current investment terms; "
+"camp attendance is not an investment award. [Status: Published entity; "
+"intake to confirm]"
+msgstr ":doc:`徐汇人工智能青年创业基金（青苗基金） </entities/qingmiao>` （徐汇人工智能青年创业基金（青苗基金） · 投资机构 · 软件人工智能、硬件人工智能）—— 徐汇于2025年9月设立面向青年AI创业者的基金。2026年8月创业营对接早期AI团队、投资机构、科研及产业资源，由上海徐汇资本投资有限公司、上海徐汇科创投私募基金管理有限公司等共同主办。须索取接收项目的管理人及现行投资条款，参加创业营不代表获投。【状态：机构有来源，招募待确认】"
+
+#: ../../districts/xuhui.rst:43
+msgid ""
 ":doc:`East China University of Science and Technology "
 "</entities/university-ecust>` (华东理工大学 · University) — Institutional entry "
 "in the June 2026 Ministry of Education register. Suggested collaboration "
@@ -151,7 +177,7 @@ msgid ""
 "or startup funding. [Status: Published entity; intake to confirm]"
 msgstr ":doc:`华东理工大学 </entities/university-ecust>` （华东理工大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：材料、化学、生物工艺、科学智能。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
-#: ../../districts/xuhui.rst:42
+#: ../../districts/xuhui.rst:44
 msgid ""
 ":doc:`Shanghai Normal University </entities/university-shnu>` (上海师范大学 · "
 "University) — Institutional entry in the June 2026 Ministry of Education "
@@ -161,7 +187,7 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`上海师范大学 </entities/university-shnu>` （上海师范大学 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：教育、计算机、创意科技。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
-#: ../../districts/xuhui.rst:43
+#: ../../districts/xuhui.rst:45
 msgid ""
 ":doc:`Shanghai Conservatory of Music </entities/university-music>` "
 "(上海音乐学院 · University) — Institutional entry in the June 2026 Ministry of "
@@ -171,11 +197,11 @@ msgid ""
 "Published entity; intake to confirm]"
 msgstr ":doc:`上海音乐学院 </entities/university-music>` （上海音乐学院 · 高校）—— 列入教育部2026年6月高校名录。建议合作主题：音频人工智能、音乐科技、创作工具。这些主题为编辑对接建议，并非已经核实的实验室准入或创业资助承诺。【状态：机构有来源，招募待确认】"
 
-#: ../../districts/xuhui.rst:45
+#: ../../districts/xuhui.rst:47
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
-#: ../../districts/xuhui.rst:48
+#: ../../districts/xuhui.rst:50
 msgid ""
 ":doc:`Xuhui embodied AI development support </funding/xuhui-embodied>` "
 "(徐汇具身智能产业支持 · Grant · No equity) — Evaluated entity support ceilings: RMB "
@@ -184,9 +210,19 @@ msgid ""
 "implementing notice."
 msgstr ":doc:`徐汇具身智能产业支持 </funding/xuhui-embodied>` （徐汇具身智能产业支持 · 补助 · 不占股）—— 经评估主体最高一次性1000万元、年度发展支持最高2000万元。状态：政策已公布，实施受理待确认。时间：核验适用实施通知。"
 
-#: ../../districts/xuhui.rst:50
+#: ../../districts/xuhui.rst:51
+msgid ""
+":doc:`Xuhui Qingmiao early AI investment route "
+"</funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · Equity investment · "
+"Negotiated equity) — Manager-reviewed early-stage investment; no "
+"universal cheque or equity percentage verified. Status: Published "
+"investment platform; deal review. Timing: Manager-led sourcing and due "
+"diligence."
+msgstr ":doc:`徐汇青苗基金早期AI投资渠道 </funding/qingmiao-investment>` （徐汇青苗基金早期AI投资渠道 · 股权投资 · 协商股权）—— 由管理人审核早期投资，未核实统一投资额或股权比例。状态：投资平台已公布，须项目审核。时间：管理人开展项目筛选与尽调。"
+
+#: ../../districts/xuhui.rst:53
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ":doc:`Shanghai Model Speed Space </entities/mosu>`"
 #~ msgstr ":doc:`上海模速空间 </entities/mosu>`"

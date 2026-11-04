@@ -145,7 +145,7 @@ msgid ""
 "and industrialization support under the 2025-2026 park action plan. "
 "Status: Policy in force; call not confirmed open. Timing: Policy: 2025 to "
 "2026 action plan; confirm current implementing batch."
-msgstr ":doc:`Apoyo a la innovación en UAV de baja altitud y nuevos materiales del Parque Jinshan de Zhangjiang </funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Subvención / reembolso · Sin cesión de capital (No equity)) — Apoyo específico a la I+D, incubación en centros, servicios de ensayo e industrialización bajo el plan de acción del parque 2025-2026. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Vigencia de la política: plan de acción 2025-2026; confirmar el lote de ejecución en curso."
+msgstr ":doc:`Apoyo a la innovación en UAV de baja altitud y nuevos materiales del Parque Jinshan de Zhangjiang </funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Subvención / reembolso · Sin cesión de participaciones) — Apoyo específico a la I+D, incubación en centros, servicios de ensayo e industrialización bajo el plan de acción del parque 2025-2026. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Vigencia de la política: plan de acción 2025-2026; confirmar el lote de ejecución en curso."
 
 #: ../../districts/jinshan.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

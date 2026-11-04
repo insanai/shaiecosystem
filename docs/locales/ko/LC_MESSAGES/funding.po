@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -22,11 +22,11 @@ msgstr "지원금 경로: 자금 조달 메커니즘의 명확한 구분"
 
 #: ../../funding.rst:4
 msgid ""
-"45 researched routes across citywide programs and all 16 districts. We "
+"50 researched routes across citywide programs and all 16 districts. We "
 "distinguish equity-free support from repayable debt, credits and "
 "investment. No item is labelled open merely because its policy or web "
 "page exists."
-msgstr "전시 프로그램과 16개 전 행정구에 걸친 45개의 연구된 자금 경로. 비지분 지원과 상환 의무 대출, 크레딧, 지분 투자를 명확히 구분합니다. 정책이나 웹페이지가 존재한다는 이유만으로 접수 중으로 표시하지 않습니다."
+msgstr "전시 프로그램과 16개 전 행정구에 걸친 50개의 연구된 자금 경로. 비지분 지원과 상환 의무 대출, 크레딧, 지분 투자를 명확히 구분합니다. 정책이나 웹페이지가 존재한다는 이유만으로 접수 중으로 표시하지 않습니다."
 
 #: ../../funding.rst:6
 msgid ":doc:`Read the funding guide first <funding-guide>`"
@@ -46,7 +46,7 @@ msgid ""
 "Service-provider qualification is separate from applicant eligibility. "
 "Timing: Policy: 1 Sep 2025 to 31 Aug 2030. [Status: Policy in force; "
 "confirm service and order]"
-msgstr ":doc:`상하이시 과학기술 혁신 바우처 <funding/innovation-voucher>` (上海市科技创新券 · 비용 환급 지원 · 전시 / 글로벌 · 지분 취득 없음) — **적격 서비스 이용 금액의 최대 50%; 기업당 연간 최대 30만 위안, 창업팀당 연간 최대 10만 위안**. 공식 플랫폼에서 공인된 서비스를 이용하는 적격 과기형 중소기업 및 혁신 창업팀. 서비스 제공 기관의 적격 여부와 신청자의 자격 요건은 별도로 심사됩니다. (정책 유효기간: 2025년 9월 1일 ~ 2030년 8월 31일). [정책 시행 중; 서비스 및 주문 내역 확인 필요]"
+msgstr ":doc:`상하이시 과학기술 혁신 바우처 <funding/innovation-voucher>` (上海市科技创新券 · 비용 환급 지원 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음) — **적격 서비스 이용 금액의 최대 50%; 기업당 연간 최대 30만 위안, 창업팀당 연간 최대 10만 위안**. 공식 플랫폼에서 공인된 서비스를 이용하는 적격 과기형 중소기업 및 혁신 창업팀. 서비스 제공 기관의 적격 여부와 신청자의 자격 요건은 별도로 심사됩니다. (정책 유효기간: 2025년 9월 1일 ~ 2030년 8월 31일). [정책 시행 중; 서비스 및 주문 내역 확인 필요]"
 
 #: ../../funding.rst:14
 msgid ""
@@ -58,7 +58,7 @@ msgid ""
 "employees; R&D staff at least 10%. The current call may add conditions. "
 "Timing: Policy: 9 Dec 2025 to 8 Dec 2030. [Status: Policy in force; call "
 "not confirmed open]"
-msgstr ":doc:`과기형 중소기업 기술혁신 자금 <funding/sme-innovation>` (科技型中小企业技术创新资金 · 보조금 · 전시 / 글로벌 · 지분 취득 없음) — **보조금 및 구 단위 매칭 지원 규모는 해당 연도 공고 기준**. 상하이 소재 비상장 기술 기업: 전년도 매출 2억 위안 이하, 연구개발비 50만 위안 이상 및 매출액의 5% 이상, 상시 근로자 500명 이하, R&D 인력 비중 10% 이상. 연간 공고에 따라 추가 요건이 부과될 수 있습니다. (정책 유효기간: 2025년 12월 9일 ~ 2030년 12월 8일). [정책 시행 중; 공고 접수 개시 미확인]"
+msgstr ":doc:`과기형 중소기업 기술혁신 자금 <funding/sme-innovation>` (科技型中小企业技术创新资金 · 보조금 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음) — **보조금 및 구 단위 매칭 지원 규모는 해당 연도 공고 기준**. 상하이 소재 비상장 기술 기업: 전년도 매출 2억 위안 이하, 연구개발비 50만 위안 이상 및 매출액의 5% 이상, 상시 근로자 500명 이하, R&D 인력 비중 10% 이상. 연간 공고에 따라 추가 요건이 부과될 수 있습니다. (정책 유효기간: 2025년 12월 9일 ~ 2030년 12월 8일). [정책 시행 중; 공고 접수 개시 미확인]"
 
 #: ../../funding.rst:15
 msgid ""
@@ -70,7 +70,7 @@ msgid ""
 "apply; previously publicly funded projects cannot duplicate this support. "
 "Timing: Closed 31 Aug 2026, 16:00 China Standard Time. Tel: +86 21 "
 "68811090. [Status: Closed]"
-msgstr ":doc:`2026년 푸둥 대형 AI 모델 및 에이전트 응용 프로젝트 <funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · 비용 환급 지원 · 푸둥 신구 · 지분 취득 없음) — **지원 비율 및 지원 한도는 해당 실시 세칙 기준**. 주요 수혜 및 사업 성과가 푸둥구에 귀속되고 2025년도 모델 또는 에이전트 관련 적격 지출이 발생한 프로젝트. 필수 등록 및 심의 요건이 적용되며 타 공공 재정 지원을 이미 수령한 항목은 중복 지원이 불가합니다. (2026년 8월 31일 16:00(중국 표준시) 접수 마감). Tel: +86 21 68811090. [모집 마감]"
+msgstr ":doc:`2026년 푸둥 대형 AI 모델 및 에이전트 응용 프로젝트 <funding/pudong-model>` (浦东2026年大模型等AI新技术应用项目 · 비용 환급 지원 · 푸둥 신구 · 지분 제공 의무 없음) — **지원 비율 및 지원 한도는 해당 실시 세칙 기준**. 주요 수혜 및 사업 성과가 푸둥구에 귀속되고 2025년도 모델 또는 에이전트 관련 적격 지출이 발생한 프로젝트. 필수 등록 및 심의 요건이 적용되며 타 공공 재정 지원을 이미 수령한 항목은 중복 지원이 불가합니다. (2026년 8월 31일 16:00(중국 표준시) 마감). Tel: +86 21 68811090. [접수 마감]"
 
 #: ../../funding.rst:16
 msgid ""
@@ -82,7 +82,7 @@ msgid ""
 "expenditure, audit and annual notice conditions must be confirmed. "
 "Timing: Policy: 1 Sep 2025 to 31 Aug 2030. [Status: Policy in force; call "
 "not confirmed open]"
-msgstr ":doc:`민항구 과학기술 성과 상용화 지원 <funding/minhang-conversion>` (闵行科技成果转化支持 · 보조금 · 민항구 · 지분 취득 없음) — **신설 상용화 기업 대상: 연간 최대 50만 위안, 3년간 누적 최대 150만 위안, 적격 상용화 투자액의 최대 50%**. 민항구 내에서 추진되는 적격 연구개발 성과 상용화 프로젝트. 법인 등록, 적격 지출 증빙, 회계 감사 및 연간 공고 요건을 사전에 확인해야 합니다. (정책 유효기간: 2025년 9월 1일 ~ 2030년 8월 31일). [정책 시행 중; 공고 접수 개시 미확인]"
+msgstr ":doc:`민항구 과학기술 성과 상용화 지원 <funding/minhang-conversion>` (闵行科技成果转化支持 · 보조금 · 민항구 · 지분 제공 의무 없음) — **신설 상용화 기업 대상: 연간 최대 50만 위안, 3년간 누적 최대 150만 위안, 적격 상용화 투자액의 최대 50%**. 민항구 내에서 추진되는 적격 연구개발 성과 상용화 프로젝트. 법인 등록, 적격 지출 증빙, 회계 감사 및 연간 공고 요건을 사전에 확인해야 합니다. (정책 유효기간: 2025년 9월 1일 ~ 2030년 8월 31일). [정책 시행 중; 공고 접수 개시 미확인]"
 
 #: ../../funding.rst:17
 msgid ""
@@ -92,7 +92,7 @@ msgid ""
 "Project classification and investment thresholds apply. This is selective "
 "R&D support, not a general startup incorporation bonus. Timing: Policy "
 "through 31 Aug 2030. [Status: Policy in force; call not confirmed open]"
-msgstr ":doc:`민항구 핵심 기술 연구개발 프로젝트 <funding/minhang-rd>` (闵行关键核心技术攻关 · 보조금 · 민항구 · 지분 취득 없음) — **일반 프로젝트: R&D 투자액의 최대 30%, 최대 300만 위안; 중대 프로젝트: 최대 50%, 최대 1,000만 위안**. 프로젝트 등급 분류 및 최소 투자액 기준이 적용됩니다. 본 제도는 선별적 R&D 지원금이며 일반 창업 법인 설립 장려금이 아닙니다. (정책 유효기간: 2030년 8월 31일까지). [정책 시행 중; 공고 접수 개시 미확인]"
+msgstr ":doc:`민항구 핵심 기술 연구개발 프로젝트 <funding/minhang-rd>` (闵行关键核心技术攻关 · 보조금 · 민항구 · 지분 제공 의무 없음) — **일반 프로젝트: R&D 투자액의 최대 30%, 최대 300만 위안; 중대 프로젝트: 최대 50%, 최대 1,000만 위안**. 프로젝트 등급 분류 및 최소 투자액 기준이 적용됩니다. 본 제도는 선별적 R&D 지원금이며 일반 창업 법인 설립 장려금이 아닙니다. (정책 유효기간: 2030년 8월 31일까지). [정책 시행 중; 공고 접수 개시 미확인]"
 
 #: ../../funding.rst:18
 msgid ""
@@ -104,7 +104,7 @@ msgid ""
 "ordinary startup award and require comprehensive evaluation. Timing: "
 "Confirm applicable implementing notice. [Status: Published policy; "
 "implementing intake to confirm]"
-msgstr ":doc:`쉬후이구 임바디드 AI 산업 발전 지원 <funding/xuhui-embodied>` (徐汇具身智能产业支持 · 보조금 · 쉬후이구 · 지분 취득 없음) — **종합 평가 대상 기업 지원 한도: 일시불 최대 1,000만 위안, 연간 사업 발전 지원금 최대 2,000만 위안**. 로봇 파운데이션 모델, 임바디드 알고리즘, 로봇용 학습 데이터, 임베디드 OS 분야의 적격 기관. 명시된 최고 지원 한도는 일반 스타트업 자동 지급금이 아니며 엄격한 종합 평가가 수반됩니다. (해당 연도 구체적 실시 공고 확인 필요). [정책 발표됨; 세부 집행 및 접수 일정 확인 필요]"
+msgstr ":doc:`쉬후이구 임바디드 AI 산업 발전 지원 <funding/xuhui-embodied>` (徐汇具身智能产业支持 · 보조금 · 쉬후이구 · 지분 제공 의무 없음) — **종합 평가 대상 기업 지원 한도: 일시불 최대 1,000만 위안, 연간 사업 발전 지원금 최대 2,000만 위안**. 로봇 파운데이션 모델, 임바디드 알고리즘, 로봇용 학습 데이터, 임베디드 OS 분야의 적격 기관. 명시된 최고 지원 한도는 일반 스타트업 자동 지급금이 아니며 엄격한 종합 평가가 수반됩니다. (해당 세부 시행 공고 확인 필요). [정책 발표됨; 세부 집행 및 접수 일정 확인 필요]"
 
 #: ../../funding.rst:19
 msgid ""
@@ -116,7 +116,7 @@ msgid ""
 "representative; full-time startup; Shanghai company registered at most 3 "
 "years. Timing: Confirm branch intake and review schedule. Tel: +86 21 "
 "55231818. [Status: Program published; eligibility review]"
-msgstr ":doc:`STEFG 엔젤펀드 츠잉(Young Eagle) 계획 <funding/stefg-loan>` (天使基金雏鹰计划 · 대출 · 전시 / 글로벌 · 지분 취득 없음; 상환 의무 있음) — **최대 50만 위안; 3년 만기 무이자 융자; 36개월 원금 균등 분할 상환**. 만 40세 이하의 중국 국적 재학생 및 졸업생 창업자; 창업자가 최대 자연인 주주이자 법정대표자여야 하며, 전업 창업자로서 상하이 소재 법인 설립 3년 이내여야 함. (각 대학 분회 접수 및 심사 일정 확인 필요). Tel: +86 21 55231818. [프로그램 공고됨; 자격 요건 심사 필요]"
+msgstr ":doc:`STEFG 엔젤펀드 츠잉(Young Eagle) 계획 <funding/stefg-loan>` (天使基金雏鹰计划 · 대출 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음; 상환 필요) — **최대 50만 위안; 3년 만기 무이자 융자; 36개월 원금 균등 분할 상환**. 만 40세 이하의 중국 국적 재학생 및 졸업생 창업자; 창업자가 최대 자연인 주주이자 법정대표자여야 하며, 전업 창업자로서 상하이 소재 법인 설립 3년 이내여야 함. (관할 지부 접수처 및 심사 일정 확인 필요). Tel: +86 21 55231818. [프로그램 공고됨; 자격 요건 심사 필요]"
 
 #: ../../funding.rst:20
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "contribution. Review nominee ownership, exit obligation and documents. "
 "Timing: Confirm branch intake and review schedule. Tel: +86 21 55231818. "
 "[Status: Program published; eligibility review]"
-msgstr ":doc:`STEFG 엔젤펀드 슝잉(Eagle) 계획 <funding/stefg-equity>` (天使基金雄鹰计划 · 지분 투자 · 전시 / 글로벌 · 임시 지분 참여; 원가 환매 방식) — **최대 80만 위안; 최대 3년간 무배당 한시적 지분 투자 참여; 원금 환매 옵션**. 만 40세 이하의 중국 국적 창업자; 적격 지분 구조, 전업 창업, 혁신성 요건을 충족해야 하며, 3년 이내에 원금 기준 지분 환매가 가능합니다. (정기 신청 접수 일정 확인 필요). Tel: +86 21 55231818. [프로그램 공고됨; 자격 요건 심사 필요]"
+msgstr ":doc:`STEFG 엔젤펀드 슝잉(Eagle) 계획 <funding/stefg-equity>` (天使基金雄鹰计划 · 지분 투자 · 상하이 전역 / 글로벌 · 한시적 지분 보유; 최초 투자금액으로 회수) — **최대 80만 위안, 지원 기간 3년; 배당에 참여하지 않으며 기간 만료 시 최초 투자금액으로 지분 회수**. 재단 규정을 충족하는 기술 창업자. 창업자의 현금 출자액은 재단 출자액을 초과해야 함. 지분 명의 보유 구조, 회수 의무 및 계약 서류 확인 필요. (관할 지부 접수처 및 심사 일정 확인 필요). Tel: +86 21 55231818. [프로그램 공고됨; 자격 요건 심사 필요]"
 
 #: ../../funding.rst:21
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 "Bank underwriting still applies; an interest subsidy does not remove "
 "principal repayment. Timing: Confirm current HRSS service rules. [Status: "
 "Published service; current terms to confirm]"
-msgstr ":doc:`상하이시 창업 담보 대출 <funding/startup-guarantee>` (上海创业担保贷款 · 대출 · 전시 / 글로벌 · 지분 취득 없음; 상환 의무 있음) — **개인 최대 50만 위안; 소기업 최대 400만 위안; 적격 프로젝트 대상 이자 보조금(이차보전) 지급**. 상하이 소재 등록 소기업 및 적격 창업가. 신용 평가, 고용 창출 실적, 담보 심사 요건이 적용됩니다. (지정 은행 및 공공 고용 서비스 기관 상시 접수). [서비스 공시됨; 최신 약관 확인 필요]"
+msgstr ":doc:`상하이시 창업 담보 대출 <funding/startup-guarantee>` (上海创业担保贷款 · 대출 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음; 상환 필요) — **대출 한도와 이자 지원은 신청자 유형 및 현행 규정에 따라 다름**. 개인, 예비 창업자, 기업 유형에 따라 거주·학력·등록·고용 요건이 다릅니다. 은행의 여신 심사는 별도로 진행되며, 이자 지원을 받아도 원금은 상환해야 합니다. (현행 인사사회보장국(HRSS) 서비스 규정 확인 필요). [서비스 공시됨; 최신 약관 확인 필요]"
 
 #: ../../funding.rst:22
 msgid ""
@@ -151,7 +151,7 @@ msgid ""
 "and evidence. A tax deduction reduces taxable income; it is not cash "
 "equal to the expense or deduction. Timing: Annual tax filing and "
 "applicable rules. [Status: Published tax guidance; applicability review]"
-msgstr ":doc:`연구개발비 세액 추가공제 <funding/tax-rd>` (研发费用加计扣除 · 세제 혜택 · 전시 / 글로벌 · 지분 취득 없음) — **적격 연구개발 비용의 100% 추가 비용 인정(비자본화 지출 시 과세소득 75~100% 감면 효과)**. 적격 R&D 활동을 수행하는 중국 내 법인(네거티브 리스트 업종 제외). 프로젝트 입안서, R&D 보조 원장, 연구비 정산 명세서 구비 필수. (연간 법인세 확정신고 기간(통상 매년 5월 31일 마감)). [세무 지침 공시됨; 적용 적격성 검토 필요]"
+msgstr ":doc:`연구개발비 세액 추가공제 <funding/tax-rd>` (研发费用加计扣除 · 세제 혜택 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음) — **적격 연구개발비를 비용으로 처리하는 경우 100% 추가 공제; 자산으로 계상하는 경우 취득원가의 200%를 상각 기준으로 적용**. 규정에 맞는 회계 처리와 증빙을 갖춘 기업의 적격 연구개발비가 대상입니다. 세액 공제가 아니라 과세소득을 줄이는 추가 공제이며, 지출액이나 공제액만큼 현금을 지급하는 제도가 아닙니다. (연례 세무 신고 및 관련 규정 확인 필요). [세무 지침 공시됨; 적용 적격성 검토 필요]"
 
 #: ../../funding.rst:23
 msgid ""
@@ -162,7 +162,7 @@ msgid ""
 "IP, personnel, R&D, revenue mix and annual reporting; not all AI "
 "companies qualify. Timing: Recognition batches and annual filing. "
 "[Status: Published tax guidance; recognition required]"
-msgstr ":doc:`첨단기술기업(HNTE) 법인세 감면 혜택 <funding/tax-hnte>` (高新技术企业所得税优惠 · 세제 혜택 · 전시 / 글로벌 · 지분 취득 없음) — **법인세율을 기본 25%에서 15%로 인하 적용; 결손금 이월 공제 기간 최대 10년 연장**. 공식 첨단기술기업(HNTE) 인증을 취득한 법인: 핵심 독립 지식재산권, R&D 지출 비중 요건, 첨단기술 제품 매출 비중(60% 이상) 요건 충족 필수. (연간 상하이시 인증 배치 공고 확인 필요). [세무 지침 공시됨; 공식 기업 인증 필요]"
+msgstr ":doc:`첨단기술기업(HNTE) 법인세 감면 혜택 <funding/tax-hnte>` (高新技术企业所得税优惠 · 세제 혜택 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음) — **인증을 받고 요건을 충족한 기업에 법인세율 15% 적용**. 인증을 받고 계속해서 요건을 충족해야 합니다. 지식재산권, 인력, R&D, 매출 구성 및 연간 보고 요건을 확인해야 하며, 모든 AI 기업이 대상인 것은 아닙니다. (인증 차수 및 연례 신고 확인 필요). [세무 지침 공시됨; 공식 기업 인증 필요]"
 
 #: ../../funding.rst:24
 msgid ""
@@ -174,7 +174,7 @@ msgid ""
 "admission, innovation funding and investor interest are separate "
 "outcomes. Timing: Check the specific 2026 track; not labelled open. "
 "[Status: 2026 call published; deadline check required]"
-msgstr ":doc:`2026 촹짜이상하이 국제 혁신창업대회 <funding/startup-competition>` (2026创在上海国际创新创业大赛 · 경진대회 · 전시 / 글로벌 · 시상 및 투자 조건 상이) — **대회 수상 및 평가 결과에 따른 시·구 연계 혁신 자금 지원**. 상하이 소재 적격 중소기업 및 신규 창업팀. 부문별 트랙, 업종 기준, 기업 연력 요건이 적용됩니다. (2026년 공식 대회 공고 요건 확인 필요). [2026년 공고 발표됨; 마감일 확인 필요]"
+msgstr ":doc:`2026 촹짜이상하이 국제 혁신창업대회 <funding/startup-competition>` (2026创在上海国际创新创业大赛 · 경진대회 · 상하이 전역 / 글로벌 · 시상 및 투자 조건 상이) — **상금과 연계 투자는 대회 부문에 따라 다르며 지원이 보장되지는 않음**. 공식 부문별 규정에 따른 국내외 창업팀 및 기업이 대상입니다. 대회 참가, 혁신 지원금 선정, 투자자의 관심은 각각 별개의 결과입니다. (2026년 세부 트랙 확인 필요; 접수 중 표기 없음). [2026년 공고 발표됨; 마감일 확인 필요]"
 
 #: ../../funding.rst:25
 msgid ""
@@ -186,7 +186,7 @@ msgid ""
 "automatic funding or immigration status. Timing: Confirm track and "
 "division dates. [Status: 2026 competition published; track intake to "
 "confirm]"
-msgstr ":doc:`하이쥐 영재 글로벌 혁신창업대회 <funding/haiju>` (海聚英才全球创新创业大赛 · 경진대회 · 전시 / 글로벌 · 시상 및 투자 조건 상이) — **수상 상금, 펀드 투자 연계, 인재 우대 정책 및 창업 프로젝트 지원금 패키지**. 중국 국내외 유망 인재 창업팀. 트랙별 참가 자격 요건, 결선 진출 규정, 현지 법인 설립 유치 조건을 확인해야 합니다. (해당 연도 글로벌 대회 모집 요강 확인 필요). [2026년 경진대회 공고됨; 세부 트랙 접수 여부 확인 필요]"
+msgstr ":doc:`하이쥐 영재 글로벌 혁신창업대회 <funding/haiju>` (海聚英才全球创新创业大赛 · 경진대회 · 상하이 전역 / 글로벌 · 시상 및 투자 조건 상이) — **대회 부문별 상금, 관계 기관 연결 및 지원 서비스**. 공식 대회 포털과 해당 지역 예선을 통해 신청합니다. 구 단위 선발이나 결선 참가가 자동적인 자금 지원 또는 체류 자격을 보장하지는 않습니다. (세부 트랙 및 권역별 일정 확인 필요). [2026년 경진대회 공고됨; 세부 트랙 접수 여부 확인 필요]"
 
 #: ../../funding.rst:26
 msgid ""
@@ -198,7 +198,7 @@ msgid ""
 "routes must not be confused; host endorsement may be required. Timing: "
 "Confirm category deadline and host review. [Status: 2026 call published; "
 "not confirmed open]"
-msgstr ":doc:`2026 백옥란 인재 계획 푸장 프로젝트 <funding/pujiang>` (2026白玉兰人才计划浦江项目 · 보조금 · 전시 / 글로벌 · 지분 취득 없음) — **프로젝트 유형에 따라 15만~50만 위안 지원**. 상하이로 귀국한 해외 유학 인재 및 초빙 연구자: 상하이 내 소속 기관 계약, 체류 기간, R&D 역량 기준 충족 필수. (2026년도 시 과학기술위원회 공고 마감 일정 기준). [2026년 공고 발표됨; 접수 진행 여부 미확인]"
+msgstr ":doc:`2026 백옥란 인재 계획 푸장 프로젝트 <funding/pujiang>` (2026白玉兰人才计划浦江项目 · 보조금 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음) — **유형별 지원; 2026년 해당 부문의 실제 공고 확인 필요**. 2026년 7월 지침은 적격 해외 귀국 인재를 유형별로 지원합니다. 연구 지원과 창업 지원을 구분해야 하며, 소속 기관의 추천이나 승인이 필요할 수 있습니다. (분야별 마감일 및 주관 기관 심사 확인 필요). [2026년 공고 발표됨; 접수 진행 여부 미확인]"
 
 #: ../../funding.rst:27
 msgid ""
@@ -209,7 +209,7 @@ msgid ""
 "conditions. Product availability and partner credits are separately "
 "governed. Timing: Online application; regional eligibility review. "
 "[Status: Program published; eligibility review]"
-msgstr ":doc:`엔비디아 인셉션 프로그램 <funding/nvidia-service>` (英伟达初创加速计划 · 현물 및 서비스 지원 · 전시 / 글로벌 · 지분 취득 없음) — **비지분 무상 지원: GPU 하드웨어 할인, 딥러닝 인스티튜트(DLI) 교육 크레딧, 기술 지원 및 시장 진출 기회**. AI, 데이터 사이언스, 고성능 컴퓨팅 기반의 자체 제품을 개발하는 법인 스타트업. 유효한 기업 웹사이트와 비즈니스 도메인 이메일 필수. (상시 온라인 신청 접수). [프로그램 공고됨; 자격 요건 심사 필요]"
+msgstr ":doc:`엔비디아 인셉션 프로그램 <funding/nvidia-service>` (英伟达初创加速计划 · 현물 및 서비스 지원 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음) — **회원 가입 무료; 생태계 혜택에는 별도 조건이 적용되며 현금 보조금이 아님**. 적격 AI 스타트업이 대상입니다. 법인 설립, 개발자, 업력, 지역 요건을 확인해야 합니다. 제품 제공 여부와 파트너 크레딧에는 별도 조건이 적용됩니다. (온라인 신청; 지역 자격 요건 심사 필요). [프로그램 공고됨; 자격 요건 심사 필요]"
 
 #: ../../funding.rst:28
 msgid ""
@@ -221,7 +221,7 @@ msgid ""
 "Do not substitute global AWS account rules or credit ceilings. Timing: "
 "Confirm current package and expiration. [Status: Regional eligibility to "
 "confirm]"
-msgstr ":doc:`AWS 차이나 액티베이트 크레딧 <funding/aws-credit>` (亚马逊云科技中国区Activate积分 · 클라우드 크레딧 · 전시 / 글로벌 · 제안상 지분 요구 없음; 세부 조건 확인 필요) — **파트너 연계 등급에 따라 지정된 규모의 AWS 차이나 클라우드 서비스 크레딧 차등 지급**. Sinnet(베이징) 또는 NWCD(닝샤)에서 운영하는 AWS 중국 리전 계정을 보유한 적격 스타트업. 공인 벤처캐피털 또는 인큐베이터 파트너 제휴 필요. (파트너 채널을 통한 상시 온라인 접수). [해당 지역 자격 요건 확인 필요]"
+msgstr ":doc:`AWS 차이나 액티베이트 크레딧 <funding/aws-credit>` (亚马逊云科技中国区Activate积分 · 클라우드 크레딧 · 상하이 전역 / 글로벌 · 제안상 지분 요구 없음; 세부 조건 확인 필요) — **중국 리전의 적격 서비스에 사용할 수 있는 패키지별 프로모션 크레딧**. 중국에 설립된 비상장 스타트업으로, 적격 신규 고객 요건 또는 참여 파트너와의 관계 요건을 충족해야 합니다. 글로벌 AWS 계정 규정이나 크레딧 한도를 그대로 적용하면 안 됩니다. (현행 지원 패키지 및 만료일 확인 필요). [해당 지역 자격 요건 확인 필요]"
 
 #: ../../funding.rst:29
 msgid ""
@@ -232,7 +232,7 @@ msgid ""
 "benefits are not represented as China-region entitlements. Timing: "
 "Confirm current application and credit validity. [Status: Regional "
 "eligibility to confirm]"
-msgstr ":doc:`마이크로소프트 스타트업 창업 클라우드 자원 <funding/azure-credit>` (微软创业云资源 · 클라우드 크레딧 · 전시 / 글로벌 · 현행 협약서 확인 필요) — **마이크로소프트 포 스타트업 파운더스 허브 프로그램 레벨에 따른 애저(Azure) 클라우드 크레딧 지원**. 자체 소프트웨어 기반 제품이나 서비스를 개발 중인 초기 법인 스타트업. 중국 리전 계정의 지원 서비스 범위는 별도 확인 필요. (파운더스 허브 공식 포털 상시 온라인 접수). [해당 지역 자격 요건 확인 필요]"
+msgstr ":doc:`마이크로소프트 스타트업 창업 클라우드 자원 <funding/azure-credit>` (微软创业云资源 · 클라우드 크레딧 · 상하이 전역 / 글로벌 · 현행 협약서 확인 필요) — **해당 지원 상품에 따른 클라우드 크레딧 및 기술 자원**. 온라인으로 신청하고 기업·지역·계정별 자격을 확인해야 합니다. 글로벌 프로그램 혜택이 중국 리전에서도 보장되는 것은 아닙니다. (현행 신청 요건 및 크레딧 유효기간 확인 필요). [해당 지역 자격 요건 확인 필요]"
 
 #: ../../funding.rst:30
 msgid ""
@@ -243,7 +243,7 @@ msgid ""
 "does not establish a universal application form, valuation or "
 "shareholding percentage. Timing: Manager-led sourcing and due diligence. "
 "[Status: Fund announced; deal intake to confirm]"
-msgstr ":doc:`푸둥 인공지능 시드 펀드 <funding/pudong-equity>` (浦东人工智能种子基金 · 지분 투자 · 푸둥 신구 · 협의 지분율 적용) — **총 규모 2억 위안의 초기 지분투자 펀드; 건당 투자 규모는 투자심의위원회 심의를 통해 결정**. 푸둥신구 내에 설립 또는 이전하는 유망 AI 모델, 구현 애플리케이션 및 하드웨어 연계 초기 스타트업. (위탁 운용사 상시 발굴 및 투자 심의 절차에 따름). [펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요]"
+msgstr ":doc:`푸둥 인공지능 시드 펀드 <funding/pudong-equity>` (浦东人工智能种子基金 · 지분 투자 · 푸둥 신구 · 협의 지분율 적용) — **목표 펀드 규모 20억 위안, 1차 조성 규모 5억 위안; 기업별 투자액은 확인되지 않음**. 운용사의 투자 목적에 부합하는 시드 단계 AI 프로젝트가 대상입니다. 펀드 출범 발표만으로 공통 신청서, 기업가치 또는 지분율이 정해지는 것은 아닙니다. (운용사 주도 딜 발굴 및 실사 진행). [펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요]"
 
 #: ../../funding.rst:31
 msgid ""
@@ -255,7 +255,7 @@ msgid ""
 "stage, domicile, return and ownership terms. Timing: Investment committee "
 "process; no guaranteed award. [Status: Published investment platform; "
 "deal review]"
-msgstr ":doc:`시급 선도산업 및 AI 전문 펀드 <funding/city-equity>` (先导产业与人工智能专项基金 · 지분 투자 · 전시 / 글로벌 · 협의 지분율 적용) — **시정부 선도산업 모펀드 및 산하 서브펀드를 통한 시장 중심의 에쿼티(지분) 투자**. AI 인프라, 원천 모델, 반도체 및 핵심 산업 애플리케이션 분야에서 시장 적합성을 검증받은 유망 기술 기업. (시장 기반 펀드 운용사별 상시 소싱 및 실사 일정 준용). [공시된 투자 플랫폼; 투자 적격 심사 필요]"
+msgstr ":doc:`시급 선도산업 및 AI 전문 펀드 <funding/city-equity>` (先导产业与人工智能专项基金 · 지분 투자 · 상하이 전역 / 글로벌 · 협의 지분율 적용) — **펀드별 투자 조건 적용; 전체 펀드 규모가 기업별 지원금은 아님**. AI, 반도체, 헬스케어 등 투자 목적에 맞는 기업이 대상입니다. 직접 투자 또는 하위 펀드 운용사를 확인하고 투자 단계, 소재지, 수익 및 지분 조건을 검토해야 합니다. (투자심의위원회 절차 진행; 지원 보장 없음). [공시된 투자 플랫폼; 투자 적격 심사 필요]"
 
 #: ../../funding.rst:32
 msgid ""
@@ -268,7 +268,7 @@ msgid ""
 "qualifying model R&D or deployment; review the current quarterly guide. "
 "Timing: Quarterly claims; confirm the current batch. Tel: +86 21 58811024 "
 "ext. 5091. [Status: Quarterly scheme published; current intake to confirm]"
-msgstr ":doc:`장장 AI 혁신 소도시 컴퓨팅·모델·코퍼스 지원 <funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · 비용 환급 지원 · 푸둥 신구 · 지분 취득 없음) — **장장 AI 혁신 소도시 전용 바우처 정책에 따른 적격 컴퓨팅 비용 감면 및 모델·데이터 구매 지원**. 장장 AI 혁신 소도시 핵심 구역 내에 등록 및 실사업장을 둔 적격 인공지능 기업. (소도시 전용 실시 지침 및 신청 창구 확인 필요). Tel: +86 21 58811024 ext. 5091. [분기별 프로그램 공시됨; 당해 분기 접수 확인 필요]"
+msgstr ":doc:`장장 AI 혁신 혁신 지구 컴퓨팅·모델·코퍼스 지원 <funding/zhangjiang-ai-vouchers>` (张江AI创新小镇算力券、模型券、语料券 · 비용 환급 지원 · 푸둥 신구 · 지분 제공 의무 없음) — **승인된 실제 비용의 최대 100%, 항목별 최대 100만 위안; 지원 기간 최대 1년**. 지정된 지구 경계 안에 등록하고 실제 운영하며, 2025년 1월 1일 이후 설립하거나 이전한 AI 기업이 대상입니다. 적격 모델 연구개발 또는 도입 비용이어야 하며 최신 분기별 지침을 확인해야 합니다. (분기별 신청; 당해 접수 차수 확인 필요). Tel: +86 21 58811024 ext. 5091. [분기별 프로그램 공시됨; 당해 분기 접수 확인 필요]"
 
 #: ../../funding.rst:33
 msgid ""
@@ -281,7 +281,7 @@ msgid ""
 "Timing: First batch closed 27 May 2026, 16:00 China Standard Time; notice "
 "plans quarterly follow-ups. Tel: +86 21 23119377. [Status: First 2026 "
 "batch closed; later batches to verify]"
-msgstr ":doc:`2026 상하이 '모수선청' 컴퓨팅·모델·코퍼스 바우처 <funding/municipal-ai-vouchers>` (2026模塑申城算力券、模型券、语料券 · 비용 환급 지원 · 전시 / 글로벌 · 지분 취득 없음) — **공인 플랫폼을 통한 컴퓨팅 자원, 모델 토큰(Token) 사용료 및 코퍼스(말뭉치) 조달 비용 바우처 지원**. 상하이시 인공지능 산업 발전 지침에 부합하며 플랫폼 지정 공급사의 자원을 활용하는 적격 AI 개발사 및 연구팀. (2026년도 상하이시 경제정보화위원회 공고 일정 확인 필요). Tel: +86 21 23119377. [2026년 1차 마감됨; 후속 차수 일정 확인 필요]"
+msgstr ":doc:`2026 상하이 '모수선청' 컴퓨팅·모델·코퍼스 바우처 <funding/municipal-ai-vouchers>` (2026模塑申城算力券、模型券、语料券 · 비용 환급 지원 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음) — **공인 플랫폼을 통한 컴퓨팅 자원, 모델 토큰(Token) 사용료 및 코퍼스(말뭉치) 조달 비용 바우처 지원**. 비관계사로부터 적격 서비스를 구매하는 상하이 AI 모델·에이전트 개발사 및 이용 기업이 대상입니다. 다른 시 재정 보조금을 받은 프로젝트는 제외됩니다. (1차 접수 2026년 5월 27일 16:00(중국 표준시) 마감; 공고상 분기별 후속 접수 예정). Tel: +86 21 23119377. [2026년 1차 마감됨; 후속 차수 일정 확인 필요]"
 
 #: ../../funding.rst:34
 msgid ""
@@ -292,7 +292,7 @@ msgid ""
 "criteria, collateral, rates, repayment, application steps and contacts by "
 "product. IP ownership and bank assessment matter. Timing: "
 "Product-specific. [Status: 2026 directory published; lender review]"
-msgstr ":doc:`상하이시 지식재산권 금융 상품 디렉토리 <funding/ip-finance>` (上海知识产权金融产品清单 · 대출 / 보험 · 전시 / 글로벌 · 지분 취득 없음; 제품 관련 의무 적용) — **특허 및 지식재산권(IP) 담보 평가액 기반 은행 대출, IP 질권 설정 융자 및 평가 수수료·이자 보조**. 핵심 특허 또는 등록 소프트웨어 저작권을 보유하고 상하이에서 정상 사업을 영위하는 혁신 중소기업. (제휴 은행 및 지식재산 금융 서비스 창구 상시 접수). [2026년 목록 공시됨; 대출 기관 심사 필요]"
+msgstr ":doc:`상하이시 지식재산권 금융 상품 디렉토리 <funding/ip-finance>` (上海知识产权金融产品清单 · 대출 / 보험 · 상하이 전역 / 글로벌 · 지분 취득 없음; 제품 관련 의무 적용) — **은행 및 상품별 대출·보험·신탁 조건 적용**. 2026년 지식재산국 상품 목록에 상품별 차주 요건, 담보, 금리, 상환, 신청 절차 및 연락처가 나와 있습니다. 지식재산권 소유와 은행 심사가 중요합니다. (개별 제품별 상이). [2026년 목록 공시됨; 대출 기관 심사 필요]"
 
 #: ../../funding.rst:35
 msgid ""
@@ -304,9 +304,50 @@ msgid ""
 "and new products. Recognition, insurance compensation, procurement and "
 "R&D support are separate mechanisms; obtain the current call. Timing: "
 "Track-specific notices. [Status: Published route; current call to confirm]"
-msgstr ":doc:`초도 설비·첫 테이프아웃·첫 생산 소재·첫 버전 소프트웨어 지원 경로 <funding/first-use>` (首台套、首轮流片、首批次材料、首版次软件路径 · 보조금 / 시장 진출 · 전시 / 글로벌 · 자격 충족 시 공공 지원금 지분 요구 없음) — **최초 개발 및 시제품 양산 검증에 대한 보험료 보조 또는 계약 금액의 일정 비율 보조금 차등 지급**. 첨단 장비 초도품(首台套), IC 첫 칩 제작(首轮流片), 핵심 신소재 최초 사용(首批次), 국산 소프트웨어 첫 버전(首版次)을 성공적으로 실증·납품한 기업. (시 경제정보화위원회 연간 분야별 전용 공고 확인 필요). [지원 경로 공시됨; 현행 공고 확인 필요]"
+msgstr ":doc:`초도 설비·첫 테이프아웃·첫 생산 소재·첫 버전 소프트웨어 지원 경로 <funding/first-use>` (首台套、首轮流片、首批次材料、首版次软件路径 · 보조금 / 시장 진출 · 상하이 전역 / 글로벌 · 자격 충족 시 공공 지원금 지분 요구 없음) — **프로그램별 조건 적용; 공통 지원 한도는 확인되지 않음**. 상하이 정책에 명시된 적격 전문 중소기업 및 신제품 지원 경로입니다. 인증, 보험 보상, 조달 및 R&D 지원은 서로 다른 제도이므로 최신 공고를 확인해야 합니다. (트랙별 개별 공고 참조). [지원 경로 공시됨; 현행 공고 확인 필요]"
 
 #: ../../funding.rst:36
+msgid ""
+":doc:`Shanghai early-stage startup social-insurance subsidy "
+"<funding/startup-insurance>` (上海初创期创业组织社会保险补贴 · Reimbursement · Citywide "
+"/ global · No equity) — **50% of specified employer contributions at the "
+"minimum contribution base; up to 8 people per month, within 36 months of "
+"registration**. Eligibility: Qualifying new startup organizations led by "
+"eligible local workers or specified residence/returnee categories, after "
+"employing workers for 6 months. Support is calculated against eligible "
+"local workers; avoid duplicate employment subsidies for the same person. "
+"Timing: Policy through 31 Dec 2027; confirm district procedure. [Status: "
+"Policy in force; call not confirmed open]"
+msgstr ":doc:`상하이 초기 창업 조직 사회보험료 보조 <funding/startup-insurance>` (上海初创期创业组织社会保险补贴 · 비용 환급 지원 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음) — **최저 보험료 산정 기준에 따른 지정 사용자 부담금의 50%; 월 최대 8명, 등록 후 36개월 이내**. 적격 현지 근로자 또는 지정 거주·귀국 인재 자격자가 신설한 창업 조직이 근로자를 6개월 고용한 후 신청할 수 있습니다. 적격 상하이 근로자 수로 산정하며 동일인에 대한 고용 보조금 중복 수혜는 불가합니다. (정책 유효기간 2027년 12월 31일까지; 구별 절차 확인). [정책 시행 중; 공고 접수 개시 미확인]"
+
+#: ../../funding.rst:37
+msgid ""
+":doc:`Shanghai pre-registration incubation rent subsidy "
+"<funding/startup-incubation-rent>` (上海创业孵化期场地房租补贴 · Reimbursement · "
+"Citywide / global · No equity) — **Actual workstation cost before "
+"registration; up to RMB 10,000 and at most 6 months**. Eligibility: Teams "
+"entering a municipal demonstration incubation base and establishing a "
+"qualifying startup organization during incubation. Only the period from "
+"admission to registration is covered. Ask the base and district "
+"employment service for the current evidence and filing procedure. Timing: "
+"Policy through 31 Dec 2027; confirm district procedure. [Status: Policy "
+"in force; call not confirmed open]"
+msgstr ":doc:`상하이 등록 전 인큐베이션 공간 임차료 보조 <funding/startup-incubation-rent>` (上海创业孵化期场地房租补贴 · 비용 환급 지원 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음) — **등록 전 실제 좌석 이용료; 최대 1만 위안, 최장 6개월**. 시급 창업 인큐베이션 시범기지에 입주하고 인큐베이션 기간에 적격 창업 조직을 설립한 팀이 대상입니다. 입주부터 등록까지의 비용만 인정되며, 기지와 구 고용서비스에 증빙 및 신청 절차를 확인해야 합니다. (정책 유효기간 2027년 12월 31일까지; 구별 절차 확인). [정책 시행 중; 공고 접수 개시 미확인]"
+
+#: ../../funding.rst:38
+msgid ""
+":doc:`Shanghai first-startup one-off subsidy "
+"<funding/first-startup-subsidy>` (上海首次创业一次性补贴 · Grant · Citywide / global "
+"· No equity) — **One-off RMB 8,000 for qualifying founders**. "
+"Eligibility: Shanghai-hukou graduates within 2 years of graduation or "
+"recognized local people with employment difficulties. First qualifying "
+"startup must have operated for 1 year and paid employee social insurance "
+"for at least one person for 6 months. This is not a universal "
+"incorporation award. Timing: Policy through 31 Dec 2027; confirm district "
+"procedure. [Status: Policy in force; call not confirmed open]"
+msgstr ":doc:`상하이 첫 창업 일시금 <funding/first-startup-subsidy>` (上海首次创业一次性补贴 · 보조금 · 상하이 전역 / 글로벌 · 지분 제공 의무 없음) — **적격 창업자에게 일회성 8,000위안**. 상하이 호적을 보유한 졸업 후 2년 이내 고등교육기관 졸업자 또는 인정된 상하이 취업 취약계층이 대상입니다. 첫 적격 창업 조직을 1년 운영하고 최소 1명의 직원 사회보험료를 6개월 납부해야 합니다. 모든 법인 설립에 지급되는 장려금이 아닙니다. (정책 유효기간 2027년 12월 31일까지; 구별 절차 확인). [정책 시행 중; 공고 접수 개시 미확인]"
+
+#: ../../funding.rst:39
 msgid ""
 ":doc:`Changning AI Industry Projects, 2026 <funding/changning-ai-2026>` "
 "(2026长宁人工智能产业项目 · Grant · Changning · No equity) — **Project-specific "
@@ -315,9 +356,9 @@ msgid ""
 "with normal operations and good credit. The call covers multiple AI, "
 "software, technology-service and market-development directions. Timing: "
 "Closed 30 June 2026. [Status: Closed]"
-msgstr ":doc:`2026년 창닝구 인공지능 산업 프로젝트 <funding/changning-ai-2026>` (2026长宁人工智能产业项目 · 보조금 · 창닝구 · 지분 취득 없음) — **창닝구 산업 특화 정책에 따른 프로젝트 평가 기반의 차등 보조금 지원**. 창닝구에 등록 및 세무 관계를 두고 AI 알고리즘, 스마트 비즈니스 솔루션을 구현하는 혁신 기업. (2026년도 창닝구 과학기술위원회 산업 공고 확인 필요). [모집 마감]"
+msgstr ":doc:`2026년 창닝구 인공지능 산업 프로젝트 <funding/changning-ai-2026>` (2026长宁人工智能产业项目 · 보조금 · 창닝구 · 지분 제공 의무 없음) — **창닝구 산업 특화 정책에 따른 프로젝트 평가 기반의 차등 보조금 지원**. 창닝구에 적법하게 설립되어 정상 운영 중이며 신용 상태가 양호한 법인 및 비법인 조직이 대상입니다. AI, 소프트웨어, 기술 서비스, 시장 개척 등 여러 지원 분야를 포함합니다. (2026년도 창닝구 과학기술위원회 산업 공고 확인 필요). [접수 마감]"
 
-#: ../../funding.rst:37
+#: ../../funding.rst:40
 msgid ""
 ":doc:`Changning Technology Star Teams, 2026 "
 "<funding/changning-tech-star>` (2026长宁科技之星团队 · Grant · Changning · No "
@@ -327,9 +368,9 @@ msgid ""
 "lawfully in Changning. Required evidence includes research outcomes, "
 "employment contracts and commitments. Timing: Closed 26 June 2026. Tel: "
 "+86 21 22050986. [Status: Closed]"
-msgstr ":doc:`2026년 창닝구 과학기술 스타팀 <funding/changning-tech-star>` (2026长宁科技之星团队 · 보조금 · 창닝구 · 지분 취득 없음) — **우수 기술 혁신 및 산업화 팀 대상 장려금 및 R&D 프로젝트 지원금**. 창닝구 내 핵심 기술 과제를 수행하고 구의 전략 산업에 기여하는 산학연 우수 연구개발팀. (2026년도 창닝구 인재 및 과기 공고 일정 확인 필요). Tel: +86 21 22050986. [모집 마감]"
+msgstr ":doc:`2026년 창닝구 과학기술 스타팀 <funding/changning-tech-star>` (2026长宁科技之星团队 · 보조금 · 창닝구 · 지분 제공 의무 없음) — **우수 기술 혁신 및 산업화 팀 대상 장려금 및 R&D 프로젝트 지원금**. 창닝구에서 적법하게 설립되거나 운영되는 기관의 AI, 산업 인터넷, 바이오의약 분야 적격 팀이 대상입니다. 연구 성과, 근로계약, 서약서 등의 증빙이 필요합니다. (2026년도 창닝구 인재 및 과기 공고 일정 확인 필요). Tel: +86 21 22050986. [접수 마감]"
 
-#: ../../funding.rst:38
+#: ../../funding.rst:41
 msgid ""
 ":doc:`Putuo Technology Enterprise Seed Plan, second 2026 batch "
 "<funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Grant · Putuo · No equity) — "
@@ -339,9 +380,9 @@ msgid ""
 "by stamped paper materials through the responsible investment promotion "
 "center; the science commission evaluates the project. Timing: Closed 31 "
 "August 2026. Tel: +86 21 52564588 ext. 8627. [Status: Closed]"
-msgstr ":doc:`2026년 푸퉈구 과기창업기업 시드 계획 제2차 <funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · 보조금 · 푸퉈구 · 지분 취득 없음) — **구 공인 혁신 캐리어 입주 기업 대상 초기 인큐베이션 및 성장 보조금 차등 지원**. 푸퉈구 내 지정 인큐베이터 또는 혁신원에 입주하여 지능형 소프트웨어, R&D 서비스를 수행하는 초기 과기형 기업. (2026년도 제2차 공고 접수 마감일 확인 필요). Tel: +86 21 52564588 ext. 8627. [모집 마감]"
+msgstr ":doc:`2026년 푸퉈구 과기창업기업 시드 계획 제2차 <funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · 보조금 · 푸퉈구 · 지분 제공 의무 없음) — **선정 기업당 30만 위안; 최초 50% 지급, 1년 후 성장 평가를 거쳐 잔액 지급**. 적법하게 설립되고 신용 상태가 양호한 기술 기업이 대상입니다. 온라인 신청과 함께 날인한 서류를 담당 투자유치센터를 통해 제출하며, 과학기술위원회가 과제를 평가합니다. (2026년도 제2차 공고 접수 마감일 확인 필요). Tel: +86 21 52564588 ext. 8627. [접수 마감]"
 
-#: ../../funding.rst:39
+#: ../../funding.rst:42
 msgid ""
 ":doc:`Putuo intelligent software industry support, 2026 "
 "<funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · Grant / "
@@ -352,9 +393,9 @@ msgid ""
 "breakthroughs and other directions; approval and eligible periods differ. "
 "Timing: Closed 26 June 2026. Tel: +86 21 52564588 ext. 7166. [Status: "
 "Closed]"
-msgstr ":doc:`2026년 푸퉈구 지능형 소프트웨어 산업 전용 지원 <funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · 보조금 / 비용 환급 · 푸퉈구 · 지분 취득 없음) — **스마트 소프트웨어 R&D, 산업 생태계 구축, 대표 시범 프로젝트에 대한 매칭 자금 지원**. 푸퉈구 전략 산업인 지능형 소프트웨어, 정보보안, 산업 제어 시스템 분야의 등록 기업. (2026년도 푸퉈구 과학기술위원회 특별 공고 확인 필요). Tel: +86 21 52564588 ext. 7166. [모집 마감]"
+msgstr ":doc:`2026년 푸퉈구 지능형 소프트웨어 산업 전용 지원 <funding/putuo-intelligent-software>` (2026普陀智能软件产业专项 · 보조금 / 비용 환급 · 푸퉈구 · 지분 제공 의무 없음) — **스마트 소프트웨어 R&D, 산업 생태계 구축, 대표 시범 프로젝트에 대한 매칭 자금 지원**. 신용 상태가 양호한 법인 및 비법인 조직이 대상입니다. 공동 R&D, 모델·에이전트용 컴퓨팅 이용, 공인 기술 성과 등 지원 분야별로 승인 요건과 인정 기간이 다릅니다. (2026년도 푸퉈구 과학기술위원회 특별 공고 확인 필요). Tel: +86 21 52564588 ext. 7166. [접수 마감]"
 
-#: ../../funding.rst:40
+#: ../../funding.rst:43
 msgid ""
 ":doc:`Putuo R&D Platform Projects, 2026 <funding/putuo-rd-platform>` "
 "(2026普陀科技研发平台项目 · Grant · Putuo · No equity) — **Up to RMB 2 million; "
@@ -364,9 +405,9 @@ msgid ""
 "review; credit commitments and prescribed materials are required. Timing: "
 "Confirm the deadline in the September 2026 notice. Tel: +86 21 52564588 "
 "ext. 8628. [Status: 2026 call published; not confirmed open]"
-msgstr ":doc:`2026년 푸퉈구 R&D 플랫폼 프로젝트 <funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · 보조금 · 푸퉈구 · 지분 취득 없음) — **기업 공용 기술 플랫폼, 신형 R&D 기구 설립 및 운영비 평가 지원금**. 푸퉈구 내에서 오픈 연구개발 플랫폼, 공용 테스트 랩, 산학연 공동 연구소를 구축·운영하는 기관. (2026년도 구 과학기술위원회 공고 기준). Tel: +86 21 52564588 ext. 8628. [2026년 공고 발표됨; 접수 진행 여부 미확인]"
+msgstr ":doc:`2026년 푸퉈구 R&D 플랫폼 프로젝트 <funding/putuo-rd-platform>` (2026普陀科技研发平台项目 · 보조금 · 푸퉈구 · 지분 제공 의무 없음) — **최대 200만 위안; 최초 지급액은 50% 이하, 잔액은 사업 완료 심사 후 지급**. 적법하게 설립되고 신용 상태가 양호하며 적격 R&D 플랫폼을 구축하는 법인 및 비법인 조직이 대상입니다. 온라인 등록에는 구의 심사가 필요하며 신용 서약과 지정 서류를 제출해야 합니다. (2026년도 구 과학기술위원회 공고 기준). Tel: +86 21 52564588 ext. 8628. [2026년 공고 발표됨; 접수 진행 여부 미확인]"
 
-#: ../../funding.rst:41
+#: ../../funding.rst:44
 msgid ""
 ":doc:`Songjiang technology-enterprise innovation and matching support "
 "<funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Grant · Songjiang · No "
@@ -377,9 +418,9 @@ msgid ""
 "and voucher provisions must be checked separately. Timing: Policy: 1 "
 "January 2026 to 31 December 2027; confirm the applicable call. [Status: "
 "Policy in force; call not confirmed open]"
-msgstr ":doc:`쑹장구 과학기술 기업 혁신 및 매칭 지원 <funding/songjiang-innovation>` (松江科技企业创新与配套支持 · 보조금 · 쑹장구 · 지분 취득 없음) — **국가 및 상하이시 과기 프로젝트 선정 기업 대상 구 단위 매칭 자금 및 단독 혁신 보조금**. 쑹장구 G60 과학기술회랑 권역 내에서 산업 혁신 과제를 수행하는 적격 하이테크 기업. (쑹장구 과학기술위원회 연간 상시 매칭 공고 기준). [정책 시행 중; 공고 접수 개시 미확인]"
+msgstr ":doc:`쑹장구 과학기술 기업 혁신 및 매칭 지원 <funding/songjiang-innovation>` (松江科技企业创新与配套支持 · 보조금 · 쑹장구 · 지분 제공 의무 없음) — **구 단위 혁신 과제 최대 10만 위안; 승인된 시 단위 혁신 과제에는 정책에 따라 1:1 매칭 지원**. 2026~2027년 조치 및 시행 규정에 따른 적격 기술 기업이 대상입니다. 인증, 사업화, 바우처 조항은 각각 확인해야 합니다. (정책 유효기간: 2026년 1월 1일~2027년 12월 31일; 해당 공고 확인 필요). [정책 시행 중; 공고 접수 개시 미확인]"
 
-#: ../../funding.rst:42
+#: ../../funding.rst:45
 msgid ""
 ":doc:`Qingpu digital economy compute reimbursement, September 2026 costs "
 "<funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · Reimbursement · Qingpu · No "
@@ -390,9 +431,9 @@ msgid ""
 "fiscal support for the same project and year is generally excluded. "
 "Timing: Closed 23 October 2026, 17:00 China Standard Time. [Status: "
 "Closed]"
-msgstr ":doc:`칭푸구 디지털 경제 컴퓨팅 비용 보조 (2026년 9월 발생분) <funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · 비용 환급 지원 · 칭푸구 · 지분 취득 없음) — **칭푸구 내 적격 기업이 지출한 클라우드 및 AI 컴퓨팅 자원 실비의 일정 비율 환급 지원**. 칭푸구에서 디지털 경제, AI 알고리즘 개발을 영위하며 2026년 9월 지정 적격 컴퓨팅 서비스 비용을 결제한 기업. (칭푸구 과학기술위원회 공고 접수 마감 기한 확인 필요). [모집 마감]"
+msgstr ":doc:`칭푸구 디지털 경제 컴퓨팅 비용 보조 (2026년 9월 발생분) <funding/qingpu-compute>` (青浦2026年9月算力费用补贴 · 비용 환급 지원 · 칭푸구 · 지분 제공 의무 없음) — **칭푸구 내 적격 기업이 지출한 클라우드 및 AI 컴퓨팅 자원 실비의 일정 비율 환급 지원**. 비관계사로부터 임차한 적격 R&D용 AI 컴퓨팅 자원이 대상입니다. 저장·네트워크·보안 비용은 제외되며 공급자는 지정 IDC/ISP 면허를 보유해야 합니다. 같은 사업·연도의 다른 재정 지원은 원칙적으로 중복 수혜가 불가합니다. (2026년 10월 23일 17:00 중국 표준시 접수 마감). [접수 마감]"
 
-#: ../../funding.rst:43
+#: ../../funding.rst:46
 msgid ""
 ":doc:`Fengxian R&D expenditure increase reimbursement, 2026 "
 "<funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Reimbursement · "
@@ -403,9 +444,9 @@ msgid ""
 "online and route the paper pack through the recommending unit. Timing: "
 "Online closed 17 June 2026, 17:00; paper closed 30 June 2026, 17:00 China "
 "Standard Time. Tel: +86 21 33610530. [Status: Closed]"
-msgstr ":doc:`2026년 펑셴구 R&D 비용 증가분 보조 <funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · 비용 환급 지원 · 펑셴구 · 지분 취득 없음) — **전년 대비 연구개발(R&D) 지출 증가액에 비례하여 산정된 인센티브 보조금 차등 지급**. 펑셴구 관할 내에서 실제 R&D 투자를 대폭 확대하고 회계 증빙을 완비한 적격 제조 및 기술 기업. (2026년도 펑셴구 과학기술위원회 신고 일정 기준). Tel: +86 21 33610530. [모집 마감]"
+msgstr ":doc:`2026년 펑셴구 R&D 비용 증가분 보조 <funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · 비용 환급 지원 · 펑셴구 · 지분 제공 의무 없음) — **적격 연간 연구개발비 순증가액의 30%, 최대 100만 위안**. 유효한 첨단기술기업 인증 보유 기업 또는 2025년 등록 기술형 중소기업이 대상입니다. 2024년과 2025년 세무 정산 및 R&D 추가 공제 명세가 필요합니다. 온라인 신청 후 추천 기관을 통해 종이 서류를 제출합니다. (2026년도 펑셴구 과학기술위원회 신고 일정 기준). Tel: +86 21 33610530. [접수 마감]"
 
-#: ../../funding.rst:44
+#: ../../funding.rst:47
 msgid ""
 ":doc:`Fengxian SME Technology Innovation Key Projects, 2026 "
 "<funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Grant · Fengxian "
@@ -415,9 +456,9 @@ msgid ""
 "revenue, at most 500 employees and at least 10% R&D staff, plus "
 "additional conditions. Timing: Online closed 21 June 2026; paper closed "
 "30 June 2026. Tel: +86 21 37188010. [Status: Closed]"
-msgstr ":doc:`2026년 펑셴구 중소기업 기술혁신 자금 중점 프로젝트 <funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · 보조금 · 펑셴구 · 지분 취득 없음) — **구 중점 기술혁신 과제로 선정된 프로젝트 대상 R&D 자금 지원**. 스마트 로봇, 바이오 의약, 신소재 등 펑셴구 중점 육성 산업 분야의 우수 기술형 중소기업. (2026년도 구 경제위원회 및 과학기술위원회 공고 기준). Tel: +86 21 37188010. [모집 마감]"
+msgstr ":doc:`2026년 펑셴구 중소기업 기술혁신 자금 중점 프로젝트 <funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · 보조금 · 펑셴구 · 지분 제공 의무 없음) — **최대 25만 위안; 일반적으로 2회 분할 지급, 사업 완료 심사 후 최종 정산**. 2026년 중점 과제 공고 기준으로 전년도 매출 3,000만~2억 위안, R&D 지출 최소 120만 위안 및 매출액의 4% 이상, 직원 500명 이하, R&D 인력 10% 이상이어야 합니다. 추가 요건도 적용됩니다. (2026년도 구 경제위원회 및 과학기술위원회 공고 기준). Tel: +86 21 37188010. [접수 마감]"
 
-#: ../../funding.rst:45
+#: ../../funding.rst:48
 msgid ""
 ":doc:`Chongming early-stage enterprise development subsidy, 2026 "
 "<funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · Grant · Chongming · "
@@ -429,9 +470,9 @@ msgid ""
 "Policy: 1 August to 31 December 2026, with qualifying cases since 1 "
 "January; confirm intake. [Status: Policy in force; call not confirmed "
 "open]"
-msgstr ":doc:`2026년 충밍구 초기 창업 발전 지원 보조금 <funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · 보조금 · 충밍구 · 지분 취득 없음) — **초기 창업 기업의 임대료 감면, 운영비 보조 및 정착 지원금**. 충밍구에 신규 설립되어 생태 농업, 청정 에너지, 친환경 관광, 디지털 기술 분야를 영위하는 초기 법인. (2026년도 충밍구 인력자원사회보장국 및 과기 당국 공고 기준). [정책 시행 중; 공고 접수 개시 미확인]"
+msgstr ":doc:`2026년 충밍구 초기 창업 발전 지원 보조금 <funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · 보조금 · 충밍구 · 지분 제공 의무 없음) — **심사에서 우수하다고 평가된 적격 초기 창업 과제에 최대 10만 위안**. 인큐베이터 입주 또는 읍·면 단지의 긴밀한 지원을 받고, 적격 신산업·특화 혁신 및 성장 잠재력을 갖춘 창업 조직이 대상입니다. 7월 정책은 만료된 2024년 과학기술 조치와 구분해야 합니다. (2026년도 충밍구 인력자원사회보장국 및 과기 당국 공고 기준). [정책 시행 중; 공고 접수 개시 미확인]"
 
-#: ../../funding.rst:46
+#: ../../funding.rst:49
 msgid ""
 ":doc:`Hongkou international and overseas young talent support, first 2026 "
 "batch <funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · Grant · "
@@ -441,9 +482,9 @@ msgid ""
 "apply. Email pre-review is followed by paper submission at the district "
 "talent service center; this is not a grant for every foreign founder. "
 "Timing: Closed 31 March 2026. Tel: +86 21 65123028. [Status: Closed]"
-msgstr ":doc:`2026년 훙커우구 글로벌 최고급 및 해외 우수 청년 인재 지원 제1차 <funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · 보조금 · 훙커우구 · 지분 취득 없음) — **인재 주거 보조금, 창업 프로젝트 자금 지원, 생활 정착 보조 패키지**. 훙커우구 내 중점 기업에 취업 또는 혁신 창업 기업을 설립한 해외 유학 및 글로벌 우수 청년 인재. (2026년도 제1차 공고 접수 마감일 기준). Tel: +86 21 65123028. [모집 마감]"
+msgstr ":doc:`2026년 훙커우구 글로벌 최고급 및 해외 우수 청년 인재 지원 제1차 <funding/hongkou-talent-2026>` (2026虹口国际顶尖及海外优秀青年人才扶持第一批 · 보조금 · 훙커우구 · 지분 제공 의무 없음) — **인정된 최우수 인재 및 핵심 팀 최대 100만 위안; 적격 해외 청년 인재 1인당 5만 위안**. 유형별 인재 인정 및 훙커우구 근무 요건을 엄격히 적용합니다. 이메일 사전 심사 후 구 인재서비스센터에 종이 서류를 제출합니다. 모든 외국인 창업자에게 주는 지원금이 아닙니다. (2026년도 제1차 공고 접수 마감일 기준). Tel: +86 21 65123028. [접수 마감]"
 
-#: ../../funding.rst:47
+#: ../../funding.rst:50
 msgid ""
 ":doc:`Jiading Future Industry Fund <funding/jiading-future-fund>` "
 "(嘉定未来产业基金 · Equity investment · Jiading · Negotiated equity) — "
@@ -453,9 +494,9 @@ msgid ""
 "subfund route, stage and domicile requirements. Fund scale is not a "
 "per-company award. Timing: Manager-led sourcing; current deal intake to "
 "confirm. [Status: Fund announced; deal intake to confirm]"
-msgstr ":doc:`자딩 미래산업 펀드 <funding/jiading-future-fund>` (嘉定未来产业基金 · 지분 투자 · 자딩구 · 협의 지분율 적용) — **스마트 모빌리티, 첨단 센서, 차세대 에너지, 포토닉스 분야의 시장 기반 지분투자 지원**. 자딩구에 생산 및 R&D 거점을 마련하는 미래 산업 분야 유망 혁신 기업. (펀드 운용사 공식 접수 및 투자 심의 절차 준용). [펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요]"
+msgstr ":doc:`자딩 미래산업 펀드 <funding/jiading-future-fund>` (嘉定未来产业基金 · 지분 투자 · 자딩구 · 협의 지분율 적용) — **공표된 펀드 규모 8억 위안; 기업별 투자액은 확인되지 않음**. 운용사의 현행 미래산업 투자 목적에 부합하는 프로젝트가 대상입니다. 담당 운용사, 직접·하위 펀드 경로, 투자 단계 및 소재지 요건을 확인해야 합니다. 펀드 규모가 기업별 지원금은 아닙니다. (펀드 운용사 공식 접수 및 투자 심의 절차 준용). [펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요]"
 
-#: ../../funding.rst:48
+#: ../../funding.rst:51
 msgid ""
 ":doc:`Baoshan pre-investment / later equity project call "
 "<funding/baoshan-conversion>` (宝山先投后股项目征集 · Convertible support · Baoshan "
@@ -466,9 +507,9 @@ msgid ""
 "milestone and conversion conditions rather than labelling this an "
 "unrestricted equity-free grant. Timing: Closed 10 February 2026. Tel: +86 "
 "21 56160454. [Status: Closed]"
-msgstr ":doc:`바오산구 '선투자 후지분' 프로젝트 공모 <funding/baoshan-conversion>` (宝山先投后股项目征集 · 조건부 지분전환 지원 · 바오산구 · 지분 전환 가능성 있음; 계약서 검토 필요) — **공공 R&D 보조금을 선지원하고 후속 투자 유치 또는 마일스톤 달성 시 지분으로 전환하는 혁신 지원 모델**. 바오산구 산업 전환 방향에 부합하는 첨단 로봇, 신소재, 차세대 하드웨어 분야의 대학 및 연구원 스핀오프 프로젝트. (바오산구 과학기술위원회 해당 차수 공모 마감일 기준). Tel: +86 21 56160454. [모집 마감]"
+msgstr ":doc:`바오산구 '선투자 후지분' 프로젝트 공모 <funding/baoshan-conversion>` (宝山先投后股项目征集 · 조건부 지분전환 지원 · 바오산구 · 지분 전환 가능성 있음; 계약서 검토 필요) — **지원액과 지분 전환 조건은 실제 과제 지침 및 협약 확인 필요**. 2026년 1월 구 정책 일정에 과학기술위원회의 선지원·후지분투자 과제 공모가 명시되어 있습니다. 수혜자, 단계별 목표 및 전환 조건을 확인해야 하며, 조건 없는 비지분 보조금으로 분류해서는 안 됩니다. (2026년 2월 10일 접수 마감). Tel: +86 21 56160454. [접수 마감]"
 
-#: ../../funding.rst:49
+#: ../../funding.rst:52
 msgid ""
 ":doc:`Huangpu financing and credit product directory "
 "<funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Loan · Huangpu · No "
@@ -478,9 +519,9 @@ msgid ""
 "fees, collateral and repayment depend on the lender and company; the "
 "directory is not an approval. Timing: Product-specific; confirm current "
 "lender terms. [Status: Published directory; lender review]"
-msgstr ":doc:`황푸구 융자 신용 제품 디렉토리 <funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · 대출 · 황푸구 · 지분 취득 없음; 상환 의무 있음) — **무담보 신용 대출, 데이터 기반 핀테크 대출, 구 연계 우대금리 융자 상품**. 황푸구에서 건전하게 영업 중인 서비스업, 디지털 테크, 핀테크 분야 중소·소호 기업. (구 금융 당국 및 협력 금융기관 상시 상담 창구 운영). [공시된 목록; 대출 기관 심사 필요]"
+msgstr ":doc:`황푸구 융자 신용 제품 디렉토리 <funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · 대출 · 황푸구 · 지분 제공 의무 없음; 상환 필요) — **상품별 은행 여신, 창업 보증 및 지식재산권 담보 금융**. 구 공식 플랫폼에서 실제 은행 상품을 선택해야 합니다. 신청 자격, 보증, 금리, 수수료, 담보 및 상환은 은행과 기업에 따라 다르며, 목록 등재가 대출 승인을 의미하지는 않습니다. (구 금융 당국 및 협력 금융기관 상시 상담 창구 운영). [공시된 목록; 대출 기관 심사 필요]"
 
-#: ../../funding.rst:50
+#: ../../funding.rst:53
 msgid ""
 ":doc:`Yangpu financing and credit service platform "
 "<funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Loan · Yangpu · No "
@@ -490,9 +531,9 @@ msgid ""
 "lending, IP-backed products and guarantees have different duties and "
 "underwriting conditions. Timing: Product-specific; confirm current lender "
 "terms. [Status: Published directory; lender review]"
-msgstr ":doc:`양푸구 융자 신용 서비스 플랫폼 <funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · 대출 · 양푸구 · 지분 취득 없음; 상환 의무 있음) — **기업 신용 평가 기반의 간편 저금리 대출, 정책형 금융 보증 및 이차보전 지원**. 양푸구에 사업장을 두고 안정적인 사업 및 혁신을 추진하는 과기형 스타트업 및 소기업. (양푸구 공식 온라인 신용 플랫폼 상시 접수). [공시된 목록; 대출 기관 심사 필요]"
+msgstr ":doc:`양푸구 융자 신용 서비스 플랫폼 <funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · 대출 · 양푸구 · 지분 제공 의무 없음; 상환 필요) — **상품별 기술 금융 및 지식재산권 금융; 공통 한도 없음**. 구 플랫폼에서 실제 대출 기관과 상품을 확인해야 합니다. 기술 이행 보증 대출, 지식재산권 담보 상품 및 보증 상품은 의무와 여신 심사 조건이 서로 다릅니다. (양푸구 공식 온라인 신용 플랫폼 상시 접수). [공시된 목록; 대출 기관 심사 필요]"
 
-#: ../../funding.rst:51
+#: ../../funding.rst:54
 msgid ""
 ":doc:`Jing'an Service Industry Guidance Fund and AI Demonstration "
 "Support, 2026 <funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · "
@@ -504,9 +545,9 @@ msgid ""
 "batch rules and 2026-2028 AI demonstration plan. Timing: Second 2026 "
 "batch published May 2026; confirm current sub-district recommending "
 "window. [Status: 2026 call published; deadline check required]"
-msgstr ":doc:`2026년 징안구 서비스업 발전 유도 자금 및 AI 실증 지원 <funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · 보조금 · 징안구 · 지분 취득 없음) — **인공지능 시범 응용 프로젝트, 고부가가치 전문 서비스 개발에 대한 프로젝트별 차등 보조금**. 징안구의 빅데이터, 블록체인(수퉁 밸리), 엔터프라이즈 AI 서비스 혁신을 선도하는 적격 기업. (2026년도 징안구 발전개혁위원회 및 과학기술위원회 공고 기준). [2026년 공고 발표됨; 마감일 확인 필요]"
+msgstr ":doc:`2026년 징안구 서비스업 발전 유도 자금 및 AI 실증 지원 <funding/jingan-service-2026>` (2026静安服务业发展引导资金与人工智能示范支持 · 보조금 · 징안구 · 지분 제공 의무 없음) — **인공지능 시범 응용 프로젝트, 고부가가치 전문 서비스 개발에 대한 프로젝트별 차등 보조금**. 징안구의 빅데이터, 블록체인(수퉁 밸리), 엔터프라이즈 AI 서비스 혁신을 선도하는 적격 기업. (2026년도 징안구 발전개혁위원회 및 과학기술위원회 공고 기준). [2026년 공고 발표됨; 마감일 확인 필요]"
 
-#: ../../funding.rst:52
+#: ../../funding.rst:55
 msgid ""
 ":doc:`Zhangjiang Jinshan Park low-altitude UAV and new materials support "
 "<funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · Grant / reimbursement "
@@ -517,9 +558,9 @@ msgid ""
 "new chemical or electronic materials, biomanufacturing and intelligent "
 "equipment. Timing: Policy: 2025 to 2026 action plan; confirm current "
 "implementing batch. [Status: Policy in force; call not confirmed open]"
-msgstr ":doc:`장장 진산원 저고도 드론 및 신소재 혁신 지원 <funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · 보조금 / 비용 환급 · 진산구 · 지분 취득 없음) — **2025~2026년 단지 행동계획 및 장장 전용 정책에 따른 R&D, 인큐베이션 공간, 시험인증 및 산업화 지원금**. 장장 하이테크 진산원 내에서 저고도 무인기(드론) 시스템, 화학·전자 신소재, 바이오 제조 및 첨단 장비를 개발하는 적격 기업 및 혁신 캐리어. (정책: 2025~2026년 행동계획 준용; 현재 구체적 실시 배치 확인 필요). [정책 시행 중; 공고 접수 개시 미확인]"
+msgstr ":doc:`장장 진산원 저고도 드론 및 신소재 혁신 지원 <funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · 보조금 / 비용 환급 · 진산구 · 지분 제공 의무 없음) — **2025~2026년 단지 행동계획 및 장장 전용 정책에 따른 R&D, 인큐베이션 공간, 시험인증 및 산업화 지원금**. 장장 하이테크 진산원 내에서 저고도 무인기(드론) 시스템, 화학·전자 신소재, 바이오 제조 및 첨단 장비를 개발하는 적격 기업 및 창업 지원 거점. (정책: 2025~2026년 행동계획 준용; 현재 구체적 실시 배치 확인 필요). [정책 시행 중; 공고 접수 개시 미확인]"
 
-#: ../../funding.rst:53
+#: ../../funding.rst:56
 msgid ""
 ":doc:`Yangpu Dream Start Angel Co-investment Fund "
 "<funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Equity investment · Yangpu · "
@@ -530,9 +571,9 @@ msgid ""
 "operating in Yangpu alongside qualifying lead investors. Timing: "
 "Manager-led sourcing and due diligence. [Status: Published investment "
 "platform; deal review]"
-msgstr ":doc:`양푸 멍샹치항(Dream Start) 엔젤 공동투자 펀드 <funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · 지분 투자 · 양푸구 · 협의 지분율 적용) — **구 국유 자본 기반의 초기 지분 공동투자 펀드; 건당 투자액은 투자심의위원회 심의를 통해 결정**. 적격 리드 투자사와 함께 양푸구에 정착하거나 사업을 영위하는 딥테크, 양자 컴퓨팅, 뇌신경 모사 AI 및 대학 스핀오프 초기 기업. (전문 운용사 중심의 프로젝트 선별 및 실사 상시 진행). [공시된 투자 플랫폼; 투자 적격 심사 필요]"
+msgstr ":doc:`양푸 멍샹치항(Dream Start) 엔젤 공동투자 펀드 <funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · 지분 투자 · 양푸구 · 협의 지분율 적용) — **구 국유 자본 기반의 초기 지분 공동투자 펀드; 건당 투자액은 투자심의위원회 심의를 통해 결정**. 적격 리드 투자사와 함께 양푸구에 정착하거나 사업을 영위하는 딥테크, 양자 컴퓨팅, 뇌신경 모사 AI 및 대학 스핀오프 초기 기업. (운용사 주도 딜 발굴 및 실사 진행). [공시된 투자 플랫폼; 투자 적격 심사 필요]"
 
-#: ../../funding.rst:54
+#: ../../funding.rst:57
 msgid ""
 ":doc:`Songjiang Data Elements Special Fund, second 2026 batch "
 "<funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · Grant / "
@@ -542,9 +583,9 @@ msgid ""
 "corpus governance, data-product listings or AI data-space applications. "
 "Timing: Second 2026 batch notice issued August 2026; confirm current "
 "acceptance status. [Status: 2026 call published; deadline check required]"
-msgstr ":doc:`2026년 쑹장구 데이터 요소 전용 자금 제2차 <funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · 보조금 / 비용 환급 · 쑹장구 · 지분 취득 없음) — **쑹장구 데이터 요소 전용 자금 관리 규정에 따라 심의 승인된 프로젝트별 자금 지원**. 쑹장구 내에서 법률에 따라 등록·운영되며 고품질 데이터셋 구축, 코퍼스 거버넌스, 데이터 상품 거래소 상장 또는 AI 데이터 스페이스 응용을 수행하는 기관. (2026년 제2차 공고(8월 발표) 기준; 현재 접수 현황 확인 필요). [2026년 공고 발표됨; 마감일 확인 필요]"
+msgstr ":doc:`2026년 쑹장구 데이터 요소 전용 자금 제2차 <funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · 보조금 / 비용 환급 · 쑹장구 · 지분 제공 의무 없음) — **쑹장구 데이터 요소 전용 자금 관리 규정에 따라 심의 승인된 프로젝트별 자금 지원**. 쑹장구 내에서 법률에 따라 등록·운영되며 고품질 데이터셋 구축, 코퍼스 거버넌스, 데이터 상품 거래소 상장 또는 AI 데이터 스페이스 응용을 수행하는 기관. (2026년 제2차 공고(8월 발표) 기준; 현재 접수 현황 확인 필요). [2026년 공고 발표됨; 마감일 확인 필요]"
 
-#: ../../funding.rst:55
+#: ../../funding.rst:58
 msgid ""
 ":doc:`Qingpu Enterprise Intelligent Transformation Support Fund, 2026 "
 "<funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · Grant / "
@@ -555,9 +596,9 @@ msgid ""
 "or digital supply-chain upgrades. Timing: 2026 notice issued 31 July "
 "2026; confirm current batch window. [Status: 2026 call published; "
 "deadline check required]"
-msgstr ":doc:`2026년 칭푸구 기업 스마트화 개조 지원 자금 <funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · 보조금 / 비용 환급 · 칭푸구 · 지분 취득 없음) — **검증된 스마트 제조 장비, 산업용 소프트웨어, 디지털 작업장 구축 투자액의 일정 비율 차등 지원**. 칭푸구 내에서 스마트 팩토리, 산업용 AI 비전 검사, 디지털 공급망 고도화를 추진하는 적격 제조 및 기술 기업. (2026년 공고(7월 31일 발표) 기준; 현재 신청 접수 기간 확인 필요). [2026년 공고 발표됨; 마감일 확인 필요]"
+msgstr ":doc:`2026년 칭푸구 기업 스마트화 개조 지원 자금 <funding/qingpu-intelligent-2026>` (2026青浦区企业智能化改造扶持资金 · 보조금 / 비용 환급 · 칭푸구 · 지분 제공 의무 없음) — **검증된 스마트 제조 장비, 산업용 소프트웨어, 디지털 작업장 구축 투자액의 일정 비율 차등 지원**. 칭푸구 내에서 스마트 팩토리, 산업용 AI 비전 검사, 디지털 공급망 고도화를 추진하는 적격 제조 및 기술 기업. (2026년 공고(7월 31일 발표) 기준; 현재 신청 접수 기간 확인 필요). [2026년 공고 발표됨; 마감일 확인 필요]"
 
-#: ../../funding.rst:56
+#: ../../funding.rst:59
 msgid ""
 ":doc:`Fengxian South Shanghai Sci-Tech Center \"Open Competition\" R&D "
 "Projects, 2026 <funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 "
@@ -568,9 +609,9 @@ msgid ""
 "chemistry in Fengxian. Timing: 2026 guide published May 2026; confirm "
 "current project batch. [Status: 2026 call published; deadline check "
 "required]"
-msgstr ":doc:`2026년 펑셴구 '남상하이 과기혁신센터' 오픈 챌린지(揭榜挂帅) 협력 프로젝트 <funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 · 보조금 · 펑셴구 · 지분 취득 없음) — **핵심 기술 애로사항 해결 계약 금액에 비례하여 마일스톤 달성도에 따른 연구개발 보조금 지원**. 펑셴구가 공고한 로봇 공학, 생명공학 및 바이오 의약, 신소재, 친환경 화학 분야의 핵심 기술 과제를 공동 해결하는 산학연 컨소시엄. (2026년 신고 안내서(5월 발표) 기준; 현재 프로젝트 배치 확인 필요). [2026년 공고 발표됨; 마감일 확인 필요]"
+msgstr ":doc:`2026년 펑셴구 '남상하이 과기혁신센터' 오픈 챌린지(揭榜挂帅) 협력 프로젝트 <funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 · 보조금 · 펑셴구 · 지분 제공 의무 없음) — **핵심 기술 애로사항 해결 계약 금액에 비례하여 마일스톤 달성도에 따른 연구개발 보조금 지원**. 펑셴구가 공고한 로봇 공학, 생명공학 및 바이오 의약, 신소재, 친환경 화학 분야의 핵심 기술 과제를 공동 해결하는 산학연 컨소시엄. (2026년 신고 안내서(5월 발표) 기준; 현재 프로젝트 배치 확인 필요). [2026년 공고 발표됨; 마감일 확인 필요]"
 
-#: ../../funding.rst:57
+#: ../../funding.rst:60
 msgid ""
 ":doc:`Chongming Entrepreneurship and Innovation Competition & Policy "
 "Support, 2026 <funding/chongming-competition-2026>` (2026崇明区创业创新大赛与联动扶持 · "
@@ -582,3 +623,31 @@ msgid ""
 "Implementation plan issued 20 August 2026; check track schedule. [Status: "
 "2026 competition published; track intake to confirm]"
 msgstr ":doc:`2026년 충밍구 창업혁신대회 및 정책 연계 지원 <funding/chongming-competition-2026>` (2026崇明区创业创新大赛与联动扶持 · 경진대회 · 충밍구 · 시상 및 투자 조건 상이) — **대회 수상 상금 및 구 초기 창업 보조금, 인큐베이터 입주, 창업 담보 대출 우선 연계 지원**. 충밍구의 생태 환경 기술, 스마트 농업, 해양 첨단 장비, 그린 에너지, 디지털 경제 육성 방향에 부합하는 창업팀 및 초기 스타트업. (실시 방안(2026년 8월 20일 인쇄 배포) 기준; 세부 대회 일정 확인 필요). [2026년 경진대회 공고됨; 세부 트랙 접수 여부 확인 필요]"
+
+#: ../../funding.rst:61
+msgid ""
+":doc:`Lin-gang Zero Cube conditional rent support "
+"<funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · In-kind services · Pudong · "
+"No equity stated in offer; verify terms) — **Qualifying offices: 3 years "
+"rent-free, then 2 years at half rent; separate housing and service "
+"terms**. Eligibility: Selected OPC and small-team projects admitted by "
+"the community. The August 2026 operator report is not a tenancy offer for "
+"every applicant. Confirm current selection, eligible premises, deposits, "
+"service charges and exit terms in writing. Timing: Confirm current "
+"community admission and tenancy terms. [Status: Published service; "
+"current terms to confirm]"
+msgstr ":doc:`린강 링제모팡 조건부 임대료 지원 <funding/zero-cube-rent>` (临港零界魔方有条件办公租金支持 · 현물 및 서비스 지원 · 푸둥 신구 · 제안상 지분 요구 없음; 세부 조건 확인 필요) — **적격 사무실 임대료 3년 면제, 이후 2년 반값; 주거·서비스는 별도 조건**. 커뮤니티가 선정한 OPC 및 소규모 팀 프로젝트가 대상입니다. 2026년 8월 운영 보고서가 모든 신청자에게 임대를 보장하지는 않습니다. 현행 선발, 대상 공간, 보증금, 서비스 요금 및 퇴거 조건을 서면으로 확인해야 합니다. (현행 입주 및 임대차 조건 확인). [서비스 공시됨; 최신 약관 확인 필요]"
+
+#: ../../funding.rst:62
+msgid ""
+":doc:`Xuhui Qingmiao early AI investment route "
+"<funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · Equity investment · "
+"Xuhui · Negotiated equity) — **Manager-reviewed early-stage investment; "
+"no universal cheque or equity percentage verified**. Eligibility: "
+"Youth-led early AI projects matching the fund mandate. The August 2026 "
+"camp notice documents investment activity and organizers, not an "
+"always-open application or guaranteed grant. Request the responsible "
+"manager, screening pack, local-operation conditions and term sheet. "
+"Timing: Manager-led sourcing and due diligence. [Status: Published "
+"investment platform; deal review]"
+msgstr ":doc:`쉬후이 칭먀오 초기 AI 투자 경로 <funding/qingmiao-investment>` (徐汇青苗基金早期AI投资渠道 · 지분 투자 · 쉬후이구 · 협의 지분율 적용) — **운용사 심사를 거친 초기 투자; 공통 투자액 또는 지분율은 확인되지 않음**. 펀드 투자 목적에 맞는 청년 주도 초기 AI 프로젝트가 대상입니다. 2026년 8월 캠프 공고는 투자 활동과 주최 기관을 확인해 주지만, 상시 접수나 보조금을 보장하지는 않습니다. 담당 운용사, 심사 자료, 현지 운영 요건 및 투자 조건서를 요청해야 합니다. (운용사 주도 프로젝트 발굴 및 실사). [공시된 투자 플랫폼; 투자 적격 심사 필요]"

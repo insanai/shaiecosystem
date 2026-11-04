@@ -34,8 +34,8 @@ The magnolia and the pearl
 
 Shanghai's official flower is the white magnolia, designated in 1986. Pearl white is the principal color of this atlas. Ink charcoal, mist jade and champagne gold form an editorial palette rather than an official municipal color standard. The cover is an original generated Chinese ink-style illustration, not a documentary photograph or a geographically exact skyline.
 
-This book and interactive atlas are written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. The publication is produced natively using Guidedog in both HTML and PDF editions (English and Simplified Chinese), sharing one verified dataset across the interactive web atlas and the illustrated print-ready books.
+This book and interactive atlas are written by Vikrant Rathore with contributions from Lauren Zhao, Vicky Ni, Jennifer Yuan, Ronak Rathore, Kanak Rathore and Emily Yue Xu. The publication is produced natively using Guidedog in both HTML and PDF editions in seven languages, sharing one verified dataset across the interactive web atlas and the illustrated print-ready books.
 
-`Evidence S128 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview.
+`Evidence S136 <https://english.shanghai.gov.cn/en-Overview/>`_. Shanghai municipal flower and overview.
 
-`Evidence S129 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators.
+`Evidence S137 <https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251224/f4a84e6d90824c649a705ba2192e0a18.html>`_. Shanghai expands list of high-quality incubators.

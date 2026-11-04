@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -22,10 +22,10 @@ msgstr "エビデンス（根拠資料）の読み方"
 
 #: ../../methodology.rst:4
 msgid ""
-"A useful directory makes uncertainty inspectable. We link the source near "
-"the claim and keep a shared record behind the English and Simplified "
-"Chinese editions."
-msgstr "有用なディレクトリとは、情報の不確実性を客観的に検証可能にするものである。本書では主張の根拠となる情報源をすぐ近くに明記し、英語版と簡体字中国語版の背景で同一の検証済み記録を共有している。"
+"A useful directory makes uncertainty inspectable. We link each source "
+"near its claim and maintain one shared research record for all seven "
+"language editions."
+msgstr "有用なガイドは、情報の不確実性も確認できるようにする。本書では各記述のそばに出典を示し、7言語の全版で同じ調査記録を共有する。"
 
 #: ../../methodology.rst:6
 msgid "Research and translation"
@@ -122,7 +122,7 @@ msgstr "執筆クレジットおよび出版システム：本書は Vikrant Rat
 
 #: ../../methodology.rst:33
 msgid ""
-"`Evidence S132 "
+"`Evidence S139 "
 "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV "
 "Shanghai district geometry."
-msgstr "`出典 S132 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry."
+msgstr "`出典 S139 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry."

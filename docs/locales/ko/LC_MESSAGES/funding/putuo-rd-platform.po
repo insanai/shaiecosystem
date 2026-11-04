@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -30,10 +30,10 @@ msgstr "2026년 공고 발표됨; 접수 진행 여부 미확인"
 
 #: ../../funding/putuo-rd-platform.rst:8
 msgid ""
-"`Evidence S111 "
+"`Evidence S119 "
 "<https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. "
 "关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
-msgstr "`근거 S111 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
+msgstr "`근거 S119 <https://www.shpt.gov.cn/zhengwu/kjptjs-kwkjcxnlts/2026/244/205993.html>`_. 关于开展2026年度普陀区科技研发平台项目申报工作的通知-上海普陀."
 
 #: ../../funding/putuo-rd-platform.rst:10
 msgid "Amount and mechanism"
@@ -43,11 +43,11 @@ msgstr "지원 규모 및 지원 방식"
 msgid ""
 "Up to RMB 2 million; first payment at most 50%, balance subject to "
 "acceptance"
-msgstr "기업 공용 기술 플랫폼, 신형 R&D 기구 설립 및 운영비 평가 지원금"
+msgstr "최대 200만 위안; 최초 지급액은 50% 이하, 잔액은 사업 완료 심사 후 지급"
 
 #: ../../funding/putuo-rd-platform.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/putuo-rd-platform.rst:17
 msgid "Eligibility and timing"
@@ -58,7 +58,7 @@ msgid ""
 "Lawfully established, good-credit legal or non-legal-person organizations "
 "building qualifying R&D platforms. Online registration requires district "
 "review; credit commitments and prescribed materials are required."
-msgstr "푸퉈구 내에서 오픈 연구개발 플랫폼, 공용 테스트 랩, 산학연 공동 연구소를 구축·운영하는 기관."
+msgstr "적법하게 설립되고 신용 상태가 양호하며 적격 R&D 플랫폼을 구축하는 법인 및 비법인 조직이 대상입니다. 온라인 등록에는 구의 심사가 필요하며 신용 서약과 지정 서류를 제출해야 합니다."
 
 #: ../../funding/putuo-rd-platform.rst:22
 msgid "Confirm the deadline in the September 2026 notice"

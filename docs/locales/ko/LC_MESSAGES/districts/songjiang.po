@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -34,9 +34,9 @@ msgstr "G60 과학기술혁신밸리는 다양한 혁신 및 자원 매칭 정�
 
 #: ../../districts/songjiang.rst:8
 msgid ""
-"`Evidence S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`근거 S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`근거 S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../districts/songjiang.rst:10
 msgid "Who receives the inquiry"
@@ -194,7 +194,7 @@ msgid ""
 "innovation projects matched 1:1 under the policy. Status: Policy in "
 "force; call not confirmed open. Timing: Policy: 1 January 2026 to 31 "
 "December 2027; confirm the applicable call."
-msgstr ":doc:`쑹장구 과학기술 기업 혁신 및 매칭 지원 </funding/songjiang-innovation>` (松江科技企业创新与配套支持 · 보조금 · 지분 취득 없음) — 국가 및 상하이시 과기 프로젝트 선정 기업 대상 구 단위 매칭 자금 및 단독 혁신 보조금. 상태: 정책 시행 중; 공고 접수 개시 미확인. 일정: 쑹장구 과학기술위원회 연간 상시 매칭 공고 기준."
+msgstr ":doc:`쑹장구 과학기술 기업 혁신 및 매칭 지원 </funding/songjiang-innovation>` (松江科技企业创新与配套支持 · 보조금 · 지분 제공 의무 없음) — 구 단위 혁신 과제 최대 10만 위안; 승인된 시 단위 혁신 과제에는 정책에 따라 1:1 매칭 지원. 상태: 정책 시행 중; 공고 접수 개시 미확인. 일정: 정책 유효기간: 2026년 1월 1일~2027년 12월 31일; 해당 공고 확인 필요."
 
 #: ../../districts/songjiang.rst:50
 msgid ""
@@ -204,7 +204,7 @@ msgid ""
 "data-elements special fund rules. Status: 2026 call published; deadline "
 "check required. Timing: Second 2026 batch notice issued August 2026; "
 "confirm current acceptance status."
-msgstr ":doc:`2026년 쑹장구 데이터 요소 전용 자금 제2차 </funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · 보조금 / 비용 환급 · 지분 취득 없음) — 쑹장구 데이터 요소 전용 자금 관리 규정에 따라 심의 승인된 프로젝트별 자금 지원. 상태: 2026년 공고 발표됨; 마감일 확인 필요. 일정: 2026년 제2차 공고(8월 발표) 기준; 현재 접수 현황 확인 필요."
+msgstr ":doc:`2026년 쑹장구 데이터 요소 전용 자금 제2차 </funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · 보조금 / 비용 환급 · 지분 제공 의무 없음) — 쑹장구 데이터 요소 전용 자금 관리 규정에 따라 심의 승인된 프로젝트별 자금 지원. 상태: 2026년 공고 발표됨; 마감일 확인 필요. 일정: 2026년 제2차 공고(8월 발표) 기준; 현재 접수 현황 확인 필요."
 
 #: ../../districts/songjiang.rst:52
 msgid ":doc:`Also compare citywide funding </funding>`"

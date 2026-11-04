@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -22,10 +22,10 @@ msgstr "출처와 근거를 해석하는 방법"
 
 #: ../../methodology.rst:4
 msgid ""
-"A useful directory makes uncertainty inspectable. We link the source near "
-"the claim and keep a shared record behind the English and Simplified "
-"Chinese editions."
-msgstr "신뢰할 수 있는 디렉터리는 정보의 불확실성을 독자가 직접 검증할 수 있도록 열어둡니다. 우리는 구체적인 서술마다 바로 곁에 공식 출처 링크를 제공하며, 영어판과 중국어판 및 다국어 판본 모두의 이면에 단일하고 엄밀한 데이터 원장을 유지합니다."
+"A useful directory makes uncertainty inspectable. We link each source "
+"near its claim and maintain one shared research record for all seven "
+"language editions."
+msgstr "유용한 가이드는 불확실한 정보도 확인할 수 있게 합니다. 각 설명 옆에 출처를 제공하고 7개 언어판 모두에서 하나의 조사 기록을 공유합니다."
 
 #: ../../methodology.rst:6
 msgid "Research and translation"
@@ -100,7 +100,7 @@ msgid ""
 "profiles, suggested thematic fit and office-routing questions are "
 "editorial guidance rather than a verified inventory of laboratories, "
 "contacts or available awards."
-msgstr "공식 등록부에는 29개 전과 대학과 12개 성인고등교육기관이 포함되어 있으나, 이들 개별 기관의 단위별 세부 사업 조사를 완료했다고 주장하지 않습니다. 대학 프로필에 제시된 추천 연구 테마와 산학협력 문의 부서는 편집상의 지침일 뿐이며 검증된 연구실 목록, 전담 연락망, 또는 즉시 수혜 가능한 지원금 명록이 아닙니다."
+msgstr "공식 등록부에는 29개 전과 대학과 12개 성인고등교육기관이 포함되어 있으나, 이들 개별 기관의 단위별 세부 사업 조사를 완료했다고 주장하지 않습니다. 대학 프로필에 제시된 추천 연구 테마와 산학협력 문의 부서는 편집상의 지침일 뿐이며 검증된 연구실 목록, 전담 연락망, 또는 즉시 수혜 가능한 지원금 목록이 아닙니다."
 
 #: ../../methodology.rst:29
 msgid ""
@@ -122,7 +122,7 @@ msgstr "저자 크레디트 및 출판 시스템: 본서는 Vikrant Rathore가 �
 
 #: ../../methodology.rst:33
 msgid ""
-"`Evidence S132 "
+"`Evidence S139 "
 "<https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV "
 "Shanghai district geometry."
-msgstr "`근거 S132 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry."
+msgstr "`근거 S139 <https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json>`_. DataV Shanghai district geometry."

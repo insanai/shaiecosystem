@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -49,17 +49,17 @@ msgstr "`근거 S003 <https://global.sjtu.edu.cn/hmt/news/view/1737>`_. Official
 
 #: ../../entities/university-sjtu.rst:14
 msgid ""
-"`Evidence S079 "
+"`Evidence S086 "
 "<https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_. People "
 "– Entrepreneurship."
-msgstr "`근거 S079 <https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_. People – Entrepreneurship."
+msgstr "`근거 S086 <https://sites.gc.sjtu.edu.cn/entrepreneurship/views/contact/>`_. People – Entrepreneurship."
 
 #: ../../entities/university-sjtu.rst:16
 msgid ""
-"`Evidence S076 "
+"`Evidence S083 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`근거 S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`근거 S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-sjtu.rst:18
 msgid "Status and support"

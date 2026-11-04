@@ -155,7 +155,7 @@ msgid ""
 "No equity) — Recognized top talent and core team: up to RMB 1m; eligible "
 "overseas young talent: RMB 50,000 per person. Status: Closed. Timing: "
 "Closed 31 March 2026."
-msgstr ":doc:`2026年虹口区トップクラス国際人材・優秀海外若手人材支援（第1期） </funding/hongkou-talent-2026>` （2026虹口国际顶尖及海外优秀青年人才扶持第一批 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 認定されたトップ人材および中核チーム：最大100万元。適格な海外優秀若手人材：1人あたり5万元。ステータス：受付終了。時期：2026年3月31日に公募終了。"
+msgstr ":doc:`2026年虹口区トップクラス国際人材・優秀海外若手人材支援（第1期） </funding/hongkou-talent-2026>` （2026虹口国际顶尖及海外优秀青年人才扶持第一批 · 助成金・補助金 · 株式の提供不要）— 認定されたトップ人材および中核チーム：最大100万元。適格な海外優秀若手人材：1人あたり5万元。ステータス：募集終了。時期：2026年3月31日に公募終了。"
 
 #: ../../districts/hongkou.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"

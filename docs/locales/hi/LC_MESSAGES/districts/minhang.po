@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -34,10 +34,10 @@ msgstr "एंटरप्राइज नवाचार नीति 1 सि�
 
 #: ../../districts/minhang.rst:8
 msgid ""
-"`Evidence S091 "
+"`Evidence S098 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. "
 "Minhang amplifies enterprise sci-tech innovation_Policy Insights."
-msgstr "`साक्ष्य S091 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
+msgstr "`साक्ष्य S098 <https://english.shanghai.gov.cn/en-PolicyInsights/20250919/38bbef698b904adabd605170e7720a4d.html>`_. Minhang amplifies enterprise sci-tech innovation_Policy Insights."
 
 #: ../../districts/minhang.rst:10
 msgid "Who receives the inquiry"
@@ -111,7 +111,7 @@ msgid ""
 "projects with incubation. SJTU documents the Zero Kilometer launch and "
 "its AI, integrated-circuit, manufacturing and low-carbon participants. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`ग्रैंड नियोबे / ज़ीरो किलोमीटर इनक्यूबेटर (Grand neoBay / Zero Kilometer Incubator) </entities/neobay>` (大零号湾／零公里孵化器 · इनक्यूबेटर · हार्डवेयर AI, सॉफ्टवेयर AI) — प्रारंभिक प्रौद्योगिकी परियोजनाओं को इनक्यूबेशन से जोड़ने वाला विश्वविद्यालय-जुड़ा व्यावसायीकरण मार्ग। SJTU ने ज़ीरो किलोमीटर लॉन्च और इसके AI, इंटीग्रेटेड-सर्किट, विनिर्माण और लो-कार्बन प्रतिभागियों का दस्तावेजीकरण किया है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`ग्रैंड नियोबे / ज़ीरो किलोमीटर इनक्यूबेटर (Grand neoBay / Zero Kilometer Incubator) </entities/neobay>` (大零号湾／零公里孵化器 · इनक्यूबेटर · हार्डवेयर AI, सॉफ्टवेयर AI) — प्रारंभिक प्रौद्योगिकी परियोजनाओं को इनक्यूबेशन से जोड़ने वाला विश्वविद्यालय-जुड़ा व्यावसायीकरण मार्ग। SJTU ने ज़ीरो किलोमीटर लॉन्च और इसके AI, इंटीग्रेटेड-सर्किट, विनिर्माण और लो-कार्बन प्रतिभागियों का दस्तावेजीकरण किया है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/minhang.rst:38
 msgid ""
@@ -121,7 +121,7 @@ msgid ""
 "include electrodes, neural interfaces, sensing, rehabilitation and "
 "translational engineering; wet-lab and device requirements need explicit "
 "confirmation. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`सिनलोंक्स ब्रेन-कंप्यूटर इंटरफेस इनक्यूबेटर (Synlonx BCI Incubator) </entities/synlonx>` (司南脑机智能孵化器 · इनक्यूबेटर · हार्डवेयर AI, स्वास्थ्य) — हुआकाओ (Huacao) में लॉन्च किया गया एक ब्रेन-कंप्यूटर इंटरफेस इनक्यूबेशन प्लेटफॉर्म। उपयुक्त चर्चाओं में इलेक्ट्रोड, न्यूरल इंटरफेस, सेंसिंग, पुनर्वास और ट्रांसलेशनल इंजीनियरिंग शामिल हैं; वेट-लैब और डिवाइस आवश्यकताओं की स्पष्ट पुष्टि आवश्यक है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`सिनलोंक्स ब्रेन-कंप्यूटर इंटरफेस इनक्यूबेटर (Synlonx BCI Incubator) </entities/synlonx>` (司南脑机智能孵化器 · इनक्यूबेटर · हार्डवेयर AI, स्वास्थ्य) — हुआकाओ (Huacao) में लॉन्च किया गया एक ब्रेन-कंप्यूटर इंटरफेस इनक्यूबेशन प्लेटफॉर्म। उपयुक्त चर्चाओं में इलेक्ट्रोड, न्यूरल इंटरफेस, सेंसिंग, पुनर्वास और ट्रांसलेशनल इंजीनियरिंग शामिल हैं; वेट-लैब और डिवाइस आवश्यकताओं की स्पष्ट पुष्टि आवश्यक है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/minhang.rst:39
 msgid ""
@@ -130,7 +130,7 @@ msgid ""
 "plan links Grand neoBay R&D with Maqiao manufacturing. A useful pathway "
 "from a robot prototype to supply-chain and production conversations. "
 "[Status: Published entity; intake to confirm]"
-msgstr ":doc:`माकियाओ AI इनोवेशन ज़ोन (Maqiao AI Innovation Zone) </entities/maqiao>` (马桥人工智能创新试验区 · प्रौद्योगिकी पार्क · हार्डवेयर AI, रोबोटिक्स) — मिनहांग की 2025-2026 पार्क योजना ग्रैंड नियोबे R&D को माकियाओ विनिर्माण से जोड़ती है। रोबोट प्रोटोटाइप से आपूर्ति-श्रृंखला और उत्पादन चर्चाओं तक जाने के लिए एक उपयोगी मार्ग। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`माकियाओ AI इनोवेशन ज़ोन (Maqiao AI Innovation Zone) </entities/maqiao>` (马桥人工智能创新试验区 · प्रौद्योगिकी पार्क · हार्डवेयर AI, रोबोटिक्स) — मिनहांग की 2025-2026 पार्क योजना ग्रैंड नियोबे R&D को माकियाओ विनिर्माण से जोड़ती है। रोबोट प्रोटोटाइप से आपूर्ति-श्रृंखला और उत्पादन चर्चाओं तक जाने के लिए एक उपयोगी मार्ग। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/minhang.rst:40
 msgid ""
@@ -140,7 +140,7 @@ msgid ""
 "and manufacturing ecosystem. Its operator describes industry challenges "
 "and collaborative innovation; current admission, space and fees require "
 "an intake discussion. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`ज़िझू नेशनल हाई-टेक पार्क / ET स्पेस (Zizhu National Hi-Tech Park / ET Space) </entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · इनक्यूबेटर · सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग) — पार्क-स्वामित्व वाला इनक्यूबेटर स्टार्टअप्स को सॉफ्टवेयर, एवियोनिक्स और विनिर्माण इकोसिस्टम से जोड़ता है। इसका संचालक उद्योग चुनौतियों और सहयोगात्मक नवाचार का वर्णन करता है; वर्तमान प्रवेश, स्थान और शुल्क के लिए प्रवेश चर्चा आवश्यक है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`ज़िझू नेशनल हाई-टेक पार्क / ET स्पेस (Zizhu National Hi-Tech Park / ET Space) </entities/zizhu>` (紫竹国家高新区／创业孵化器ET空间 · इनक्यूबेटर · सॉफ्टवेयर AI, हार्डवेयर AI, उद्योग) — पार्क-स्वामित्व वाला इनक्यूबेटर स्टार्टअप्स को सॉफ्टवेयर, एवियोनिक्स और विनिर्माण इकोसिस्टम से जोड़ता है। इसका संचालक उद्योग चुनौतियों और सहयोगात्मक नवाचार का वर्णन करता है; वर्तमान प्रवेश, स्थान और शुल्क के लिए प्रवेश चर्चा आवश्यक है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/minhang.rst:41
 msgid ""
@@ -150,7 +150,7 @@ msgid ""
 "business-service hub in Hongqiao. The reported workstation offer depends "
 "on qualification and available space, not simply arrival at the transport "
 "hub. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`होंगकियाओ इंटरनेशनल यूथ इनोवेशन हब (Hongqiao International Youth Innovation Hub) </entities/hongqiao-youth>` (虹桥国际青年创业港 · इनक्यूबेटर · सॉफ्टवेयर AI, उद्योग) — होंगकियाओ में युवा नवाचार और व्यावसायिक-सेवा हब के रूप में जुलाई 2026 में खोला गया। रिपोर्ट किया गया वर्कस्टेशन ऑफ़र योग्यता और उपलब्ध स्थान पर निर्भर करता है, न कि केवल परिवहन हब पर पहुंचने पर। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`होंगकियाओ इंटरनेशनल यूथ इनोवेशन हब (Hongqiao International Youth Innovation Hub) </entities/hongqiao-youth>` (虹桥国际青年创业港 · इनक्यूबेटर · सॉफ्टवेयर AI, उद्योग) — होंगकियाओ में युवा नवाचार और व्यावसायिक-सेवा हब के रूप में जुलाई 2026 में खोला गया। रिपोर्ट किया गया वर्कस्टेशन ऑफ़र योग्यता और उपलब्ध स्थान पर निर्भर करता है, न कि केवल परिवहन हब पर पहुंचने पर। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/minhang.rst:42
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "engineering, medical AI. These themes are editorial routing guidance, not "
 "a verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई जियाओ तोंग विश्वविद्यालय (Shanghai Jiao Tong University) </entities/university-sjtu>` (上海交通大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: रोबोटिक्स, चिप्स, इंजीनियरिंग, मेडिकल AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई जियाओ तोंग विश्वविद्यालय (Shanghai Jiao Tong University) </entities/university-sjtu>` (上海交通大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: रोबोटिक्स, चिप्स, इंजीनियरिंग, मेडिकल AI। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/minhang.rst:44
 msgid "Funding routes"
@@ -173,7 +173,7 @@ msgid ""
 "conversion enterprise: up to RMB 500,000/year; RMB 1.5m over three years; "
 "up to 50% of investment. Status: Policy in force; call not confirmed "
 "open. Timing: Policy: 1 Sep 2025 to 31 Aug 2030."
-msgstr ":doc:`मिनहांग अनुसंधान व्यावसायीकरण सहायता </funding/minhang-conversion>` (闵行科技成果转化支持 · अनुदान (Grant) · कोई इक्विटी नहीं) — नया रूपांतरण उद्यम: RMB 500,000/वर्ष तक; तीन वर्षों में RMB 1.5m; निवेश के 50% तक। स्थिति: नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं। समय-सीमा: नीति अवधि: 1 सितंबर 2025 से 31 अगस्त 2030 तक।"
+msgstr ":doc:`मिनहांग अनुसंधान व्यावसायीकरण सहायता </funding/minhang-conversion>` (闵行科技成果转化支持 · अनुदान (Grant) · कंपनी की हिस्सेदारी नहीं देनी होती) — नई शोध-व्यावसायीकरण कंपनी के लिए प्रति वर्ष अधिकतम 5 लाख RMB, तीन वर्षों में कुल 15 लाख RMB; पात्र निवेश का अधिकतम 50%। स्थिति: नीति लागू है; आवेदन अभी खुले हैं या नहीं, इसकी पुष्टि बाकी। समय-सीमा: नीति अवधि: 1 सितंबर 2025 से 31 अगस्त 2030 तक।"
 
 #: ../../districts/minhang.rst:48
 msgid ""
@@ -181,7 +181,7 @@ msgid ""
 "(闵行关键核心技术攻关 · Grant · No equity) — General: up to RMB 3m at up to 30% of "
 "R&D; major: up to RMB 10m at up to 50%. Status: Policy in force; call not "
 "confirmed open. Timing: Policy through 31 Aug 2030."
-msgstr ":doc:`मिनहांग कोर प्रौद्योगिकी R&D परियोजनाएं </funding/minhang-rd>` (闵行关键核心技术攻关 · अनुदान (Grant) · कोई इक्विटी नहीं) — सामान्य: R&D के 30% तक RMB 3m तक; प्रमुख: 50% तक RMB 10m तक। स्थिति: नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं। समय-सीमा: 31 अगस्त 2030 तक नीति प्रभावी।"
+msgstr ":doc:`मिनहांग कोर प्रौद्योगिकी R&D परियोजनाएं </funding/minhang-rd>` (闵行关键核心技术攻关 · अनुदान (Grant) · कंपनी की हिस्सेदारी नहीं देनी होती) — सामान्य परियोजना: R&D व्यय का अधिकतम 30%, 30 लाख RMB तक; प्रमुख परियोजना: अधिकतम 50%, 1 करोड़ RMB तक। स्थिति: नीति लागू है; आवेदन अभी खुले हैं या नहीं, इसकी पुष्टि बाकी। समय-सीमा: 31 अगस्त 2030 तक नीति प्रभावी।"
 
 #: ../../districts/minhang.rst:50
 msgid ":doc:`Also compare citywide funding </funding>`"

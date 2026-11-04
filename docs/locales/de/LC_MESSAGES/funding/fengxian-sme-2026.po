@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -26,14 +26,14 @@ msgstr "Zuschuss | Bezirk Fengxian"
 
 #: ../../funding/fengxian-sme-2026.rst:6
 msgid "Closed"
-msgstr "Geschlossen"
+msgstr "Bewerbungsfrist abgelaufen"
 
 #: ../../funding/fengxian-sme-2026.rst:8
 msgid ""
-"`Evidence S115 "
+"`Evidence S123 "
 "<https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_. "
 "奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告."
-msgstr "`Nachweis S115 <https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告."
+msgstr "`Nachweis S123 <https://www.fengxian.gov.cn/kw/tzgg/20260528/107781.html>`_. 奉贤区2026年“南上海科创中心”创新行动计划——区科技型中小企业技术创新资金项目申报指南_通知公告."
 
 #: ../../funding/fengxian-sme-2026.rst:10
 msgid "Amount and mechanism"
@@ -43,7 +43,7 @@ msgstr "Förderhöhe und Mechanismus"
 msgid ""
 "Up to RMB 250,000; generally two installments, final settlement after "
 "acceptance"
-msgstr "Bezirkliche Sonderzuschüsse für herausragende Vorhaben technologiebasierter KMU"
+msgstr "Bis zu 250.000 RMB; in der Regel zwei Raten, Schlussabrechnung nach Projektabnahme"
 
 #: ../../funding/fengxian-sme-2026.rst:15
 msgid "No equity"
@@ -58,11 +58,11 @@ msgid ""
 "The 2026 key-project call requires prior-year revenue RMB 30m-200m, R&D "
 "at least RMB 1.2m and 4% of revenue, at most 500 employees and at least "
 "10% R&D staff, plus additional conditions."
-msgstr "Technologieorientierte KMU in Fengxian mit hoher Innovationskraft in den Branchen Biomedizin, neue Materialien, intelligente Fertigung und digitale Wirtschaft."
+msgstr "Die Ausschreibung 2026 verlangt Vorjahresumsatz von 30–200 Mio. RMB, F&E-Ausgaben von mindestens 1,2 Mio. RMB und 4 % des Umsatzes, höchstens 500 Beschäftigte und mindestens 10 % F&E-Personal. Weitere Bedingungen gelten."
 
 #: ../../funding/fengxian-sme-2026.rst:22
 msgid "Online closed 21 June 2026; paper closed 30 June 2026"
-msgstr "Fristen der bezirklichen Wissenschaftskommission für das laufende Antragsjahr beachten"
+msgstr "Onlinefrist: 21. Juni 2026; Papierfrist: 30. Juni 2026, beide abgelaufen"
 
 #: ../../funding/fengxian-sme-2026.rst:24
 msgid "Contact and application"

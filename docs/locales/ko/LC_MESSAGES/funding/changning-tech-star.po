@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -26,14 +26,14 @@ msgstr "보조금 | 창닝구"
 
 #: ../../funding/changning-tech-star.rst:6
 msgid "Closed"
-msgstr "모집 마감"
+msgstr "접수 마감"
 
 #: ../../funding/changning-tech-star.rst:8
 msgid ""
-"`Evidence S108 "
+"`Evidence S116 "
 "<https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_. "
 "上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知."
-msgstr "`근거 S108 <https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_. 上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知."
+msgstr "`근거 S116 <https://www.shcn.gov.cn/col11010/20260602/1310341.html>`_. 上海市长宁区人民政府-长宁区财政局-通知公告-关于开展2026年度长宁区“科技之星”团队项目申报工作的通知."
 
 #: ../../funding/changning-tech-star.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "우수 기술 혁신 및 산업화 팀 대상 장려금 및 R&D 프로�
 
 #: ../../funding/changning-tech-star.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/changning-tech-star.rst:17
 msgid "Eligibility and timing"
@@ -58,7 +58,7 @@ msgid ""
 "Eligible teams in AI, industrial internet and biomedicine at "
 "organizations established or operating lawfully in Changning. Required "
 "evidence includes research outcomes, employment contracts and commitments."
-msgstr "창닝구 내 핵심 기술 과제를 수행하고 구의 전략 산업에 기여하는 산학연 우수 연구개발팀."
+msgstr "창닝구에서 적법하게 설립되거나 운영되는 기관의 AI, 산업 인터넷, 바이오의약 분야 적격 팀이 대상입니다. 연구 성과, 근로계약, 서약서 등의 증빙이 필요합니다."
 
 #: ../../funding/changning-tech-star.rst:22
 msgid "Closed 26 June 2026"

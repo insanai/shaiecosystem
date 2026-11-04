@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -30,10 +30,10 @@ msgstr "펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요"
 
 #: ../../funding/jiading-future-fund.rst:8
 msgid ""
-"`Evidence S118 "
+"`Evidence S126 "
 "<https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading "
 "launches 800m-yuan future industry fund."
-msgstr "`근거 S118 <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading launches 800m-yuan future industry fund."
+msgstr "`근거 S126 <https://english.jiading.gov.cn/2026-02/06/c_1160145.htm>`_. Jiading launches 800m-yuan future industry fund."
 
 #: ../../funding/jiading-future-fund.rst:10
 msgid "Amount and mechanism"
@@ -43,7 +43,7 @@ msgstr "지원 규모 및 지원 방식"
 msgid ""
 "Announced fund scale RMB 800 million; individual investment not "
 "established"
-msgstr "스마트 모빌리티, 첨단 센서, 차세대 에너지, 포토닉스 분야의 시장 기반 지분투자 지원"
+msgstr "공표된 펀드 규모 8억 위안; 기업별 투자액은 확인되지 않음"
 
 #: ../../funding/jiading-future-fund.rst:15
 msgid "Negotiated equity"
@@ -58,7 +58,7 @@ msgid ""
 "Projects within the fund manager's current future-industry mandate. "
 "Confirm the responsible manager, direct or subfund route, stage and "
 "domicile requirements. Fund scale is not a per-company award."
-msgstr "자딩구에 생산 및 R&D 거점을 마련하는 미래 산업 분야 유망 혁신 기업."
+msgstr "운용사의 현행 미래산업 투자 목적에 부합하는 프로젝트가 대상입니다. 담당 운용사, 직접·하위 펀드 경로, 투자 단계 및 소재지 요건을 확인해야 합니다. 펀드 규모가 기업별 지원금은 아닙니다."
 
 #: ../../funding/jiading-future-fund.rst:22
 msgid "Manager-led sourcing; current deal intake to confirm"

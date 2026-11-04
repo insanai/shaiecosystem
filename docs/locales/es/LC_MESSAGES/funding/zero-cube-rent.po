@@ -1,0 +1,116 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../funding/zero-cube-rent.rst:1
+msgid "Lin-gang Zero Cube conditional rent support"
+msgstr "Apoyo condicionado al alquiler de Zero Cube en Lin-gang"
+
+#: ../../funding/zero-cube-rent.rst:4
+msgid "In-kind services | Pudong"
+msgstr "Servicios y apoyo en especie | Nueva Área de Pudong"
+
+#: ../../funding/zero-cube-rent.rst:6
+msgid "Published service; current terms to confirm"
+msgstr "Servicio publicado; condiciones vigentes por confirmar"
+
+#: ../../funding/zero-cube-rent.rst:8
+msgid ""
+"`Evidence S076 "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_. "
+"Lin-gang Zero Cube OPC community, August 2026."
+msgstr "`Evidencia S076 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_. Lin-gang Zero Cube OPC community, August 2026."
+
+#: ../../funding/zero-cube-rent.rst:10
+msgid "Amount and mechanism"
+msgstr "Importe y mecanismo"
+
+#: ../../funding/zero-cube-rent.rst:13
+msgid ""
+"Qualifying offices: 3 years rent-free, then 2 years at half rent; "
+"separate housing and service terms"
+msgstr "Oficinas elegibles: 3 años sin alquiler y después 2 a mitad de precio; vivienda y servicios tienen condiciones aparte"
+
+#: ../../funding/zero-cube-rent.rst:15
+msgid "No equity stated in offer; verify terms"
+msgstr "Sin exigencia de capital declarada; verificar contrato"
+
+#: ../../funding/zero-cube-rent.rst:17
+msgid "Eligibility and timing"
+msgstr "Elegibilidad y plazos"
+
+#: ../../funding/zero-cube-rent.rst:20
+msgid ""
+"Selected OPC and small-team projects admitted by the community. The "
+"August 2026 operator report is not a tenancy offer for every applicant. "
+"Confirm current selection, eligible premises, deposits, service charges "
+"and exit terms in writing."
+msgstr "Proyectos individuales y de equipos pequeños seleccionados por la comunidad. El informe de agosto de 2026 no es una oferta de alquiler para todos. Confirmar por escrito selección, locales, fianzas, cargos por servicios y condiciones de salida."
+
+#: ../../funding/zero-cube-rent.rst:22
+msgid "Confirm current community admission and tenancy terms"
+msgstr "Confirmar admisión y condiciones de alquiler vigentes"
+
+#: ../../funding/zero-cube-rent.rst:24
+msgid "Contact and application"
+msgstr "Contacto y solicitud"
+
+#: ../../funding/zero-cube-rent.rst:27
+msgid ""
+"`Official application / policy route "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
+msgstr "`Vía oficial de solicitud / normativa <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
+
+#: ../../funding/zero-cube-rent.rst:29
+msgid ""
+"The linked authority or operator is the contact route. A direct current "
+"program contact is not established in this profile."
+msgstr "La autoridad u operador enlazado constituye la vía de contacto. En este perfil no consta un contacto directo vigente para el programa."
+
+#: ../../funding/zero-cube-rent.rst:31
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../funding/zero-cube-rent.rst:33
+msgid "Send a project brief and request the current admission checklist."
+msgstr "Enviar un resumen ejecutivo del proyecto y solicitar la lista vigente de requisitos de admisión."
+
+#: ../../funding/zero-cube-rent.rst:35
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "Completar la evaluación de elegibilidad y la revisión técnica o comercial del operador."
+
+#: ../../funding/zero-cube-rent.rst:37
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "Confirmar por escrito el alquiler, las tarifas de servicio, la propiedad intelectual, los precios de cómputo y cualquier derecho sobre el capital."
+
+#: ../../funding/zero-cube-rent.rst:39
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "Firmar los documentos de admisión acordados y registrar los hitos y los responsables de soporte."
+
+#: ../../funding/zero-cube-rent.rst:41
+msgid ""
+"The published maximum is a ceiling, not an entitlement. Check the "
+"applicable notice, eligible cost period, other public support and written "
+"payment conditions."
+msgstr "El importe máximo publicado es un techo presupuestario, no un derecho adquirido. Verifique la convocatoria aplicable, el período de gastos elegibles, la compatibilidad con otras ayudas públicas y las condiciones de desembolso por escrito."

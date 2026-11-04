@@ -43,7 +43,7 @@ msgstr "RMB 500,000 तक; ब्याज-मुक्त; 3 वर्ष; 36 
 
 #: ../../funding/stefg-loan.rst:15
 msgid "No equity; repayable"
-msgstr "कोई इक्विटी नहीं; पुनर्भुगतान योग्य"
+msgstr "हिस्सेदारी नहीं देनी होती; ऋण चुकाना होगा"
 
 #: ../../funding/stefg-loan.rst:17
 msgid "Eligibility and timing"

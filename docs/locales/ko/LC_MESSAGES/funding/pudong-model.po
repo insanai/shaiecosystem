@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -26,14 +26,14 @@ msgstr "비용 환급 지원 | 푸둥 신구"
 
 #: ../../funding/pudong-model.rst:6
 msgid "Closed"
-msgstr "모집 마감"
+msgstr "접수 마감"
 
 #: ../../funding/pudong-model.rst:8
 msgid ""
-"`Evidence S089 "
+"`Evidence S096 "
 "<https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. "
 "关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
-msgstr "`근거 S089 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
+msgstr "`근거 S096 <https://www.pudong.gov.cn/zwgk/zcwj-zcxwj/2026/225/358644.html>`_. 关于开展2026年度浦东新区促进人工智能产业高质量发展专项（大模型等AI新技术应用项目） 申报工作的通知_政策性文件."
 
 #: ../../funding/pudong-model.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "지원 비율 및 지원 한도는 해당 실시 세칙 기준"
 
 #: ../../funding/pudong-model.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/pudong-model.rst:17
 msgid "Eligibility and timing"
@@ -60,7 +60,7 @@ msgstr "주요 수혜 및 사업 성과가 푸둥구에 귀속되고 2025년도 
 
 #: ../../funding/pudong-model.rst:22
 msgid "Closed 31 Aug 2026, 16:00 China Standard Time"
-msgstr "2026년 8월 31일 16:00(중국 표준시) 접수 마감"
+msgstr "2026년 8월 31일 16:00(중국 표준시) 마감"
 
 #: ../../funding/pudong-model.rst:24
 msgid "Contact and application"

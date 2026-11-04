@@ -151,7 +151,7 @@ msgid ""
 "</funding/putuo-seed>` (2026普陀科创企业种子计划第二批 · Grant · No equity) — RMB "
 "300,000 per selected company; 50% initially, remainder after one-year "
 "development review. Status: Closed. Timing: Closed 31 August 2026."
-msgstr ":doc:`2026年普陀区ハイテク企業シード計画（第2期） </funding/putuo-seed>` （2026普陀科创企业种子计划第二批 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 採択企業1社につき30万元（採択時に50％交付、1年後の事業進捗審査を経て残額交付）。ステータス：受付終了。時期：2026年8月31日に公募終了。"
+msgstr ":doc:`2026年普陀区ハイテク企業シード計画（第2期） </funding/putuo-seed>` （2026普陀科创企业种子计划第二批 · 助成金・補助金 · 株式の提供不要）— 採択企業1社につき30万元（採択時に50％交付、1年後の事業進捗審査を経て残額交付）。ステータス：募集終了。時期：2026年8月31日に公募終了。"
 
 #: ../../districts/putuo.rst:46
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "reimbursement · No equity) — Direction-specific R&D, compute, "
 "first-product matching and related support. Status: Closed. Timing: "
 "Closed 26 June 2026."
-msgstr ":doc:`2026年普陀区スマートソフトウェア産業特別資金 </funding/putuo-intelligent-software>` （2026普陀智能软件产业专项 · 助成金・事後精算補助 · 株式希薄化なし（エクイティフリー））— 研究開発、計算資源利用、首台套・首版次マッチング支援など、各支援区分に応じた助成。ステータス：受付終了。時期：2026年6月26日に公募終了。"
+msgstr ":doc:`2026年普陀区スマートソフトウェア産業特別資金 </funding/putuo-intelligent-software>` （2026普陀智能软件产业专项 · 助成金・事後精算補助 · 株式の提供不要）— 研究開発、計算資源利用、首台套・首版次マッチング支援など、各支援区分に応じた助成。ステータス：募集終了。時期：2026年6月26日に公募終了。"
 
 #: ../../districts/putuo.rst:47
 msgid ""
@@ -169,7 +169,7 @@ msgid ""
 "at most 50%, balance subject to acceptance. Status: 2026 call published; "
 "not confirmed open. Timing: Confirm the deadline in the September 2026 "
 "notice."
-msgstr ":doc:`2026年普陀区科学技術研究開発プラットフォームプロジェクト </funding/putuo-rd-platform>` （2026普陀科技研发平台项目 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 最大200万元（初回交付は50％以下、残額は事業検収・完了審査結果に基づき交付）。ステータス：2026年公募公表済み（受付開始は未確認）。時期：2026年9月発行の公募通知に定められた期日を確認のこと。"
+msgstr ":doc:`2026年普陀区科学技術研究開発プラットフォームプロジェクト </funding/putuo-rd-platform>` （2026普陀科技研发平台项目 · 助成金・補助金 · 株式の提供不要）— 最大200万元（初回交付は50％以下、残額は事業検収・完了審査結果に基づき交付）。ステータス：2026年公募公表済み（受付開始は未確認）。時期：2026年9月発行の公募通知に定められた期日を確認のこと。"
 
 #: ../../districts/putuo.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -30,10 +30,10 @@ msgstr "政策有效，未确认正在申报"
 
 #: ../../funding/chongming-startup-2026.rst:8
 msgid ""
-"`Evidence S116 "
+"`Evidence S124 "
 "<https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html>`_. "
 "上海市崇明区人力资源和社会保障局关于印发《崇明区关于新时期强化创业创新促进产业高质量发展的若干政策措施》的通知-上海市崇明区人民政府."
-msgstr "`证据 S116 <https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html>`_. 上海市崇明区人力资源和社会保障局关于印发《崇明区关于新时期强化创业创新促进产业高质量发展的若干政策措施》的通知-上海市崇明区人民政府."
+msgstr "`证据 S124 <https://www.shcm.gov.cn/govxxgk/qzfbgs/2026-07-14/test_177bd997-b1f1-4bd3-ad73-be6f1a795008.html>`_. 上海市崇明区人力资源和社会保障局关于印发《崇明区关于新时期强化创业创新促进产业高质量发展的若干政策措施》的通知-上海市崇明区人民政府."
 
 #: ../../funding/chongming-startup-2026.rst:10
 msgid "Amount and mechanism"

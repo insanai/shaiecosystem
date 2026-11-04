@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,14 +26,14 @@ msgstr "अनुदान / प्रतिपूर्ति | पुतुओ
 
 #: ../../funding/putuo-intelligent-software.rst:6
 msgid "Closed"
-msgstr "बंद हो चुका है"
+msgstr "आवेदन की समय-सीमा समाप्त"
 
 #: ../../funding/putuo-intelligent-software.rst:8
 msgid ""
-"`Evidence S110 "
+"`Evidence S118 "
 "<https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. "
 "关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
-msgstr "`साक्ष्य S110 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. 关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
+msgstr "`साक्ष्य S118 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. 关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
 
 #: ../../funding/putuo-intelligent-software.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "दिशा-विशिष्ट R&D, कंप्यूट, प्र
 
 #: ../../funding/putuo-intelligent-software.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/putuo-intelligent-software.rst:17
 msgid "Eligibility and timing"

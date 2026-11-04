@@ -58,7 +58,7 @@ msgstr "オンライン申請の上、法人格、所在地、アカウント適
 
 #: ../../funding/azure-credit.rst:22
 msgid "Confirm current application and credit validity"
-msgstr "最新の申請受付状況およびクレジット有効期間を確認のこと"
+msgstr "現行申請手続きおよびクレジット有効期間の確認が必要"
 
 #: ../../funding/azure-credit.rst:24
 msgid "Contact and application"

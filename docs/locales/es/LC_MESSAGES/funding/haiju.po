@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -30,9 +30,9 @@ msgstr "Competición 2026 publicada; confirmar admisión por pista"
 
 #: ../../funding/haiju.rst:8
 msgid ""
-"`Evidence S101 <https://www.hello-sh.com/haijuTalent/competition>`_. "
+"`Evidence S108 <https://www.hello-sh.com/haijuTalent/competition>`_. "
 "海聚英才官网."
-msgstr "`Evidencia S101 <https://www.hello-sh.com/haijuTalent/competition>`_. 海聚英才官网."
+msgstr "`Evidencia S108 <https://www.hello-sh.com/haijuTalent/competition>`_. 海聚英才官网."
 
 #: ../../funding/haiju.rst:10
 msgid "Amount and mechanism"
@@ -40,7 +40,7 @@ msgstr "Importe y mecanismo"
 
 #: ../../funding/haiju.rst:13
 msgid "Track-specific awards, introductions and services"
-msgstr "Premios, presentaciones institucionales y servicios específicos según la pista temática"
+msgstr "Premios, presentaciones institucionales y servicios específicos según la modalidad"
 
 #: ../../funding/haiju.rst:15
 msgid "Award / investment terms vary"
@@ -85,7 +85,7 @@ msgstr "Lista de verificación editorial para la solicitud. El procedimiento rea
 
 #: ../../funding/haiju.rst:33
 msgid "Choose the correct competition track, region and applicant category."
-msgstr "Seleccionar la pista temática (track), la división regional y la categoría de participante adecuadas."
+msgstr "Seleccionar la modalidad (track), la división regional y la categoría de participante adecuadas."
 
 #: ../../funding/haiju.rst:35
 msgid ""

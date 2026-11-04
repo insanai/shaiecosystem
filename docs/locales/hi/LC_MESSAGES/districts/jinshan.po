@@ -30,7 +30,7 @@ msgid ""
 "UAV Base and Bay Area incubation carriers. It connects testing and "
 "industrialization, subject to park admission and the applicable aviation "
 "permissions."
-msgstr "2025-2026 पार्क योजना में जिनशान न्यू मटेरियल्स इनक्यूबेटर, ईस्ट चाइना UAV बेस और बे एरिया इनक्यूबेशन कैरियर्स के नाम शामिल हैं। यह पार्क प्रवेश और लागू विमानन अनुमतियों के अधीन, परीक्षण और औद्योगीकरण को जोड़ता है।"
+msgstr "2025-2026 पार्क योजना में जिनशान न्यू मटेरियल्स इनक्यूबेटर, ईस्ट चाइना UAV बेस और बे एरिया इनक्यूबेशन स्टार्टअप सहायता केंद्रों के नाम शामिल हैं। यह पार्क प्रवेश और लागू विमानन अनुमतियों के अधीन, परीक्षण और औद्योगीकरण को जोड़ता है।"
 
 #: ../../districts/jinshan.rst:8
 msgid ""
@@ -110,7 +110,7 @@ msgid ""
 "services and a low-altitude incubation platform. Airspace, testing and "
 "airworthiness services require separate confirmation from physical "
 "workspace. [Status: Published entity; intake to confirm]"
-msgstr ":doc:`ईस्ट चाइना UAV बेस (East China UAV Base) </entities/uav-base>` (华东无人机基地 · प्रौद्योगिकी पार्क · हार्डवेयर AI, ड्रोन) — जिनशान पार्क योजना में परीक्षण-उड़ान सेवाएं और कम-ऊंचाई वाला इनक्यूबेशन प्लेटफॉर्म शामिल है। हवाई क्षेत्र, परीक्षण और उड़ान योग्यता (airworthiness) सेवाओं के लिए भौतिक कार्यस्थल से अलग पुष्टि की आवश्यकता होती है। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`ईस्ट चाइना UAV बेस (East China UAV Base) </entities/uav-base>` (华东无人机基地 · प्रौद्योगिकी पार्क · हार्डवेयर AI, ड्रोन) — जिनशान पार्क योजना में परीक्षण-उड़ान सेवाएं और कम-ऊंचाई वाला इनक्यूबेशन प्लेटफॉर्म शामिल है। हवाई क्षेत्र, परीक्षण और उड़ान योग्यता (airworthiness) सेवाओं के लिए भौतिक कार्यस्थल से अलग पुष्टि की आवश्यकता होती है। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/jinshan.rst:38
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "materials and manufacturing inputs; specify process equipment and "
 "environmental constraints in the inquiry. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`जिनशान न्यू मटेरियल्स इनक्यूबेटर (Jinshan New Materials Incubator) </entities/jinshan-materials>` (金山新材料孵化器 · इनक्यूबेटर · सामग्री (Materials), हार्डवेयर AI) — कार्बन वैली ग्रीन बे से जुड़ा एक सामग्री इनक्यूबेशन मार्ग। सेंसर, इलेक्ट्रॉनिक सामग्री और विनिर्माण इनपुट के लिए प्रासंगिक; पूछताछ में प्रोसेस उपकरण और पर्यावरणीय बाधाओं को निर्दिष्ट करें। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`जिनशान न्यू मटेरियल्स इनक्यूबेटर (Jinshan New Materials Incubator) </entities/jinshan-materials>` (金山新材料孵化器 · इनक्यूबेटर · सामग्री (Materials), हार्डवेयर AI) — कार्बन वैली ग्रीन बे से जुड़ा एक सामग्री इनक्यूबेशन मार्ग। सेंसर, इलेक्ट्रॉनिक सामग्री और विनिर्माण इनपुट के लिए प्रासंगिक; पूछताछ में प्रोसेस उपकरण और पर्यावरणीय बाधाओं को निर्दिष्ट करें। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/jinshan.rst:39
 msgid ""
@@ -131,7 +131,7 @@ msgid ""
 "applied skills. These themes are editorial routing guidance, not a "
 "verified offer of laboratory access or startup funding. [Status: "
 "Published entity; intake to confirm]"
-msgstr ":doc:`शंघाई झोंगकियाओ वोकेशनल एंड टेक्निकल यूनिवर्सिटी (Zhongqiao University) </entities/university-zhongqiao>` (上海中侨职业技术大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: व्यावसायिक स्नातक इंजीनियरिंग और अनुप्रयुक्त कौशल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: प्रकाशित संस्था; प्रवेश की पुष्टि शेष]"
+msgstr ":doc:`शंघाई झोंगकियाओ वोकेशनल एंड टेक्निकल यूनिवर्सिटी (Zhongqiao University) </entities/university-zhongqiao>` (上海中侨职业技术大学 · विश्वविद्यालय) — जून 2026 के शिक्षा मंत्रालय के रजिस्टर में संस्थागत प्रविष्टि। सुझाए गए सहयोग विषय: व्यावसायिक स्नातक इंजीनियरिंग और अनुप्रयुक्त कौशल। ये विषय संपादकीय मार्गदर्शन हैं, न कि प्रयोगशाला प्रवेश या स्टार्टअप फंडिंग का सत्यापित प्रस्ताव। [स्थिति: संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी]"
 
 #: ../../districts/jinshan.rst:41
 msgid "Funding routes"
@@ -145,7 +145,7 @@ msgid ""
 "and industrialization support under the 2025-2026 park action plan. "
 "Status: Policy in force; call not confirmed open. Timing: Policy: 2025 to "
 "2026 action plan; confirm current implementing batch."
-msgstr ":doc:`झांगजियांग जिनशान पार्क लो-एल्टीट्यूड UAV और नई सामग्री सहायता </funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · अनुदान / प्रतिपूर्ति · कोई इक्विटी नहीं) — 2025-2026 पार्क कार्य योजना के तहत नीति-विशिष्ट R&D, कैरियर इनक्यूबेशन, परीक्षण-सेवा और औद्योगीकरण सहायता। स्थिति: नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं। समय-सीमा: नीति: 2025 से 2026 कार्य योजना; वर्तमान कार्यान्वयन बैच की पुष्टि करें।"
+msgstr ":doc:`झांगजियांग जिनशान पार्क लो-एल्टीट्यूड UAV और नई सामग्री सहायता </funding/jinshan-park-2026>` (张江金山园低空无人机与新材料创新支持 · अनुदान / प्रतिपूर्ति · कंपनी की हिस्सेदारी नहीं देनी होती) — 2025-2026 पार्क कार्य योजना के तहत नीति-विशिष्ट R&D, स्टार्टअप सहायता केंद्र इनक्यूबेशन, परीक्षण-सेवा और औद्योगीकरण सहायता। स्थिति: नीति लागू है; आवेदन अभी खुले हैं या नहीं, इसकी पुष्टि बाकी। समय-सीमा: नीति: 2025 से 2026 कार्य योजना; वर्तमान कार्यान्वयन बैच की पुष्टि करें।"
 
 #: ../../districts/jinshan.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

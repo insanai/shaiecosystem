@@ -156,7 +156,7 @@ msgid ""
 "RMB 800 million; individual investment not established. Status: Fund "
 "announced; deal intake to confirm. Timing: Manager-led sourcing; current "
 "deal intake to confirm."
-msgstr ":doc:`자딩 미래산업 펀드 </funding/jiading-future-fund>` (嘉定未来产业基金 · 지분 투자 · 협의 지분율 적용) — 스마트 모빌리티, 첨단 센서, 차세대 에너지, 포토닉스 분야의 시장 기반 지분투자 지원. 상태: 펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요. 일정: 펀드 운용사 공식 접수 및 투자 심의 절차 준용."
+msgstr ":doc:`자딩 미래산업 펀드 </funding/jiading-future-fund>` (嘉定未来产业基金 · 지분 투자 · 협의 지분율 적용) — 공표된 펀드 규모 8억 위안; 기업별 투자액은 확인되지 않음. 상태: 펀드 결성 발표됨; 투자 심사 접수 여부 확인 필요. 일정: 펀드 운용사 공식 접수 및 투자 심의 절차 준용."
 
 #: ../../districts/jiading.rst:47
 msgid ":doc:`Also compare citywide funding </funding>`"

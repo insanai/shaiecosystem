@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -31,10 +31,10 @@ msgstr "Ausschreibung 2026 veröffentlicht; Antragsfrist prüfen"
 
 #: ../../funding/jingan-service-2026.rst:8
 msgid ""
-"`Evidence S122 "
+"`Evidence S130 "
 "<https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_. "
 "关于开展2026年第二批静安区服务业发展引导资金项目申报工作的通知."
-msgstr "`Nachweis S122 <https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_. 关于开展2026年第二批静安区服务业发展引导资金项目申报工作的通知."
+msgstr "`Nachweis S130 <https://www.jingan.gov.cn/govxxgk/JA2/2026-05-18/117b6400-28b1-4035-8fc1-3e28685f8668.html>`_. 关于开展2026年第二批静安区服务业发展引导资金项目申报工作的通知."
 
 #: ../../funding/jingan-service-2026.rst:10
 msgid "Amount and mechanism"

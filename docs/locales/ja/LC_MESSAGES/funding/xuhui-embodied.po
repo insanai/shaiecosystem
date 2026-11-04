@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,10 +30,10 @@ msgstr "政策公表済み（申請受付状況の確認要）"
 
 #: ../../funding/xuhui-embodied.rst:8
 msgid ""
-"`Evidence S090 "
+"`Evidence S097 "
 "<https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. "
 "关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
-msgstr "`出典 S090 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
+msgstr "`出典 S097 <https://www.shanghai.gov.cn/tszczq-cxcyqj4/20251127/03def1a04486409a9e5454351bd166e9.html>`_. 关于印发《徐汇区关于推动具身智能产业发展的若干意见》的通知."
 
 #: ../../funding/xuhui-embodied.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "評価審査を経た適格主体に対し、1回限り最大1,000万元
 
 #: ../../funding/xuhui-embodied.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/xuhui-embodied.rst:17
 msgid "Eligibility and timing"
@@ -62,7 +62,7 @@ msgstr "ロボット基幹モデル、身体性アルゴリズム、ロボット
 
 #: ../../funding/xuhui-embodied.rst:22
 msgid "Confirm applicable implementing notice"
-msgstr "該当する年度実施通知を確認のこと"
+msgstr "該当する実施通知の確認が必要"
 
 #: ../../funding/xuhui-embodied.rst:24
 msgid "Contact and application"

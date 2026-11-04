@@ -39,7 +39,7 @@ msgstr "Förderhöhe und Mechanismus"
 #: ../../funding/stefg-loan.rst:13
 msgid ""
 "Up to RMB 500,000; interest-free; 3 years; equal principal over 36 months"
-msgstr "Bis zu 500.000 RMB; zinslos; 3 Jahre Laufzeit; Tilgung in gleichbleibenden monatlichen Raten über 36 Monate"
+msgstr "Bis zu 500.000 RMB; zinslos; Laufzeit 3 Jahre; Tilgung des Kapitals in 36 gleichen monatlichen Raten"
 
 #: ../../funding/stefg-loan.rst:15
 msgid "No equity; repayable"
@@ -59,7 +59,7 @@ msgstr "Chinesische Staatsangehörige bis maximal 40 Jahre, die die Voraussetzun
 
 #: ../../funding/stefg-loan.rst:22
 msgid "Confirm branch intake and review schedule"
-msgstr "Antragsfristen und Begutachtungszyklen der jeweiligen Hochschul- oder Bezirksfiliale beachten"
+msgstr "Zulassung der Geschäftsstelle und Zeitplan prüfen"
 
 #: ../../funding/stefg-loan.rst:24
 msgid "Contact and application"

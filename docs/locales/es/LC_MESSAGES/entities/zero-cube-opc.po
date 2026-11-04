@@ -1,0 +1,121 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/zero-cube-opc.rst:1
+msgid "Lin-gang Zero Cube OPC community"
+msgstr "Comunidad OPC Zero Cube de Lin-gang"
+
+#: ../../entities/zero-cube-opc.rst:4
+msgid "临港零界魔方OPC社区"
+msgstr "临港零界魔方OPC社区"
+
+#: ../../entities/zero-cube-opc.rst:6
+msgid "Incubator | Pudong | Research checked 2026-11-04"
+msgstr "Incubadora | Nueva Área de Pudong | Investigación verificada el 2026-11-04"
+
+#: ../../entities/zero-cube-opc.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI, Industry."
+msgstr "Enfoque de IA e industria: IA de software, IA de hardware, Industria."
+
+#: ../../entities/zero-cube-opc.rst:10
+msgid ""
+"A Lin-gang Group community for solo founders and small teams, with "
+"startup and living-service teams and AI-Store resource access. The August "
+"2026 operator report describes three rent-free office years followed by "
+"two half-price years for qualifying projects. Housing, loans, vouchers "
+"and admission have separate conditions; confirm the current tenancy "
+"contract."
+msgstr "Comunidad de Lin-gang Group para emprendedores individuales y equipos pequeños, con servicios de emprendimiento, vida diaria y acceso a recursos de AI-Store. El informe de agosto de 2026 describe tres años de oficina sin alquiler y dos años posteriores a mitad de precio para proyectos elegibles. Vivienda, préstamos, bonos y admisión tienen condiciones distintas; revisar el contrato vigente."
+
+#: ../../entities/zero-cube-opc.rst:12
+msgid ""
+"`Evidence S076 "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_. "
+"Lin-gang Zero Cube OPC community, August 2026."
+msgstr "`Evidencia S076 <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_. Lin-gang Zero Cube OPC community, August 2026."
+
+#: ../../entities/zero-cube-opc.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/zero-cube-opc.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/zero-cube-opc.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/zero-cube-opc.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/zero-cube-opc.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
+msgstr "`Fuente oficial y vía de la autoridad competente <https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260825/bf1946926da14a56b7bdce2760e9edf1.html>`_"
+
+#: ../../entities/zero-cube-opc.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/zero-cube-opc.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/zero-cube-opc.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/zero-cube-opc.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/zero-cube-opc.rst:35
+msgid "Send a project brief and request the current admission checklist."
+msgstr "Enviar un resumen ejecutivo del proyecto y solicitar la lista vigente de requisitos de admisión."
+
+#: ../../entities/zero-cube-opc.rst:37
+msgid ""
+"Complete the operator's eligibility and technical or commercial review."
+msgstr "Completar la evaluación de elegibilidad y la revisión técnica o comercial del operador."
+
+#: ../../entities/zero-cube-opc.rst:39
+msgid ""
+"Confirm rent, service fees, IP, compute pricing and any equity rights in "
+"writing."
+msgstr "Confirmar por escrito el alquiler, las tarifas de servicio, la propiedad intelectual, los precios de cómputo y cualquier derecho sobre el capital."
+
+#: ../../entities/zero-cube-opc.rst:41
+msgid ""
+"Sign the agreed admission documents and record milestones and support "
+"owners."
+msgstr "Firmar los documentos de admisión acordados y registrar los hitos y los responsables de soporte."
+
+#: ../../entities/zero-cube-opc.rst:43
+msgid ":doc:`Pudong district route </districts/pudong>`"
+msgstr ":doc:`Ruta del distrito de Nueva Área de Pudong </districts/pudong>`"

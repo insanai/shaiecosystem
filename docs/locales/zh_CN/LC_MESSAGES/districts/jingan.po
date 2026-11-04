@@ -136,7 +136,7 @@ msgstr ":doc:`上海大学 </entities/university-shu>` （上海大学 · 高校
 
 #: ../../districts/jingan.rst:41
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/jingan.rst:44
 msgid ""
@@ -151,7 +151,7 @@ msgstr ":doc:`2026静安服务业发展引导资金与人工智能示范支持 <
 
 #: ../../districts/jingan.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ":doc:`Shanghai Theatre Academy </entities/university-theatre>`"
 #~ msgstr ":doc:`上海戏剧学院 </entities/university-theatre>`"

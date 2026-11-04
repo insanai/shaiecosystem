@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Shanghai Ecosystem Atlas\n"
 "Language-Team: Simplified Chinese\n"
@@ -34,10 +34,10 @@ msgstr "智能机器人产业措施面向符合条件的注册企业。东方美
 
 #: ../../districts/fengxian.rst:8
 msgid ""
-"`Evidence S095 "
+"`Evidence S102 "
 "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
 "奉贤区促进智能机器人产业创新发展若干政策措施."
-msgstr "`证据 S095 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
+msgstr "`证据 S102 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
 
 #: ../../districts/fengxian.rst:10
 msgid "Who receives the inquiry"
@@ -145,7 +145,7 @@ msgstr ":doc:`上海商学院 </entities/university-business>` （上海商学�
 
 #: ../../districts/fengxian.rst:42
 msgid "Funding routes"
-msgstr "资金路径"
+msgstr "融资与扶持渠道"
 
 #: ../../districts/fengxian.rst:45
 msgid ""
@@ -177,7 +177,7 @@ msgstr ":doc:`2026奉贤“南上海科创中心”揭榜挂帅合作项目 </fu
 
 #: ../../districts/fengxian.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"
-msgstr ":doc:`同时比较全市资金路径 </funding>`"
+msgstr ":doc:`同时比较全市融资与扶持渠道 </funding>`"
 
 #~ msgid ":doc:`Oriental Beauty Valley </entities/oriental-beauty>`"
 #~ msgstr ":doc:`东方美谷 </entities/oriental-beauty>`"

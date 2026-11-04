@@ -44,7 +44,7 @@ msgstr "Membresía gratuita; beneficios de ecosistema sujetos a condiciones, no 
 
 #: ../../funding/nvidia-service.rst:15
 msgid "No equity"
-msgstr "Sin cesión de capital (No equity)"
+msgstr "Sin cesión de participaciones"
 
 #: ../../funding/nvidia-service.rst:17
 msgid "Eligibility and timing"

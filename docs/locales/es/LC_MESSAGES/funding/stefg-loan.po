@@ -43,7 +43,7 @@ msgstr "Hasta 500.000 RMB; sin intereses; plazo de 3 años; amortización de pri
 
 #: ../../funding/stefg-loan.rst:15
 msgid "No equity; repayable"
-msgstr "Sin cesión de capital; reembolsable"
+msgstr "Sin cesión de participaciones; préstamo reembolsable"
 
 #: ../../funding/stefg-loan.rst:17
 msgid "Eligibility and timing"

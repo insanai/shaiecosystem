@@ -210,7 +210,7 @@ msgid ""
 "repayable) — Product-specific technology credit and IP finance; no "
 "universal ceiling. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`Dienstleistungsplattform für Finanzierungs- und Kreditprodukte Yangpu </funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Darlehen · Ohne Anteilsabgabe; rückzahlungspflichtig) — Maßgeschneiderte Darlehensprodukte, Technologiedarlehen und IP-besicherte Kredite mit bezirklichen Zinszuschüssen. Status: Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich. Zeitrahmen: Fortlaufende Antragsmöglichkeit über die Online-Kreditplattform von Yangpu."
+msgstr ":doc:`Dienstleistungsplattform für Finanzierungs- und Kreditprodukte Yangpu </funding/yangpu-credit-directory>` (杨浦融资信用服务平台 · Darlehen · Ohne Anteilsabgabe; rückzahlungspflichtig) — Technologiekredite und IP-Finanzierung nach Produkt; keine allgemeine Obergrenze. Status: Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich. Zeitrahmen: Fortlaufende Antragsmöglichkeit über die Online-Kreditplattform von Yangpu."
 
 #: ../../districts/yangpu.rst:52
 msgid ""
@@ -220,7 +220,7 @@ msgid ""
 "co-investment; individual cheque subject to investment committee review. "
 "Status: Published investment platform; deal review. Timing: Manager-led "
 "sourcing and due diligence."
-msgstr ":doc:`Angel-Koinvestitionsfonds „Dream Start“ Yangpu </funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Eigenkapitalinvestition · Verhandlungsbasierte Beteiligung) — Bezirkliche staatliche Co-Investitionen für die Frühphase; Einzelbeteiligungen nach Begutachtung durch den Investitionsausschuss. Status: Investitionsplattform veröffentlicht; Projektprüfung erforderlich. Zeitrahmen: Fortlaufendes Deal-Sourcing und Due-Diligence durch den Fondsmanager."
+msgstr ":doc:`Angel-Koinvestitionsfonds „Dream Start“ Yangpu </funding/yangpu-angel-fund>` (杨浦梦想起航天使引投基金 · Eigenkapitalinvestition · Verhandlungsbasierte Beteiligung) — Bezirkliche staatliche Co-Investitionen für die Frühphase; Einzelbeteiligungen nach Begutachtung durch den Investitionsausschuss. Status: Investitionsplattform veröffentlicht; Projektprüfung erforderlich. Zeitrahmen: Projektidentifikation und Due Diligence durch den Fondsmanager."
 
 #: ../../districts/yangpu.rst:54
 msgid ":doc:`Also compare citywide funding </funding>`"

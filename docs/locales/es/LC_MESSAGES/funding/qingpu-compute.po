@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -30,10 +30,10 @@ msgstr "Plazo cerrado"
 
 #: ../../funding/qingpu-compute.rst:8
 msgid ""
-"`Evidence S113 "
+"`Evidence S121 "
 "<https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. "
 "关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府."
-msgstr "`Evidencia S113 <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. 关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府."
+msgstr "`Evidencia S121 <https://www.shqp.gov.cn/service/zwzwgk/ml/yw/20260929/1396377.html>`_. 关于组织2026年度青浦区数字经济和数智化建设专项申报工作的通知_业务工作_政务公开目录_政务公开_青浦区数据局_上海市青浦区人民政府."
 
 #: ../../funding/qingpu-compute.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "Importe determinado según las reglas aplicables de economía digital; r
 
 #: ../../funding/qingpu-compute.rst:15
 msgid "No equity"
-msgstr "Sin cesión de capital (No equity)"
+msgstr "Sin cesión de participaciones"
 
 #: ../../funding/qingpu-compute.rst:17
 msgid "Eligibility and timing"

@@ -43,7 +43,7 @@ msgstr "지원 규모 및 지원 방식"
 msgid ""
 "Fund target RMB 2bn; first tranche RMB 500m; individual cheque not "
 "established"
-msgstr "총 규모 2억 위안의 초기 지분투자 펀드; 건당 투자 규모는 투자심의위원회 심의를 통해 결정"
+msgstr "목표 펀드 규모 20억 위안, 1차 조성 규모 5억 위안; 기업별 투자액은 확인되지 않음"
 
 #: ../../funding/pudong-equity.rst:15
 msgid "Negotiated equity"
@@ -58,11 +58,11 @@ msgid ""
 "Seed-stage AI projects fitting the manager's mandate. The public launch "
 "does not establish a universal application form, valuation or "
 "shareholding percentage."
-msgstr "푸둥신구 내에 설립 또는 이전하는 유망 AI 모델, 구현 애플리케이션 및 하드웨어 연계 초기 스타트업."
+msgstr "운용사의 투자 목적에 부합하는 시드 단계 AI 프로젝트가 대상입니다. 펀드 출범 발표만으로 공통 신청서, 기업가치 또는 지분율이 정해지는 것은 아닙니다."
 
 #: ../../funding/pudong-equity.rst:22
 msgid "Manager-led sourcing and due diligence"
-msgstr "위탁 운용사 상시 발굴 및 투자 심의 절차에 따름"
+msgstr "운용사 주도 딜 발굴 및 실사 진행"
 
 #: ../../funding/pudong-equity.rst:24
 msgid "Contact and application"

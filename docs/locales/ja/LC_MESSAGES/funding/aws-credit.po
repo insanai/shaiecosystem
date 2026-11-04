@@ -59,7 +59,7 @@ msgstr "中国国内で設立された非上場スタートアップで、新規
 
 #: ../../funding/aws-credit.rst:22
 msgid "Confirm current package and expiration"
-msgstr "最新パッケージの利用規約およびクレジット有効期限を確認のこと"
+msgstr "現行支援パッケージおよび有効期限の確認が必要"
 
 #: ../../funding/aws-credit.rst:24
 msgid "Contact and application"

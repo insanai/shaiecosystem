@@ -44,7 +44,7 @@ msgstr "参加費無料。エコシステム特典は条件付きで付与され
 
 #: ../../funding/nvidia-service.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/nvidia-service.rst:17
 msgid "Eligibility and timing"
@@ -59,7 +59,7 @@ msgstr "条件を満たすAIスタートアップ。設立年数、自社開発�
 
 #: ../../funding/nvidia-service.rst:22
 msgid "Online application; regional eligibility review"
-msgstr "オンライン常時申請（地域ごとの適格性審査あり）"
+msgstr "オンライン申請（地域該当要件の審査要）"
 
 #: ../../funding/nvidia-service.rst:24
 msgid "Contact and application"

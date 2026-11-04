@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -26,14 +26,14 @@ msgstr "Zuschuss / Kostenerstattung | Bezirk Putuo"
 
 #: ../../funding/putuo-intelligent-software.rst:6
 msgid "Closed"
-msgstr "Geschlossen"
+msgstr "Bewerbungsfrist abgelaufen"
 
 #: ../../funding/putuo-intelligent-software.rst:8
 msgid ""
-"`Evidence S110 "
+"`Evidence S118 "
 "<https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. "
 "关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
-msgstr "`Nachweis S110 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. 关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
+msgstr "`Nachweis S118 <https://www.shpt.gov.cn/zhengwu/sbzn-yspt/2026/146/203864.html>`_. 关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知-上海普陀."
 
 #: ../../funding/putuo-intelligent-software.rst:10
 msgid "Amount and mechanism"
@@ -43,7 +43,7 @@ msgstr "Förderhöhe und Mechanismus"
 msgid ""
 "Direction-specific R&D, compute, first-product matching and related "
 "support"
-msgstr "Richtungsspezifische Zuschüsse für F&E, Rechenleistung, Ergänzung von Erstprodukten und technologische Durchbrüche"
+msgstr "Je nach Förderrichtung Unterstützung für F&E, Rechenleistung, die Kofinanzierung erster Produkte und weitere Leistungen"
 
 #: ../../funding/putuo-intelligent-software.rst:15
 msgid "No equity"
@@ -59,7 +59,7 @@ msgid ""
 "distinguishes R&D collaboration, compute use for models and agents, "
 "recognized technical breakthroughs and other directions; approval and "
 "eligible periods differ."
-msgstr "Organisationen mit guter Bonität. Die Ausschreibung unterscheidet zwischen F&E-Kooperationen, Rechenleistungsnutzung für Modelle und Agenten sowie zertifizierten technologischen Durchbrüchen; Bewilligungskriterien und förderfähige Zeiträume variieren."
+msgstr "Organisationen mit oder ohne Rechtspersönlichkeit und guter Bonität. Getrennte Förderrichtungen für gemeinsame F&E, Rechenleistung für Modelle und Agenten, anerkannte technische Durchbrüche und weitere Vorhaben. Genehmigungen und förderfähige Zeiträume unterscheiden sich."
 
 #: ../../funding/putuo-intelligent-software.rst:22
 msgid "Closed 26 June 2026"

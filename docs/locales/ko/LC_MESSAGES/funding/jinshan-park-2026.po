@@ -47,7 +47,7 @@ msgstr "2025~2026년 단지 행동계획 및 장장 전용 정책에 따른 R&D,
 
 #: ../../funding/jinshan-park-2026.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/jinshan-park-2026.rst:17
 msgid "Eligibility and timing"
@@ -58,7 +58,7 @@ msgid ""
 "Qualifying enterprises and innovation carriers in Zhangjiang Jinshan Park "
 "working on low-altitude UAV systems, new chemical or electronic "
 "materials, biomanufacturing and intelligent equipment."
-msgstr "장장 하이테크 진산원 내에서 저고도 무인기(드론) 시스템, 화학·전자 신소재, 바이오 제조 및 첨단 장비를 개발하는 적격 기업 및 혁신 캐리어."
+msgstr "장장 하이테크 진산원 내에서 저고도 무인기(드론) 시스템, 화학·전자 신소재, 바이오 제조 및 첨단 장비를 개발하는 적격 기업 및 창업 지원 거점."
 
 #: ../../funding/jinshan-park-2026.rst:22
 msgid "Policy: 2025 to 2026 action plan; confirm current implementing batch"

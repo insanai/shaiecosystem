@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -30,10 +30,10 @@ msgstr "税務指針公表済み（適用性の事前確認要）"
 
 #: ../../funding/tax-rd.rst:8
 msgid ""
-"`Evidence S099 "
+"`Evidence S106 "
 "<https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. "
 "上海市“2366”产业税收优惠政策指引."
-msgstr "`出典 S099 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
+msgstr "`出典 S106 <https://shanghai.chinatax.gov.cn/xwdt/ztzl/zcgll/jsjf/rdwd/202602/t479502.html>`_. 上海市“2366”产业税收优惠政策指引."
 
 #: ../../funding/tax-rd.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "適格費用化R&D費用の100％を追加損金算入。適格資本化
 
 #: ../../funding/tax-rd.rst:15
 msgid "No equity"
-msgstr "株式希薄化なし（エクイティフリー）"
+msgstr "株式の提供不要"
 
 #: ../../funding/tax-rd.rst:17
 msgid "Eligibility and timing"
@@ -62,7 +62,7 @@ msgstr "所定の会計処理および根拠資料を備えた適格企業の研
 
 #: ../../funding/tax-rd.rst:22
 msgid "Annual tax filing and applicable rules"
-msgstr "毎年の確定申告期および税法関連規則に従う"
+msgstr "年次確定申告および適用規則に基づく"
 
 #: ../../funding/tax-rd.rst:24
 msgid "Contact and application"

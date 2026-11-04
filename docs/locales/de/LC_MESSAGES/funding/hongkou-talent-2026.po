@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -27,14 +27,14 @@ msgstr "Zuschuss | Bezirk Hongkou"
 
 #: ../../funding/hongkou-talent-2026.rst:6
 msgid "Closed"
-msgstr "Geschlossen"
+msgstr "Bewerbungsfrist abgelaufen"
 
 #: ../../funding/hongkou-talent-2026.rst:8
 msgid ""
-"`Evidence S117 "
+"`Evidence S125 "
 "<https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. "
 "虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
-msgstr "`Nachweis S117 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. 虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
+msgstr "`Nachweis S125 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. 虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
 
 #: ../../funding/hongkou-talent-2026.rst:10
 msgid "Amount and mechanism"
@@ -44,7 +44,7 @@ msgstr "Förderhöhe und Mechanismus"
 msgid ""
 "Recognized top talent and core team: up to RMB 1m; eligible overseas "
 "young talent: RMB 50,000 per person"
-msgstr "Wohnungs- und Forschungszuschüsse sowie Ansiedlungsprämien gemäß bezirklichem Talentförderprogramm"
+msgstr "Anerkannte Spitzenfachkräfte und Kernteam: bis zu 1 Mio. RMB; förderfähige junge Fachkräfte aus dem Ausland: 50.000 RMB pro Person"
 
 #: ../../funding/hongkou-talent-2026.rst:15
 msgid "No equity"
@@ -59,7 +59,7 @@ msgid ""
 "Strict category-specific talent recognition and Hongkou employment rules "
 "apply. Email pre-review is followed by paper submission at the district "
 "talent service center; this is not a grant for every foreign founder."
-msgstr "Hochqualifizierte Fachkräfte und Forscher aus dem Ausland, die in Hongkou in Schwerpunktsektoren (Fintech, grüne Schifffahrt, digitale Medien, KI) tätig werden."
+msgstr "Strenge kategorienabhängige Anerkennungs- und Beschäftigungsvorgaben in Hongkou. Vorprüfung per E-Mail, danach Papierunterlagen beim Talentservicezentrum des Bezirks. Kein Zuschuss für jeden ausländischen Gründer."
 
 #: ../../funding/hongkou-talent-2026.rst:22
 msgid "Closed 31 March 2026"

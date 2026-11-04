@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -34,10 +34,10 @@ msgstr "Las medidas para la industria robótica cubren a empresas registradas el
 
 #: ../../districts/fengxian.rst:8
 msgid ""
-"`Evidence S095 "
+"`Evidence S102 "
 "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
 "奉贤区促进智能机器人产业创新发展若干政策措施."
-msgstr "`Evidencia S095 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
+msgstr "`Evidencia S102 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
 
 #: ../../districts/fengxian.rst:10
 msgid "Who receives the inquiry"
@@ -154,7 +154,7 @@ msgid ""
 "equity) — 30% of the qualifying annual R&D net increase, capped at RMB 1 "
 "million. Status: Closed. Timing: Online closed 17 June 2026, 17:00; paper "
 "closed 30 June 2026, 17:00 China Standard Time."
-msgstr ":doc:`Reembolso por incremento del gasto en I+D de Fengxian, 2026 </funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Reembolso de gastos · Sin cesión de capital (No equity)) — 30 % del incremento neto anual elegible en gastos de I+D, con un tope máximo de 1 millón de RMB. Estado: Plazo cerrado. Plazo: Plazo en línea cerrado el 17 de junio de 2026 a las 17:00; entrega en papel cerrada el 30 de junio de 2026 a las 17:00 (hora estándar de China)."
+msgstr ":doc:`Reembolso por incremento del gasto en I+D de Fengxian, 2026 </funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Reembolso de gastos · Sin cesión de participaciones) — 30 % del incremento neto anual elegible en gastos de I+D, con un tope máximo de 1 millón de RMB. Estado: Plazo cerrado. Plazo: Plazo en línea cerrado el 17 de junio de 2026 a las 17:00; entrega en papel cerrada el 30 de junio de 2026 a las 17:00 (hora estándar de China)."
 
 #: ../../districts/fengxian.rst:46
 msgid ""
@@ -163,7 +163,7 @@ msgid ""
 "equity) — Up to RMB 250,000; generally two installments, final settlement "
 "after acceptance. Status: Closed. Timing: Online closed 21 June 2026; "
 "paper closed 30 June 2026."
-msgstr ":doc:`Proyectos Clave del Fondo de Innovación Tecnológica para Pymes de Fengxian, 2026 </funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Hasta 250.000 RMB; generalmente abonados en dos tramos, con liquidación final tras la aceptación del proyecto. Estado: Plazo cerrado. Plazo: Plazo en línea cerrado el 21 de junio de 2026; entrega en papel cerrada el 30 de junio de 2026."
+msgstr ":doc:`Proyectos Clave del Fondo de Innovación Tecnológica para Pymes de Fengxian, 2026 </funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Subvención a fondo perdido · Sin cesión de participaciones) — Hasta 250.000 RMB; generalmente abonados en dos tramos, con liquidación final tras la aceptación del proyecto. Estado: Plazo cerrado. Plazo: Plazo en línea cerrado el 21 de junio de 2026; entrega en papel cerrada el 30 de junio de 2026."
 
 #: ../../districts/fengxian.rst:47
 msgid ""
@@ -173,7 +173,7 @@ msgid ""
 "challenge contract value. Status: 2026 call published; deadline check "
 "required. Timing: 2026 guide published May 2026; confirm current project "
 "batch."
-msgstr ":doc:`Proyectos de I+D en Competición Abierta («Jiebang Guashuai») del Centro de Innovación del Sur de Shanghái en Fengxian, 2026 </funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Subvención de I+D por hitos vinculada al valor del contrato de resolución del reto tecnológico. Estado: Convocatoria 2026 publicada; verificar fecha límite. Plazo: Guía de solicitud de 2026 publicada en mayo de 2026; confirmar el calendario del lote actual."
+msgstr ":doc:`Proyectos de I+D en Competición Abierta («Jiebang Guashuai») del Centro de Innovación del Sur de Shanghái en Fengxian, 2026 </funding/fengxian-jiebang-2026>` (2026奉贤“南上海科创中心”揭榜挂帅合作项目 · Subvención a fondo perdido · Sin cesión de participaciones) — Subvención de I+D por hitos vinculada al valor del contrato de resolución del reto tecnológico. Estado: Convocatoria 2026 publicada; verificar fecha límite. Plazo: Guía de solicitud de 2026 publicada en mayo de 2026; confirmar el calendario del lote actual."
 
 #: ../../districts/fengxian.rst:49
 msgid ":doc:`Also compare citywide funding </funding>`"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -27,14 +27,14 @@ msgstr "보조금 | 훙커우구"
 
 #: ../../funding/hongkou-talent-2026.rst:6
 msgid "Closed"
-msgstr "모집 마감"
+msgstr "접수 마감"
 
 #: ../../funding/hongkou-talent-2026.rst:8
 msgid ""
-"`Evidence S117 "
+"`Evidence S125 "
 "<https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. "
 "虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
-msgstr "`근거 S117 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. 虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
+msgstr "`근거 S125 <https://www.shhk.gov.cn/xwzx/002014/20260121/e678ae23-db51-40d2-a05c-f17ece50655a.html>`_. 虹口区2026年第一批国际顶尖人才及海外优秀青年人才引进扶持资金申报工作启动啦！-上海市虹口区人民政府."
 
 #: ../../funding/hongkou-talent-2026.rst:10
 msgid "Amount and mechanism"
@@ -44,11 +44,11 @@ msgstr "지원 규모 및 지원 방식"
 msgid ""
 "Recognized top talent and core team: up to RMB 1m; eligible overseas "
 "young talent: RMB 50,000 per person"
-msgstr "인재 주거 보조금, 창업 프로젝트 자금 지원, 생활 정착 보조 패키지"
+msgstr "인정된 최우수 인재 및 핵심 팀 최대 100만 위안; 적격 해외 청년 인재 1인당 5만 위안"
 
 #: ../../funding/hongkou-talent-2026.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/hongkou-talent-2026.rst:17
 msgid "Eligibility and timing"
@@ -59,7 +59,7 @@ msgid ""
 "Strict category-specific talent recognition and Hongkou employment rules "
 "apply. Email pre-review is followed by paper submission at the district "
 "talent service center; this is not a grant for every foreign founder."
-msgstr "훙커우구 내 중점 기업에 취업 또는 혁신 창업 기업을 설립한 해외 유학 및 글로벌 우수 청년 인재."
+msgstr "유형별 인재 인정 및 훙커우구 근무 요건을 엄격히 적용합니다. 이메일 사전 심사 후 구 인재서비스센터에 종이 서류를 제출합니다. 모든 외국인 창업자에게 주는 지원금이 아닙니다."
 
 #: ../../funding/hongkou-talent-2026.rst:22
 msgid "Closed 31 March 2026"

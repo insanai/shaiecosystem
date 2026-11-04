@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../entities/shibei-valley.rst:1
 msgid "Shibei Hi-Tech Park / Shutong Valley & Daning Carriers"
-msgstr "शिबेई हाई-टेक पार्क / शुतोंग वैली और दनिंग कैरियर्स (Shibei Hi-Tech Park / Shutong Valley)"
+msgstr "शिबेई हाई-टेक पार्क / शुतोंग वैली और दनिंग स्टार्टअप सहायता केंद्रों (Shibei Hi-Tech Park / Shutong Valley)"
 
 #: ../../entities/shibei-valley.rst:4
 msgid "市北高新园区／数通链谷与大宁科创载体"
@@ -39,7 +39,7 @@ msgid ""
 "enterprise AI workspaces across Shibei Hi-Tech Park, Daning and Suhewan. "
 "Confirm the specific carrier operator, data-compliance services and "
 "tenancy terms."
-msgstr "जिंगआन की 2026-2028 AI प्रदर्शन योजना और जिला कैरियर कार्यक्रम शिबेई हाई-टेक पार्क, दनिंग और सुहेवान में बिग-डेटा, ब्लॉकचेन (शुतोंग वैली), क्लाउड कंप्यूटिंग और एंटरप्राइज AI कार्यस्थलों को आधार प्रदान करते हैं। विशिष्ट कैरियर संचालक, डेटा-अनुपालन सेवाओं और किरायेदारी शर्तों की पुष्टि करें।"
+msgstr "जिंगआन की 2026-2028 AI प्रदर्शन योजना और जिला स्टार्टअप सहायता केंद्र कार्यक्रम शिबेई हाई-टेक पार्क, दनिंग और सुहेवान में बिग-डेटा, ब्लॉकचेन (शुतोंग वैली), क्लाउड कंप्यूटिंग और एंटरप्राइज AI कार्यस्थलों को आधार प्रदान करते हैं। विशिष्ट स्टार्टअप सहायता केंद्र संचालक, डेटा-अनुपालन सेवाओं और किरायेदारी शर्तों की पुष्टि करें।"
 
 #: ../../entities/shibei-valley.rst:12
 msgid ""
@@ -61,7 +61,7 @@ msgstr "स्थिति और सहायता"
 
 #: ../../entities/shibei-valley.rst:19
 msgid "Published entity; intake to confirm"
-msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
 
 #: ../../entities/shibei-valley.rst:21
 msgid ""

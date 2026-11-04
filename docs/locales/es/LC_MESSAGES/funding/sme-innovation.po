@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -30,10 +30,10 @@ msgstr "Política vigente; convocatoria no confirmada como abierta"
 
 #: ../../funding/sme-innovation.rst:8
 msgid ""
-"`Evidence S097 "
+"`Evidence S104 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_. "
 "Shanghai updates innovation fund rules for tech SMEs_Policy Insights."
-msgstr "`Evidencia S097 <https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_. Shanghai updates innovation fund rules for tech SMEs_Policy Insights."
+msgstr "`Evidencia S104 <https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_. Shanghai updates innovation fund rules for tech SMEs_Policy Insights."
 
 #: ../../funding/sme-innovation.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "El importe de la ayuda y el apoyo complementario dependen de la convocat
 
 #: ../../funding/sme-innovation.rst:15
 msgid "No equity"
-msgstr "Sin cesión de capital (No equity)"
+msgstr "Sin cesión de participaciones"
 
 #: ../../funding/sme-innovation.rst:17
 msgid "Eligibility and timing"

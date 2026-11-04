@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -41,21 +41,21 @@ msgid ""
 msgstr "Institutioneller Eintrag im Hochschulregister des Bildungsministeriums vom Juni 2026. Vorgeschlagene Kooperationsthemen: Materialwissenschaften, Robotik, digitale Medien, Biomedizin. Diese Themen dienen der redaktionellen Orientierung und stellen kein verifiziertes Angebot für Laborzugang oder Startup-Förderung dar."
 
 #: ../../entities/university-shu.rst:12
-msgid "`Evidence S084 <https://sustp.shu.edu.cn/>`_. 上海大学科技园区."
-msgstr "`Nachweis S084 <https://sustp.shu.edu.cn/>`_. 上海大学科技园区."
+msgid "`Evidence S091 <https://sustp.shu.edu.cn/>`_. 上海大学科技园区."
+msgstr "`Nachweis S091 <https://sustp.shu.edu.cn/>`_. 上海大学科技园区."
 
 #: ../../entities/university-shu.rst:14
 msgid ""
-"`Evidence S085 <https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm>`_. "
+"`Evidence S092 <https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm>`_. "
 "基地与成果处-上海大学科研管理部."
-msgstr "`Nachweis S085 <https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm>`_. 基地与成果处-上海大学科研管理部."
+msgstr "`Nachweis S092 <https://kyglb.shu.edu.cn/bmgk1/jdycgc.htm>`_. 基地与成果处-上海大学科研管理部."
 
 #: ../../entities/university-shu.rst:16
 msgid ""
-"`Evidence S076 "
+"`Evidence S083 "
 "<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. "
 "全国高等学校名单 - 中华人民共和国教育部政府门户网站."
-msgstr "`Nachweis S076 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
+msgstr "`Nachweis S083 <https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html>`_. 全国高等学校名单 - 中华人民共和国教育部政府门户网站."
 
 #: ../../entities/university-shu.rst:18
 msgid "Status and support"

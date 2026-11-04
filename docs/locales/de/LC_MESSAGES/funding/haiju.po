@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -30,9 +30,9 @@ msgstr "Wettbewerb 2026 veröffentlicht; Track-Bewerbungsfenster zu bestätigen"
 
 #: ../../funding/haiju.rst:8
 msgid ""
-"`Evidence S101 <https://www.hello-sh.com/haijuTalent/competition>`_. "
+"`Evidence S108 <https://www.hello-sh.com/haijuTalent/competition>`_. "
 "海聚英才官网."
-msgstr "`Nachweis S101 <https://www.hello-sh.com/haijuTalent/competition>`_. 海聚英才官网."
+msgstr "`Nachweis S108 <https://www.hello-sh.com/haijuTalent/competition>`_. 海聚英才官网."
 
 #: ../../funding/haiju.rst:10
 msgid "Amount and mechanism"
@@ -40,7 +40,7 @@ msgstr "Förderhöhe und Mechanismus"
 
 #: ../../funding/haiju.rst:13
 msgid "Track-specific awards, introductions and services"
-msgstr "Preisgelder für prämierte Projekte, bevorzugte Talentansiedlung und Anbindung an Venture-Capital-Investoren"
+msgstr "Preisgelder, Kontaktvermittlung und Dienstleistungen je nach Wettbewerbskategorie"
 
 #: ../../funding/haiju.rst:15
 msgid "Award / investment terms vary"
@@ -55,11 +55,11 @@ msgid ""
 "Apply through the official competition portal and qualifying division. "
 "District selection and final competition do not establish automatic "
 "funding or immigration status."
-msgstr "Internationale und inländische Spitzentalente sowie hochqualifizierte Innovationsteams mit Projekten in Zukunftsbranchen."
+msgstr "Bewerbung über das offizielle Wettbewerbsportal und eine passende Teilrunde. Die Auswahl im Bezirk oder die Teilnahme am Finale begründen weder automatische Förderung noch einen Aufenthaltsstatus."
 
 #: ../../funding/haiju.rst:22
 msgid "Confirm track and division dates"
-msgstr "Jährlicher Wettbewerbskalender mit regionalen und internationalen Vorentscheiden"
+msgstr "Termine für Tracks und regionale Vorentscheide prüfen"
 
 #: ../../funding/haiju.rst:24
 msgid "Contact and application"

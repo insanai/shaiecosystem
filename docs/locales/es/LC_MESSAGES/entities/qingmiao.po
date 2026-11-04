@@ -1,0 +1,120 @@
+# es translation of the Shanghai Ecosystem Atlas.
+# Copyright (C) 2026, Vikrant Rathore and contributors
+# This file is distributed under the same license as the Shanghai Ecosystem Atlas package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
+"PO-Revision-Date: 2026-11-04 00:00+0000\n"
+"Last-Translator: Vikrant Rathore & contributors\n"
+"Language-Team: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../entities/qingmiao.rst:1
+msgid "Xuhui Qingmiao AI Youth Entrepreneurship Fund"
+msgstr "Fondo Qingmiao de Xuhui para jóvenes emprendedores de IA"
+
+#: ../../entities/qingmiao.rst:4
+msgid "徐汇人工智能青年创业基金（青苗基金）"
+msgstr "徐汇人工智能青年创业基金（青苗基金）"
+
+#: ../../entities/qingmiao.rst:6
+msgid "Investor | Xuhui | Research checked 2026-11-04"
+msgstr "Inversor | Distrito de Xuhui | Investigación verificada el 2026-11-04"
+
+#: ../../entities/qingmiao.rst:8
+msgid "AI and industry focus: Software AI, Hardware AI."
+msgstr "Enfoque de IA e industria: IA de software, IA de hardware."
+
+#: ../../entities/qingmiao.rst:10
+msgid ""
+"Xuhui established this youth-focused AI fund in September 2025. Its "
+"August 2026 entrepreneurship camp connected early AI teams with "
+"investment, research and industrial partners. Shanghai Xuhui Capital "
+"Investment and Shanghai Xuhui Science and Technology Venture Capital Fund "
+"Management co-hosted the camp. Request the receiving manager and current "
+"investment terms; camp attendance is not an investment award."
+msgstr "Xuhui creó este fondo en septiembre de 2025. Su campamento de agosto de 2026 conectó equipos iniciales de IA con inversores y socios científicos e industriales. Shanghai Xuhui Capital Investment y Shanghai Xuhui Science and Technology Venture Capital Fund Management fueron coorganizadores. Solicitar el gestor receptor y las condiciones de inversión vigentes; participar en el campamento no equivale a recibir inversión."
+
+#: ../../entities/qingmiao.rst:12
+msgid ""
+"`Evidence S077 "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. "
+"Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+msgstr "`Evidencia S077 <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_. Xuhui Qingmiao AI Youth Entrepreneurship Fund and camp, August 2026."
+
+#: ../../entities/qingmiao.rst:14
+msgid "Status and support"
+msgstr "Estado y tipo de apoyo"
+
+#: ../../entities/qingmiao.rst:17
+msgid "Published entity; intake to confirm"
+msgstr "Entidad documentada; admisión pendiente de confirmar"
+
+#: ../../entities/qingmiao.rst:19
+msgid ""
+"No standard cash award, fee waiver or equity percentage is verified for "
+"this entry. Request the current written offer."
+msgstr "Para este registro no se ha verificado una subvención estándar en efectivo, exención de tarifas ni porcentaje fijo de capital. Solicite la oferta vigente por escrito."
+
+#: ../../entities/qingmiao.rst:21
+msgid "Contact and location"
+msgstr "Contacto y ubicación"
+
+#: ../../entities/qingmiao.rst:24
+msgid ""
+"`Official evidence and authority route "
+"<https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+msgstr "`Fuente oficial y vía de la autoridad competente <https://www.shanghai.gov.cn/nw15343/20260817/d36915b2420e42baa7d6bb18aab5b85c.html>`_"
+
+#: ../../entities/qingmiao.rst:26
+msgid ""
+"A direct program phone or email is not verified here. Use the official "
+"route and request the responsible team; no contact has been invented."
+msgstr "En esta edición no se ha verificado un teléfono ni correo electrónico directo del programa. Utilice el canal oficial y solicite el contacto del equipo responsable; no se ha inventado ningún dato de contacto."
+
+#: ../../entities/qingmiao.rst:28
+msgid ""
+"Map position uses a district or campus anchor; it is not a verified "
+"office location."
+msgstr "La posición en el mapa utiliza un punto de referencia del distrito o del campus; no representa la ubicación verificada de una oficina."
+
+#: ../../entities/qingmiao.rst:30
+msgid "Application workflow"
+msgstr "Flujo de solicitud"
+
+#: ../../entities/qingmiao.rst:33
+msgid ""
+"Editorial application checklist. The current official notice or agreement "
+"controls the actual procedure."
+msgstr "Lista de verificación editorial para la solicitud. El procedimiento real se rige por la convocatoria oficial vigente o el contrato aplicable."
+
+#: ../../entities/qingmiao.rst:35
+msgid "Confirm the manager, sector, stage and legal-entity fit."
+msgstr "Confirmar el encaje con la gestora en cuanto a sector, etapa de desarrollo y estructura societaria."
+
+#: ../../entities/qingmiao.rst:37
+msgid ""
+"Submit a deck, cap table, technology evidence, traction and financing "
+"plan."
+msgstr "Presentar el deck de inversión, la tabla de capitalización, la evidencia tecnológica, las métricas de tracción y el plan de financiación."
+
+#: ../../entities/qingmiao.rst:39
+msgid "Complete commercial, financial, technical and legal due diligence."
+msgstr "Completar los procesos de due diligence comercial, financiera, técnica y legal."
+
+#: ../../entities/qingmiao.rst:41
+msgid ""
+"Review term sheet, investment committee conditions and definitive "
+"agreements."
+msgstr "Revisar la carta de intenciones (term sheet), las condiciones del comité de inversión y los contratos societarios definitivos."
+
+#: ../../entities/qingmiao.rst:43
+msgid ":doc:`Xuhui district route </districts/xuhui>`"
+msgstr ":doc:`Ruta del distrito de Distrito de Xuhui </districts/xuhui>`"

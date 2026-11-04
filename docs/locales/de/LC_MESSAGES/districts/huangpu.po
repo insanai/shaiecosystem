@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -34,10 +34,10 @@ msgstr "Der Zhangjiang-Huangpu-Park-Plan für 2025–2026 hebt Fintech und klini
 
 #: ../../districts/huangpu.rst:8
 msgid ""
-"`Evidence S093 "
+"`Evidence S100 "
 "<https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. "
 "黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
-msgstr "`Nachweis S093 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
+msgstr "`Nachweis S100 <https://www.shanghai.gov.cn/tszczq-qtqj2/20250928/01633cced4e24e7b95ef1fa870b2aacd.html>`_. 黄浦区人民政府关于印发《张江高新区黄浦园改革创新发展行动方案（2025-2026年）》的通知."
 
 #: ../../districts/huangpu.rst:10
 msgid "Who receives the inquiry"
@@ -134,7 +134,7 @@ msgid ""
 "repayable) — Product-specific bank credit, startup guarantee and "
 "IP-backed finance. Status: Published directory; lender review. Timing: "
 "Product-specific; confirm current lender terms."
-msgstr ":doc:`Finanzierungs- und Kreditproduktkatalog Huangpu </funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Darlehen · Ohne Anteilsabgabe; rückzahlungspflichtig) — Zinsvergünstigte Kredite, Risikokompensationen und Bürgschaften der teilnehmenden Geschäftsbanken. Status: Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich. Zeitrahmen: Ganzjährig über die Plattform für Finanz- und Kreditdienstleistungen des Bezirks Huangpu zugänglich."
+msgstr ":doc:`Finanzierungs- und Kreditproduktkatalog Huangpu </funding/huangpu-credit-directory>` (黄浦融资信用产品目录 · Darlehen · Ohne Anteilsabgabe; rückzahlungspflichtig) — Bankkredite, Gründungsbürgschaften und IP-besicherte Finanzierung nach den Bedingungen des jeweiligen Produkts. Status: Verzeichnis veröffentlicht; Prüfung durch Kreditgeber erforderlich. Zeitrahmen: Ganzjährig über die Plattform für Finanz- und Kreditdienstleistungen des Bezirks Huangpu zugänglich."
 
 #: ../../districts/huangpu.rst:45
 msgid ":doc:`Also compare citywide funding </funding>`"

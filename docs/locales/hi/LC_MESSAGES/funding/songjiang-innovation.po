@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,14 +26,14 @@ msgstr "अनुदान (Grant) | सोंगजियांग (Songjiang)"
 
 #: ../../funding/songjiang-innovation.rst:6
 msgid "Policy in force; call not confirmed open"
-msgstr "नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं"
+msgstr "नीति लागू है; आवेदन अभी खुले हैं या नहीं, इसकी पुष्टि बाकी"
 
 #: ../../funding/songjiang-innovation.rst:8
 msgid ""
-"`Evidence S112 "
+"`Evidence S120 "
 "<https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. "
 "关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
-msgstr "`साक्ष्य S112 <https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. 关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
+msgstr "`साक्ष्य S120 <https://www.songjiang.gov.cn/govxxgk/SHSJ6/2025-12-01/824ecd36-3ddc-4657-8baf-cdbbd6d4bfaa.html>`_. 关于印发《松江区关于加快科技企业高质量创新发展的若干措施（试行）》的通知."
 
 #: ../../funding/songjiang-innovation.rst:10
 msgid "Amount and mechanism"
@@ -47,7 +47,7 @@ msgstr "जिला नवाचार परियोजना RMB 100,000 त
 
 #: ../../funding/songjiang-innovation.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/songjiang-innovation.rst:17
 msgid "Eligibility and timing"

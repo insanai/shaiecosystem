@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: zh_CN\n"
@@ -30,10 +30,10 @@ msgstr "投资平台已公布，须项目审核"
 
 #: ../../funding/yangpu-angel-fund.rst:8
 msgid ""
-"`Evidence S123 "
+"`Evidence S131 "
 "<https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_. "
 "杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府."
-msgstr "`证据 S123 <https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_. 杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府."
+msgstr "`证据 S131 <https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260812/511386.html>`_. 杨浦梦想起航天使引投基金投资不筹量子A轮 助力中性原子量子计算跑出“加速度”_上海市杨浦区人民政府."
 
 #: ../../funding/yangpu-angel-fund.rst:10
 msgid "Amount and mechanism"

@@ -145,7 +145,7 @@ msgid ""
 "and industrialization support under the 2025-2026 park action plan. "
 "Status: Policy in force; call not confirmed open. Timing: Policy: 2025 to "
 "2026 action plan; confirm current implementing batch."
-msgstr ":doc:`張江金山園低空UAV（無人機）＆新材料イノベーション支援 </funding/jinshan-park-2026>` （张江金山园低空无人机与新材料创新支持 · 助成金・事後精算補助 · 株式希薄化なし（エクイティフリー））— 2025〜2026年パーク行動計画および張江特別政策に基づき、研究開発、インキュベーター育成、受託試験、産業化を多角的に支援。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2025〜2026年アクションプラン（現行の実施バッチを確認のこと）。"
+msgstr ":doc:`張江金山園低空UAV（無人機）＆新材料イノベーション支援 </funding/jinshan-park-2026>` （张江金山园低空无人机与新材料创新支持 · 助成金・事後精算補助 · 株式の提供不要）— 2025〜2026年パーク行動計画および張江特別政策に基づき、研究開発、インキュベーター育成、受託試験、産業化を多角的に支援。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2025〜2026年アクションプラン（現行の実施バッチを確認のこと）。"
 
 #: ../../districts/jinshan.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

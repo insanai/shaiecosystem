@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../entities/digital-silicon.rst:1
 msgid "Digital Silicon Alley / Hongqiao innovation carriers"
-msgstr "디지털 실리콘앨리 / 훙차오 혁신 캐리어"
+msgstr "디지털 실리콘앨리 / 훙차오 창업 지원 거점"
 
 #: ../../entities/digital-silicon.rst:4
 msgid "数字硅巷／虹桥创新载体"

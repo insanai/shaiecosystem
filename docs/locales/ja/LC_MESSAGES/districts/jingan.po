@@ -112,7 +112,7 @@ msgid ""
 "Daning and Suhewan. Confirm the specific carrier operator, "
 "data-compliance services and tenancy terms. [Status: Published entity; "
 "intake to confirm]"
-msgstr ":doc:`市北ハイテクパーク／数通鏈谷＆大寧イノベーションキャリア </entities/shibei-valley>` （市北高新园区／数通链谷与大宁科创载体 · テクノロジーパーク · ソフトウェアAI、産業・インダストリー）— 静安区の2026〜2028年AI実証区計画に基づき、市北ハイテクパーク、数通鏈谷（ブロックチェーンバレー）、大寧、蘇河湾にビッグデータ、ブロックチェーン、クラウド、企業向けAI拠点を集積。具体的運営者、データコンプライアンス支援、入居条件を確認のこと。［ステータス：公表済み組織（公募状況の確認要）］"
+msgstr ":doc:`市北ハイテクパーク／数通鏈谷＆大寧起業支援拠点 </entities/shibei-valley>` （市北高新园区／数通链谷与大宁科创载体 · テクノロジーパーク · ソフトウェアAI、産業・インダストリー）— 静安区の2026〜2028年AI実証区計画に基づき、市北ハイテクパーク、数通鏈谷（ブロックチェーンバレー）、大寧、蘇河湾にビッグデータ、ブロックチェーン、クラウド、企業向けAI拠点を集積。具体的運営者、データコンプライアンス支援、入居条件を確認のこと。［ステータス：公表済み組織（公募状況の確認要）］"
 
 #: ../../districts/jingan.rst:38
 msgid ""
@@ -147,7 +147,7 @@ msgid ""
 "investment. Status: 2026 call published; deadline check required. Timing: "
 "Second 2026 batch published May 2026; confirm current sub-district "
 "recommending window."
-msgstr ":doc:`2026年静安区サービス業発展誘導資金＆AI実証支援 </funding/jingan-service-2026>` （2026静安服务业发展引导资金与人工智能示范支持 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 区サービス業発展誘導資金管理弁法に基づき、適格プロジェクト総投資額およびカテゴリに応じた助成。ステータス：2026年公募公表済み（締切日の確認要）。時期：2026年第2期通知は5月に公布（管轄の街鎮または機能区窓口へ現在の推薦受付状況を確認のこと）。"
+msgstr ":doc:`2026年静安区サービス業発展誘導資金＆AI実証支援 </funding/jingan-service-2026>` （2026静安服务业发展引导资金与人工智能示范支持 · 助成金・補助金 · 株式の提供不要）— 区サービス業発展誘導資金管理弁法に基づき、適格プロジェクト総投資額およびカテゴリに応じた助成。ステータス：2026年公募公表済み（締切日の確認要）。時期：2026年第2期通知は5月に公布（管轄の街鎮または機能区窓口へ現在の推薦受付状況を確認のこと）。"
 
 #: ../../districts/jingan.rst:46
 msgid ":doc:`Also compare citywide funding </funding>`"

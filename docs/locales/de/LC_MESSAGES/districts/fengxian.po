@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: de\n"
@@ -34,10 +34,10 @@ msgstr "Die Fördermaßnahmen für die Robotikindustrie richten sich an förderf
 
 #: ../../districts/fengxian.rst:8
 msgid ""
-"`Evidence S095 "
+"`Evidence S102 "
 "<https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. "
 "奉贤区促进智能机器人产业创新发展若干政策措施."
-msgstr "`Nachweis S095 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
+msgstr "`Nachweis S102 <https://www.shanghai.gov.cn/kjcx-gqwj15/20260120/d5bd556bb359470a8b16b91430f4794a.html>`_. 奉贤区促进智能机器人产业创新发展若干政策措施."
 
 #: ../../districts/fengxian.rst:10
 msgid "Who receives the inquiry"
@@ -154,7 +154,7 @@ msgid ""
 "equity) — 30% of the qualifying annual R&D net increase, capped at RMB 1 "
 "million. Status: Closed. Timing: Online closed 17 June 2026, 17:00; paper "
 "closed 30 June 2026, 17:00 China Standard Time."
-msgstr ":doc:`Zuschuss für F&E-Aufwandssteigerung Fengxian 2026 </funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Kostenerstattung · Ohne Anteilsabgabe) — Staffelung nach dem tatsächlichen Zuwachs der F&E-Ausgaben im Jahresvergleich; Festlegung gemäß Bezirksrichtlinie. Status: Geschlossen. Zeitrahmen: Einreichungsfenster der Jahresbekanntmachung 2026 beachten."
+msgstr ":doc:`Zuschuss für F&E-Aufwandssteigerung Fengxian 2026 </funding/fengxian-rd-increase>` (2026奉贤研发费用增长补贴 · Kostenerstattung · Ohne Anteilsabgabe) — 30 % des förderfähigen jährlichen Nettozuwachses der F&E-Ausgaben, höchstens 1 Mio. RMB. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Einreichungsfenster der Jahresbekanntmachung 2026 beachten."
 
 #: ../../districts/fengxian.rst:46
 msgid ""
@@ -163,7 +163,7 @@ msgid ""
 "equity) — Up to RMB 250,000; generally two installments, final settlement "
 "after acceptance. Status: Closed. Timing: Online closed 21 June 2026; "
 "paper closed 30 June 2026."
-msgstr ":doc:`Schwerpunktprojekte des Technologiefonds für KMU Fengxian 2026 </funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Zuschuss · Ohne Anteilsabgabe) — Bezirkliche Sonderzuschüsse für herausragende Vorhaben technologiebasierter KMU. Status: Geschlossen. Zeitrahmen: Fristen der bezirklichen Wissenschaftskommission für das laufende Antragsjahr beachten."
+msgstr ":doc:`Schwerpunktprojekte des Technologiefonds für KMU Fengxian 2026 </funding/fengxian-sme-2026>` (2026奉贤科技型中小企业技术创新资金重点项目 · Zuschuss · Ohne Anteilsabgabe) — Bis zu 250.000 RMB; in der Regel zwei Raten, Schlussabrechnung nach Projektabnahme. Status: Bewerbungsfrist abgelaufen. Zeitrahmen: Onlinefrist: 21. Juni 2026; Papierfrist: 30. Juni 2026, beide abgelaufen."
 
 #: ../../districts/fengxian.rst:47
 msgid ""

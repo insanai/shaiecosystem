@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -38,9 +38,9 @@ msgstr "G60 साई-टेक इनोवेशन वैली नवाच�
 
 #: ../../entities/government-songjiang.rst:10
 msgid ""
-"`Evidence S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`साक्ष्य S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`साक्ष्य S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../entities/government-songjiang.rst:12
 msgid "Status and support"
@@ -48,7 +48,7 @@ msgstr "स्थिति और सहायता"
 
 #: ../../entities/government-songjiang.rst:15
 msgid "Published entity; intake to confirm"
-msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
 
 #: ../../entities/government-songjiang.rst:17
 msgid ""

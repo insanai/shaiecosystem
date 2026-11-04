@@ -133,7 +133,7 @@ msgid ""
 "project. Status: Policy in force; call not confirmed open. Timing: "
 "Policy: 1 August to 31 December 2026, with qualifying cases since 1 "
 "January; confirm intake."
-msgstr ":doc:`2026년 충밍구 초기 창업 발전 지원 보조금 </funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · 보조금 · 지분 취득 없음) — 초기 창업 기업의 임대료 감면, 운영비 보조 및 정착 지원금. 상태: 정책 시행 중; 공고 접수 개시 미확인. 일정: 2026년도 충밍구 인력자원사회보장국 및 과기 당국 공고 기준."
+msgstr ":doc:`2026년 충밍구 초기 창업 발전 지원 보조금 </funding/chongming-startup-2026>` (2026崇明初创助力发展补贴 · 보조금 · 지분 제공 의무 없음) — 심사에서 우수하다고 평가된 적격 초기 창업 과제에 최대 10만 위안. 상태: 정책 시행 중; 공고 접수 개시 미확인. 일정: 2026년도 충밍구 인력자원사회보장국 및 과기 당국 공고 기준."
 
 #: ../../districts/chongming.rst:44
 msgid ""

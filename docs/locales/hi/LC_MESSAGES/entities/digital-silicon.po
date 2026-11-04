@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../entities/digital-silicon.rst:1
 msgid "Digital Silicon Alley / Hongqiao innovation carriers"
-msgstr "डिजिटल सिलिकॉन एली / होंगकियाओ इनोवेशन कैरियर्स (Digital Silicon Alley)"
+msgstr "डिजिटल सिलिकॉन एली / होंगकियाओ इनोवेशन स्टार्टअप सहायता केंद्रों (Digital Silicon Alley)"
 
 #: ../../entities/digital-silicon.rst:4
 msgid "数字硅巷／虹桥创新载体"
@@ -51,7 +51,7 @@ msgstr "स्थिति और सहायता"
 
 #: ../../entities/digital-silicon.rst:17
 msgid "Published entity; intake to confirm"
-msgstr "प्रकाशित संस्था; प्रवेश की पुष्टि शेष"
+msgstr "संस्था की पुष्टि है; आवेदन स्वीकार होने की पुष्टि बाकी"
 
 #: ../../entities/digital-silicon.rst:19
 msgid ""

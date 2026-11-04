@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: hi\n"
@@ -26,14 +26,14 @@ msgstr "अनुदान (Grant) | शहर-व्यापी / वैश्
 
 #: ../../funding/sme-innovation.rst:6
 msgid "Policy in force; call not confirmed open"
-msgstr "नीति प्रभावी; कॉल के खुले होने की पुष्टि नहीं"
+msgstr "नीति लागू है; आवेदन अभी खुले हैं या नहीं, इसकी पुष्टि बाकी"
 
 #: ../../funding/sme-innovation.rst:8
 msgid ""
-"`Evidence S097 "
+"`Evidence S104 "
 "<https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_. "
 "Shanghai updates innovation fund rules for tech SMEs_Policy Insights."
-msgstr "`साक्ष्य S097 <https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_. Shanghai updates innovation fund rules for tech SMEs_Policy Insights."
+msgstr "`साक्ष्य S104 <https://english.shanghai.gov.cn/en-PolicyInsights/20251230/fc3d21624b984ba1af4ffbc873287068.html>`_. Shanghai updates innovation fund rules for tech SMEs_Policy Insights."
 
 #: ../../funding/sme-innovation.rst:10
 msgid "Amount and mechanism"
@@ -41,11 +41,11 @@ msgstr "राशि और तंत्र"
 
 #: ../../funding/sme-innovation.rst:13
 msgid "Award and matching support depend on the annual call"
-msgstr "पुरस्कार और मैचिंग सहायता वार्षिक कॉल पर निर्भर करती है"
+msgstr "पुरस्कार और मैचिंग सहायता सालाना आवेदन आमंत्रण पर निर्भर करती है"
 
 #: ../../funding/sme-innovation.rst:15
 msgid "No equity"
-msgstr "कोई इक्विटी नहीं"
+msgstr "कंपनी की हिस्सेदारी नहीं देनी होती"
 
 #: ../../funding/sme-innovation.rst:17
 msgid "Eligibility and timing"
@@ -56,7 +56,7 @@ msgid ""
 "Shanghai non-listed technology companies: prior-year revenue up to RMB "
 "200 million; R&D at least RMB 500,000 and 5% of revenue; no more than 500 "
 "employees; R&D staff at least 10%. The current call may add conditions."
-msgstr "शंघाई की गैर-सूचीबद्ध प्रौद्योगिकी कंपनियां: पूर्व-वर्ष का राजस्व RMB 200 मिलियन तक; R&D कम से कम RMB 500,000 और राजस्व का 5%; 500 से अधिक कर्मचारी नहीं; R&D स्टाफ कम से कम 10%। वर्तमान कॉल में अतिरिक्त शर्तें जोड़ी जा सकती हैं।"
+msgstr "शंघाई की गैर-सूचीबद्ध प्रौद्योगिकी कंपनियां: पूर्व-वर्ष का राजस्व RMB 200 मिलियन तक; R&D कम से कम RMB 500,000 और राजस्व का 5%; 500 से अधिक कर्मचारी नहीं; R&D स्टाफ कम से कम 10%। मौजूदा आवेदन आमंत्रण में अतिरिक्त शर्तें जोड़ी जा सकती हैं।"
 
 #: ../../funding/sme-innovation.rst:22
 msgid "Policy: 9 Dec 2025 to 8 Dec 2030"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -22,7 +22,7 @@ msgstr "상하이시 지식재산권 금융 상품 디렉토리"
 
 #: ../../funding/ip-finance.rst:4
 msgid "Loan / insurance | Citywide / global"
-msgstr "대출 / 보험 | 전시 / 글로벌"
+msgstr "대출 / 보험 | 상하이 전역 / 글로벌"
 
 #: ../../funding/ip-finance.rst:6
 msgid "2026 directory published; lender review"
@@ -30,9 +30,9 @@ msgstr "2026년 목록 공시됨; 대출 기관 심사 필요"
 
 #: ../../funding/ip-finance.rst:8
 msgid ""
-"`Evidence S105 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
+"`Evidence S112 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. "
 "知识产权金融服务平台_上海市知识产权局."
-msgstr "`근거 S105 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
+msgstr "`근거 S112 <https://sipa.sh.gov.cn/zscqjrfwpt/index.html>`_. 知识产权金融服务平台_上海市知识产权局."
 
 #: ../../funding/ip-finance.rst:10
 msgid "Amount and mechanism"
@@ -40,7 +40,7 @@ msgstr "지원 규모 및 지원 방식"
 
 #: ../../funding/ip-finance.rst:13
 msgid "Bank and product-specific loan, insurance or trust terms"
-msgstr "특허 및 지식재산권(IP) 담보 평가액 기반 은행 대출, IP 질권 설정 융자 및 평가 수수료·이자 보조"
+msgstr "은행 및 상품별 대출·보험·신탁 조건 적용"
 
 #: ../../funding/ip-finance.rst:15
 msgid "No equity; product obligations apply"
@@ -55,11 +55,11 @@ msgid ""
 "The 2026 IP bureau directory supplies borrower criteria, collateral, "
 "rates, repayment, application steps and contacts by product. IP ownership "
 "and bank assessment matter."
-msgstr "핵심 특허 또는 등록 소프트웨어 저작권을 보유하고 상하이에서 정상 사업을 영위하는 혁신 중소기업."
+msgstr "2026년 지식재산국 상품 목록에 상품별 차주 요건, 담보, 금리, 상환, 신청 절차 및 연락처가 나와 있습니다. 지식재산권 소유와 은행 심사가 중요합니다."
 
 #: ../../funding/ip-finance.rst:22
 msgid "Product-specific"
-msgstr "제휴 은행 및 지식재산 금융 서비스 창구 상시 접수"
+msgstr "개별 제품별 상이"
 
 #: ../../funding/ip-finance.rst:24
 msgid "Contact and application"

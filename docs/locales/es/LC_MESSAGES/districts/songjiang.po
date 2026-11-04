@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: es\n"
@@ -34,9 +34,9 @@ msgstr "El Valle de Innovación Científico-Tecnológica G60 publica iniciativas
 
 #: ../../districts/songjiang.rst:8
 msgid ""
-"`Evidence S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`Evidencia S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`Evidencia S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../districts/songjiang.rst:10
 msgid "Who receives the inquiry"
@@ -194,7 +194,7 @@ msgid ""
 "innovation projects matched 1:1 under the policy. Status: Policy in "
 "force; call not confirmed open. Timing: Policy: 1 January 2026 to 31 "
 "December 2027; confirm the applicable call."
-msgstr ":doc:`Apoyo a la innovación y cofinanciación para empresas tecnológicas de Songjiang </funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Subvención a fondo perdido · Sin cesión de capital (No equity)) — Proyecto de innovación distrital de hasta 100.000 RMB; proyectos municipales de innovación aprobados cofinanciados en proporción 1:1 según la política. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Vigencia de la política: del 1 de enero de 2026 al 31 de diciembre de 2027; confirmar la convocatoria aplicable."
+msgstr ":doc:`Apoyo a la innovación y cofinanciación para empresas tecnológicas de Songjiang </funding/songjiang-innovation>` (松江科技企业创新与配套支持 · Subvención a fondo perdido · Sin cesión de participaciones) — Proyecto de innovación distrital de hasta 100.000 RMB; proyectos municipales de innovación aprobados cofinanciados en proporción 1:1 según la política. Estado: Política vigente; convocatoria no confirmada como abierta. Plazo: Vigencia de la política: del 1 de enero de 2026 al 31 de diciembre de 2027; confirmar la convocatoria aplicable."
 
 #: ../../districts/songjiang.rst:50
 msgid ""
@@ -204,7 +204,7 @@ msgid ""
 "data-elements special fund rules. Status: 2026 call published; deadline "
 "check required. Timing: Second 2026 batch notice issued August 2026; "
 "confirm current acceptance status."
-msgstr ":doc:`Fondo Especial de Elementos de Datos de Songjiang, segundo lote de 2026 </funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · Subvención / reembolso · Sin cesión de capital (No equity)) — Apoyo específico por proyecto conforme a las bases reguladoras del fondo especial de elementos de datos del distrito. Estado: Convocatoria 2026 publicada; verificar fecha límite. Plazo: Convocatoria del segundo lote de 2026 publicada en agosto de 2026; confirmar el estado actual de recepción de solicitudes."
+msgstr ":doc:`Fondo Especial de Elementos de Datos de Songjiang, segundo lote de 2026 </funding/songjiang-data-2026>` (2026松江区数据要素专项资金第二批 · Subvención / reembolso · Sin cesión de participaciones) — Apoyo específico por proyecto conforme a las bases reguladoras del fondo especial de elementos de datos del distrito. Estado: Convocatoria 2026 publicada; verificar fecha límite. Plazo: Convocatoria del segundo lote de 2026 publicada en agosto de 2026; confirmar el estado actual de recepción de solicitudes."
 
 #: ../../districts/songjiang.rst:52
 msgid ":doc:`Also compare citywide funding </funding>`"

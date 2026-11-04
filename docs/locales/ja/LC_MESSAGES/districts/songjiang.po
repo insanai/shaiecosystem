@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ja\n"
@@ -34,9 +34,9 @@ msgstr "長江デルタG60科学イノベーション回廊はイノベーショ
 
 #: ../../districts/songjiang.rst:8
 msgid ""
-"`Evidence S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
+"`Evidence S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 "
 "unveils comprehensive support plan to fuel innovation valley | Songjiang."
-msgstr "`出典 S094 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
+msgstr "`出典 S101 <https://english.songjiang.gov.cn/news/3249.shtml>`_. G60 unveils comprehensive support plan to fuel innovation valley | Songjiang."
 
 #: ../../districts/songjiang.rst:10
 msgid "Who receives the inquiry"
@@ -194,7 +194,7 @@ msgid ""
 "innovation projects matched 1:1 under the policy. Status: Policy in "
 "force; call not confirmed open. Timing: Policy: 1 January 2026 to 31 "
 "December 2027; confirm the applicable call."
-msgstr ":doc:`松江区ハイテク企業イノベーション＆マッチング助成 </funding/songjiang-innovation>` （松江科技企业创新与配套支持 · 助成金・補助金 · 株式希薄化なし（エクイティフリー））— 区級イノベーション資金は1件あたり最大10万元。市級イノベーション資金に採択された事業には政策に基づき1:1で区が同額マッチング助成。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2026年1月1日〜2027年12月31日（該当する公募通知を確認のこと）。"
+msgstr ":doc:`松江区ハイテク企業イノベーション＆マッチング助成 </funding/songjiang-innovation>` （松江科技企业创新与配套支持 · 助成金・補助金 · 株式の提供不要）— 区級イノベーション資金は1件あたり最大10万元。市級イノベーション資金に採択された事業には政策に基づき1:1で区が同額マッチング助成。ステータス：政策有効（公募開始は未確認）。時期：政策有効期間：2026年1月1日〜2027年12月31日（該当する公募通知を確認のこと）。"
 
 #: ../../districts/songjiang.rst:50
 msgid ""
@@ -204,7 +204,7 @@ msgid ""
 "data-elements special fund rules. Status: 2026 call published; deadline "
 "check required. Timing: Second 2026 batch notice issued August 2026; "
 "confirm current acceptance status."
-msgstr ":doc:`2026年松江区データ要素特別資金（第2期） </funding/songjiang-data-2026>` （2026松江区数据要素专项资金第二批 · 助成金・事後精算補助 · 株式希薄化なし（エクイティフリー））— 松江区データ要素特別資金管理弁法に基づき、認定プロジェクトに対して助成金を交付。ステータス：2026年公募公表済み（締切日の確認要）。時期：2026年第2期通知は8月に公布（現在の受付状況を確認のこと）。"
+msgstr ":doc:`2026年松江区データ要素特別資金（第2期） </funding/songjiang-data-2026>` （2026松江区数据要素专项资金第二批 · 助成金・事後精算補助 · 株式の提供不要）— 松江区データ要素特別資金管理弁法に基づき、認定プロジェクトに対して助成金を交付。ステータス：2026年公募公表済み（締切日の確認要）。時期：2026年第2期通知は8月に公布（現在の受付状況を確認のこと）。"
 
 #: ../../districts/songjiang.rst:52
 msgid ":doc:`Also compare citywide funding </funding>`"

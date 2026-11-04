@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Shanghai Ecosystem Atlas 2026.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 06:41+0000\n"
+"POT-Creation-Date: 2026-11-04 07:48+0000\n"
 "PO-Revision-Date: 2026-11-04 00:00+0000\n"
 "Last-Translator: Vikrant Rathore & contributors\n"
 "Language-Team: ko\n"
@@ -22,7 +22,7 @@ msgstr "2026 상하이 '모수선청' 컴퓨팅·모델·코퍼스 바우처"
 
 #: ../../funding/municipal-ai-vouchers.rst:4
 msgid "Reimbursement | Citywide / global"
-msgstr "비용 환급 지원 | 전시 / 글로벌"
+msgstr "비용 환급 지원 | 상하이 전역 / 글로벌"
 
 #: ../../funding/municipal-ai-vouchers.rst:6
 msgid "First 2026 batch closed; later batches to verify"
@@ -30,10 +30,10 @@ msgstr "2026년 1차 마감됨; 후속 차수 일정 확인 필요"
 
 #: ../../funding/municipal-ai-vouchers.rst:8
 msgid ""
-"`Evidence S104 "
+"`Evidence S111 "
 "<https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. "
 "上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
-msgstr "`근거 S104 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
+msgstr "`근거 S111 <https://sheitc.sh.gov.cn/cyfz/20260507/cd1dcb1e5cb4449cbc36c69befafcc0a.html>`_. 上海市经济信息化委关于组织2026年度上海市“模塑申城”工程相关补贴申报工作的通知."
 
 #: ../../funding/municipal-ai-vouchers.rst:10
 msgid "Amount and mechanism"
@@ -45,7 +45,7 @@ msgstr "공인 플랫폼을 통한 컴퓨팅 자원, 모델 토큰(Token) 사용
 
 #: ../../funding/municipal-ai-vouchers.rst:15
 msgid "No equity"
-msgstr "지분 취득 없음"
+msgstr "지분 제공 의무 없음"
 
 #: ../../funding/municipal-ai-vouchers.rst:17
 msgid "Eligibility and timing"
@@ -56,13 +56,13 @@ msgid ""
 "Qualifying Shanghai AI model or agent developers and users purchasing "
 "eligible non-related-party services. Projects already receiving other "
 "municipal fiscal subsidy are excluded."
-msgstr "상하이시 인공지능 산업 발전 지침에 부합하며 플랫폼 지정 공급사의 자원을 활용하는 적격 AI 개발사 및 연구팀."
+msgstr "비관계사로부터 적격 서비스를 구매하는 상하이 AI 모델·에이전트 개발사 및 이용 기업이 대상입니다. 다른 시 재정 보조금을 받은 프로젝트는 제외됩니다."
 
 #: ../../funding/municipal-ai-vouchers.rst:22
 msgid ""
 "First batch closed 27 May 2026, 16:00 China Standard Time; notice plans "
 "quarterly follow-ups"
-msgstr "2026년도 상하이시 경제정보화위원회 공고 일정 확인 필요"
+msgstr "1차 접수 2026년 5월 27일 16:00(중국 표준시) 마감; 공고상 분기별 후속 접수 예정"
 
 #: ../../funding/municipal-ai-vouchers.rst:24
 msgid "Contact and application"
