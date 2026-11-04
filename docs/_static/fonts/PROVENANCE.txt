@@ -1,0 +1,22 @@
+Shanghai Ecosystem Atlas — Bundled Web and PDF Fonts
+
+1. DM Sans (400, 500, 600, 700) — docs/_static/fonts/dm-sans-*.ttf
+   License: SIL Open Font License 1.1 (dmsans-OFL.txt).
+
+2. Libre Caslon Display (400) — docs/_static/fonts/libre-caslon-display.ttf
+   License: SIL Open Font License 1.1 (librecaslondisplay-OFL.txt).
+
+3. Libertinus Serif & Libertinus Sans (7.051) — docs/_static/fonts/Libertinus*.woff2 & docs/fonts/Libertinus*.otf
+   Source: https://github.com/alerque/libertinus/releases/tag/v7.051
+   License: SIL Open Font License 1.1 (libertinus-OFL.txt).
+
+4. Noto Serif CJK (2.003, SC / JP / KR) & Web WOFF2 subsets — docs/fonts/NotoSerifCJK*.otf & docs/_static/fonts/Noto-{zh,ja,ko}-*.woff2
+   Source: https://github.com/notofonts/noto-cjk/tree/Serif2.003/Serif/OTF
+   License: SIL Open Font License 1.1 (OFL-CJK.txt).
+
+5. Noto Serif Devanagari & Noto Sans Devanagari — docs/_static/fonts/Noto*Devanagari-*.ttf, Noto-hi-*.woff2 & docs/fonts/Noto*Devanagari-*.ttf
+   Source: https://github.com/google/fonts/tree/main/ofl/notoserifdevanagari
+   License: SIL Open Font License 1.1 (OFL-Devanagari.txt).
+
+6. DejaVu Sans & DejaVu Sans Mono — docs/fonts/DejaVu*.ttf
+   License: Bitstream Vera / Arev / Public Domain (LICENSE-DejaVu.txt).
