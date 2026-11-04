@@ -670,6 +670,14 @@
       "returnee-services": {
         "name": "विदेश से लौटे उद्यमियों के लिए शंघाई सेवा केंद्र",
         "summary": "2026 के नगरपालिका नियम पात्र विदेश-शिक्षित लौटने वालों के लिए प्रतिभा विभाग और ज़िला सेवा केंद्र तय करते हैं; शर्तें पूरी करने वाले विदेशी नागरिकता प्राप्त लोग भी शामिल हो सकते हैं। पात्रता मान्यता और स्टार्टअप पार्क सेवाओं के बाद अलग सहायता आवेदन किए जा सकते हैं। यह श्रेणी हर विदेशी संस्थापक पर लागू नहीं होती और अनुदान या निवास परमिट स्वतः नहीं मिलता।"
+      },
+      "waigaoqiao-fudan": {
+        "name": "वाइगाओछियाओ फ़ुदान साइंस पार्क जैवचिकित्सा नवाचार केंद्र",
+        "summary": "फ़ुदान साइंस पार्क वाइगाओछियाओ के 8 जियाफेंग रोड पर जैवचिकित्सा इनक्यूबेशन और शोध व्यावसायीकरण केंद्र चलाता है। AI से दवा खोजने वाली टीमें प्रयोगशाला और शोध सहयोग तलाश सकती हैं; यह संपादकीय सुझाव है, सत्यापित AI-विशेष भर्ती नहीं। विदेशी कंपनियाँ पहले स्थानीय विदेशी-निवेशित इकाई की आवश्यकता पूछें, फिर प्रवेश, बौद्धिक संपदा, प्रयोगशाला और शुल्क की पुष्टि करें। कोई मानक अनुदान या स्वतः पात्रता स्थापित नहीं है।"
+      },
+      "waigaoqiao-innovation": {
+        "name": "वाइगाओछियाओ बॉन्डेड R&D और AI-स्वास्थ्य नवाचार सेवाएँ",
+        "summary": "2025–2026 की योजना AI दवा खोज, सीमा-पार चिकित्सा उपकरण R&D, उन्नत उपकरण नवाचार और विदेशी-निवेशित R&D केंद्रों का स्पष्ट समर्थन करती है। विदेशी AI और हार्डवेयर कंपनियाँ स्थानीय शोध, परीक्षण और व्यावसायीकरण के लिए प्राधिकरण से संपर्क कर सकती हैं। खर्च से पहले संचालक, कानूनी इकाई, सीमा-शुल्क क्षेत्र, क्षेत्रीय अनुमतियाँ और डेटा नियम जाँचें। यह सेवा और सहयोग का मार्ग है, नकद पुरस्कार का प्रस्ताव नहीं।"
       }
     },
     "universities": {
@@ -1146,6 +1154,24 @@
         "amount": "प्रबंधक की समीक्षा के बाद शुरुआती निवेश; सभी के लिए तय निवेश राशि या हिस्सेदारी प्रतिशत की पुष्टि नहीं",
         "eligibility": "फंड के उद्देश्य के अनुरूप युवा-नेतृत्व वाली शुरुआती AI परियोजनाएँ। अगस्त 2026 का शिविर नोटिस निवेश गतिविधि और आयोजकों की पुष्टि करता है, लगातार खुले आवेदन या सुनिश्चित अनुदान की नहीं। जिम्मेदार प्रबंधक, चयन दस्तावेज़, स्थानीय संचालन शर्तें और टर्म शीट माँगें।",
         "deadline": "प्रबंधक द्वारा परियोजना चयन और ड्यू डिलिजेंस"
+      },
+      "lingang-ai-tools": {
+        "name": "लिन-गांग OPC AI उपकरण सेवा व्यय सहायता",
+        "amount": "पात्र AI उपकरण सेवा लागत का अधिकतम 80%; सीमा और शर्तें कार्यान्वयन नोटिस से तय होंगी",
+        "eligibility": "मार्च 2026 के उपायों के तहत स्वीकृत सेवाएँ खरीदने वाले पात्र OPC। विदेशी संस्थापक स्थानीय इकाई, समुदाय मान्यता, चालान और आपूर्तिकर्ता नियमों की पुष्टि करें। विदेशी स्वामित्व या विदेशी मूल कंपनी अपने आप अनुदान की पात्रता नहीं देता; लिखित प्रक्रिया जाँचें।",
+        "deadline": "मौजूदा कार्यान्वयन निर्देश और आवेदन अवधि की पुष्टि करें"
+      },
+      "lingang-open-source-ai": {
+        "name": "लिन-गांग OPC ओपन-सोर्स AI उपकरण विकास पुरस्कार",
+        "amount": "पात्र AI उपकरण विकसित कर प्रमुख अंतरराष्ट्रीय ओपन-सोर्स प्लेटफॉर्म पर सूचीबद्ध करने पर सालाना अधिकतम 10 लाख RMB",
+        "eligibility": "मार्च 2026 के OPC उपायों में अलग डेवलपर पुरस्कार, AI सेवाएँ खरीदने की प्रतिपूर्ति नहीं। प्रकाशन, मूल्यांकन और स्थानीय संचालन की शर्तें पूछें। विदेशी टीमें आवेदक इकाई के लिए लिखित पात्रता लें; केवल विदेशी रिपॉज़िटरी पर प्रकाशित करना पर्याप्त नहीं है।",
+        "deadline": "मौजूदा कार्यान्वयन निर्देश और आवेदन अवधि की पुष्टि करें"
+      },
+      "pudong-foreign-rd": {
+        "name": "पुदोंग विदेशी-निवेशित R&D और खुला नवाचार सहायता",
+        "amount": "लागू मान्यता और वित्तपोषण नियमों के अनुसार सशर्त R&D केंद्र सहायता; कोई समान नकद सीमा स्थापित नहीं",
+        "eligibility": "2025 के उपाय पात्र विदेशी-निवेशित R&D केंद्रों और खुले नवाचार केंद्रों (GOI) का स्पष्ट समर्थन करते हैं। पुदोंग या वाइगाओछियाओ में शोध केंद्र चाहने वाली AI और हार्डवेयर कंपनियों के लिए प्रासंगिक। केवल विदेशी मूल कंपनी पर्याप्त नहीं; स्थानीय पंजीकरण, मान्यता, परियोजना स्थान, क्षेत्रीय सीमाएँ और वास्तविक आवेदन नोटिस पुदोंग वाणिज्य प्राधिकरण से जाँचें।",
+        "deadline": "नीति 31 दिसंबर 2027 तक; कार्यान्वयन आवेदन नोटिस की पुष्टि करें"
       }
     },
     "labels": {
@@ -2080,6 +2106,14 @@
       "returnee-services": {
         "name": "Ventanillas de emprendimiento para retornados del extranjero en Shanghái",
         "summary": "La normativa municipal de 2026 identifica la autoridad de talento y las ventanillas distritales para retornados elegibles, incluidas personas que adquirieron nacionalidad extranjera y cumplen los requisitos. La acreditación y los servicios de parques pueden facilitar solicitudes de apoyo independientes. No abarca a todo fundador extranjero ni concede automáticamente una subvención o permiso de residencia."
+      },
+      "waigaoqiao-fudan": {
+        "name": "Centro de Innovación Biomédica del Parque Científico Fudan en Waigaoqiao",
+        "summary": "Fudan Science Park gestiona este centro de incubación y transferencia biomédica en Jiafeng Road 8, Waigaoqiao. Los equipos de descubrimiento de fármacos con IA pueden explorar alianzas de laboratorio y transferencia; es una orientación editorial, no una convocatoria específica de IA verificada. Las empresas extranjeras deben confirmar si necesitan constituir una entidad local con inversión extranjera, y consultar admisión, propiedad intelectual, acceso y tarifas. No se acredita una subvención general ni elegibilidad automática por ser extranjero."
+      },
+      "waigaoqiao-innovation": {
+        "name": "Servicios de I+D en régimen aduanero e innovación sanitaria con IA de Waigaoqiao",
+        "summary": "El plan 2025–2026 apoya expresamente el descubrimiento de fármacos con IA, la I+D transfronteriza de dispositivos médicos, equipos avanzados y centros de I+D con inversión extranjera. Empresas extranjeras de IA y hardware pueden explorar investigación, ensayos y transferencia locales mediante la autoridad. Confirmar operador, entidad jurídica, perímetro aduanero, permisos sectoriales y tratamiento de datos antes de gastar. Es una vía de servicios y colaboración, no una promesa de efectivo."
       }
     },
     "universities": {
@@ -2556,6 +2590,24 @@
         "amount": "Inversión inicial sujeta a revisión del gestor; sin importe o porcentaje de participación universal verificado",
         "eligibility": "Proyectos iniciales de IA liderados por jóvenes y acordes al mandato del fondo. El anuncio del campamento de agosto de 2026 documenta inversión y organizadores, no admisión permanente ni una subvención garantizada. Solicitar gestor responsable, documentación de selección, condiciones de operación local y hoja de términos.",
         "deadline": "Selección de proyectos y diligencia debida por el gestor"
+      },
+      "lingang-ai-tools": {
+        "name": "Apoyo de Lin-gang al coste de servicios de herramientas de IA para OPC",
+        "amount": "Hasta el 80 % de los costes elegibles de servicios de herramientas de IA; límites y condiciones según la norma de ejecución",
+        "eligibility": "OPC elegibles que adquieren servicios aprobados conforme a las medidas de marzo de 2026. Los equipos fundados por extranjeros deben confirmar entidad local, reconocimiento de la comunidad, facturas y proveedores. La inversión extranjera o una matriz extranjera no bastan para obtener la ayuda; verificar el procedimiento escrito vigente.",
+        "deadline": "Confirmar las normas de ejecución y la convocatoria vigentes"
+      },
+      "lingang-open-source-ai": {
+        "name": "Incentivo de Lin-gang al desarrollo de herramientas de IA de código abierto para OPC",
+        "amount": "Incentivo anual de hasta 1 millón de RMB por desarrollo elegible de herramientas de IA y publicación en grandes plataformas internacionales de código abierto",
+        "eligibility": "Incentivo independiente para desarrolladores conforme a las medidas OPC de marzo de 2026; distinto del reembolso por comprar servicios de IA. Confirmar publicación, evaluación y operación local. Los equipos extranjeros deben obtener confirmación escrita de elegibilidad para la entidad solicitante; publicar en un repositorio extranjero no basta.",
+        "deadline": "Confirmar las normas de ejecución y la convocatoria vigentes"
+      },
+      "pudong-foreign-rd": {
+        "name": "Apoyo de Pudong a la I+D con inversión extranjera y la innovación abierta",
+        "amount": "Apoyo condicionado a centros de I+D según las normas de acreditación y financiación; sin un límite de efectivo universal verificado",
+        "eligibility": "Las medidas de 2025 apoyan expresamente centros de I+D elegibles con inversión extranjera y centros de innovación abierta (GOI) de empresas de capital extranjero. Relevante para empresas de IA y hardware que estudian investigar en Pudong o Waigaoqiao. Una matriz extranjera no basta: confirmar registro local, acreditación, ubicación, restricciones sectoriales y convocatoria con la autoridad comercial de Pudong.",
+        "deadline": "Normativa hasta el 31 de diciembre de 2027; confirmar la convocatoria de ejecución"
       }
     },
     "labels": {
@@ -3750,6 +3802,14 @@
       "returnee-services": {
         "name": "上海・海外留学帰国者向け起業相談窓口",
         "summary": "2026年の市規定は、適格な海外留学帰国者を対象に人材担当部門と各区の相談窓口を定めている。条件を満たせば外国籍を取得した人も含まれる。資格認定や起業園区サービスから個別の支援申請につながる場合がある。すべての外国人創業者が対象になるわけではなく、補助金や在留許可も自動ではない。"
+      },
+      "waigaoqiao-fudan": {
+        "name": "外高橋・復旦科技園バイオ医薬イノベーションセンター",
+        "summary": "復旦科技園が外高橋の加楓路8号で運営する、バイオ医薬の起業・事業化支援拠点。AI創薬チームも実験室や研究成果の実用化に向けた連携を検討できるが、これは編集上の提案であり、AI専用の募集を確認したものではない。外国企業は現地の外商投資企業の設立が必要か確認し、入居、知的財産、実験室利用、料金を照会する。一律の補助金や外国人創業者の自動的な受給資格は確認されていない。"
+      },
+      "waigaoqiao-innovation": {
+        "name": "外高橋の保税研究開発・AIヘルスケアイノベーション支援",
+        "summary": "2025〜2026年計画は、AI創薬、医療機器の国際共同研究開発、先端設備のイノベーション、外資研究開発機関を明示的に支援する。外国のAI・ハードウェア企業は担当当局を通じ、現地での研究、試験、事業化の連携を検討できる。支出前に運営主体、法人、税関管理区域、業種別許可、データ取扱要件を確認する。サービスと協力の窓口であり、現金給付の確約ではない。"
       }
     },
     "universities": {
@@ -4226,6 +4286,24 @@
         "amount": "運用会社が審査する初期投資。一律の出資額や持分比率は未確認",
         "eligibility": "投資方針に合う若手主導の初期AIプロジェクト。2026年8月のキャンプ公告で確認できるのは投資活動と主催者であり、通年募集や給付保証ではない。担当運用会社、選考資料、現地事業要件、投資条件書を求める。",
         "deadline": "運用会社による案件選定とデューデリジェンス"
+      },
+      "lingang-ai-tools": {
+        "name": "臨港OPC・AIツールサービス費用支援",
+        "amount": "適格なAIツールサービス費の最大80％。上限と条件は実施通知の確認が必要",
+        "eligibility": "2026年3月の措置に基づき対象サービスを購入する適格OPC。外国人創業チームは現地法人、コミュニティ認定、対象請求書、供給者要件を確認する。外国資本や海外親会社があるだけでは補助対象にならない。現行の書面手続きを確認する。",
+        "deadline": "現在の実施要領と受付期間を確認"
+      },
+      "lingang-open-source-ai": {
+        "name": "臨港OPC・オープンソースAIツール開発奨励金",
+        "amount": "適格なAIツールを開発し、主要な国際オープンソースプラットフォームに公開した場合、年間最大100万元",
+        "eligibility": "2026年3月のOPC措置にある開発者向けの独立した奨励金であり、サービス購入費の補助とは異なる。対象となる公開方法、審査、現地事業要件を確認する。外国チームは申請法人について書面の適格性確認を得る。海外リポジトリへの公開だけでは足りない。",
+        "deadline": "現在の実施要領と受付期間を確認"
+      },
+      "pudong-foreign-rd": {
+        "name": "浦東・外資研究開発とオープンイノベーション支援",
+        "amount": "認定・資金支援規則に基づく条件付きの研究開発拠点支援。一律の現金給付上限は未確認",
+        "eligibility": "2025年措置は、適格な外資研究開発センターと外資企業のオープンイノベーションセンター（GOI）を明示的に支援する。浦東や外高橋で研究拠点を検討するAI・ハードウェア企業に関連する。海外親会社があるだけでは不十分。現地登録、拠点認定、事業場所、業種制限、実際の公募を浦東の商務当局に確認する。",
+        "deadline": "政策有効期限は2027年12月31日。実施公募を確認"
       }
     }
   },
@@ -5160,6 +5238,14 @@
       "returnee-services": {
         "name": "상하이 해외 유학 귀국자 창업 서비스 창구",
         "summary": "2026년 시 규정은 적격 해외 유학 귀국자를 위한 인재 담당 부서와 구별 서비스 창구를 명시하며, 요건을 충족하면 외국 국적 취득자도 포함합니다. 자격 인정 및 창업단지 서비스를 통해 별도 지원을 신청할 수 있습니다. 모든 외국인 창업자가 귀국 인재에 해당하는 것은 아니며, 보조금이나 체류 허가도 자동으로 주어지지 않습니다."
+      },
+      "waigaoqiao-fudan": {
+        "name": "와이가오차오 푸단과기원 바이오의약 혁신센터",
+        "summary": "푸단과기원이 와이가오차오 자펑루 8호에서 운영하는 바이오의약 인큐베이션·사업화 거점입니다. AI 신약개발 팀도 실험실 및 연구 사업화 협력을 검토할 수 있으나, 이는 편집상 제안이며 AI 전용 모집을 확인한 것은 아닙니다. 외국 기업은 현지 외국인투자 법인 설립 필요 여부를 먼저 확인하고 입주, 지식재산권, 실험실 이용 및 요금을 문의해야 합니다. 공통 보조금이나 외국인 창업자의 자동 수혜 자격은 확인되지 않았습니다."
+      },
+      "waigaoqiao-innovation": {
+        "name": "와이가오차오 보세 R&D·AI 헬스케어 혁신 서비스",
+        "summary": "2025~2026년 계획은 AI 신약개발, 의료기기 국경 간 R&D, 첨단 장비 혁신 및 외국인투자 R&D 기관을 명시적으로 지원합니다. 외국 AI·하드웨어 기업은 관할 기관을 통해 현지 연구, 시험 및 사업화 협력을 검토할 수 있습니다. 비용 지출 전 운영사, 법인, 세관 관리 경계, 업종 허가 및 데이터 처리 요건을 확인해야 합니다. 서비스·협력 경로이며 현금 지원 약정이 아닙니다."
       }
     },
     "universities": {
@@ -5636,6 +5722,24 @@
         "amount": "운용사 심사를 거친 초기 투자; 공통 투자액 또는 지분율은 확인되지 않음",
         "eligibility": "펀드 투자 목적에 맞는 청년 주도 초기 AI 프로젝트가 대상입니다. 2026년 8월 캠프 공고는 투자 활동과 주최 기관을 확인해 주지만, 상시 접수나 보조금을 보장하지는 않습니다. 담당 운용사, 심사 자료, 현지 운영 요건 및 투자 조건서를 요청해야 합니다.",
         "deadline": "운용사 주도 프로젝트 발굴 및 실사"
+      },
+      "lingang-ai-tools": {
+        "name": "린강 OPC AI 도구 서비스 비용 지원",
+        "amount": "적격 AI 도구 서비스 비용의 최대 80%; 한도와 조건은 시행 공고 확인 필요",
+        "eligibility": "2026년 3월 조치에 따라 승인된 서비스를 구매하는 적격 OPC가 대상입니다. 외국인 창업팀은 현지 법인, 커뮤니티 인정, 적격 증빙 및 공급자 요건을 확인해야 합니다. 외국 지분이나 해외 모회사만으로 보조금 자격이 생기지는 않으며 현행 서면 절차를 확인해야 합니다.",
+        "deadline": "현행 시행 지침 및 접수 기간 확인"
+      },
+      "lingang-open-source-ai": {
+        "name": "린강 OPC 오픈소스 AI 도구 개발 장려금",
+        "amount": "적격 AI 도구 개발 및 주요 국제 오픈소스 플랫폼 공개에 대해 연간 최대 100만 위안",
+        "eligibility": "2026년 3월 OPC 조치의 별도 개발자 장려금으로, AI 서비스 구매비 환급과 다릅니다. 적격 공개, 평가 및 현지 운영 요건을 확인해야 합니다. 외국 팀은 신청 법인의 자격을 서면으로 확인받아야 하며 해외 저장소 공개만으로는 충분하지 않습니다.",
+        "deadline": "현행 시행 지침 및 접수 기간 확인"
+      },
+      "pudong-foreign-rd": {
+        "name": "푸둥 외국인투자 R&D·개방형 혁신 지원",
+        "amount": "관련 인정 및 자금 규정에 따른 조건부 R&D 센터 지원; 공통 현금 한도는 확인되지 않음",
+        "eligibility": "2025년 조치는 적격 외국인투자 R&D 센터와 외국인투자 기업의 개방형 혁신센터(GOI)를 명시적으로 지원합니다. 푸둥이나 와이가오차오 연구 거점을 검토하는 AI·하드웨어 기업에 관련됩니다. 해외 모회사만으로는 부족하며, 현지 등록, 센터 인정, 과제 소재지, 업종 제한 및 실제 자금 공고를 푸둥 상무 담당 기관에 확인해야 합니다.",
+        "deadline": "정책 유효기간 2027년 12월 31일까지; 시행 공고 확인"
       }
     }
   },
@@ -6570,6 +6674,14 @@
       "returnee-services": {
         "name": "Shanghaier Servicestellen für Gründungen von Auslandsrückkehrern",
         "summary": "Die städtischen Regeln 2026 nennen Talentbehörde und Bezirksservicestellen für berechtigte Auslandsrückkehrer, einschließlich qualifizierter Personen mit inzwischen ausländischer Staatsangehörigkeit. Anerkennung und Gründungsparkservices können zu getrennten Förderanträgen führen. Nicht jeder ausländische Gründer zählt als Rückkehrer. Weder Zuschuss noch Aufenthaltstitel werden automatisch gewährt."
+      },
+      "waigaoqiao-fudan": {
+        "name": "Waigaoqiao: Biomedizinisches Innovationszentrum des Fudan Science Park",
+        "summary": "Fudan Science Park betreibt an der Jiafeng Road 8 in Waigaoqiao ein Zentrum für biomedizinische Gründungen und Verwertung. Teams für KI-gestützte Wirkstoffforschung können Labor- und Transferpartnerschaften prüfen. Dies ist eine redaktionelle Zuordnung, keine bestätigte KI-Ausschreibung. Ausländische Unternehmen sollten klären, ob eine lokal gegründete Gesellschaft mit ausländischer Beteiligung erforderlich ist, und Aufnahme, IP, Laborzugang und Gebühren bestätigen. Kein allgemeiner Zuschuss oder automatischer Anspruch für ausländische Gründer belegt."
+      },
+      "waigaoqiao-innovation": {
+        "name": "Waigaoqiao: Zollgebundene F&E und KI-Gesundheitsinnovation",
+        "summary": "Der Plan 2025–2026 unterstützt ausdrücklich KI-Wirkstoffforschung, grenzüberschreitende Medizintechnik-F&E, innovative Ausrüstung und ausländisch finanzierte F&E-Institute. Ausländische KI- und Hardwareunternehmen können über die Behörde lokale Forschung, Tests und Verwertung erkunden. Vor Kostenentstehung Betreiber, Rechtsträger, Zollgrenze, Branchengenehmigungen und Datenverarbeitung klären. Dies ist ein Service- und Kooperationsweg, keine Zusage einer Barauszahlung."
       }
     },
     "universities": {
@@ -7046,6 +7158,24 @@
         "amount": "Frühphaseninvestition nach Prüfung des Managers; kein allgemeiner Investitionsbetrag oder Beteiligungssatz belegt",
         "eligibility": "Junge Teams mit frühen KI-Projekten im Fondsmandat. Die Campankündigung vom August 2026 dokumentiert Investitionen und Veranstalter, keine dauerhaft offene Bewerbung oder garantierten Zuschüsse. Zuständigen Manager, Prüfunterlagen, lokale Betriebsvorgaben und Term Sheet anfordern.",
         "deadline": "Projektidentifikation und Due Diligence durch den Fondsmanager"
+      },
+      "lingang-ai-tools": {
+        "name": "Lin-gang: Zuschuss zu KI-Tool-Services für OPCs",
+        "amount": "Bis zu 80 % förderfähiger KI-Tool-Servicekosten; Obergrenzen und Bedingungen nach Durchführungsbekanntmachung",
+        "eligibility": "Berechtigte OPCs, die anerkannte technische Leistungen nach den Maßnahmen vom März 2026 beziehen. Ausländische Gründerteams sollten lokale Gesellschaft, Community-Anerkennung, Rechnungen und Anbieterregeln bestätigen. Ausländische Beteiligung oder eine ausländische Muttergesellschaft allein begründen keine Förderberechtigung. Aktuelles schriftliches Verfahren prüfen.",
+        "deadline": "Aktuelle Durchführungsregeln und Antragsrunde bestätigen"
+      },
+      "lingang-open-source-ai": {
+        "name": "Lin-gang: Prämie für quelloffene KI-Tools von OPCs",
+        "amount": "Jährlich bis zu 1 Mio. RMB für anerkannte KI-Tool-Entwicklung und Veröffentlichung auf großen internationalen Open-Source-Plattformen",
+        "eligibility": "Eigenständige Entwicklerprämie nach den OPC-Maßnahmen vom März 2026, keine Erstattung gekaufter KI-Services. Anerkannte Veröffentlichung, Bewertung und lokale Betriebsvorgaben klären. Ausländische Teams benötigen eine schriftliche Prüfung des antragstellenden Rechtsträgers; eine Veröffentlichung im Ausland allein reicht nicht.",
+        "deadline": "Aktuelle Durchführungsregeln und Antragsrunde bestätigen"
+      },
+      "pudong-foreign-rd": {
+        "name": "Pudong: Förderung ausländisch finanzierter F&E und offener Innovation",
+        "amount": "Bedingte Unterstützung für F&E-Zentren nach den jeweiligen Anerkennungs- und Förderregeln; keine allgemeine Barzuschussobergrenze belegt",
+        "eligibility": "Die Maßnahmen 2025 unterstützen ausdrücklich berechtigte ausländisch finanzierte F&E-Zentren und offene Innovationszentren ausländisch investierter Unternehmen (GOI). Relevant für KI- und Hardwareunternehmen mit geplanter Forschung in Pudong oder Waigaoqiao. Eine ausländische Muttergesellschaft allein reicht nicht. Lokale Registrierung, Anerkennung, Projektort, Branchenbeschränkungen und tatsächliche Ausschreibung mit der Pudonger Handelsbehörde klären.",
+        "deadline": "Richtlinie bis 31. Dezember 2027; konkrete Ausschreibung bestätigen"
       }
     }
   }

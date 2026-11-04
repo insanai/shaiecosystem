@@ -1487,6 +1487,41 @@
       "summaryZh": "2026年市级规定明确由人才工作部门及各区服务窗口为符合条件的留学人员提供服务，包括符合规定的入外籍人员。资格认定及创业园服务可衔接独立的支持申报。留学人员身份不涵盖所有外国创始人，也不自动带来资助或居留许可。",
       "source": "https://www.shanghai.gov.cn/nw12344/20260203/ceeb991fd16649f4b82f89906a3b5fff.html",
       "workflow": "grant"
+    },
+    {
+      "id": "waigaoqiao-fudan",
+      "name": "Waigaoqiao Fudan Science Park Biomedical Innovation Center",
+      "zh": "外高桥复旦科技园生物医药创新中心",
+      "district": "pudong",
+      "category": "Incubator",
+      "sectors": [
+        "Health",
+        "AI for Science"
+      ],
+      "summary": "Fudan Science Park operates this biomedical incubation and commercialization center at 8 Jiafeng Road in Waigaoqiao. AI-for-drug-discovery teams can explore laboratory and translational partnerships here; this is an editorial fit, not a verified dedicated AI cohort. Foreign businesses should ask whether a locally incorporated foreign-invested entity is required, then confirm admission, IP, laboratory access and fees. No standard grant or foreign-founder entitlement is established.",
+      "summaryZh": "复旦科技园在外高桥加枫路8号运营生物医药孵化与成果转化中心。AI制药团队可探索实验室及转化合作；这属于编辑对接建议，并非已核实的AI专项招募。境外企业应先确认是否须设立本地外商投资企业，再核验入驻、知识产权、实验室准入及费用。本条不承诺统一补助或外国创始人当然资格。",
+      "source": "https://fudanusp.com/solutions/17.html",
+      "website": "https://fudanusp.com/solutions/17.html",
+      "workflow": "research"
+    },
+    {
+      "id": "waigaoqiao-innovation",
+      "name": "Waigaoqiao bonded R&D and AI-health innovation services",
+      "zh": "外高桥保税研发与AI健康创新服务",
+      "district": "pudong",
+      "category": "Research platform",
+      "sectors": [
+        "AI for Science",
+        "Health",
+        "Hardware AI",
+        "Robotics"
+      ],
+      "summary": "The 2025-2026 Free Trade Bonded Park plan explicitly supports AI drug discovery, cross-border medical-device R&D, advanced-equipment innovation and foreign-funded R&D institutions. Foreign AI and hardware companies can use the authority route to explore local research, testing and commercialization arrangements. Confirm the specific operator, legal entity, customs boundary, sector permissions and data handling before incurring costs. This is a service and collaboration route; the plan is not a cash-award offer.",
+      "summaryZh": "2025-2026年自贸保税园行动方案明确支持AI制药、医疗器械跨境研发、高端装备创新及外资研发机构。境外AI和硬件企业可通过主管部门探索本地科研、测试及成果转化合作。发生费用前须核实具体运营方、法人主体、海关监管边界、行业许可及数据处理要求。本条属于服务与合作渠道，规划并非现金资助承诺。",
+      "source": "https://www.pudong.gov.cn/zwgk/ghjh-qzf/2025/100/339976.html",
+      "sourceDetail": "https://www.pudong.gov.cn/zwgk/14506.gkml_zcwj_gfxwj/2025/105/340086.html",
+      "website": "https://www.pudong.gov.cn/shftz/",
+      "workflow": "research"
     }
   ],
   "citywideFunding": [
